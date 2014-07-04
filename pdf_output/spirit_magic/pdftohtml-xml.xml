@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="918" width="594">
+	<fontspec id="0" size="100" family="Times" color="#000000"/>
+	<fontspec id="1" size="46" family="Times" color="#000000"/>
+	<fontspec id="2" size="13" family="Times" color="#000000"/>
+	<fontspec id="3" size="11" family="Times" color="#000000"/>
+	<fontspec id="4" size="8" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+<text top="72" left="97" width="423" height="111" font="0">LEGEND</text>
+<text top="165" left="141" width="335" height="52" font="1">SPIRIT MAGIC</text>
+<text top="286" left="55" width="105" height="16" font="2">Original Authors</text>
+<text top="304" left="55" width="171" height="15" font="3">Lawrence Whitaker &amp; Pete Nash</text>
+<text top="336" left="55" width="58" height="16" font="2">Developer</text>
+<text top="353" left="55" width="92" height="15" font="3">Gareth Hanrahan</text>
+<text top="385" left="55" width="38" height="16" font="2">Editor</text>
+<text top="403" left="55" width="75" height="15" font="3">Charlotte Law</text>
+<text top="435" left="55" width="162" height="16" font="2">Layout &amp; Graphic Design</text>
+<text top="452" left="55" width="78" height="15" font="3">Will Chapman</text>
+<text top="484" left="55" width="137" height="16" font="2">Interior Illustrations</text>
+<text top="502" left="55" width="408" height="15" font="3">Carlos Nunez de Castro Torres, Javier Charro, Nick Egberts &amp; Sendol Studio’s</text>
+<text top="535" left="55" width="73" height="16" font="2">Playtesters</text>
+<text top="551" left="55" width="487" height="12" font="4">Tressy Arts, Nathan Baron, Sergio Bonomo, Simon Bray, Ken Cabana, Colin Driver, David Ednie, Jessica Ednie, Ernest </text>
+<text top="563" left="55" width="479" height="12" font="4">Givens, David Groves, Paolo Guccione, Sally Head, John Hutchinson, Bruce Mason, Carl Pates, Ben Quant, Michael </text>
+<text top="575" left="55" width="460" height="12" font="4">Rieft, Nick Robinson, David Shaw, Manuele Verduci, Phill Winters, Ray Davis, Tammie Davis, Nick Davis, Tim </text>
+<text top="587" left="55" width="408" height="12" font="4">Truelove, Sandrine Thirache, James Lothian, Graham Ellis, Katrina Hepburn and Andrew McMillan</text>
+<text top="619" left="233" width="142" height="16" font="2">Copyright Information</text>
+<text top="647" left="70" width="471" height="14" font="5"><i>Legend</i> ©2011 Mongoose Publishing. All rights reserved. Reproduction of non-Open Game Content of </text>
+<text top="661" left="68" width="475" height="13" font="6">this work by any means without the written permission of the publisher is expressly forbidden. Legend is </text>
+<text top="674" left="68" width="475" height="13" font="6">presented under the Open Game Licence. See page 29 for the text of this licence. All text paragraphs and </text>
+<text top="688" left="59" width="493" height="13" font="6">tables containing game mechanics and statistics derivative of Open Game Content and the System Reference </text>
+<text top="701" left="61" width="490" height="13" font="6">Document are considered to be Open Game Content.  All other signiﬁ cant characters, names, places, items, </text>
+<text top="715" left="85" width="439" height="13" font="6">art and text herein are copyrighted by Mongoose Publishing.  All rights reserved.  Printed in USA</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="918" width="594">
+	<fontspec id="7" size="24" family="Times" color="#000000"/>
+	<fontspec id="8" size="25" family="Times" color="#000000"/>
+	<fontspec id="9" size="11" family="Times" color="#000000"/>
+<text top="879" left="15" width="5" height="30" font="7">2</text>
+<text top="79" left="117" width="339" height="53" font="1">SPIRIT MAGIC</text>
+<text top="163" left="43" width="500" height="15" font="3">Spirit Magic is the practice of animism and ancestor worship. Spirit magicians call upon spirits </text>
+<text top="179" left="43" width="500" height="15" font="3">which manifest their powers on behalf of their summoner or binder. These beings have many </text>
+<text top="195" left="43" width="500" height="15" font="3">names… dryads, nymphs, diseases, ghosts, nightmares, elementals, ancestors; yet in truth, are all </text>
+<text top="211" left="43" width="500" height="15" font="3">sentient fragments of magical energy from which everything is derived. A spirit does not teach </text>
+<text top="228" left="43" width="185" height="15" font="3">or use magic, rather they are magic.</text>
+<text top="244" left="43" width="3" height="15" font="3"> </text>
+<text top="260" left="43" width="499" height="15" font="3">Spirits ﬂ ow between the mundane plane and the spirit plane, eternally transferring the power of </text>
+<text top="276" left="43" width="239" height="15" font="3">magic to the mundane world and back again. </text>
+<text top="309" left="43" width="500" height="15" font="3">Spirit  magicians  interact  with  these  beings,  utilising  the  spirit’s  magic  to  augment  or  protect </text>
+<text top="325" left="43" width="500" height="15" font="3">themselves. Such sentient immaterial beings are powerful allies, being capable of independent </text>
+<text top="341" left="43" width="345" height="15" font="3">action and manifesting their powers for unlimited periods of time.</text>
+<text top="379" left="43" width="173" height="31" font="8">The  Spirit Plane</text>
+<text top="410" left="43" width="500" height="15" font="3">The spirit world is a place which exists tangentially to the material world. Nothing physical can </text>
+<text top="426" left="43" width="500" height="15" font="3">exist there, only the immaterial. The spirit world is populated by many spirits, which are linked </text>
+<text top="442" left="43" width="500" height="15" font="3">to the natural geographical features, animals and plants of the material world. Also present are </text>
+<text top="459" left="43" width="500" height="15" font="3">the faint <i>souls</i> of mortal beings whose spirits are still bound to a material body. These appear as </text>
+<text top="475" left="43" width="199" height="15" font="3">pale shadows and are hard to perceive.</text>
+<text top="507" left="43" width="500" height="15" font="3">The landscape of the spirit plane is abstract, similar to the terrain of its counterpart, but the size, </text>
+<text top="523" left="43" width="500" height="15" font="3">colour and vividness of individual features are dependent on the spirits that inhabit it. Thus a </text>
+<text top="540" left="43" width="500" height="15" font="3">wild, craggy mountain in the real world may appear as a tremendous spirit on the spirit plane, </text>
+<text top="556" left="43" width="471" height="15" font="3">whereas an urbanised region might show as grey lifeless area full of translucent apparitions.</text>
+<text top="588" left="43" width="500" height="15" font="3">A soul or spirit which inhabits a physical body or item is deﬁ ned as being <i>corporeal</i>. A corporeal </text>
+<text top="604" left="43" width="500" height="15" font="3">spirit cannot enter the spirit world until drawn forth from its material residence. A soul pulled </text>
+<text top="621" left="43" width="500" height="15" font="3">from its physical body up onto the spirit plane, or a spirit which resides there, is considered </text>
+<text top="637" left="43" width="500" height="15" font="9"><i>discorporate</i>. Whilst discorporate, souls are separated from the senses and sensations of their </text>
+<text top="653" left="43" width="29" height="15" font="3">body.</text>
+<text top="691" left="43" width="256" height="31" font="8"> How Spirit Magic Works</text>
+<text top="722" left="43" width="500" height="15" font="3">Spirit magicians do not use spells to ﬁ nd or inﬂ uence the spirits from which their power derives. </text>
+<text top="738" left="43" width="500" height="15" font="3">Instead they learn two mystical skills, Spirit Walking and Spirit Binding. The ﬁ rst enables them to </text>
+<text top="754" left="43" width="500" height="15" font="3">perceive spirits and spiritually enter the Spirit Plane. The second allows them to summon, bind and </text>
+<text top="771" left="43" width="173" height="15" font="3">dominate spirits in spirit combat. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="918" width="594">
+	<fontspec id="10" size="20" family="Times" color="#000000"/>
+<text top="879" left="576" width="5" height="30" font="7">3</text>
+<text top="32" left="55" width="257" height="26" font="10"> Spirit Walking (POW+CON)</text>
+<text top="56" left="55" width="500" height="15" font="3">This skill represents the spirit magician’s awareness of the Spirit Plane and its denizens. Anyone </text>
+<text top="72" left="55" width="500" height="15" font="3">with this skill can, with a successful roll, detect (but not observe) the presence of spirits within </text>
+<text top="88" left="55" width="500" height="15" font="3">a range of their POW in metres. The skill is capable of far more – but such secrets are jealously </text>
+<text top="104" left="55" width="500" height="15" font="3">guarded by tribal shamans and only revealed to those who progress higher in a spirit cult’s </text>
+<text top="120" left="55" width="500" height="15" font="3">hierarchy. Each further level of knowledge allows the skill to be used in new ways, permitting </text>
+<text top="137" left="55" width="422" height="15" font="3">observation, communication and eventually freedom to travel the Spirit Plane. </text>
+<text top="169" left="55" width="499" height="15" font="3">Utilising any of the following abilities requires entering a trance-like state, which takes a number of </text>
+<text top="185" left="55" width="499" height="15" font="3">minutes equal to the Species Maximum POW minus their Characteristic POW and costs a single </text>
+<text top="201" left="55" width="64" height="15" font="3">Magic Point.</text>
+<text top="234" left="55" width="500" height="15" font="3">If the Skill Test is successful then the spirit magician can perform the following dependant on </text>
+<text top="250" left="55" width="45" height="15" font="3">his rank:</text>
+<text top="283" left="55" width="15" height="12" font="3">X </text>
+<text top="282" left="81" width="272" height="15" font="3">Follower – Can see and identify spirits within range.</text>
+<text top="299" left="55" width="15" height="12" font="3">X </text>
+<text top="299" left="81" width="282" height="15" font="3">Votary/Seer – Can communicate with spirits within range.</text>
+<text top="316" left="55" width="15" height="12" font="3">X </text>
+<text top="315" left="81" width="310" height="15" font="3">Shaman – Can project their own soul onto the Spirit Plane.</text>
+<text top="332" left="55" width="16" height="12" font="3">X </text>
+<text top="331" left="81" width="474" height="15" font="3">High Shaman – Can drag the souls of others onto the Spirit Plane with them, at a cost </text>
+<text top="347" left="81" width="474" height="15" font="3">of 1 extra Magic Point per additional person. Unwilling participants resist using their </text>
+<text top="363" left="81" width="440" height="15" font="3">Persistence in an opposed roll against the Spirit Walking skill of the High Shaman.</text>
+<text top="396" left="55" width="500" height="15" font="3">Shaman and High Shaman may travel the Spirit Plane to observe and locate other spirits. The </text>
+<text top="412" left="55" width="500" height="15" font="3">skill provides an abstract understanding of the geography and nature of the region and the </text>
+<text top="428" left="55" width="500" height="15" font="3">shaman can travel up to his skill’s value in kilometres away from his body. From the Spirit </text>
+<text top="444" left="55" width="500" height="15" font="3">Plane a shaman who succeeds in a Perception test, can also distinguish the spirits of corporeal </text>
+<text top="461" left="55" width="500" height="15" font="3">creatures in the material world and thus hunt for particular species or even seek out speciﬁ c </text>
+<text top="477" left="55" width="38" height="15" font="3">people.</text>
+<text top="509" left="55" width="500" height="15" font="3">If the roll is a critical success then entering the trance is achieved in a single minute. If the roll is </text>
+<text top="525" left="55" width="387" height="15" font="3">fumbled, the shaman is barred from entering the spirit plane for a full day.</text>
+<text top="562" left="55" width="250" height="26" font="10"> Spirit Binding (POW+CHA)</text>
+<text top="585" left="55" width="500" height="15" font="3">Spirit  Binding  is  used  to  bind  spirits  into  fetishes  and  control  their  actions  once  bound. </text>
+<text top="601" left="55" width="500" height="15" font="3">Additionally, it can be used to summon and coerce a known spirit to perform a single deed for </text>
+<text top="617" left="55" width="499" height="15" font="3">a mutually acceptable service. The POW of the largest spirit which can be bound or controlled </text>
+<text top="633" left="55" width="499" height="15" font="3">cannot exceed three times the critical range of this skill. Thus a character with a Spirit Binding </text>
+<text top="650" left="55" width="268" height="15" font="3">skill of 45% could control spirits of up to 15 POW.</text>
+<text top="682" left="55" width="500" height="15" font="3">The  binding  skill  is  also  used  for  spirit  combat  –  using  mental  domination  to  overcome </text>
+<text top="698" left="55" width="500" height="15" font="3">immaterial beings in a battle of willpower. In this case the value of the Spirit Binding skill is </text>
+<text top="714" left="55" width="499" height="15" font="3">used to calculate the amount of damage inﬂ icted by the spirit magician during spirit combat. </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="918" width="594">
+	<fontspec id="11" size="16" family="Times" color="#000000"/>
+	<fontspec id="12" size="11" family="Times" color="#000000"/>
+	<fontspec id="13" size="16" family="Times" color="#000000"/>
+<text top="879" left="15" width="5" height="30" font="7">4</text>
+<text top="31" left="43" width="108" height="21" font="11"><i><b>Spirit Damage</b></i></text>
+<text top="55" left="47" width="58" height="15" font="12"><b>Skill Value</b></text>
+<text top="55" left="231" width="167" height="15" font="12"><b>Magic Point Damage Inﬂ icted</b></text>
+<text top="74" left="47" width="34" height="15" font="3">01–20</text>
+<text top="74" left="231" width="24" height="15" font="3">1D2</text>
+<text top="92" left="47" width="34" height="15" font="3">21–40</text>
+<text top="92" left="231" width="24" height="15" font="3">1D4</text>
+<text top="111" left="47" width="34" height="15" font="3">41–60</text>
+<text top="111" left="231" width="24" height="15" font="3">1D6</text>
+<text top="129" left="47" width="34" height="15" font="3">61–80</text>
+<text top="129" left="231" width="24" height="15" font="3">1D8</text>
+<text top="147" left="47" width="41" height="15" font="3">81–100</text>
+<text top="147" left="231" width="31" height="15" font="3">1D10</text>
+<text top="166" left="47" width="47" height="15" font="3">101–120</text>
+<text top="166" left="231" width="24" height="15" font="3">2D6</text>
+<text top="184" left="47" width="47" height="15" font="3">121–140</text>
+<text top="184" left="231" width="24" height="15" font="3">2D8</text>
+<text top="202" left="47" width="47" height="15" font="3">141–160</text>
+<text top="202" left="231" width="31" height="15" font="3">2D10</text>
+<text top="221" left="47" width="47" height="15" font="3">161–180</text>
+<text top="221" left="231" width="31" height="15" font="3">2D12</text>
+<text top="239" left="47" width="47" height="15" font="3">181–200</text>
+<text top="239" left="231" width="31" height="15" font="3">3D10</text>
+<text top="270" left="43" width="500" height="15" font="3">If the Spirit Binding roll is a critical success, then maximum damage is inﬂ icted. If the roll is a </text>
+<text top="286" left="43" width="500" height="15" font="3">fumble, then the shaman overstrain’s himself and sustains the rolled damage to his own Magic </text>
+<text top="302" left="43" width="35" height="15" font="3">Points!</text>
+<text top="336" left="43" width="76" height="20" font="13">The Fetch</text>
+<text top="356" left="43" width="500" height="15" font="3">A fetch is a shaman’s guardian spirit, which is usually related in form or nature to the totem spirit </text>
+<text top="372" left="43" width="500" height="15" font="3">of his tribe or cult. In order to become a shaman, a spirit magician must ﬁ rst locate his fetch </text>
+<text top="389" left="43" width="500" height="15" font="3">in a dangerous initiation ritual. Such spirit-quests involve the re-enactment of his cult’s mythic </text>
+<text top="405" left="43" width="500" height="15" font="3">foundation to locate his guardian and culminate in a dangerous battle against the traditional </text>
+<text top="421" left="43" width="114" height="15" font="3">enemy of his practice.</text>
+<text top="453" left="43" width="499" height="15" font="3">The fetch aids the shaman, protecting and guiding him in the spirit world. It is in every way his </text>
+<text top="470" left="43" width="71" height="15" font="3">spirit brother.</text>
+<text top="502" left="43" width="138" height="15" font="3">The beneﬁ ts of a fetch are:</text>
+<text top="535" left="43" width="15" height="12" font="3">X </text>
+<text top="534" left="68" width="447" height="15" font="3">The shaman can see spirits, souls and magical auras without needing to enter a trance.</text>
+<text top="552" left="43" width="15" height="12" font="3">X </text>
+<text top="551" left="68" width="394" height="15" font="3">The shaman can transfer the Magic Points of the fetch to replenish his own.</text>
+<text top="568" left="43" width="15" height="12" font="3">X </text>
+<text top="567" left="68" width="474" height="15" font="3">The fetch can discorporate the soul of a mundane living being, who may resist with an </text>
+<text top="583" left="68" width="362" height="15" font="3">opposed roll of his Persistence against the spirit’s Discorporation skill.</text>
+<text top="600" left="43" width="15" height="12" font="3">X </text>
+<text top="599" left="68" width="413" height="15" font="3">The fetch can possess the shaman’s body whilst he is discorporate, protecting it.</text>
+<text top="616" left="43" width="15" height="12" font="3">X </text>
+<text top="615" left="68" width="474" height="15" font="3">The  fetch  can  substitute  itself  instead  of  the  Shaman  in  spirit  combat  (if  in  the  same </text>
+<text top="632" left="68" width="50" height="15" font="3">location).</text>
+<text top="649" left="43" width="15" height="12" font="3">X </text>
+<text top="648" left="68" width="474" height="15" font="3">The  fetch  and  shaman  are  in  permanent  mental  contact  and  are  aware  of  each  other's </text>
+<text top="664" left="68" width="34" height="15" font="3">senses.</text>
+<text top="681" left="43" width="15" height="12" font="3">X </text>
+<text top="680" left="68" width="474" height="15" font="3">The shaman may invoke any power or ability his fetch knows and likewise the fetch may </text>
+<text top="696" left="68" width="234" height="15" font="3">cast any Common Magic the shaman knows.</text>
+<text top="714" left="43" width="15" height="12" font="3">X </text>
+<text top="713" left="68" width="393" height="15" font="3">The bond between shaman and fetch is not vulnerable to magical dismissal.</text>
+<text top="745" left="43" width="154" height="15" font="3">The detriments of a fetch are:</text>
+<text top="778" left="43" width="15" height="12" font="3">X </text>
+<text top="777" left="68" width="474" height="15" font="3">The fetch may inﬂ uence the personality of the shaman depending on its totem nature (a </text>
+<text top="794" left="68" width="409" height="15" font="3">bear spirit fetch may cause the shaman to become soporiﬁ c during the winter).</text>
+<text top="811" left="43" width="15" height="12" font="3">X </text>
+<text top="810" left="68" width="418" height="15" font="3">The fetch may draw upon the Magic Points of the shaman in times of dire need.</text>
+<text top="827" left="43" width="15" height="12" font="3">X </text>
+<text top="826" left="68" width="459" height="15" font="3">The fetch will abandon the shaman if he betrays the teachings of his shamanic tradition.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="918" width="594">
+	<fontspec id="14" size="13" family="Times" color="#000000"/>
+<text top="879" left="576" width="5" height="30" font="7">5</text>
+<text top="32" left="55" width="500" height="15" font="3">A fetch starts with 200 skill points to be assigned to its skills. Fetches can grow in experience just </text>
+<text top="49" left="55" width="500" height="15" font="3">as the shaman does. If desired, a shaman can transfer any or all of his skill improvement rolls to </text>
+<text top="65" left="55" width="91" height="15" font="3">his fetch instead. </text>
+<text top="103" left="55" width="299" height="31" font="8"> Locating and Gaining Spirits</text>
+<text top="134" left="55" width="500" height="15" font="3">Spirits can be found in the spirit world inhabiting objects or locations relevant to their elemental </text>
+<text top="150" left="55" width="500" height="15" font="3">source, be it an animal or object. Most are found in remote places where they can dwell without </text>
+<text top="166" left="55" width="500" height="15" font="3">the magical disturbances which accompany higher civilisation or the crowding of other, possibly </text>
+<text top="182" left="55" width="500" height="15" font="3">hostile, types of spirit. Often the location is a place of striking or beautiful appearance but in the </text>
+<text top="199" left="55" width="500" height="15" font="3">case of more transient elements or creatures the locale can shift. River spirits, for example, will </text>
+<text top="215" left="55" width="500" height="15" font="3">obviously be found in rivers and streams, but they could be located anywhere along these from </text>
+<text top="231" left="55" width="129" height="15" font="3">the source to the mouth.</text>
+<text top="263" left="55" width="500" height="15" font="3">Locating a spirit normally requires a shaman to travel on the Spirit Plane to seek out a suitable </text>
+<text top="280" left="55" width="500" height="15" font="3">specimen. In some cases a spirit can be stumbled upon by complete accident, in others the </text>
+<text top="296" left="55" width="446" height="15" font="3">home of a speciﬁ c spirit may be a secret known to the seeker’s shamanic tradition.</text>
+<text top="328" left="55" width="500" height="15" font="3">Once located, the magician may attempt to gain control over the spirit, either by negotiation </text>
+<text top="344" left="55" width="59" height="15" font="3">or binding.</text>
+<text top="381" left="55" width="220" height="26" font="10">Negotiating with a Spirit</text>
+<text top="404" left="55" width="499" height="15" font="3">To bargain with a spirit for its aid, the spirit must be willing to negotiate and the supplicant able </text>
+<text top="420" left="55" width="500" height="15" font="3">to communicate with it. This requires the supplicant to be of at least Votary rank and successfully </text>
+<text top="436" left="55" width="500" height="15" font="3">enter a ritual trance. Conversely the supplicant can be discorporated by a shaman’s fetch, the </text>
+<text top="452" left="55" width="500" height="15" font="3">Spirit Walking skill of a high shaman, or the spirit itself, so that bargaining is performed directly </text>
+<text top="469" left="55" width="500" height="15" font="3">on the Spirit Plane. Once communication has been established, the supplicant may either request </text>
+<text top="485" left="55" width="500" height="15" font="3">the spirit’s aid to perform a single task in return for performing a like service for the spirit; or he </text>
+<text top="501" left="55" width="500" height="15" font="3">may offer to form an alliance with the spirit, in which case the supplicant gains its name with </text>
+<text top="517" left="55" width="324" height="15" font="3">which it can be summoned in return for seasonal propitiation.</text>
+<text top="587" left="166" width="26" height="15" font="12"><b>Dice</b></text>
+<text top="587" left="224" width="42" height="15" font="12"><b>Average</b></text>
+<text top="588" left="298" width="264" height="16" font="14"><i>Traits:</i> Life Sense, Magic Sense, Possession</text>
+<text top="624" left="298" width="268" height="16" font="14"><i>Common Skills:</i> Common Magic, Inﬂ uence, </text>
+<text top="641" left="298" width="252" height="16" font="2">Insight, Lore (Shamanic Tradition), Lore </text>
+<text top="659" left="298" width="256" height="16" font="2">(Spirit World), Perception, and Persistence</text>
+<text top="696" left="298" width="222" height="16" font="14"><i>Spirit Advanced Skills:</i> Discorporate </text>
+<text top="713" left="298" width="271" height="16" font="2">(INT+POW), Spectral Combat (POW+CHA)</text>
+<text top="607" left="60" width="27" height="17" font="2">STR</text>
+<text top="607" left="166" width="14" height="15" font="3">—</text>
+<text top="607" left="224" width="14" height="15" font="3">—</text>
+<text top="628" left="60" width="34" height="17" font="2">CON</text>
+<text top="628" left="166" width="14" height="15" font="3">—</text>
+<text top="628" left="224" width="14" height="15" font="3">—</text>
+<text top="648" left="60" width="31" height="16" font="2">DEX</text>
+<text top="648" left="166" width="15" height="16" font="2">—</text>
+<text top="648" left="224" width="15" height="16" font="2">—</text>
+<text top="668" left="60" width="22" height="17" font="2">SIZ</text>
+<text top="668" left="166" width="14" height="15" font="3">—</text>
+<text top="668" left="224" width="14" height="15" font="3">—</text>
+<text top="689" left="60" width="25" height="16" font="2">INT</text>
+<text top="689" left="166" width="72" height="16" font="2">2D6+6 13</text>
+<text top="709" left="60" width="33" height="16" font="2">POW</text>
+<text top="709" left="166" width="72" height="16" font="2">2D6+6 13</text>
+<text top="729" left="60" width="32" height="16" font="2">CHA</text>
+<text top="729" left="166" width="72" height="16" font="2">2D6+6 13</text>
+<text top="770" left="60" width="96" height="16" font="14"><i>Combat Actions</i></text>
+<text top="770" left="224" width="7" height="15" font="3">3</text>
+<text top="790" left="60" width="65" height="15" font="9"><i>Magic Points</i></text>
+<text top="790" left="224" width="14" height="15" font="3">13</text>
+<text top="810" left="60" width="62" height="16" font="14"><i>Movement</i></text>
+<text top="810" left="224" width="65" height="16" font="2">20m ﬂ ying</text>
+<text top="831" left="60" width="88" height="16" font="14"><i>Spirit Damage</i></text>
+<text top="831" left="224" width="346" height="16" font="14"><i>Refer to Spirit Damage table, using Spectral Combat skill</i></text>
+<text top="850" left="60" width="66" height="17" font="14"><i>Strike Rank</i></text>
+<text top="851" left="224" width="20" height="15" font="3">+13</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="15" width="5" height="30" font="7">6</text>
+<text top="32" left="43" width="500" height="15" font="3">Such bargains can be settled by Games Master ﬁ at, or resolved with an Opposed Test of suitable </text>
+<text top="49" left="43" width="500" height="15" font="3">skills, such as the supplicant’s Inﬂ uence skill versus the spirit’s Persistence. Failure to reach an </text>
+<text top="65" left="43" width="480" height="15" font="3">accord has no further effect. Fumbling the roll however, may cause the spirit to react angrily.</text>
+<text top="101" left="43" width="137" height="26" font="10"> Binding a Spirit</text>
+<text top="124" left="43" width="499" height="15" font="3">To capture and bind a spirit instead, the binder must enter the Spirit Plane (using the same </text>
+<text top="140" left="43" width="500" height="15" font="3">methods as with negotiating) and engage it directly in spirit combat. If he is able to beat the spirit </text>
+<text top="157" left="43" width="500" height="15" font="3">down to zero Magic Points and its POW does not exceed the limit set by his Spirit Binding skill, </text>
+<text top="173" left="43" width="500" height="15" font="3">he may then bind it into a physical object; usually an item with ritual and congruent signiﬁ cance. </text>
+<text top="189" left="43" width="319" height="15" font="3">Such objects, once bound with a spirit, are known as fetishes.</text>
+<text top="221" left="43" width="500" height="15" font="3">The recipient of a bound spirit does not necessarily need to have captured it himself. Shamans </text>
+<text top="238" left="43" width="500" height="15" font="3">may locate and bind spirits for other tribal members. However, once the spirit is passed over to </text>
+<text top="254" left="43" width="500" height="15" font="3">another, the recipient must perform all duties and responsibilities concerning it and it counts </text>
+<text top="270" left="43" width="418" height="15" font="3">against the <i>recipient’s</i> maximum number of spirits they can hold at any one time.</text>
+<text top="302" left="43" width="491" height="15" font="3">The maximum number of spirits which can be held by a spirit magician depends on cult rank:</text>
+<text top="336" left="43" width="15" height="12" font="3">X </text>
+<text top="335" left="68" width="62" height="15" font="3">Follower: 1.</text>
+<text top="352" left="43" width="15" height="12" font="3">X </text>
+<text top="351" left="68" width="101" height="15" font="3">Votary: ¼ of CHA.</text>
+<text top="368" left="43" width="15" height="12" font="3">X </text>
+<text top="367" left="68" width="88" height="15" font="3">Seer: ½ of CHA.</text>
+<text top="384" left="43" width="15" height="12" font="3">X </text>
+<text top="383" left="68" width="109" height="15" font="3">Shaman: ¾ of CHA.</text>
+<text top="401" left="43" width="15" height="12" font="3">X </text>
+<text top="400" left="68" width="130" height="15" font="3">High Shaman: All CHA.</text>
+<text top="432" left="43" width="500" height="15" font="3">If this number is ever exceeded, then the strongest spirit(s) break free, possibly extracting </text>
+<text top="448" left="43" width="234" height="15" font="3">revenge if they were hostile to the binding.</text>
+<text top="486" left="43" width="206" height="31" font="8"> Using Bound Spirits</text>
+<text top="517" left="43" width="500" height="15" font="3">Spirits which are held within fetishes are tied to the Material Plane. Whilst within its fetish a </text>
+<text top="533" left="43" width="499" height="15" font="3">spirit cannot be harmed by hostile magic, other spirits, or break free of its binding – if imprisoned </text>
+<text top="550" left="43" width="500" height="15" font="3">against its nature. However, whilst contained within the fetish, the beneﬁ cial magical power of </text>
+<text top="566" left="43" width="183" height="15" font="3">the spirit cannot be accessed either.</text>
+<text top="598" left="43" width="500" height="15" font="3">To use a spirit, the magician must ﬁ rst call it forth from its fetish. This takes a single Combat </text>
+<text top="614" left="43" width="500" height="15" font="3">Action. Once freed, the spirit manifests as a ghostly shape forming a whirling intangible aura </text>
+<text top="631" left="43" width="500" height="15" font="3">about its owner. It is only <i>directly </i>observable to those who have invoked their Spirit Walking skill, </text>
+<text top="647" left="43" width="500" height="15" font="3">or can see magic. Once loosed from its fetish the spirit becomes vulnerable to magical attacks, or </text>
+<text top="663" left="43" width="154" height="15" font="3">the attentions of other spirits.</text>
+<text top="695" left="43" width="500" height="15" font="3">Commanding a released spirit is a free action but requires the owner make a successful Spirit </text>
+<text top="712" left="43" width="500" height="15" font="3">Binding Skill Test to ensure that his instructions are understood and followed. Each attempt </text>
+<text top="728" left="43" width="500" height="15" font="3">costs a single Magic Point. If the roll is failed, hostile spirits may act maliciously against the best </text>
+<text top="744" left="43" width="500" height="15" font="3">interests of their owner. Fumbling the roll breaks the binding, returning the spirit to the Spirit </text>
+<text top="760" left="43" width="249" height="15" font="3">Plane and potentially turning on him if hostile. </text>
+<text top="793" left="43" width="500" height="15" font="3">If the spirit’s POW is greater than the limit set by the user’s Spirit Binding skill, any attempt to </text>
+<text top="809" left="43" width="91" height="15" font="3">command it fails.</text>
+<text top="841" left="43" width="499" height="15" font="3">Spirits may range up to their owner’s POW in metres. Recalling a spirit back to its binding fetish </text>
+<text top="857" left="43" width="70" height="15" font="3">is automatic. </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="576" width="5" height="30" font="7">7</text>
+<text top="543" left="55" width="499" height="15" font="3">The greatest strength of spirits is that their effects are <i>persistent</i>, lasting as long as it is let out from </text>
+<text top="559" left="55" width="499" height="15" font="3">its fetish. This can make spirit magicians formidable foes, yet their spirits are vulnerable to spells </text>
+<text top="576" left="55" width="500" height="15" font="3">such as the Banish, Spirit Block, or even blasting them with some form of magical damage. Once </text>
+<text top="592" left="55" width="499" height="15" font="3">dismissed or destroyed, the spirit is gone for good until a new replacement can be summoned. Thus </text>
+<text top="608" left="55" width="499" height="15" font="3">most practitioners of shamanism tend to keep their spirits carefully hidden away in fetishes until </text>
+<text top="624" left="55" width="192" height="15" font="3">the most propitious time to use them.</text>
+<text top="662" left="55" width="148" height="31" font="8"> Spirit Combat</text>
+<text top="693" left="55" width="499" height="15" font="3">Spirit combat can only occur on the Spirit Plane. Since the souls of mortal beings are tied to their ﬂ esh, </text>
+<text top="709" left="55" width="499" height="15" font="3">they cannot enter the Spirit Plane naturally without aid; and are therefore normally insulated from </text>
+<text top="726" left="55" width="499" height="15" font="3">spiritual attack. Likewise spirits which have been <i>bound</i> to a physical fetish are tied to the material world </text>
+<text top="742" left="55" width="173" height="15" font="3">and removed from the Spirit Plane. </text>
+<text top="774" left="55" width="500" height="15" font="3">However, many spirits such as those of diseases, predatory animals or the malevolent dead, have </text>
+<text top="790" left="55" width="500" height="15" font="3">the ability to <i>discorporate</i> the soul of a corporeal creature. This literally drags the mortal’s spirit </text>
+<text top="807" left="55" width="500" height="15" font="3">out of its body and fully into the Spirit Plane. Once there, they become vulnerable to spiritual </text>
+<text top="823" left="55" width="500" height="15" font="3">combat. In addition, some mortals such as shaman can learn to <i>discorporate </i>themselves and High </text>
+<text top="839" left="55" width="500" height="15" font="3">Shamans can even bring others with them into the spirit world. Other methods exist too. Some </text>
+<text top="855" left="55" width="500" height="15" font="3">narcotics and rare herbs are said to be able to separate the soul from the body and there are even </text>
+<text top="871" left="55" width="226" height="15" font="3">spells that can replicate the effect magically.</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="918" width="594">
+<text top="773" left="82" width="138" height="20" font="13">Spirit Domination </text>
+<text top="775" left="219" width="8" height="16" font="2">–</text>
+<text top="773" left="228" width="110" height="20" font="13"> Optional Rule</text>
+<text top="793" left="82" width="460" height="15" font="3">In  many  genres  the  soul  of  a  possessed  victim  can  sometimes  ﬁ ght  against  the  spirit </text>
+<text top="809" left="82" width="460" height="15" font="3">dominating him, temporarily regaining control of their own body before the possession </text>
+<text top="825" left="82" width="460" height="15" font="3">is re-established. In settings supporting such circumstances Spirit Combat is permitted </text>
+<text top="841" left="82" width="460" height="15" font="3">within the material world but only if both spirits are concurrently occupying the same </text>
+<text top="857" left="82" width="75" height="15" font="3">body or fetish.</text>
+<text top="52" left="53" width="136" height="20" font="13">What is a Fetish?</text>
+<text top="72" left="53" width="491" height="15" font="3">A fetish is a ceremonial physical symbol, usually portable, that embodies magical power. Any </text>
+<text top="88" left="53" width="491" height="15" font="3">form of item can become a fetish for a spirit but amongst primitive cultures fetishes tend to be </text>
+<text top="105" left="53" width="491" height="15" font="3">items made from an item associated with that spirit. Thus, a fetish holding a tiger spirit might </text>
+<text top="121" left="53" width="470" height="15" font="3">be a necklace of tiger teeth; or an ancestor fetish might be a bone from the ancestor’s body.</text>
+<text top="153" left="53" width="491" height="15" font="3">Fetishes are jealously guarded by their owners and it is usually taboo to touch a shaman’s fetish </text>
+<text top="169" left="53" width="245" height="15" font="3">unless speciﬁ cally invited to do so by its owner.</text>
+<text top="879" left="15" width="5" height="30" font="7">8</text>
+<text top="230" left="43" width="500" height="15" font="3">Encountering a spirit on the Spirit Plane does not necessarily mean that combat will inevitably </text>
+<text top="246" left="43" width="500" height="15" font="3">occur. Many encounters, even with spirits who have discorporated a mortal, can be peaceful, </text>
+<text top="262" left="43" width="500" height="15" font="3">mutually beneﬁ cial and informative. However, if the spirit is hostile then battle generally follows. </text>
+<text top="279" left="43" width="500" height="15" font="3">Fleeing spirit combat is impossible for souls who do not have the Spirit Walking skill, or some </text>
+<text top="295" left="43" width="240" height="15" font="3">form of magic to escape from the spirit world.</text>
+<text top="327" left="43" width="500" height="15" font="3">Spirit combat is run in a very similar way to physical combat, save that lacking physical bodies on </text>
+<text top="343" left="43" width="499" height="15" font="3">the Spirit Plane, Attributes are calculated using different characteristics. A spirit or discorporated </text>
+<text top="360" left="43" width="287" height="15" font="3">soul’s <i>spiritual attributes</i> are calculated the following way:</text>
+<text top="392" left="43" width="500" height="15" font="12"><b>Combat Actions</b> are determined from its average of INT and POW, rather than the average of </text>
+<text top="408" left="43" width="79" height="15" font="3">DEX and INT.</text>
+<text top="424" left="43" width="500" height="15" font="12"><b>Strike Rank</b> is calculated from the average of INT and CHA, instead of the average of DEX </text>
+<text top="441" left="43" width="49" height="15" font="3">and INT.</text>
+<text top="457" left="43" width="470" height="15" font="12"><b>Magic Points</b> are calculated as normal but are used by spirits and souls as their Hit Points.</text>
+<text top="473" left="43" width="500" height="15" font="12"><b>Spirit Damage</b> is based upon the value of a spirit’s <i>Spectral Combat</i> skill or a soul’s <i>Spirit Binding </i></text>
+<text top="489" left="43" width="500" height="15" font="3">skill; see the Spirit Damage Table (page 4). If a discorporated Adventurer lacks Spirit Binding, </text>
+<text top="505" left="43" width="328" height="15" font="3">they use half the value of their Persistence on the table instead. </text>
+<text top="538" left="43" width="500" height="15" font="3">Spirit combat progresses just like normal combat. Initiative is rolled and the character or spirit </text>
+<text top="554" left="43" width="500" height="15" font="3">with the highest adjusted Strike Rank goes ﬁ rst, the second highest goes second and so on. Thus a </text>
+<text top="570" left="43" width="498" height="15" font="3">Spirit Combat can be run simultaneously with physical combat using the same SR countdown. </text>
+<text top="603" left="43" width="499" height="15" font="3">Instead of weapons, most spirits have a <i>Spectral Combat</i> skill which they use in spirit combat. Spirit </text>
+<text top="619" left="43" width="499" height="15" font="3">magicians use their Spirit Binding skill instead, whereas those uninitiated in spirit magic must rely on </text>
+<text top="635" left="43" width="499" height="15" font="3">half of their raw Persistence skill. Attacks are made by rolling an Opposed Test between the attacker </text>
+<text top="651" left="43" width="217" height="15" font="3">and the defender, using their relevant skills. </text>
+<text top="684" left="43" width="500" height="15" font="3">If the attacker wins the Opposed Test they inﬂ ict an amount of damage equal to their Spirit </text>
+<text top="700" left="43" width="475" height="15" font="3">Damage to the opponent’s Magic Points. If the defender wins, then no damage is incurred. </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="576" width="5" height="30" font="7">9</text>
+<text top="32" left="55" width="499" height="15" font="3">If the defender runs out of Combat Actions with which to defend themselves, then they are left </text>
+<text top="49" left="55" width="499" height="15" font="3">wide open and the attacker may attempt to make an unopposed attack roll. A character engaged in </text>
+<text top="65" left="55" width="338" height="15" font="3">spirit combat may forgo their attack in order to cast magic instead.</text>
+<text top="97" left="55" width="500" height="15" font="3">Combat continues until one of the combatants is reduced to zero Magic Points. At this point the </text>
+<text top="113" left="55" width="500" height="15" font="3">loser may automatically be either Possessed (if mortal), Bound (if a spirit), Exorcised (if currently </text>
+<text top="130" left="55" width="500" height="15" font="3">possessing a mortal) or Dissipated (destroyed). If the dissipated spirit was a discorporated mortal, </text>
+<text top="146" left="55" width="500" height="15" font="3">then the physical body dies with the destruction of its soul. Some spirits can recover from being </text>
+<text top="162" left="55" width="215" height="15" font="3">dissipated if they have the <i>Recurring</i> trait.</text>
+<text top="200" left="55" width="247" height="31" font="8"> Possession and Exorcism</text>
+<text top="231" left="55" width="499" height="15" font="3">A possessed creature is one whose control of their physical body has been usurped by another spirit or </text>
+<text top="247" left="55" width="499" height="15" font="3">soul. This is normally the result of losing a Spirit Combat, whereupon the victor entwines itself around </text>
+<text top="263" left="55" width="499" height="15" font="3">the defeated soul and rides it back to the loser’s corporeal body in the material world. There are two forms </text>
+<text top="280" left="55" width="180" height="15" font="3">of possession, Dominant and Covert.</text>
+<text top="312" left="55" width="500" height="15" font="3">Dominant Possession occurs when the possessing entity literally takes complete control of the </text>
+<text top="328" left="55" width="500" height="15" font="3">possessed body. The victim is fully aware that its body has been taken over but is absolutely </text>
+<text top="344" left="55" width="500" height="15" font="3">helpless,  unable  to  take  any  action  at  all. The  possessor  does  not  have  access  to  any  of  the </text>
+<text top="361" left="55" width="381" height="15" font="3">memories, skills or magic of the possessed but substitutes its own instead.</text>
+<text top="393" left="55" width="500" height="15" font="3">To detect a dominant possession requires a successful, unopposed test of either Perception if </text>
+<text top="409" left="55" width="187" height="15" font="3">viewed magically, or Spirit Walking.</text>
+<text top="442" left="55" width="500" height="15" font="3">Covert Possession is when the spirit hides in the body of the possessed, riding it like a hitchhiker. The </text>
+<text top="458" left="55" width="499" height="15" font="3">victim retains complete control over his body and remains completely unaware of his possession, </text>
+<text top="474" left="55" width="499" height="15" font="3">unless the spirit chooses to inform him of its presence. Some spirits take over the victim’s body </text>
+<text top="490" left="55" width="500" height="15" font="3">at night when they are sleeping, thus keeping their existence secret – save for inevitable physical </text>
+<text top="506" left="55" width="499" height="15" font="3">exhaustion and ﬂ eeting nightmares. Another example of covert possession is a curse or disease spirit </text>
+<text top="523" left="55" width="500" height="15" font="3">which infects that creature with some form of debilitation. No manner of magic or healing will stop </text>
+<text top="539" left="55" width="294" height="15" font="3">the effects until the spirit responsible is somehow cast out.</text>
+<text top="555" left="55" width="3" height="15" font="3"> </text>
+<text top="571" left="55" width="500" height="15" font="3">Detecting a covert possession requires a successful Opposed Test of the investigator’s Perception </text>
+<text top="587" left="55" width="383" height="15" font="3">(if viewed magically) or Spirit Walking skill versus the spirit’s Stealth skill.</text>
+<text top="620" left="55" width="500" height="15" font="3">No creature can ever purge <i>itself</i> of a possessing entity. They may only be exorcised by a <i>separate</i> </text>
+<text top="636" left="55" width="500" height="15" font="3">individual defeating the possessor in spirit combat, or by successfully casting a speciﬁ c type of </text>
+<text top="652" left="55" width="500" height="15" font="3">expulsion magic. If the original body of a mortal possessor has been killed in its absence, then its </text>
+<text top="668" left="55" width="362" height="15" font="3">soul dies when it is exorcised. Spirits merely return to the spirit plane.</text>
+<text top="701" left="55" width="500" height="15" font="3">Needless to say, a possessing spirit or soul can willingly abandon a possession at any time – unless </text>
+<text top="717" left="55" width="298" height="15" font="3">they have been maliciously <i>bound </i>to that particular body.</text>
+<text top="733" left="55" width="3" height="15" font="3"> </text>
+<text top="755" left="55" width="128" height="31" font="8"> Spirit Types</text>
+<text top="786" left="55" width="500" height="15" font="3">There are many forms and types of spirits. They range in power from minor sprites all the way </text>
+<text top="802" left="55" width="500" height="15" font="3">up to the Great Spirits who may be seasonal storm winds, plagues, turbulent rivers, terrifying </text>
+<text top="818" left="55" width="149" height="15" font="3">wildﬁ res or huge mountains.</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="918" width="594">
+<text top="580" left="58" width="125" height="20" font="13">Designing Spirits</text>
+<text top="600" left="58" width="484" height="15" font="3">Most of the spirits listed here are simply examples of an almost inﬁ nite range of possibilities. </text>
+<text top="616" left="58" width="428" height="15" font="3">To help Game Masters create new and unique spirits, use the following guidelines:</text>
+<text top="649" left="58" width="15" height="12" font="3">X </text>
+<text top="648" left="84" width="458" height="15" font="3">A spirit usually provides a single advantage. This can be either knowledge, an attribute </text>
+<text top="665" left="84" width="458" height="15" font="3">(not  characteristic)  boost,  a  Heroic  Ability,  domination  of  a  particular  species,  or </text>
+<text top="681" left="84" width="155" height="15" font="3">inﬂ icting a detrimental effect.</text>
+<text top="698" left="58" width="15" height="12" font="3">X </text>
+<text top="697" left="84" width="458" height="15" font="3">Whatever  the  advantage,  it  has  to  be  capable  of  being  a  permanent  effect  –  being </text>
+<text top="713" left="84" width="458" height="15" font="3">constantly on. The effect must also be balanced according to other comparable spirits, </text>
+<text top="729" left="84" width="139" height="15" font="3">Divine Magic and Sorcery.</text>
+<text top="747" left="58" width="15" height="12" font="3">X </text>
+<text top="746" left="84" width="458" height="15" font="3">The magnitude of the spirit’s advantage is always proportional to its POW. Since many </text>
+<text top="762" left="84" width="458" height="15" font="3">spirits have a variable amount of POW, you can have weak to great versions of most sorts </text>
+<text top="778" left="84" width="44" height="15" font="3">of spirit.</text>
+<text top="795" left="58" width="15" height="12" font="3">X </text>
+<text top="794" left="84" width="458" height="15" font="3">The majority of spirits by default possess a minimum Spectral Combat skill equal to their </text>
+<text top="810" left="84" width="458" height="15" font="3">POWx5% and a Persistence of POWx4%. Those which attack mortals by discoporation </text>
+<text top="827" left="84" width="458" height="15" font="3">have a Discorporate skill of POWx5% and those which <i>covertly</i> possess victims also have </text>
+<text top="843" left="84" width="183" height="15" font="3">a default Stealth skill of POWx4%.</text>
+<text top="879" left="12" width="10" height="30" font="7">10</text>
+<text top="34" left="43" width="15" height="12" font="3">X </text>
+<text top="33" left="68" width="360" height="15" font="3">A spirit can be an incarnation of an abstract magical or natural effect.</text>
+<text top="50" left="43" width="15" height="12" font="3">X </text>
+<text top="49" left="68" width="322" height="15" font="3">A spirit can be a collective soul of a species of plant or animal.</text>
+<text top="66" left="43" width="15" height="12" font="3">X </text>
+<text top="65" left="68" width="272" height="15" font="3">A spirit can be the venerated soul of a dead ancestor.</text>
+<text top="83" left="43" width="15" height="12" font="3">X </text>
+<text top="82" left="68" width="288" height="15" font="3">A spirit can be the vengeful remnant of a dead creature.</text>
+<text top="114" left="43" width="500" height="15" font="3">All spirits are sentient, although the degree of sentience and freewill is likely to be dictated by the </text>
+<text top="130" left="43" width="500" height="15" font="3">nature of the spirit. Ancestor spirits, for example, will display all the intelligence and coherence </text>
+<text top="146" left="43" width="500" height="15" font="3">of their mortal form; but nature spirits are likely to see, view and articulate themselves in ways </text>
+<text top="163" left="43" width="500" height="15" font="3">that reﬂ ect their origin. Shamans are capable of communicating with spirits, interpreting their </text>
+<text top="179" left="43" width="500" height="15" font="3">sometimes incoherent ways of communicating, through their training and exposure to the spirit </text>
+<text top="195" left="43" width="34" height="15" font="3">world.</text>
+<text top="229" left="43" width="121" height="20" font="13">Ancestor Spirits</text>
+<text top="249" left="43" width="500" height="15" font="3">Ancestor spirits are the souls of family members who reside on the Spirit Plane after death. A spirit </text>
+<text top="265" left="43" width="499" height="15" font="3">magician who quests on the Spirit Plane will only ever encounter ancestors with whom he has a </text>
+<text top="281" left="43" width="500" height="15" font="3">relationship, ﬁ nding both venerated ancestors and despised enemies. Such spirits continue their </text>
+<text top="298" left="43" width="478" height="15" font="3">existence in houses, halls, tribes or communities resembling those they occupied before death. </text>
+<text top="330" left="43" width="499" height="15" font="3">Spirit magicians may ask questions or request aid from their honoured ancestors; or conversely </text>
+<text top="346" left="43" width="500" height="15" font="3">attempt to bind and imprison an enemy ancestor, preventing it from being called upon by their </text>
+<text top="362" left="43" width="23" height="15" font="3">foes.</text>
+<text top="395" left="43" width="500" height="15" font="3">Ancestor spirits are a source of knowledge. They possess skills in which they excelled during their </text>
+<text top="411" left="43" width="500" height="15" font="3">life, the mastery of which has prompted their continued veneration. The spirits of those who </text>
+<text top="427" left="43" width="500" height="15" font="3">died without noteworthy deeds tend to fade and dissipate, once their immediate descendants </text>
+<text top="443" left="43" width="500" height="15" font="3">pass on. Thus most ancestor spirits are noted heroes, remembered many generations after their </text>
+<text top="460" left="43" width="32" height="15" font="3">death.</text>
+<text top="492" left="43" width="500" height="15" font="3">Normally an ancestor spirit may only be summoned to the material world by a spirit magician </text>
+<text top="508" left="43" width="499" height="15" font="3">of direct descent. If no blood tie exists, a shaman must travel to the home of that ancestor on the </text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="573" width="10" height="30" font="7">11</text>
+<text top="32" left="55" width="500" height="15" font="3">Spirit Plane. Once summoned or located, the spirit can be asked questions concerning the family </text>
+<text top="49" left="55" width="500" height="15" font="3">line, or events which happened during its lifetime. Such requests only require the successful use </text>
+<text top="65" left="55" width="240" height="15" font="3">of the Inﬂ uence skill and cost nothing further.</text>
+<text top="97" left="55" width="499" height="15" font="3">Alternatively, the spirit magician may request the ancestor’s aid in performing an important deed. </text>
+<text top="113" left="55" width="499" height="15" font="3">Such  appeals  come  at  a  cost,  usually  involving  a  personal  sacriﬁ ce  (a  treasured  item,  a  habit,  a </text>
+<text top="130" left="55" width="499" height="15" font="3">relationship and so on) and votive gifts to that particular spirit. This veneration keeps the memory of </text>
+<text top="146" left="55" width="499" height="15" font="3">the ancestor alive, promoting his continued existence. In return the ancestor will possess the body of </text>
+<text top="162" left="55" width="499" height="15" font="3">its descendant. This bargain places the supplicant at a dangerous disadvantage since he cannot prevent </text>
+<text top="178" left="55" width="499" height="15" font="3">the ancestor from using his body in any way the spirit likes. Unsympathetic ancestors often succumb </text>
+<text top="194" left="55" width="499" height="15" font="3">to long forgotten passions, or attempt extreme acts to further their renown – being in little danger of </text>
+<text top="211" left="55" width="156" height="15" font="3">personal harm if their host dies.</text>
+<text top="243" left="55" width="500" height="15" font="3">However, most venerated ancestors are content to remain in the peace of the afterlife. To prove </text>
+<text top="259" left="55" width="500" height="15" font="3">both themselves and the task are worthy of its stature, the magician must defeat his ancestor in </text>
+<text top="275" left="55" width="500" height="15" font="3">mock Spirit Combat. If the descendant is defeated, then the ancestor considers the request below </text>
+<text top="292" left="55" width="500" height="15" font="3">their dignity and refuses aid. If the ancestor is defeated, it is roused into providing aid and will </text>
+<text top="308" left="55" width="129" height="15" font="3">possess their descendant.</text>
+<text top="340" left="55" width="500" height="15" font="3">Whilst possessed, the spirit magician may substitute certain of his own skills for the heroic level </text>
+<text top="356" left="55" width="499" height="15" font="3">skills of the ancestor. The older and more powerful the ancestor, the higher its skill mastery. </text>
+<text top="373" left="55" width="500" height="15" font="3">They normally know 1d3+2 skills at a heroic level of 90%+POW. Warrior ancestors have combat </text>
+<text top="389" left="55" width="500" height="15" font="3">skills, shaman ancestors have spirit skills, hunter ancestors have stealth and tracking skills and so </text>
+<text top="405" left="55" width="292" height="15" font="3">on. In addition, every ancestor has 1d3 Heroic Abilities.</text>
+<text top="437" left="55" width="500" height="15" font="3">Whilst possessing the body of a descendant, the ancestor cannot be called upon by other tribal </text>
+<text top="454" left="55" width="500" height="15" font="3">members.  For  this  reason,  an  ancestor  spirit  usually  only  remains  until  it  has  achieved  the </text>
+<text top="470" left="55" width="500" height="15" font="3">objective for which it was summoned. Since ancestors refuse to be bound into fetishes (unless </text>
+<text top="486" left="55" width="490" height="15" font="3">forced to by an enemy shaman) they do not count towards the normal limit of spirit bindings.</text>
+<text top="518" left="55" width="184" height="15" font="3">INT – As per mortal of the species.</text>
+<text top="535" left="55" width="197" height="15" font="3">POW – Usually 1d10+10 and greater.</text>
+<text top="551" left="55" width="189" height="15" font="3">CHA – As per mortal of the species.</text>
+<text top="583" left="55" width="499" height="15" font="3">Skills (at 90+POW%): Choose from any skill relevant to the ancestor’s profession and culture, plus </text>
+<text top="599" left="55" width="499" height="15" font="3">Persistence at POWx4% and Spectral Combat at POWx5%. Ancestors know as many points of </text>
+<text top="616" left="55" width="499" height="15" font="3">Common Magic as they have POW. Lacking fetishes, they do not have any bound spirits but can </text>
+<text top="632" left="55" width="486" height="15" font="3">summon favoured spirit allies they used during their life (shaman still have their fetch however).</text>
+<text top="666" left="55" width="94" height="20" font="13">Bane Spirits</text>
+<text top="686" left="55" width="500" height="15" font="3">Bane spirits strive to absorb the essence of other spirits. Due to their entropic touch, the Magic </text>
+<text top="702" left="55" width="477" height="15" font="3">Point damage they inﬂ ict is permanent and spirits dissipated by them are forever destroyed. </text>
+<text top="718" left="55" width="3" height="15" font="3"> </text>
+<text top="734" left="55" width="500" height="15" font="3">Bane  spirits  are  so  abhorred  by  most  shaman  that  they  are  often  bound  and  imprisoned  in </text>
+<text top="751" left="55" width="500" height="15" font="3">remote or accursed locations, preventing them from causing harm. They are rarely used, save by </text>
+<text top="767" left="55" width="500" height="15" font="3">the insane, or those driven to suicidal revenge. If constrained to a fetish, bane spirits can be sent </text>
+<text top="783" left="55" width="500" height="15" font="3">against other spirits to engage them in spirit combat. If the bane spirit wins, it consumes the </text>
+<text top="799" left="55" width="335" height="15" font="3">defeated spirit, destroying it utterly, including other bane spirits.</text>
+<text top="832" left="55" width="487" height="15" font="3">Their characteristics are 1d6 for INT and CHA and a POW which ranges from 3d6 upwards.</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="12" width="10" height="30" font="7">12</text>
+<text top="32" left="43" width="131" height="20" font="13"> Elemental Spirits</text>
+<text top="52" left="43" width="500" height="15" font="3">These spirits originate from the elements, <i>Air, Darkness, Earth, Fire, Moon </i>and<i> Water</i>. They are </text>
+<text top="68" left="43" width="500" height="15" font="3">the same beings summoned by such spells as Elemental Summoning but a spirit magician can </text>
+<text top="84" left="43" width="209" height="15" font="3">invest their powers within his <i>own</i> body.</text>
+<text top="117" left="43" width="499" height="15" font="3">For example, a shaman could bind a ﬁ re elemental and use it to give himself a burning touch, an earth </text>
+<text top="133" left="43" width="499" height="15" font="3">elemental to move himself through earth and rock, a water elemental to survive underwater and swim </text>
+<text top="149" left="43" width="72" height="15" font="3">fast and so on.</text>
+<text top="181" left="43" width="500" height="15" font="3">An elemental spirit’s INT, CHA and abilities are equal to an elemental of corresponding size. The </text>
+<text top="198" left="43" width="500" height="15" font="3">spirit’s POW is 1D6+6 for the equivalent of a 1 cubic metre elemental. Each further +6 increases </text>
+<text top="214" left="43" width="161" height="15" font="3">its size by another cubic metre.</text>
+<text top="248" left="43" width="130" height="20" font="13"> Guardian Spirits</text>
+<text top="268" left="43" width="500" height="15" font="3">These spirits originate from the Spirit Plane and ward the summoner from hostile magic. They </text>
+<text top="284" left="43" width="500" height="15" font="3">are often found in places where vast sorceries have been cast, or holy sites where a god invoked </text>
+<text top="300" left="43" width="500" height="15" font="3">his immortal power. They can also be drawn to intense concentrations of magic, large ceremonies </text>
+<text top="316" left="43" width="138" height="15" font="3">or battleﬁ elds for example.</text>
+<text top="349" left="43" width="499" height="15" font="3">A guardian spirit protects the holder of its fetish by interposing itself before offensive spells. The spell </text>
+<text top="365" left="43" width="499" height="15" font="3">must ﬁ rst overcome the Persistence of the guardian spirit. If it fails, the spell is negated. If the spell </text>
+<text top="381" left="43" width="461" height="15" font="3">overcomes the spirit, it continues onto the spirit magician, who may then also resist the spell. </text>
+<text top="414" left="43" width="500" height="15" font="3">The spirit can neutralise spells of up to one Magnitude for every three points of its POW. If </text>
+<text top="430" left="43" width="500" height="15" font="3">the spell’s Magnitude is greater, the spirit is unable to affect it. If a magic spirit encounters an </text>
+<text top="446" left="43" width="500" height="15" font="3">anti-spirit spell, such as Spirit Block or Banish, it may attempt to resist the spell, before it is </text>
+<text top="462" left="43" width="44" height="15" font="3">affected.</text>
+<text top="495" left="43" width="500" height="15" font="3">Guardian spirits characteristics are 2d6 for INT and CHA and have a POW which ranges from </text>
+<text top="511" left="43" width="67" height="15" font="3">3d6 upwards</text>
+<text top="545" left="43" width="110" height="20" font="13"> Nature Spirits</text>
+<text top="565" left="43" width="500" height="15" font="3">These are the spirits of natural things which live and grow in the material world. Sometimes </text>
+<text top="581" left="43" width="500" height="15" font="3">speciﬁ c animals or plants are worshipped as totems – the spiritual guardian and strength of a </text>
+<text top="597" left="43" width="500" height="15" font="3">tribe. Spirit magicians who devote themselves to a particular species in this way are always on </text>
+<text top="613" left="43" width="500" height="15" font="3">friendly terms with spirits related to their totem but suffer neutral or hostile reactions from other </text>
+<text top="630" left="43" width="71" height="15" font="3">nature spirits.</text>
+<text top="662" left="43" width="499" height="15" font="3">Nature  spirits  embody  a  myriad  of  different  abilities  depending  on  the  plant  or  animal  they </text>
+<text top="678" left="43" width="499" height="15" font="3">originate from. In general each spirit should encompass <b>one</b> of the following effects, something </text>
+<text top="694" left="43" width="499" height="15" font="3">which represents a quality expressed by its species’ corporeal form. If two or more nature spirits </text>
+<text top="711" left="43" width="500" height="15" font="9"><i>with the same ability</i> are used at the same time by the same magician, only the stronger spirit will </text>
+<text top="727" left="43" width="55" height="15" font="3">take effect.</text>
+<text top="760" left="43" width="15" height="12" font="3">X </text>
+<text top="759" left="68" width="474" height="15" font="3">Boost an attribute – Armour Points, Damage Bonus, Hit Points, Magic Points, Movement </text>
+<text top="775" left="68" width="79" height="15" font="3">or Strike Rank.</text>
+<text top="793" left="43" width="15" height="12" font="3">X </text>
+<text top="792" left="68" width="458" height="15" font="3">Dominate species – Can control behaviour of members of its own species (even plants!).</text>
+<text top="809" left="43" width="15" height="12" font="3">X </text>
+<text top="808" left="68" width="314" height="15" font="3">Increase a skill – Gain a bonus to a skill used by that species.</text>
+<text top="825" left="43" width="15" height="12" font="3">X </text>
+<text top="824" left="68" width="474" height="15" font="3">Manifest  a  Trait  –  Use  a  Trait  possessed  by  the  species,  such  as  a  special  sense  or </text>
+<text top="840" left="68" width="59" height="15" font="3">movement.</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="918" width="594">
+	<fontspec id="15" size="11" family="Times" color="#000000"/>
+<text top="879" left="573" width="10" height="30" font="7">13</text>
+<text top="34" left="55" width="15" height="12" font="3">X </text>
+<text top="33" left="81" width="474" height="15" font="3">Combat  Manoeuvre  –  Grants  a  speciﬁ c  combat  manoeuvre  which  can  be  automatically </text>
+<text top="49" left="81" width="474" height="15" font="3">used if they succeed in the relevant attack or parry, in addition to any they may have gained </text>
+<text top="65" left="81" width="152" height="15" font="3">for the better level of success.</text>
+<text top="98" left="55" width="228" height="15" font="3">The intensity of the effect is equal to either:</text>
+<text top="131" left="55" width="15" height="12" font="3">X </text>
+<text top="130" left="81" width="474" height="15" font="3">The number of steps an Attribute is increased, such as increasing Hit Points by 2 on each </text>
+<text top="146" left="81" width="145" height="15" font="3">location would be two steps.</text>
+<text top="164" left="55" width="15" height="12" font="3">X </text>
+<text top="163" left="81" width="340" height="15" font="3">The number of creatures which can be controlled simultaneously.</text>
+<text top="180" left="55" width="15" height="12" font="3">X </text>
+<text top="179" left="81" width="152" height="15" font="3">Each 10% increase to a skill .</text>
+<text top="211" left="55" width="500" height="15" font="3">The  Characteristic  POW  of  nature  spirits  is  based  on  the  intensity  of  their  effect.  A  level  1 </text>
+<text top="227" left="55" width="500" height="15" font="3">intensity spirit has a POW of 1d6+6, an intensity two spirit a POW of 1d6+12, an intensity three </text>
+<text top="244" left="55" width="185" height="15" font="3">spirit a POW of 1d6+18 and so on.</text>
+<text top="276" left="55" width="499" height="15" font="3">Spirits  which  embody  Combat  Manoeuvres  or  Traits  are  the  exception.  Those  which  grant  a </text>
+<text top="292" left="55" width="499" height="15" font="3">Combat Manoeuvre have a minimum POW of 1d6+18 (1d6+24 for critical only manoeuvres); </text>
+<text top="308" left="55" width="499" height="15" font="3">whereas those which grant Traits have a minimum POW of 1d6+12 and sometimes more if the </text>
+<text top="325" left="55" width="140" height="15" font="3">particular effect warrants it.</text>
+<text top="357" left="55" width="500" height="15" font="3">The other characteristics of a nature spirit match those of its corporeal cousins. A lion spirit </text>
+<text top="373" left="55" width="500" height="15" font="3">would have an INT of 5 and a CHA of 5, for example. If no example characteristics are available </text>
+<text top="389" left="55" width="341" height="15" font="3">for the species, they can be randomly generated by rolling 1d4+2.</text>
+<text top="422" left="55" width="500" height="15" font="3">Some example nature spirits follow. Remember that these are individual spirits and others of </text>
+<text top="438" left="55" width="211" height="15" font="3">their kind may be more or less powerful.</text>
+<text top="470" left="55" width="500" height="15" font="9"><i>Rhino Hide</i> (Intensity 3 boost AP, rhino spirit) – INT 3, POW 20, CHA 3. CA 2, SR +3, HP </text>
+<text top="487" left="55" width="500" height="15" font="3">20, Spirit Damage +1d10. Persistence 80%, Spectral Horn 100%. Increases the natural Armour </text>
+<text top="503" left="55" width="499" height="15" font="3">Points of the magician by 3 points. These do not affect the wearing of additional armour, or </text>
+<text top="519" left="55" width="102" height="15" font="3">reduce Strike Rank.</text>
+<text top="551" left="55" width="500" height="15" font="9"><i>Strong Claw<b> </b></i>(Intensity 1 boost Damage Bonus, bear spirit) – INT 5, POW 10, CHA 5. CA 2, </text>
+<text top="568" left="55" width="499" height="15" font="3">SR +5, HP 10, Spirit Damage +1d6. Persistence 40%, Spectral Claw 50%. This spirit boosts the </text>
+<text top="584" left="55" width="499" height="15" font="3">Damage Modiﬁ er of the magician by one step, a shaman whose Damage Modiﬁ er was normally </text>
+<text top="600" left="55" width="173" height="15" font="3">+1d2 would be increased to +1d4.</text>
+<text top="632" left="55" width="500" height="15" font="9"><i>Tawny Might</i><b> </b>(Intensity 2 boost Hit Points, grifﬁ n spirit) – INT 6, POW 16, CHA 7. CA 2, SR </text>
+<text top="649" left="55" width="500" height="15" font="3">+7, HP 16, Spirit Damage +1d8. Persistence 64%, Spectral Gore 80%. Adds an extra 2 HP to </text>
+<text top="665" left="55" width="156" height="15" font="3">each location of the magician.</text>
+<text top="697" left="55" width="499" height="15" font="9"><i>Green Vigour<b> </b></i>(Intensity 4 boost Magic Points, oak spirit) – INT 1, POW 25, CHA 1. CA 3, </text>
+<text top="713" left="55" width="500" height="15" font="3">SR +1, HP 25, Spirit Damage +2d8. Persistence 100%, Spectral Roots and Branches 125%. </text>
+<text top="730" left="55" width="223" height="15" font="3">Increases the magician’s Magic Points by 4.</text>
+<text top="762" left="55" width="500" height="15" font="9"><i>Long Hoof</i><b> </b>(Intensity 3 boost Movement, horse spirit) – INT 4, POW 22, CHA 5. CA 3, SR </text>
+<text top="778" left="55" width="500" height="15" font="3">+5, HP 22, Spirit Damage +2d6. Persistence 88%, Spectral Hoof 110%. The spirit boosts the </text>
+<text top="794" left="55" width="179" height="15" font="3">magician’s Movement by 3 metres.</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="12" width="10" height="30" font="7">14</text>
+<text top="32" left="43" width="499" height="15" font="9"><i>Swift Thought</i><b> </b>(Intensity 2 boost Strike Rank, mongoose spirit) – INT 4, POW 17, CHA 5. CA </text>
+<text top="48" left="43" width="500" height="15" font="3">3, SR +5, HP 22, Spirit Damage +1d10. Persistence 68%, Spectral Bite 85%. Augments the </text>
+<text top="65" left="43" width="211" height="15" font="3">Strike Rank of the magician by 2 points.</text>
+<text top="97" left="43" width="500" height="15" font="9"><i>Fang Brother</i> (Intensity 1 Dominate Species, wolf spirit) – INT 5, POW 9, CHA 5. CA 2, SR +5, </text>
+<text top="113" left="43" width="500" height="15" font="3">HP 9, Spirit Damage +1d6. Persistence 36%, Spectral Bite 45%. Spirit will allow the magician </text>
+<text top="129" left="43" width="202" height="15" font="3">to dominate and control a single wolf. </text>
+<text top="162" left="43" width="500" height="15" font="9"><i>Tenacious Life<b> </b></i>(Intensity 2 Increase Skill, ivy spirit) – INT 1, POW 14, CHA 1. CA 2, SR +1, </text>
+<text top="178" left="43" width="500" height="15" font="3">HP  14,  Spirit  Damage  +1d8.  Persistence  56%,  Spectral  Hoof  70%.  Increases  the  magician’s </text>
+<text top="194" left="43" width="124" height="15" font="3">Resilience skill by 20%.</text>
+<text top="227" left="43" width="500" height="15" font="9"><i>Sharp Ears</i> (Intensity 2 Manifest Trait, bat spirit) – INT 3, POW 18, CHA 3. CA 2, SR +3, </text>
+<text top="243" left="43" width="500" height="15" font="3">HP  18,  Spirit  Damage  +1d10.  Persistence  72%,  Spectral  Squeal  90%.  Magician  gains  the </text>
+<text top="259" left="43" width="102" height="15" font="3">Echolocation Trait.</text>
+<text top="291" left="43" width="500" height="15" font="9"><i>Savage Snip</i> (Intensity 3 Combat Manoeuvre, praying mantis spirit) – INT 3, POW 23, CHA 3. </text>
+<text top="308" left="43" width="500" height="15" font="3">CA 3, SR +3, HP 23, Spirit Damage +2d6. Persistence 92%, Spectral Foreclaw 112%. Grants the </text>
+<text top="324" left="43" width="500" height="15" font="3">automatic free use of the Choose Location combat manoeuvre whenever the magician succeeds </text>
+<text top="340" left="43" width="67" height="15" font="3">in his attack.</text>
+<text top="570" left="43" width="197" height="20" font="13"> Sickness and Curse Spirits</text>
+<text top="589" left="43" width="500" height="15" font="3">Sickness and curse spirits are malevolent beings which attack and covertly possess mortals. Once </text>
+<text top="606" left="43" width="478" height="15" font="3">in possession they emulate speciﬁ c disease effects (see page 78 of the <i>Legend Core Rulebook</i>). </text>
+<text top="638" left="43" width="500" height="15" font="3">Sickness spirits tend to gather (on the Spirit Plane) near the bodies of the recently dead, attracted </text>
+<text top="654" left="43" width="500" height="15" font="3">by the eventual departure of its soul. From there they usually lay in wait for mortals to approach </text>
+<text top="670" left="43" width="499" height="15" font="3">and follow them until they sleep or pass into an unconscious state. At this point they use their </text>
+<text top="687" left="43" width="500" height="15" font="3">Discorporation skill to drag the target’s soul onto the Spirit Plane. If they succeed in defeating </text>
+<text top="703" left="43" width="500" height="15" font="3">the  victim  in  spirit  combat  then  they  covertly  possess  him  and  inﬂ icting  the  effect  of  their </text>
+<text top="719" left="43" width="39" height="15" font="3">disease.</text>
+<text top="751" left="43" width="500" height="15" font="3">Curse spirits are similar in effect to sickness spirits but they are normally captured by shaman at </text>
+<text top="768" left="43" width="500" height="15" font="3">sites of great disaster and misfortune. Once bound they are used as offensive weapons to overtly </text>
+<text top="784" left="43" width="190" height="15" font="3">possess the spirit magician’s enemies.</text>
+<text top="816" left="43" width="500" height="15" font="3">Both types of spirit have an INT and CHA of 2d6. Their POW can range from 1d6+6 upwards. </text>
+<text top="832" left="43" width="500" height="15" font="3">The bigger the POW the stronger they are in spirit combat and the more difﬁ cult to exorcise </text>
+<text top="849" left="43" width="500" height="15" font="3">once discovered. Each +6 grants an additional disease/poison effect (see Poisons &amp; Diseases, page </text>
+<text top="865" left="43" width="169" height="15" font="3">78 of the <i>Legend Core Rulebook</i>).</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="918" width="594">
+	<fontspec id="16" size="34" family="Times" color="#000000"/>
+<text top="879" left="573" width="10" height="30" font="7">15</text>
+<text top="53" left="92" width="424" height="39" font="16">SHAMANISM FOR FUN </text>
+<text top="96" left="156" width="286" height="39" font="16">AND PROPHETS</text>
+<text top="170" left="55" width="500" height="15" font="9"><i>Legend</i>  introduces  a  new,  free-form  system  of  Spirit  Magic  mixing  a  blend  of  academic </text>
+<text top="186" left="55" width="500" height="15" font="3">realism  and  fantasy. The  rules  provide  a  toolkit  of  ideas  that  can  be  used  to  create  many </text>
+<text top="202" left="55" width="95" height="15" font="3">different  kind  of </text>
+<text top="202" left="151" width="404" height="15" font="12"><b>animistic</b>  traditions  but  the  openness  of  the  system  can  make  it  hard  to </text>
+<text top="218" left="55" width="500" height="15" font="3">know where to start or how to ﬁ t spirit magic into your own campaign. This article provides </text>
+<text top="235" left="55" width="500" height="15" font="3">answers to questions that have been asked and tools to help bring spirit worship to life in any </text>
+<text top="251" left="55" width="499" height="15" font="3">campaign. This is the ﬁ rst of two articles: the second will expand upon the range of spirits </text>
+<text top="267" left="55" width="282" height="15" font="3">and spirit encounters available to spirit worshippers.</text>
+<text top="299" left="55" width="500" height="15" font="3">Animism is the broadest term for a worldview in which the world is infused by spirits, and </text>
+<text top="316" left="55" width="500" height="15" font="3">shamanism  is  just  one  type  of  animism.  Legend  focuses  on  shamanism  but  the  rules  can </text>
+<text top="332" left="55" width="500" height="15" font="3">accommodate most forms of animism. For example, Shinto or ‘folk Hinduism’ can be seen </text>
+<text top="348" left="55" width="500" height="15" font="3">as animistic practices as can ancestor worship among the Romans and ancient Greeks. And, </text>
+<text top="364" left="55" width="500" height="15" font="3">as can be seen in any bookshop, many new age beliefs are fundamentally animistic. <i>Legend</i> </text>
+<text top="380" left="55" width="380" height="15" font="3">spirit magic is as applicable to the modern world as it is to the ancient.</text>
+<text top="419" left="55" width="261" height="31" font="8">Spirit Cults &amp; Traditions</text>
+<text top="450" left="55" width="500" height="15" font="3">Although most spirit worshippers will be a member of a cult, the organisation is unlikely to </text>
+<text top="466" left="55" width="500" height="15" font="3">be anywhere near as formal as a divine cult or sorcery school. Spirit cults are more likely to </text>
+<text top="482" left="55" width="500" height="15" font="3">be loose afﬁ liations or may simply consist of members of single family or clan or tradition of </text>
+<text top="498" left="55" width="500" height="15" font="3">veneration of spirits. Such traditions share one simple insight: the world is alive. Each rock, </text>
+<text top="514" left="55" width="499" height="15" font="3">plant,  animal  and  each  cloud,  pool  and  storm  has  its  own  spirit.  Such  spirits  themselves, </text>
+<text top="531" left="55" width="500" height="15" font="3">especially the spirits of ancestors, may also be members of a tradition or be friendly towards </text>
+<text top="547" left="55" width="500" height="15" font="3">a particular tradition. Other spirits may simply have no interest in the mundane world. Some </text>
+<text top="563" left="55" width="326" height="15" font="3">may be actively hostile to members of a particular tradition. </text>
+<text top="595" left="55" width="500" height="15" font="3">Because there are so many ways to approach spirit worship, cults tend to be diverse but as a </text>
+<text top="612" left="55" width="500" height="15" font="3">rule of thumb each spirit cult tends to have access to ﬁ ve or six types of spirit with whom it </text>
+<text top="628" left="55" width="500" height="15" font="3">is friendly and when added up, these spirits will usually offer 7-12 different beneﬁ ts. Smaller </text>
+<text top="644" left="55" width="260" height="15" font="3">spirit cults have access to fewer friendly spirits. </text>
+<text top="676" left="55" width="500" height="15" font="3">Nearly all cults will have access to ancestors and guardian spirits plus a number of nature </text>
+<text top="693" left="55" width="500" height="15" font="3">spirits depending on the cult’s background. Cults with particular elemental afﬁ liations will </text>
+<text top="709" left="55" width="500" height="15" font="3">have access to elemental spirits. Curse and bane spirits are not usually part of a tradition and </text>
+<text top="725" left="55" width="430" height="15" font="3">any spirit magician attempting to bind them into service is taking a serious risk.</text>
+<text top="763" left="55" width="168" height="31" font="8">Defining Spirits</text>
+<text top="794" left="55" width="500" height="15" font="3">The denizens of the spirit plane are varied and diverse. Spirit magic allows practitioners to </text>
+<text top="810" left="55" width="500" height="15" font="3">approach spirits in two ways: as beings with which they can communicate and as entities </text>
+<text top="826" left="55" width="500" height="15" font="3">which  can  be  bound  to  service. A  spirit  magician’s  most  frequent  interaction  with  spirits </text>
+<text top="843" left="55" width="500" height="15" font="3">will be through the use of the Spirit Walking skill to communicate with them. In this respect </text>
+<text top="859" left="55" width="500" height="15" font="3">spirits  are  non  player  characters  who  can  be  interacted  with  during  game  sessions.  Spirit </text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="12" width="10" height="30" font="7">16</text>
+<text top="33" left="43" width="500" height="15" font="3">Binding is the skill of persuading or forcing a spirit into service or protecting oneself from </text>
+<text top="49" left="43" width="500" height="15" font="3">harmful spirits. <i>Legend</i> provides a basic breakdown of spirit types and how to quantify what </text>
+<text top="65" left="43" width="500" height="15" font="3">beneﬁ ts a bound spirit might provide. The two key elements anyone wishing to bind a spirit </text>
+<text top="81" left="43" width="424" height="15" font="3">needs to know about it are its Intensity and its attitude towards the spirit mage.</text>
+<text top="118" left="43" width="78" height="26" font="10">Intensity</text>
+<text top="141" left="43" width="500" height="15" font="3">Intensity is an attribute of spirits. When it comes to Spirit Magic, the Intensity of a spirit </text>
+<text top="157" left="43" width="500" height="15" font="3">measures  the  beneﬁ t  it  can  give  to  the  spirit’s  controller  as  well  as  how  difﬁ cult  it  is  to </text>
+<text top="173" left="43" width="500" height="15" font="3">command. The greater a spirit’s POW, the greater its Intensity. A spirit’s Intensity can be </text>
+<text top="189" left="43" width="193" height="15" font="3">calculated from the following table.</text>
+<text top="224" left="43" width="164" height="20" font="13">Spirit Intensity Table</text>
+<text top="247" left="47" width="90" height="15" font="12"><b>Intensity POW</b></text>
+<text top="247" left="199" width="69" height="15" font="12"><b>POW Range</b></text>
+<text top="247" left="292" width="75" height="15" font="12"><b>Typical POW</b></text>
+<text top="266" left="47" width="8" height="16" font="2">1</text>
+<text top="268" left="106" width="38" height="15" font="3">1D6+6</text>
+<text top="268" left="199" width="25" height="15" font="3">7-12</text>
+<text top="268" left="292" width="14" height="15" font="3">10</text>
+<text top="286" left="47" width="8" height="16" font="2">2</text>
+<text top="288" left="106" width="44" height="15" font="3">1D6+12</text>
+<text top="288" left="199" width="31" height="15" font="3">13-18</text>
+<text top="288" left="292" width="14" height="15" font="3">16</text>
+<text top="307" left="47" width="8" height="16" font="2">3</text>
+<text top="308" left="106" width="44" height="15" font="3">1D6+18</text>
+<text top="308" left="199" width="31" height="15" font="3">19-24</text>
+<text top="308" left="292" width="14" height="15" font="3">22</text>
+<text top="327" left="47" width="16" height="16" font="2">+1</text>
+<text top="329" left="106" width="14" height="15" font="3">+6</text>
+<text top="329" left="199" width="14" height="15" font="3">+6</text>
+<text top="327" left="292" width="16" height="16" font="2">+6</text>
+<text top="363" left="43" width="77" height="26" font="10">Attitude</text>
+<text top="386" left="43" width="500" height="15" font="3">Each spirit has an attitude towards magicians who approach it. Some will be friendly, others </text>
+<text top="402" left="43" width="500" height="15" font="3">neutral and some hostile. Spirits belonging to the magician’s tradition will most likely be </text>
+<text top="418" left="43" width="500" height="15" font="3">friendly. Neutral spirits consist of both those belonging to traditions which are not hostile </text>
+<text top="435" left="43" width="500" height="15" font="3">to the shaman as well as those not considered part of any tradition. Hostile spirits are those </text>
+<text top="451" left="43" width="500" height="15" font="3">belonging to enemy traditions or are inherently antagonistic due to mythic, runic or elemental </text>
+<text top="467" left="43" width="499" height="15" font="3">oppositions. The attitude of a spirit towards a spirit magician affects how it will react to being </text>
+<text top="483" left="43" width="419" height="15" font="3">approached, to being bound and what it might do if it ever escapes a binding. </text>
+<text top="522" left="43" width="162" height="31" font="8">Binding Spirits </text>
+<text top="552" left="43" width="500" height="15" font="3">The Legend rules leave it up to the players and Games Master in any campaign to determine </text>
+<text top="568" left="43" width="500" height="15" font="3">the precise procedures for gaining spirits with the assumption each campaign will generate </text>
+<text top="585" left="43" width="500" height="15" font="3">its own guidelines. There are, however, some common elements that are likely to underlie </text>
+<text top="601" left="43" width="159" height="15" font="3">most Spirit Magic traditions. </text>
+<text top="633" left="43" width="500" height="15" font="3">Worshippers of a spirit cult gain spirits through undertaking a ritual in collaboration with </text>
+<text top="649" left="43" width="500" height="15" font="3">a shaman to bind a spirit into a fetish. The shaman searches the spirit plane for a suitable </text>
+<text top="666" left="43" width="500" height="15" font="3">spirit for the supplicant, defeats it in spirit combat and then binds it to a fetish that has been </text>
+<text top="682" left="43" width="500" height="15" font="3">prepared by both shaman and supplicant. While the shaman journeys, the supplicant fasts and </text>
+<text top="698" left="43" width="500" height="15" font="3">mediates, purifying himself in preparation for the gift of the spirit. The bound spirit counts </text>
+<text top="714" left="43" width="500" height="15" font="3">against the owner’s limit, not the shaman’s. Although there is nothing stopping a non-shaman </text>
+<text top="730" left="43" width="500" height="15" font="3">undertaking the search and binding a spirit by himself, the task is dangerous and would be </text>
+<text top="747" left="43" width="268" height="15" font="3">frowned on by other members of the community. </text>
+<text top="779" left="43" width="500" height="15" font="3">Shamans will usually only provide spirits to members of the same tradition or in recompense </text>
+<text top="795" left="43" width="500" height="15" font="3">for great favours and they will only bind friendly spirits associated with their cult in this </text>
+<text top="811" left="43" width="500" height="15" font="3">manner. The fetish costs the recipient one Improvement Roll per point of Intensity of the </text>
+<text top="828" left="43" width="500" height="15" font="3">spirit. This cost represents the time and personal development needed for a spirit worshipper </text>
+<text top="844" left="43" width="500" height="15" font="3">to make themselves worthy of the gift. The ritual usually takes a week and at the end of </text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="573" width="10" height="30" font="7">17</text>
+<text top="33" left="55" width="500" height="15" font="3">the  week  the  player  should  roll  the  spirit’s  characteristics  randomly  based  on  the  spirit’s </text>
+<text top="49" left="55" width="489" height="15" font="3">Intensity. It is possible the spirit gained may be too powerful for the adventurer to control. </text>
+<text top="81" left="55" width="499" height="15" font="3">Spirits with an Intensity of 5 or more are likely to have a POW of over 30 and a spectral </text>
+<text top="98" left="55" width="500" height="15" font="3">combat skill of 150% or more meaning that only the greatest of the High Shamans can defeat </text>
+<text top="114" left="55" width="500" height="15" font="3">them in spirit combat unless several shamans join together in a Concert. Such actions should </text>
+<text top="130" left="55" width="275" height="15" font="3">be played out rather than relegated to Down Time. </text>
+<text top="162" left="55" width="500" height="15" font="3">Once bound to the mundane plane in a fetish a spirit can no longer regenerate Magic Points </text>
+<text top="179" left="55" width="500" height="15" font="3">nor can it perceive the world around it so the spirit lies quiescent until either temporarily </text>
+<text top="195" left="55" width="172" height="15" font="3">released or the fetish is broken. </text>
+<text top="227" left="55" width="500" height="15" font="3">An adventurer may ‘upgrade’ the spirit in a fetish to a more powerful spirit of the same type </text>
+<text top="243" left="55" width="500" height="15" font="3">by  paying  the  difference  in  Improvement  Rolls.  For  example  an  adventurer  with  a  fetish </text>
+<text top="260" left="55" width="500" height="15" font="3">containing an Intensity 2 Nature spirit can upgrade it to an Intensity 3 Nature Spirit by paying </text>
+<text top="276" left="55" width="500" height="15" font="3">1 Improvement Roll. They can also replace the spirit with the same type of spirit of the same </text>
+<text top="292" left="55" width="298" height="15" font="3">Intensity if they wish and they can persuade a shaman. </text>
+<text top="324" left="55" width="500" height="15" font="3">Remember shamans are not magic item factories. Each shaman is a combination of priest, </text>
+<text top="341" left="55" width="500" height="15" font="3">doctor, teacher, lawyer, undertaker and spiritual border guard for their community. Most of </text>
+<text top="357" left="55" width="499" height="15" font="3">their time is taken up with mundane affairs and they have very little time for the extensive </text>
+<text top="373" left="55" width="500" height="15" font="3">work  required  for  creating  fetishes.  Most  community  members  may  gain  a  fetish  as  an </text>
+<text top="389" left="55" width="500" height="15" font="3">adulthood  ritual  and  maybe  at  one  other  rite-de  passage.  Shamans  have  more  important </text>
+<text top="405" left="55" width="356" height="15" font="3">things to do than provide magic items for wandering adventurers. </text>
+<text top="444" left="55" width="155" height="31" font="8">Using Fetishes </text>
+<text top="474" left="55" width="500" height="15" font="3">A  bound  spirit  must  be  released  from  its  fetish  in  order  to  use  its  ability.  To  release  the </text>
+<text top="491" left="55" width="499" height="15" font="3">spirit  the  magician  simply  spends  a  single  Combat Action:  this  does  not  cost  any  Magic </text>
+<text top="507" left="55" width="500" height="15" font="3">Points and automatically succeeds without any skill test required. Commanding a released </text>
+<text top="523" left="55" width="500" height="15" font="3">spirit is more difﬁ cult. The spirit magician must use a free action, spend one 1 Magic Point </text>
+<text top="539" left="55" width="500" height="15" font="3">and  succeed  at  a  Spirit  Binding  skill  test  in  order  to  make  a  successful  Spirit  Command </text>
+<text top="555" left="55" width="500" height="15" font="3">Test. The Magic Point is spent regardless of whether or not the Spirit Binding skill roll is a </text>
+<text top="572" left="55" width="499" height="15" font="3">success. A free action is an action that can be performed at the same time as a regular Combat </text>
+<text top="588" left="55" width="500" height="15" font="3">Action. Generally, one free action can be performed per Combat Action. Therefore a spirit </text>
+<text top="604" left="55" width="499" height="15" font="3">magician can spend 1 Combat Action to release the spirit and, as part of the same action, try </text>
+<text top="620" left="55" width="500" height="15" font="3">to Command the spirit. This is how a spirit magician normally attempts to control their spirits </text>
+<text top="636" left="55" width="500" height="15" font="3">because a spirit released from a fetish without being commanded can act as it sees ﬁ t until </text>
+<text top="653" left="55" width="500" height="15" font="3">it is brought under control. If the spirit is a hostile one, such as a curse spirit, it may take the </text>
+<text top="669" left="55" width="289" height="15" font="3">chance to immediately attack the owner of the fetish. </text>
+<text top="701" left="55" width="500" height="15" font="3">A critical success when trying to Command a spirit means the attempt costs no Magic Points. </text>
+<text top="717" left="55" width="500" height="15" font="3">A failed attempt to Command the spirit means that the spirit magician must wait until their </text>
+<text top="734" left="55" width="500" height="15" font="3">next Combat Action to try again. While a spirit is under the owner’s control it will perform </text>
+<text top="750" left="55" width="500" height="15" font="3">its orders to the best of its abilities but if the owner wishes it to perform a new action, he will </text>
+<text top="766" left="55" width="500" height="15" font="3">have to make a new Spirit Command Test. There is always the possibility of losing control </text>
+<text top="782" left="55" width="500" height="15" font="3">of a spirit and the more powerful a spirit is, the more dangerous it is likely to be if the owner </text>
+<text top="798" left="55" width="75" height="15" font="3">loses control. </text>
+<text top="831" left="55" width="500" height="15" font="3">Commanding a spirit currently under its owner’s control to return to its fetish automatically </text>
+<text top="847" left="55" width="500" height="15" font="3">succeeds and does not cost any Magic Points; this is an effect of the binding ritual. If however </text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="918" width="594">
+	<fontspec id="17" size="13" family="Times" color="#000000"/>
+<text top="879" left="12" width="10" height="30" font="7">18</text>
+<text top="33" left="43" width="500" height="15" font="3">the owner does not have control of the spirit he will have to make a successful Spirit Command </text>
+<text top="49" left="43" width="500" height="15" font="3">Test to order the spirit back into its fetish. Given the potential risk of uncontrolled spirits it is </text>
+<text top="65" left="43" width="486" height="15" font="3">no surprise shamans will only provide their followers with friendly, easy to control spirits.</text>
+<text top="98" left="43" width="500" height="15" font="3">A fetish created by a spirit magician can only be used with the Spirit Binding skill. Should </text>
+<text top="114" left="43" width="500" height="15" font="3">someone come into possession of a fetish but not have the Spirit Binding skill then they will </text>
+<text top="130" left="43" width="500" height="15" font="3">not be able to use the fetish. However he could take the risk of breaking the fetish and hoping </text>
+<text top="146" left="43" width="500" height="15" font="3">that the spirit will be grateful. As an optional rule it is possible to release a spirit from a fetish </text>
+<text top="162" left="43" width="500" height="15" font="3">by spending 1 Magic Point. This does not naturally give any control over the spirit but fans </text>
+<text top="179" left="43" width="318" height="15" font="3">of Sinbad tales may see ways to utilise this rule creatively. </text>
+<text top="211" left="43" width="499" height="15" font="3">A fetish holding a spirit will take on some of the spirit’s essence over time. So a bear tooth </text>
+<text top="227" left="43" width="500" height="15" font="3">holding a bear spirit may seem dozy in winter or take on bearish odour. Fetishes holding </text>
+<text top="243" left="43" width="500" height="15" font="3">curse or sickness spirits may emit a miasma inducing minor symptoms in the holder, making </text>
+<text top="260" left="43" width="500" height="15" font="3">such fetishes extremely unpleasant. On the other hand, a stone holding a Salamander Spirit </text>
+<text top="276" left="43" width="331" height="15" font="3">will be warm to the touch, which may occasionally be useful.</text>
+<text top="308" left="43" width="500" height="15" font="3">Breaking a fetish immediately frees the spirit it contains and allows it to return to the spirit </text>
+<text top="324" left="43" width="500" height="15" font="3">plane. A freed spirit may attempt to ﬂ ee back to the spirit plane or, if hostile, possibly attempt </text>
+<text top="341" left="43" width="500" height="15" font="3">to attack the owner who imprisoned it. Malicious shamans sometimes trap places with easily </text>
+<text top="357" left="43" width="244" height="15" font="3">broken fetishes containing dangerous spirits. </text>
+<text top="389" left="43" width="500" height="15" font="3">The visual effects of using a fetish will vary depending on the setting. In a pseudo-historical </text>
+<text top="405" left="43" width="500" height="15" font="3">setting the spirit’s effects would be invisible to the naked eye. In fantasy setting the magician </text>
+<text top="422" left="43" width="500" height="15" font="3">might take on certain visual cues or the shadow might change. In an epic fantasy campaign </text>
+<text top="438" left="43" width="500" height="15" font="3">perhaps the snarling ﬁ gure of a wolf might surround the magician, seeming to lash out at </text>
+<text top="454" left="43" width="51" height="15" font="3">enemies. </text>
+<text top="492" left="43" width="205" height="31" font="8">Shamans and spirits</text>
+<text top="523" left="43" width="499" height="15" font="3">The  previous  section  looked  at  how  to  gain  and  use  a  fetish  provided  by  a  shaman. This </text>
+<text top="539" left="43" width="500" height="15" font="3">section examines how a shaman can gain spirits by journeying to the spirit plane and binding </text>
+<text top="555" left="43" width="500" height="15" font="3">spirits to service. Using Intensity as a measure of a spirit’s power, the table below shows what </text>
+<text top="572" left="43" width="500" height="15" font="3">the shaman’s required minimum skill in spirit binding along with the cost in Improvement </text>
+<text top="588" left="43" width="117" height="15" font="3">Rolls to bind a spirit. </text>
+<text top="622" left="43" width="108" height="20" font="13">Spirit Hunting</text>
+<text top="646" left="47" width="57" height="17" font="17"><b>Intensity</b></text>
+<text top="646" left="138" width="321" height="17" font="17"><b>Spirit Binding Skill Minimum Requirements IRs</b></text>
+<text top="667" left="47" width="8" height="16" font="2">1</text>
+<text top="667" left="138" width="27" height="16" font="2">61%</text>
+<text top="667" left="437" width="8" height="16" font="2">1</text>
+<text top="687" left="47" width="8" height="16" font="2">2</text>
+<text top="687" left="138" width="27" height="16" font="2">81%</text>
+<text top="687" left="437" width="8" height="16" font="2">2</text>
+<text top="707" left="47" width="8" height="16" font="2">3</text>
+<text top="707" left="138" width="35" height="16" font="2">121%</text>
+<text top="707" left="437" width="8" height="16" font="2">3</text>
+<text top="728" left="47" width="8" height="16" font="2">4</text>
+<text top="728" left="138" width="35" height="16" font="2">141%</text>
+<text top="728" left="437" width="8" height="16" font="2">4</text>
+<text top="760" left="43" width="500" height="15" font="3">For friendly spirits, the minimum skill requirement is reduced by 20%. In addition, a shaman </text>
+<text top="776" left="43" width="500" height="15" font="3">may  pay  1  additional  Improvement  Roll  for  friendly  or  neutral  spirits  in  order  to  reduce </text>
+<text top="792" left="43" width="500" height="15" font="3">the  minimum  spirit  binding  skill  requirement  by  another  20%.  So,  a  shaman  spending  4 </text>
+<text top="809" left="43" width="500" height="15" font="3">Improvement Rolls and approaching a friendly spirit of Intensity 3 needs a minimum spirit </text>
+<text top="825" left="43" width="500" height="15" font="3">binding skill of 81% rather than the usual 121%. These ﬁ gures are based on shamans acquiring </text>
+<text top="841" left="43" width="500" height="15" font="3">spirits  during  Down  Time  and  represent  a  minimum  of  risk  and  maximum  guarantee  of </text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="573" width="10" height="30" font="7">19</text>
+<text top="33" left="55" width="500" height="15" font="3">success. It takes 1D6 days of Down Time to ﬁ nd and bind a friendly spirit, 2D6 days to ﬁ nd </text>
+<text top="49" left="55" width="500" height="15" font="3">a neutral spirit and 2D6+6 days of careful planning to safely ﬁ nd a hostile spirit that can be </text>
+<text top="65" left="55" width="41" height="15" font="3">bound. </text>
+<text top="98" left="55" width="499" height="15" font="3">The Spirit Binding Skill requirement to ﬁ nd a spirit on the spirit plane and defeat it in spirit </text>
+<text top="114" left="55" width="500" height="15" font="3">combat is not the same as the requirement needed to control a spirit already bound into a </text>
+<text top="130" left="55" width="500" height="15" font="3">fetish. A spirit magician with a Spirit Binding skill of 40% is able to control a bound spirit of </text>
+<text top="146" left="55" width="500" height="15" font="3">up to POW 12. However that same spirit will probably have a spectral combat skill of 60% </text>
+<text top="162" left="55" width="500" height="15" font="3">(POWx5%) and would is likely to defeat the magician if he attacked it in spirit combat. It </text>
+<text top="179" left="55" width="500" height="15" font="3">takes a higher skill to ﬁ nd and bind a spirit than it does to merely control one already bound </text>
+<text top="195" left="55" width="60" height="15" font="3">in a fetish. </text>
+<text top="227" left="55" width="500" height="15" font="3">Of course players can have their shaman characters undertake quests to ﬁ nd spirits during play </text>
+<text top="243" left="55" width="500" height="15" font="3">sessions. In this case there is no Improvement Roll cost involved and they can tackle more </text>
+<text top="260" left="55" width="492" height="15" font="3">dangerous spirits with help from allies. Such sessions are full of roleplaying opportunities. </text>
+<text top="296" left="55" width="183" height="26" font="10">The Shaman’s Fetch </text>
+<text top="319" left="55" width="500" height="15" font="3">Not every Shamanic tradition features fetches and those that do vary in the nature of the </text>
+<text top="335" left="55" width="499" height="15" font="3">fetch. In some traditions the fetch is the awakened “other half” of the shaman. In this case </text>
+<text top="351" left="55" width="500" height="15" font="3">the fetch and shaman are two sides of the same soul with the fetch perceiving the Spirit Plane </text>
+<text top="368" left="55" width="499" height="15" font="3">while the shaman exists on the mundane plane. In other traditions the fetch is a spirit (often </text>
+<text top="384" left="55" width="500" height="15" font="3">an animal guide) who is drawn to the shaman to become their spiritual partner. In both cases </text>
+<text top="400" left="55" width="500" height="15" font="3">the prospective shaman must undertake a successful Vision Quest in order to gain the fetch. </text>
+<text top="416" left="55" width="500" height="15" font="3">This is a dangerous ritual, and it may cripple or kill the shaman if he fails to complete it </text>
+<text top="432" left="55" width="72" height="15" font="3">successfully. </text>
+<text top="465" left="55" width="500" height="15" font="3">The precise abilities of a fetch vary widely between traditions. In cases where the fetch is the </text>
+<text top="481" left="55" width="500" height="15" font="3">shaman’s other half the fetch often provides the shaman with the ability to shapechange. If </text>
+<text top="497" left="55" width="500" height="15" font="3">the fetch is an animal guide then the shaman may gain the ability to communicate with such </text>
+<text top="513" left="55" width="500" height="15" font="3">animals, control them or gain traits of the animal; this is commonly the case with the animal </text>
+<text top="530" left="55" width="165" height="15" font="3">nomad shamans in Glorantha. </text>
+<text top="562" left="55" width="499" height="15" font="3">A fetch is never bound into a fetish. In some cases a shaman may create an item referred to as </text>
+<text top="578" left="55" width="499" height="15" font="3">a fetish, which is used to focus their relationship with their fetch but this is generally a matter </text>
+<text top="594" left="55" width="285" height="15" font="3">of tradition and does not usually have a game effect. </text>
+<text top="627" left="55" width="500" height="15" font="3">This is potentially a huge advantage and Games Masters will have to decide whether concerts </text>
+<text top="643" left="55" width="500" height="15" font="3">exist in their campaign and how easy it is to ﬁ nd a teacher for the Concert skill. By default </text>
+<text top="659" left="55" width="500" height="15" font="3">it  is  rare  skill  and  it  is  recommended  you  do  not  introduce  it  into  a  game  until  you  feel </text>
+<text top="675" left="55" width="163" height="15" font="3">comfortable with spirit magic.</text>
+<text top="712" left="55" width="104" height="26" font="10">Spirit Allies</text>
+<text top="735" left="55" width="500" height="15" font="3">Over time a shaman gradually makes contact with many spirits. Rather than binding them all </text>
+<text top="751" left="55" width="500" height="15" font="3">to service, most Shamans attempt to strike bargains; they provide something the spirit wants </text>
+<text top="767" left="55" width="500" height="15" font="3">and the spirit undertakes some service. In game terms, such spirits are effectively contacts and </text>
+<text top="783" left="55" width="500" height="15" font="3">act as non player characters. Some spirits are willing to enter into a more formal arrangement </text>
+<text top="800" left="55" width="500" height="15" font="3">by providing the Shaman with their name, becoming an ally of the shaman. In response the </text>
+<text top="816" left="55" width="500" height="15" font="3">Shaman agrees to undertake some sort of repeating task or to uphold a geas or compulsion. </text>
+<text top="832" left="55" width="500" height="15" font="3">On the most abstract level assume the task will cost the shaman one Improvement Roll per </text>
+<text top="848" left="55" width="253" height="15" font="3">year to represent the service or inconvenience. </text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="12" width="10" height="30" font="7">20</text>
+<text top="33" left="43" width="500" height="15" font="3">Summoning a spirit contact or ally requires the shaman to make a Spirit Walking skill test </text>
+<text top="49" left="43" width="500" height="15" font="3">and spend 1 Magic Point; this takes a single Combat Action and the Magic Point is spent </text>
+<text top="65" left="43" width="500" height="15" font="3">even if the skill test fails. It will usually take 1D6 minutes before the spirit arrives. If the spirit </text>
+<text top="81" left="43" width="500" height="15" font="3">is a contact then the shaman must succeed at the Spirit Walking skill test or else the spirit </text>
+<text top="98" left="43" width="500" height="15" font="3">does not appear. If it is an ally it will appear regardless of the skill result unless the Shaman </text>
+<text top="114" left="43" width="500" height="15" font="3">fumbles. In either case, if the skill test is a critical success the spirit will appear at the end of </text>
+<text top="130" left="43" width="105" height="15" font="3">the Combat Round.</text>
+<text top="162" left="43" width="500" height="15" font="3">Some  allies  may  be  willing  to  undertake  tasks  for  the  magician  or  even  ﬁ ght  for  him  by </text>
+<text top="179" left="43" width="500" height="15" font="3">discorporating  an  enemy  but  this  should  be  a  relationship  that  unfolds  over  time  in  play. </text>
+<text top="195" left="43" width="500" height="15" font="3">Most spirits are no more capable of interacting with the mundane world than mortals are </text>
+<text top="211" left="43" width="500" height="15" font="3">capable of interacting with the spirit world. A shaman can however use their Spirit Walking </text>
+<text top="227" left="43" width="500" height="15" font="3">skill to summon a consenting spirit to the mundane world. A High Shaman can use their </text>
+<text top="243" left="43" width="500" height="15" font="3">Spirit Walking skill to forcibly drag a spirit to the mundane plane if he overcomes the spirit’s </text>
+<text top="260" left="43" width="64" height="15" font="3">Persistence.</text>
+<text top="298" left="43" width="137" height="31" font="8">Spirit Powers</text>
+<text top="329" left="43" width="500" height="15" font="3">There are four ways in which a spirit magician can use a spirit’s powers. The simplest and </text>
+<text top="345" left="43" width="500" height="15" font="3">safest way is the augmentation provided by nature and guardian spirits. The spirit gives the </text>
+<text top="361" left="43" width="500" height="15" font="3">magician a beneﬁ t by impressing itself upon the magician’s soul and is easily returned to a </text>
+<text top="377" left="43" width="500" height="15" font="3">fetish. Elemental spirits however require embodiment, a harder and more demanding act. A </text>
+<text top="393" left="43" width="500" height="15" font="3">weak magician who incautiously embodies an elemental spirit risks being consumed by it. </text>
+<text top="410" left="43" width="500" height="15" font="3">Finally, ancestor spirits possess the magician, taking complete control. Should an ancestor </text>
+<text top="426" left="43" width="500" height="15" font="3">not wish to depart there is little the unfortunate magician can do. Finally some spirits such </text>
+<text top="442" left="43" width="499" height="15" font="3">as curse and sickness spirits are freed to attack a victim. The danger in this act is that if the </text>
+<text top="458" left="43" width="283" height="15" font="3">magician is weak the spirit may turn on him instead.</text>
+<text top="495" left="43" width="139" height="26" font="10">Ancestor Spirits</text>
+<text top="518" left="43" width="500" height="15" font="3">Unlike the other spirits which are generally bound for their abilities, ancestors are venerated </text>
+<text top="534" left="43" width="500" height="15" font="3">by spirit magicians and their aid is requested. If the ancestor agrees to aid it possesses the </text>
+<text top="550" left="43" width="500" height="15" font="3">spirit magician’s body. As the spirit magician’s body is the link to the mundane plane no </text>
+<text top="566" left="43" width="500" height="15" font="3">fetish is required, instead there must be a blood link between the host and the ancestor. The </text>
+<text top="582" left="43" width="491" height="15" font="3">ancestor may agree to inhabit the body of a willing third party provided a blood link exists.</text>
+<text top="615" left="43" width="500" height="15" font="3">Some  ancestors  are  prepared  to  temporarily  inhabit  an  item  of  great  signiﬁ cance  to  the </text>
+<text top="631" left="43" width="500" height="15" font="3">ancestor  in  order  to  be  manifested  for  some  purpose. The  item  might  be  an  altar,  family </text>
+<text top="647" left="43" width="500" height="15" font="3">sword, a crown or even a signiﬁ cant place such as a tree in a secret grove. The ancestor will </text>
+<text top="663" left="43" width="500" height="15" font="3">voluntarily enter the item as if it were a fetish and wait to be released when it will perform </text>
+<text top="680" left="43" width="500" height="15" font="3">one agreed upon service. Being bound in this way is extremely unpleasant so the expectation </text>
+<text top="696" left="43" width="500" height="15" font="3">is that this will only last a few hours. Any longer and the spirit may extract penance at the ﬁ rst </text>
+<text top="712" left="43" width="500" height="15" font="3">possibility. Regardless of whether the ancestor is inhabiting a body or object it counts against </text>
+<text top="728" left="43" width="340" height="15" font="3">the number of spirits able to be controlled by a spirit magician.</text>
+<text top="744" left="43" width="500" height="15" font="3">Although ancestor spirits of Intensity 1 exist they tend to be too weak and too little known </text>
+<text top="761" left="43" width="500" height="15" font="3">to be venerated outside of maybe a small family shrine. All venerable ancestors tend to be </text>
+<text top="777" left="43" width="500" height="15" font="3">Intensity 2 or greater and were notable heroes in their time. Since they died, the veneration </text>
+<text top="793" left="43" width="500" height="15" font="3">they have received is likely to have further enhanced their POW. We will present a simple </text>
+<text top="809" left="43" width="291" height="15" font="3">system for designing ancestor spirits of any Intensity. </text>
+<text top="842" left="43" width="500" height="15" font="3">All ancestor spirits know the Lore and Culture skills of their people and region at 90% plus </text>
+<text top="858" left="43" width="500" height="15" font="3">their POW. They also know Persistence at POWx4%, and Spectral Combat at POWx5%. In </text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="573" width="10" height="30" font="7">21</text>
+<text top="33" left="55" width="500" height="15" font="3">addition, for each level of Intensity an ancestor spirit can choose one additional skill which </text>
+<text top="49" left="55" width="373" height="15" font="3">it knows at 90% plus its POW and pick twice from the following list:</text>
+<text top="81" left="55" width="178" height="15" font="3">• another skill at 90% plus POW;</text>
+<text top="98" left="55" width="179" height="15" font="3">• Discorporate skill at POW*5%;</text>
+<text top="114" left="55" width="109" height="15" font="3">• one Heroic ability;</text>
+<text top="130" left="55" width="500" height="15" font="3">• one Common Magic spell at the maximum Magnitude it can memorise (as well as Common </text>
+<text top="146" left="55" width="308" height="15" font="3">Magic skill at 90% plus POW if it is not already known);</text>
+<text top="162" left="55" width="500" height="15" font="3">• has a fetch. (The ancestor is a shaman. The Fetch’s characteristics are equal to the ancestor’s </text>
+<text top="179" left="55" width="496" height="15" font="3">+1D6-1D6.  For  example  an  ancestor  with  a  POW  of  20  has  a  fetch  with  a  POW  of  20-</text>
+<text top="195" left="55" width="62" height="15" font="3">1D6+1D6.)</text>
+<text top="211" left="55" width="500" height="15" font="3">• has a spirit ally of one less Intensity than the ancestor which will appear within 1D3 Combat </text>
+<text top="227" left="55" width="500" height="15" font="3">Rounds of being summoned by the ancestor through use of the Spirit Walking Skill. These </text>
+<text top="243" left="55" width="500" height="15" font="3">allies will not themselves usually bring allies. That said, ancestors of Intensity 6 or greater </text>
+<text top="260" left="55" width="196" height="15" font="3">may control a whole army of spirits.</text>
+<text top="292" left="55" width="500" height="15" font="3">These abilities will cover most options but, of course, players and Games Masters should </text>
+<text top="308" left="55" width="500" height="15" font="3">feel free to be as creative as they want in designing ancestor spirits to ﬁ t the needs of their </text>
+<text top="324" left="55" width="500" height="15" font="3">campaign. Remember as well that the most common interaction with ancestors is likely to </text>
+<text top="341" left="55" width="500" height="15" font="3">be the use of Spirit Walking to talk with them or request aid other than possession. Over the </text>
+<text top="357" left="55" width="500" height="15" font="3">period  of  a  campaign,  some  ancestors  may  become  recurring  non  player  characters,  with </text>
+<text top="373" left="55" width="101" height="15" font="3">their own agendas.</text>
+<text top="410" left="55" width="277" height="26" font="10">Curse, Sickness and Bane spirits </text>
+<text top="432" left="55" width="500" height="15" font="3">Although these spirits can be bound for later use they are never used to augment the spirit </text>
+<text top="449" left="55" width="499" height="15" font="3">magician, rather they are sent against an enemy. They are hostile to all traditions save those </text>
+<text top="465" left="55" width="500" height="15" font="3">perverse  enough  to  revere  them.  The  Intensity  of  Curse  &amp;  Sickness  spirits  measures  the </text>
+<text top="481" left="55" width="500" height="15" font="3">number and severity of the conditions they can inﬂ ict on a target once they have possessed </text>
+<text top="497" left="55" width="500" height="15" font="3">the victim. Each condition requires one or more points of Intensity, so an Intensity 2 Curse </text>
+<text top="513" left="55" width="500" height="15" font="3">spirit can inﬂ ict two Intensity one conditions or one Intensity two condition. Diseases tend </text>
+<text top="530" left="55" width="500" height="15" font="3">to be a package of conditions so you can assess the Intensity of the Disease spirit carrying a </text>
+<text top="546" left="55" width="304" height="15" font="3">particular disease by looking at the conditions it causes. </text>
+<text top="578" left="55" width="500" height="15" font="3">• Intensity 1: Blindness, Confusion, Contagious, Deafness, Dumbness, Exhaustion, Fever, </text>
+<text top="594" left="55" width="324" height="15" font="3">Hallucination, Maiming, Mania, Nausea, Unconsciousness. </text>
+<text top="611" left="55" width="276" height="15" font="3">• Intensity 2: Agony, Bleeding, Paralysis, Sapping. </text>
+<text top="627" left="55" width="190" height="15" font="3">• Intensity 3: Asphyxiation, Death. </text>
+<text top="659" left="55" width="499" height="15" font="3">See  <i>Legend</i>  (page  79)  for  a  description  of  the  effects  of  each  condition.  Unlike  ‘normal’ </text>
+<text top="675" left="55" width="500" height="15" font="3">diseases,  conditions  caused  by  spirits  do  not  recover  naturally  even  with  application  of </text>
+<text top="692" left="55" width="500" height="15" font="3">healing skills. Some Higher Magic spells may work for a while if their Magnitude is greater </text>
+<text top="708" left="55" width="500" height="15" font="3">than the spirit’s Intensity. Thus a Divine Spell to cure blindness of higher Magnitude than </text>
+<text top="724" left="55" width="500" height="15" font="3">the possessing spirit’s Intensity will work but unless the spirit is driven out, the effects will </text>
+<text top="740" left="55" width="93" height="15" font="3">gradually return. </text>
+<text top="777" left="55" width="154" height="26" font="10">Elemental Spirits </text>
+<text top="800" left="55" width="500" height="15" font="3">The differences between the elementals summoned by priests and wizards and the elemental </text>
+<text top="816" left="55" width="500" height="15" font="3">spirits bound by Shamans are subtle but signiﬁ cant. An elemental is summoned to the mundane </text>
+<text top="832" left="55" width="500" height="15" font="3">plane and embodied within the appropriate source. A shaman is capable of embodying an </text>
+<text top="848" left="55" width="500" height="15" font="3">elemental spirit, which means that shaman’s body itself becomes the elemental. Elemental </text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="12" width="10" height="30" font="7">22</text>
+<text top="33" left="43" width="500" height="15" font="3">spirits of high POW are often intelligent and self-willed. As with any spirit, the potency of </text>
+<text top="49" left="43" width="297" height="15" font="3">the embodied elemental spirit depends on its Intensity. </text>
+<text top="81" left="43" width="500" height="15" font="3">A Spirit Magician can bind an elemental spirit into a fetish in the normal manner but the </text>
+<text top="98" left="43" width="500" height="15" font="3">fetish must be chosen carefully for even while bound some of the elemental spirit’s power is </text>
+<text top="114" left="43" width="500" height="15" font="3">manifested. A ﬁ re elemental must be bound into a fetish capable of withstanding heat while </text>
+<text top="130" left="43" width="323" height="15" font="3">an water elemental’s fetish will become damp and clammy. </text>
+<text top="162" left="43" width="500" height="15" font="3">When  the  spirit  magician  releases  an  elemental  spirit  from  a  fetish  it  does  not  need  any </text>
+<text top="179" left="43" width="500" height="15" font="3">source material but while uncontrolled it will gravitate to the nearest source of its element </text>
+<text top="195" left="43" width="500" height="15" font="3">within range of the binding object. By itself it is just a spirit and has no signiﬁ cant effect on </text>
+<text top="211" left="43" width="500" height="15" font="3">the mundane plane. The spirit’s power does not truly manifest until the spirit magic controls </text>
+<text top="227" left="43" width="500" height="15" font="3">and embodies it through use of the Spirit Binding Skill. As with any control attempt, the spirit </text>
+<text top="243" left="43" width="500" height="15" font="3">magician must succeed at the skill and spend 1 Magic Point as a Free Action. If the spirit </text>
+<text top="260" left="43" width="500" height="15" font="3">magician succeeds, their body itself becomes the elemental. A spirit magician embodying a </text>
+<text top="276" left="43" width="500" height="15" font="3">sylph transforms into a vortex of buffeting winds while a one embodying a gnome will sink </text>
+<text top="292" left="43" width="344" height="15" font="3">into the ground as if they were some type of earthen whirlpool. </text>
+<text top="324" left="43" width="500" height="15" font="3">While  embodying  an  elemental  spirit,  the  spirit  magician  cannot  turn  off  or  dampen  the </text>
+<text top="341" left="43" width="500" height="15" font="3">effects. Furthermore, returning the elemental spirit to the fetish is far more difﬁ cult than for </text>
+<text top="357" left="43" width="500" height="15" font="3">other spirits as the magician must make a successful Command Roll in order to successfully </text>
+<text top="373" left="43" width="500" height="15" font="3">force the spirit back into the fetish. Finally, while in his elemental form, the spirit magician </text>
+<text top="389" left="43" width="500" height="15" font="3">is vulnerable to opposing elements just as an elemental is. For all these reasons, embodying </text>
+<text top="405" left="43" width="299" height="15" font="3">a powerful elemental spirit is never lightly undertaken. </text>
+<text top="438" left="43" width="500" height="15" font="3">A spirit magician embodying an elemental spirit essentially becomes an elemental of size </text>
+<text top="454" left="43" width="325" height="15" font="3">based on the spirit’s Intensity as outlined on the table below.</text>
+<text top="488" left="43" width="205" height="20" font="13">Elemental Spirit Size Table</text>
+<text top="512" left="47" width="97" height="17" font="17"><b>Spirit Intensity</b></text>
+<text top="512" left="166" width="95" height="17" font="17"><b>Elemental Size</b></text>
+<text top="533" left="47" width="8" height="16" font="2">1</text>
+<text top="533" left="166" width="82" height="16" font="2">1 cubic metre</text>
+<text top="553" left="47" width="8" height="16" font="2">2</text>
+<text top="553" left="166" width="87" height="16" font="2">3 cubic metres</text>
+<text top="573" left="47" width="8" height="16" font="2">3</text>
+<text top="573" left="166" width="87" height="16" font="2">6 cubic metres</text>
+<text top="593" left="47" width="8" height="16" font="2">4</text>
+<text top="593" left="166" width="95" height="16" font="2">10 cubic metres</text>
+<text top="614" left="47" width="8" height="16" font="2">5</text>
+<text top="614" left="166" width="95" height="16" font="2">15 cubic metres</text>
+<text top="634" left="47" width="16" height="16" font="2">+1</text>
+<text top="634" left="166" width="181" height="16" font="2">+6, +7 and so on cubic metres</text>
+<text top="666" left="43" width="500" height="15" font="3">The  magician’s  STR,  DEX  and  Hit  Points  are  replaced  by  the  spirit’s  values  (which  are </text>
+<text top="682" left="43" width="500" height="15" font="3">rolled  as  normal  for  an  elemental  of  its  SIZ  when  ﬁ rst  encountered)  and  he  gains  all  the </text>
+<text top="698" left="43" width="500" height="15" font="3">abilities (including its weaknesses) of the elemental. When the elemental spirit is returned </text>
+<text top="714" left="43" width="500" height="15" font="3">to the fetish, any damage done to the magician while embodying the spirit is divided evenly </text>
+<text top="731" left="43" width="500" height="15" font="3">between all his Hit Locations (rounding up as usual). For example if a human took 23 points </text>
+<text top="747" left="43" width="500" height="15" font="3">of damage while in elemental form then he would take 4 points of damage to each of his 7 </text>
+<text top="763" left="43" width="232" height="15" font="3">locations once he returned to human form. </text>
+<text top="795" left="43" width="500" height="15" font="3">Shamans  forming  concerts  to  control  huge  elemental  spirits  face  particular  problems. </text>
+<text top="812" left="43" width="500" height="15" font="3">Although a concert with 300% in Spirit Binding could theoretically control a bound elemental </text>
+<text top="828" left="43" width="500" height="15" font="3">spirit of 90 POW the leader of the concert would have to embody an elemental of some 120 </text>
+<text top="844" left="43" width="499" height="15" font="3">cubic metres. Remember that all concert members need to be within a few metres of each </text>
+<text top="860" left="43" width="500" height="15" font="3">other, which means they risk being incinerated, drowned or otherwise affected due to the </text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="573" width="10" height="30" font="7">23</text>
+<text top="33" left="55" width="500" height="15" font="3">sheer scale of the elemental. Furthermore, if the concert breaks down as well as the potential </text>
+<text top="49" left="55" width="477" height="15" font="3">backlash the shaman embodying the elemental spirit will no longer be able to control it. </text>
+<text top="81" left="55" width="500" height="15" font="3">Although  embodying  an  elemental  spirit  can  be  extremely  impressive  it  also  opens  the </text>
+<text top="98" left="55" width="500" height="15" font="3">magician up to new problems. Like an elemental, a magician embodying an elemental spirit </text>
+<text top="114" left="55" width="500" height="15" font="3">will take double damage from the opposing element and can be neutralised by an opposing </text>
+<text top="130" left="55" width="500" height="15" font="3">elemental of the same size or bigger in cubic metres. Reducing the magician to 0 Hit Points </text>
+<text top="146" left="55" width="500" height="15" font="3">while embodying the elemental spirit instantly breaks the fetish and frees the spirit, possibly </text>
+<text top="162" left="55" width="500" height="15" font="3">also killing the magician in the process. Spells able to dismiss elementals (such as the divine </text>
+<text top="179" left="55" width="500" height="15" font="3">spell Dismiss Elemental or the sorcery spell Banish) will free the elemental and destroy the </text>
+<text top="195" left="55" width="474" height="15" font="3">fetish if the effect is great enough to affect an elemental of the appropriate size or POW.</text>
+<text top="227" left="55" width="500" height="15" font="3">A common optional rule is to allow elementals to mutually annihilate each other. Generally </text>
+<text top="243" left="55" width="500" height="15" font="3">Fire and Water cancel each other out while Earth and Air also oppose each other. Different </text>
+<text top="260" left="55" width="500" height="15" font="3">settings have different elemental cosmologies. Opposed elementals can annihilate each other </text>
+<text top="276" left="55" width="500" height="15" font="3">it by inﬂ icting damage equal to their Hit Points directly to each other. Alternately any attacks </text>
+<text top="292" left="55" width="500" height="15" font="3">launched by an elemental inﬂ ict double damage to their opposed element. For example, an </text>
+<text top="308" left="55" width="500" height="15" font="3">air elemental with 21 Hit Points is grabbed by an earth elemental with 32 Hit Points. The </text>
+<text top="324" left="55" width="500" height="15" font="3">air elemental takes 32 Hit Points damage and is dispersed while the earth elemental suffers </text>
+<text top="341" left="55" width="500" height="15" font="3">21  Hit  Points  damage;  it  has  been  severely  knocked  about  by  the  air  elemental  but  still </text>
+<text top="357" left="55" width="49" height="15" font="3">standing.</text>
+<text top="393" left="55" width="124" height="26" font="10">Nature Spirits</text>
+<text top="416" left="55" width="500" height="15" font="3">These spirits augment the spirit magician’s abilities exactly as described. It is possible to </text>
+<text top="432" left="55" width="500" height="15" font="3">augment  Combat Actions  but  that  requires  a  minimum  Intensity  of  2,  giving  +1  Combat </text>
+<text top="449" left="55" width="500" height="15" font="3">Action per point of Intensity after the ﬁ rst (so an Intensity 3 spirit gives +2 Combat Actions). </text>
+<text top="465" left="55" width="500" height="15" font="3">Magicians cannot command their spirits to augment others’ abilities: it is the bond between </text>
+<text top="481" left="55" width="269" height="15" font="3">magician and spirit that allows the augmentation. </text>
+<text top="513" left="55" width="499" height="15" font="3">When designing Nature and Guardian spirits for non player characters there is no need to </text>
+<text top="530" left="55" width="500" height="15" font="3">determine all its skills and characteristics in advance as they can always be ﬁ gured out on </text>
+<text top="546" left="55" width="500" height="15" font="3">the ﬂ y. Usually it is enough to write something like: Armour Points +2 (Bear spirit, Intensity </text>
+<text top="562" left="55" width="68" height="15" font="3">2, POW 14).</text>
+<text top="594" left="55" width="500" height="15" font="3">Finally, nature spirits do not have to be bound to be useful. Higher Intensity spirits will be </text>
+<text top="611" left="55" width="499" height="15" font="3">fully sapient and can be negotiated with to undertake tasks, gather information or come to </text>
+<text top="627" left="55" width="136" height="15" font="3">the spirit magician’s aid. </text>
+<text top="665" left="55" width="148" height="31" font="8">Spirit Combat</text>
+<text top="696" left="55" width="500" height="15" font="3">Spirit combat occurs only on the spirit plane and requires both participants to be there. High </text>
+<text top="712" left="55" width="500" height="15" font="3">Shamans can discorporate corporeal beings through spending one Magic Point and pitting </text>
+<text top="728" left="55" width="500" height="15" font="3">their Spirit Walking skill against the target’s Persistence as a Combat Action. The target has </text>
+<text top="744" left="55" width="500" height="15" font="3">to be within range of the skill (the Shaman’s POW in metres). Spirits using the Discorporate </text>
+<text top="761" left="55" width="500" height="15" font="3">skill likewise must spend one Magic Point and a Combat Action to discorporate a corporeal </text>
+<text top="777" left="55" width="500" height="15" font="3">being whose soul they can perceive and who is within their POW in metres on the spirit </text>
+<text top="793" left="55" width="500" height="15" font="3">plane. Naturally they can keep trying for as long as they have Magic Points but if the target </text>
+<text top="809" left="55" width="500" height="15" font="3">successfully resists with a critical then it is reasonable to assume the target is immune to </text>
+<text top="825" left="55" width="500" height="15" font="3">being discorporated by that particular shaman or spirit for at least a week. As discorporation </text>
+<text top="842" left="55" width="500" height="15" font="3">is an extremely powerful ability then one option is to increase the cost for multiple attempts </text>
+<text top="858" left="55" width="500" height="15" font="3">against the same person by one Magic Point each time. So the ﬁ rst attempt at discorporation </text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="12" width="10" height="30" font="7">24</text>
+<text top="33" left="43" width="499" height="15" font="3">costs 1 Magic Point, the second costs two, the third costs three and so on. This will prevent </text>
+<text top="49" left="43" width="355" height="15" font="3">spirits from simply trying over and over again until they succeed. </text>
+<text top="81" left="43" width="500" height="15" font="3">Once both participants are on the spirit plane Spirit Combat may continue until one side has </text>
+<text top="98" left="43" width="500" height="15" font="3">been reduced to zero Magic Points. The winner does not have to take advantage of the loser </text>
+<text top="114" left="43" width="500" height="15" font="3">and it is important to remember that spirit combat can represent any kind of contest from a </text>
+<text top="130" left="43" width="500" height="15" font="3">battle of wits to an artistic performance; it does not always have to be a grim battle to the end. </text>
+<text top="146" left="43" width="437" height="15" font="3">The same mechanic is used but how it plays out depends on the beings involved. </text>
+<text top="183" left="43" width="286" height="26" font="10">Spirit Combat and bound spirits </text>
+<text top="206" left="43" width="500" height="15" font="3">Spirit combat happens on the spirit plane and a fetish (or other binding object) binds a spirit to </text>
+<text top="222" left="43" width="500" height="15" font="3">the mundane plane so it follows logically that a spirit bound in a fetish cannot be commanded </text>
+<text top="238" left="43" width="499" height="15" font="3">to attack an opponent in the spirit plane. A spirit magician wishing to use a curse, sickness </text>
+<text top="254" left="43" width="500" height="15" font="3">or even bane spirit this way must therefore free the spirit by breaking the fetish. Of course, </text>
+<text top="270" left="43" width="500" height="15" font="3">breaking the fetish frees the spirit from the magician’s control so there is no obligation for </text>
+<text top="287" left="43" width="500" height="15" font="3">the spirit to do what the magician wants. Indeed there is now nothing stopping the spirit from </text>
+<text top="303" left="43" width="500" height="15" font="3">turning on the person who freed it. Generally the procedure is that the magician points the </text>
+<text top="319" left="43" width="500" height="15" font="3">fetish at the victim and promises the spirit freedom if it attacks the target. Usually it will </text>
+<text top="335" left="43" width="500" height="15" font="3">agree because its nature is to attack and possess corporeal beings and also because usually the </text>
+<text top="351" left="43" width="500" height="15" font="3">magician who bound it is more powerful than the spirit. If, however, the owner is weaker than </text>
+<text top="368" left="43" width="500" height="15" font="3">the spirit the spirit is completely free to attack its owner instead. This is yet another reason </text>
+<text top="384" left="43" width="470" height="15" font="3">shamans are reluctant to provide these types of spirits to worshippers in their tradition. </text>
+<text top="416" left="43" width="500" height="15" font="3">In  game  terms,  assume  that  a  spirit  with  a  lower  POW  than  the  magician  will  attack  the </text>
+<text top="432" left="43" width="500" height="15" font="3">intended  target.  Optionally,  call  for  a  Spirit  Binding  roll  opposed  by  the  spirit’s  Spectral </text>
+<text top="449" left="43" width="500" height="15" font="3">Combat Skill. If the magician fails to win, the spirit simply departs. If the magician fumbles, </text>
+<text top="465" left="43" width="500" height="15" font="3">or if he fails while the spirit succeeds and the spirit is of greater POW than the magician, it </text>
+<text top="481" left="43" width="136" height="15" font="3">will turn on him instead. </text>
+<text top="513" left="43" width="500" height="15" font="3">Generally a spirit magician does not bind an aggressive spirit like a curse spirit to a fetish as </text>
+<text top="530" left="43" width="499" height="15" font="3">the risks are high and the fetish is unpleasant to handle. Instead, if the magician wishes to </text>
+<text top="546" left="43" width="500" height="15" font="3">send such a spirit against an enemy the usual procedure is to journey to the spirit plane and </text>
+<text top="562" left="43" width="500" height="15" font="3">defeat the appropriate spirit; once defeated the shaman can compel the spirit to one service. </text>
+<text top="578" left="43" width="500" height="15" font="3">A possession or part of the target is burnt or otherwise consumed in order to identify the </text>
+<text top="594" left="43" width="500" height="15" font="3">target. Once the spirit has regained its Magic Points it will journey to the target and attack </text>
+<text top="611" left="43" width="500" height="15" font="3">it. Alternately the shaman may command the defeated spirit to perform one service in the </text>
+<text top="627" left="43" width="499" height="15" font="3">future. Such a spirit will act like a spirit contact and come within 1D6 minutes of a successful </text>
+<text top="643" left="43" width="253" height="15" font="3">Spirit Walking skill test to attack an opponent. </text>
+<text top="675" left="43" width="500" height="15" font="3">The most fearsome shamans are those from traditions with friendly curse and sickness spirits. </text>
+<text top="692" left="43" width="500" height="15" font="3">Such spirits may become allies and willingly attack victims nominated by the shaman. Once </text>
+<text top="708" left="43" width="418" height="15" font="3">the victim is dead, the ally will return to the shaman to beg for more victims. </text>
+<text top="740" left="43" width="500" height="15" font="3">If spirit combat happens on the spirit plane, what does it look like back on the mundane </text>
+<text top="756" left="43" width="500" height="15" font="3">plane? The answer to that depends on the victim’s Spirit Walking skill. Someone with no </text>
+<text top="773" left="43" width="500" height="15" font="3">ability in the skill has no way of controlling their physical body while they are on the spirit </text>
+<text top="789" left="43" width="499" height="15" font="3">plane so when they are attacked they might writhe around and show symptoms of the attack. </text>
+<text top="805" left="43" width="499" height="15" font="3">Someone  being  attacked  by  a  sickness  spirit  might  break  out  in  boils  and  cold  sweats  or </text>
+<text top="821" left="43" width="500" height="15" font="3">might vomit endlessly depending on the conditions they are ﬁ ghting against. Someone who </text>
+<text top="837" left="43" width="500" height="15" font="3">has training in Spirit Walking may be able to mostly control their body showing just small </text>
+<text top="854" left="43" width="500" height="15" font="3">signs of stress. A shaman with a Fetch will be able to sit serenely, their body undisturbed </text>
+<text top="870" left="43" width="243" height="15" font="3">while on the spirit plane the struggle ensues. </text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="573" width="10" height="30" font="7">25</text>
+<text top="33" left="55" width="500" height="15" font="3">In campaigns with a lot of spirit combat various questions come up about how exactly ﬁ ghts </text>
+<text top="49" left="55" width="499" height="15" font="3">occur and whether it is possible for one side to ﬂ ee. Generally speaking, if a spirit magician </text>
+<text top="65" left="55" width="500" height="15" font="3">is  looking  for  a  spirit  to  bind  he  must  hunt  the  spirit,  sneaking  close  enough  to  it  to  be </text>
+<text top="81" left="55" width="500" height="15" font="3">able to attack it. Spirit walking corporeal beings as well as natural spirits can attack anyone </text>
+<text top="98" left="55" width="500" height="15" font="3">within their POW in metres. While adjacent the combat looks like two enemies exchanging </text>
+<text top="114" left="55" width="500" height="15" font="3">blows while enemies distant from each other appear to aim missiles or simply leap at each </text>
+<text top="130" left="55" width="500" height="15" font="3">other. Like normal combat, spirit combat can generate Combat Manoeuvres although many </text>
+<text top="146" left="55" width="500" height="15" font="3">will be effectively meaningless. The Change Range manoeuvre (or action) can be used to </text>
+<text top="162" left="55" width="500" height="15" font="3">disengage and ﬂ ee. If the ﬂ eeing spirit has a higher POW than the other spirit then once it </text>
+<text top="179" left="55" width="500" height="15" font="3">has successfully performed a Range Change it can ﬂ ee automatically. If the other spirit has a </text>
+<text top="195" left="55" width="500" height="15" font="3">higher POW then it will be able to hunt down the ﬂ eeing spirit, though that might take some </text>
+<text top="211" left="55" width="500" height="15" font="3">time. As a rule of thumb spirits and spirit walking mortals travel at a speed equal to their </text>
+<text top="227" left="55" width="500" height="15" font="3">POW on the spirit plane. Unfortunates on the spirit plane without any kind of spirit walking </text>
+<text top="243" left="55" width="500" height="15" font="3">skill are virtually trapped as they can move but can not follow a direction so they tend to drift </text>
+<text top="260" left="55" width="500" height="15" font="3">aimlessly. Such characters trying to defend themselves in spirit combat through using half </text>
+<text top="276" left="55" width="363" height="15" font="3">their Persistence skill are also unable to gain Combat Manoeuvres. </text>
+<text top="308" left="55" width="500" height="15" font="3">Characters who have Dedicated a large amount of their POW can be very vulnerable to spirit </text>
+<text top="324" left="55" width="500" height="15" font="3">combat. One option is to rule the cost to discorporate a character with Dedicated POW is </text>
+<text top="341" left="55" width="500" height="15" font="3">one Magic Point plus one Magic Point for each point of Dedicated POW of the target. A </text>
+<text top="357" left="55" width="500" height="15" font="3">spirit wishing to discorporate a character who has 4 points of Dedicated POW would have </text>
+<text top="373" left="55" width="500" height="15" font="3">to spend 5 Magic Points to make the attempt. This represents the difﬁ culty of transferring </text>
+<text top="389" left="55" width="500" height="15" font="3">the Dedicated element of a person’s soul to the spirit plane. Discorporating a character with </text>
+<text top="405" left="55" width="500" height="15" font="3">a large amount of Dedicated POW may also draw the attention of spiritual guardians tasked </text>
+<text top="422" left="55" width="118" height="15" font="3">to protect the faithful.</text>
+<text top="454" left="55" width="500" height="15" font="3">One of the primary tasks for shamans is to exorcise spirits possessing the faithful. The most </text>
+<text top="470" left="55" width="500" height="15" font="3">common technique is to use Spirit Walking to ﬁ nd the spirit within its body. At this point a </text>
+<text top="486" left="55" width="500" height="15" font="3">High Shaman can use their Spirit Walking skill to forcibly discorporate the spirit and then </text>
+<text top="503" left="55" width="500" height="15" font="3">either he or his fetch can battle it on the spirit plane. More junior shamans will have to rely on </text>
+<text top="519" left="55" width="500" height="15" font="3">their fetch to discorporate the spirit. In both cases it is usually the fetch that battles the spirit, </text>
+<text top="535" left="55" width="500" height="15" font="3">leaving the shaman free to perform physical actions acting as a complementary skill for the </text>
+<text top="551" left="55" width="500" height="15" font="3">fetch’s combat skill. Usually this will be the use of the Healing skill but it may also include </text>
+<text top="567" left="55" width="500" height="15" font="3">drumming, singing, dancing, burning of herbs to make the spirit drowsy and so on. That said, </text>
+<text top="584" left="55" width="500" height="15" font="3">once the spirit has been discorporated it may attempt to ﬂ ee if the shaman or his fetch clearly </text>
+<text top="600" left="55" width="443" height="15" font="3">overmatches it so it is often up to the shaman as to whether he wishes to pursue it.</text>
+<text top="636" left="55" width="144" height="26" font="10">Spirits &amp; Society</text>
+<text top="659" left="55" width="496" height="15" font="3">In societies where Spirit Magic is the main form of spirituality, spirits and fetishes are ever-</text>
+<text top="675" left="55" width="500" height="15" font="3">present and a shaman fulﬁ ls the same role as a priest. It can be easy to forget that spirits are </text>
+<text top="692" left="55" width="499" height="15" font="3">not just “power ups” or resources to be used. The spirits are not tools, however, they are part </text>
+<text top="708" left="55" width="500" height="15" font="3">of the society. Most people will have a shrine to revered ancestors, a fetish holding a totem </text>
+<text top="724" left="55" width="500" height="15" font="3">spirit and will take part in ceremonies of remembrance and revitalisation. In general, animists </text>
+<text top="740" left="55" width="187" height="15" font="3">regard spirits in one of three ways.</text>
+<text top="773" left="55" width="301" height="15" font="3">• they revere their honoured ancestors and totem spirits;</text>
+<text top="789" left="55" width="344" height="15" font="3">• they respect the power of the spirits of the world around them;</text>
+<text top="805" left="55" width="291" height="15" font="3">• and they fear the malevolent spirits of their enemies.</text>
+<text top="837" left="55" width="500" height="15" font="3">Player characters who walk the spirit plane, binding spirits against their will and generally </text>
+<text top="854" left="55" width="500" height="15" font="3">treating them as weapons and armour will soon gain a poor reputation both in the mundane </text>
+<text top="870" left="55" width="158" height="15" font="3">world and on the spirit plane.</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="12" width="10" height="30" font="7">26</text>
+<text top="33" left="43" width="500" height="15" font="3">Most members of the society will know enough Spirit Walking to see the spirits around them </text>
+<text top="49" left="43" width="500" height="15" font="3">when they meditate and enough Spirit Binding to use their fetishes properly provided they </text>
+<text top="65" left="43" width="499" height="15" font="3">take time. It is highly unlikely they will ever engage in a life and death battle on the spirit </text>
+<text top="81" left="43" width="500" height="15" font="3">plane (that is what the shaman is for) so for them the Binding skill represents the proper </text>
+<text top="98" left="43" width="500" height="15" font="3">means of address, the proper visualisation and proper state of mind needed to invoke the </text>
+<text top="114" left="43" width="197" height="15" font="3">power of the spirit within the Fetish.</text>
+<text top="146" left="43" width="499" height="15" font="3">The shaman is the bridge between the mortal world and the spirit world. He lives a life in two </text>
+<text top="162" left="43" width="500" height="15" font="3">worlds and with the shaman’s help, the members of the tribe can pass through to the spirit </text>
+<text top="179" left="43" width="500" height="15" font="3">world to converse with those who have gone before. Naturally a powerful shaman tends to </text>
+<text top="195" left="43" width="499" height="15" font="3">attract attention on the spirit plane. When viewed on the spirit plane, the shaman’s soul echo is </text>
+<text top="211" left="43" width="500" height="15" font="3">often at the centre of many spirits eager for attention. This can be highly distracting and may </text>
+<text top="227" left="43" width="499" height="15" font="3">attract the attention of predators but a powerful shaman should have built a strong enough </text>
+<text top="243" left="43" width="500" height="15" font="3">web  of  allies  that  most  predators  would  rather  hunt  less  powerful  prey.  Player  character </text>
+<text top="260" left="43" width="390" height="15" font="3">shamans, however, should expect occasional very unpleasant surprises...</text>
+<text top="296" left="43" width="135" height="26" font="10">Trapped Spirits</text>
+<text top="319" left="43" width="500" height="15" font="3">Some spirits occasionally get accidentally bound to the mundane plane and become Haunts. </text>
+<text top="335" left="43" width="500" height="15" font="3">The spirits of the dead who did not receive the proper funeral rites or who have died violently </text>
+<text top="351" left="43" width="499" height="15" font="3">may be incapable of leaving the mundane plane. Other mortals may have been cursed or may </text>
+<text top="368" left="43" width="500" height="15" font="3">have died before an important vow was completed or died full of hatred and rage and become </text>
+<text top="384" left="43" width="500" height="15" font="3">bound to the mundane world. Such spirits may be bound to the bones of their corpse, a tree </text>
+<text top="400" left="43" width="500" height="15" font="3">from which they were hung or maybe a cliff from which they jumped to commit suicide. By </text>
+<text top="416" left="43" width="500" height="15" font="3">deﬁ nition Haunts are trapped on the mundane plane and cannot discorporate victims in an </text>
+<text top="432" left="43" width="500" height="15" font="3">attempt to possess them. In fact most such spirits can do little but bewail their fate. Some, </text>
+<text top="449" left="43" width="500" height="15" font="3">though, may have acquired certain powers. The list should be limited only by your creativity </text>
+<text top="465" left="43" width="95" height="15" font="3">but some include.</text>
+<text top="497" left="43" width="500" height="15" font="3">• Telekinesis:  the  spirit  has  a  STR  equal  to  its  Intensity,  which  it  can  use  to  move  items </text>
+<text top="513" left="43" width="41" height="15" font="3">around.</text>
+<text top="530" left="43" width="500" height="15" font="3">• Miasma: the spirit can induce feelings of dread and despair, maybe even fear and terror. The </text>
+<text top="546" left="43" width="500" height="15" font="3">Magnitude of the effect depends on the spirit’s Intensity. An Intensity 4 Haunt may be able to </text>
+<text top="562" left="43" width="250" height="15" font="3">induce a level of Fear that is potentially lethal.</text>
+<text top="578" left="43" width="500" height="15" font="3">•  Wraith  form:  the  spirit  is  able  to  physically  damage  corporeal  beings.  The  spirit  can </text>
+<text top="594" left="43" width="500" height="15" font="3">physically attack with a skill equal to its POW*3% doing Hit Point damage equal to its usual </text>
+<text top="611" left="43" width="500" height="15" font="3">Spirit Damage ignoring all physical armour. For example a spirit with a POW of 18 usually </text>
+<text top="627" left="43" width="499" height="15" font="3">has a spectral combat skill of 90% meaning that it normally does 1D10 damage to Magic </text>
+<text top="643" left="43" width="500" height="15" font="3">Points. When attacking physically it attacks at a skill of 54% and does 1D10 damage to Hit </text>
+<text top="659" left="43" width="500" height="15" font="3">Points in a location ignoring all physical armour. Magical armour such as Protection still </text>
+<text top="675" left="43" width="500" height="15" font="3">works however. • Cast magic. Becoming a Haunt usually severs the spirit from any form of </text>
+<text top="692" left="43" width="500" height="15" font="3">higher magic but some may retain the ability to cast Common Magic. An awful lot of Haunts </text>
+<text top="708" left="43" width="500" height="15" font="3">consist of spirits casting magic such as Befuddle, Disruption, Demoralise, Fanaticism and </text>
+<text top="724" left="43" width="36" height="15" font="3">so on. </text>
+<text top="756" left="43" width="500" height="15" font="3">Like  bound  spirits,  Haunts  cannot  regenerate  Magic  Points  normally  but  they  are  able  to </text>
+<text top="773" left="43" width="500" height="15" font="3">tap Magic Points from the natural world around them, a process that inevitably creates an </text>
+<text top="789" left="43" width="500" height="15" font="3">unsettling area shunned by animals and where the plants are stunted and withered. A Haunt </text>
+<text top="805" left="43" width="500" height="15" font="3">can  tap  the  POW  of  any  animal  or  plant  with  lower  POW  than  the  Haunt’s  Intensity  to </text>
+<text top="821" left="43" width="500" height="15" font="3">provide  it  with  Magic  Points  up  to  the  limit  of  its  normal  POW.  Generally  most  Haunts </text>
+<text top="837" left="43" width="500" height="15" font="3">must manifest in order to use any of their abilities. While a Haunt is manifested it becomes </text>
+<text top="854" left="43" width="500" height="15" font="3">vulnerable to magical damage, however destroying it with damage simply drives it back to its </text>
+<text top="870" left="43" width="412" height="15" font="3">binding until it has regained Magic Points through tapping its surroundings. </text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="573" width="10" height="30" font="7">27</text>
+<text top="33" left="55" width="500" height="15" font="3">Dealing with a Haunt is not easy. Spirit Walking or magical senses may reveal the location of </text>
+<text top="49" left="55" width="500" height="15" font="3">the binding object. Sometimes destroying the binding object is enough to release the Haunt </text>
+<text top="65" left="55" width="500" height="15" font="3">but  usually  any  attempt  to  release  the  Haunt  requires  determining  why  the  spirit  became </text>
+<text top="81" left="55" width="257" height="15" font="3">bound in the ﬁ rst place and undoing the effects.</text>
+<text top="118" left="55" width="154" height="26" font="10">Fighting Wraiths </text>
+<text top="141" left="55" width="500" height="15" font="3">A manifested Wraith Spirit has only one hit location and it has a number of Hit Points equal </text>
+<text top="157" left="55" width="499" height="15" font="3">to  its  POW.  Reducing  its  Hit  Points  to  zero  will  temporarily  drive  the Wraith  back  to  its </text>
+<text top="173" left="55" width="500" height="15" font="3">binding for 24 hours, after which its Hit Points will be fully regenerated. The weapon the </text>
+<text top="189" left="55" width="500" height="15" font="3">spirit uses depends on its Intensity. Each point of Intensity counts as one rank of Size and </text>
+<text top="206" left="55" width="500" height="15" font="3">Reach so an Intensity 3 spirit could use a spectral weapon with a Size of Large and Reach </text>
+<text top="222" left="55" width="500" height="15" font="3">of  Medium. As  the  spirit  is  intangible  parrying  the  attack  has  no  effect  normally  but  if  a </text>
+<text top="238" left="55" width="500" height="15" font="3">weapon is affected by some form of weapon enhancing magic then it can usually block 1 </text>
+<text top="254" left="55" width="500" height="15" font="3">size equivalent for each point of Magnitude. As with any kind of combat both participants </text>
+<text top="270" left="55" width="500" height="15" font="3">can generate Combat Manoeuvres where they are appropriate; being impaled by a spectral </text>
+<text top="287" left="55" width="320" height="15" font="3">dagger is every bit as nasty as being impaled by a real one. </text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="12" width="10" height="30" font="7">28</text>
+<text top="197" left="185" width="212" height="26" font="10">Legend &amp; Open Content</text>
+<text top="236" left="57" width="471" height="15" font="3">Here at Mongoose Publishing, we want what we truly believe to be one of the best fantasy </text>
+<text top="253" left="52" width="481" height="15" font="3">RPGs on the market to be easy to use and modify.  We have therefore made this PDF Open </text>
+<text top="269" left="146" width="295" height="15" font="3">Content, in conjunction with the Open Game Licence.  </text>
+<text top="301" left="65" width="455" height="15" font="3">All the text of this PDF is designated as Open Content – this means you are free to use </text>
+<text top="317" left="55" width="474" height="15" font="3">the Open Game Licence (overleaf) to reproduce this text and build upon it with your own </text>
+<text top="334" left="48" width="488" height="15" font="3">scenarios and mechanics. You can even print and sell such work, if that is your desire (and we </text>
+<text top="350" left="127" width="326" height="15" font="3">would wish you the very best of luck if you choose to do this!).</text>
+<text top="382" left="53" width="478" height="15" font="3">By using the Open Content of this PDF, you also have permission to download the Legend </text>
+<text top="398" left="43" width="500" height="15" font="3">Compatible logo from our web site (on the Legend product pages), and use that on any Legend </text>
+<text top="415" left="75" width="431" height="15" font="3">work you publish, to demonstrate your material is part of the wider Legend family.</text>
+<text top="447" left="127" width="327" height="15" font="3">Please note that the artwork in this PDF is not Open Content.</text>
+<text top="479" left="64" width="456" height="15" font="3">All books in the core Legend range (those whose titles have the word ‘Legend’ in them) </text>
+<text top="496" left="54" width="476" height="15" font="3">will also be designated as Open Content, allowing you to expand your own games in many </text>
+<text top="512" left="67" width="447" height="15" font="3">different directions, while maintaining a solid root that everyone will be familiar with.</text>
+<text top="544" left="51" width="484" height="15" font="3">For example, you might be using Legend to produce your own gaming world. If you wanted </text>
+<text top="560" left="49" width="486" height="15" font="3">to add some high seas action, you can simply and quickly bring over the Open Content rules </text>
+<text top="577" left="45" width="494" height="15" font="3">we produce in, say, Pirates of Legend, knowing that everyone who plays Legend will at least be </text>
+<text top="593" left="226" width="129" height="15" font="3">familiar with those rules.</text>
+</page>
+<page number="29" position="absolute" top="0" left="0" height="918" width="594">
+<text top="879" left="573" width="10" height="30" font="7">29</text>
+<text top="0" left="0" width="185" height="13" font="6">OPEN GAME LICENSE Version 1.0a </text>
+<text top="13" left="0" width="574" height="13" font="6">The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc (‘Wizards’). </text>
+<text top="27" left="0" width="96" height="13" font="6">All Rights Reserved. </text>
+<text top="42" left="0" width="574" height="13" font="6">1.  Deﬁ nitions:  (a)’Contributors’  means  the  copyright  and/or  trademark  owners  who  have  contributed  Open  Game </text>
+<text top="56" left="0" width="574" height="13" font="6">Content; (b)’Derivative Material’ means copyrighted material including derivative works and translations (including into </text>
+<text top="71" left="0" width="574" height="13" font="6">other computer languages), potation, modiﬁ cation, correction, addition, extension, upgrade, improvement, compilation, </text>
+<text top="85" left="0" width="574" height="13" font="6">abridgment  or  other  form  in  which  an  existing  work  may  be  recast,  transformed  or  adapted;  (c)  ‘Distribute’  means  to </text>
+<text top="99" left="0" width="574" height="13" font="6">reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)’Open Game Content’ </text>
+<text top="114" left="0" width="574" height="13" font="6">means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not </text>
+<text top="128" left="0" width="574" height="13" font="6">embody the Product Identity and is an enhancement over the prior art and any additional content clearly identiﬁ ed as Open </text>
+<text top="143" left="0" width="574" height="13" font="6">Game Content by the Contributor, and means any work covered by this License, including translations and derivative works </text>
+<text top="157" left="0" width="574" height="13" font="6">under copyright law, but speciﬁ cally excludes Product Identity. (e) ‘Product Identity’ means product and product line names, </text>
+<text top="171" left="0" width="574" height="13" font="6">logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, </text>
+<text top="186" left="0" width="574" height="13" font="6">dialogue,  incidents,  language,  artwork,  symbols,  designs,  depictions,  likenesses,  formats,  poses,  concepts,  themes  and </text>
+<text top="200" left="0" width="574" height="13" font="6">graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, </text>
+<text top="215" left="0" width="574" height="13" font="6">personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical </text>
+<text top="229" left="0" width="574" height="13" font="6">or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly </text>
+<text top="243" left="0" width="574" height="13" font="6">identiﬁ ed as Product identity by the owner of the Product Identity, and which speciﬁ cally excludes the Open Game Content; </text>
+<text top="258" left="0" width="574" height="13" font="6">(f) ‘Trademark’ means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its </text>
+<text top="272" left="0" width="574" height="13" font="6">products or the associated products contributed to the Open Game License by the Contributor (g) ‘Use’, ‘Used’ or ‘Using’ </text>
+<text top="287" left="0" width="574" height="13" font="6">means  to  use,  Distribute,  copy,  edit,  format,  modify,  translate  and  otherwise  create  Derivative  Material  of  Open  Game </text>
+<text top="301" left="0" width="346" height="13" font="6">Content. (h) ‘You’ or ‘Your’ means the licensee in terms of this agreement. </text>
+<text top="315" left="0" width="574" height="13" font="6">2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game </text>
+<text top="330" left="0" width="574" height="13" font="6">Content may only be Used under and in terms of this License. You must afﬁ x such a notice to any Open Game Content that </text>
+<text top="344" left="0" width="574" height="13" font="6">you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms </text>
+<text top="359" left="0" width="414" height="13" font="6">or conditions may be applied to any Open Game Content distributed using this License. </text>
+<text top="373" left="0" width="553" height="13" font="6">3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License. </text>
+<text top="387" left="0" width="574" height="13" font="6">4.  Grant  and  Consideration:  In  consideration  for  agreeing  to  use  this  License,  the  Contributors  grant  You  a  perpetual, </text>
+<text top="402" left="0" width="537" height="13" font="6">worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content. </text>
+<text top="416" left="0" width="574" height="13" font="6">5.  Representation  of  Authority  to  Contribute:  If  You  are  contributing  original  material  as  Open  Game  Content,  You </text>
+<text top="431" left="0" width="574" height="13" font="6">represent that Your Contributions are Your original creation and/or You have sufﬁ cient rights to grant the rights conveyed </text>
+<text top="445" left="0" width="74" height="13" font="6">by this License. </text>
+<text top="459" left="0" width="574" height="13" font="6">6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact </text>
+<text top="474" left="0" width="574" height="13" font="6">text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must </text>
+<text top="488" left="0" width="574" height="13" font="6">add the title, the copyright date, and the copyright holder’s name to the COPYRIGHT NOTICE of any original Open </text>
+<text top="503" left="0" width="147" height="13" font="6">Game Content you Distribute. </text>
+<text top="517" left="0" width="574" height="13" font="6">7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except </text>
+<text top="531" left="0" width="574" height="13" font="6">as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree </text>
+<text top="546" left="0" width="574" height="13" font="6">not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work </text>
+<text top="560" left="0" width="574" height="13" font="6">containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such </text>
+<text top="575" left="0" width="574" height="13" font="6">Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge </text>
+<text top="589" left="0" width="574" height="13" font="6">to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all </text>
+<text top="603" left="0" width="259" height="13" font="6">rights, title and interest in and to that Product Identity. </text>
+<text top="618" left="0" width="574" height="13" font="6">8. Identiﬁ cation: If you distribute Open Game Content You must clearly indicate which portions of the work that you are </text>
+<text top="632" left="0" width="179" height="13" font="6">distributing are Open Game Content. </text>
+<text top="647" left="0" width="574" height="13" font="6">9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any </text>
+<text top="661" left="0" width="574" height="13" font="6">authorised version of this License to copy, modify and distribute any Open Game Content originally distributed under any </text>
+<text top="675" left="0" width="108" height="13" font="6">version of this License. </text>
+<text top="690" left="0" width="574" height="13" font="6">10.  Copy  of  this  License: You  MUST  include  a  copy  of  this  License  with  every  copy  of  the  Open  Game  Content You </text>
+<text top="704" left="0" width="54" height="13" font="6">Distribute. </text>
+<text top="719" left="0" width="574" height="13" font="6">11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor </text>
+<text top="733" left="0" width="311" height="13" font="6">unless You have written permission from the Contributor to do so. </text>
+<text top="747" left="0" width="574" height="13" font="6">12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or </text>
+<text top="762" left="0" width="574" height="13" font="6">all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open </text>
+<text top="776" left="0" width="128" height="13" font="6">Game Material so affected. </text>
+<text top="791" left="0" width="574" height="13" font="6">13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such </text>
+<text top="805" left="0" width="538" height="13" font="6">breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License. </text>
+<text top="819" left="0" width="574" height="13" font="6">14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the </text>
+<text top="834" left="0" width="186" height="13" font="6">extent necessary to make it enforceable. </text>
+<text top="848" left="0" width="167" height="13" font="6">         15. COPYRIGHT NOTICE </text>
+<text top="863" left="0" width="358" height="13" font="6">        Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. </text>
+<text top="877" left="0" width="341" height="13" font="6">         Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd</text>
+<text top="891" left="0" width="291" height="13" font="6">         Spirit Magic, Copyright 2011, Mongoose Publishing Ltd</text>
+</page>
+</pdf2xml>
