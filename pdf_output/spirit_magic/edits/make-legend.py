@@ -1,7 +1,18 @@
 #!/usr/bin/python
 
-import sys
-from bs4 import BeautifulSoup
+import sys, io
+from bs4 import BeautifulSoup, NavigableString
+import bleach
+
+# Remove all unwanted tags
+def strip_tags(html, valid_tags):
+    soup = BeautifulSoup(html)
+    for tag in soup.findAll(True):
+        if tag.name not in valid_tags:
+            tag.replaceWith(tag.renderContents())
+    return soup
+
+VALID_TAGS = ['span']
 
 replacements = { \
 'font-family: MBSAWV+ImperatorSmallCaps; font-size:74px' : '',      \
@@ -24,7 +35,6 @@ replacements = { \
 'font-family: RCUKOL+TimesNewRomanPS; font-size:10px' : 'td',       \
 'font-family: HFWHEF+TimesNewRomanPS-Italic; font-size:10px' : 'i', \
 'font-family: CFNDMP+AGaramond-Italic; font-size:11px' : 'i',       \
-'font-family: WEJTGB+AGaramond-BoldItalic; font-size:10px' : '',    \
 'font-family: MBSAWV+ImperatorSmallCaps; font-size:26px' : 'h1',    \
 'font-family: HFWHEF+TimesNewRomanPS-Italic; font-size:9px' : 'i',  \
 'font-family: RCUKOL+TimesNewRomanPS; font-size:9px' : 'p',         \
@@ -34,21 +44,25 @@ replacements = { \
 }
 
 if len(sys.argv) != 2:
-    print 'usage: ' + sys.argv[0] + '<dirty html file>'
+    print 'usage: ' + sys.argv[0] + '<verbose html file>'
     sys.exit()
 
-html_in = open(sys.argv[1], 'r')
-text = html_in.read()
-html_in.close()
+infile = open(sys.argv[1], 'r')
+text = infile.read()
+infile.close()
 
 soup = BeautifulSoup(text)
 
+# Strip all unwanted tags | script is above
+# soup = strip_tags(text, VALID_TAGS)
 
-# Remove all the <div> tags
-soup.body.div.unwrap()
+# Remove all attributes from all tags
+# for tag in soup.findAll(True):
+#     tag.attrs = None
 
-output = open('clean.md', 'w')
-for line in soup.prettify():
-    output.write(line)
-output.close()
+html = soup.prettify('utf-8')
+#with io.open('output.html', 'w', encoding='utf8') as output:
+#    output.write(html)
+with open('output.html', 'w') as output:
+    output.write(html)
 
