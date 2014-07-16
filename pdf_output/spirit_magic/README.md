@@ -37,3 +37,5 @@ Make html and xml files pretty *(almost)*
 `tidy -i -xml -utf8 pdf2txt-tidy.html > pdf2txt-tidy.xml`  
 `tidy -i -asxml -utf8 pdftohtml.html > pdftohtml-tidy.html`
 
+pdf2txt-dirtymarkup.html was created by pasting pdf2txt.html into the website www.dirtymarkup.com.  This website makes a prettier html than I currently can with html-tidy.
+
