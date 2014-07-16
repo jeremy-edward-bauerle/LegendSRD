@@ -6,10 +6,15 @@ The files in this folder are mostly scripts to help edit html and/or xml files t
 
 **by-hand.md** is a hand-edited version of **pdftotext-layout.txt**.  It is run through a markdown interpreter, then html tags are added.
 
-### Files created programmatically
+### Files created 'programmatically'
 
-1. run **font-attr.py** on the html/xml of the original pdf.
-2. use the original pdf to fill in the generated **font-attr.txt** with the markup to be used to replace the inline styles.  *font-attr-full.txt* is a complete example.
-3. copy the contents of the completed **font-attr.txt** over the similar section of the **make-legend.py** file.
-4. run **make-legend.py** on an html file, generating **by-prog.md**.
+1. run **no-br.py** on the html of the original pdf, creating no-br.html.
+2. copy the contents of no-br.html and paste into [dirtymarkup](www.dirtymarkup.com)
+3. **Click Clean** using *Output: Code fragment*, *Indent: None*, and check *Add empty lines for clarity*.
+4. create and html file from the output of dirtymarkup.
+5. run **font-attr.py** on the that file.
+6. use the original pdf to fill in the generated **font-attr.txt** with the markup to be used to replace the inline styles.  *font-attr-full.txt* is a complete example.
+7. copy the contents of the completed **font-attr.txt** over the similar section of the **make-legend.py** file.
+8. run **make-legend.py** on an html file, generating **by-prog.md**.
+9. clean up the imperfect markdown file.
 
