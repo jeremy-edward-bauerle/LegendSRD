@@ -1,0 +1,11 @@
+name:         Legend SRD
+description:  A system reference document for the Legend role-playing game.
+
+
+url:          http://jeremy-edward-bauerle.github.io/LegendSRD
+
+
+permalink:    /blog/:title
+
+
+markdown:     kramdown
