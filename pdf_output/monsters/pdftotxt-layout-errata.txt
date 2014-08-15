@@ -1,0 +1,389 @@
+                         Errata for
+   Monsters of Legend
+The following text is part of Monsters of Legend and is designated as Open Content.
+
+
+Traits Page 4
+Poison Immunity: The creature is immune to all poisons. All creatures without SIZ
+automatically have this Trait and it is not listed in their descriptions.
+
+Possession, Covert: An insidious means of possession, covert possession means,
+essentially, that the spirit is a hitchhiker in the body of the possessed. It exhibits no
+control over the body and the possessed remains completely in charge. In many cases,
+the possessed may not even know he is possessed.
+
+Possession, Dominant: The more well-known and obvious form of possession,
+dominant possession occurs when the possessing entity literally takes control of the
+possessed body. The identity (INT, POW and CHA) of the body’s owner is subsumed
+beneath the identity of the possessing spirit. The possessed is absolutely helpless,
+unable to take any action at all, unable even to regain Magic Points, a prisoner in his
+own body. The possessor is in complete control, though it does not have access to any
+of the memories, skills or magic of the possessed.
+
+Regeneration: The creature is able to regenerate hit points lost to damage. The speed
+of regeneration varies depending upon the creature.
+
+Trample: The creature is able to trample beings with a SIZ of half or less its own. This
+attack inflicts damage equal to double the creature’s Damage Modifier and requires the
+creature to expend Movement. A creature with this trait may Trample even if it has only
+one Combat Action – the Trample is assumed to be part of its Movement.
+
+Wall Walking: The creature can move freely on vertical surfaces and even move upside
+down on a ceiling with no special equipment. Such Movement is always at half the
+creature’s normal Movement rate.
+
+Vampiric Touch: The creature can drain one or more of a character’s Characteristics
+permanently by touch.
+    Chaotic Features
+    Creatures of Chaos are often hideously malformed, displaying a wide range of mutations
+    that can both help and hinder the recipient. If a creature is noted as having Chaotic
+    Features, use the following table to determine their effect. Although Chaotic Features
+    can make for some truly deformed and horrid creatures, some results are simply not
+    appropriate for some monsters.
+
+    Note that the Chaotic Features table uses eight-sided dice to modify characteristics.
+    The number eight is traditionally associated with chaos and it is therefore fitting to
+    use an eight-sided die to modify a chaos creature’s characteristics, either positively or
+    negatively.
+
+    Chaotic Features
+    01 Absorbing           If the creature strikes successfully with a natural weapon,
+                           1D8 Magic Points are absorbed and added as temporary
+                           Characteristic or Attribute points; roll 1D10, 1=STR,
+                           2=CON, 3=DEX, 4=SIZ, 5=INT, 6=POW, 7=CHA, 8=MP,
+                           9=HP or 10= Add points to the Damage Modifier (1D2+4,
+                           for instance, if 4 MP absorbed).
+    02    Accursed         Temporarily weakens the soul of an opponent by 1D8 POW
+                           each successful hit.
+    03    Acidic           Possesses acidic ichor which sprays whenever the skin is
+                           penetrated, causing damage to the attacker; roll 1D4, 1=1D2,
+                           2=1D4, 3=1D6 and 4=1D8 damage per wound.
+    04    Agile            +1D8 DEX.
+    05    Alluring         Produces pheromones which attract and seduce victims,
+                           who must succeed in an opposed test of Persistence against
+                           the Allurement’s potency of 1D8x10%. If the resistance fails
+                           the victim is hopelessly allured by the creature for 21–INT
+                           Combat Rounds.
+    06    Antennae         Large antennae which sprout from a random location
+                           and grant a new primary sense; roll 1D6, 1=Echolocation
+                           (sonar), 2=Thermoception (senses heat), 3=Insanoception
+                           (senses madness and insanity), 4=Nociception (senses pain),
+                           5=Ethoception (senses souls), 6=Magiception (senses any type
+                           of magic).
+    07    Apathetic        –1D8 POW.
+    08    Armed            Uses physical weapons having an appropriate Combat Style
+                           for 1D4 different types.
+    09    Armoured         Bears extra armour, +1D8 Armour Points to every location.
+    10    Arms             Gain an extra pair of manipulation limbs from a random
+                           species (roll on Physique Type table, page xx).
+    11    Asymmetric       One half of the creature is larger, longer or taller than the
+                           other, double the Hit Points of locations in the larger side and
+                           halve the Hit Points of locations in the smaller.
+
+2
+12   Beaked         Gain a bite attack. Each additional incidence adds another
+                    toothed beak on a different location; roll 1D4, 1=1D6
+                    damage, 2=1D8 damage, 3=1D10 damage or 4=1D12
+                    damage.
+13   Beautiful      +1D8 CHA.
+14   Big            +1D8 SIZ.
+15   Blind          No vision organs, but relies on a different sense to move and
+                    fight perfectly well. Creature is impervious to any attacks or
+                    spells affecting sight.
+16   Boneless       Can squeeze through any gap.
+17   Broadcast Pain Any damage inflicted on the creature is felt by everybody
+                    within 5m, who suffer the psychological but not physiological
+                    effects as if they had been wounded too.
+18   Burning        Glows with burning heat, injuring anyone within melee range;
+                    roll 1D4, 1=1D2, 2=1D4, 3=1D6 and 4=1D8 damage per
+                    round.
+19   Chameleon      +1D8x5% bonus to Stealth when hiding.
+20   Clawed         Gain a claw attack. Each additional incidence adds another
+                    set of claws on a different location; roll 1D4, 1=1D6 damage,
+                    2=1D8 damage, 3=1D10 damage or 4=1D12 damage.
+21   Clever         +1D8 INT.
+22   Climbing       Has a spider or lizard like ability to scale surfaces, +1D8x10%
+                    bonus to Athletics when climbing.
+23   Clumsy         –1D8 DEX.
+24   Contagious     Inflicts a virulent disease with a delay of 1D8 hours and
+                    potency of 1D8x10%, which causes a penalty of 1D8 points
+                    to; roll a D6, 1=STR, 2=CON, 3=DEX, 4=INT, 5=POW or
+                    6=CHA.
+25   Corroding      Weapons take 1D8 damage each time they strike the creature.
+26   Crystalline    Gain 1D10 Armour Points from a crystalline crust.
+27   Deaf           No hearing organs. Creature is immune to verbal commands
+                    and attacks or spells that affect hearing.
+28   Disturbing     Creature is covered with 2D8 unsettling forms, such as baby
+                    arms or multiple eyes or mouths. Non-Chaotic foes suffer a
+                    –20% penalty to combat rolls owing to the disturbing nature
+                    of the deformities.
+29   Draining       Temporarily weakens the willpower of an opponent by 1D8
+                    Persistence each successful hit. The drain is not permanent;
+                    victims recover drained Persistence points, up to their
+                    previous level, at a rate of 1D10 per hour after the end of the
+                    encounter.
+30   Droning        Produces a buzzing noise that sedates listeners, who must
+                    succeed in an opposed test of Persistence against the Droning’s
+                    potency of 1D8 x10% to avoid falling asleep for 1D8 minutes.
+
+
+                                                                                      3
+    31   Exploding    Deals damage equal to its Damage Modifier to all within 5
+                      metres upon death.
+    32   Feeble       –1D8 STR.
+    33   Fixated      Creature may only concentrate upon one thing at any
+                      one time. If in combat all attacks are concentrated on one
+                      particular opponent, determined randomly. It will not defend
+                      itself against attacks from anyone but the selected opponent.
+    34   Frail        –1D8 CON.
+    35   Haemophiliac Bleeds 1 HP per round from any wounded location.
+    36   Hated        Will be instantly attacked by any encountered members of a
+                      specific species.
+    37   Hatred       Creature possesses unreasoning hatred of a particular species
+                      and will attack on sight. Creature also gains the Fixated
+                      feature.
+    38   Head         Gain an extra head (roll on the Physique Type table, page xx),
+                      each one gets an independent Persistence check against mental
+                      effects, spells and so forth and can control the entire body if
+                      one head is incapacitated.
+    39   Heart of     The creature’s heart is a precious gem the size of a human
+         Wealth       fist. Roll 1D6 for its properties: 1 = Worth 1D10 x1,000
+                      silvers; 2 = When ground up and ingested heals 2D6 damage
+                      to all wounded locations instantly; 3 = When ground up and
+                      ingested causes 2D6 damage to all hit locations instantly;
+                      4 = Spell Focus – the gem offers 1D8 uses of a randomly
+                      chosen Common Magic spell at a Magnitude equal to the
+                      creature’s POW divided by 3; 5 = The gem offers 1D8 uses of
+                      a randomly chosen Divine Magic spell at a Magnitude equal
+                      to the creature’s POW divided by 3. Using the spell requires
+                      the gem’s owner to make a successful Persistence roll. 6 = The
+                      gem offers 1D8 uses of a randomly chosen Sorcery spell at a
+                      Magnitude equal to the creature’s POW divided by 3. Using
+                      the spell requires the owner to make a successful Insight roll.
+    40   Horned       Gain a gore attack. Each additional incidence adds another
+                      set of horns on a different location; roll 1D4, 1=1D6 damage,
+                      2=1D8 damage, 3=1D10 damage or 4=1D12 damage.
+    41   Icy          Radiates freezing coldness, injuring anyone within melee
+                      range; roll 1D4, 1=1D2, 2=1D4, 3=1D6 and 4=1D8 damage
+                      per round.
+    42   Intangible   Cannot be harmed physically (roll again if Inviolate).
+    43   Inverted     All vital organs are external, thus all successful attacks upon it
+                      are automatically treated as critical successes.
+    44   Inviolate    Cannot be harmed magically (roll again if Intangible).
+    45   Leaper       Has powerfully sprung legs, +1D8 x10% bonus to Athletics
+                      when jumping.
+
+
+4
+46   Legs          Gain an extra pair of motile limbs from a random species (roll
+                   on Physique Type table, page xx).
+47   Levitating    Has the capability to move over any solid or liquid surface
+                   without sinking or leaving tracks.
+48   Mimic         Changes into the shape of a creature it successfully touches,
+                   maintaining its own Characteristics but assuming the locations
+                   and a duplicate image of the being contacted.
+49   Mutable       Every 1D3 Combat Rounds the creature mutates into a
+                   different form as determined on the Physique Type table on
+                   page xx. The transformation lasts 2 Combat Actions during
+                   which time the creature is vulnerable. The creature completes
+                   the transformation with all its original characteristics the same
+                   but gaining additional hit locations (or losing them) according
+                   to the nature of the transformation. Owing to the creature’s
+                   disturbing mutability, all attacks against it are at –20% and
+                   –40% whilst it is transforming (although it can neither attack
+                   nor defend).
+50   Mutated       Roll a random hit location, which no longer exists.
+51   Nerveless     Cannot feel pain and does not suffer the ill-effects of serious
+                   wounds.
+52   Numb          No sense of touch.
+53   Obfuscating   Produces a cloud of mist that blinds observers, who must
+                   succeed in an opposed test of Perception against the
+                   Obfuscation’s potency of 1D8x10% every Combat Action to
+                   keep the creature in sight.
+54   Observant     One of the creature’s sensory organs either grows bigger (x1D4
+                   in size) or multiplies (x1D4 in number), adding a +1D8x10%
+                   bonus to the Perception skill when using that sensory
+                   perception; roll a D6, 1=Sight, 2=Sound, 3=Smell, 4=Taste,
+                   5=Touch and 6=Other (if possessed).
+55   Oversized     One location is swollen to a very large size or length, doubling
+                   its Hit Points
+56   Paralysing    Temporarily weakens the dexterity of an opponent by 1D8
+                   DEX each successful hit. DEX points are recovered at the rate
+                   of 1 per hour after the end of the encounter.
+57   Patterned     Weird colouring and markings, tiger stripes, spots, blotches
+                   and so forth, granting a +1D8 x10% bonus to Stealth.
+58   Phobic        Creature is scared of one thing; singing, light, cats and so on.
+59   Poisonous     One unarmed attack inflicts a venomous poison with a delay
+                   of 1D8 combat actions and a potency of 1D8x 10%, which
+                   causes an extra 1D8 damage to the location struck.
+
+
+
+
+                                                                                       5
+    60   Pregnant        The creature is pregnant with 1D8 young. If killed, these vile
+                         offspring explode from the carcass of the parent and have half its
+                         statistics. The young are voraciously hungry and incredibly aggressive,
+                         launching attacks on the nearest living thing. Alternatively, the
+                         offspring view whatever living thing they first see as the parent and
+                         form an immediate, emotional (and perhaps physical) bond…
+    61   Quick           Double Movement.
+    62   Reflecting      All spells cast on the creature are reflected back upon the
+                         caster.
+    63   Regenerating    Recovers 1D4 Hit Points per round to every injured location,
+                         unless the location has suffered a Major Wound.
+    64   Resistant       Invulnerable to one type of damage or weapon type; fire, cold,
+                         poison, disease, swords, spears, cudgels and so forth.
+    65   Roaring         Produces a thunderous sound which deafens listeners,
+                         who must succeed in an opposed test of Resilience against
+                         the Roaring’s potency of 1D8x10% to avoid becoming
+                         temporarily deaf.
+    66   Scaly           Gain 1D6 Armour Points from reptilian scales.
+    67   Scintillating   A shifting polychromatic appearance that confuses onlookers,
+                         who must succeed in an opposed test of Persistence against
+                         the Scintillation’s potency of 1D8x10% to avoid becoming
+                         mesmerised. Mesmerised characters are rooted to the spot for
+                         1D3 Combat Rounds.
+    68   Screaming       Horrible screams which terrify listeners, who must succeed in
+                         an opposed test of Persistence against the Screaming’s potency
+                         of 1D8x10%. Failure to do so causes the listener to crumple
+                         into a sobbing, whimpering, foetal ball for 1D3 rounds.
+    69   Shadowy         Can control the ambient light in its immediate surroundings,
+                         gaining a 1D8x10% bonus to Stealth in daylight conditions or
+                         total invisibility in twilight/night conditions.
+    70   Shaggy          Gain 1D4 Armour Points from a thick, hairy pelt.
+    71   Shelled         Gain 1D8 Armour Points from an insectile or crustacean carapace.
+    72   Shrunken        One location is shrunken to a very small size or length,
+                         halving its Hit Points.
+    73   Skinless        The creature has no Armour Points and cannot wear armour.
+    74   Slimy           Leaves a sticky trail wherever it travels.
+    75   Slow            Halve Movement.
+    76   Small           –1D8 SIZ.
+    77   Spiny           Opponents in melee suffer half their own rolled damage if
+                         they successfully land an attack.
+    78   Spores          Produces clouds of spores. If inhaled the breather must win an
+                         opposed test of Resilience against the Spore’s potency of 1D8x10%
+                         to avoid suffering 1D8 Hit Points to the chest every round until
+                         successful; as the spores gestate into worms, flowers, vines and so on
+                         that are coughed up or grow out of the victim’s lungs.
+
+6
+79   Stalker          +1D8x5% bonus to Stealth when sneaking.
+80   Stench           Gives off nauseating odours that sicken inhalers, who must
+                      succeed in an opposed test of Resilience against the Stench’s
+                      potency of 1D8x10% to avoid dropping prone and vomiting
+                      for 1D4 Combat Actions.
+81   Sticky           Secretes a strong glue or mucus of potency 1D8x10% which
+                      causes items to adhere to its skin, requiring a Brawn roll at a
+                      penalty equal to the potency to remove.
+82   Sting            Gain a sting attack. Each additional incidence adds another
+                      stinger on a different location; roll 1D4, 1=1D6 damage,
+                      2=1D8 damage, 3=1D10 damage or 4=1D12 damage.
+83   Strong           +1D8 STR.
+84   Stupid           –1D8 INT.
+85   Susceptibility   One form of substance causes double damage to the creature;
+                      alcohol, silver, fire, and so on,
+86   Swimmer          Has webbed digits and gills, +1D8x10% bonus to Swim. Can
+                      breathe underwater.
+87   Tailed           Gains extra Unarmed attack, the damage is triple the creature’s
+                      Damage Modifier but only for the purposes of calculating
+                      Knockback.
+88   Tentacle         Gains Unarmed attack. If successful then the tentacle inflicts
+                      the Entangle Combat Manoeuvre.
+89   Tongue           Gains Umarmed attack. If successful then the sticky tongue
+                      inflicts the Grip Combat Manoeuvre.
+90   Toothed          Gain a bite attack. Each additional incidence adds another
+                      toothed maw on a different location; roll 1D4, 1=1D6 damage,
+                      2=1D8 damage, 3=1D10 damage or 4=1D12 damage – roll.
+91   Tough            +1D8 CON.
+92   Transmuter       Changes the substance of whatever it touches into another
+                      material; living victims must succeed in an opposed test of
+                      Resilience against the Transmute’s potency of 1D8x10% to
+                      avoid being changed into crystal, dust, plants, wine, bronze, etc.
+93   Ugly             –1D8 CHA.
+94   Vampiric         Temporarily weakens the health of an opponent by 1D8 CON
+                      each successful hit.
+95   Vulnerable       Damage to one location slays the creature instantly.
+96   Warded           Invulnerable to one form of material; steel, wood, stone, flesh, etc.
+97   Warped           One random location changes to that of a different species
+                      (roll on the Physique Type table).
+98   Weakening        Temporarily weakens the strength of an opponent by 1D8
+                      STR each successful hit.
+99 Wilful             +1D8 POW.
+100 Wings             Gains bat, bird butterfly or insect wings granting a Flying
+                      Movement equal to twice its normal Movement.
+
+
+                                                                                              7
+    Physique Table
+    Use this table to randomly generate a creature body type as directed by the Chaotic
+    Features table or if the creature has a habit of mutating into something else.
+
+    Physique Type
+    1D100           Body Type       Nature
+    01-04           Arachnine       Spider
+    05-08           Avian           Bird
+    09-12           Canine          Dog
+    13-16           Caprine         Goat
+    17-20           Cervine         Stag
+    21-24           Cancrine        Crab
+    25-28           Crocodilian     Crocodile
+    29-32           Equine          Horse
+    33-36           Feline          Cat
+    37-38           Glirine         Rodent
+    39-40           Hirudinal       Leech
+    41-44           Humanoid        Human
+    45-48           Insect          Insect
+    49-52           Lupine          Wolf
+    53-56           Noctillionine   Bat
+    57-60           Octopine        Octopus
+    61-64           Pyridine        Butterfly
+    65-68           Piscine         Fish
+    69-72           Porcine         Boar
+    73-76           Ranine          Frog
+    77-80           Saurian         Lizard
+    81-84           Simian          Ape
+    85-88           Taurine         Bull
+    89-92           Ursine          Bear
+    93-96           Vermian         Worm
+    97-00           Vespine         Wasp
+
+
+
+
+8
+Ogre Page 17
+                 Dice       Average         1d20          Hit           AP/HP
+                                                          Location
+STR              2D6+12     19              1-3           Right Leg     -/6
+CON              2D6+6      13              4-6           Left Leg      -/6
+SIZ              2D6+6      13              7-9           Abdomen       -/7
+INT              2D6+6      13              10-12         Chest         -/8
+POW              2D6+6      13              13-15         Right Arm     -/5
+DEX              3D6        11              16-18         Left Arm      -/5
+CHA              3D6        11              19-20         Head          -/6
+
+Combat Actions	 2		                   Typical Armour: None but capable of wearing any 	
+				                                  human armour they can afford or steal.
+Damage Modifier	+1D4
+Magic Points	   13		                  Traits: None
+Movement	       8m	
+Strike Rank	    +12	
+
+Skills: Athletics 40%, Influence 35%, Perception 50%, Persistence 50%, Resilience
+50%, Stealth 35%, Track 35%, Unarmed 60%
+Common Magic: Endurance, Glamour 2, Golden Tongue 2
+
+Combat Styles
+Sword and Shield 50%, Unarmed 60%
+
+Weapons
+Type		              SIZ	   Reach	     Damage		          AP/HP	 Range
+War Sword	          M	     M	         1D8+1D4	          9/7	   -
+Target Shield	      L	     S	         1D6+1D4	          4/12	  -
+
+
+
+
+                                                                                          9
+
