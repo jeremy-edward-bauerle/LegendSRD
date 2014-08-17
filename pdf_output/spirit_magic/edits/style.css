@@ -8,14 +8,15 @@ body {
 
 header h1 {
     border-bottom: 1px dotted black;
-    font-size: 4em;
+    font-size: 6em;
+    font-variant: small-caps;
     margin-bottom: 0px;
-    padding-bottom: 0.25em;
+    padding-bottom: 0.325em;
 }
 
 header h5 {
     font-weight: normal;
-    margin-top: 0px;
+    margin: 0px;
     text-align: right;
 }
 
@@ -24,10 +25,14 @@ ul {
 }
 
 #toc > ul {
-    padding-left: 0;
+    font-variant: small-caps;
+    line-height: 1.5em;
+    margin-top: 0px;
+    padding-left: 0px;
 }
 
 a {
+    color: #666666;
     text-decoration: none;
 }
 
