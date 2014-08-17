@@ -29,5 +29,5 @@ Create an html file of the pdf:
 
 Create a very large xml file of the pdf:  
 `pdf2txt.py -o pdf2txt.xml legspiritmagic.pdf`  
-(I've often omitted this commands because the file produced is so large.)
+(I've often omitted this command because the file produced is so large.)
 
