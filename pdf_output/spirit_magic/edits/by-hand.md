@@ -1,4 +1,3 @@
-
 # SPIRIT MAGIC
 
 Spirit Magic is the practice of animism and ancestor worship. Spirit magicians call upon spirits which manifest their powers on behalf of their summoner or binder. These beings have many names: dryads, nymphs, diseases, ghosts, nightmares, elementals, ancestors; yet in truth, are all sentient fragments of magical energy from which everything is derived. A spirit does not teach or use magic, rather they are magic.
@@ -6,7 +5,6 @@ Spirit Magic is the practice of animism and ancestor worship. Spirit magicians c
 Spirits flow between the mundane plane and the spirit plane, eternally transferring the power of magic to the mundane world and back again.
 
 Spirit magicians interact with these beings, utilising the spirit's magic to augment or protect themselves. Such sentient immaterial beings are powerful allies, being capable of independent action and manifesting their powers for unlimited periods of time.
-
 
 ## The Spirit Plane
 
@@ -16,11 +14,9 @@ The landscape of the spirit plane is abstract, similar to the terrain of its cou
 
 A soul or spirit which inhabits a physical body or item is defined as being corporeal. A *corporeal* spirit cannot enter the spirit world until drawn forth from its material residence. A soul pulled from its physical body up onto the spirit plane, or a spirit which resides there, is considered discorporate. Whilst *discorporate*, souls are separated from the senses and sensations of their body.
 
-
 ## How Spirit Magic Works
 
 Spirit magicians do not use spells to find or influence the spirits from which their power derives. Instead they learn two mystical skills, Spirit Walking and Spirit Binding. The first enables them to perceive spirits and spiritually enter the Spirit Plane. The second allows them to summon, bind and dominate spirits in spirit combat.
-
 
 ### Spirit Walking (POW+CON)
 
@@ -39,13 +35,11 @@ Shaman and High Shaman may travel the Spirit Plane to observe and locate other s
 
 If the roll is a critical success then entering the trance is achieved in a single minute. If the roll is fumbled, the shaman is barred from entering the spirit plane for a full day.
 
-
 ### Spirit Binding (POW+CHA)
 
 Spirit Binding is used to bind spirits into fetishes and control their actions once bound. Additionally, it can be used to summon and coerce a known spirit to perform a single deed for a mutually acceptable service. The POW of the largest spirit which can be bound or controlled cannot exceed three times the critical range of this skill. Thus a character with a Spirit Binding skill of 45% could control spirits of up to 15 POW.
 
 The binding skill is also used for spirit combat - using mental domination to overcome immaterial beings in a battle of willpower. In this case the value of the Spirit Binding skill is used to calculate the amount of damage inflicted by the spirit magician during spirit combat.
-
 
 #### Spirit Damage
 
@@ -63,7 +57,6 @@ The binding skill is also used for spirit combat - using mental domination to ov
 | 181-200     | 3D10 |
 
 If the Spirit Binding roll is a critical success, then maximum damage is inflicted. If the roll is a fumble, then the shaman overstrain's himself and sustains the rolled damage to his own Magic Points!
-
 
 #### The Fetch
 
@@ -90,7 +83,6 @@ The detriments of a fetch are:
 
 A fetch starts with 200 skill points to be assigned to its skills. Fetches can grow in experience just as the shaman does. If desired, a shaman can transfer any or all of his skill improvement rolls to his fetch instead.
 
-
 ## Locating and Gaining Spirits
 
 Spirits can be found in the spirit world inhabiting objects or locations relevant to their elemental source, be it an animal or object. Most are found in remote places where they can dwell without the magical disturbances which accompany higher civilisation or the crowding of other, possibly hostile, types of spirit. Often the location is a place of striking or beautiful appearance but in the case of more transient elements or creatures the locale can shift. River spirits, for example, will obviously be found in rivers and streams, but they could be located anywhere along these from the source to the mouth.
@@ -98,7 +90,6 @@ Spirits can be found in the spirit world inhabiting objects or locations relevan
 Locating a spirit normally requires a shaman to travel on the Spirit Plane to seek out a suitable specimen. In some cases a spirit can be stumbled upon by complete accident, in others the home of a specific spirit may be a secret known to the seeker's shamanic tradition.
 
 Once located, the magician may attempt to gain control over the spirit, either by negotiation or binding.
-
 
 ### Negotiating with a Spirit
 
@@ -125,7 +116,6 @@ To bargain with a spirit for its aid, the spirit must be willing to negotiate an
 
 Such bargains can be settled by Games Master fiat, or resolved with an Opposed Test of suitable skills, such as the supplicant's Influence skill versus the spirit's Persistence. Failure to reach an accord has no further effect. Fumbling the roll however, may cause the spirit to react angrily.
 
-
 ### Binding a Spirit
 
 To capture and bind a spirit instead, the binder must enter the Spirit Plane (using the same methods as with negotiating) and engage it directly in spirit combat. If he is able to beat the spirit down to zero Magic Points and its POW does not exceed the limit set by his Spirit Binding skill, he may then bind it into a physical object; usually an item with ritual and congruent significance. Such objects, once bound with a spirit, are known as fetishes.
@@ -142,7 +132,6 @@ The maximum number of spirits which can be held by a spirit magician depends on 
 
 If this number is ever exceeded, then the strongest spirit(s) break free, possibly extracting revenge if they were hostile to the binding.
 
-
 ## Using Bound Spirits
 
 Spirits which are held within fetishes are tied to the Material Plane. Whilst within its fetish a spirit cannot be harmed by hostile magic, other spirits, or break free of its binding - if imprisoned against its nature. However, whilst contained within the fetish, the beneficial magical power of the spirit cannot be accessed either.
@@ -157,7 +146,6 @@ Spirits may range up to their owner's POW in metres. Recalling a spirit back to 
 
 The greatest strength of spirits is that their effects are *persistent*, lasting as long as it is let out from its fetish. This can make spirit magicians formidable foes, yet their spirits are vulnerable to spells such as the Banish, Spirit Block, or even blasting them with some form of magical damage. Once dismissed or destroyed, the spirit is gone for good until a new replacement can be summoned. Thus most practitioners of shamanism tend to keep their spirits carefully hidden away in fetishes until
 the most propitious time to use them.
-
 
 ## Spirit Combat
 
@@ -193,7 +181,6 @@ If the defender runs out of Combat Actions with which to defend themselves, then
 
 Combat continues until one of the combatants is reduced to zero Magic Points. At this point the loser may automatically be either Possessed (if mortal), Bound (if a spirit), Exorcised (if currently possessing a mortal) or Dissipated (destroyed). If the dissipated spirit was a discorporated mortal, then the physical body dies with the destruction of its soul. Some spirits can recover from being dissipated if they have the *Recurring* trait.
 
-
 ## Possession and Exorcism
 
 A possessed creature is one whose control of their physical body has been usurped by another spirit or soul. This is normally the result of losing a Spirit Combat, whereupon the victor entwines itself around the defeated soul and rides it back to the loser's corporeal body in the material world. There are two forms of possession, Dominant and Covert.
@@ -209,7 +196,6 @@ Detecting a covert possession requires a successful Opposed Test of the investig
 No creature can ever purge *itself* of a possessing entity. They may only be exorcised by a *separate* individual defeating the possessor in spirit combat, or by successfully casting a specific type of expulsion magic. If the original body of a mortal possessor has been killed in its absence, then its soul dies when it is exorcised. Spirits merely return to the spirit plane.
 
 Needless to say, a possessing spirit or soul can willingly abandon a possession at any time - unless they have been maliciously *bound* to that particular body.
-
 
 ## Spirit Types
 
@@ -326,25 +312,21 @@ Some example nature spirits follow. Remember that these are individual spirits a
 
 *Savage Snip* (Intensity 3 Combat Manoeuvre, praying mantis spirit) - INT 3, POW 23, CHA 3. CA 3, SR +3, HP 23, Spirit Damage +2d6. Persistence 92%, Spectral Foreclaw 112%. Grants the automatic free use of the Choose Location combat manoeuvre whenever the magician succeeds in his attack.
 
-
 #### Sickness and Curse Spirits
 
-Sickness and curse spirits are malevolent beings which attack and covertly possess mortals. Once in possession they emulate specific disease effects (see page 78 of the *Legend Core Rulebook*).
+Sickness and curse spirits are malevolent beings which attack and covertly possess mortals. Once in possession they emulate specific disease effects.
 
 Sickness spirits tend to gather (on the Spirit Plane) near the bodies of the recently dead, attracted by the eventual departure of its soul. From there they usually lay in wait for mortals to approach and follow them until they sleep or pass into an unconscious state. At this point they use their Discorporation skill to drag the target's soul onto the Spirit Plane. If they succeed in defeating the victim in spirit combat then they covertly possess him and inflicting the effect of their disease.
 
 Curse spirits are similar in effect to sickness spirits but they are normally captured by shaman at sites of great disaster and misfortune. Once bound they are used as offensive weapons to overtly possess the spirit magician's enemies.
 
-Both types of spirit have an INT and CHA of 2d6. Their POW can range from 1d6+6 upwards. The bigger the POW the stronger they are in spirit combat and the more difficult to exorcise once discovered. Each +6 grants an additional disease/poison effect (see Poisons & Diseases, page 78 of the *Legend Core Rulebook*).
-
+Both types of spirit have an INT and CHA of 2d6. Their POW can range from 1d6+6 upwards. The bigger the POW the stronger they are in spirit combat and the more difficult to exorcise once discovered. Each +6 grants an additional disease/poison effect.
 
 # SHAMANISM FOR FUN AND PROPHETS
 
-*Legend* introduces a new, free-form system of Spirit Magic mixing a blend of academic realism and fantasy. The rules provide a toolkit of ideas that can be used to create many different kind of **animistic** traditions but the openness of the system can make it hard to know where to start or how to fit spirit magic into your own campaign. This article provides answers to questions that have been asked and tools to help bring spirit worship to life in any campaign. This is the first of two articles: the second will expand upon the range of spirits and spirit encounters available to spirit worshippers.
+These rules provide a toolkit of ideas that can be used to create many different kind of **animistic** traditions but the openness of the system can make it hard to know where to start or how to fit spirit magic into your own campaign. This article provides answers to questions that have been asked and tools to help bring spirit worship to life in any campaign. This is the first of two articles: the second will expand upon the range of spirits and spirit encounters available to spirit worshippers.
 
-Animism is the broadest term for a worldview in which the world is infused by spirits, and shamanism is just one type of animism. Legend focuses on shamanism but the rules can
-accommodate most forms of animism. For example, Shinto or 'folk Hinduism' can be seen as animistic practices as can ancestor worship among the Romans and ancient Greeks. And, as can be seen in any bookshop, many new age beliefs are fundamentally animistic. *Legend* spirit magic is as applicable to the modern world as it is to the ancient.
-
+Animism is the broadest term for a worldview in which the world is infused by spirits, and shamanism is just one type of animism. These rules focus on shamanism but they can accommodate most forms of animism. For example, Shinto or 'folk Hinduism' can be seen as animistic practices as can ancestor worship among the Romans and ancient Greeks. And, as can be seen in any bookshop, many new age beliefs are fundamentally animistic. Spirit magic is as applicable to the modern world as it is to the ancient.
 
 ## Spirit Cults & Traditions
 
@@ -354,13 +336,11 @@ Because there are so many ways to approach spirit worship, cults tend to be dive
 
 Nearly all cults will have access to ancestors and guardian spirits plus a number of nature spirits depending on the cult's background. Cults with particular elemental affiliations will have access to elemental spirits. Curse and bane spirits are not usually part of a tradition and any spirit magician attempting to bind them into service is taking a serious risk.
 
-
 ## Defining Spirits
 
 The denizens of the spirit plane are varied and diverse. Spirit magic allows practitioners to approach spirits in two ways: as beings with which they can communicate and as entities which can be bound to service. A spirit magician's most frequent interaction with spirits will be through the use of the Spirit Walking skill to communicate with them. In this respect spirits are non player characters who can be interacted with during game sessions. Spirit
 
-Binding is the skill of persuading or forcing a spirit into service or protecting oneself from harmful spirits. *Legend* provides a basic breakdown of spirit types and how to quantify what benefits a bound spirit might provide. The two key elements anyone wishing to bind a spirit needs to know about it are its Intensity and its attitude towards the spirit mage.
-
+Binding is the skill of persuading or forcing a spirit into service or protecting oneself from harmful spirits. The two key elements anyone wishing to bind a spirit needs to know about it are its Intensity and its attitude towards the spirit mage.
 
 ### Intensity
 
@@ -375,15 +355,13 @@ Intensity is an attribute of spirits. When it comes to Spirit Magic, the Intensi
 | 3         | 1D6+18 | 19-24     | 22 |
 | +1        | +6     | +6        | +6 |
 
-
 ### Attitude
 
 Each spirit has an attitude towards magicians who approach it. Some will be friendly, others neutral and some hostile. Spirits belonging to the magician's tradition will most likely be friendly. Neutral spirits consist of both those belonging to traditions which are not hostile to the shaman as well as those not considered part of any tradition. Hostile spirits are those belonging to enemy traditions or are inherently antagonistic due to mythic, runic or elemental oppositions. The attitude of a spirit towards a spirit magician affects how it will react to being approached, to being bound and what it might do if it ever escapes a binding.
 
-
 ## Binding Spirits
 
-The Legend rules leave it up to the players and Games Master in any campaign to determine the precise procedures for gaining spirits with the assumption each campaign will generate its own guidelines. There are, however, some common elements that are likely to underlie most Spirit Magic traditions.
+The players and Games Master determine the precise procedures for gaining spirits with the assumption each campaign will generate its own guidelines. There are, however, some common elements that are likely to underlie most Spirit Magic traditions.
 
 Worshippers of a spirit cult gain spirits through undertaking a ritual in collaboration with a shaman to bind a spirit into a fetish. The shaman searches the spirit plane for a suitable spirit for the supplicant, defeats it in spirit combat and then binds it to a fetish that has been prepared by both shaman and supplicant. While the shaman journeys, the supplicant fasts and mediates, purifying himself in preparation for the gift of the spirit. The bound spirit counts against the owner's limit, not the shaman's. Although there is nothing stopping a non-shaman undertaking the search and binding a spirit by himself, the task is dangerous and would be frowned on by other members of the community.
 
@@ -396,7 +374,6 @@ Once bound to the mundane plane in a fetish a spirit can no longer regenerate Ma
 An adventurer may 'upgrade' the spirit in a fetish to a more powerful spirit of the same type by paying the difference in Improvement Rolls. For example an adventurer with a fetish containing an Intensity 2 Nature spirit can upgrade it to an Intensity 3 Nature Spirit by paying 1 Improvement Roll. They can also replace the spirit with the same type of spirit of the same Intensity if they wish and they can persuade a shaman.
 
 Remember shamans are not magic item factories. Each shaman is a combination of priest, doctor, teacher, lawyer, undertaker and spiritual border guard for their community. Most of their time is taken up with mundane affairs and they have very little time for the extensive work required for creating fetishes. Most community members may gain a fetish as an adulthood ritual and maybe at one other rite-de passage. Shamans have more important things to do than provide magic items for wandering adventurers.
-
 
 ## Using Fetishes
 
@@ -413,7 +390,6 @@ A fetish holding a spirit will take on some of the spirit's essence over time. S
 Breaking a fetish immediately frees the spirit it contains and allows it to return to the spirit plane. A freed spirit may attempt to flee back to the spirit plane or, if hostile, possibly attempt to attack the owner who imprisoned it. Malicious shamans sometimes trap places with easily broken fetishes containing dangerous spirits.
 
 The visual effects of using a fetish will vary depending on the setting. In a pseudo-historical setting the spirit's effects would be invisible to the naked eye. In fantasy setting the magician might take on certain visual cues or the shadow might change. In an epic fantasy campaign perhaps the snarling figure of a wolf might surround the magician, seeming to lash out at enemies.
-
 
 ## Shamans and spirits
 
@@ -434,7 +410,6 @@ The Spirit Binding Skill requirement to find a spirit on the spirit plane and de
 
 Of course players can have their shaman characters undertake quests to find spirits during play sessions. In this case there is no Improvement Roll cost involved and they can tackle more dangerous spirits with help from allies. Such sessions are full of roleplaying opportunities.
 
-
 ### The Shaman's Fetch
 
 Not every Shamanic tradition features fetches and those that do vary in the nature of the fetch. In some traditions the fetch is the awakened "other half" of the shaman. In this case the fetch and shaman are two sides of the same soul with the fetch perceiving the Spirit Plane while the shaman exists on the mundane plane. In other traditions the fetch is a spirit (often an animal guide) who is drawn to the shaman to become their spiritual partner. In both cases the prospective shaman must undertake a successful Vision Quest in order to gain the fetch. This is a dangerous ritual, and it may cripple or kill the shaman if he fails to complete it successfully.
@@ -445,7 +420,6 @@ A fetch is never bound into a fetish. In some cases a shaman may create an item 
 
 This is potentially a huge advantage and Games Masters will have to decide whether concerts exist in their campaign and how easy it is to find a teacher for the Concert skill. By default it is rare skill and it is recommended you do not introduce it into a game until you feel comfortable with spirit magic.
 
-
 ### Spirit Allies
 
 Over time a shaman gradually makes contact with many spirits. Rather than binding them all to service, most Shamans attempt to strike bargains; they provide something the spirit wants and the spirit undertakes some service. In game terms, such spirits are effectively contacts and act as non player characters. Some spirits are willing to enter into a more formal arrangement by providing the Shaman with their name, becoming an ally of the shaman. In response the Shaman agrees to undertake some sort of repeating task or to uphold a geas or compulsion. On the most abstract level assume the task will cost the shaman one Improvement Roll per year to represent the service or inconvenience.
@@ -454,11 +428,9 @@ Summoning a spirit contact or ally requires the shaman to make a Spirit Walking 
 
 Some allies may be willing to undertake tasks for the magician or even fight for him by discorporating an enemy but this should be a relationship that unfolds over time in play. Most spirits are no more capable of interacting with the mundane world than mortals are capable of interacting with the spirit world. A shaman can however use their Spirit Walking skill to summon a consenting spirit to the mundane world. A High Shaman can use their Spirit Walking skill to forcibly drag a spirit to the mundane plane if he overcomes the spirit's Persistence.
 
-
 ## Spirit Powers
 
 There are four ways in which a spirit magician can use a spirit's powers. The simplest and safest way is the augmentation provided by nature and guardian spirits. The spirit gives the magician a benefit by impressing itself upon the magician's soul and is easily returned to a fetish. Elemental spirits however require embodiment, a harder and more demanding act. A weak magician who incautiously embodies an elemental spirit risks being consumed by it. Finally, ancestor spirits possess the magician, taking complete control. Should an ancestor not wish to depart there is little the unfortunate magician can do. Finally some spirits such as curse and sickness spirits are freed to attack a victim. The danger in this act is that if the magician is weak the spirit may turn on him instead.
-
 
 ### Ancestor Spirits
 
@@ -477,7 +449,6 @@ All ancestor spirits know the Lore and Culture skills of their people and region
 
 These abilities will cover most options but, of course, players and Games Masters should feel free to be as creative as they want in designing ancestor spirits to fit the needs of their campaign. Remember as well that the most common interaction with ancestors is likely to be the use of Spirit Walking to talk with them or request aid other than possession. Over the period of a campaign, some ancestors may become recurring non player characters, with their own agendas.
 
-
 ### Curse, Sickness and Bane spirits
 
 Although these spirits can be bound for later use they are never used to augment the spirit magician, rather they are sent against an enemy. They are hostile to all traditions save those perverse enough to revere them. The Intensity of Curse & Sickness spirits measures the number and severity of the conditions they can inflict on a target once they have possessed the victim. Each condition requires one or more points of Intensity, so an Intensity 2 Curse spirit can inflict two Intensity one conditions or one Intensity two condition. Diseases tend to be a package of conditions so you can assess the Intensity of the Disease spirit carrying a particular disease by looking at the conditions it causes.
@@ -486,8 +457,7 @@ Although these spirits can be bound for later use they are never used to augment
 * Intensity 2: Agony, Bleeding, Paralysis, Sapping.
 * Intensity 3: Asphyxiation, Death.
 
-See *Legend* (page 79) for a description of the effects of each condition. Unlike 'normal' diseases, conditions caused by spirits do not recover naturally even with application of healing skills. Some Higher Magic spells may work for a while if their Magnitude is greater than the spirit's Intensity. Thus a Divine Spell to cure blindness of higher Magnitude than the possessing spirit's Intensity will work but unless the spirit is driven out, the effects will gradually return.
-
+Unlike 'normal' diseases, conditions caused by spirits do not recover naturally even with application of healing skills. Some Higher Magic spells may work for a while if their Magnitude is greater than the spirit's Intensity. Thus a Divine Spell to cure blindness of higher Magnitude than the possessing spirit's Intensity will work but unless the spirit is driven out, the effects will gradually return.
 
 ### Elemental Spirits
 
@@ -520,7 +490,6 @@ Although embodying an elemental spirit can be extremely impressive it also opens
 
 A common optional rule is to allow elementals to mutually annihilate each other. Generally Fire and Water cancel each other out while Earth and Air also oppose each other. Different settings have different elemental cosmologies. Opposed elementals can annihilate each other it by inflicting damage equal to their Hit Points directly to each other. Alternately any attacks launched by an elemental inflict double damage to their opposed element. For example, an air elemental with 21 Hit Points is grabbed by an earth elemental with 32 Hit Points. The air elemental takes 32 Hit Points damage and is dispersed while the earth elemental suffers 21 Hit Points damage; it has been severely knocked about by the air elemental but still standing.
 
-
 ### Nature Spirits
 
 These spirits augment the spirit magician's abilities exactly as described. It is possible to augment Combat Actions but that requires a minimum Intensity of 2, giving +1 Combat Action per point of Intensity after the first (so an Intensity 3 spirit gives +2 Combat Actions). Magicians cannot command their spirits to augment others' abilities: it is the bond between magician and spirit that allows the augmentation.
@@ -529,13 +498,11 @@ When designing Nature and Guardian spirits for non player characters there is no
 
 Finally, nature spirits do not have to be bound to be useful. Higher Intensity spirits will be fully sapient and can be negotiated with to undertake tasks, gather information or come to the spirit magician's aid.
 
-
 ## Spirit Combat
 
 Spirit combat occurs only on the spirit plane and requires both participants to be there. High Shamans can discorporate corporeal beings through spending one Magic Point and pitting their Spirit Walking skill against the target's Persistence as a Combat Action. The target has to be within range of the skill (the Shaman's POW in metres). Spirits using the Discorporate skill likewise must spend one Magic Point and a Combat Action to discorporate a corporeal being whose soul they can perceive and who is within their POW in metres on the spirit plane. Naturally they can keep trying for as long as they have Magic Points but if the target successfully resists with a critical then it is reasonable to assume the target is immune to being discorporated by that particular shaman or spirit for at least a week. As discorporation is an extremely powerful ability then one option is to increase the cost for multiple attempts against the same person by one Magic Point each time. So the first attempt at discorporation costs 1 Magic Point, the second costs two, the third costs three and so on. This will prevent spirits from simply trying over and over again until they succeed.
 
 Once both participants are on the spirit plane Spirit Combat may continue until one side has been reduced to zero Magic Points. The winner does not have to take advantage of the loser and it is important to remember that spirit combat can represent any kind of contest from a battle of wits to an artistic performance; it does not always have to be a grim battle to the end. The same mechanic is used but how it plays out depends on the beings involved.
-
 
 ### Spirit Combat and bound spirits
 
@@ -555,7 +522,6 @@ Characters who have Dedicated a large amount of their POW can be very vulnerable
 
 One of the primary tasks for shamans is to exorcise spirits possessing the faithful. The most common technique is to use Spirit Walking to find the spirit within its body. At this point a High Shaman can use their Spirit Walking skill to forcibly discorporate the spirit and then either he or his fetch can battle it on the spirit plane. More junior shamans will have to rely on their fetch to discorporate the spirit. In both cases it is usually the fetch that battles the spirit, leaving the shaman free to perform physical actions acting as a complementary skill for the fetch's combat skill. Usually this will be the use of the Healing skill but it may also include drumming, singing, dancing, burning of herbs to make the spirit drowsy and so on. That said, once the spirit has been discorporated it may attempt to flee if the shaman or his fetch clearly overmatches it so it is often up to the shaman as to whether he wishes to pursue it.
 
-
 ### Spirits & Society
 
 In societies where Spirit Magic is the main form of spirituality, spirits and fetishes are ever- present and a shaman fulfils the same role as a priest. It can be easy to forget that spirits are not just "power ups" or resources to be used. The spirits are not tools, however, they are part of the society. Most people will have a shrine to revered ancestors, a fetish holding a totem spirit and will take part in ceremonies of remembrance and revitalisation. In general, animists regard spirits in one of three ways.
@@ -570,7 +536,6 @@ Most members of the society will know enough Spirit Walking to see the spirits a
 
 The shaman is the bridge between the mortal world and the spirit world. He lives a life in two worlds and with the shaman's help, the members of the tribe can pass through to the spirit world to converse with those who have gone before. Naturally a powerful shaman tends to attract attention on the spirit plane. When viewed on the spirit plane, the shaman's soul echo is often at the centre of many spirits eager for attention. This can be highly distracting and may attract the attention of predators but a powerful shaman should have built a strong enough web of allies that most predators would rather hunt less powerful prey. Player character shamans, however, should expect occasional very unpleasant surprises...
 
-
 ### Trapped Spirits
 
 Some spirits occasionally get accidentally bound to the mundane plane and become Haunts. The spirits of the dead who did not receive the proper funeral rites or who have died violently may be incapable of leaving the mundane plane. Other mortals may have been cursed or may have died before an important vow was completed or died full of hatred and rage and become bound to the mundane world. Such spirits may be bound to the bones of their corpse, a tree from which they were hung or maybe a cliff from which they jumped to commit suicide. By definition Haunts are trapped on the mundane plane and cannot discorporate victims in an attempt to possess them. In fact most such spirits can do little but bewail their fate. Some, though, may have acquired certain powers. The list should be limited only by your creativity but some include.
@@ -583,7 +548,6 @@ Some spirits occasionally get accidentally bound to the mundane plane and become
 Like bound spirits, Haunts cannot regenerate Magic Points normally but they are able to tap Magic Points from the natural world around them, a process that inevitably creates an unsettling area shunned by animals and where the plants are stunted and withered. A Haunt can tap the POW of any animal or plant with lower POW than the Haunt's Intensity to provide it with Magic Points up to the limit of its normal POW. Generally most Haunts must manifest in order to use any of their abilities. While a Haunt is manifested it becomes vulnerable to magical damage, however destroying it with damage simply drives it back to its binding until it has regained Magic Points through tapping its surroundings.
 
 Dealing with a Haunt is not easy. Spirit Walking or magical senses may reveal the location of the binding object. Sometimes destroying the binding object is enough to release the Haunt but usually any attempt to release the Haunt requires determining why the spirit became bound in the first place and undoing the effects.
-
 
 ### Fighting Wraiths
 
