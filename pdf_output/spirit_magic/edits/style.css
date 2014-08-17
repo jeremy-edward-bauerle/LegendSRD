@@ -1,15 +1,33 @@
-header h1 {
-    text-align: center;
+body {
+    background-color: #f8f4d7;
+    /*background-image: url("/home/jeremy/Downloads/ricepaper_v3/ricepaper_v3/ricepaper_v3.png");*/
+    font: 1em/1.4em Palatino;
+    margin: 0px auto;
+    width: 40em;
 }
 
-header hr {
-    width: 70%;
+header h1 {
+    border-bottom: 1px dotted black;
+    font-size: 4em;
+    margin-bottom: 0px;
+    padding-bottom: 0.25em;
+}
+
+header h5 {
+    font-weight: normal;
+    margin-top: 0px;
+    text-align: right;
 }
 
 ul {
     list-style-type: none;
 }
 
+#toc > ul {
+    padding-left: 0;
+}
+
 a {
     text-decoration: none;
 }
+
