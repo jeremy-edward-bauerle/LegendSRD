@@ -51,7 +51,7 @@ select bespoke items.
 The kit, as an inclusive bundle, costs 70 silver and has a total ENC of 17.
 
 | Item                   | ENC |
-|-                       |-    |
+|------------------------|-----|
 |2 weeks trail rations   | 1   |
 |Animal Call/Whistle     | —   |
 |Animal Snare/Trap x2    | 4   |
@@ -1139,7 +1139,7 @@ labyrinths.
 #### Adventuring Gear and Basic Items
 
 | Item                 | ENC | Cost   | Item                       | ENC | Cost   |
-|-                     |-    |-       |-                           |-    |-       |
+|----------------------|-----|--------|----------------------------|-----|--------|
 | Acid, Vial           | 1   | 20 SP  | Dowsing Rod                | 1   | 300 SP |
 | Altar, Portable      | 3   | 300 SP | Dye, Coloured              | 1   | 13 SP  |
 | Altar Shroud         | 2   | 50 SP  | Elfen Bowstring            | —   | 150 SP |
@@ -1186,7 +1186,7 @@ labyrinths.
 | Doorjamb             | 2   | 5 SP   | Knockout Powder, Vial      | 1   | 80 SP  |
 
 | Item                | ENC | Cost      |  Item                  | ENC | Cost   |
-|-                    |-    |-          |-                       |-    |-       |
+|---------------------|-----|-----------|------------------------|-----|--------|
 | Ladder, 3m          | 4   | 2 SP      | Sack, large            | 1   | 5 CP   |
 | Ladder, Grappling   | 3   | 8 SP      | Sack, Secure           | —   | 1 SP   |
 | Lantern, Basic      | 1   | 10 SP     | Sack, Small            | —   | 2 CP   |
@@ -1245,7 +1245,7 @@ their general market cost.
 #### Riding and Animal Supplies
 
 | Item                         | ENC    | Cost   |
-|-                             |-       |-       |
+|------------------------------|--------|--------|
 | Barding                      | Varies | See Description |
 | Bit and Bridle               | 1      | 15 SP  |
 | Blanket and Hood             | 2      | 15 SP  |
@@ -1571,40 +1571,41 @@ and can be reached by either hand as a standard Combat Action.
 
 #### Clothing
 
-| Article of Clothing | Cost   | Article of Clothing | Cost   |
-|-                    |-       |-                    |-       |
-Aba                           6 SP                Gloves, Fire                 30 SP
-Apron, Industrial             4 SP                Gloves, Fancy                2 SP
-Baldric                       2 SP                Gloves, Industrial           4 SP
-Bandolier                     8 CP                Gloves, Thieves’             5 SP
-Belt, Leather                 6 CP                Hat, Brimmed                 8 CP
-Belt, Fancy                   2 SP                Hat, Cowled                  1 SP
-Belt buckle, Thieves’         10 SP               Hat, Winter                  4 SP
-Boots, Bladed                 20 SP               Headdress                    20 SP
-Boots, Common                 6 SP                Loincloth                    1 CP
-Boots, High                   8 SP                Mask                         5 CP
-Boots, Riding                 10 SP               Reversable Clothes           30 SP
-Boots, Thieves’               25 SP               Robe, Woollen                2 SP
-Breeches, Common              1 SP                Robe, Religious              25 SP
-Breeches, Fancy               3 SP                Sash, Common                 3 CP
-Bustle                        2 SP                Sash, Fancy                  2 SP
-Catsuit, Intruder’s           35 SP               Shirt, Common                2 CP
-Cape                          3 SP                Shirt, Fancy                 2 SP
-Coat, Common                  2 SP                Shirt, Noble                 75 SP
-Coat, Fancy                   8 SP                Shoes, Common                2 SP
-Coat, Winter                  10 SP               Shoes, Fancy                 6 SP
-Cloak, Common                 2 SP                Shoes, Sandals               1 SP
-Cloak, Winter                 12 SP               Shoes, Tabi                  10 SP
-Collar, Ornamental            5 SP                Skirt, Leather               5 SP
-Corset                        4 SP                Tabard, Common               7 CP
-Doublet, Common               8 CP                Tabard, Heralded             10 SP
-Doublet, Fancy                2 SP                Toga, Common                 5 CP
-Dress, Common                 2 SP                Toga, Fancy                  2 SP
-Dress, Fancy                  5 SP                Toga, Noble                  100 SP
-Dress, Noble                  150 SP              Tunic, Common                6 CP
-Gauntlets, Clawed             8 SP                Tunic, Fancy                 2 SP
-Gloves, Common                5 CP                Umbrella Hat                 2 SP
-                                                  Vest, Assassin’s             25 SP
+| Article of Clothing         | Cost              | Article of Clothing        | Cost |
+|-----------------------------|-------------------|----------------------------|------|
+| Aba                         | 6 SP              | Gloves, Fire               | 30 SP |
+| Apron, Industrial           | 4 SP              | Gloves, Fancy              | 2 SP |
+| Baldric                     | 2 SP              | Gloves, Industrial         | 4 SP |
+| Bandolier                   | 8 CP              | Gloves, Thieves’           | 5 SP |
+| Belt, Leather               | 6 CP              | Hat, Brimmed               | 8 CP |
+| Belt, Fancy                 | 2 SP              | Hat, Cowled                | 1 SP |
+| Belt buckle, Thieves’       | 10 SP             | Hat, Winter                | 4 SP |
+| Boots, Bladed               | 20 SP             | Headdress                  | 20 SP |
+| Boots, Common               | 6 SP              | Loincloth                  | 1 CP |
+| Boots, High                 | 8 SP              | Mask                       | 5 CP |
+| Boots, Riding               | 10 SP             | Reversable Clothes         | 30 SP |
+| Boots, Thieves’             | 25 SP             | Robe, Woollen              | 2 SP |
+| Breeches, Common            | 1 SP              | Robe, Religious            | 25 SP |
+| Breeches, Fancy             | 3 SP              | Sash, Common               | 3 CP |
+| Bustle                      | 2 SP              | Sash, Fancy                | 2 SP |
+| Catsuit, Intruder’s         | 35 SP             | Shirt, Common              | 2 CP |
+| Cape                        | 3 SP              | Shirt, Fancy               | 2 SP |
+| Coat, Common                | 2 SP              | Shirt, Noble               | 75 SP |
+| Coat, Fancy                 | 8 SP              | Shoes, Common              | 2 SP |
+| Coat, Winter                | 10 SP             | Shoes, Fancy               | 6 SP |
+| Cloak, Common               | 2 SP              | Shoes, Sandals             | 1 SP |
+| Cloak, Winter               | 12 SP             | Shoes, Tabi                | 10 SP |
+| Collar, Ornamental          | 5 SP              | Skirt, Leather             | 5 SP |
+| Corset                      | 4 SP              | Tabard, Common             | 7 CP |
+| Doublet, Common             | 8 CP              | Tabard, Heralded           | 10 SP |
+| Doublet, Fancy              | 2 SP              | Toga, Common               | 5 CP |
+| Dress, Common               | 2 SP              | Toga, Fancy                | 2 SP |
+| Dress, Fancy                | 5 SP              | Toga, Noble                | 100 SP |
+| Dress, Noble                | 150 SP            | Tunic, Common              | 6 CP |
+| Gauntlets, Clawed           | 8 SP              | Tunic, Fancy               | 2 SP |
+| Gloves, Common              | 5 CP              | Umbrella Hat               | 2 SP |
+|                             |                   | Vest, Assassin’s           | 25 SP |
+
 #### But It’s Only a Bit of Platemail...
 
 Whilst many Adventurers will spend a great deal of time clad in armour, anything other
@@ -1623,16 +1624,17 @@ production.
 The availability and price of goods is affected by the type of settlement where it is
 bought. Legend categorises settlements into the categories shown.
 
-Settlement Type          Cultures                         Population          Price Factor
-Hamlet                   All                              10 - 30             2
-Village                  All                              30 - 200            1.5
-Small Town               Barbarian, Nomad, Civilised      200 - 500           1.25
-Medium Town              Barbarian, Nomad, Civilised      500 - 1,000         1.25
-Large Town               Civilised                        1,000 - 3,000       1
-Small City               Civilised                        3,000 - 5,000       1
-Medium City              Civilised                        5,000 - 10,000      1.25
-Large City               Civilised                        10,000 - 20,000     1.5
-Capital/Metropolis       Civilised                        20,000+             2
+| Settlement Type        | Cultures                       | Population        | Price Factor |
+|------------------------|--------------------------------|-------------------|--------------|
+| Hamlet                 | All                            | 10 - 30           | 2 |
+| Village                | All                            | 30 - 200          | 1.5 |
+| Small Town             | Barbarian, Nomad, Civilised    | 200 - 500         | 1.25 |
+| Medium Town            | Barbarian, Nomad, Civilised    | 500 - 1,000       | 1.25 |
+| Large Town             | Civilised                      | 1,000 - 3,000     | 1 |
+| Small City             | Civilised                      | 3,000 - 5,000     | 1 |
+| Medium City            | Civilised                      | 5,000 - 10,000    | 1.25 |
+| Large City             | Civilised                      | 10,000 - 20,000   | 1.5 |
+| Capital/Metropolis     | Civilised                      | 20,000+           | 2 |
 
 ### Hamlet
 
@@ -1810,11 +1812,12 @@ precisely how depends on the circumstances.
 
 #### Bartering Evaluate
 
-Evaluate Level of Success         Influence Bonus          Commerce Bonus
-Critical                          +20%                     +40%
-Success                           +10%                     +20%
-Failure                           0                        0
-Fumble                            -20%                     -10%
+| Evaluate Level of Success       | Influence Bonus        | Commerce Bonus |
+|---------------------------------|------------------------|----------------|
+| Critical                        | +20%                   | +40% |
+| Success                         | +10%                   | +20% |
+| Failure                         | 0                      | 0 |
+| Fumble                          | -20%                   | -10% |
 
 ### Haggling
 
@@ -1854,13 +1857,13 @@ Making, maintaining or repairing anything properly requires certain essentials:
 
 The following Advanced Skills are used in building, repairing and maintaining.
 
-Craft - to manufacture, maintain and repair items that typically have no or few moving
+**Craft** - to manufacture, maintain and repair items that typically have no or few moving
 parts: armour, clothing, pottery, weapons and so forth.
 
-Engineering - to manufacture, maintain and repair large structures and, (typically)
+**Engineering** - to manufacture, maintain and repair large structures and, (typically)
 machinery with several moving parts.
 
-Mechanisms - to manufacture, maintain and repair small items with several moving parts.
+**Mechanisms** - to manufacture, maintain and repair small items with several moving parts.
 
 Some overlap naturally occurs between these skills: one could use Craft (Clockmaking)
 or Mechanisms to make and repair a pocket watch or clock; similarly, one could
@@ -1871,15 +1874,16 @@ and -60% depending on how appropriate the skill is to the task at hand.
 
 #### Item Quality
 
-Total Score Result
-175 - 200   A perfect, masterly job. The item benefits from 3 Enhancements (see Enhancements).
-150         A superb job. The item benefits from 2 Enhancements (see Enhancements).
-125         An excellent job. The item benefits from 1 Enhancements (see Enhancements).
-100         A perfectly serviceable, acceptable product or job, that does what it is intended to do.
-75          A reasonable, but flawed result. The item will break or wear out 25% quicker than normal or its Hit Points and value are reduced by one quarter reflecting its flawed durability.
-50          A poor, flawed result. The item will break or wear out 50% quicker than normal or its Hit Points and value are reduced by one half reflecting its flawed durability.
-25          A shoddy, botched piece of work. The item will break or wear out 75% quicker than normal or its Hit Points and value are reduced by three quarters reflecting its shoddy durability.
-0 or less   The project is simply not finished and is unusable.
+| Total Score | Result |
+|-------------|--------|
+| 175 - 200   | A perfect, masterly job. The item benefits from 3 Enhancements (see Enhancements). |
+| 150         | A superb job. The item benefits from 2 Enhancements (see Enhancements). |
+| 125         | An excellent job. The item benefits from 1 Enhancements (see Enhancements). |
+| 100         | A perfectly serviceable, acceptable product or job, that does what it is intended to do. |
+| 75          | A reasonable, but flawed result. The item will break or wear out 25% quicker than normal or its Hit Points and value are reduced by one quarter reflecting its flawed durability. |
+| 50          | A poor, flawed result. The item will break or wear out 50% quicker than normal or its Hit Points and value are reduced by one half reflecting its flawed durability. |
+| 25          | A shoddy, botched piece of work. The item will break or wear out 75% quicker than normal or its Hit Points and value are reduced by three quarters reflecting its shoddy durability. |
+| 0 or less   | The project is simply not finished and is unusable. |
 
 ### Tools and Resources
 
@@ -1915,13 +1919,13 @@ a particular stage of a project. A range of sample tasks and Task Rounds is give
 the table below. The table notes the activity, the most appropriate skill or skills for
 accomplishing it and the time unit for the Task Round.
 
-Task                       Appropriate Skill                     Task Round Unit
-Repairing torn clothing    Craft (Sewing)                        5 minutes - 1 hour
-Forging a horseshoe        Craft (Blacksmith)                    5 minutes - 30 minutes
-Making a sword             Craft (Sword or Weaponsmith)          1 days - 5 days
-Building a Wooden or       Engineering                           6 months - several
-stone Structure                                                  years
-Making a clock             Mechanisms                            1 month
+| Task                                  | Appropriate Skill                   | Task Round Unit |
+|---------------------------------------|-------------------------------------|-----------------|
+| Repairing torn clothing               | Craft (Sewing)                      | 5 minutes - 1 hour |
+| Forging a horseshoe                   | Craft (Blacksmith)                  | 5 minutes - 30 minutes |
+| Making a sword                        | Craft (Sword or Weaponsmith)        | 1 days - 5 days |
+| Building a Wooden or stone Structure  | Engineering                         | 6 months - several years |
+| Making a clock                        | Mechanisms                          | 1 month |
 
 To complete a task, the person(s) involved makes a roll against the appropriate skill and
 notes the level of success. Each roll contributes a certain percentage to the overall result
@@ -1964,14 +1968,15 @@ The final percentage reflects the quality of the product or completed task.
 
 The following modifiers, depending on circumstances,
 
-Circumstance                             Modifier
-No tools                                 Task is impossible
-Improvised tools                         -40%
-Poor Quality/Incomplete Tools            -30%
-Lacking a crucial resource               -30%
-Lacking a major resource                 -20%
-Lacking a minor resource                 -10%
-Good Quality tools                       +20%
+| Circumstance                           | Modifier |
+|----------------------------------------|----------|
+| No tools                               | Task is impossible |
+| Improvised tools                       | -40% |
+| Poor Quality/Incomplete Tools          | -30% |
+| Lacking a crucial resource             | -30% |
+| Lacking a major resource               | -20% |
+| Lacking a minor resource               | -10% |
+| Good Quality tools                     | +20% |
 
 ### Enhancements
 
@@ -1998,12 +2003,13 @@ The Enhancement is determined by the make. Choose from the following:
 
 #### Enhancements
 
-Enhancement          Effect
-Highly Desirable     The item’s value is doubled.
-Highly Durable       The item’s Hit Points are increased by half again.
-Highly Resilient     The item’s Armour Points are increased by half again.
-Highly Efficient     The item of such quality that it confers a +5% bonus to the skill required to use it.
-Highly Effective     If a weapon it gains +1 to its Damage rating. Other items reduce ENC value by 1D2 points.
+| Enhancement        | Effect |
+|--------------------|--------|
+| Highly Desirable   | The item’s value is doubled. |
+| Highly Durable     | The item’s Hit Points are increased by half again. |
+| Highly Resilient   | The item’s Armour Points are increased by half again. |
+| Highly Efficient   | The item of such quality that it confers a +5% bonus to the skill required to use it. |
+| Highly Effective   | If a weapon it gains +1 to its Damage rating. Other items reduce ENC value by 1D2 points. |
 
 Enhancements cannot stack: that is, different enhancements must always be chosen;
 one may not pick the same enhancement to achieve multiple benefits.
@@ -2043,14 +2049,14 @@ between a living Adventurer and a dead one.
 
 ## Armour Types
 
-Banded/Lamellar: Metal plates stitched to a leather backing and then overlapped to
+**Banded/Lamellar**: Metal plates stitched to a leather backing and then overlapped to
 resemble the natural armour of an armadillo. Banded has a certain flexibility but is still
 heavy to wear.
 
-Bezainted: Soft leather with metal discs stitched to it (resembling the bezant, a medieval
+**Bezainted**: Soft leather with metal discs stitched to it (resembling the bezant, a medieval
 coin). It offers good protection but is nevertheless heavy to wear.
 
-Bone: Crafted from the bone of a dead creature (such as a skull helmet), bone armour
+**Bone**: Crafted from the bone of a dead creature (such as a skull helmet), bone armour
 is surprisingly durable and can take a significant amount of damage before yielding,
 especially when backed with thick fur or leather for comfort and protection. Many
 bone helms have skull-like faces or other horrifying visages, granting a +10% bonus
@@ -2062,14 +2068,14 @@ image of barbarism. The bone shirt also grants a +10% bonus to Influence tests m
 to intimidate but suffers a -10% penalty to Influence tests made to persuade or charm
 those who might think the bone armour is savage.
 
-Brigandine: Metal scales are sandwiched between layers of leather and held in place by
+**Brigandine**: Metal scales are sandwiched between layers of leather and held in place by
 rivets. Strong and durable its rivets offer a more attractive finish than straightforward
 metal armour.
 
-Chainmail: Woven metal links which, whilst heavy, are flexible and more durable than
+**Chainmail**: Woven metal links which, whilst heavy, are flexible and more durable than
 armour relying on a leather base.
 
-Enamelled: Cast from either leather or tin before being painted repeatedly with stiff
+**Enamelled**: Cast from either leather or tin before being painted repeatedly with stiff
 resins and alchemical agents, enamelled armour is beautiful and resilient without being
 too heavy. Due to its construction, it is always made in brilliant colours that strike the
 eye from a great distance. Often used by generals, heroes and showmen, enamelled
@@ -2077,27 +2083,27 @@ armour is among the most attractive armour made. Every individual piece of ename
 armour grants +10% to any Influence tests made toward onlookers, but also applies
 that same bonus to any Perception tests made to spot the wearer.
 
-Hard Leather: Strengthened hides and cured leather used for shields and body armour.
+**Hard Leather**: Strengthened hides and cured leather used for shields and body armour.
 Hard leather is the consistency of shoe leather: hard wearing yet flexible.
 
-Linen Cuirass: Similar to a heavy leather cuirass but the armour is crafted from
+**Linen Cuirass**: Similar to a heavy leather cuirass but the armour is crafted from
 multiple layers of quilted linen. The thick, stiff fabric provides decent protection at a
 fraction of the weight of other materials.
 
-Plate: Made of moulded individual metal plates, this armour provides excellent
+**Plate**: Made of moulded individual metal plates, this armour provides excellent
 protection but is encumbering and comes with a heavy price tag.
 
-Ringmail: Bronze or iron rings sewn onto a leather backing. Heavier than leather, but
+**Ringmail**: Bronze or iron rings sewn onto a leather backing. Heavier than leather, but
 affords much better protection.
 
-Scalemail: Similar to Ring, but the rings are replaced with scales of metal which
+**Scalemail**: Similar to Ring, but the rings are replaced with scales of metal which
 overlap, like the scales of a fish or serpent.
 
-Soft Leather: Armour made from cured hides - the simplest form of armour usually
+**Soft Leather**: Armour made from cured hides - the simplest form of armour usually
 found amongst primitive cultures but also worn in more cultivated styles where
 protection is important but not necessarily an essential.
 
-Wooden: This armour is carved from appropriately sized pieces of timber and generally
+**Wooden**: This armour is carved from appropriately sized pieces of timber and generally
 lacquered to improve its durability. What wooden armour lacks in flexibility, it makes-
 up for in two other areas. First, attempting to Impale through wooden armour is
 difficult - the Impale Combat Manoeuvre can only be chosen on a Critical Success
@@ -2120,43 +2126,45 @@ Pants, the cost would therefore be 2,160 SP.
 
 #### Armour Types and Costs
 
-Armour              AP         Cost in Silver per Hit Location      ENC per Location
-Banded/Lamellar     3          800                                  2
-Bezainted           3          200                                  3
-Bone                2          300                                  2
-Brigandine          7          1,500                                3
-Chainmail           5          400                                  3
-Enamelled           4          1,600                                2
-Hard Leather        2          100                                  2
-Linen               2          75                                   1
-Plate               6          1,200                                3
-Ringmail            3          200                                  2
-Scalemail           4          250                                  2
-Soft Leather        1          50                                   1
-Wooden              3          350                                  3
+| Armour            | AP       | Cost in Silver per Hit Location    | ENC per Location |
+|-------------------|----------|------------------------------------|------------------|
+| Banded/Lamellar   | 3        | 800                                | 2 |
+| Bezainted         | 3        | 200                                | 3 |
+| Bone              | 2        | 300                                | 2 |
+| Brigandine        | 7        | 1,500                              | 3 |
+| Chainmail         | 5        | 400                                | 3 |
+| Enamelled         | 4        | 1,600                              | 2 |
+| Hard Leather      | 2        | 100                                | 2 |
+| Linen             | 2        | 75                                 | 1 |
+| Plate             | 6        | 1,200                              | 3 |
+| Ringmail          | 3        | 200                                | 2 |
+| Scalemail         | 4        | 250                                | 2 |
+| Soft Leather      | 1        | 50                                 | 1 |
+| Wooden            | 3        | 350                                | 3 |
 
 #### Armour Pieces Table
               
-Name               Hit Locations Covered             Type of Armour
-Greaves            Legs                  All
-Pants or Trews     Abdomen and Legs      Soft Leather, Hard Leather, Ringmail, Scalemail, Chainmail, Banded, Bezainted
-Skirt              Abdomen             All
-Hauberk            Chest and Abdomen   Soft Leather, Hard Leather, Ringmail, Scalemail, Chainmail, Banded, Bezainted
-Byrnie/Cuirass     Chest               Soft Leather, Linen, Ringmail, Chainmail,
-Breastplate        Chest               Banded/Lamellar, Bezainted, Bone, Enamelled, Plate, Wooden
-Sleeves/Vambraces  Arms                All
-Coif/Hood          Head                Soft and Hard Leather, Ringmail, Chainmail
-Coat               Chest, Arms and Abdomen     Banded/Lamellar, Bezainted, Soft and Hard Leather, Ringmail, Scalemail, Chainmail
-Helm               Head                Banded/Lamellar, Bezainted, Bone, Soft and Hard Leather, Scalemail, Plate, Wood
+| Name             | Hit Locations Covered      | Type of Armour |
+|------------------|----------------------------|----------------|
+| Greaves          | Legs                       | All |
+| Pants or Trews   | Abdomen and Legs           | Soft Leather, Hard Leather, Ringmail, Scalemail, Chainmail, Banded, Bezainted |
+| Skirt            | Abdomen                    | All |
+| Hauberk          | Chest and Abdomen          | Soft Leather, Hard Leather, Ringmail, Scalemail, Chainmail, Banded, Bezainted |
+| Byrnie/Cuirass   | Chest                      | Soft Leather, Linen, Ringmail, Chainmail, |
+| Breastplate      | Chest                      | Banded/Lamellar, Bezainted, Bone, Enamelled, Plate, Wooden |
+| Sleeves/Vambraces| Arms                       | All |
+| Coif/Hood        | Head                       | Soft and Hard Leather, Ringmail, Chainmail |
+| Coat             | Chest, Arms and Abdomen    | Banded/Lamellar, Bezainted, Soft and Hard Leather, Ringmail, Scalemail, Chainmail |
+| Helm             | Head                       | Banded/Lamellar, Bezainted, Bone, Soft and Hard Leather, Scalemail, Plate, Wood |
 
 ### Speciality Armour
 The armour already described forms the basis for the most common armour types in
 Legend. There are, however, certain specialised options as follows:
 
-Archer’s Armlet: A stiffened piece of leather worn on the inside of the forearm of most
+**Archer’s Armlet**: A stiffened piece of leather worn on the inside of the forearm of most
 archers, protecting them from the bite of a slightly misfired bowstring.
 
-Crabclaw Gauntlet: A specialised tool for one-handed duellists, the crabclaw gauntlet
+**Crabclaw Gauntlet**: A specialised tool for one-handed duellists, the crabclaw gauntlet
 is a thick metal ‘glove’ that extends halfway up the arm, just like any other. The part
 of this gauntlet that is exceptional is the single folded plate that houses the first two
 fingers of the wearer’s hand. At the end of this thick finger-cuff is a latching mechanism
@@ -2166,7 +2174,7 @@ broken, the wielder will continue to grasp the weapon or item within. A crabclaw
 gauntlet adds +50% to any tests used to resist being disarmed or having the clutched
 item taken from the gauntlet. It takes two Combat Actions to unlatch the glove.
 
-Duellists Half-Cape: This is a length of flexible cloth that is often cut into a draped
+**Duellist's Half-Cape**: This is a length of flexible cloth that is often cut into a draped
 cape of sorts that hangs over the chest and unused arm during a swordfight. A number
 of stiff leather strips are sewn into the cape here and there, giving additional protection
 to the areas they cover. The half-cape’s construction allows it to be twirled over one arm
@@ -2175,50 +2183,50 @@ arm if desired. Also, if taken from around the chest and held in one hand, the h
 can be used like a buckler - offering no AP protection, but allowing a +10% bonus to
 Parry Skill Tests.
 
-False Plate (breast and back): Made for the Adventurer who wants the look of
+**False Plate** (breast and back): Made for the Adventurer who wants the look of
 expensive plate armour but not the cost, false plate is actually hard leather with a very
 thin riveted sheet of metal on top of it. To the casual observer, the clever sculpting and
 metallic sheen of the armour is likely to pass for the heavy and costly plate. Unless the
 armour is damaged enough that someone can see through the thin metal, it is almost
 indistinguishable (-25% to Perception tests) from normal plate armour.
 
-False Plate (suit): This is a complete suit of the cunning false plate armour, cut and
+**False Plate** (suit): This is a complete suit of the cunning false plate armour, cut and
 fit to the wearer just as though it were real plate. At a glance it will fool nearly anyone,
 as it has all the same rules as the false plate breast; however, it is considerably lighter
 and does not clank and rattle quite the same. Someone fighting or running in a suit
 of false plate reduces the penalty to onlookers’ Perception tests against discovering its
 secret to -10%.
 
-Gauntlet, Heavy: A hinged, segmented glove made of several metal plates folded to
+**Gauntlet, Heavy**: A hinged, segmented glove made of several metal plates folded to
 fit the wearer, a heavy gauntlet completely eliminates the ability to manipulate objects
 with any sort of manual dexterity but protects the hand and forearm against injury. As
 a side note, the heavy gauntlet inflicts 1D4 bludgeoning damage if used to punch, but
 suffers a -10% penalty when used to attack in such a manner.
 
-Gauntlet, Light: Stiff leather with several sewn-in plates of metal, a light gauntlet
+**Gauntlet, Light**: Stiff leather with several sewn-in plates of metal, a light gauntlet
 is a common sight in most societies. It offers a degree of protection to the hand and
 forearm, with only a slight reduction in manual grace (-5% penalty to DEX-based
 activities). The light gauntlet is also a good standby for a falconry glove, and many
 falconers wear them for this reason alone.
 
-Gauntlet, Medium: A medium gauntlet is a leather cuff with metal finger plates
+**Gauntlet, Medium**: A medium gauntlet is a leather cuff with metal finger plates
 sewn to a reinforced backing. It protects the wearer’s hand and forearm like any other
 gauntlet, but tends to keep the best of both worlds in its construction. The penalty
 to DEX-based activities is raised to -10% but the medium gauntlet offers greater
 protection than its light counterpart.
 
-Gladiator Manica: Worn by gladiators this is a chainmail sleeve that covers the
+**Gladiator Manica**: Worn by gladiators this is a chainmail sleeve that covers the
 shoulder and arm completely, held in place by straps across the torso. Typically only
 worn on one arm to keep the other free for weapon use.
 
-Plated Cloak: This is a thick wool or leather cloak that has dozens of small metal plates
+**Plated Cloak**: This is a thick wool or leather cloak that has dozens of small metal plates
 sewn inside the fabric. The plates make the cloak quite heavy, and the garment really
 only protects from attacks occurring from behind unless fully wrapped around the
 wearer, but it offers a considerable amount of protection. It takes a Combat Reaction
 to don the cloak (so long as the wearer has an open hand), and he cannot attack while
 doing so.
 
-Plated Coat: This heavy leather coat has a high collar and tails that drop well past
+**Plated Coat**: This heavy leather coat has a high collar and tails that drop well past
 the waist to just above the knee, hemmed sleeves with buckles and pockets in several
 places. On the inside lining, which is commonly made of moleskin or soft leather, are
 several metal plates placed in key places (over the heart, kidneys, neck and so on) that
@@ -2226,7 +2234,7 @@ absorb a good amount of damage when attacked. The coat is heavy, but some prefer
 to heavier armour, as it takes half the time to put on or take off than a normal armour
 shirt or breastplate.
 
-Tightweave Silk (suit): Also nicknamed ‘assassin’s armour,’ the tightweave silk suit
+**Tightweave Silk (suit)**: Also nicknamed ‘assassin’s armour,’ the tightweave silk suit
 is a head-to-toe dyed-black silken bodysuit woven over a thin layer of treated leather.
 While it only offers the tiniest amount of protection from physical harm, it offers it
 to the entire body of the wearer - including the head, which is protected by a closed-
@@ -2236,21 +2244,21 @@ design of the suit.
 
 #### Specialised Armour
 
-Armour                    AP     ENC       Locations                           Cost
-Archer’s Armlet           1      1         Arm (wearer’s choice)               100 SP
-Crabclaw Gauntlet         4      1         Arm (wearer’s choice)               350 SP
-Duellist Half-cape        2      1         Chest, Arm (wearer’s choice)        400 SP
-False Plate (breast and   3      1         Abdomen, Chest                      500 SP
-back)
-False Plate (suit)        3      2         All                                 750 SP
-Full Helm                 6      2         Head                                1,400 SP
-Gauntlet, Heavy           3      1         Arms                                1,500 SP
-Gauntlet, Light           1      —         Arms                                500 SP
-Gauntlet, Medium          2      1         Arms                                1,000 SP
-Gladiator Manica          2      1         Arm                                 350 SP
-Plated Cloak              3      3         Abdomen, Arms, Chest, Legs          1,850 SP
-Plated Coat               3      2         Abdomen, Arms, Chest                1,500 SP
-Tightweave Silk (suit)    1      —         All                                 500 SP
+| Armour                       | AP   | ENC     | Locations                         | Cost |
+|------------------------------|------|---------|-----------------------------------|------|
+| Archer’s Armlet              | 1    | 1       | Arm (wearer’s choice)             | 100 SP |
+| Crabclaw Gauntlet            | 4    | 1       | Arm (wearer’s choice)             | 350 SP |
+| Duellist Half-cape           | 2    | 1       | Chest, Arm (wearer’s choice)      | 400 SP |
+| False Plate (breast and back)| 3    | 1       | Abdomen, Chest                    | 500 SP |
+| False Plate (suit)           | 3    | 2       | All                               | 750 SP |
+| Full Helm                    | 6    | 2       | Head                              | 1,400 SP |
+| Gauntlet, Heavy              | 3    | 1       | Arms                              | 1,500 SP |
+| Gauntlet, Light              | 1    | —       | Arms                              | 500 SP |
+| Gauntlet, Medium             | 2    | 1       | Arms                              | 1,000 SP |
+| Gladiator Manica             | 2    | 1       | Arm                               | 350 SP |
+| Plated Cloak                 | 3    | 3       | Abdomen, Arms, Chest, Legs        | 1,850 SP |
+| Plated Coat                  | 3    | 2       | Abdomen, Arms, Chest              | 1,500 SP |
+| Tightweave Silk (suit)       | 1    | —       | All                               | 500 SP |
 
 ## Modifying Armour
 
@@ -2263,39 +2271,40 @@ and much of the time it is too expensive to experiment with.
 
 #### Armour Modifications
 
-Modification  Average Time           Restrictions            Difficulty Cost
-Bladed        1D4 days              Arms and Legs only      -5%        300 SP
-Camouflaged  2D10 hours              None                    +10%       x2 of base armour value
-Reinforced       1D6 weeks          Abdomen, Arms, Chest and Legs only         -20%       x5 of base armour value
-Spiked           1D4 days           None                    -5%        250 SP
-Wintered         2D8 hours          None                    —          150 SP
+| Modification  | Average Time  | Restrictions                       | Difficulty | Cost |
+|---------------|---------------|------------------------------------|------------|------|
+| Bladed        | 1D4 days      | Arms and Legs only                 | -5%        | 300 SP |
+| Camouflaged   | 2D10 hours    | None                               | +10%       | x2 of base armour value |
+| Reinforced    | 1D6 weeks     | Abdomen, Arms, Chest and Legs only | -20%       | x5 of base armour value |
+| Spiked        | 1D4 days      | None                               | -5%        | 250 SP |
+| Wintered      | 2D8 hours     | None                               | —          | 150 SP |
 
 The Armour Modifications table shows the names of possible modifications, how long
 the process typically takes, any restrictions, the difficulty of the modification and the
 cost. A detailed description of each modification and an example of how it would look
 and affect a given piece of armour follows.
 
-Bladed: Riveting or forge-welding thin blades to forward pointing areas of the armour
+**Bladed**: Riveting or forge-welding thin blades to forward pointing areas of the armour
 segment (foot, knee, back of hand and so on) gives the wearer an additional weapon
 that cannot be removed using the Grab Weapon Combat Manoeuvre. This blade is
 positioned to be used with a normal Unarmed attack, which is considered to be a
 dagger for the purposes of damage. These blades add +1 to the ENC of the armour.
 
-Camouflaged: Painting the armour with dyes, inks and strips of canvas to match the
+**Camouflaged**: Painting the armour with dyes, inks and strips of canvas to match the
 surroundings requested by the buyer, the armour can be made to be easily hidden in
 those surroundings. Each Hit Location that is covered by Camouflaged armour adds
 a cumulative +5% bonus to any Stealth Skill Tests made to hide in a surrounding
 matching the camouflage pattern. It is up to the Games Master to decide if the
 surroundings match but armour can only have one type of Camouflage at a time.
 
-Reinforced: An armoursmith can always add metal strips to existing armour to
+**Reinforced**: An armoursmith can always add metal strips to existing armour to
 bolster its protective nature. Leather can be plated over, chainmail can be wired with
 thick spools of metal and even plate can be thickened. These modifications make the
 armour more durable and resistant to damage, but also make it far heavier and bulky.
 Reinforcing armour adds one Armour Point to it but makes it half-again (round up)
 its normal ENC. The Armour Penalty naturally increases if the armour is reinforced.
 
-Spiked: Adding long spikes to specific areas of armour can make any style of armour into
+**Spiked**: Adding long spikes to specific areas of armour can make any style of armour into
 a risky proposition for opponents relying on Unarmed and natural attacks. Anyone that
 strikes a section of the body covered by a spiked armour segment with his bare flesh will
 suffer 1D3 damage. Also, grappling with or being grappled by someone who is wearing
@@ -2303,7 +2312,7 @@ spiked armour segments will inflict 1D4 damage each round to a random Hit Locati
 Spiking armour adds 1 ENC worth of spikes and rivets to the weight of the armour; it also
 increases the Armour Penalty by 1 - even though the armour itself gains no additional AP.
 
-Wintered: Adhering thick leather or furs to all of the spaces in normal armour, an
+**Wintered**: Adhering thick leather or furs to all of the spaces in normal armour, an
 armoursmith can insulate any armour against the bitter cold and stiff wind of winter
 or mountaintop travels. This makes the armour entirely uncomfortable to wear in
 any other climate, and very heavy and unwieldy, but can make all the difference in
@@ -2321,17 +2330,17 @@ to do them outside of such environments (-20 to -50% commonly). Once the time
 has been spent doing the work required, the armoursmith makes the adjusted Craft
 (Armourer) skill roll. The outcomes of possible results of that Skill Test are below.
 
-Critical Success: The modification went smoothly, and the armoursmith was able to
+**Critical Success**: The modification went smoothly, and the armoursmith was able to
 do some additional adjusting as he went along. Any additional increase in the armour’s
 Armour Penalty is negated.
 
-Success: The modification is complete and all the bonuses and penalties described
+**Success**: The modification is complete and all the bonuses and penalties described
 above are applied.
 
-Failure: The modification is more time consuming than first thought. The modification
+**Failure**: The modification is more time consuming than first thought. The modification
 process must be repeated in order to finish it.
 
-Fumble: The modification process was too invasive or sloppy and the armour segment
+**Fumble**: The modification process was too invasive or sloppy and the armour segment
 has suffered some form of damage. Not only must the process be repeated in order to
 finish the modification, but the wearer suffers an additional 1 point Armour Penalty
 due to a lack of comfort and other restrictions owing to the poor workmanship.
@@ -2344,7 +2353,7 @@ Skill Tests trying to make armour from it and the suggested cost multiplier invo
 should be noted that some of these materials may not be available in all cultures, game
 settings or campaigns - that is ultimately up to the Games Master.
 
-Coral: The building blocks of some of the largest and most impressive undersea
+**Coral**: The building blocks of some of the largest and most impressive undersea
 constructions, coral is jagged, sharp and able to withstand the crushing force of the
 tides. Of course, it makes above adequate armour. Not only does it come in a variety
 of colours and textures, it is very durable and must be chiselled very specifically in
@@ -2358,7 +2367,7 @@ always considered to have the Spiked modification, but must triple its ENC whene
 significantly wet (hard rain, swimming and so on). Only armour types with rigid pieces
 (scalemail, banded, plate and so on) can be carved or sculpted from coral.
 
-Dwarfen Cinder: Named after one of the most common blacksmith-centric races in
+**Dwarfen Cinder**: Named after one of the most common blacksmith-centric races in
 mythic lore, ‘Dwarfen’ cinder is really just armour made from over-tempered metal
 ore. It is vastly heavier than common metals and alloys, and is very resistant to physical
 damage. However, it is terribly brittle and has been known to shatter like glass when
@@ -2369,7 +2378,7 @@ Critical Hit is scored against Dwarfen cinder, there is a 15% of it shattering i
 pieces. Only armour types with rigid pieces (scalemail, banded, plate and so on) can be
 carved or sculpted from Dwarfen Cinder.
 
-Elven Silk: ‘Elven’ silk is an extremely supple fabric that is interwoven with thinly spun
+**Elven Silk**: ‘Elven’ silk is an extremely supple fabric that is interwoven with thinly spun
 wires of copper or steel. This inner-weave makes it strong, flexible and resilient. Sheets
 of the material have a glimmer and shine to them that can sometimes lend the belief
 that Elven silk is somehow magical.
@@ -2378,7 +2387,7 @@ Elven silk has +1 AP and the Armour Penalty is reduced by 1. Only armour types w
 large cloth or leather sections (leather, gladiator, capes and cloaks and so on) can be
 tailored from Elven silk.
 
-Gold: Soft as far as metals go, gold is not the best material for crafting battle-ready
+**Gold**: Soft as far as metals go, gold is not the best material for crafting battle-ready
 armour. However, its very existence symbolises wealth and nobility and shines like the
 light of the sun itself. It is very costly to make any sort of armour segment out of gold,
 with most armourers viewing the use of gold for armour as an utter waste of good
@@ -2390,14 +2399,14 @@ Penalty. However, anyone clad in gold armour can add +5% per Hit Location to his
 Influence skill. Any armour can have its plates, rivets or adornments made with solid
 gold if the Games Master allows it.
 
-Steel: Steel is an alloy of iron and either carbon, manganese, chromium, vanadium,
+**Steel**: Steel is an alloy of iron and either carbon, manganese, chromium, vanadium,
 or tungsten. Steel is harder and more durable than iron but require different smelting
 techniques to create which may not be known in all cultures. The process for creating
 steel is reflected in its x4 Cost Multiplier.
 
 Items made from steel gain +1 AP. There is no increase in ENC.
 
-Wondrous Metal: Wondrous Metal is any special metal found in a particular settings
+**Wondrous Metal**: Wondrous Metal is any special metal found in a particular settings
 that has incredible natural properties because it is of divine origin say, or originates on
 a plane where incredibly strong and durable metals are found. Mithril, for example, is
 an example of a wondrous metal.
@@ -2408,14 +2417,15 @@ and may be relatively common or not even exist at all.
 
 #### Alternate Armour Materials
 
-Alternate Material Craft skill Modifier            Cost Multiplier
-Coral              -20%                            x2
-Dwarfen Cinder     -15%                            x3
-Elven Silk         +10%                            x5
-Gold               -15%                            x12
-Monster Hide       Varies                          Varies
-Steel              -10%                            x4
-Wondrous Metal     -75%                            x20 (and have materials on hand*)
+| Alternate Material  | Craft skill Modifier     | Cost Multiplier |
+|---------------------|--------------------------|-----------------|
+| Coral               | -20%                     | x2 |
+| Dwarfen Cinder      | -15%                     | x3 |
+| Elven Silk          | +10%                     | x5 |
+| Gold                | -15%                     | x12 |
+| Monster Hide        | Varies                   | Varies |
+| Steel               | -10%                     | x4 |
+| Wondrous Metal      | -75%                     | x20 (and have materials on hand*) |
 
 * It is up to the Games Master to decide how much of a substance is enough to craft the
 armour in question.
@@ -2472,18 +2482,18 @@ creature’s AP. If the Games Master wishes to allow for ‘full AP’ armour to
 craft penalties, time required and sale price should go up dramatically.
 
 #### Monster Hide Armour
-                                              ENC (head/     ENC
-Natural AP     Armour    Craft     Time       per arm/per    (abdomen/    Sale Price
-of Creature    AP        Penalty   Required   leg)           chest)       (by armour AP)
-1-5            1-2       -0%       2 days     .5 ENC          1 ENC        150 SP per AP
-6-9            3-4       -10%      5 days     1 ENC          1 ENC        175 SP per AP
-10-13          5-6       -20%      10 days    1.5 ENC         2 ENC        500 SP per AP
-14-17          7-8       -30%      20 days    2 ENC          3 ENC        750 SP per AP
-18-19          9         -50%      30 days    2.5 ENC         4 ENC        750 SP per AP
-20-21          10        -100%     60 days    3 ENC          5 ENC        1,500 SP per AP
-22-23          11        -150%     90 days    3.5 ENC         6 ENC        2,500 SP per AP
-24-25          12        -200%     180 days   4 ENC          7 ENC        5,000 SP per AP
-+5             +1        -50%      +90 days   +.5 ENC         +1 ENC       +2,500 SP per AP
+                                                   
+| Natural AP of Creature | Armour AP | Craft Penalty | Time Required  | ENC (head/per arm/per leg)  | ENC (abdomen/chest)  | Sale Price (by armour AP) |
+|------------------------|-----------|---------------|----------------|-----------------------------|----------------------|---------------------------|
+| 1-5                    | 1-2       | -0%           | 2 days         | .5 ENC                      | 1 ENC                | 150 SP per AP |
+| 6-9                    | 3-4       | -10%          | 5 days         | 1 ENC                       | 1 ENC                | 175 SP per AP |
+| 10-13                  | 5-6       | -20%          | 10 days        | 1.5 ENC                     | 2 ENC                | 500 SP per AP |
+| 14-17                  | 7-8       | -30%          | 20 days        | 2 ENC                       | 3 ENC                | 750 SP per AP |
+| 18-19                  | 9         | -50%          | 30 days        | 2.5 ENC                     | 4 ENC                | 750 SP per AP |
+| 20-21                  | 10        | -100%         | 60 days        | 3 ENC                       | 5 ENC                | 1,500 SP per AP |
+| 22-23                  | 11        | -150%         | 90 days        | 3.5 ENC                     | 6 ENC                | 2,500 SP per AP |
+| 24-25                  | 12        | -200%         | 180 days       | 4 ENC                       | 7 ENC                | 5,000 SP per AP |
+| +5                     | +1        | -50%          | +90 days       | +.5 ENC                     | +1 ENC               | +2,500 SP per AP |
 
 The costs on the table should be considered to be small city and large city
 costs. Armour crafted from the skin of some fantastic beast is generally far too exotic
@@ -2509,28 +2519,28 @@ degree of use), and roughly how much it should cost to do so.
 
 #### Armour Wear Values
 
-Original      Protected                                                        Cost to
-AP Value      Wear           Basic Wear       Common Wear     Rigorous Wear    Repair
-1-2           AP x10 weeks   AP x5 weeks      AP x2 weeks     AP in weeks      AP x2 SP
-3             AP x20 weeks   AP x10 weeks     AP x5 weeks     AP x2 weeks      AP x5 SP
-4-5           AP x30 weeks   AP x20 weeks     AP x10 weeks    AP x5 weeks      AP x10 SP
-6-10          Unlimited      AP x30 weeks     AP x20 weeks    AP x10 weeks     AP x25 SP
-10+           Unlimited      Unlimited        AP x30 weeks    AP x20 weeks     AP x100 SP
+| Original AP Value | Protected Wear  | Basic Wear     | Common Wear   | Rigorous Wear  | Cost to Repair |
+|-------------------|-----------------|----------------|---------------|----------------|----------------|
+| 1-2               | AP x10 weeks    | AP x5 weeks    | AP x2 weeks   | AP in weeks    | AP x2 SP |
+| 3                 | AP x20 weeks    | AP x10 weeks   | AP x5 weeks   | AP x2 weeks    | AP x5 SP |
+| 4-5               | AP x30 weeks    | AP x20 weeks   | AP x10 weeks  | AP x5 weeks    | AP x10 SP |
+| 6-10              | Unlimited       | AP x30 weeks   | AP x20 weeks  | AP x10 weeks   | AP x25 SP |
+| 10+               | Unlimited       | Unlimited      | AP x30 weeks  | AP x20 weeks   | AP x100 SP |
 
-Protected Wear: This level of wear defines armour in storage or on display, but not
+**Protected Wear**: This level of wear defines armour in storage or on display, but not
 actually being worn more than a few minutes a day. Also, to be considered ‘Protected’
 it cannot see any form of combat.
 
-Basic Wear: This level of wear defines armour that is worn for special occasions or while
+**Basic Wear**: This level of wear defines armour that is worn for special occasions or while
 on duty at a specific career. The armour can be worn only for a few hours a day at most,
 and cannot be subjected to the punishments of combat without losing its ‘Basic’ status.
 
-Common Wear: This level of wear defines a normal Adventurer’s life. Travel, all-day
+**Common Wear**: This level of wear defines a normal Adventurer’s life. Travel, all-day
 wearing and the occasional bloody battle with the hazards of the quest at hand, these
 are just some of the reasons an Adventurer must get his armour repaired from time to
 time.
 
-Rigorous Wear: This level of wear defines armour that is being really put to the test. Soldiers
+**Rigorous Wear**: This level of wear defines armour that is being really put to the test. Soldiers
 that wear their gear day and night, Adventurers travelling in sandstorm-prone deserts and
 armour that sees mythic combat every other day should fall into this level of wear.
 
@@ -2551,7 +2561,8 @@ allowing Legend Games Masters to bring these arms into play whatever historical
 period is being tackled.
 
 
-Close Combat Weapons
+## Close Combat Weapons
+
 Close Combat weapons follow the Characteristics found in the Legend Core Rulebook,
 having a series of attributes that determine and influence their use. These characteristics
 are summarised in the Close Combat Weapons table; preceding that is a brief description
@@ -2568,9 +2579,9 @@ Legend’s flexibility allows adventures to occur in any largely pre-industriali
 so their inclusion is there to assist with campaigns based in those eras where swords and
 muskets do co-exist (a pirate campaign, for example, or the English Civil War).
 
+### Weapon Characteristics
 
-Weapon Characteristics
-Category: The type of weapon this is: one handed or two handed.
+**Category**: The type of weapon this is: one handed or two handed.
 
 Damage Dice: The damage the weapon deals on a successful attack. If a weapon has
 two Damage Dice entries, the first is for using the weapon one handed and the second
@@ -3102,137 +3113,108 @@ Close Combat weaponry. These modifications are not simple and generally take a
 great deal of time and money. There is always risk to the integrity of the weapon, and
 a single slip of the weaponsmith’s hand could mean a broken blade or weakened haft.
 
-70
-Alex Greene (order #3215550)                                                                          2
-                               Close Combat Weapons
-                   Weapon            Category   Damage Dice   STR/DEX   Size   Reach   Combat Manoeuvres          ENC   AP/HP   Cost
-                   Archer’s Blade    1H         1D4           7/9       M      M       Bleed, Impale              1     4/6     75 SP
-                   Awl Pike          2H         1D8+1         9/5       L      VL      Impale, Stand Fast         3     3/8     125 SP
-                   Ball & chain      1H         1D6+1         9/11      M      M       Entangle, Stun Location    2     6/8     250 SP
-                   Bastard sword     1H & 2H    1D8+1         13/9      M      M       Bleed, Impale              2     4/12    250 SP
-                                                1D10          9/9       M      M
+Close Combat Weapons
+
+| Weapon          | Category | Damage Dice | STR/DEX | Size | Reach | Combat Manoeuvres        | ENC | AP/HP | Cost |
+|-----------------|----------|-------------|---------|------|-------|--------------------------|-----|-------|------|
+| Archer’s Blade  | 1H       | 1D4         | 7/9     | M    | M     | Bleed, Impale            | 1   | 4/6   | 75 SP |
+| Awl Pike        | 2H       | 1D8+1       | 9/5     | L    | VL    | Impale, Stand Fast       | 3   | 3/8   | 125 SP |
+| Ball & chain    | 1H       | 1D6+1       | 9/11    | M    | M     | Entangle, Stun Location  | 2   | 6/8   | 250 SP |
+| Bastard sword   | 1H       | 1D8+1       | 13/9    | M    | M     | Bleed, Impale            | 2   | 4/12  | 250 SP |
+|                 | 2H       | 1D10        | 9/9     |      |       |                          |     |       |      |
+| Battleaxe       | 1H       | 1D6+1       | 11/9    | M    | M     | Bleed                    | 1   | 4/8   | 100 SP |
+|                 | 2H       | 1D8+1       | 9/9     |      |       | +Sunder                  |     |       |      |
+| Bill            | 2H       | 1D6+1       | 7/9     | L    | VL    | Sunder                   | 2   | 2/8   | 50 SP |
+| Broadsword      | 1H       | 1D8         | 14/9    | M    | M     | Bleed, Impale            | 2   | 4/14  | 275 SP |
+|                 | 2H       | 1D8+1       | 11/9    |      |       |                          |     |       |      |
+| Buckler         | 1H       | 1D3         | -/5     | M    | S     | -                        | 1   | 6/8   | 50 SP |
+| Cestus          | 1H       | 1D3+1       | 9/9     | S    | T     | Stun Location            | 1   | 5/6   | 65 SP |
+| Chain           | 1H       | 1D4         | 7/12    | M    | M     | Entangle                 | 1   | 8/6   | 10 SP |
+| Chakram         | 1H       | 1D6+1       | -/13    | S    | S     | Bleed                    | 1   | 4/7   | 85 SP |
+| Club            | 1H       | 1D6         | 7/-     | M    | S     | Stun Location            | 1   | 4/4   | 5 SP |
+| Cutlass         | 1H       | 1D6+1       | 6/7     | M    | M     | Bleed, Impale            | 1   | 3/9   | 200 SP |
+| Dagger          | 1H       | 1D4+1       | -/-     | S    | S     | Bleed, Impale            | —   | 6/8   | 30 SP |
+| Dart Blade      | 1H       | 1D2         | -/-     | S    | S     | -                        | —   | 2/4   | 15 SP |
+| Dirk            | 1H       | 1D3+2       | -/-     | S    | S     | Bleed, Impale            | —   | 6/6   | 50 SP |
+| Falchion        | 1H       | 1D6+2       | 7/9     | M    | M     | Bleed                    | 1   | 6/10  | 200 SP |
+| Fang shield     | 1H       | 1D6         | 10/9    | L    | S     | Impale                   | 2   | 8/12  | 175 SP |
+| Flamberge       | 1H       | 1D8         | 9/9     | M    | M     | Bleed, Impale            | 2   | 4/10  | 300 SP |
+| Gaff            | 1H       | 1D6         | 7/9     | M    | VL    | Entangle                 | 2   | 2/8   | 25 SP |
+| Gandasa         |          | 2D6+1       | 12/9    | H    | L     | Bleed, Sunder            | 4   | 3/12  | 155 SP |
+| Garrotte        | 1H       | 1D2         | -/9     | S    | T     | -                        | —   | 1/2   | 15 SP |
+| Glaive          | 2H       | 1D8+1       | 7/9     | M    | L     | Bleed                    | 3   | 4/10  | 100 SP |
+| Great axe       | 2H       | 1D12+2      | 13/9    | H    | L     | Bleed, Sunder            | 2   | 4/10  | 125 SP |
+| Great club      | 2H       | 2D6         | 12/9    | H    | L     | Stun Location            | 3   | 4/10  | 50 SP |
+| Great hammer    | 2H       | 1D10+3      | 11/9    | H    | L     | Stun Location, Sunder    | 3   | 4/10  | 250 SP |
+| Great sword     | 2H       | 2D8         | 13/11   | H    | L     | Bleed, Impale, Sunder    | 4   | 6/12  | 300 SP |
+| Halberd         | 2H       | 1D8+2       | 7/7     | L    | VL    | Entangle, Impale, Sunder | 4   | 4/10  | 250 SP |
+| Harpoon         | 1H       | 1D8         | 7/7     | M    | L     | Impale                   | 2   | 2/7   | 35 SP |
+
+| Weapon         | Category | Damage Dice | STR/DEX | Size | Reach | Combat Manoeuvres         | ENC | AP/HP | Cost |
+|----------------|----------|-------------|---------|------|-------|---------------------------|-----|-------|------|
+| Hatchet        | 1H       | 1D6         | -/9     | S    | S     | Bleed                     | 1   | 3/6   | 25 SP |
+| Heavy mace     | 1H       | 1D8+1       | 11/7    | L    | L     | Stun Location, Sunder     | 3   | 6/10  | 200 SP |
+|                | 2H       | 1D10+1      | 9/7     |      |       |                           |     |       |      |
+| Heater Shield  | 1H       | 1D4         | 9/-     | L    | S     | -                         | 2   | 6/12  | 150 SP |
+| Hoplite Shield | 1H       | 1D4         | 11/-    | H    | S     | -                         | 3   | 6/18  | 300 SP |
+| Iris           | 1H       | 1D4         | -/9     | S    | S     | Bleed                     | —   | 4/3   | 65 SP |
+| Katana         | 1H       | 1D10+1      | 11/10   | M    | M     | Bleed, Impale             | 2   | 5/10  | 525 SP |
+|                | 2H       | 1D12+1      | 9/9     |      |       |                           |     |       |      |
+| Khopesh        | 1H       | 1D6+2       | 10/10   | M    | M     | Bleed                     | 2   | 3/10  | 250 SP |
+| Kite shield    | 1H       | 1D4         | 13/-    | H    | S     | -                         | 3   | 4/18  | 300 SP |
+| Knife          | 1H       | 1D3         | -/-     | S    | S     | Bleed, Impale             | —   | 5/4   | 10 SP |
+| Knuckledusters | 1H       | 1D4         | -/-     | S    | T     | Stun Location             | —   | 3/2   | 20 SP |
+| Kris           | 1H       | 1D4+1       | -/9     | S    | S     | Impale                    | —   | 3/6   | 200 SP |
+| Kukri          | 1H       | 1D6         | 9/-     | M    | S     | Bleed                     | 1   | 3/7   | 125 SP |
+| Kunai          | 1H       | 1D3+1       | -/7     | S    | S     | Stun Location             | —   | 4/4   | 25 SP |
+| Lance          | 2H       | 1D10+2      | 9/9     | H    | VL    | Impale, Sunder            | 3   | 4/10  | 150 SP |
+| Light mace     | 1H       | 1D8         | 7/7     | M    | S     | Stun Location             | 1   | 6/6   | 100 SP |
+| Longspear      | 2H       | 1D10+1      | 5/5     | L    | VL    | Impale                    | 2   | 4/10  | 30 SP |
+| Longsword      | 1H       | 1D8         | 13/9    | M    | L     | Bleed, Impale             | 2   | 6/12  | 250 SP |
+|                | 2H       | 1D10        | 9/9     | L    | L     | +Sunder                   |     |       |      |
+| Lucerne hammer | 2H       | 1D10        | 12/7    | L    | L     | Impale, Sunder            | 3   | 4/12  | 225 SP |
+| Main Gauche    | 1H       | 1D4         | -/11    | S    | S     | Bleed                     | —   | 6/7   | 180 SP |
+| Mancatcher     | 2H       | 1D4         | 9/10    | L    | VL    | Entangle, Grip            | 3   | 4/10  | 400 SP |
+| Military flail | 1H       | 1D10        | 13/11   | L    | L     | Stun Location             | 3   | 4/10  | 250 SP |
+| Military pick  | 1H       | 1D6+1       | 11/5    | M    | M     | Stun Location, Sunder     | 3   | 6/10  | 180 SP |
+| Moon Axe       | 2H       | 2D6         | 11/9    | L    | L     | Bleed                     | 3   | 3/12  | 250 SP |
+| Morningstar    | 2H       | 2D4         | 9/9     | M    | S     | Stun Location             | 2   | 4/10  | 150 SP |
+| Naginata       | 2H       | 2D8         | 11/7    | L    | VL    | Bleed, Impale             | 3   | 4/12  | 300 SP |
+| Net            | 1H       | 1D4         | 10/11   | S    | L     | Entangle                  | 3   | 2/20  | 200 SP |
+| Ninja-to       | 1H       | 1D6+2       | 10/9    | M    | M     | Bleed, Impale             | 1   | 5/8   | 450 SP |
+|                | 2H       | 1D8+1       | 7/9     |      |       |                           |     |       |      |
+| No-Dachi       | 2H       | 2D8+1       | 12/10   | H    | L     | Bleed, Impale             | 3   | 5/12  | 650 SP |
+
+| Weapon        | Category | Damage Dice | STR/DEX | Size | Reach | Combat Manoeuvres               | ENC | AP/HP | Cost |
+|---------------|----------|-------------|---------|------|-------|---------------------------------|-----|-------|------|
+| Nunchaku      | 1H       | 1D4+1       | 7/13    | M    | S     | Entangle, Stun Location         | —   | 3/5   | 110 SP |
+| Poleaxe       | 2H       | 1D8+2       | 11/9    | L    | L     | Impale, Stun Location, Sunder   | 2   | 6/10  | 150 SP |
+| Poniard       | 1H       | 1D4         | -/7     | S    | S     | Bleed, Impale                   | —   | 4/5   | 60 SP |
+| Quarterstaff  | 2H       | 1D8         | 7/7     | M    | L     | Stun Location                   | 2   | 4/8   | 20 SP |
+| Rapier        | 1H       | 1D8         | 7/13    | M    | L     | Impale                          | 1   | 5/8   | 100 SP |
+| Rondel        | 1H       | 1D4+2       | -/-     | S    | S     | Bleed                           | —   | 3/6   | 40 SP |
+| Sabre         | 1H       | 1D6+1       | 7/7     | M    | M     | Bleed, Impale                   | 1   | 6/8   | 225 SP |
+| Sai           | 1H       | 1D4+1       | -/9     | S    | M     | Pin Weapon                      | 1   | 3/8   | 125 SP |
+| Scimitar      | 1H       | 1D8         | 7/11    | M    | M     | Bleed                           | 2   | 6/10  | 200 SP |
+| Shillelagh    | 1H       | 1D6+1       | 6/-     | L    | L     | Stun Location                   | 1   | 4/6   | 40 SP |
+| Shortspear    | 1H       | 1D8+1       | 5/5     | M    | L     | Impale                          | 2   | 4/5   | 20 SP |
+| Shortsword    | 1H       | 1D6         | 5/7     | M    | S     | Bleed, Impale                   | 1   | 6/8   | 100 SP |
+| Stiletto      | 1H       | 1D3+2       | -/-     | S    | S     | Impale                          | —   | 4/3   | 75 SP |
+| Tanto         | 1H       | 1D4+1       | -/-     | S    | S     | Bleed, Impale                   | —   | 5/5   | 250 SP |
+| Target shield | 1H       | 1D6         | 9/-     | L    | S     | Impale                          | 2   | 4/12  | 150 SP |
+| Tetsubo       | 2H       | 2D8         | 12/-    | H    | L     | Stun Location                   | 4   | 6/12  | 200 SP |
+| Tonfa         | 1H       | 1D4+1       | -/9     | M    | M     | Stun Location                   | —   | 2/8   | 55 SP |
+| Trident       | 1H       | 1D8         | 10/7    | M    | L     | Impale                          | 2   | 4/10  | 155 SP |
+| Tulwar        | 2H       | 2D6         | 9/7     | L    | L     | Bleed, Sunder                   | 3   | 4/14  | 300 SP |
+| Wakazashi     | 1H       | 1D8         | -/9     | S    | S     | Bleed, Impale                   | 1   | 5/8   | 425 SP |
+| War gauntlet  | 1H       | 1D4+1       | 10/9    | S    | T     | Stun Location                   | 1   | 6/8   | 125 SP |
+| War maul      | 2H       | 2D6         | 13/7    | H    | L     | Stun Location                   | 3   | 3/12  | 150 SP |
+| War hammer    | 2H       | 1D8+1       | 11/9    | M    | M     | Stun Location                   | 2   | 3/8   | 150 SP |
+| War sword     | 1H       | 1D8         | 9/7     | M    | M     | Bleed, Impale                   | 2   | 6/10  | 175 SP |
+| Zweihänder    | 2H       | 2D6+1       | 12/11   | H    | L     | Bleed, Impale, Sunder           | 3   | 6/12  | 475 SP |
 
 
-
-
-Alex Greene (order #3215550)
-                   Battleaxe         1H & 2H    1D6+1         11/9      M      M       Bleed, Sunder (2H only)    1     4/8     100 SP
-                                                1D8+1         9/9
-                   Bill              2H         1D6+1         7/9       L      VL      Sunder                     2     2/8     50 SP
-                   Broadsword        1H & 2H    1D8           14/9      M      M       Bleed, Impale              2     4/14    275 SP
-                                                1D8+1         11/9
-                   Buckler           1H         1D3           -/5       M      S       -                          1     6/8     50 SP
-                   Cestus            1H         1D3+1         9/9       S      T       Stun Location              1     5/6     65 SP
-                   Chain             1H         1D4           7/12      M      M       Entangle                   1     8/6     10 SP
-                   Chakram           1H         1D6+1         -/13      S      S       Bleed                      1     4/7     85 SP
-                   Club              1H         1D6           7/-       M      S       Stun Location              1     4/4     5 SP
-                   Cutlass           1H         1D6+1         6/7       M      M       Bleed, Impale              1     3/9     200 SP
-                   Dagger            1H         1D4+1         -/-       S      S       Bleed, Impale              —     6/8     30 SP
-                   Dart Blade        1H         1D2           -/-       S      S       -                          —     2/4     15 SP
-                   Dirk              1H         1D3+2         -/-       S      S       Bleed, Impale              —     6/6     50 SP
-                   Falchion          1H         1D6+2         7/9       M      M       Bleed                      1     6/10    200 SP
-                   Fang shield       1H         1D6           10/9      L      S       Impale                     2     8/12    175 SP
-                   Flamberge         1H         1D8           9/9       M      M       Bleed, Impale              2     4/10    300 SP
-                   Gaff              1H         1D6           7/9       M      VL      Entangle                   2     2/8     25 SP
-                   Gandasa                      2D6+1         12/9      H      L       Bleed, Sunder              4     3/12    155 SP
-                   Garrotte          1H         1D2           -/9       S      T       -                          —     1/2     15 SP
-                   Glaive            2H         1D8+1         7/9       M      L       Bleed                      3     4/10    100 SP
-                   Great axe         2H         1D12+2        13/9      H      L       Bleed, Sunder              2     4/10    125 SP
-                   Great club        2H         2D6           12/9      H      L       Stun Location              3     4/10    50 SP
-                   Great hammer      2H         1D10+3        11/9      H      L       Stun Location, Sunder      3     4/10    250 SP
-                   Great sword       2H         2D8           13/11     H      L       Bleed, Impale, Sunder      4     6/12    300 SP
-                   Halberd           2H         1D8+2         7/7       L      VL      Entangle, Impale, Sunder   4     4/10    250 SP
-                   Harpoon           1H         1D8           7/7       M      L       Impale                     2     2/7     35 SP
-
-
-
-
-            71
-2
-                        72
-                   Weapon           Category   Damage Dice   STR/DEX   Size   Reach   Combat Manoeuvres           ENC   AP/HP   Cost
-                   Hatchet          1H         1D6           -/9       S      S       Bleed                       1     3/6     25 SP
-                   Heavy mace       1H & 2H    1D8+1         11/7      L      L       Stun Location, Sunder       3     6/10    200 SP
-                                               1D10+1        9/7
-                   Heater Shield    1H         1D4           9/-       L      S       -                           2     6/12    150 SP
-                   Hoplite Shield   1H         1D4           11/-      H      S       -                           3     6/18    300 SP
-                   Iris             1H         1D4           -/9       S      S       Bleed                       —     4/3     65 SP
-                   Katana           1H & 2H    1D10+1        11/10     M      M       Bleed, Impale               2     5/10    525 SP
-
-
-
-
-Alex Greene (order #3215550)
-                                               1D12+1        9/9
-                   Khopesh          1H         1D6+2         10/10     M      M       Bleed                       2     3/10    250 SP
-                   Kite shield      1H         1D4           13/-      H      S       -                           3     4/18    300 SP
-                   Knife            1H         1D3           -/-       S      S       Bleed, Impale               —     5/4     10 SP
-                   Knuckledusters   1H         1D4           -/-       S      T       Stun Location               —     3/2     20 SP
-                   Kris             1H         1D4+1         -/9       S      S       Impale                      —     3/6     200 SP
-                   Kukri            1H         1D6           9/-       M      S       Bleed                       1     3/7     125 SP
-                   Kunai            1H         1D3+1         -/7       S      S       Stun Location               —     4/4     25 SP
-                   Lance            2H         1D10+2        9/9       H      VL      Impale, Sunder              3     4/10    150 SP
-                   Light mace       1H         1D8           7/7       M      S       Stun Location               1     6/6     100 SP
-                   Longspear        2H         1D10+1        5/5       L      VL      Impale                      2     4/10    30 SP
-                   Longsword        1H & 2H    1D8           13/9      M      L       Bleed, Impale, Sunder (2H   2     6/12    250 SP
-                                               1D10          9/9       L      L       only)
-                   Lucerne hammer   2H         1D10          12/7      L      L       Impale, Sunder              3     4/12    225 SP
-                   Main Gauche      1H         1D4           -/11      S      S       Bleed                       —     6/7     180 SP
-                   Mancatcher       2H         1D4           9/10      L      VL      Entangle, Grip              3     4/10    400 SP
-                   Military flail   1H         1D10          13/11     L      L       Stun Location               3     4/10    250 SP
-                   Military pick    1H         1D6+1         11/5      M      M       Stun Location, Sunder       3     6/10    180 SP
-                   Moon Axe         2H         2D6           11/9      L      L       Bleed                       3     3/12    250 SP
-                   Morningstar      2H         2D4           9/9       M      S       Stun Location               2     4/10    150 SP
-                   Naginata         2H         2D8           11/7      L      VL      Bleed, Impale               3     4/12    300 SP
-
-                   Net              1H         1D4           10/11     S      L       Entangle                    3     2/20    200 SP
-                   Ninja-to         1H & 2H    1D6+2         10/9      M      M       Bleed, Impale               1     5/8     450 SP
-                                               1D8+1         7/9
-                   No-Dachi         2H         2D8+1         12/10     H      L       Bleed, Impale               3     5/12    650 SP
-
-
-
-
-2
-                               Weapon          Category   Damage Dice   STR/DEX   Size   Reach   Combat Manoeuvres         ENC   AP/HP   Cost
-                   Nunchaku        1H         1D4+1         7/13      M      S       Entangle, Stun Location   —     3/5     110 SP
-                   Poleaxe         2H         1D8+2         11/9      L      L       Impale, Stun Location,    2     6/10    150 SP
-                                                                                     Sunder
-                   Poniard         1H         1D4           -/7       S      S       Bleed, Impale             —     4/5     60 SP
-                   Quarterstaff    2H         1D8           7/7       M      L       Stun Location             2     4/8     20 SP
-                   Rapier          1H         1D8           7/13      M      L       Impale                    1     5/8     100 SP
-                   Rondel          1H         1D4+2         -/-       S      S       Bleed                     —     3/6     40 SP
-
-
-
-
-Alex Greene (order #3215550)
-                   Sabre           1H         1D6+1         7/7       M      M       Bleed, Impale             1     6/8     225 SP
-                   Sai             1H         1D4+1         -/9       S      M       Pin Weapon                1     3/8     125 SP
-                   Scimitar        1H         1D8           7/11      M      M       Bleed                     2     6/10    200 SP
-                   Shillelagh      1H         1D6+1         6/-       L      L       Stun Location             1     4/6     40 SP
-                   Shortspear      1H         1D8+1         5/5       M      L       Impale                    2     4/5     20 SP
-                   Shortsword      1H         1D6           5/7       M      S       Bleed, Impale             1     6/8     100 SP
-                   Stiletto        1H         1D3+2         -/-       S      S       Impale                    —     4/3     75 SP
-                   Tanto           1H         1D4+1         -/-       S      S       Bleed, Impale             —     5/5     250 SP
-                   Target shield   1H         1D6           9/-       L      S       Impale                    2     4/12    150 SP
-                   Tetsubo         2H         2D8           12/-      H      L       Stun Location             4     6/12    200 SP
-                   Tonfa           1H         1D4+1         -/9       M      M       Stun Location             —     2/8     55 SP
-                   Trident         1H         1D8           10/7      M      L       Impale                    2     4/10    155 SP
-                   Tulwar          2H         2D6           9/7       L      L       Bleed, Sunder             3     4/14    300 SP
-                   Wakazashi       1H         1D8           -/9       S      S       Bleed, Impale             1     5/8     425 SP
-                   War gauntlet    1H         1D4+1         10/9      S      T       Stun Location             1     6/8     125 SP
-                   War maul        2H         2D6           13/7      H      L       Stun Location             3     3/12    150 SP
-                   War hammer      2H         1D8+1         11/9      M      M       Stun Location             2     3/8     150 SP
-                   War sword       1H         1D8           9/7       M      M       Bleed, Impale             2     6/10    175 SP
-                   Zweihänder      2H         2D6+1         12/11     H      L       Bleed, Impale, Sunder     3     6/12    475 SP
-
-
-
-
-            73
-2
-       The Close Combat Weapon Modifications table shows the names of these
+The Close Combat Weapon Modifications table shows the names of these
 modifications, how long they typically take, what sort of weapons may be modified
 (at the Games Master’s discretion), the difficulty of the modification and the cost. A
 detailed description of each modification and an example of how it would look and
@@ -3261,29 +3243,20 @@ Envenomed: A weapon can be modified to carry a number of doses of any poison or
 toxin equal to the weapon’s ENC by drilling small rough-edged pockets in the damaging
 portion of the weapon. This not only makes the weapon far deadlier, depending on
 what the user wishes to place in the poison-pockets, but it also significantly weakens
+the blade - reducing the weapon’s Armour Points and Hit Points by 2, to a minimum of 1.
 
 Close Combat Weapon Modifications
-          Average Time of
-Modification   Modification      Weapon Groups Available          Difficulty   Cost
-Banded         2D2 days          Flail, Hammer, Shield            -10%         200 SP
-Collapsible    2D6 days          Axe, Hammer, Polearm, Spear      -15%         350 SP
-Envenomed      1D8 hours         Axe, Dagger, Polearm, Spear,     -10%         500 SP
-                            Sword, Unarmed
-Hooked         2D2 days          Axe, Dagger, Flail, Hammer,      -10%         200 SP
-                            Polearm, Shield, Spear, Sword,
-                            Unarmed
-Lightened      1D4 days          Anything 2 ENC or more           -25%         250 SP
-Reinforced     2D6 hours         All Weapons                      -5%          100 SP
-Serrated       2D8 hours         Axe, Dagger, Polearm, Spear,     -15%         300 SP
-                            Sword
-Spiked         2D2 days          Axe, Dagger, Flail, Hammer,      -10%         200 SP
-                            Polearm, Shield, Spear, Sword,
-                            Unarmed
 
-74
-Alex Greene (order #3215550)                                                                    2
-         the blade - reducing the weapon’s Armour Points and Hit Points by 2, to a minimum
-of 1.
+| Modification | Time       | Weapon Groups Available                                            | Difficulty | Cost |
+|--------------|------------|--------------------------------------------------------------------|------------|------|
+| Banded       | 2D2 days   | Flail, Hammer, Shield                                              | -10%       | 200 SP |
+| Collapsible  | 2D6 days   | Axe, Hammer, Polearm, Spear                                        | -15%       | 350 SP |
+| Envenomed    | 1D8 hours  | Axe, Dagger, Polearm, Spear, Sword, Unarmed                        | -10%       | 500 SP |
+| Hooked       | 2D2 days   | Axe, Dagger, Flail, Hammer, Polearm, Shield, Spear, Sword, Unarmed | -10%       | 200 SP |
+| Lightened    | 1D4 days   | Anything 2 ENC or more                                             | -25%       | 250 SP |
+| Reinforced   | 2D6 hours  | All Weapons                                                        | -5%        | 100 SP |
+| Serrated     | 2D8 hours  | Axe, Dagger, Polearm, Spear, Sword                                 | -15%       | 300 SP |
+| Spiked       | 2D2 days   | Axe, Dagger, Flail, Hammer, Polearm, Shield, Spear, Sword, Unarmed | -10%       | 200 SP |
 
 Example: An Envenomed Ninja-to would be able to carry one dose of the user’s poisons but
 would have an adjusted AP/HP of 3/6.
@@ -4042,9 +4015,8 @@ trying to make the weapon and the suggested cost modifier involved. Further deta
 included in the materials descriptions. It should be noted that some of these materials
 may not be available in all cultures, game settings or campaigns but this is ultimately
 up to the Games Master.
-84
-Alex Greene (order #3215550)                                                                         2
-         Alternate Weapon Materials                      Bone: Lengths of bone have been carved
+
+Alternate Weapon Materials                      Bone: Lengths of bone have been carved
 Alternate   Craft skill                         into sharp weapons in various cultures
 Material    Modifier      Cost Modifier         for centuries and some still believe these
 Bone        +10%          -50%                  weapons are just as effective in present
@@ -4063,7 +4035,8 @@ It is up to the Games Master to decide
 how much of a substance is enough to
                                              and reduce their AP by 1.
 craft the weapon in question.
-                                               Coral: Weaponsmiths that manage to
+
+Coral: Weaponsmiths that manage to
 shape or chip coral into a good piercing or slashing weapon will find the new material
 tears, as opposed to slices, the flesh of the enemy. Wounds left by coral weapons become
 easily infected and are terribly difficult to heal by normal means. Coral is rather heavy,
