@@ -472,10 +472,10 @@ Mace and Shield 75%, Battleaxe (two handed) 65%, Crossbow 45%
 
 | Type                  | Size         | Reach        | Damage        | AP/HP        | Range |
 |-----------------------|--------------|--------------|---------------|--------------|-------|
-| Mace & Shield         | M            | S            | 1D8           | 6/6          | —     |
-| Target                | L            | S            | 1D6           | 4/12         | —     |
-| Battleaxe – 2H        | M            | M            | 1D8+1         | 4/8          | —     |
-| Light Crossbow        | L            | —            | 1D8           | 4/5          | 100m  |
+| Mace & Shield         | M            | S            | 1D8           | 6/6          | -     |
+| Target                | L            | S            | 1D6           | 4/12         | -     |
+| Battleaxe – 2H        | M            | M            | 1D8+1         | 4/8          | -     |
+| Light Crossbow        | L            | -            | 1D8           | 4/5          | 100m  |
 
 
 ## Elf
@@ -525,8 +525,8 @@ Longbow 80%, Spear 60%
 
 | Type          | Size           | Reach         | Damage        | AP/HP         | Range |
 |---------------|----------------|---------------|---------------|---------------|-------|
-| Longbow       | H              | —             | 1D8           | 4/7           | 175m  |
-| Longspear     | L              | VL            | 1D10+1        | 4/10          | —     |
+| Longbow       | H              | -             | 1D8           | 4/7           | 175m  |
+| Longspear     | L              | VL            | 1D10+1        | 4/10          | -     |
 
 
 ## Giant
@@ -574,7 +574,7 @@ Club 84%, Unarmed 60%
 
 | Type              | Size        | Reach        | Damage            | AP/HP           | Range |
 |-------------------|-------------|--------------|-------------------|-----------------|-------|
-| Huge Club         | E           | VL           | 2D6+2D12          | 3/12            | —     |
+| Huge Club         | E           | VL           | 2D6+2D12          | 3/12            | -     |
 
 
 ## Goblin
@@ -628,9 +628,9 @@ Spear and Shield 45%, Sling 50%
 
 | Type            | SIZ            | Reach          | Damage           | AP/HP        | Range |
 |-----------------|----------------|----------------|------------------|--------------|-------|
-| Shortspear      | M              | L              | 1D8+1–1D2        | 4/5          | —     |
-| Buckler         | M              | S              | 1D3–1D2          | 4/10         | —     |
-| Sling           | L              | —              | 1D8–1D2          | 1/2          | 200m  |
+| Shortspear      | M              | L              | 1D8+1–1D2        | 4/5          | -     |
+| Buckler         | M              | S              | 1D3–1D2          | 4/10         | -     |
+| Sling           | L              | -              | 1D8–1D2          | 1/2          | 200m  |
 
 
 ## Halfling
@@ -677,8 +677,8 @@ Shortsword 35%, Sling 40%
 
 | Type           | SIZ            | Reach          | Damage          | AP/HP         | Range |
 |----------------|----------------|----------------|-----------------|---------------|-------|
-| Shortsword     | M              | S              | 1D6–1D4         |6/8            | —     |
-| Sling          | L              | —              | 1D8–1D4         |1/2            | 200m  |
+| Shortsword     | M              | S              | 1D6–1D4         |6/8            | -     |
+| Sling          | L              | -              | 1D8–1D4         |1/2            | 200m  |
 
 
 ## Ogre
@@ -723,8 +723,8 @@ Sword and Shield 50%, Unarmed 60%
 
 | Type                  | SIZ     | Reach      | Damage            | AP/HP           | Range |
 |-----------------------|---------|------------|-------------------|-----------------|-------|
-| War Sword             | M       | M          | 1D8+1D4           | 9/7             | —     |
-| Target Shield         | L       | S          | 1D6+1D4           | 4/12            | —     |
+| War Sword             | M       | M          | 1D8+1D4           | 9/7             | -     |
+| Target Shield         | L       | S          | 1D6+1D4           | 4/12            | -     |
 
 
 ## Orc
@@ -768,10 +768,10 @@ Spear and Shield 45%, Sword and Shield 45%, Bow 40%, Unarmed 40%
 
 | Type            | SIZ       | Reach       | Damage           | AP/HP          | Range |
 |-----------------|-----------|-------------|------------------|----------------|-------|
-| Shortspear      | M         | L           | 1D8+1            |4/5             | —     |
-| Scimitar        | M         | M           | 1D8              |6/10            | —     |
-| Target          | L         | S           | 1D6              |4/12            | —     |
-| Short Bow       | L         | —           | 1D6              |4/4             | 80m   |
+| Shortspear      | M         | L           | 1D8+1            |4/5             | -     |
+| Scimitar        | M         | M           | 1D8              |6/10            | -     |
+| Target          | L         | S           | 1D6              |4/12            | -     |
+| Short Bow       | L         | -           | 1D6              |4/4             | 80m   |
 
 
 ## Troll
@@ -822,9 +822,9 @@ Club 55%, Sling, 40%, Unarmed 40%
 
 | Type         | SIZ         | Reach       | Damage          | AP/HP             | Range |
 |--------------|-------------|-------------|-----------------|-------------------|-------|
-| Giant Club   | L           | L           | 1D10+1D6        | 6/10              | —     |
-| Sling        | L           | —           | 1D8+1D6         | 1/2               | 200m  |
-| Fists        | M           | M           | 1D6+1D6         | As for Arm        | —     |
+| Giant Club   | L           | L           | 1D10+1D6        | 6/10              | -     |
+| Sling        | L           | -           | 1D8+1D6         | 1/2               | 200m  |
+| Fists        | M           | M           | 1D6+1D6         | As for Arm        | -     |
 
 
 # Invertebrates
@@ -908,8 +908,8 @@ Mandibles 40%, Sting 45%
 
 | Type          | Size     | Reach     | Damage         | AP/HP            | Range |
 |---------------|----------|-----------|----------------|------------------|-------|
-| Mandibles     | M        | M         | 1D8            | As for Head      | —     |
-| Sting         | S        | T         | 1D6+Acid       | As for Thorax    | —     |
+| Mandibles     | M        | M         | 1D8            | As for Head      | -     |
+| Sting         | S        | T         | 1D6+Acid       | As for Thorax    | -     |
 
 
 ## Bee, Giant
@@ -922,53 +922,61 @@ Giant bees are the size of a medium sized dog and are usually peaceful unless th
 Like ants, their intelligence is based on the size of the community and the problem at hand: treat
 bees in exactly the same way as giant ants when it comes to calculating the INT of larger groups.
 
-Combat Notes
+#### Combat Notes
 Bee venom has the following Characteristics:
-Application: Injection.
-Onset time: 1D12 Combat Rounds.
-Duration: 6D10 minutes.
-Resistance Time: The victim must make a resistance roll at the Onset Time of each stage of the
-poison. Failure indicates that Condition has taken effect.
-Potency: CON x5.
-Resistance: Resilience.
-Conditions: Agony, Asphyxiation. The venom initially causes the victim pain if the first
+
+**Application**: Injection.  
+**Onset time**: 1D12 Combat Rounds.  
+**Duration**: 6D10 minutes.  
+**Resistance Time**: The victim must make a resistance roll at the Onset Time of each stage of the
+poison. Failure indicates that Condition has taken effect.  
+**Potency**: CON x5.  
+**Resistance**: Resilience.  
+**Conditions**: Agony, Asphyxiation. The venom initially causes the victim pain if the first
 Resistance roll is failed. At the end of the Duration the victim must succeed in a final resistance
-roll or suffer the effects of Asphyxiation (see the Legend Core Rulebook).
-Antidote/Cure: Anti-venom. Some cultures have perfected anti-venom remedies which have a Potency
+roll or suffer the effects of Asphyxiation (see the Legend Core Rulebook).  
+**Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a Potency
 of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing roll and add
 their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout its duration.
 
 The sting of a giant bee is barbed. Using it causes the bee to suffer 2D6 damage to its abdomen
 as it is forced to leave the sting in the victim. However, if a bee stings successfully, the victim
 suffers the effects of an Impale in addition to the bee’s venom.
-       Dice           Average            1D20        Hit Location                AP/HP
-STR         4D6            14                 1           Right Rear Leg              2/4
-CON         3D6            11                 2           Left Rear Leg               2/4
-SIZ         1D6+2          6                  3           Right Middle Leg            2/4
-INT         2              2                  4           Left Middle Leg             2/4
-POW         2D6+6          13                 5-7         Abdomen                     2/5
-DEX         2D6+6          13                 8-9         Thorax                      2/6
-                                         10-11       Right Wing                  1/2
-                                         12-13       Left Wing                   1/2
-Combat Actions             2                  14          Right Front Leg             2/4
-Damage Modifier            –1D2               15          Left Front Leg              2/4
-Magic Points               13                 16-20       Head                        2/4
+
+|           | Dice         | Average          | 1D20      | Hit Location              | AP/HP |
+|-----------|--------------|------------------|-----------|---------------------------|-------|
+| STR       | 4D6          | 14               | 1         | Right Rear Leg            | 2/4   |
+| CON       | 3D6          | 11               | 2         | Left Rear Leg             | 2/4   |
+| SIZ       | 1D6+2        | 6                | 3         | Right Middle Leg          | 2/4   |
+| INT       | 2            | 2                | 4         | Left Middle Leg           | 2/4   |
+| POW       | 2D6+6        | 13               | 5-7       | Abdomen                   | 2/5   |
+| DEX       | 2D6+6        | 13               | 8-9       | Thorax                    | 2/6   |
+|           |              |                  | 10-11     | Right Wing                | 1/2   |
+|           |              |                  | 12-13     | Left Wing                 | 1/2   |
+|           |              |                  | 14        | Right Front Leg           | 2/4   |
+|           |              |                  | 15        | Left Front Leg            | 2/4   |
+|           |              |                  | 16-20     | Head                      | 2/4   |
+
+```
+Combat Actions             2             Typical Armour: Furred exoskeleton. No Armour
+Damage Modifier            –1D2          Penalty.
+Magic Points               13            Traits: Communal Mind, Flying, Wall Walking
 Movement                   12m
-Strike Rank                +9                 Typical Armour: Furred exoskeleton. No Armour
-                                         Penalty.
-                                         Traits: Communal Mind, Flying, Wall Walking
+Strike Rank                +9
+```
+                                         
+**Skills**: Athletics 70%, Evade 50%, Perception 40%, Persistence 49%, Resilience 43%, Track 50%
 
-Skills: Athletics 70%, Evade 50%, Perception 40%, Persistence 49%, Resilience 43%, Track 50%
-
-Combat Styles
+#### Combat Styles
 Sting 40%
 
-Weapons
-Type           Size        Reach        Damage                AP/HP                   Range
-Sting          S           T            1D4+1–1D2             As for Abdomen          —
-32
-Alex Greene (order #3140110)                                                                                   8
-         Beetle, Giant
+#### Weapons
+
+| Type         | Size      | Reach      | Damage              | AP/HP                 | Range |
+|--------------|-----------|------------|---------------------|-----------------------|-------|
+| Sting        | S         | T          | 1D4+1–1D2           | As for Abdomen        | -     |
+
+## Beetle, Giant
 This relates to any of the myriad beetle species found across the world; from cockroaches and
 weevils through to dung beetles and goliath beetles. Giant beetles have lost their ability to fly but
 retain the habits of their smaller relatives.
@@ -981,39 +989,39 @@ Giant beetles are sometimes predatory but generally they are not aggressive (unl
 carnivorous variety). Beetles have a tough, chitin exoskeleton and use their large mandibles for
 feeding and defence.
 
+|            | Dice          | Average         | 1D20      | Hit Location            | AP/HP |
+|------------|---------------|-----------------|-----------|-------------------------|-------|
+| STR        | 2D6+12        | 19              | 1         | Right Rear Leg          | 5/5   |
+| CON        | 3D6+6         | 17              | 2         | Left Rear Leg           | 5/5   |
+| SIZ        | 3D6+6         | 17              | 3         | Right Middle Leg        | 5/5   |
+| INT        | 2             | 2               | 4         | Left Middle Leg         | 5/5   |
+| POW        | 1D6+6         | 10              | 5-9       | Abdomen                 | 5/8   |
+| DEX        | 2D6+6         | 13              | 10-13     | Thorax                  | 5/9   |
+|            |               |                 | 14        | Right Front Leg         | 5/5   |
+|            |               |                 | 15        | Left Front Leg          | 5/5   |
+|            |               |                 | 16-20     | Head                    | 5/7   |
 
-          Dice            Average           1D20        Hit Location              AP/HP
-STR          2D6+12          19                1           Right Rear Leg            5/5
-CON          3D6+6           17                2           Left Rear Leg             5/5
-SIZ          3D6+6           17                3           Right Middle Leg          5/5
-INT          2               2                 4           Left Middle Leg           5/5
-POW          1D6+6           10                5-9         Abdomen                   5/8
-DEX          2D6+6           13                10-13       Thorax                    5/9
-                                            14          Right Front Leg           5/5
-                                            15          Left Front Leg            5/5
-                                            16-20       Head                      5/7
-
+```
 Combat Actions               2                 Typical Armour: Chitin exoskeleton. no Armour
 Damage Modifier              +1D6              Penalty.
-Magic Points                 10                Traits: Wall     Walking,    Formidable      Natural
+Magic Points                 10                Traits: Wall Walking, Formidable Natural
 Movement                     10m               Weapons
 Strike Rank                  +9
+```
 
-Skills: Athletics 75%, Evade 40%, Perception 50%, Persistence 37%, Resilience 61%, Track 40%
+**Skills**: Athletics 75%, Evade 40%, Perception 50%, Persistence 37%, Resilience 61%, Track 40%
 
-Combat Styles
+#### Combat Styles
 Mandibles 40%
 
-Weapons
-Type		               Size	      Reach	     Damage		              AP/HP		               Range
-Mandibles	           M	         M	         1D8+1D6	              As for Head	          —
+#### Weapons
+
+| Type               | Size     | Reach | Damage   | AP/HP        | Range |
+|--------------------|----------|-------|----------|--------------|-------|
+| Mandibles	         | M        | M     | 1D8+1D6  | As for Head  | -     |
 
 
-
-
-                                                                                                     33
-Alex Greene (order #3140110)                                                                                          8
-       Centipede, Giant
+##Centipede, Giant
 Centipedes have long sinuous bodies and a head tipped with a pair of poison claws. Each of its
 many legs ends in a needle-sharp point equipped with a smaller version of the venom glands
 found on its head.
@@ -1037,110 +1045,121 @@ However, if one of the centipede’s segments is destroyed, all segments behind 
 incapacitated and immobile. Meanwhile, all segments ahead of the one destroyed will attempt to
 run away, carrying the creature’s head with them.
 
-Combat Notes
+#### Combat Notes
 Centipede venom is as follows:
 
-Application: Injection.
-Onset time: Nausea after 1D3 minutes, Paralysis after 3D6 minutes.
-Duration: 1 hour.
-Resistance Time: The victim must make a Resistance roll at the Onset Time of each stage of the
-poison. Failure indicates that Condition has taken effect.
-Potency: 60.
-Resistance: Resilience.
-Conditions: Nausea, Paralysis. The venom initially causes the victim to start feeling nauseous if
+**Application**: Injection.  
+**Onset time**: Nausea after 1D3 minutes, Paralysis after 3D6 minutes.  
+**Duration**: 1 hour.  
+**Resistance Time**: The victim must make a Resistance roll at the Onset Time of each stage of the
+poison. Failure indicates that Condition has taken effect.  
+**Potency**: 60.  
+**Resistance**: Resilience.  
+**Conditions**: Nausea, Paralysis. The venom initially causes the victim to start feeling nauseous if
 the first Resistance roll is failed. The location bitten then suffers paralysis if the second Resistance
-roll is failed.
-Antidote/Cure: Anti-venom. Some cultures have perfected anti-venom remedies which have a
+roll is failed.  
+**Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a
 Potency of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing
 roll and add their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout
-its duration.
+its duration.  
 
+|                | Dice      | Average            | 1D20   | Hit Location     | AP/HP |
+|----------------|-----------|--------------------|--------|------------------|-------|
+| STR            | 8D6       | 28                 | 1      | Segment 18       | 4/5   |
+| CON            | 12D6      | 42                 | 2      | Segment 17       | 4/5   |
+| SIZ            | 12D6      | 42                 | 3      | Segment 16       | 4/5   |
+| INT            | 1         | 1                  | 4      | Segment 15       | 4/5   |
+| POW            | 2D6+3     | 10                 | 5      | Segment 14       | 4/5   |
+| DEX            | 3D6       | 11                 | 6      | Segment 13       | 4/5   |
+|                |           |                    | 7      | Segment 12       | 4/5   |
+|                |           |                    | 8      | Segment 11       | 4/5   |
+|                |           |                    | 9      | Segment 10       | 4/5   |
+|                |           |                    | 10     | Segment 9        | 4/5   |
+|                |           |                    | 11     | Segment 8        | 4/5   |
+|                |           |                    | 12     | Segment 7        | 4/5   |
+|                |           |                    | 13     | Segment 6        | 4/5   |
+|                |           |                    | 14     | Segment 5        | 4/5   |
+|                |           |                    | 15     | Segment 4        | 4/5   |
+|                |           |                    | 16     | Segment 3        | 4/5   |
+|                |           |                    | 17     | Segment 2        | 4/5   |
+|                |           |                    | 18     | Segment 1        | 4/5   |
+|                |           |                    | 19-20  | Head             | 4/8   |
 
+```
+Combat Actions               2
+Damage Modifier              +2D6
+Magic Points                 10
+Movement                     12m
+Strike Rank                  +7
 
-
-34
-Alex Greene (order #3140110)                                                                                      8
-                          Dice        Average              1D20     Hit Location       AP/HP
-STR              8D6         28                   1        Segment 18         4/5
-CON              12D6        42                   2        Segment 17         4/5
-SIZ              12D6        42                   3        Segment 16         4/5
-INT              1           1                    4        Segment 15         4/5
-POW              2D6+3       10                   5        Segment 14         4/5
-DEX              3D6         11                   6        Segment 13         4/5
-                                               7        Segment 12         4/5
-                                               8        Segment 11         4/5
-Combat Actions               2                    9        Segment 10         4/5
-Damage Modifier              +2D6                 10       Segment 9          4/5
-Magic Points                 10                   11       Segment 8          4/5
-Movement                     12m                  12       Segment 7          4/5
-Strike Rank                  +7                   13       Segment 6          4/5
-                                               14       Segment 5          4/5
-Typical Armour: Chitin exoskeleton. no            15       Segment 4          4/5
-Armour Penalty.                                   16       Segment 3          4/5
-                                               17       Segment 2          4/5
+Typical Armour: Chitin exoskeleton. no Armour Penalty.
 Traits: Poison
-                                               18       Segment 1          4/5
-Skills: Athletics 60%, Evade 25%, Perception      19-20    Head               4/8
-55%, Persistence 40%, Resilience 100%,
+```
+
+**Skills**: Athletics 60%, Evade 25%, Perception 55%, Persistence 40%, Resilience 100%,
 Stealth 70%
 
-Combat Styles
+#### Combat Styles
 Mandibles 35%
 
-Weapons
-Type             Size          Reach           Damage     AP/HP           Range
-Mandibles        M             M               1D8+2D6    As for Head     —
+#### Weapons
+
+| Type           | Size        | Reach         | Damage   | AP/HP         | Range |
+|----------------|-------------|---------------|----------|---------------|-------|
+| Mandibles      | M           | M             | 1D8+2D6  | As for Head   | -     |
 
 
-
-
-                                                                                   35
-Alex Greene (order #3140110)                                                                        8
-       Crab, Giant
+## Crab, Giant
 Crabs are the largest of all anthropods but the very largest are restricted to deep water. Land crabs
 are known to rove as far as several miles inland, except during breeding season, when they remain
 on the beach or in the shallows.
 
 Crabs are opportunistic scavengers who will attack anything that looks even remotely edible.
 
-Combat Notes
+#### Combat Notes
 Giant crabs use their immense claws to both Bash and Grip. The claws are capable of the Sunder
 Combat Manoeuvre although this is applied only if the crab scores a critical success on an
 attack.
-        Dice            Average             1D20       Hit Location             AP/HP
+
+             Dice            Average             1D20       Hit Location             AP/HP
 STR          3D6+24          35                  1          Right Rear Leg           8/8
 CON          3D6+6           17                  2          Left Rear Leg            8/8
 SIZ          3D6+24          35                  3          Right Hind Leg           8/8
 INT          2               2                   4          Left Hind Leg            8/8
 POW          3D6             11                  5-8        Body                     8/13
 DEX          2D6             7                   9          Right Centre Leg         8/8
-                                            10         Left Centre Leg          8/8
-Combat Actions               1                   11         Right Front Leg          8/8
-Damage Modifier              +2D6                12         Left Front Leg           8/8
-Magic Points                 11                  13-14      Right Claw               8/9
-Movement                     10m                 15-16      Left Claw                8/9
-Strike Rank                  +6                  17-20      Head                     8/10
+                                                 10         Left Centre Leg          8/8
+                                                 11         Right Front Leg          8/8
+                                                 12         Left Front Leg           8/8
+                                                 13-14      Right Claw               8/9
+                                                 15-16      Left Claw                8/9
+                                                 17-20      Head                     8/10
+
+```
+Combat Actions               1
+Damage Modifier              +2D6
+Magic Points                 11
+Movement                     10m
+Strike Rank                  +6
 
 Typical Armour: Carapace. No Armour Penalty
-
 Traits: Formidable Natural Weapons.
+```
 
-Skills: Athletics 75%, Brawn 75%, Perception 40%, Persistence 43%, Resilience 61%, Stealth
+**Skills**: Athletics 75%, Brawn 75%, Perception 40%, Persistence 43%, Resilience 61%, Stealth
 55%, Track 20%
 
-Combat Styles
+#### Combat Styles
 Claw 50%
 
-Weapons
-Type             SIZ              Reach            Damage           AP/HP            Range
-Claw             E                VL               1D10+2D6         As for Claw      —
+#### Weapons
+
+| Type           | SIZ            | Reach          | Damage         | AP/HP          | Range |
+|----------------|----------------|----------------|----------------|----------------|-------|
+| Claw           | E              | VL             | 1D10+2D6       | As for Claw    | -     |
 
 
-
-
-36
-Alex Greene (order #3140110)                                                                                   8
-         Insect Swarm
+## Insect Swarm
 Most Adventurers feel the only insects they have to fear are those that are giant in stature but
 mere humble, normal-sized insects can be every bit as dangerous, provided they assemble in
 large numbers. Insect swarms include large anthills, wasp and hornet nests, and roused beehives.
@@ -1159,12 +1178,13 @@ insects.
 The size of the hive or hill determines the number of stings a swarm delivers every round.
 Consult the chart below.
 
-Hive Size                                                                  Stings
-Very small (small wasp nest)                                               1D6
-Small (large wasp nest, small beehive)                                     2D6
-Large (very large wasp nest, average beehive)                              4D6
-Very large (large beehive)                                                 6D6
-Huge (enormous anthill, very large beehive)                                8D6 and higher
+| Hive Size                                                                | Stings |
+|--------------------------------------------------------------------------|--------|
+| Very small (small wasp nest)                                             | 1D6    |
+| Small (large wasp nest, small beehive)                                   | 2D6    |
+| Large (very large wasp nest, average beehive)                            | 4D6    |
+| Very large (large beehive)                                               | 6D6    |
+| Huge (enormous anthill, very large beehive)                              | 8D6 and higher |
 
 Each Adventurer attacked by a hive takes the listed number of stings every round until he
 manages to escape the swarm. Heavy clothing subtracts two stings per die from the number of
@@ -1188,38 +1208,36 @@ Every round the Adventurer is exposed to the swarm the Games Master should total
 of stings taken and multiply that total by the appropriate species’ Venom Factor, as given on the
 Insect Venom table.
 
+#### Insect Venom
 
-
-
-                                                                                                       37
-Alex Greene (order #3140110)                                                                                            8
-       Insect Venom
-Insect Type                             Venom Factor                     Movement Rate
-Honeybees                               5                                20m
-Hornets                                 3                                30m
-Bumblebees                              3                                10m
-Yellowjackets/Wasps                     5                                35m
-Army Ants                               2                                4m
-Fire Ants                               2                                2m
-Bullfrog Ants                           1                                2m
+| Insect Type                           | Venom Factor                   | Movement Rate |
+|---------------------------------------|--------------------------------|---------------|
+| Honeybees                             | 5                              | 20m           |
+| Hornets                               | 3                              | 30m           |
+| Bumblebees                            | 3                              | 10m           |
+| Yellowjackets/Wasps                   | 5                              | 35m           |
+| Army Ants                             | 2                              | 4m            |
+| Fire Ants                             | 2                              | 2m            |
+| Bullfrog Ants                         | 1                              | 2m            |
 
 The total number of stings multiplied by the venom factor gives the base Potency of the venom
 introduced into the victim’s body. Insect swarm venom has an onset time of 1D10 Combat
 Rounds. After that time, the Potency of the venom should be matched against the victim’s
 Resilience in a standard opposed test.
 
-Insect Venom
-Application: Injection.
-Onset time: 1D10 Combat Rounds.
-Duration: 6D10 minutes.
-Resistance Time: The victim must make a resistance roll at the Onset Time of each stage of the
-poison. Failure indicates that Condition has taken effect.
-Potency: See Above.
-Resistance: Resilience.
-Conditions: Agony, Asphyxiation. The venom initially causes the victim pain if the first
+#### Insect Venom
+
+**Application**: Injection.  
+**Onset time**: 1D10 Combat Rounds.  
+**Duration**: 6D10 minutes.  
+**Resistance Time**: The victim must make a resistance roll at the Onset Time of each stage of the
+poison. Failure indicates that Condition has taken effect.  
+**Potency**: See Above.  
+**Resistance**: Resilience.  
+**Conditions**: Agony, Asphyxiation. The venom initially causes the victim pain if the first
 Resistance roll is failed. At the end of the Duration the victim must succeed in a final resistance
-roll or suffer the effects of Asphyxiation (see the Legend Core Rulebook).
-Antidote/Cure: Anti-venom. Some cultures have perfected anti-venom remedies which have a
+roll or suffer the effects of Asphyxiation (see the Legend Core Rulebook).  
+**Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a
 Potency of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing
 roll and add their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout
 its duration.
@@ -1233,11 +1251,7 @@ of dispersing an insect swarm. For every 1D6 of damage a fire does, it reduces t
 by 1D6 every round.
 
 
-
-
-38
-Alex Greene (order #3140110)                                                                                 8
-         Leech, Giant
+## Leech, Giant
 Usually found living in lakes and rivers, giant leeches can also survive on land, inhabiting
 rainforests and humid jungles where they cling to the branches of trees waiting for a potential
 host to pass by.
@@ -1253,36 +1267,36 @@ Killing a leech that is in situ stops it from feeding but does not detach it. A 
 attached causes no further damage but looks unsightly and effectively reduces the CHA of the
 host by half. A dead leech will fall off naturally after 2D6 days.
 
+|            | Dice       | Average         | 1D20       | Hit Location            | AP/HP |
+|------------|------------|-----------------|------------|-------------------------|-------|
+| STR        | 2D6+1      | 8               | 1-20       | Body                    | 1/6   |
+| CON        | 2D6+3      | 10              |            |                         |       |
+| SIZ        | 2D6–1      | 6               |            |                         |       |
+| INT        | 1          | 1               |            |                         |       |
+| POW        | 1D6        | 4               |            |                         |       |
+| DEX        | 3D6        | 11              |            |                         |       |
 
-          Dice         Average           1D20         Hit Location              AP/HP
-STR          2D6+1        8                 1-20         Body                      1/6
-CON          2D6+3        10
-SIZ          2D6–1        6
-INT          1            1
-POW          1D6          4
-DEX          3D6          11
-
+```
 Combat Actions            2                 Typical Armour: Slime. No Armour Penalty
 Damage Modifier           –1D4
 Magic Points              4                 Traits: Blood Drain, Wall Walker
 Movement                  4m
 Strike Rank               +7
+```
 
-Skills: Athletics 60%, Evade 05%, Perception 25%, Persistence 22%, Resilience 40%
+**Skills**: Athletics 60%, Evade 05%, Perception 25%, Persistence 22%, Resilience 40%
 
-Combat Styles
+#### Combat Styles
 Bite 40%
 
-Weapons
-Type          Size          Reach            Damage                         AP/HP
-Bite          M             L                1D4–1D4                        As for Body
+#### Weapons
+
+| Type        | Size        | Reach          | Damage                       | AP/HP |
+|-------------|-------------|----------------|------------------------------|-------|
+| Bite        | M           | L              | 1D4–1D4                      | As for Body |
 
 
-
-
-                                                                                                  39
-Alex Greene (order #3140110)                                                                                       8
-       Locust, Giant
+## Locust, Giant
 Locusts are herbivorous, swarming insects characterised by a set of powerful hind legs that allow the
 creature to leap large distances – although locusts also have a set of sheathed wings allowing them to
 fly. The normal sized version of the insect has a tendency to engage in a feeding swarm, an activity
@@ -1299,36 +1313,39 @@ x2 vertically. Powerful mandibles slice easily through most kinds of vegetation 
 variety is able to feed on tree foliage and bark meaning that a giant locust swarm can devastate
 forested areas in the same way its smaller cousins destroy croplands.
 
-        Dice           Average             1D20         Hit Location                AP/HP
-STR          2D6+6          13                  1            Right Rear Leg              3/6
-CON          2D6+3          10                  2            Left Rear Leg               3/6
-SIZ          1D6+3          7                   3            Right Middle Leg            3/4
-INT          2              2                   4            Left Middle Leg             3/4
-POW          1D6+6          10                  5-9          Abdomen                     3/5
-DEX          3D6+12         23                  10-13        Thorax                      3/6
-                                           14           Right Front Leg             3/4
-                                           15           Left Front Leg              3/4
-Combat Actions            3                     16-20        Head                        3/4
+|            | Dice         | Average           | 1D20       | Hit Location              | AP/HP |
+|------------|--------------|-------------------|------------|---------------------------|-------|
+| STR        | 2D6+6        | 13                | 1          | Right Rear Leg            | 3/6   |
+| CON        | 2D6+3        | 10                | 2          | Left Rear Leg             | 3/6   |
+| SIZ        | 1D6+3        | 7                 | 3          | Right Middle Leg          | 3/4   |
+| INT        | 2            | 2                 | 4          | Left Middle Leg           | 3/4   |
+| POW        | 1D6+6        | 10                | 5-9        | Abdomen                   | 3/5   |
+| DEX        | 3D6+12       | 23                | 10-13      | Thorax                    | 3/6   |
+|            |              |                   | 14         | Right Front Leg           | 3/4   |
+|            |              |                   | 15         | Left Front Leg            | 3/4   |
+|            |              |                   | 16-20      | Head                      | 3/4   |
+
+```
+Combat Actions            3
 Damage Modifier           –1D2
 Magic Points              10                    Typical Armour: Chitin exoskeleton. No Armour
 Movement                  6m/15m (Fly)          Penalty.
 Strike Rank               +14                   Traits: Wall Walking
+```
 
-Skills: Athletics 80%, Evade 60%, Perception 40%, Persistence 40%, Resilience 40%,
+**Skills**: Athletics 80%, Evade 60%, Perception 40%, Persistence 40%, Resilience 40%,
 
-Combat Styles
+#### Combat Styles
 Mandibles 30%
 
-Weapons
-Type             Size             Reach            Damage           AP/HP            Range
-Mandibles        M                M                1D8–1D2          As for Head      —
+#### Weapons
+
+| Type           | Size           | Reach          | Damage         | AP/HP          | Range |
+|----------------|----------------|----------------|----------------|----------------|-------|
+| Mandibles      | M              | M              | 1D8–1D2        | As for Head    | -     |
 
 
-
-
-40
-Alex Greene (order #3140110)                                                                                    8
-         Mosquito, Giant
+## Mosquito, Giant
 Blood-sucking insects that inhabit woodlands, marshlands and bogs, giant mosquitoes breed
 wherever there is standing water and are attracted by carbon dioxide – the exhaled breath of
 breathing creatures. Mosquitoes are, in general, nectar feeders and only the females require blood
@@ -1350,38 +1367,41 @@ any attack roll to continue draining blood and it will not actively defend; howe
 or attacked in an attempt to remove it, it is allowed an Athletics roll to remain attached and
 continue draining blood. This costs it a Combat Action.
 
-           Dice           Average             1D20       Hit Location               AP/HP
-STR           2D6–1          6                   1          Right Rear Leg             1/2
-CON           2D3            4                   2          Left Rear Leg              1/2
-SIZ           1D3+1          3                   3          Right Middle Leg           1/2
-INT           1              2                   4          Left Middle Leg            1/2
-POW           2D6            7                   5-7        Abdomen                    1/3
-DEX           2D6+6          13                  8-9        Thorax                     1/4
-                                              10-11      Right Wing                 1/1
-                                              12-13      Left Wing                  1/1
-                                              14         Right Front Leg            1/2
-                                              15         Left Front Leg             1/2
-Combat Actions               2                   16-20      Head                       1/3
+|             | Dice         | Average           | 1D20     | Hit Location             | AP/HP |
+|-------------|--------------|-------------------|----------|--------------------------|-------|
+| STR         | 2D6–1        | 6                 | 1        | Right Rear Leg           | 1/2   |
+| CON         | 2D3          | 4                 | 2        | Left Rear Leg            | 1/2   |
+| SIZ         | 1D3+1        | 3                 | 3        | Right Middle Leg         | 1/2   |
+| INT         | 1            | 2                 | 4        | Left Middle Leg          | 1/2   |
+| POW         | 2D6          | 7                 | 5-7      | Abdomen                  | 1/3   |
+| DEX         | 2D6+6        | 13                | 8-9      | Thorax                   | 1/4   |
+|             |              |                   | 10-11    | Right Wing               | 1/1   |
+|             |              |                   | 12-13    | Left Wing                | 1/1   |
+|             |              |                   | 14       | Right Front Leg          | 1/2   |
+|             |              |                   | 15       | Left Front Leg           | 1/2   |
+|             |              |                   | 16-20    | Head                     | 1/3   |
+
+```
+Combat Actions               2
 Damage Modifier              –1D6
 Magic Points                 7                   Typical Armour: Exoskeleton. No Armour
 Movement                     18m (fly)           Penalty.
 Strike Rank                  +9                  Traits: Flying, Wall Walking, Life Sense
+```
 
-Skills: Athletics 70%, Evade 70%, Perception 20%, Persistence 31%, Resilience 22%
+**Skills**: Athletics 70%, Evade 70%, Perception 20%, Persistence 31%, Resilience 22%
 
-Combat Styles
+#### Combat Styles
 Bite 40%
 
-Weapons
-Type             Size             Reach           Damage           AP/HP            Range
-Bite             S                T               1D3+1–1D6        As for Head      —
+#### Weapons
+
+| Type           | Size           | Reach         | Damage         | AP/HP          | Range |
+|----------------|----------------|---------------|----------------|----------------|-------|
+| Bite           | S              | T             | 1D3+1–1D6      | As for Head    | -     |
 
 
-
-
-                                                                                                    41
-Alex Greene (order #3140110)                                                                                         8
-       Praying Mantis, Giant
+## Praying Mantis, Giant
 This enormous insect predator dwells in jungle and rainforest. It has long, stilt-like legs, a
 triangular head with sharp jaws and huge, observant, compound eyes and jagged forelegs. The
 head is capable of swivelling through 300 degrees, ensuring that nothing escapes its attention.
@@ -1395,7 +1415,7 @@ Anyone riding such a creature into battle may use 1D10+10 to determine Hit Locat
 his targets, even against mounted foes (except particularly tall enemies or enemies also riding
 mantises).
 
-Combat Notes
+#### Combat Notes
 The preying mantis is a formidable hunter. Its primary attack is always the foreclaws and it
 combines both claws in a single, devastating grasp that both damages and automatically Grips
 the prey – it does not need to gain a level of success above a defender to use this Combat
@@ -1403,35 +1423,45 @@ Manoeuvre. Once grasping the mantis does not inflict any further damage with the
 uses its powerful mandibles to continue its attacks. The mandibles are capable of slicing through
 armour and thus it can use the Sunder Combat Manoeuvre.
 
-        Dice          Average            1D20      Hit Location               AP/HP
-STR          6D6+12        33                 1         Right Rear Leg             6/11
-CON          3D6+9         20                 2         Left Rear Leg              6/11
-SIZ          8D6+12        40                 3-5       Abdomen                    6/13
-INT          3             3                  6         Right Wing                 6/11
-POW          3D6           9                  7         Left Wing                  6/11
-DEX          2D6+18        25                 8         Right Front Leg            6/11
-                                         9         Left Front Leg             6/11
-Combat Actions             3                  10-12     Thorax                     6/14
-Damage Modifier            +2D8               13-15     Right Claw                 6/12
-Magic Points               9                  16-18     Left Claw                  6/12
-Movement                   12m                19-20     Head                       6/13
+|            | Dice        | Average          | 1D20    | Hit Location             | AP/HP |
+|------------|-------------|------------------|---------|--------------------------|-------|
+| STR        | 6D6+12      | 33               | 1       | Right Rear Leg           | 6/11  |
+| CON        | 3D6+9       | 20               | 2       | Left Rear Leg            | 6/11  |
+| SIZ        | 8D6+12      | 40               | 3-5     | Abdomen                  | 6/13  |
+| INT        | 3           | 3                | 6       | Right Wing               | 6/11  |
+| POW        | 3D6         | 9                | 7       | Left Wing                | 6/11  |
+| DEX        | 2D6+18      | 25               | 8       | Right Front Leg          | 6/11  |
+|            |             |                  | 9       | Left Front Leg           | 6/11  |
+|            |             |                  | 10-12   | Thorax                   | 6/14  |
+|            |             |                  | 13-15   | Right Claw               | 6/12  |
+|            |             |                  | 16-18   | Left Claw                | 6/12  |
+|            |             |                  | 19-20   | Head                     | 6/13  |
+
+```
+Combat Actions             3
+Damage Modifier            +2D8
+Magic Points               9
+Movement                   12m
 Strike Rank                +16
 
 Typical Armour: Chitin exoskeleton. No Armour Penalty.
 Traits: Formidable Natural Weapons, Wall Walking
-Skills: Athletics 55%, Evade 40%, Perception 85%, Persistence 37%, Resilience 70%, Stealth
+```
+
+**Skills**: Athletics 55%, Evade 40%, Perception 85%, Persistence 37%, Resilience 70%, Stealth
 90%, Track 65%
 
-Combat Styles
+#### Combat Styles
 Unarmed 95%
 
-Weapons
-Type             Size             Reach          Damage           AP/HP           Range
-Mandible         M                T              1D8+2D8          As for Head     —
-Foreclaws        L                VL             1D10+2D8         As for Claw     —
-42
-Alex Greene (order #3140110)                                                                                8
-         Scorpion, Giant
+#### Weapons
+
+| Type           | Size           | Reach        | Damage         | AP/HP         | Range |
+|----------------|----------------|--------------|----------------|---------------|-------|
+| Mandible       | M              | T            | 1D8+2D8        | As for Head   | -     |
+| Foreclaws      | L              | VL           | 1D10+2D8       | As for Claw   | -     |
+
+##Scorpion, Giant
 Scorpions are giant carnivorous arachnids that come in a riot of colours and patterns. They live
 in jungles and deserts where they hide out during the day and emerge at nightfall to hunt. With
 pincers to the fore and a long, segmented tail carrying a wicked sting to the aft, giant scorpions
@@ -1441,8 +1471,9 @@ The giant scorpion described below is approximately two and a half metres long, 
 which is itself another two metres in length. The scorpion stands about half a metre tall. Scorpions
 have no discernible head; the sensory organs are contained within the forefront of the thorax.
 
-Combat Notes
+#### Combat Notes
 Scorpion venom has the following Characteristics:
+
 Application: Injected or smeared.
 Onset Time: 1D3 Rounds.
 Duration: 1D3 Days.
@@ -1478,8 +1509,8 @@ Unarmed 35%
 
 Weapons
 Type             Size     Reach       Damage                  AP/HP            Range
-Sting            L        L           1D6+1D10 Poison         As for Tail      —
-Pincer           M        S           1D4+1+1D10              As for Tail      —
+Sting            L        L           1D6+1D10 Poison         As for Tail      -
+Pincer           M        S           1D4+1+1D10              As for Tail      -
 
                                                                                                       43
 Alex Greene (order #3140110)                                                                                           8
@@ -1512,7 +1543,7 @@ Bite 30%
 
 Weapons
 Type            SIZ               Reach         Damage          AP/HP           Range
-Bite            S                 T             1D4             As for Head     —
+Bite            S                 T             1D4             As for Head     -
 
 
 
@@ -1597,8 +1628,8 @@ Bite 50%, Web 60%
 
 Weapons
 Type           SIZ            Reach          Damage         AP/HP          Range
-Bite           S              T              1D6+poison     As for Head    —
-Web            L              L              Entangles      4/10           —
+Bite           S              T              1D6+poison     As for Head    -
+Web            L              L              Entangles      4/10           -
 
 
 
@@ -1630,8 +1661,8 @@ Bite 55%, Web 65%
 
 Weapons
 Type           SIZ     Reach         Damage                  AP/HP          Range
-Bite           M       T             1D6+1D8+poison          As for Head    —
-Web            L       L             Entangles               4/19           —
+Bite           M       T             1D6+1D8+poison          As for Head    -
+Web            L       L             Entangles               4/19           -
 
 
 
@@ -1663,8 +1694,8 @@ Bite 60%, Web 70%
 
 Weapons
 Type           SIZ         Reach      Damage                 AP/HP          Range
-Bite           M           T          1D6+2D6+poison         As for Head    —
-Web            L           L          Entangles              4/29           —
+Bite           M           T          1D6+2D6+poison         As for Head    -
+Web            L           L          Entangles              4/29           -
 
 
 
@@ -1718,8 +1749,8 @@ Bite 50%
 
 Weapons
 Type             Size          Reach      Damage                AP/HP                Range
-Bite             M             M          1D8+1D12              As for Head          —
-Tail Bash        L             L          1D4+1D12              As for Tail          —
+Bite             M             M          1D8+1D12              As for Head          -
+Tail Bash        L             L          1D4+1D12              As for Tail          -
 
 
 
@@ -1751,8 +1782,8 @@ Bite 50%
 
 Weapons
 Type           Size           Reach          Damage         AP/HP          Range
-Bite           M              M              1D8+2D12       As for Head    —
-Tail Bash      L              L              1D4+2D12       As for Tail    —
+Bite           M              M              1D8+2D12       As for Head    -
+Tail Bash      L              L              1D4+2D12       As for Tail    -
 
 
 
@@ -1791,9 +1822,9 @@ Bite 50%, Kick 35%, Tail Bash 30%
 
 Weapons
 Type             Size         Reach          Damage            AP/HP               Range
-Bite             L            L              1D10+2D12         As for Head         —
-Kick             H            L              1D6+2D12          As for Leg          —
-Tail Bash        H            VL             1D8+2D12          As for Tail         —
+Bite             L            L              1D10+2D12         As for Head         -
+Kick             H            L              1D6+2D12          As for Leg          -
+Tail Bash        H            VL             1D8+2D12          As for Tail         -
 
 
 
@@ -1830,8 +1861,8 @@ Bite 50%, Tail Bash 60%
 
 Weapons
 Type             Size             Reach            Damage         AP/HP           Range
-Bite             M                M                1D6+2D6        As for Head     —
-Tail Bash        L                VL               3D6+2D6        As for Tail     —
+Bite             M                M                1D6+2D6        As for Head     -
+Tail Bash        L                VL               3D6+2D6        As for Tail     -
 
 
 
@@ -1871,8 +1902,8 @@ Trample/Stamp 65%, Tail Bash 60%
 
 Weapons
 Type                 Size       Reach        Damage              AP/HP             Range
-Trample/Stamp        E          L            2D12+3D10           As for Leg        —
-Tail Bash            E          VL           4D12+3D10           As for Tail       —
+Trample/Stamp        E          L            2D12+3D10           As for Leg        -
+Tail Bash            E          VL           4D12+3D10           As for Tail       -
 
 
 
@@ -1912,8 +1943,8 @@ Kick 40%, Tail Bash 20%
 
 Weapons
 Type             Size            Reach            Damage          AP/HP            Range
-Kick             H               L                1D8+2D8         As for Leg       —
-Tail Bash        H               L                1D10+2D8        As for Tail      —
+Kick             H               L                1D8+2D8         As for Leg       -
+Tail Bash        H               L                1D10+2D8        As for Tail      -
 
 
 
@@ -1958,7 +1989,7 @@ Bite 45%
 
 Weapons
 Type        Size             Reach            Damage           AP/HP                 Range
-Bite        H                VL               1D8+1D12         As for Head           —
+Bite        H                VL               1D8+1D12         As for Head           -
 
 
 
@@ -2000,8 +2031,8 @@ Bite 55%, Claw 45%
 
 Weapons
 Type             Size            Reach           Damage          AP/HP           Range
-Bite             L               M               1D8+1D10        As for Head     —
-Claw             L               T               1D6+1D10        As for Leg      —
+Bite             L               M               1D8+1D10        As for Head     -
+Claw             L               T               1D6+1D10        As for Leg      -
 
 
 
@@ -2040,8 +2071,8 @@ Claw 45%, Bite 40%
 
 Weapons
 Type             Size              Reach           Damage           AP/HP            Range
-Claw             M                 S               1D6+1D2          As for Leg       —
-Bite             M                 S               1D8+1D2          As for Head      —
+Claw             M                 S               1D6+1D2          As for Leg       -
+Bite             M                 S               1D8+1D2          As for Head      -
 
 
 
@@ -2088,8 +2119,8 @@ Bite 60%, Constrict 40%
 
 Weapons
 Type              Size             Reach            Damage           AP/HP            Range
-Bite              M                T                1D3+1D10         As for Head      —
-Constrict         H                T                1D8+1D10         As for Body      —
+Bite              M                T                1D3+1D10         As for Head      -
+Constrict         H                T                1D8+1D10         As for Body      -
 
 
 
@@ -2177,7 +2208,7 @@ Tail Bash 65%
 
 Weapons
 Type             Size         Reach            Damage             AP/HP             Range
-Tail Bash        H            VL               1D10+2D10          As for Tail       —
+Tail Bash        H            VL               1D10+2D10          As for Tail       -
 
 
 
@@ -2221,7 +2252,7 @@ Tail Bash 65%
 
 Weapons
 Type            Size       Reach            Damage                AP/HP                 Range
-Gore            H          VL               1D10+3D8              As for Head           —
+Gore            H          VL               1D10+3D8              As for Head           -
 
 
 
@@ -2257,7 +2288,7 @@ Bite 60%, Roar 75%
 
 Weapons
 Type             Size          Reach        Damage             AP/HP             Range
-Bite             H             VL           1D10+2D12          As for Head       —
+Bite             H             VL           1D10+2D12          As for Head       -
 
 
 
@@ -2302,9 +2333,9 @@ Bite 40%, Kick 35%, Foreclaw 65%
 
 Weapons
 Type           Size           Reach           Damage           AP/HP                  Range
-Bite           L              L               1D8+1D8          As for Head            —
-Kick           L              VL              1D6+1D8          As for Leg             —
-Foreclaw       M              M               1D4+1D8          As for Foreclaw        —
+Bite           L              L               1D8+1D8          As for Head            -
+Kick           L              VL              1D6+1D8          As for Leg             -
+Foreclaw       M              M               1D4+1D8          As for Foreclaw        -
 
 
 
@@ -2367,8 +2398,8 @@ Bite 45%, Jump (Athletics) 85%
 
 Weapons
 Type           Size          Reach         Damage                      AP/HP              Range
-Bite           M             M             1D8+1D4+Poison              As for Head        —
-Jump           L             T             1D6+1D4+Poison              As for Body        —
+Bite           M             M             1D8+1D4+Poison              As for Head        -
+Jump           L             T             1D6+1D4+Poison              As for Body        -
 66
 Alex Greene (order #3140110)                                                                                       8
 Alex Greene (order #3140110)   8
@@ -2444,7 +2475,7 @@ Gaze 100%, Bite 30%
 
 Weapons
 Type          Size         Reach        Damage                    AP/HP                Range
-Bite          S            T            1D6–1D6+Poison            As for Head          —
+Bite          S            T            1D6–1D6+Poison            As for Head          -
 
 
 
@@ -2490,9 +2521,9 @@ Bite 30%, Tail Bash 60%, Trample 30%
 
 Weapons
 Type              Size       Reach          Damage             AP/HP             Range
-Bite              E          VL             7D8+5D12           As for Head       —
-Tail Bash         E          VL             1D6+5D12           As for Tail       —
-Trample           E          T              6D8+5D12           —                 —
+Bite              E          VL             7D8+5D12           As for Head       -
+Tail Bash         E          VL             1D6+5D12           As for Tail       -
+Trample           E          T              6D8+5D12           -                 -
 
 
 
@@ -2543,11 +2574,11 @@ Bow 70%, Spear/Lance 40%, Spear and Shield 40%, Sword and Shield 35%, Unarmed
 
 Weapons
 Type             Size             Reach           Damage             AP/HP            Range
-Long Bow         H                —               1D8+1D4            5/8              175m
-Longsword        M                L               1D8+1D4            6/12             —
-Long Spear       L                VL              1D10+1+1D8         4/10             —
-Target Shield    L                S               1D6+1D4            4/10             —
-Hooves           L                M               1D6+1+1D8          As for Leg       —
+Long Bow         H                -               1D8+1D4            5/8              175m
+Longsword        M                L               1D8+1D4            6/12             -
+Long Spear       L                VL              1D10+1+1D8         4/10             -
+Target Shield    L                S               1D6+1D4            4/10             -
+Hooves           L                M               1D6+1+1D8          As for Leg       -
 
 
 
@@ -2599,9 +2630,9 @@ Bite 125%, Claw 95%, Tail Bash 90%
 
 Weapons
 Type             Size         Reach        Damage              AP/HP              Range
-Bite             E            L            1D10+4D10           As for Head        —
-Claw             E            VL           1D8+4D10            As for Leg         —
-Tail             H            VL           1D6+4D10 / 2        As for Tail        —
+Bite             E            L            1D10+4D10           As for Head        -
+Claw             E            VL           1D8+4D10            As for Leg         -
+Tail             H            VL           1D6+4D10 / 2        As for Tail        -
 72
 Alex Greene (order #3140110)                                                                                  8
 Alex Greene (order #3140110)   8
@@ -2648,7 +2679,7 @@ Claw 50%
 
 Weapons
 Type             Size             Reach            Damage           AP/HP            Range
-Claw             M                M                1D6+1D10         As for Arm       —
+Claw             M                M                1D6+1D10         As for Arm       -
 
 
 
@@ -2728,8 +2759,8 @@ Claw/Bite 60%, Howl 100%
 
 Weapons
 Type           SIZ             Reach          Damage          AP/HP         Range
-Claw           S               M              1D4+1D2         As for Arm    —
-Bite           S               T              1D6+1D2         As for Head   —
+Claw           S               M              1D4+1D2         As for Arm    -
+Bite           S               T              1D6+1D2         As for Head   -
 
 
 
@@ -2787,8 +2818,8 @@ Claw 60%, Serpents 75%, Gaze (Special)
 
 Weapons
 Type              Size             Reach            Damage            AP/HP            Range
-Claw              M                M                1D6+1D2           As for Arm       —
-Serpents          S                T                1D4+Poison        –/2              —
+Claw              M                M                1D6+1D2           As for Arm       -
+Serpents          S                T                1D4+Poison        –/2              -
 78
 Alex Greene (order #3140110)                                                                                      8
 Alex Greene (order #3140110)   8
@@ -2830,7 +2861,7 @@ Claw 30%, Dropped Stone 30%, Dung Droppings 50%
 
 Weapons
 Type                 Size       Reach      Damage           AP/HP          Range
-Claw                 M          T          1D6–1D2          As for Leg     —
+Claw                 M          T          1D6–1D2          As for Leg     -
 Dropped Stone        M          Varies     1D6/3m           6/4            Up to 30m in height
 
 
@@ -2941,9 +2972,9 @@ Claw 70%, Gore 50%, Sting 40%
 
 Weapons
 Type             Size           Reach        Damage                 AP/HP           Range
-Claw             M              M            1D6+1D12               As for Leg      —
-Gore (tusks)     M              T            1D8+1D12               As for Head     —
-Sting            M              VL           1D6+1D12+Posion        As for Tail     —
+Claw             M              M            1D6+1D12               As for Leg      -
+Gore (tusks)     M              T            1D8+1D12               As for Head     -
+Sting            M              VL           1D6+1D12+Posion        As for Tail     -
 
 
 
@@ -2987,8 +3018,8 @@ butt)
 
 Weapons
 Type           Size         Reach        Damage              AP/HP            Range
-Great Axe      H            L            1D12+2+1D10         4/10             —
-Head Butt      L            T            1D6+1D10            As for Head      —
+Great Axe      H            L            1D12+2+1D10         4/10             -
+Head Butt      L            T            1D6+1D10            As for Head      -
 
 
 
@@ -3042,7 +3073,7 @@ Any used in life. Grasp 55%
 
 Weapons
 Type          Size                Reach            Damage           AP/HP            Range
-Grasp         M                   T                1D6+1D6          As for Arm       —
+Grasp         M                   T                1D6+1D6          As for Arm       -
 Any weapon as used in life.
 
 86
@@ -3081,9 +3112,9 @@ Peck 55%, Claw 55%, Dropped Rock 30%
 
 Weapons
 Type                Size       Reach        Damage                  AP/HP               Range
-Peck                E          VL           1D10+4D12               As for Head         —
-Claw                E          VL           1D8+1+4D12              As for Claw         —
-Dropped Rock        E          VL           1D10+1D6 per three      —                   —
+Peck                E          VL           1D10+4D12               As for Head         -
+Claw                E          VL           1D8+1+4D12              As for Claw         -
+Dropped Rock        E          VL           1D10+1D6 per three      -                   -
                                         metres dropped
 
 
@@ -3163,8 +3194,8 @@ Headbutt 45%, Club 35%
 
 Weapons
 Type		            Size	      Reach	   Damage		           AP/HP		            Range
-Head Butt	        M	         T	       1D4+1D4	           As for Head	       —
-Club		            M	         S	       1D6+1D4	           4/4		              —
+Head Butt	        M	         T	       1D4+1D4	           As for Head	       -
+Club		            M	         S	       1D6+1D4	           4/4		              -
 
 
 
@@ -3209,8 +3240,8 @@ Weapon 36%
 
 Weapons
 Type               Size        Reach      Weapon Skill      Damage     AP/HP               Range
-Longspear          L           VL         36%               1D10+1+1D2 4/10                —
-Shortsword         M           S          36%               1D6 +1D2   6/8                 —
+Longspear          L           VL         36%               1D10+1+1D2 4/10                -
+Shortsword         M           S          36%               1D6 +1D2   6/8                 -
 
 
 
@@ -3257,8 +3288,8 @@ Horn 70%, Kick 50%
 
 Weapons
 Type              Size             Reach            Damage           AP/HP            Range
-Horn              L                L                1D8+1D6          As for Head      —
-Kick              L                M                1D6+1D6          As for Leg       —
+Horn              L                L                1D8+1D6          As for Head      -
+Kick              L                M                1D6+1D6          As for Leg       -
 
 
 
@@ -3375,7 +3406,7 @@ Weapon from Life at previous skill value (typically 60%). Unarmed 80%, Bite 60%
 
 Weapons
 Type             Size            Reach           Damage           AP/HP           Range
-Bite             S               T               1D6+1D4          As for Head     —
+Bite             S               T               1D6+1D4          As for Head     -
 
 
 
@@ -3431,8 +3462,8 @@ Bite 55%, Claw 60%
 
 Weapons
 Type             Size            Reach           Damage           AP/HP           Range
-Bite             L               S               1D8+1D4          As for Head     —
-Claw             M               M               1D6+1D4          As for Leg      —
+Bite             L               S               1D8+1D4          As for Head     -
+Claw             M               M               1D6+1D4          As for Leg      -
 
 
                                                                                                   97
@@ -3489,7 +3520,7 @@ Bite 55%, Breath 100%
 
 Weapons
 Type            Size            Reach           Damage          AP/HP          Range
-Bite            H               VL              1D10+2D10       As for Head    —
+Bite            H               VL              1D10+2D10       As for Head    -
 
 98
 Alex Greene (order #3140110)                                                                             8
@@ -3584,8 +3615,8 @@ Bite 55%, Sting 70%
 
 Weapons
 Type            Size       Reach      Damage                  AP/HP           Range
-Bite            H          VL         1D10+1D12               As for Head     —
-Sting           H          VL         1D6+1D12+ Poison        As for Tail     —
+Bite            H          VL         1D10+1D12               As for Head     -
+Sting           H          VL         1D6+1D12+ Poison        As for Tail     -
 
 
 
@@ -3631,7 +3662,7 @@ Unarmed 50%
 
 Weapons
 Type             Size             Reach            Damage           AP/HP            Range
-Unarmed          S                T                1D3+1D6          As for Arm       —
+Unarmed          S                T                1D3+1D6          As for Arm       -
 
 
 
@@ -3677,7 +3708,7 @@ Bite 40%
 
 Weapons
 Type                SIZ          Reach          Damage          AP/HP           Range
-Bite                S            T              1D8–1D2         As for Head     —
+Bite                S            T              1D8–1D2         As for Head     -
 
 
 
@@ -3714,8 +3745,8 @@ Bite 60%, Claw 50%
 
 Weapons
 Type          Size         Reach          Damage           AP/HP               Range
-Bite          S            T              1D8+1D12         As for Head         —
-Claw          M            S              1D6+1D12         As for Leg          —
+Bite          S            T              1D8+1D12         As for Head         -
+Claw          M            S              1D6+1D12         As for Leg          -
 
 
 
@@ -3753,8 +3784,8 @@ Bite 65%, Claw 55%
 
 Weapons
 Type             Size             Reach           Damage           AP/HP            Range
-Bite             S                T               1D8+2D6          As for Head      —
-Claw             M                S               1D6+2D6          As for Leg       —
+Bite             S                T               1D8+2D6          As for Head      -
+Claw             M                S               1D6+2D6          As for Leg       -
 
 
 
@@ -3831,9 +3862,9 @@ Charge 40%, Trample 55%, Gore (bulls only) 45%
 
 Weapons
 Type             Size            Reach           Damage           AP/HP           Range
-Charge           VL              T               1D8+1D6          —               —
-Trample          VL              T               1D8+1D6          —               —
-Gore             L               S               1D6+1D6          As for Head     —
+Charge           VL              T               1D8+1D6          -               -
+Trample          VL              T               1D8+1D6          -               -
+Gore             L               S               1D6+1D6          As for Head     -
 
 
 
@@ -3917,7 +3948,7 @@ Head Butt 35%
 
 Weapons
 Type            Size            Reach           Damage          AP/HP           Range
-Head Butt       L               S               1D6+1D6         As for Head     —
+Head Butt       L               S               1D6+1D6         As for Head     -
 
 
 
@@ -3958,7 +3989,7 @@ Bite 35%
 
 Weapons
 Type             Size            Reach            Damage            AP/HP          Range
-Bite             S               T                1D6–1D6           As for Head    —
+Bite             S               T                1D6–1D6           As for Head    -
 
 
 
@@ -4005,9 +4036,9 @@ Trunk 55%, Trample 50%, Gore 40%
 
 Weapons
 Type             Size             Reach           Damage           AP/HP            Range
-Trunk            H                VL              Special          As for Trunk     —
-Trample          E                S               2D12             —                —
-Gore             H                L               1D10+2D12        As for Head      —
+Trunk            H                VL              Special          As for Trunk     -
+Trample          E                S               2D12             -                -
+Gore             H                L               1D10+2D12        As for Head      -
 
 
 
@@ -4047,8 +4078,8 @@ Bite 35%, Unarmed 45%
 
 Weapons
 Type             SIZ              Reach          Damage           AP/HP           Range
-Bite             M                T              1D8+2D6          As for Head     —
-Unarmed          M                L              1D6+2D6          As for Arm      —
+Bite             M                T              1D8+2D6          As for Head     -
+Unarmed          M                L              1D6+2D6          As for Arm      -
 
 
 
@@ -4091,8 +4122,8 @@ Bite 35%, Claw 50%
 
 Weapons
 Type             SIZ             Reach            Damage          AP/HP            Range
-Bite             S               T                1D4–1D8         As for Head      —
-Claw             S               T                1D6–1D8         –/2              —
+Bite             S               T                1D4–1D8         As for Head      -
+Claw             S               T                1D6–1D8         –/2              -
 
 
 
@@ -4175,8 +4206,8 @@ Bite 60%, Claw 60%
 
 Weapons
 Type            Size             Reach          Damage          AP/HP           Range
-Bite            M                T              1D8+1D8         As for Head     —
-Claw            M                M              1D6+1D8         As for Leg      —
+Bite            M                T              1D8+1D8         As for Head     -
+Claw            M                M              1D6+1D8         As for Leg      -
 
 
 
@@ -4213,9 +4244,9 @@ Trunk 55%, Trample 50%, Gore 60%
 
 Weapons
 Type            Size              Reach          Damage          AP/HP           Range
-Trunk           H                 VL             Special         As for Trunk    —
-Trample         E                 S              3D12            —               —
-Gore            H                 L              1D10+3D12       As for Head     —
+Trunk           H                 VL             Special         As for Trunk    -
+Trample         E                 S              3D12            -               -
+Gore            H                 L              1D10+3D12       As for Head     -
 
 
 
@@ -4257,8 +4288,8 @@ Bite 40%, Claw 60%
 
 Weapons
 Type             Size              Reach            Damage            AP/HP           Range
-Bite             M                 T                1D8+1D6           As for Head     —
-Claw             M                 M                1D6+1D6           As for Leg      —
+Bite             M                 T                1D8+1D6           As for Head     -
+Claw             M                 M                1D6+1D6           As for Leg      -
 
 
 
@@ -4302,8 +4333,8 @@ Gore 50%, Trample 75%
 
 Weapons
 Type             Size            Reach           Damage           AP/HP           Range
-Gore             L               M               1D8+1D12         As for Head     —
-Trample          H               T               1D12+1D12        —               —
+Gore             L               M               1D8+1D12         As for Head     -
+Trample          H               T               1D12+1D12        -               -
 
 
 
@@ -4368,7 +4399,7 @@ SIZ         5D6+12       30                7-9          Hindquarters           2
 INT         5            5                 10-12        Forequarters           2/11
 POW         2D6+6        13                13-15        Right Front Leg        2/9
 DEX         3D6+6        17                16-18        Left Front Leg         2/9
-       —            —                 19-20        Head                   2/9
+       -            -                 19-20        Head                   2/9
 
 Combat Actions           3                 Typical Armour: Fur. No Armour Penalty.
 Damage Modifier          +1D12
@@ -4384,8 +4415,8 @@ Bite 55%, Claw 65%
 
 Weapons
 Type            Size             Reach           Damage          AP/HP           Range
-Bite            M                T               1D8+1D12        As for Head     —
-Claw            M                M               1D10+1D12       As for Leg      —
+Bite            M                T               1D8+1D12        As for Head     -
+Claw            M                M               1D10+1D12       As for Leg      -
 
 
 
@@ -4422,9 +4453,9 @@ Bite 55%, Claw 65%, Stab 75%
 
 Weapons
 Type             Size            Reach           Damage           AP/HP           Range
-Bite             M               T               1D8+1D12         As for Head     —
-Claw             M               M               1D10+1D12        As for Leg      —
-Stab             M               M               1D10+1D12        As for Head     —
+Bite             M               T               1D8+1D12         As for Head     -
+Claw             M               M               1D10+1D12        As for Leg      -
+Stab             M               M               1D10+1D12        As for Head     -
 
 
 
@@ -4470,7 +4501,7 @@ Bite 60%, Claw 30%
 
 Weapons
 Type             Size              Reach           Damage           AP/HP            Range
-Bite             M                 T               1D8              As for Head      —
-Claw             M                 M               1D3              As for Leg       —
+Bite             M                 T               1D8              As for Head      -
+Claw             M                 M               1D3              As for Leg       -
 
 
