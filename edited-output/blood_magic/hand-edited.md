@@ -839,19 +839,18 @@ he donates to his god each day. It may fluctuate depending on the number and kin
 of sacrifices made but should not exceed a maximum value based on his cult rank and
 Characteristic POW.
 
-Lay Member – None
-Initiate ¼ of POW
-Acolyte half of POW
-Priest 3/4 of POW
-High Priest All POW
-22
-Alex Greene (order #3262370)                                                                           7
-         Alternate Cult Rank Limits
+Lay Member - None  
+Initiate - 1/4 of POW  
+Acolyte - half of POW  
+Priest - 3/4 of POW  
+High Priest - All POW  
+
+#### Alternate Cult Rank Limits
+
 Although Characteristic POW is offered as the default method of limiting the divine
 strength of worshippers, it need not be the only one. Games Masters are encouraged to
 look at the alternate methods listed under Accumulation Limits in the previous chapter
 if they wish to grant Divine Magic users more power in their campaign.
-
 
 Sacrificial Power may be gained using any of the Types of Sacrifice methods suggested
 in the preceding chapter. However two issues control this link to the gods. Firstly,
@@ -859,13 +858,13 @@ all the Magic Points must be donated as a single offering. Secondly the effects 
 offering only last for a day and a night (or thereabouts), so the link with the god must
 be daily renewed at a time sacred to that deity.
 
-For example, an Acolyte of a lunar cult might offer five Magic Points at moonrise to renew
-his pious link with the Moon God. For the rest of the day his Sacrificial Power remains at
-a value of five, limiting how many spells he can pray for from his god. If for some reason he
-only donated three Magic Points the following moonrise, his Sacrificial Power would also be
-reduced, causing him to lose access to two spells. If the acolyte was somehow prevented from
-praying to the Moon God at lunar dawn, then he would not have any access to the magic
-of his deity at all.
+> For example, an Acolyte of a lunar cult might offer five Magic Points at moonrise to renew
+> his pious link with the Moon God. For the rest of the day his Sacrificial Power remains at
+> a value of five, limiting how many spells he can pray for from his god. If for some reason he
+> only donated three Magic Points the following moonrise, his Sacrificial Power would also be
+> reduced, causing him to lose access to two spells. If the acolyte was somehow prevented from
+> praying to the Moon God at lunar dawn, then he would not have any access to the magic
+> of his deity at all.
 
 Due to the idiosyncrasies of the various sacrificial methods, two example techniques
 of Magic Point generation suited to Mesoamerican cults presented here; the personal
@@ -891,9 +890,7 @@ are generally performed at the time when the worshipper must make his daily offe
 to their deity or pantheon. The number of Magic Points donated becomes the value of
 his Sacrificial Power for that day.
 
-                                                     23
-Alex Greene (order #3262370)                                                                                  7
-       A worshipper may contribute to his Sacrificial Power ‘pool’ by using a combination of
+A worshipper may contribute to his Sacrificial Power ‘pool’ by using a combination of
 methods. Due to the difficulty and expense of gathering sacrifices however, it is rare
 for a worshipper who is not established in the priesthood of their local temple to be
 able to gain regular access to suitable victims. Nothing stops an informal worshipper
@@ -912,16 +909,16 @@ Such preparations often reinforce settings where city states maintain their own 
 but whose faithful inhabitants find it increasingly difficult to call upon its strength if
 travelling away from the cult centre.
 
-On the eve of a great battle against his city, Thorn-in-Paw, a Jaguar Knight and worshipper
-of Mixcoatl the God of the Hunt, desires to gain the blessing of his deity. Since he is an acolyte
-with a POW of 12 his maximum Sacrificial Power is 6 points. However he does not wish
-to waste his strength giving his own blood on the brink of imminent battle, so spends his
-yearly allowance to buy six ocelot cubs, which he sacrifices to Mixcoatl. With his Sacrificial
-Power briefly glutted he prays for the use of six Divine Magic spells which Mixcoatl readily
-grants. Despite the potency of the miracles Thorn-in-Paw fatefully falls to the club of a rival
-Aztec and is captured. Since he makes no daily bloodletting and cannot repeat the animal
-sacrifice, he does not recover access to the miracles the following day and is taken to the Aztec
-capital for future sacrifice.
+> On the eve of a great battle against his city, Thorn-in-Paw, a Jaguar Knight and worshipper
+> of Mixcoatl the God of the Hunt, desires to gain the blessing of his deity. Since he is an acolyte
+> with a POW of 12 his maximum Sacrificial Power is 6 points. However he does not wish
+> to waste his strength giving his own blood on the brink of imminent battle, so spends his
+> yearly allowance to buy six ocelot cubs, which he sacrifices to Mixcoatl. With his Sacrificial
+> Power briefly glutted he prays for the use of six Divine Magic spells which Mixcoatl readily
+> grants. Despite the potency of the miracles Thorn-in-Paw fatefully falls to the club of a rival
+> Aztec and is captured. Since he makes no daily bloodletting and cannot repeat the animal
+> sacrifice, he does not recover access to the miracles the following day and is taken to the Aztec
+> capital for future sacrifice.
 
 No guidance is provided here for the material costs of animal sacrifices. Such things
 depend on the ecology and economy of the campaign setting, in addition to the power
@@ -934,21 +931,18 @@ A worshipper can lose their access to Divine Magic or cause extended duration sp
 to fail if they allow their bloodletting and sacrifices to lapse. This does not harm their
 Piety with that god, merely prevents them from using its miracles.
 
-Meanwhile Eyes-of-Fire the High Priest of Huitzilopochtli, God of Battle and the Midday
-Sun, is a lean old man, physically frail but wields horrifically awesome magic. He may
-gather a Sacrificial Power of up to his POW of 17. However, since his CON is only 12, he
-may only maintain up to 11 points by daily bloodletting, a ritual which makes him appear
-chronically sallow and wasted. The remaining 6 points are bolstered by regular sacrifices
+> Meanwhile Eyes-of-Fire the High Priest of Huitzilopochtli, God of Battle and the Midday
+> Sun, is a lean old man, physically frail but wields horrifically awesome magic. He may
+> gather a Sacrificial Power of up to his POW of 17. However, since his CON is only 12, he
+> may only maintain up to 11 points by daily bloodletting, a ritual which makes him appear
+> chronically sallow and wasted. The remaining 6 points are bolstered by regular sacrifices
+> of eagles which are brought from all over the empire as tribute for the temple. Since the
+> high priest can sustain his Sacrificial Power, primarily via his own bloodletting, he daily
+> regains all his invoked miracles making him a very powerful and dangerous man, despite
+> his fragility.
 
-24
-Alex Greene (order #3262370)                                                                                7
-         of eagles which are brought from all over the empire as tribute for the temple. Since the
-high priest can sustain his Sacrificial Power, primarily via his own bloodletting, he daily
-regains all his invoked miracles making him a very powerful and dangerous man, despite
-his fragility.
+### Praying for Divine Spells
 
-
-Praying for Divine Spells
 Access to Divine Magic spells must be prayed for by the worshipper before they can
 be called upon.
 
@@ -963,9 +957,8 @@ The total number of miracles a worshipper can call upon cannot exceed the curren
 daily value of their Sacrificial Power. Devotees of more than one deity may divide this
 pool between spells from different churches as they see fit.
 
+#### Preselected or Ad-hoc Miracles?
 
-
-Preselected or Ad-hoc Miracles?
 Whether a worshipper must preselect those precise miracles he may summon from his
 god depends on both the setting and Games Master. Either option has benefits and
 detriments which should be considered carefully.
@@ -986,26 +979,21 @@ for spells to obliterate the enemy. Whilst not strictly wrong, Games Masters fin
 this a problem are encouraged to stagger encounters in several waves to discourage
 application of such overwhelming force.
 
-
-
-
-                                                     25
-Alex Greene (order #3262370)                                                                                  7
-       High Priest Eyes-of-Fire normally maintains the right to call upon 17 divine miracles, ready to
-be unleashed on enemies of his cult. However, due to chronic overhunting, the supply of eagles
-to the Pyramid of Huitzilopochtli has dried up. This means that until he can make animal
-sacrifices again, his Sacrificial Power is reduced to 11, the level he can maintain due to the
-copious amounts of his own blood he offers each noon via ritualised scarification. However, since
-his Sacrificial Power has dropped he is now faced with losing access to a few castings of Sunspear
-or allowing the Consecration several temples to fail. Grudgingly Eyes-of-Fire ceases to pray for the
-excessive amounts of offensive miracles he is normally able to request.
+> High Priest Eyes-of-Fire normally maintains the right to call upon 17 divine miracles, ready to
+> be unleashed on enemies of his cult. However, due to chronic overhunting, the supply of eagles
+> to the Pyramid of Huitzilopochtli has dried up. This means that until he can make animal
+> sacrifices again, his Sacrificial Power is reduced to 11, the level he can maintain due to the
+> copious amounts of his own blood he offers each noon via ritualised scarification. However, since
+> his Sacrificial Power has dropped he is now faced with losing access to a few castings of Sunspear
+> or allowing the Consecration several temples to fail. Grudgingly Eyes-of-Fire ceases to pray for the
+> excessive amounts of offensive miracles he is normally able to request.
 
 Multiple incidences of the same Divine Spell can be granted to a worshipper. For
 instance, Eyes-of-Fire could pray for five uses of the Sunspear spell, which would cost
 him five points of his Sacrificial Power.
 
+## Casting Divine Magic
 
-Casting Divine Magic
 Divine miracles do not directly cost any Magic Points when cast, as the caster is
 channelling the power of their god and is not fuelling the spell through his own,
 personal, magical reserves.
@@ -1018,16 +1006,16 @@ exceptionally hard to block or dismiss.
 To cast the spell the Adventurer must successfully roll against his Invoke skill. Note the
 result of the roll.
 
-Critical Success: The miracle is cast successfully but was invoked in such a pleasing way
+**Critical Success**: The miracle is cast successfully but was invoked in such a pleasing way
 that the deity will permit it to be used again. It is not placed beyond use.
 
-Success: The miracle is cast successfully. The god considers the compact complete and
+**Success**: The miracle is cast successfully. The god considers the compact complete and
 that specific miracle is beyond use.
 
-Failure: The worshipper makes a mistake invoking the miracle and the deity fails to
+**Failure**: The worshipper makes a mistake invoking the miracle and the deity fails to
 hear their request. However the Adventurer can attempt to invoke it again later.
 
-Fumble: The worshipper fouls up the invocation so badly, that not only does the
+**Fumble**: The worshipper fouls up the invocation so badly, that not only does the
 miracle fail but the deity considers their bargain sundered, and will no longer grant that
 specific miracle until efforts are made to pacify the god.
 
@@ -1038,34 +1026,32 @@ trust in their relationship.
 A worshipper can dismiss any Divine Magic spell(s) he has invoked as a single Combat
 Action.
 
+### Casting Time
 
-26
-Alex Greene (order #3262370)                                                                                  7
-         Casting Time
 Unless specifically noted, all Divine Magic only takes a single Combat Action to cast.
 
+### Regaining Divine Magic
 
-Regaining Divine Magic
 Depending on their rank within the church or guild, a miracle can be regained upon a
 successful Piety test, demonstrating that the Adventurer has shown the proper respect
 to their god and is thus able to channel that deity’s power once more through the
 Divine miracle; providing their Sacrificial Power is able to support it.
-*	 Lay Members – No access to Divine spells.
-*	 Initiates – May test to regain a Divine spell the day after it was used, during their
+* Lay Members – No access to Divine spells.
+* Initiates – May test to regain a Divine spell the day after it was used, during their
 daily devotion of sacrificial power but must be present at a shrine or temple to pray
 for the spell. It requires a successful Piety test to recover; failure requires that they
 try again the following day.
-*	 Acolytes – May test to regain a Divine spell the day after it was used, during their
+* Acolytes – May test to regain a Divine spell the day after it was used, during their
 daily devotion of sacrificial power; however, only if the test fails must they return
 to a shrine or temple and recover the spell there.
-*	 Priests – May test to regain a Divine spell an hour after it was used; however, if the
+* Priests – May test to regain a Divine spell an hour after it was used; however, if the
 test fails they must return to a shrine or temple and recover the spell there.
-*	 High Priests – May test to regain Divine spells an hour after they have been used;
+* High Priests – May test to regain Divine spells an hour after they have been used;
 failing the roll simply incurs a delay of another hour before they can try again,
 whereas a fumble means the spell must be recovered at a temple. 
 
+## Acquiring Divine Magic
 
-Acquiring Divine Magic
 Gaining initial access to Divine Magic spells not simply a case of joining a church and
 sacrificing to the venerated god. Each miracle within the church portfolio has an associated
 myth which must be learned, along with the rituals and propitiations vital to correctly
@@ -1088,21 +1074,13 @@ Once the existence of a miracle and the method to correctly invoke it has been l
 the worshipper may henceforth request it from their deity as part of sacrificing for
 Divine Magic.
 
+#### Learning a new Divine Magic Spell
 
-                                                      27
-Alex Greene (order #3262370)                                                                                   7
- 28
-Alex Greene (order #3262370)   7
-         Learning a new Divine Magic Spell
-Minimum
-Church Rank Minimum Temple                                    Prayer Number of Sacrifices,
-of Spell       Requirement        Cost                        Time Scars or Tattoos
-Initiate       Shrine             1 Improvement               1 day 1
-Roll
-Acolyte        Minor Temple       2 Improvement               2 days    2
-Rolls
-Priest or High Major Temple       3 Improvement               3 days    3
-Priest                            Rolls
+| Minimum Church Rank Minimum Temple of Spell | Requirement  | Cost                 | Prayer Time  | Number of Sacrifices, Scars or Tattoos |
+|---------------------------------------------|--------------|----------------------|--------------|----------------------------------------|
+| Initiate                                    | Shrine       | 1 Improvement Roll   | 1 day        | 1                                      |
+| Acolyte                                     | Minor Temple | 2 Improvement Rolls  | 2 days       | 2                                      |
+| Priest, High Priest                         | Major Temple | 3 Improvement Rolls  | 3 days       | 3                                      |
 
 The Minimum Church Rank denotes the rank the Adventurer must be within the
 church to be granted access to that spell. The most powerful Divine Magic is withheld
@@ -1132,37 +1110,35 @@ granted such spells. Unless the god itself takes a personal hand in matters, per
 these more secret powers must be sought from the high priests of the church, which could
 involve suitable gifts to convince more reticent, or greedy, members of the priesthood.
 
+## Miracle Descriptions
 
-Miracle Descriptions
 Every Divine Magic spell is defined by a series of traits describing the spell and how
 it is used in the game. A description then follows describing the spell’s precise effects.
 By default, the Magnitude of any Divine spell is equal to one tenth of the caster’s Pact.
 Unless specifically stated in its description, Divine Spells take 1 Combat Action to
 invoke. The other traits used by Divine Magic spells are detailed here.
 
-                                                        29
-Alex Greene (order #3262370)                                                                                     7
-      Area (X): The spell affects all targets within a radius specified in metres.
-Duration (X): The spell’s effects stay in place for the number of minutes indicated.
-Instant: The spell’s effects take place instantly. The spell then disappears.
-Persistent: The spell is designed to last for an extended time. If no specific period
+**Area (X)**: The spell affects all targets within a radius specified in metres.  
+**Duration (X)**: The spell’s effects stay in place for the number of minutes indicated.  
+**Instant**: The spell’s effects take place instantly. The spell then disappears.  
+**Persistent**: The spell is designed to last for an extended time. If no specific period
 is specified in the text its effects are eternal, provided the caster continues to daily
 donate Sacrificial Power to the Deity for that miracle. Once cast, the miracle cannot be
-recovered or released for as long as the spell is maintained.
-Ranged: Ranged spells may be cast upon targets up to a maximum distance of the
-character’s POW x 10 in metres.
-Rank: The minimum church rank the spell is available to. Churches of gods which specialise
-or control a particular rune, may offer certain spells to lower ranking church members.
-Resist (Evade/Persistence/Resilience): The spell’s effects do not take effect automatically.
+recovered or released for as long as the spell is maintained.  
+**Ranged**: Ranged spells may be cast upon targets up to a maximum distance of the
+character’s POW x 10 in metres.  
+**Rank**: The minimum church rank the spell is available to. Churches of gods which specialise
+or control a particular rune, may offer certain spells to lower ranking church members.  
+**Resist (Evade/Persistence/Resilience)**: The spell’s effects do not take effect automatically.
 The target may make an Opposed Evade, Persistence or Resilience test (as specified by
 the spell) in order to avoid the effect of the spell entirely. Note that Resist (Evade) spells
-require the target to be able to use a Combat Action in order to dodge.
-Touch: Touch spells require the Adventurer to actually touch his target for the spell
+require the target to be able to use a Combat Action in order to dodge.  
+**Touch**: Touch spells require the Adventurer to actually touch his target for the spell
 to take effect. The spellcaster must remain in physical contact with the target for the
-entire casting.
+entire casting.  
 
+### Accursed Aura
 
-Accursed Aura
 Area Special, Persistent, Rank Acolyte
 
 Using the blood of unsanctified sacrifices scattered over an area, this miracle disrupts
@@ -1174,29 +1150,27 @@ of the miracle. Any encroaching spell whose Magnitude is reduced to zero is rend
 inactive until the target of its effect leaves the area. Casting spells within the region with
 equal or less Magnitude automatically fail.
 
-Grasping-Coyote has journeyed to the long forbidden temple crypts of Tezcatlipoca, searching
-for the tomb of a high priest rumoured to have been interred with a staff possessing the power
-to cause death from afar. Although not a devout worshipper of the gods, Grasping-Coyote
-is an accomplished thief with much Common Magic at his command and an enchanted
-feathered cloak which provides Protection 6. Casting Detect Undead he enters the catacombs.
-Fatefully the tomb is warded by a Magnitude 6 Accursed Aura, rendering all his spells
-inactive. Thus he is taken by complete surprise when the skeletal guardians attack, easily
-ripping him apart without the aid of his cloak’s magic.
+> Grasping-Coyote has journeyed to the long forbidden temple crypts of Tezcatlipoca, searching
+> for the tomb of a high priest rumoured to have been interred with a staff possessing the power
+> to cause death from afar. Although not a devout worshipper of the gods, Grasping-Coyote
+> is an accomplished thief with much Common Magic at his command and an enchanted
+> feathered cloak which provides Protection 6. Casting Detect Undead he enters the catacombs.
+> Fatefully the tomb is warded by a Magnitude 6 Accursed Aura, rendering all his spells
+> inactive. Thus he is taken by complete surprise when the skeletal guardians attack, easily
+> ripping him apart without the aid of his cloak’s magic.
 
+### Anaemia
 
-Anaemia
 Instant, Ranged, Rank Initiate, Resist (Resilience)
 
 This miracle causes blood within a creature to be thinned, weakening them significantly.
 If not resisted, the spell will reduce the target’s Fatigue level as per Exsanguination
 on page 10. The victim suffers the loss of one level per two points of the miracle’s
-30
-Alex Greene (order #3262370)                                                                           7
-         Magnitude. At the conclusion of the miracle the victim’s fatigue level recovers to its
+Magnitude. At the conclusion of the miracle the victim’s fatigue level recovers to its
 previous value, assuming the spell was not fatal.
 
+### Bless Sacrifice
 
-Bless Sacrifice
 Duration 15, Rank Initiate, Touch
 
 Used to ensure the sacrifice reaches a deserving afterlife, this miracle guarantees the
@@ -1205,8 +1179,8 @@ Whilst this helps encourage some people to offer themselves as willing victims, 
 primary purpose of the miracle is to prevent angry, possibly coerced victims (be they
 animals or sapient beings) returning from death as vengeful spirits.
 
+### Bloodbath
 
-Bloodbath
 Duration 15, Rank Acolyte, Resist (Persistence), Touch
 
 The victim of this spell is overcome with a suicidal bloodlust, causing him to try and
@@ -1215,11 +1189,11 @@ Unfortunately the recipient of the miracle cannot discern friend from foe and wi
 butcher everything in their path. Unwilling targets receive a chance to resist.
 
 For the spell’s duration the target gains the following benefits:
-*	 His Close Combat skills are increased by half again.
-*	 His Damage Modifier increased by two steps.
-*	 He heals 1 Hit Point in every location for each round unless the location suffers a
+* His Close Combat skills are increased by half again.
+* His Damage Modifier increased by two steps.
+* He heals 1 Hit Point in every location for each round unless the location suffers a
 Major Wound.
-*	 He automatically succeeds any opposed or unopposed Resilience or Fatigue test...
+* He automatically succeeds any opposed or unopposed Resilience or Fatigue test...
 although a Major wound will still incapacitate him.
 
 However, in return the subject may not Parry, Evade or cast any magic while under the
@@ -1230,8 +1204,8 @@ survives, on awakening the recipient has no memory of his divinely inspired rage
 although he might wonder at the blood splatters and any wounds he may be suffering
 from. Bloodbath may not be combined with any Combat Skill improving magic.
 
+### Blood Beast
 
-Blood Beast
 Duration 15, Rank Acolyte, Touch
 
 This spell creates a magical creature from the blood of sacrifices, which duplicates
@@ -1241,9 +1215,7 @@ non-magical damage as weapons pass straight through its body. Conversely the blo
 beast can solidify parts of itself at will, enabling it to attack. The beast remains under
 the control of the caster at all times.
 
-                                                  31
-Alex Greene (order #3262370)                                                                               7
-      It requires the blood of approximately 13 similarly sized sacrifices to form a single blood
+It requires the blood of approximately 13 similarly sized sacrifices to form a single blood
 beast. The Characteristic scores of the creature are average values for an animal of that
 type but gain a bonus to each physical Characteristic of +1 per point of Magnitude.
 On receiving a Major Wound the entire beast collapses into the pool of blood from
@@ -1253,8 +1225,8 @@ Blood Beasts are terrible foes against those who have little magic at their disp
 are tireless and can flow through the tiniest crack or hole to reach people who bar
 themselves into what they consider secure hiding places.
 
+### Blood Brother
 
-Blood Brother
 Duration 15, Rank Initiate, Touch
 
 This miracle requires two or more individuals to receive the spell during the same group
@@ -1275,12 +1247,8 @@ a serious threat. The maximum number of brothers who can be bound together in th
 same ritual cannot exceed the Magnitude of the most powerful Blood Brother miracle
 used in the group casting.
 
+### Blood Covenant
 
-
-
-32
-Alex Greene (order #3262370)                                                                           7
-         Blood Covenant
 Duration 15, Rank Acolyte, Touch
 
 Similar to the Blood Brother miracle, this miracle requires two or more participants to
@@ -1296,8 +1264,8 @@ The maximum number of members that can be bound together in the same covenant
 cannot exceed the Magnitude of the most powerful incidence of this miracle used in
 the coordinated casting.
 
+### Bloody Minded
 
-Bloody Minded
 Duration 15, Rank Initiate, Ranged, Resist (Persistence)
 
 Used by worshippers facing overwhelming odds or terrifying challenges, this miracle
@@ -1310,26 +1278,22 @@ The downside of the spell is that the recipient becomes fixated on the personal 
 and objectives he held prior to its invocation; often placing him at risk, being unable
 to take advantage of a change in the circumstances.
 
-Thorn-in-Paw and his associate Jaguar Knights are pursuing some enemies back to
-their mountain city when they reach a rope bridge strung high above a raging river.
-The swinging footbridge is only wide enough for a single man to traverse, making
-it a perfect place to hold up invaders. However, the enemy city lies just beyond and
-Thorn-in-Paw is determined to rush over the bridge, then cut everyone down before
-the defenders can cut the vines. Seeing a congregation of the surviving enemy priests
-gathered at the far end, Thorn-in-Paw invokes the Jaguar Knight’s miracles of True
-Club and Bloody Minded, then runs across the narrow death trap. Providentially
-for the warrior, the Magnitude of his Bloody Minded miracle is more potent than
-the Fear and Madness spells the low ranking Initiates throw at him. Unfortunately
-for both the priests and Thorn-in-Paw, he ignores their offers of an unconditional
-surrender, butchering them all to the last and thus missing the chance to seize the city
-with no further loss of life.
+> Thorn-in-Paw and his associate Jaguar Knights are pursuing some enemies back to
+> their mountain city when they reach a rope bridge strung high above a raging river.
+> The swinging footbridge is only wide enough for a single man to traverse, making
+> it a perfect place to hold up invaders. However, the enemy city lies just beyond and
+> Thorn-in-Paw is determined to rush over the bridge, then cut everyone down before
+> the defenders can cut the vines. Seeing a congregation of the surviving enemy priests
+> gathered at the far end, Thorn-in-Paw invokes the Jaguar Knight’s miracles of True
+> Club and Bloody Minded, then runs across the narrow death trap. Providentially
+> for the warrior, the Magnitude of his Bloody Minded miracle is more potent than
+> the Fear and Madness spells the low ranking Initiates throw at him. Unfortunately
+> for both the priests and Thorn-in-Paw, he ignores their offers of an unconditional
+> surrender, butchering them all to the last and thus missing the chance to seize the city
+> with no further loss of life.
 
+### Boil Blood
 
-
-
-                                                33
-Alex Greene (order #3262370)                                                                             7
-      Boil Blood
 Instant, Ranged, Rank Acolyte, Resist (Resilience)
 
 This dreadful spell induces the blood of a single target to begin boiling within their
@@ -1338,8 +1302,8 @@ fails to resist, his blood will superheat, inflicting 2D6 damage per Hit Locatio
 separately for each location). Armour points are not effective against this damage and
 any location which suffers a Major Wound and fails its Resilience test is blown apart.
 
+### Coagulate
 
-Coagulate
 Area Special, Duration 15, Rank Initiate
 
 Through this spell the caster prevents people from suffering the effects of severe
@@ -1347,8 +1311,8 @@ bleeding. Anyone within a radius equal to the Magnitude of the spell in metres i
 immune to the Bleed combat manoeuvre and no Exsanguinations or Scarification can
 be performed.
 
+### Haemoptysis
 
-Haemoptysis
 Persistent, Ranged, Rank Initiate, Resist (Resilience)
 
 A slow and painful way to die, Haemoptysis is generally used as a curse or punishment
@@ -1357,18 +1321,18 @@ Magnitude of the miracle. If the target of the spell fails to resist they begin 
 a cough, which quickly deteriorates into wracking spasms where they cough up blood.
 At the end of each hour, the victim must make an unopposed Resilience roll and
 depending on the success level, suffer the following:
-*	 If the roll is a critical success, the victim takes no damage that hour.
-*	 If the roll is successful, the victim sustains 1D3 points of damage to the Chest that hour.
-*	 If the roll fails, the victim sustains 1D6 points of damage to the Chest that hour.
-*	 If the roll is fumbled, the victim dies from rupturing their lungs.
+* If the roll is a critical success, the victim takes no damage that hour.
+* If the roll is successful, the victim sustains 1D3 points of damage to the Chest that hour.
+* If the roll fails, the victim sustains 1D6 points of damage to the Chest that hour.
+* If the roll is fumbled, the victim dies from rupturing their lungs.
 
 This spell is often enchanted into powders or salves which are placed on temple finery,
 so as to discourage theft. Those who realise what they have contracted either seek out
 a cult offering a cure for the magical disease or return to the temple with the stolen
 object, begging for forgiveness and premature cessation of the curse.
 
+### Heart Seizure
 
-Heart Seizure
 Instant, Ranged, Rank Priest/High Priest, Resist (Resilience)
 
 Another dire spell known to the darkest gods, targets who fail to resist this miracle suffer
@@ -1377,10 +1341,8 @@ a number of Hit Points damage equal to 1D6 + Magnitude of the spell directly to 
 location where their heart is contained, normally the chest for humanoids. Creatures
 without hearts are immune to this miracle.
 
+### Induce Vampirism
 
-34
-Alex Greene (order #3262370)                                                                              7
-         Induce Vampirism
 Persistent, Ranged, Rank Initiate, Resist (Persistence)
 
 Rather than turn the target into some form of undead creature, failing to resist this
@@ -1396,8 +1358,8 @@ Whilst regarded as an evil curse by many faiths, it is sometimes applied as a me
 punishment or execution. Other uses are to spread horror amongst enemy armies or
 cities under siege.
 
+### Preserve Blood
 
-Preserve Blood
 Persistent, Rank Priest/High Priest
 
 To overcome the difficulties of garnering Sacrificial Power away from the church centres
@@ -1409,8 +1371,8 @@ the blood generated as part of the sacrifice to remain potent whilst the miracle
 maintained. The spell requires the blood to be carried around in a single vessel, such
 as a large jar.
 
+### Propitiate
 
-Propitiate
 Area Special, Persistent, Rank Priest/High Priest
 
 Cast over a wide area, Propitiate affects a number of square kilometres equal to the
@@ -1418,19 +1380,18 @@ Magnitude of the miracle. It guarantees protection against the effects of natura
 disasters such as bad weather or earthquakes and magically induced ones of equal or
 lesser Magnitude. The miracle continues until the priest terminates it.
 
-‘They have a most horrid and abominable custom which truly ought to be punished and
-which until now we have seen in no other part, and this is that, whenever they wish to ask
-something of the idols, in order that their plea may find more acceptance, they take many
-girls and boys and even adults, and in the presence of these idols they open their chests while
-they are still alive and take out their hearts and entrails and burn them before the idols,
-offering the smoke as sacrifice. Some of us have seen this, and they say it is the most terrible
-and frightful thing they have ever witnessed.’
+> ‘They have a most horrid and abominable custom which truly ought to be punished and
+> which until now we have seen in no other part, and this is that, whenever they wish to ask
+> something of the idols, in order that their plea may find more acceptance, they take many
+> girls and boys and even adults, and in the presence of these idols they open their chests while
+> they are still alive and take out their hearts and entrails and burn them before the idols,
+> offering the smoke as sacrifice. Some of us have seen this, and they say it is the most terrible
+> and frightful thing they have ever witnessed.’
 
 - Hernán Cortés
 
-                                                        35
-Alex Greene (order #3262370)                                                                                     7
-      Purify Blood
+### Purify Blood
+
 Instant, Rank Acolyte, Touch
 
 The worshipper can purify the blood of the recipient, removing the effects of any
@@ -1441,8 +1402,7 @@ Although the miracle is of great value against the ravages of sickness or the bi
 venomous creatures, it is often used by members of the priesthood themselves to purge
 alcohol or narcotics from their own system.
 
-
-Rain of Blood
+### Rain of Blood
 Area Special, Duration 15, Rank Acolyte
 
 This Spell grants the caster the ability to bring a rain of blood from a clear sky. For the
@@ -1452,8 +1412,8 @@ unless the spell is countered by a Bless Crops miracle of equal or higher Magnit
 caught in the downpour will suffer great fear or superstition and unstable societies are likely
 to believe the rain portends a great disaster or a sign that it is time for an uprising.
 
+### River of Blood
 
-River of Blood
 Area Special, Duration 15, Rank Acolyte, Resist (Resilience)
 
 This spell turns a stretch of river into flowing blood for a short period of time. Fish
@@ -1465,8 +1425,8 @@ this spell will kill all life in the river except for pestilent swarms of blood 
 insects. The miracle affects a stretch of river equal in length to the Magnitude of the
 spell in kilometres and one tenth that value in breadth.
 
+### Sense Blood
 
-Sense Blood
 Duration 15, Rank Initiate
 
 The caster senses blood, fresh or old, using a combination of divinely augmented smell,
@@ -1479,9 +1439,8 @@ the attack is not missile oriented from outside the reach of the miracle. Additi
 it makes tracking a wounded creature an automatic success, until the hunted victim
 crosses a large body of water or its injury is properly treated.
 
-36
-Alex Greene (order #3262370)                                                                            7
-         Substitute Victim
+### Substitute Victim
+
 Duration 15, Rank Initiate, Ranged, Resist (Persistence), Touch
 
 This spell dedicates a sacrificial victim, making them the recipient of any spell directed
@@ -1492,19 +1451,19 @@ affecting the caster. The ability to divert spells depends on the relative Magni
 both itself and the incoming spell – see the Transfer Results table for more details. The
 resistance roll for translated spell effects is made by the victim and not the caster.
 
-Transfer Results
-Incoming Spell’s Magnitude is. . .         Effect
-Equal to or weaker than the miracle’s      Incoming spell effects transferred and
- Substitute Victim remains.
-1 or more points stronger than the         Substitute Victim eliminated and incoming
-miracle’s                                  spell takes effect on the caster.
+#### Transfer Results
+
+| Incoming Spell’s Magnitude is. . .            | Effect |
+|-----------------------------------------------|--------|
+| Equal to or weaker than the miracle’s         | Incoming spell effects transferred and Substitute Victim remains. |
+| 1 or more points stronger than the miracle’s  | Substitute Victim eliminated and incoming spell takes effect on the caster. |
 
 If this spell is used upon an unwilling target, they are entitled to resist the Sacrificial
 Victim. The target need not be a sapient being. Animals of at least equal SIZ to the
 caster may be used instead. If the victim dies the spell immediately ceases.
 
+### Transfer Injury
 
-Transfer Injury
 Duration 15, Rank Initiate, Ranged, Resist (Resilience), Touch
 
 Similar to the Substitute Victim spell, this miracle dedicates a sacrificial victim, making
@@ -1520,37 +1479,34 @@ If used upon an unwilling target, they are entitled to resist the spell. The tar
 not be a sapient being. Animals of at least equal SIZ to the caster may be used instead.
 If the victim dies the miracle immediately ceases.
 
+### Vampiric Touch
 
-Vampiric Touch
 Instant, Rank Acolyte, Resist (Resilience), Touch
 
 This powerful spell heals the worshipper by draining the vitality of the target. If not
 resisted, the victim loses a number of Hit Points from each location to heal any damage
 currently suffered by the concurrent locations of the caster.
 
-
-                                                   37
-Alex Greene (order #3262370)                                                                                7
-       The maximum number of Hit Points which may be transferred (per location) is equal
+The maximum number of Hit Points which may be transferred (per location) is equal
 to the Magnitude of the miracle. However, the victim cannot lose any more points than
 would take his own equivalent location down to a Major Wound.
 
-Sender-to-Oblivion, a high ranking priest of Mictlantecuhtli, is attacked by assassins sent
-by his rival for the position of High Lord of the Temple. The waylaid priest manages to
-cut down his first assailant with his jade knife, but the second leaps forwards and impales
-Sender-to-Oblivion in the gut, inflicting 6 Hit Points damage – a serious wound – forcing
-the devoted Death God worshipper make an opposed test of his Resilience which he succeeds.
-As the remaining assassin removes his weapon, Sender-to-Oblivion reaches out to touch his
-foe’s hand and casts Vampiric Touch. Instantly the injury in the priest’s stomach seals up,
-whilst an identical one opens in the abdomen of the assailant, who fails to resist his own
-Serious Wound. The assassin collapses screaming and is quickly incapacitated, ready to be
-interrogated in order to discover who send the man and why...
+> Sender-to-Oblivion, a high ranking priest of Mictlantecuhtli, is attacked by assassins sent
+> by his rival for the position of High Lord of the Temple. The waylaid priest manages to
+> cut down his first assailant with his jade knife, but the second leaps forwards and impales
+> Sender-to-Oblivion in the gut, inflicting 6 Hit Points damage – a serious wound – forcing
+> the devoted Death God worshipper make an opposed test of his Resilience which he succeeds.
+> As the remaining assassin removes his weapon, Sender-to-Oblivion reaches out to touch his
+> foe’s hand and casts Vampiric Touch. Instantly the injury in the priest’s stomach seals up,
+> whilst an identical one opens in the abdomen of the assailant, who fails to resist his own
+> Serious Wound. The assassin collapses screaming and is quickly incapacitated, ready to be
+> interrogated in order to discover who send the man and why...
 
 Vampiric Touch will even heal maimed or reattach severed locations if cast within an hour
 of receiving the Major Wound. Beyond this period a Regrow Limb spell is required.
 
+### Ward Damage
 
-Ward Damage
 Duration 15, Rank Initiate, Touch
 
 This spell requires the target to strip down to their skin, as the miracle automatically
@@ -1567,8 +1523,8 @@ Ward Damage cannot be stacked with any other magic or item that provides Armour
 Points such as Protection, Shield, Damage Resistance and the like. Neither can it be
 combined with any other Ward spell.
 
+### Ward Magic
 
-Ward Magic
 Duration 15, Rank Initiate, Touch
 
 The second of the Ward spells; this miracle provides a powerful defence against hostile
@@ -1579,17 +1535,15 @@ ritualistic runes and symbols over their entire body as part of casting the spel
 In return for suffering a single Hit Point of damage to every location, these bloody wards
 protect the recipient from physical harm; granting them barrier against hostile magic with
 a Magnitude less than or equal to one plus the miracle’s Magnitude. In this circumstance
-
-38
-Alex Greene (order #3262370)                                                                         7
-         hostile implies a spell which has the Resist trait. The wards still allow beneficial magic
+hostile implies a spell which has the Resist trait. The wards still allow beneficial magic
 through, such as healing spells or useful augmentation spells from other casters.
 
 Ward Magic cannot be stacked with any other spell that provides magic protection,
 such as Absorption, Reflection, Shield or Common Magic and Sorcery spells which
 perform the same action. Neither can it be combined with any other Ward spell.
 
-Ward Spirit
+### Ward Spirit
+
 Duration 15, Rank Initiate, Touch
 
 Similar to the other Ward spells, this miracle is a powerful way of preventing the malign
@@ -1602,69 +1556,64 @@ blood, these patterns drive away spirits both in the material world and upon the
 Ward Spirit provides complete protection from any contact with a spirit or its manifestations
 up to a number of interactions equal to twice the Magnitude of the Miracle.
 
+# Blood Sorcery
 
+> It had taken the mighty warrior several days to negotiate the savage filled foothills. Deep
+> within the jagged peaks was rumoured to be a remote fortress high on the un-scalable flanks
+> of Mount Yamshi, an isolated monastery where the Stygian Seers practiced their dark
+> sorceries.
 
+> Despite the dire warnings of the impoverished hillmen, Kharim had pushed on. He was not
+> the pampered product of civilised man, nor some superstitious primitive, but an iron willed
+> fighter who easily ignored the fearful tales of poisonous clouds that sucked the life of those
+> who ventured to near the accursed place, or black robed shadows riding flying rugs across
+> the night sky.
 
-                                                       39
-Alex Greene (order #3262370)                                                                                    7
-                                          Blood Sorcery
-It had taken the mighty warrior several days to negotiate the savage filled foothills. Deep
-within the jagged peaks was rumoured to be a remote fortress high on the un-scalable flanks
-of Mount Yamshi, an isolated monastery where the Stygian Seers practiced their dark
-sorceries.
+> The climb of Mount Yamshi proved to be merely difficult, not impossible. No obvious path
+> seemed to lead up to the towering summit, but the indomitable warrior barely considered
+> the implications. He had been raised in mountainous lands and knew of the actions of
+> earthquakes and ice, which crumbled away steps over years. If a trail existed Kharim lacked
+> the time to search for it, desiring to rescue the dancing girl before her kidnappers performed
+> whatever foul rites they planned.
 
-Despite the dire warnings of the impoverished hillmen, Kharim had pushed on. He was not
-the pampered product of civilised man, nor some superstitious primitive, but an iron willed
-fighter who easily ignored the fearful tales of poisonous clouds that sucked the life of those
-who ventured to near the accursed place, or black robed shadows riding flying rugs across
-the night sky.
+> With a last grunt of relief, the warrior pulled himself over the crenulated wall which topped
+> the final three hundred feet of almost sheer cliff. He lay sprawled between two gargoyles,
+> carved in likeness of some diabolic creature Kharim had never dreamed of, even in his
+> worst nightmares. Resting a moment to recover his strength he crept into the labyrinthine
+> monastery, following the chanting he’d heard wafting down the mountainside.
 
-The climb of Mount Yamshi proved to be merely difficult, not impossible. No obvious path
-seemed to lead up to the towering summit, but the indomitable warrior barely considered
-the implications. He had been raised in mountainous lands and knew of the actions of
-earthquakes and ice, which crumbled away steps over years. If a trail existed Kharim lacked
-the time to search for it, desiring to rescue the dancing girl before her kidnappers performed
-whatever foul rites they planned.
+> The passages were sinister and shadowy, sporadically lit by small oil filled lamps of grotesque
+> appearance, each one placed into some random niche in the cyclopean masonry of the walls.
+> Small bowls of blood lay before each light, sitting amid dark brown stains where countless
+> offerings had over spilled to run down the dark stone.
 
-With a last grunt of relief, the warrior pulled himself over the crenulated wall which topped
-the final three hundred feet of almost sheer cliff. He lay sprawled between two gargoyles,
-carved in likeness of some diabolic creature Kharim had never dreamed of, even in his
-worst nightmares. Resting a moment to recover his strength he crept into the labyrinthine
-monastery, following the chanting he’d heard wafting down the mountainside.
+> Using his razor sharp hearing Kharim negotiated corridor and stair, following the ominous
+> chanting whose ancient unfathomable tongue boded ill deeds. Eventually he found himself
+> on a balcony overlooking a modest hall. In the centre was the dancing girl he’d pursued, lying
+> bound to a green jade alter carved with nauseating images of some tentacled horror. Before
+> the barely clothed victim stood an ascetic looking man robed in midnight black trimmed
+> with silver. Ranged around him were other similarly garbed acolytes, wizened men all,
+> sitting cross-legged in a circle and chanting the evil dirge.
 
-The passages were sinister and shadowy, sporadically lit by small oil filled lamps of grotesque
-appearance, each one placed into some random niche in the cyclopean masonry of the walls.
-Small bowls of blood lay before each light, sitting amid dark brown stains where countless
-offerings had over spilled to run down the dark stone.
+> Kharim watched aghast as the leader of the ritual intoned, gesturing towards the prone
+> body. Where he pointed thin lines appeared on the milky white skin of the girl, turning into
+> trickles, then rivulets of crimson and she began to writhe and scream.
 
-Using his razor sharp hearing Kharim negotiated corridor and stair, following the ominous
-chanting whose ancient unfathomable tongue boded ill deeds. Eventually he found himself
-on a balcony overlooking a modest hall. In the centre was the dancing girl he’d pursued, lying
-bound to a green jade alter carved with nauseating images of some tentacled horror. Before
-the barely clothed victim stood an ascetic looking man robed in midnight black trimmed
-with silver. Ranged around him were other similarly garbed acolytes, wizened men all,
-sitting cross-legged in a circle and chanting the evil dirge.
+> With a roar Kharim threw himself over the stone railing, landing on his feet with pantherish
+> grace, sword drawn. The sorcerer turned his head, eyebrow rising in sardonic expectation.
+> With a talon-like fingernail he opened a wound across his palm and whipped his hand
+> towards the charging swordsman, scattering droplets of blood across Khann’s body. To the
+> warrior’s horror his limbs began to stiffen, forcing him to slow and collapse to his knees.
 
-Kharim watched aghast as the leader of the ritual intoned, gesturing towards the prone
-body. Where he pointed thin lines appeared on the milky white skin of the girl, turning into
-trickles, then rivulets of crimson and she began to writhe and scream.
-40
-Alex Greene (order #3262370)                                                                             7
-         With a roar Kharim threw himself over the stone railing, landing on his feet with pantherish
-grace, sword drawn. The sorcerer turned his head, eyebrow rising in sardonic expectation.
-With a talon-like fingernail he opened a wound across his palm and whipped his hand
-towards the charging swordsman, scattering droplets of blood across Khann’s body. To the
-warrior’s horror his limbs began to stiffen, forcing him to slow and collapse to his knees.
+> ‘Think you to take us by surprise, fool? Have men so quickly forgotten the strength of the
+> Stygian Seers, that you come armed against us? I think I shall take your heart, interloper!’
 
-‘Think you to take us by surprise, fool? Have men so quickly forgotten the strength of the
-Stygian Seers, that you come armed against us? I think I shall take your heart, interloper!’
-
-Reaching out with his withered hand the sorcerer barked a single foul word. The blood
-flowing from the bound girl desiccated in the blink of an eye, then scattered before the
-unholy wind which momentarily blew through the chamber, causing the dim flames of the
-oil lamps to gutter. Kharim gurgled in agony as his ribs began to snap and the flesh of his
-chest tore open. Something dark shot across the chamber, to land wetly in the Seer’s grasp,
-still pulsating. The sorcery of the stygian master was potent indeed...
+> Reaching out with his withered hand the sorcerer barked a single foul word. The blood
+> flowing from the bound girl desiccated in the blink of an eye, then scattered before the
+> unholy wind which momentarily blew through the chamber, causing the dim flames of the
+> oil lamps to gutter. Kharim gurgled in agony as his ribs began to snap and the flesh of his
+> chest tore open. Something dark shot across the chamber, to land wetly in the Seer’s grasp,
+> still pulsating. The sorcery of the stygian master was potent indeed...
 
 Sorcery is the archetypal magic of pulp fantasy, using blood and sacrifice to power its
 arcane strength. Such imagery can be found throughout the Sword & Sorcery genre
@@ -1677,30 +1626,28 @@ mechanics can make well prepared sorcerers extraordinarily powerful. Thus these 
 are aimed more for protagonists than Adventurers but can be used for Adventurers
 providing the Games Master can limit the sorcerer’s access to living sacrifices.
 
+## How Sacrificial Sorcery Works
 
-How Sacrificial Sorcery Works
 Sorcery is differentiated from other types of high magic by the mechanisms it utilises
 to manipulate the spell effects. Its fundamental aspects are:
-*	 Sacrificial Sorcery uses two skills: the Grimoire skill, which portrays both the caster’s
+* Sacrificial Sorcery uses two skills: the Grimoire skill, which portrays both the caster’s
 knowledge of a particular school of magic and the intensity of his spell effects; and
 Manipulation which modifies the application of sorcery by permitting the caster to
 change the range, duration, targets, magnitude and combination of his spell or spells.
-*	 This form of Sorcery is not cast using personal Magic Points. The energy to power
+* This form of Sorcery is not cast using personal Magic Points. The energy to power
 the sorcery comes from spilling of blood or slaying of sacrificial victims as described
 in Chapter 2. Multiple options are presented for the reaping of life-force, which
 have implications on how frequently and easy casting sorcery becomes.
-*	 For the purposes of Sorcery the word Intensity is used to denote the scale of its effect.
+* For the purposes of Sorcery the word Intensity is used to denote the scale of its effect.
 
+### Grimoire (INT x2)
 
-Grimoire (INT x2)
 The Grimoire skill reflects the sorcerer’s knowledge and portfolio of spells learned from
 a specific book, school or ancient master. It is this skill which a sorcerer rolls against to
 see if they cast a spell correctly. The skill also limits the effect of the spell; it’s Intensity
 which is one tenth of the caster’s Grimoire skill.
 
-                                                         41
-Alex Greene (order #3262370)                                                                                      7
-       A sorcerer can study more than one source of spells and thus possess many Grimoire skills.
+A sorcerer can study more than one source of spells and thus possess many Grimoire skills.
 
 Despite the name of the skill, this sorcerous knowledge need not be contained within
 the pages of a tome. It can equally be a living aural tradition passed on by rote, held
@@ -1716,20 +1663,20 @@ Casting a spell does not erase it from his mind; but to change which spells he h
 memorised a sorcerer must spend 1D6 hours expelling an old spell from memory and
 memorising a new one from the source of his grimoire.
 
-For Example, Xuthoth is a sorcerer of the highly secretive Stygian Seers. As a member of the
-church he has Grimoire (Stygian Seers) 60% and Grimoire (Dire Codex of Zombos) 45%.
-His INT is 15. The Master of the Stygian Seers knows more than a dozen dark necromancies
-which he teaches only to those whose demonstrate proper servitude, whilst the Codex of
-Zombos has only six. Xuthoth can therefore memorise any combination of spells learned from
-either source as long as the total number of spells does not exceed 15. To successfully cast those
-spells taught by the Master of the Stygian Seers he needs to roll 60% or less; and 45% or less
-to cast those from the Dire Codex of Zombos.
+> For Example, Xuthoth is a sorcerer of the highly secretive Stygian Seers. As a member of the
+> church he has Grimoire (Stygian Seers) 60% and Grimoire (Dire Codex of Zombos) 45%.
+> His INT is 15. The Master of the Stygian Seers knows more than a dozen dark necromancies
+> which he teaches only to those whose demonstrate proper servitude, whilst the Codex of
+> Zombos has only six. Xuthoth can therefore memorise any combination of spells learned from
+> either source as long as the total number of spells does not exceed 15. To successfully cast those
+> spells taught by the Master of the Stygian Seers he needs to roll 60% or less; and 45% or less
+> to cast those from the Dire Codex of Zombos.
 
 If the same spell is found in one or more grimoires a sorcerer knows, he always casts it
 at the highest rated Grimoire percentage.
 
+### Manipulation (INT+POW)
 
-Manipulation (INT+POW)
 On their own, Sorcery spells can be quite limited in their scope and intensity. However
 a sorcerer’s true power lies in his ability to extend the fundamental aspects of all spells,
 enhancing their reach. By default, sorcery spells cast without any manipulation have a
@@ -1744,40 +1691,42 @@ Manipulation skill per Grimoire is not necessary.
 The Manipulation skill is never rolled against when casting a spell. Instead, each 10%
 or fraction thereof of the Manipulation skill allows 1 point of Manipulation to be
 assigned to a single sorcery spell component. Sorcerers therefore need to specify at the
-moment of casting how the points of their Manipulation skill will be used. For example,
-Xuthoth with Manipulation 50% could place 3 points into manipulating Duration and 2
-into manipulating Range; or 5 into a single component.
+moment of casting how the points of their Manipulation skill will be used. 
 
-42
-Alex Greene (order #3262370)                                                                                7
-         Manipulation of the following components is possible:
-*	 Magnitude: Used to penetrate magical defences or resist magical attacks.
-*	 Range: Used to increase the distance a spell can be cast over.
-*	 Duration: Used to extend the period of time the spell’s effects last.
-*	 Targets: Used to increase the number of targets affected by the spell.
-*	 Combine: Used to fuse together several spells into a single casting.
+> For example, Xuthoth with Manipulation 50% could place 3 points into manipulating 
+> Duration and 2 into manipulating Range; or 5 into a single component.
+
+### Manipulation of the following components is possible:
+
+* Magnitude: Used to penetrate magical defences or resist magical attacks.
+* Range: Used to increase the distance a spell can be cast over.
+* Duration: Used to extend the period of time the spell’s effects last.
+* Targets: Used to increase the number of targets affected by the spell.
+* Combine: Used to fuse together several spells into a single casting.
 
 The Sorcery Manipulation Table shows what effect each point of Manipulation has on
 the different spell components. It takes no Manipulation to cast a Sorcery spell in its
 basic format (as indicated by the ‘None’ row).
 
-Sorcery Manipulation Table
-Points of    Magnitude           Range             Duration      Targets Combine
-Manipulation                                       (minutes)
-None         1                   Touch             POW           1          None
-1            2                   1m x POW          2xPOW         2          2 Spells
-2            3                   5m x POW          3xPOW         3          3 Spells
-3            4                   10m x POW         4xPOW         4          4 Spells
-4            5                   50m x POW         5xPOW         5          5 Spells
-5            6                   100m x POW        6xPOW         6          6 Spells
-6            7                   500m x POW        7xPOW         7          7 Spells
-7            8                   1km x POW         8xPOW         8          8 Spells
-8            9                   5km x POW         9xPOW         9          9 Spells
-9            10                  10km x POW        10xPOW        10         10 Spells
-10           11                  15km xPOW         11 x POW      11         11 Spells
-Each point… +1 Magnitude         +5km x POW        +1 x POW      +1         +1 Spells
+#### Sorcery Manipulation Table
 
-Magnitude
+| Points of Manipulation | Magnitude   | Range      | Duration (minutes) | Targets  | Combine |
+|------------------------|-------------|------------|--------------------|----------|---------|
+| None                   | 1           | Touch      | POW                | 1        | None    |
+| 1                      | 2           | 1m x POW   | 2xPOW              | 2        | 2 Spells |
+| 2                      | 3           | 5m x POW   | 3xPOW              | 3        | 3 Spells |
+| 3                      | 4           | 10m x POW  | 4xPOW              | 4        | 4 Spells |
+| 4                      | 5           | 50m x POW  | 5xPOW              | 5        | 5 Spells |
+| 5                      | 6           | 100m x POW | 6xPOW              | 6        | 6 Spells |
+| 6                      | 7           | 500m x POW | 7xPOW              | 7        | 7 Spells |
+| 7                      | 8           | 1km x POW  | 8xPOW              | 8        | 8 Spells |
+| 8                      | 9           | 5km x POW  | 9xPOW              | 9        | 9 Spells |
+| 9                      | 10          | 10km x POW | 10xPOW             | 10       | 10 Spells |
+| 10                     | 11          | 15km xPOW  | 11 x POW           | 11       | 11 Spells |
+| Each point...          |+1 Magnitude | +5km x POW | +1 x POW           | +1       | +1 Spells |
+
+#### Magnitude
+
 Sorcery spells have a default Magnitude of 1 at no additional Magic Point cost. It costs
 one Magic Point to augment the Magnitude of a Sorcery spell, regardless of its final
 intensity.
@@ -1787,17 +1736,13 @@ For sorcery spells Magnitude is only used to see if it will overcome magical def
 resist magical attacks. It does not modify the Intensity of the spell which is controlled
 by the Grimoire skill.
 
-Range
+#### Range
+
 Sorcery spells have a default Range of touch, at no additional Magic Point cost. It
 costs one Magic Point to augment the Range of a sorcery spell, regardless of its final
 distance.
 
-
-
-
-                                                 43
-Alex Greene (order #3262370)                                                                              7
-       Manipulating this component allows the sorcerer to increase the Range of a Sorcery
+Manipulating this component allows the sorcerer to increase the Range of a Sorcery
 spell. Unlike other manipulations the range value does not progress linearly, enabling
 sorcerers to cast spells over great distances. However since most spells require the target
 to be under direct observation, a sorcerer often needs other forms of perception or
@@ -1812,7 +1757,8 @@ If Range is augmented beyond touch then the caster automatically strikes his int
 target, unless the target is able to dive out of direct observation or flee beyond reach
 before the spell is completed.
 
-Duration
+#### Duration
+
 Sorcery spells have a default Duration equal to the POW of the caster in minutes, at
 no additional Magic Point cost. It costs one Magic Point to augment the Duration of
 a Sorcery spell, regardless of its final time span.
@@ -1821,7 +1767,8 @@ Manipulating this component allows the sorcerer to increase the Duration of a So
 spell. The maximum Duration to which the spell can be increased to is noted in the
 Sorcery Manipulation table.
 
-Targets
+#### Targets
+
 Sorcery spells have a default Target of one person or item, at no additional Magic Point
 cost. It costs one Magic Point to augment the Targets of a Sorcery spell, regardless of
 the final number of recipients.
@@ -1832,27 +1779,26 @@ the Sorcery Manipulation table. If the spell is cast successfully, the effect of
 is applied multiple times, once for each target included; the spell’s Intensity is never
 divided between them.
 
-Combine
+#### Combine
+
 Manipulating this component allows the sorcerer to combine the effects of multiple
 Sorcery spells in a single casting, so they will affect the target simultaneously. This is the
 most powerful aspect of Sorcery, as it allows a skilful sorcerer to use his Magic Points
 judiciously and achieve multiple effects within a short space of time.
-*	 A spell may not be combined with itself – only different spells may be combined.
-*	 If the combined spells come from different grimoires, then the lowest Grimoire
+
+* A spell may not be combined with itself – only different spells may be combined.
+* If the combined spells come from different grimoires, then the lowest Grimoire
 skill is used as the base casting chance.
-*	 The spells must all have the same target or targets. A sorcerer cannot combine a
+* The spells must all have the same target or targets. A sorcerer cannot combine a
 Palsy targeting an enemy and a Spell Resistance targeting himself, for instance.
-
-
-44
-Alex Greene (order #3262370)                                                                            7
-         *	   Any other manipulation effects applied in a combined spellcasting apply to each
+* Any other manipulation effects applied in a combined spellcasting apply to each
 and every one of the spells involved. Only one Magic Point need be spent per
 manipulation effect, regardless of the number of spells involved.
-*	   Each additional spell added to a combined spellcasting costs one extra Magic Point
+* Each additional spell added to a combined spellcasting costs one extra Magic Point
 and reduces the casting chance by 10%.
 
-Life Energy
+### Life Energy
+
 For sacrificial Sorcery, the Magic Points needed to cast spells are no longer generated by
 Characteristic POW but instead are harvested from the spilling of blood or draining of
 life-force. A number of different methods are available to produce these Magic Points,
@@ -1868,18 +1814,18 @@ another may rely on Cruciation instead. This combined with the guidelines on
 sacrificial restrictions, allows each sorcerous tradition to adopt a unique feel, both
 mechanistically and morally.
 
-For example, the Stygian Seers are an ancient guild of wizards specialising in black
-magic. They gather their power by Exsanguination, the spilling of blood – preferably
-that of others – but can use their own in extremis. The Magic Points gathered must be
-used immediately to cast a spell; else they dissipate (Temporary Duration). This necessity
-to spill blood requires that a victim be cut as part of the invocation, adding a single
-Combat Action to the casting time (Ritualistic Casting). Due to their unceasing need
-for fresh blood, the guild has become the object of fear and hatred from the scattered
-settlements within several days travel of their mountaintop fortress, making gathering
-of new victims troublesome (Social Consequences).
+> For example, the Stygian Seers are an ancient guild of wizards specialising in black
+> magic. They gather their power by Exsanguination, the spilling of blood – preferably
+> that of others – but can use their own in extremis. The Magic Points gathered must be
+> used immediately to cast a spell; else they dissipate (Temporary Duration). This necessity
+> to spill blood requires that a victim be cut as part of the invocation, adding a single
+> Combat Action to the casting time (Ritualistic Casting). Due to their unceasing need
+> for fresh blood, the guild has become the object of fear and hatred from the scattered
+> settlements within several days travel of their mountaintop fortress, making gathering
+> of new victims troublesome (Social Consequences).
 
+## Casting Sorcery
 
-Casting Sorcery
 A sorcerer must be able to freely move his hands, be able to intonate the formulae
 and remain aware of the target of the magic, if any, in order to complete the casting.
 Whenever a spell is cast, there is always a sight and sound that nearby creatures can
@@ -1891,11 +1837,8 @@ the casting roll spot the incantation.
 Casting a Sorcery spell requires a successful skill test of the Sorcery (Grimoire) skill to
 which that spell belongs. Note the result of the roll.
 
+#### Sorcery Game Balance
 
-
-                                                   45
-Alex Greene (order #3262370)                                                                                7
-       Sorcery Game Balance
 A number of potential issues with Sorcery arise from generating Magic Points via
 sacrificial methods.
 
@@ -1923,27 +1866,21 @@ In such a case spells may need to be woven into magical items (see Enchantments 
 page 67) so that the necessary preparatory methods of spell casting can be hidden from
 disapproving eyes, but the item itself can be used with impunity.
 
-
-
-Critical Success: The spell succeeds and costs no Magic Points to cast, irrespective of the
+**Critical Success**: The spell succeeds and costs no Magic Points to cast, irrespective of the
 amount of manipulation applied to it. Any sacrificial Magic Points accumulated for the casting
 can be retained to cast a further spell, providing it is initiated before those points dissipate.
 
-Success: The spell is cast successfully.
+**Success**: The spell is cast successfully.
 
-Failure: The spell does not take effect, and costs the caster a single Magic Point.
+**Failure**: The spell does not take effect, and costs the caster a single Magic Point.
 
-Fumble: The spell fails and the sorcerer loses the full Magic Point cost of the spell.
+**Fumble**: The spell fails and the sorcerer loses the full Magic Point cost of the spell.
 
 A sorcerer can dismiss any Sorcery spell(s) he has invoked as a single Combat Action. Ceasing
 to focus attention on a Concentration spell is immediate and not a Combat Action.
 
+### Magic Points
 
-
-
-46
-Alex Greene (order #3262370)                                                                               7
-         Magic Points
 Sorcery spells cost 1 Magic Point plus as many Magic Points as the number of
 Manipulation effects applied to it.
 
@@ -1954,8 +1891,8 @@ the basic spell, plus one point per Manipulation).
 Sacrificial Sorcery assumes that these Magic Points are gained via some form of physical
 bloodletting, torture, sacrifice, aging and so on. See Life Energy on page 45.
 
+### Casting Time
 
-Casting Time
 Unless affected by the requirement for Ritualistic Casting (see page 15), Sorcery spells
 take as many Combat Actions to cast as the number of manipulations used to cast
 them, with a minimum casting time of 1. No other Combat Action may be taken while
@@ -1968,8 +1905,8 @@ Physical and magical attacks on a sorcerer as he casts automatically ruin the sp
 suffers a Major Wound, is immobilised, or is prevented from observing the target. Lesser
 distractions require successful Persistence tests to maintain concentration on the spell.
 
+## Acquiring Sorcery
 
-Acquiring Sorcery
 An Adventurer can learn Sorcery from a multitude of different sources. He may pick
 up a dusty tome and begin reading its dark secrets. He might search out an organised
 school, dark cult or ancient hermit that teaches the art of sorcery. He could even
@@ -1989,11 +1926,12 @@ instance, whereas an ancient codex of sorcery will obviously hold the same infor
 within its pages. Whatever the source, the spell caster must retire into seclusion with
 the organisation or item in order to study a new spell from it.
 
+It requires one week of studying and two Improvement Rolls to learn a specific spell
+available from the source, after which the sorcerer will then be able to cast that spell
+using the Grimoire skill to which it belongs.
 
+#### How Many Spells?
 
-                                                   47
-Alex Greene (order #3262370)                                                                                7
-       How Many Spells?
 In Legend there are no specific limitations on the number of spells a school or book
 might contain. It all depends on the genre and setting you wish to emulate. Whilst a
 Cosmic Horror game set in Ancient Rome might have but a single spell recorded on a
@@ -2006,14 +1944,8 @@ seven spells – some more, others less. This value permits a cult or tome some 
 whilst restricting its overall power. As ever, Games Masters are free to set this value as
 they wish in their games.
 
+### Restricting Spell Acquisition
 
-
-It requires one week of studying and two Improvement Rolls to learn a specific spell
-available from the source, after which the sorcerer will then be able to cast that spell
-using the Grimoire skill to which it belongs.
-
-
-Restricting Spell Acquisition
 The manner and method of acquiring spells is a nebulous area which depends greatly
 on the Games Master and his campaign setting. Few formalised rules are provided
 in order to allow the learning of sorcery to be very flexible; however this can cause
@@ -2029,22 +1961,20 @@ Schools, churches or guilds of sorcery by their nature are organisations which r
 progression within their membership. Access to specific spells can be constrained to
 those who achieve the correct rank.
 
-When Xuthoth was raised to the rank of Apprentice he was permitted to learn the innocuous
-magics known to the Stygian Seers, such as Mystic Vision and Fly (Carpet). Once he
-progressed to the level of Adept, proving his skill and loyalty to the church, he was granted
-the dark spell of Exsanguinate. However this knowledge has merely wetted his thirst for
-power and he dreams of being raised to Adept and being taught by the Master of the order
-the dread spell of Extract Heart.
+> When Xuthoth was raised to the rank of Apprentice he was permitted to learn the innocuous
+> magics known to the Stygian Seers, such as Mystic Vision and Fly (Carpet). Once he
+> progressed to the level of Adept, proving his skill and loyalty to the church, he was granted
+> the dark spell of Exsanguinate. However this knowledge has merely wetted his thirst for
+> power and he dreams of being raised to Adept and being taught by the Master of the order
+> the dread spell of Extract Heart.
 
 Limiting spell learning from books or artefacts is a more difficult proposition. In this
 case spell access can be limited by the value of the sorcerer’s Grimoire skill. If his skill
 is insufficiently high, he simply cannot comprehend the magical theory or formulae
 behind its incantation. As his skill progresses however, he will reach a point of epiphany
 and be able to learn the spell.
-48
-Alex Greene (order #3262370)                                                                           7
-Alex Greene (order #3262370)   7
-       In some cases new spells will be withheld until the sorcerer proves his worthiness by
+
+In some cases new spells will be withheld until the sorcerer proves his worthiness by
 performing a quest or task which suits the current teacher(s) or the creator(s) of the
 item. Although within schools and cults this can rely on social interaction, promoting
 roleplaying, with artefacts a Games Master needs to flex his imagination a bit more.
@@ -2056,8 +1986,8 @@ fresh blood of dangerous supernatural creatures to be spread upon its pages to p
 the ink to become visible, with a clue to the next type of creature required at the end
 of each chapter.
 
+## Spell Descriptions
 
-Spell Descriptions
 Every Sorcery spell is defined by several traits defining the spell and how it is used in the
 game. A description then follows describing the spell’s precise effects. The traits used by
 sorcery spells are detailed here.
@@ -2071,12 +2001,28 @@ without casting the spell anew.
 The strength or scope of the magical effect – its Intensity – is equal to one tenth of the
 caster’s Grimoire skill from which that spell comes.
 
-Autonomous: The spell’s effects will remain until its duration ends, without need for
+**Autonomous**: The spell’s effects will remain until its duration ends, without need for
 concentration.
 
+**Concentration**: The spell’s active effects continue so long as the Adventurer concentrates
+on it. Once focus is dropped, the spell’s effect ceases or remains static until concentration
+can be resumed. A sorcerer may move or perform non-complex actions without penalty.
+More stressful situations, such as walking a narrow ledge, engaging in combat, suffering
+serious injury, or casting another spell immediately require a Persistence roll to maintain
+focus. By default a sorcerer may only concentrate on a single Concentration spell at any
+one time, unless two or more are woven together as part of the Combine manipulation.
 
+**Resist (Evade/Persistence/Resilience)**: An offensively cast spell does not take effect
+automatically. The target may make an Opposed Test of their Evade, Persistence or
+Resilience skill (as specified by the spell) against the casting roll of the sorcerer, to avoid
+the effect of the spell entirely. To resist using the Evade skill, the Adventurer must
+expend a Combat Action.
 
-Skill Limitations to Spells Known
+Note that many of these spells are remarkably powerful and should be considered
+carefully before inclusion in a campaign.
+
+#### Skill Limitations to Spells Known
+
 In high fantasy campaigns magical texts and schools of sorcery can be quite prevalent.
 This can lead to an over incidence of available spells, especially if mages in the setting
 are prone to recording their own sorcerous knowledge into spell books.
@@ -2090,29 +2036,8 @@ Using this method the sorcerer would have to consider carefully which magic he c
 to incorporate into his mental portfolio, granting each individual caster a unique set
 of spells.
 
+### Abjure Life
 
-
-50
-Alex Greene (order #3262370)                                                                           7
-         Concentration: The spell’s active effects continue so long as the Adventurer concentrates
-on it. Once focus is dropped, the spell’s effect ceases or remains static until concentration
-can be resumed. A sorcerer may move or perform non-complex actions without penalty.
-More stressful situations, such as walking a narrow ledge, engaging in combat, suffering
-serious injury, or casting another spell immediately require a Persistence roll to maintain
-focus. By default a sorcerer may only concentrate on a single Concentration spell at any
-one time, unless two or more are woven together as part of the Combine manipulation.
-
-Resist (Evade/Persistence/Resilience): An offensively cast spell does not take effect
-automatically. The target may make an Opposed Test of their Evade, Persistence or
-Resilience skill (as specified by the spell) against the casting roll of the sorcerer, to avoid
-the effect of the spell entirely. To resist using the Evade skill, the Adventurer must
-expend a Combat Action.
-
-Note that many of these spells are remarkably powerful and should be considered
-carefully before inclusion in a campaign.
-
-
-Abjure Life
 Autonomous, Resist (Resilience)
 
 One of the more diabolical and potent of the many Abjure spells, this sorcery has several
@@ -2133,8 +2058,8 @@ the enchantment is ever dismissed from a long term recipient, they must make an
 unopposed Resilience check at a penalty of –5% per decade the spell was maintained;
 else die from the shock of returning to life in a withered body.
 
+### Clone
 
-Clone
 Autonomous
 
 This spell allows a sorcerer to take a blood or tissue sample and from it grow an identical
@@ -2142,9 +2067,7 @@ clone of the original creature. The clone grows at a number of Characteristic po
 equal to the spell’s Intensity each week. Due to the length of time required to grow the
 identical twin, every clone is treated as an Enchantment (see page 67).
 
-                                                       51
-Alex Greene (order #3262370)                                                                                    7
-       The final clone has the memories and skills of the original up to the point the blood or
+The final clone has the memories and skills of the original up to the point the blood or
 tissue sample was extracted. On being told of their duplicate or meeting them directly,
 the clone must succeed in an unopposed Persistence check or become murderously
 egocentric and attempt to kill off the original. Games Masters may apply bonuses or
@@ -2156,7 +2079,8 @@ death. Using the spell in this manner grants a degree of semi-immortality, albei
 the loss of those memories leading to their predecessor’s demise.
 
 
-Dominate Bloodline
+### Dominate Bloodline
+
 Concentration, Resist (Persistence)
 
 As per the Dominate spell in the Legend Core Rulebook the sorcerer may attempt to
@@ -2165,17 +2089,18 @@ caster’s own family to those of royal blood, or Adventurers possessing a parti
 manifest in their blood. The sorcerer can only affect targets a maximum INT of three
 times the spell’s Intensity.
 
-The monastery of Mount Yamshi is assaulted by an army of self-righteous knights seeking
-the destruction of the Stygian Seers. A few of the valiant warriors survive to reach the inner
-sanctum where the ancient Xuthoth, still alive after artificially extending his life for several
-centuries, awaits them. Recognising the family coat of arms upon the commander’s shield
-the sorcerer casts Dominate Bloodline. The pious crusader fails to resist the spell, his will
-crushed by the iron authority of his hitherto unsuspected great, great grandfather. Chuckling
-evilly Xuthoth uses his progeny to slay the remaining knights and considers ways to use this
-opportunity to destroy the sanctimonious faith who dared attack the black cult.
+> The monastery of Mount Yamshi is assaulted by an army of self-righteous knights seeking
+> the destruction of the Stygian Seers. A few of the valiant warriors survive to reach the inner
+> sanctum where the ancient Xuthoth, still alive after artificially extending his life for several
+> centuries, awaits them. Recognising the family coat of arms upon the commander’s shield
+> the sorcerer casts Dominate Bloodline. The pious crusader fails to resist the spell, his will
+> crushed by the iron authority of his hitherto unsuspected great, great grandfather. Chuckling
+> evilly Xuthoth uses his progeny to slay the remaining knights and considers ways to use this
+> opportunity to destroy the sanctimonious faith who dared attack the black cult.
 
 
-Dominate Undead
+### Dominate Undead
+
 Concentration, Resist (Persistence)
 
 As for Dominate Bloodline but affects sapient undead – those possessing their own
@@ -2183,7 +2108,8 @@ intellect, whether it be the one they died with or that of a spirit bound to a c
 Non-independent animated cadavers are immune to the spell.
 
 
-Draw Blood
+### Draw Blood
+
 Autonomous, Resist (Special)
 
 Allows a sorcerer to draw spilled ichor to a single target where it either fills a vessel or
@@ -2193,9 +2119,7 @@ spilled blood crawls along the ground or up walls at a rate of one metre per rou
 
 Although the spell is primarily used for the gathering of sacrificial ichor for rituals
 and the like, it can be potentially dangerous. A sorcerer could direct the blood into
-52
-Alex Greene (order #3262370)                                                                              7
-         the lungs of a living target for instance. In such cases the target, if unaware or unable
+the lungs of a living target for instance. In such cases the target, if unaware or unable
 to keep ahead of the moving blood, must resist the casting roll using either Evade or
 Resilience as appropriate, else begin to drown.
 
@@ -2205,7 +2129,8 @@ sources out of reach of the caster. Placed over a small town by a cabal of sorce
 combining their strength, it could be used to feed an entombed vampire.
 
 
-Enslave (Specific Targets)
+### Enslave (Specific Targets)
+
 Concentration, Resist (Persistence)
 
 A terrifying version of the Dominate spell in the Legend Core Rulebook the sorcerer
@@ -2215,18 +2140,20 @@ spell’s Intensity. This value can be multiplied by the value of the Targets ma
 if used during the casting. The sorcerer can only affect targets a maximum INT of three
 times the spell’s Intensity. Only those that fail to resist the spell are enslaved.
 
-Enslave Intensity Table
-Intensity               Number of Individuals
-1                       1
-2                       5
-3                       10
-4                       50
-5                       100
-6                       500
-7                       1,000
-8                       5,000
-9                       10,000
-10                      50,000
+#### Enslave Intensity Table
+
+| Intensity             | Number of Individuals |
+|-----------------------|-----------------------|
+| 1                     | 1                     |
+| 2                     | 5                     |
+| 3                     | 10                    |
+| 4                     | 50                    |
+| 5                     | 100                   |
+| 6                     | 500                   |
+| 7                     | 1,000                 |
+| 8                     | 5,000                 |
+| 9                     | 10,000                |
+| 10                    | 50,000                |
 
 Several saving graces prevent the caster of this spell from becoming near godlike. First is
 that a command must be given to either a single individual or the entire affected populace.
@@ -2238,20 +2165,19 @@ victim another chance to break free from the spell.
 The spell only requires Concentration when issuing commands. At other times it is considered
 Autonomous although the any previously issued prerogatives remain active.
 
-Xuthoth discovers in the crypts of an forgotten ruin the fabled Crown of Serpents. Inscribed on
-the inner surface is the diabolical spell of Enslave Serpent Folk. After much study and theoretical
-practice, the sorcerer travels to the far south into the steaming jungles of Vasulia, the ancient home
-of the now degenerate reptilians. Placing the crown upon his head Xuthoth casts the spell with a
-                                                              53
-Alex Greene (order #3262370)                                                                                           7
-       range of 150km, demanding that all the folk assemble at his location. It takes three days before
-the last of the resentfully subjugated slaves arrives to bow at Xuthoth’s feet. He then demands the
-gathered army of 10,000 serpent folk march north to attack the fat merchants of Khoss. With such
-loyal troops, albeit enforced, and a near infinite supply of sacrificial victims from which he can
-draw blood, the sorcerer begins to dream of conquering the entire continent...
+> Xuthoth discovers in the crypts of an forgotten ruin the fabled Crown of Serpents. Inscribed on
+> the inner surface is the diabolical spell of Enslave Serpent Folk. After much study and theoretical
+> practice, the sorcerer travels to the far south into the steaming jungles of Vasulia, the ancient home
+> of the now degenerate reptilians. Placing the crown upon his head Xuthoth casts the spell with a
+> range of 150km, demanding that all the folk assemble at his location. It takes three days before
+> the last of the resentfully subjugated slaves arrives to bow at Xuthoth’s feet. He then demands the
+> gathered army of 10,000 serpent folk march north to attack the fat merchants of Khoss. With such
+> loyal troops, albeit enforced, and a near infinite supply of sacrificial victims from which he can
+> draw blood, the sorcerer begins to dream of conquering the entire continent...
 
 
-Exsanguinate
+### Exsanguinate
+
 Concentration, Resist (Resilience)
 
 The spell inflicts horrific injures by rupturing the blood vessels of target’s body causing
@@ -2259,24 +2185,27 @@ them to either blacken with contusions and bleed from orifices, or experience su
 cuts across their body. If the target fails to resist, every Combat Action the sorcerer can
 inflict a random location with an amount of damage according to the spell Intensity.
 
-Exsanguinate Damage Table
-Intensity                  Damage Inflicted
-1–2                        1D2+1
-3–4                        1D4+1
-5–6                        1D6+1
-7–8                        1D8+1
-9–10                       1D10+1
-11–12                      2D6+1
-13–14                      1D8+1D6+1
-15–16                      2D8+1
-17–18                      1D10+1D8+1
-19–20                      2D10+1
+#### Exsanguinate Damage Table
+
+| Intensity                | Damage Inflicted |
+|--------------------------|------------------|
+| 1–2                      | 1D2+1            |
+| 3–4                      | 1D4+1            |
+| 5–6                      | 1D6+1            |
+| 7–8                      | 1D8+1            |
+| 9–10                     | 1D10+1           |
+| 11–12                    | 2D6+1            |
+| 13–14                    | 1D8+1D6+1        |
+| 15–16                    | 2D8+1            |
+| 17–18                    | 1D10+1D8+1       |
+| 19–20                    | 2D10+1           |
 
 Armour provides no protection but magical defences (such as Countermagic Shield or
 Spell Resistance) reduce rolled damage by the Magnitude they normally block.
 
 
-Extract Heart
+### Extract Heart
+
 Concentration, Resist (Resilience)
 
 One of the deadliest magics known to Sorcery, Extract Heart rips the still pumping
@@ -2287,11 +2216,8 @@ armour). Once the chest is reduced to a Major Wound, the victim’s heart tears 
 his ribs and garb, flying across the intervening distance to land in the sorcerer’s hand.
 
 
+### Haemophilia
 
-
-54
-Alex Greene (order #3262370)                                                                                 7
-         Haemophilia
 Autonomous, Resist (Resilience)
 
 The sorcerer causes a victim’s blood to cease clotting and his veins to remain open. A
@@ -2304,7 +2230,8 @@ Haemophilia can be cast on a target with a maximum CON of three times the
 spell’s Intensity.
 
 
-Hide Life
+### Hide Life
+
 Autonomous
 
 When this spell is cast, the caster loses one Hit Point from every location, that are
@@ -2324,7 +2251,8 @@ can create soul jars which are near invulnerable to harm, forcing their foes to 
 with innovative methods for keeping them from returning.
 
 
-Sense Life
+### Sense Life
+
 Concentration
 
 A variation of the Sense spell in the Legend Core Rulebook, this version can detect
@@ -2335,15 +2263,15 @@ Intensity. Similarly it is blocked by magical wards of equal or higher Intensity
 Magnitude – Countermagic, Spell Resistance or Shield for example.
 
 
-Sense Undeath
+### Sense Undeath
+
 Concentration
 
 As for Sense Life but detects the existence of undead beings or energy within range.
 
 
-                                                         55
-Alex Greene (order #3262370)                                                                                      7
-       Store Manna
+### Store Manna
+
 Autonomous
 
 Store Manna is used to create a metaphysical storage vessel for Magic Points gathered
@@ -2351,11 +2279,11 @@ from sacrificed life energy. It is cast as part of making a bloodletting or sacr
 the duration of the spell, any Magic Points in surplus of casting the Store Manna itself
 are held ready for the sorcerer’s use.
 
-For example Xuthoth performs a ritual avulsion, killing seven black goats, whilst casting
-Store Manna. The sacrifice reaps 7 Magic Points, of which 1 Magic Point is used to fuel
-the un-manipulated spell and the remaining 6 Magic Points are stored until the spell
-expires. Xuthoth then has a less than twenty minutes to use those Magic Points to locate some
-annoying interlopers and deal with them.
+> For example Xuthoth performs a ritual avulsion, killing seven black goats, whilst casting
+> Store Manna. The sacrifice reaps 7 Magic Points, of which 1 Magic Point is used to fuel
+> the un-manipulated spell and the remaining 6 Magic Points are stored until the spell
+> expires. Xuthoth then has a less than twenty minutes to use those Magic Points to locate some
+> annoying interlopers and deal with them.
 
 Once the Store Manna expires, either coming to the end of its duration or from being
 dispelled, any remaining Magic Points are lost. The maximum number of Magic Points
@@ -2370,7 +2298,8 @@ This spell is often vital to sorcerers who become undead and are no longer able 
 their own life-force.
 
 
-Switch Body
+### Switch Body
+
 Autonomous, Resist (Persistence)
 
 Using this spell a sorcerer can transfer his consciousness into another body. Unless the
@@ -2390,11 +2319,7 @@ reduce all physical skills to half value.
 Since the exchange reverts once the spell expires, it is normally used as a method of
 subversion or even covert espionage if the sorcerer casts it on a sleeping target, who may
 remain blissfully unaware of the switch. If the sorcerer’s body is killed before the spell
-
-56
-Alex Greene (order #3262370)                                                                            7
-Alex Greene (order #3262370)   7
-       concludes they themselves die when they return to it. The caster can always terminate
+concludes they themselves die when they return to it. The caster can always terminate
 the spell early if it looks like the target’s body is about to be slain. Technically the spell
 could be used to briefly escape the death of their own body in order to wreak revenge
 or find help.
@@ -2404,7 +2329,8 @@ permanently inhabit the body of a target and assume its social status and any ot
 benefits if he can carry off exchange.
 
 
-Thicken Blood
+### Thicken Blood
+
 Autonomous, Resist (Resilience)
 
 Thicken Blood slows down the reactions and speed of a victim with a maximum
@@ -2413,7 +2339,8 @@ of Combat Actions per round reduced by one. In addition the Initiative of the ta
 reduced by the Intensity of the spell to a minimum of 1.
 
 
-Torment
+### Torment
+
 Concentration, Resist (Resilience)
 
 The caster can inflict dreadful amounts of pain on a victim on a target with a maximum
@@ -2422,27 +2349,23 @@ damage is caused but the agony hinders the victim. When the target attempts any 
 test, the dice roll must also be equal or less than their Resilience; else they fail due to
 the incessant torment.
 
-Kharim (Resilience 67%, Hack and Slash Combat 103%, Evade 60%) tracks down the
-diabolical church of Sethi. Assaulting their subterranean fortress, he scythes his way past
-several guardians, then enters the main sanctum. Awaiting his arrival, the leader of the
-serpent mages arrogantly casts Torment on the vengeful barbarian. Kharim fails the opposed
-test and staggers under the crushing pain. Faced with certain doom unless he can kill the
-sorcerer, Kharim stumbles forwards and attempts to cut down his foe. He rolls an 85, which
-although normally a success with his Combat Style, exceeds the value of his Resilience. Thus
-he is overcome with a sickening wave of agony and the attack fails, leaving the warrior in
-serious trouble. As the serpent mage begins a new spell, the warrior realises he is outmatched
-and instead tries to dive into a side tunnel in order to escape. This time he rolls a 23 against
-his Evade skill. Since the roll also succeeds against his Resilience, he manages to grit his
-teeth, briefly overcome the pain and tumble into the passageway. Fortunately this takes him
-outside the range of the Torment spell and once free of its effects, Kharim escapes to plan a
-different path of vengeance.
+> Kharim (Resilience 67%, Hack and Slash Combat 103%, Evade 60%) tracks down the
+> diabolical church of Sethi. Assaulting their subterranean fortress, he scythes his way past
+> several guardians, then enters the main sanctum. Awaiting his arrival, the leader of the
+> serpent mages arrogantly casts Torment on the vengeful barbarian. Kharim fails the opposed
+> test and staggers under the crushing pain. Faced with certain doom unless he can kill the
+> sorcerer, Kharim stumbles forwards and attempts to cut down his foe. He rolls an 85, which
+> although normally a success with his Combat Style, exceeds the value of his Resilience. Thus
+> he is overcome with a sickening wave of agony and the attack fails, leaving the warrior in
+> serious trouble. As the serpent mage begins a new spell, the warrior realises he is outmatched
+> and instead tries to dive into a side tunnel in order to escape. This time he rolls a 23 against
+> his Evade skill. Since the roll also succeeds against his Resilience, he manages to grit his
+> teeth, briefly overcome the pain and tumble into the passageway. Fortunately this takes him
+> outside the range of the Torment spell and once free of its effects, Kharim escapes to plan a
+> different path of vengeance.
 
+### Transfer Wound
 
-
-
-58
-Alex Greene (order #3262370)                                                                              7
-         Transfer Wound
 Concentration, Resist (Resilience)
 
 For the duration of the spell, the caster can transfer physical damage from the target to
@@ -2457,7 +2380,8 @@ divided equally between each recipient. In this circumstance the spell is rarely
 utilised in the other direction since it is typically fatal to the caster.
 
 
-Transmute Blood
+### Transmute Blood
+
 Concentration, Resist (Resilience)
 
 Another fearsome spell of deadly potency, this spell transmogrifies a target’s blood
@@ -2471,15 +2395,16 @@ of descriptive atmosphere as to how the victim dies. Each variant of the spell i
 to its originating church, guild, school or master. Examples include but are not limited
 to Transmute Blood to Maggots, Poison, Fire, Acid or even Gemstones!
 
-Xuthoth looked at the still smouldering remains of his great, great grandson. Such a
-disappointment, despite offering every chance to betray his former kingdom the youth had
-remained piously loyal, to the point of attacking his own ancestor. The sorcerer regretted the
-loss, but looked appreciatively at the fantastically complex branching network of fine metal
-filaments, still dimly glowing red in the darkness. Transmute Blood to Molten Iron was such
-an aesthetic spell...
+> Xuthoth looked at the still smouldering remains of his great, great grandson. Such a
+> disappointment, despite offering every chance to betray his former kingdom the youth had
+> remained piously loyal, to the point of attacking his own ancestor. The sorcerer regretted the
+> loss, but looked appreciatively at the fantastically complex branching network of fine metal
+> filaments, still dimly glowing red in the darkness. Transmute Blood to Molten Iron was such
+> an aesthetic spell...
 
 
-Trap Soul
+### Trap Soul
+
 Autonomous, Resist (Persistence)
 
 Trap Soul affects targets with a maximum POW of three times the spell’s Intensity. If the
@@ -2489,26 +2414,24 @@ enter any spiritual plane, realm or their destined afterlife (depending on the s
 are also cut off from all remote magical contact save for spells designed to communicate
 with spirits or the dead, whose Magnitude exceeds that of the Trap Soul spell.
 
-
-                                                          59
-Alex Greene (order #3262370)                                                                                       7
-       Enchantments using this spell are a very effective way of creating sorcerous traps or
+Enchantments using this spell are a very effective way of creating sorcerous traps or
 incorporeal undead. A favourite trick is to imprison the soul in the place of death
 or even their own mortal remains, where it endures as a haunting or other lingering
 malaise.
 
-Natchak the thief bypassed the last of the dusty spike filled pits and entered the cobweb filled
-inner tomb. Before him lay the legendary Skull of Nurgul, its eye sockets filled by huge rubies
-and teeth replaced by square cut diamonds which gleamed in the light of his guttering torch.
-Checking for any other nefarious traps he drew near to the altar, reaching forth to grasp the
-priceless skull. As he touched its bone numbingly cold surface the dreadful artefact raised up
-into the air, its jaws chattering together with evil malice. A flash of hellish light momentarily
-illuminated the chamber, then with a dreadful scream the charred and lifeless body of the
-thief dropped upon the floor, whilst his soul was drawn into the gems of the skull; joining in
-eternal torment with those others who had proceeded him...
+> Natchak the thief bypassed the last of the dusty spike filled pits and entered the cobweb filled
+> inner tomb. Before him lay the legendary Skull of Nurgul, its eye sockets filled by huge rubies
+> and teeth replaced by square cut diamonds which gleamed in the light of his guttering torch.
+> Checking for any other nefarious traps he drew near to the altar, reaching forth to grasp the
+> priceless skull. As he touched its bone numbingly cold surface the dreadful artefact raised up
+> into the air, its jaws chattering together with evil malice. A flash of hellish light momentarily
+> illuminated the chamber, then with a dreadful scream the charred and lifeless body of the
+> thief dropped upon the floor, whilst his soul was drawn into the gems of the skull; joining in
+> eternal torment with those others who had proceeded him...
 
 
-Vomit Blood
+### Vomit Blood
+
 Autonomous, Resist (Resilience)
 
 The target of this horrific spell who fails to resist the magic begins to vomit profuse
@@ -2520,7 +2443,8 @@ A sorcerer may cast Vomit Blood on a target with a maximum SIZ of three times th
 spell’s Intensity.
 
 
-Weep Blood
+### Weep Blood
+
 Autonomous, Resist (Resilience)
 
 The sorcerer causes a target to start bleeding into his eyes or similar vision based organs,
@@ -2531,13 +2455,8 @@ The copious amounts of blood running from a victim’s eyes can be disconcerting
 onlookers unaffected by the magic.
 
 
+# New Magical Skills
 
-
-60
-Alex Greene (order #3262370)                                                                               7
-                               61
-Alex Greene (order #3262370)        7
-                       New Magical Skills
 Whilst any thaumaturgist, be they sorcerer, priest or other practitioner can be a potent
 force due to their spell casting abilities, a number of other magical techniques are available
 to those utilising blood magic, allowing for the creation of far greater phenomena.
@@ -2570,28 +2489,12 @@ group of individuals without a serious reason.
 The three magical disciplines are Concert Casting, Enchanting and Summoning.
 
 
-Concert Casting
+## Concert Casting
+
 In many campaign settings although a lone magic user of high skill is capable of
 invoking some amazing effects, there are finite limits to their power. No single sorcerer
 can level a city, no isolated priest awaken a mountain to life. Such limits on personal
 power have saved nations and entire races from utter annihilation.
-
-
-
-62
-Alex Greene (order #3262370)                                                                           7
-         Global Disasters
-Concert cast spells offer a terrible temptation to crush entire armies or even kingdoms
-with a single magical effort. This is often reflected in the fantasy genre, such as the
-Sighing Desert in the Young Kingdoms which was created during the Quarzhasaat War
-when a spell was miscast. Or the Forest of Troos.
-
-Many odd and inexplicable effects could be the result of a catastrophic spell concert
-failure; twisted terrain, unusual atmospheric climates, strange and tortured ecologies.
-These should be encouraged in game worlds where the Concert skill is permitted, the
-legends of their creation acting as a warning against its frivolous use.
-
-
 
 However, where one caster is restricted, multiple casters working in concert can
 combine their efforts to overcome these boundaries. Called rituals, gestalts and even
@@ -2620,18 +2523,25 @@ concert cast certain miracles for festivals for example, granting blessings acro
 city, whilst a guild of sorcerers could utilise it for cyclopean construction projects,
 raising roads, bridges and aqueducts across nations.
 
+#### Global Disasters
 
-Concert (INT + CHA)
+Concert cast spells offer a terrible temptation to crush entire armies or even kingdoms
+with a single magical effort. This is often reflected in the fantasy genre, such as the
+Sighing Desert in the Young Kingdoms which was created during the Quarzhasaat War
+when a spell was miscast. Or the Forest of Troos.
+
+Many odd and inexplicable effects could be the result of a catastrophic spell concert
+failure; twisted terrain, unusual atmospheric climates, strange and tortured ecologies.
+These should be encouraged in game worlds where the Concert skill is permitted, the
+legends of their creation acting as a warning against its frivolous use.
+
+### Concert (INT + CHA)
 The Concert skill allows a group of two or more casters to pool their magical skills
 together in order to create a spell of greatly augmented effect. To form a concert every
 contributor must know the Concert skill and one member must be designated the
 coordinator of the gestalt.
 
-
-
-                                                    63
-Alex Greene (order #3262370)                                                                                 7
-       The time taken to build the concert is equal to one minute per participant. Once the
+The time taken to build the concert is equal to one minute per participant. Once the
 gestalt is fully formed, then depending on the type of high magic, it may then invoke
 spells or spirit combat as needed using the normal times for those activities. Thus a
 sorcery spell cast by metaconcert takes the same length of time as a solo sorcerer requires.
@@ -2677,17 +2587,15 @@ magical effort, be it a spell or initiating a spirit combat, requires the leader
 to roll against their un-augmented Concert skill. If used to cast a spell with the Resist
 Trait, it is this dice roll which targets must roll against to avoid the magic.
 
-Critical: As for a success, and in addition a miracle is not placed beyond use, spells
+**Critical**: As for a success, and in addition a miracle is not placed beyond use, spells
 consume no Magic Points and the first attack of any spiritual conflict is unopposed.
 
-64
-Alex Greene (order #3262370)                                                                             7
-         Success: The concert manages to retain its cohesion, the magic is cast or spiritual
+**Success**: The concert manages to retain its cohesion, the magic is cast or spiritual
 conflict begins.
 
-Failure: The concert collapses and nothing is achieved.
+**Failure**: The concert collapses and nothing is achieved.
 
-Fumble: The concert collapses and something very bad happens. Roll on the
+**Fumble**: The concert collapses and something very bad happens. Roll on the
 appropriate Mishaps table.
 
 Once the concert ceases, any spells cast by the gestalt expire. Likewise, any entities
@@ -2698,45 +2606,36 @@ The following tables give examples of what can happen if a concert is dissolved 
 uncontrolled manner. Add the number of participants in the concert to any roll on
 these tables.
 
-Spell Mishaps Table
-1D100 + Number of Sorcery Mishap
-Concert Members
-01–15             The concert members each suffer 1D8 damage to all locations.
-16–29             The concert members lose all of their remaining Magic Points
-or Miracles.
-30–42             The concert members collapse into an untreatable coma
-lasting 1D8 hours.
-43–64             The concert members cannot perform any magic for 1D8 days
-65-75             The concert members are reduced to a drooling, gibbering
-idiots for 1D8 weeks.
-76–85             The concert members gain a permanent insanity.
-86–94             The magic being performed affects everyone within range,
-whether friend or foe.
-95–102            The effect or magnitude of the magic becomes multiplied by
-the number of concert members.
-103–109           The magic being performed becomes permanent, forever
-removing the MPs or miracle from the concert members.
-110–115           Something irreversibly horrific occurs to the concert members,
-for example they all physically meld into a single chaotic body,
-they immolate in flames and die in agony, they transform into
-undead, and so on.
-116–120           Utter annihilation of everything for a radius in kilometres
-equal to the number of concert members.
-121+              Roll Twice and take the higher result.
+#### Spell Mishaps Table
+
+| 1D100 + Number of Concert Members | Sorcery Mishap |
+|-----------------------------------|----------------|
+| 01–15                             | The concert members each suffer 1D8 damage to all locations. |
+| 16–29                             | The concert members lose all of their remaining Magic Points or Miracles. |
+| 30–42                             | The concert members collapse into an untreatable coma lasting 1D8 hours. |
+| 43–64                             | The concert members cannot perform any magic for 1D8 days |
+| 65-75                             | The concert members are reduced to a drooling, gibbering idiots for 1D8 weeks. |
+| 76–85                             | The concert members gain a permanent insanity. |
+| 86–94                             | The magic being performed affects everyone within range, whether friend or foe. |
+| 95–102                            | The effect or magnitude of the magic becomes multiplied by the number of concert members. |
+| 103–109                           | The magic being performed becomes permanent, forever removing the MPs or miracle from the concert members. |
+| 110–115                           | Something irreversibly horrific occurs to the concert members, for example they all physically meld into a single chaotic body, they immolate in flames and die in agony, they transform into undead, and so on. |
+| 116–120                           | Utter annihilation of everything for a radius in kilometres equal to the number of concert members. |
+| 121+                              | Roll Twice and take the higher result. |
 
 To calculate the effect of the gestalt, sum up the Concert skill of every participant. In
 addition, the individual magical skills should be separately totalled as described below.
 
-Type of Magic            Augmented Skills
-Divine Magic             Invoke and Piety
-Sorcery                  Grimoire and Manipulation
-                                                 65
-Alex Greene (order #3262370)                                                                              7
-       The combined value of the group’s two magical skills is capped by the sum of their
+| Type of Magic   | Augmented Skills |
+|-----------------|------------------|
+| Divine Magic    | Invoke and Piety |
+| Sorcery         | Grimoire and Manipulation |
+
+The combined value of the group’s two magical skills is capped by the sum of their
 Concert skill. It is the metaconcert leader decides how much of each skill is utilised when
 the gestalt is formed, these values remaining static for the remainder of the concert.
 
-Divine Magic: The magic may be cast as a single miracle at the assigned Piety value;
+**Divine Magic**: The magic may be cast as a single miracle at the assigned Piety value;
 or split between a number of targets, each fragment possessing an equal share of the
 Piety value. Since Divine Magic is backed by the inconceivable strength of a deity, any
 concert cast miracle imposes a Resistance roll penalty of one tenth of its Invoke value.
@@ -2744,44 +2643,40 @@ concert cast miracle imposes a Resistance roll penalty of one tenth of its Invok
 The range of any Divine Magic is based upon the combined POW of all the concert
 members.
 
-An Aztec civil war breaks out. Facing an assault on one of their ziggurat temples, eleven priests
-of Huitzilopochtli form a ritual concert to defend the sacred spot. After spending time to form the
-gestalt, they are ready to repulse the interlopers, a group of undead Jaguar Knights glistening with
-protective sorceries. Between them the priests have a combined Invoke of 800% and Piety of 775%.
-However, their combined Concert skill is only 600%. The priest in charge, Eyes-of-Fire, decides to
-use the entire 600% limit as the concert’s Piety, casting Beast Form at Magnitude 60 to transform
-one of the temple guards into a colossal, monstrous eagle. To further bias matters, the following round
-he decides to follow up with six Sunspear spells at Magnitude 10, but since no points were placed in
-Invoke the victims of the deadly spells may resist without any additional penalty.
+> An Aztec civil war breaks out. Facing an assault on one of their ziggurat temples, eleven priests
+> of Huitzilopochtli form a ritual concert to defend the sacred spot. After spending time to form the
+> gestalt, they are ready to repulse the interlopers, a group of undead Jaguar Knights glistening with
+> protective sorceries. Between them the priests have a combined Invoke of 800% and Piety of 775%.
+> However, their combined Concert skill is only 600%. The priest in charge, Eyes-of-Fire, decides to
+> use the entire 600% limit as the concert’s Piety, casting Beast Form at Magnitude 60 to transform
+> one of the temple guards into a colossal, monstrous eagle. To further bias matters, the following round
+> he decides to follow up with six Sunspear spells at Magnitude 10, but since no points were placed in
+> Invoke the victims of the deadly spells may resist without any additional penalty.
 
 Once cast, every participant loses one instance of that spell. To ensure that all the
 members of the concert have the same prepared miracles, such rituals are planned in
 advance to give everyone a chance to pray for the correct magic.
 
-Sorcery: The sorcery spell can be modified by either producing a greater Intensity,
+**Sorcery**: The sorcery spell can be modified by either producing a greater Intensity,
 applying more levels of manipulation, or a combination of both. All manipulation
 effects are based upon the concert leader’s personal POW Characteristic.
 
-The sorceress noble lady, Countess Zocha, leads her cabal of five other necromantic cult
-members in a magical attack upon a Temple of Mystra. Transporting several wagons full of
-petrified bones to a ridge overlooking the hated place of worship, they form a metaconcert;
-resulting in the gestalt gaining an overall Grimoire skill of 340% and Manipulation of
-250%. This exceeds the combined Concert skill of the necromancers which is only 480%.
-So Lady Zocha decides to use only 230% of the Grimoire skill and all of the accumulated
-Manipulation, casting a very large Animate Fossil spell (69 SIZ of bones) with 5 points
-of Manipulation in Range (1.9 km), 7 points in Duration (over two hours), 10 points in
-Magnitude to resist dispelling, and 3 points into Targets allowing the four complete dinosaur
-skeletons to be raised, ready to instil terror on the pacifistic church!
+> The sorceress noble lady, Countess Zocha, leads her cabal of five other necromantic cult
+> members in a magical attack upon a Temple of Mystra. Transporting several wagons full of
+> petrified bones to a ridge overlooking the hated place of worship, they form a metaconcert;
+> resulting in the gestalt gaining an overall Grimoire skill of 340% and Manipulation of
+> 250%. This exceeds the combined Concert skill of the necromancers which is only 480%.
+> So Lady Zocha decides to use only 230% of the Grimoire skill and all of the accumulated
+> Manipulation, casting a very large Animate Fossil spell (69 SIZ of bones) with 5 points
+> of Manipulation in Range (1.9 km), 7 points in Duration (over two hours), 10 points in
+> Magnitude to resist dispelling, and 3 points into Targets allowing the four complete dinosaur
+> skeletons to be raised, ready to instil terror on the pacifistic church!
 
 A concert cast sorcery spell, costs every participant the same amount of Magic Points it
 would normally require if cast singly.
 
+## Enchantments
 
-
-
-66
-Alex Greene (order #3262370)                                                                                     7
-         Enchantments
 In many fantasy worlds, the creation of items blessed with supernatural power has
 always been a vital commodity. Known as enchantments, such articles enable the
 storing, transportation or extension of magic. This technique allows for example, a
@@ -2824,12 +2719,8 @@ whether as eternal sorcerous traps, famous
 treasures to be discovered or heirlooms
 passed down to those proven as worthy.
 
+### Enchant (POW x 2)
 
-
-
-                                                    67
-Alex Greene (order #3262370)                                                                                 7
-       Enchant (POW x 2)
 Enchant is an advanced skill requiring two Improvement Rolls to learn if a n Adventurer
 can locate somebody to teach them the skill. However the specific rules for its use
 depend on the type of High Magic it is applied to.
@@ -2837,13 +2728,13 @@ depend on the type of High Magic it is applied to.
 Note that these rules are specifically tweaked for the use of magical energy produced
 from sacrificial techniques, as the associated examples will demonstrate.
 
+### Sorcery Enchantments
 
-Sorcery Enchantments
 The Enchant skill allows the creation of magical objects with either a temporary or
 continuous duration. There are three main types of objects that can be created:
-*	 Objects that enhance themselves (e.g. a sword enchanted with Damage Enhancement).
-*	 Objects that confer a benefit (or ‘curse’) on the wearer (e.g. a ring with Enhance DEX).
-*	 Objects that allow the user to impose a spell on a target (e.g. an arrow with Palsy).
+* Objects that enhance themselves (e.g. a sword enchanted with Damage Enhancement).
+* Objects that confer a benefit (or ‘curse’) on the wearer (e.g. a ring with Enhance DEX).
+* Objects that allow the user to impose a spell on a target (e.g. an arrow with Palsy).
 
 Temporarily enchanted items normally take the form of potions, powders or
 ammunition; which trigger when the item is broken, dispersed or digested – but only
@@ -2853,14 +2744,14 @@ damage incurred to generate the Magic Points used to power the spell does not he
 regenerate until the enchantment is completely used; or the sorcerer decides to allow
 the ‘held’ spell to lapse, at which point the article loses its magic and the spell fades.
 
-Xuthoth decides to manufacture a small glass sphere, within which is trapped a Thicken
-Blood spell. As it is designed to trigger upon shattering, he creates a Temporary Enchantment
-and emplaces the spell, augmenting it by assigning his Manipulation points to Magnitude,
-Range and Targets. The sphere will allow him to release the spell far faster than he could cast
-it in a combat situation. However, since he must generate the Magic Points for the spell by
-Exsanguination, the victim he uses as his source of blood suffers four levels of fatigue. Until
-the glass sphere is broken (or Xuthoth decides to allow the enchantment to lapse) the slave girl
-in question remains Exhausted, unable to recover any fatigue either naturally or magically.
+> Xuthoth decides to manufacture a small glass sphere, within which is trapped a Thicken
+> Blood spell. As it is designed to trigger upon shattering, he creates a Temporary Enchantment
+> and emplaces the spell, augmenting it by assigning his Manipulation points to Magnitude,
+> Range and Targets. The sphere will allow him to release the spell far faster than he could cast
+> it in a combat situation. However, since he must generate the Magic Points for the spell by
+> Exsanguination, the victim he uses as his source of blood suffers four levels of fatigue. Until
+> the glass sphere is broken (or Xuthoth decides to allow the enchantment to lapse) the slave girl
+> in question remains Exhausted, unable to recover any fatigue either naturally or magically.
 
 Permanent enchanted items are usually crafted from more substantial materials such as
 stone, wood or metal. Instead of containing a one-shot spell, they operate continuously.
@@ -2876,43 +2767,36 @@ is briefly riven. However lost Characteristic points, fatigue and even youth, sl
 at the rate of one point or level per week. On the other hand, if the creator is slain, then
 any enchantments his life-force empowers continue to function without problem.
 
+> Seeking additional protection against the incessant disturbances of fortuitous heroes in his
+> search for eternal youth, Prince Koura concludes he needs some new robes capable of stopping
+> an unexpected sword blow or treacherous spell. Finding some exquisite black silk looted long
+> ago from a travelling caravan, he orders his faithful slave Achmed to sew him the garment.
+> Once finished he performs the sacrificial rite necessary to enchant the robe. Koura weaves the
+> enchantment, combining both Damage Resistance and Spell Resistance, along with giving
+> the enchantment a very high Magnitude to defend against magical dispelling.
 
-68
-Alex Greene (order #3262370)                                                                              7
-         Seeking additional protection against the incessant disturbances of fortuitous heroes in his
-search for eternal youth, Prince Koura concludes he needs some new robes capable of stopping
-an unexpected sword blow or treacherous spell. Finding some exquisite black silk looted long
-ago from a travelling caravan, he orders his faithful slave Achmed to sew him the garment.
-Once finished he performs the sacrificial rite necessary to enchant the robe. Koura weaves the
-enchantment, combining both Damage Resistance and Spell Resistance, along with giving
-the enchantment a very high Magnitude to defend against magical dispelling.
+> As a Permanent Enchantment the robe costs the prince three Magic Points. Unable to use
+> the lifespan of others to create the wondrous item, he sacrifices several years of his own
+> life, costing him one point each of Characteristic STR, CON and CHA. Such aging is
+> permanent, causing him to weaken and develop wrinkles around his eyes. The sorcerer
+> however, considers the exchange well worth while as the robes provide near immunity the
+> various dangers he continues to experience on his increasingly urgent quest.
 
-As a Permanent Enchantment the robe costs the prince three Magic Points. Unable to use
-the lifespan of others to create the wondrous item, he sacrifices several years of his own
-life, costing him one point each of Characteristic STR, CON and CHA. Such aging is
-permanent, causing him to weaken and develop wrinkles around his eyes. The sorcerer
-however, considers the exchange well worth while as the robes provide near immunity the
-various dangers he continues to experience on his increasingly urgent quest.
+#### Alternate Sacrificial Restrictions for Enchantments
 
-
-
-
-Alternate Sacrificial Restrictions for Enchantments
 To help prevent runaway manufacture of enchantments a number of suggestions are
 available. These options are intended for temporary enchantments but if applicable can
 also be applied to permanent enchantments too.
-*	 The sacrificial victim must remain alive, else the enchantment fades.
-*	 In addition to the sacrificial costs, each enchantment created reduces a specific
+* The sacrificial victim must remain alive, else the enchantment fades.
+* In addition to the sacrificial costs, each enchantment created reduces a specific
 Characteristic by one point.
-*	 In addition to the sacrificial costs, the sorcerer permanently loses a number of
+* In addition to the sacrificial costs, the sorcerer permanently loses a number of
 points from his Grimoire Skill equal to the spell cost of the enchantment.
-*	 As above but loses points from the Enchant skill instead.
-*	 The enchantment costs the sorcerer a number of Improvement Rolls equal to its spell cost.
+* As above but loses points from the Enchant skill instead.
+* The enchantment costs the sorcerer a number of Improvement Rolls equal to its spell cost.
 
+#### Psychic Shock
 
-
-
-Psychic Shock
 The destruction of a permanent enchantment has detrimental effect on the sorcerer
 who empowered it. Linked by their metaphysical bond, the pain and shock of the
 sundering can induce strange consequences. These are risks which any enchanter must
@@ -2926,36 +2810,29 @@ psychic shocks on their foes.
 
 Roll once for the effect and a second time for the duration.
 
+| 1D10  | Shock Effect                          | 1D100 | Shock Duration |
+|-------|---------------------------------------|-------|----------------|
+| 1     | Blind                                 | 01–20 | A number of Combat Actions equal to the MP invested |
+| 2     | Catatonic                             | 21–35 | A number of Rounds equal to the MP invested |
+| 3     | Confused (lose 1 CA per round)        | 36–50 | A number of Minutes equal to the MP invested |
+| 4     | Deaf                                  | 51–60 | A number of Hours equal to the MP invested |
+| 5     | Delusional                            | 61–70 | A number of Days equal to the MP invested |
+| 6     | Dumb                                  | 71–80 | A number of Weeks equal to the MP invested |
+| 7     | Enfeebled (no ability to cast spells) | 81–85 | A number of Months equal to the MP invested |
+| 8     | Incapable (all skills at -20%)        | 86–90 | A number of Years equal to the MP invested |
+| 9     | Insane                                | 91–95 | A number of Decades equal to the MP invested |
+| 10    | Numb (no sense of touch)              | 96–00 | Permanent      |
 
+> Prince Koura placed a small drop of his blood and another year of his precious life into
+> the clay body of the homunculus. After it animated it flew off across the sea directed by his
+> mental commands. Wearied by the ritual he sat in his chair, watching through his winged
+> servant’s eyes. Hours later, when the tiny creature was impaled by the thrown dagger of some
+> scurvy Dhow captain, Koura cried out in agony as his invested life-force dissipated into the
+> aether. The shock sent tremors through his body, rendering him incapable of activity for
+> many minutes until he had fully recovered...
 
-                                                      69
-Alex Greene (order #3262370)                                                                                   7
-       1D10 Shock Effect                 1D100   Shock Duration
-1    Blind                        01–20   A number of Combat Actions equal to the MP
-invested
-2         Catatonic               21–35   A number of Rounds equal to the MP invested
-3         Confused (lose 1        36–50   A number of Minutes equal to the MP invested
-CA per round)
-4         Deaf                    51–60   A number of Hours equal to the MP invested
-5         Delusional              61–70   A number of Days equal to the MP invested
-6         Dumb                    71–80   A number of Weeks equal to the MP invested
-7         Enfeebled (no ability   81–85   A number of Months equal to the MP invested
-to cast spells)
-8         Incapable       (all    86–90   A number of Years equal to the MP invested
-skills at -20%)
-9         Insane                  91–95   A number of Decades equal to the MP invested
-10        Numb (no sense          96–00   Permanent
-of touch)
+#### Creating the Enchantment
 
-Prince Koura placed a small drop of his blood and another year of his precious life into
-the clay body of the homunculus. After it animated it flew off across the sea directed by his
-mental commands. Wearied by the ritual he sat in his chair, watching through his winged
-servant’s eyes. Hours later, when the tiny creature was impaled by the thrown dagger of some
-scurvy Dhow captain, Koura cried out in agony as his invested life-force dissipated into the
-aether. The shock sent tremors through his body, rendering him incapable of activity for
-many minutes until he had fully recovered...
-
-Creating the Enchantment
 To create an enchantment, a sorcerer first selects the spell(s) he wishes to cast into the
 object and decides which, if any, Manipulations will be added. Spells woven into an
 enchantment cannot be cast at a skill level greater than the value of the Enchant skill.
@@ -2976,9 +2853,8 @@ against their Enchant skill. A critical success reduces the amount of Magic Poin
 invested by a single point (to a minimum of one). A failure has no detrimental effect
 save that the enchantment failed but a fumble causes the sorcerer to not only fail but
 also lose all the Magic Points involved.
-70
-Alex Greene (order #3262370)                                                                           7
-         The Combine Manipulation can be used to create complex enchanted objects, however
+
+The Combine Manipulation can be used to create complex enchanted objects, however
 if any of the combined spells have the concentration trait then the combined spell as a
 whole gains the Concentration trait. If any of the combined spells have the Resistance
 Trait then whole spell gains that Resistance Trait. This may mean that a spell can
@@ -3025,10 +2901,8 @@ there is always at risk of such objects being accidentally activated by stray th
 magic, in which case it may discharge unexpectedly. For this reason, some sorcerers
 generally avoid creating permanent enchantments designed to inflict harm.
 
+### Concert Cast Enchantments
 
-                                                        71
-Alex Greene (order #3262370)                                                                                     7
-       Concert Cast Enchantments
 The Concert skill can be used by groups of thaumaturgists to create very large scale
 enchantments. Those involved in the ritual can also total their Enchant skill to raise
 the capping limit. In such a case, every participant must invest an equal share of the
@@ -3039,12 +2913,8 @@ If a group creates a permanent enchantment, it may un-weave the artefact at a la
 date. However, all the surviving members of the original concert must be present to
 perform the task, otherwise it fails.
 
+## Summoning
 
-
-
-72
-Alex Greene (order #3262370)                                                                    7
-         Summoning
 Summoning allows casters to bring forth creatures native to other planes of existence.
 Generally known as demons, meddling with these powers is highly dangerous, not only
 due to the energies required opening portals to other dimensions but also due to the alien
@@ -3059,8 +2929,8 @@ dangerous servants however, difficult to control and potentially treacherous.
 Priests and sorcerers are all capable of learning and utilising this skill. The specific rules
 for summoning are as follows.
 
+### Summon (INT + CHA)
 
-Summon (INT + CHA)
 Summon is a ritual skill that combines the techniques of manifesting and controlling
 extra-dimensional beings, generally known as demons. It may be utilised in several
 ways, either to summon a random creature, or call forth a specific entity which the
@@ -3082,68 +2952,48 @@ Similar to concert cast spells, participants in a ritual summoning pool their Su
 under the leadership of a single coordinator. The maximum number of Magic Points which
 can be invested in the summoning is one tenth of the group’s combined Summon skills.
 
-Mepath-Ka, an ancient wizard from the primordial era of Atlantis, convenes a summoning
-ritual to exact retribution for the death of a favoured servant. Aided by his six foremost adepts,
-they combine their Summon skills, gaining a total of 365%. Technically the ritual may have
-up to 37MP placed into the summoning. However, the wizard decides to call forth something a
-little more modest and chooses to summon an entity he has summoned before. This being ‘only’
-requires a ritual of 28MP to summon, requiring the cabal to spend over a day to carefully clean
-and ward the summoning area, then sit in ritual meditation to form the portal.
+> Mepath-Ka, an ancient wizard from the primordial era of Atlantis, convenes a summoning
+> ritual to exact retribution for the death of a favoured servant. Aided by his six foremost adepts,
+> they combine their Summon skills, gaining a total of 365%. Technically the ritual may have
+> up to 37MP placed into the summoning. However, the wizard decides to call forth something a
+> little more modest and chooses to summon an entity he has summoned before. This being ‘only’
+> requires a ritual of 28MP to summon, requiring the cabal to spend over a day to carefully clean
+> and ward the summoning area, then sit in ritual meditation to form the portal.
 
-
-
-                                                          73
-Alex Greene (order #3262370)                                                                                       7
-       Once preparations have been completed the ritual leader must roll against their un-
+Once preparations have been completed the ritual leader must roll against their un-
 augmented Summon skill. The result of the roll determines the effect of the summoning.
 
-Critical: The demon arrives in a magnanimous or subservient mood, willingly
+**Critical**: The demon arrives in a magnanimous or subservient mood, willingly
 following the ritual leader’s commands without question.
 
-Success: The demon arrives but requires convincing to perform a service. The ritual
+**Success**: The demon arrives but requires convincing to perform a service. The ritual
 leader must win an opposed roll of their Influence against the demon’s Persistence,
 otherwise the creature returns to its home plane (or if no wards exist, act in accordance
 to its Emotional Attitude).
 
-Failure: The demon arrives and finds a flaw in the containment wards. Depending
+**Failure**: The demon arrives and finds a flaw in the containment wards. Depending
 on its Emotional Attitude it will attempt to take advantage of, subvert or slay its
 summoners, who have no control over it.
 
-Fumble: The portal fails to form correctly and the wards fail catastrophically. Roll on
+**Fumble**: The portal fails to form correctly and the wards fail catastrophically. Roll on
 the Summoning Mishaps table.
 
-Summoning Mishaps
-1D100 Mishap
-01–20 The portal explodes, inflicting the summoners with 1D8 damage to all
-locations.
-21–35 The portal collapses draining the summoners of all of their Magic Points
-or Miracles.
-36–50 The portal warps dragging the consciousness of the summoners into the
-ethereal realms, placing them in an untreatable coma lasting 1D8 hours.
-51–60 Before the portal crumples, the summoners glimpse some ghastly cyclopean
-horror, reducing them to drooling, gibbering idiots for 1D8 days.
-61–70 The portal forms, but summons a random demonic entity or entities of
-equivalent MP value and extremely hostile nature.
-71–80 The portal inverts, throwing the summoners into an alternate plane for the
-intended duration, their reception depends on the Emotional Attitude of
-the being they tried to summon.
-81–85 The portal warps out of control, multiplying the number of demons
-summoned by the number of participants in the ritual.
-86–90 Different portals equal in number to the summoners open, each spewing
-random demons which immediately begin to battle, overrunning the local
-area.
-91–95 The portal rips open a permanent gateway between the two planes, allowing
-demonic hordes free access to Nuera, until it can be shut. The portal has
-a Magnitude equal to the total Magic Point cost originally invested in it.
-96–00 The summoners attract the attention of a long imprisoned minor deity,
-which permanently transfers itself and its followers through the rift and
-begins a war of extinction against the inhabitants of Nuera.
+#### Summoning Mishaps
 
+| 1D100 | Mishap |
+|-------|--------|
+| 01–20 | The portal explodes, inflicting the summoners with 1D8 damage to all locations. |
+| 21–35 | The portal collapses draining the summoners of all of their Magic Points or Miracles. |
+| 36–50 | The portal warps dragging the consciousness of the summoners into the ethereal realms, placing them in an untreatable coma lasting 1D8 hours. |
+| 51–60 | Before the portal crumples, the summoners glimpse some ghastly cyclopean horror, reducing them to drooling, gibbering idiots for 1D8 days. |
+| 61–70 | The portal forms, but summons a random demonic entity or entities of equivalent MP value and extremely hostile nature. |
+| 71–80 | The portal inverts, throwing the summoners into an alternate plane for the intended duration, their reception depends on the Emotional Attitude of the being they tried to summon. |
+| 81–85 | The portal warps out of control, multiplying the number of demons summoned by the number of participants in the ritual. |
+| 86–90 | Different portals equal in number to the summoners open, each spewing random demons which immediately begin to battle, overrunning the local area. |
+| 91–95 | The portal rips open a permanent gateway between the two planes, allowing demonic hordes free access to Nuera, until it can be shut. The portal has a Magnitude equal to the total Magic Point cost originally invested in it. |
+| 96–00 | The summoners attract the attention of a long imprisoned minor deity, which permanently transfers itself and its followers through the rift and begins a war of extinction against the inhabitants of Nuera. |
 
-
-74
-Alex Greene (order #3262370)                                                                       7
-         Once summoned, a demon remains for a minimum of an hour. The duration can be
+Once summoned, a demon remains for a minimum of an hour. The duration can be
 extended if further Magic Points are diverted into keeping the demonic manifestation
 stable. This requires the participants remain locked in their ritual and feed an extra
 Magic Point per hour via their metaphysical link to the creature. If the ritual is disrupted
@@ -3161,20 +3011,21 @@ true to say that the associated sacrifice will require multiple victims.
 Such large scale rituals can prove to be difficult in terms of providing enough sacrificial
 victims, especially if the entity concerned has a specific requirement.
 
-After preparing the summoning area, Mepath-Ka begins seeking the three red-headed
-virgins whose souls were required to feed the infernal beast. Locating young virgins of true
-provenance proves more difficult than initially expected and only two of auburn locks were
-found and unbeknownst to the sorcerer his less than trustworthy acolytes substituted a
-brunette with dyed hair as the last.
+> After preparing the summoning area, Mepath-Ka begins seeking the three red-headed
+> virgins whose souls were required to feed the infernal beast. Locating young virgins of true
+> provenance proves more difficult than initially expected and only two of auburn locks were
+> found and unbeknownst to the sorcerer his less than trustworthy acolytes substituted a
+> brunette with dyed hair as the last.
 
-Not suspecting such deception the sorcerer initiates a night of stressful effort. Eventually the
-demon arrives and sensing the crude trick, breaks free of its confinement and lays waste
-to Mepath-Ka’s home. Unfortunately for his treacherous acolytes, they lack the same self
-preservation instinct of the aged wizard and are trapped in the summoning chamber when
-the escaping ancient one locks and bars the door behind him...
+> Not suspecting such deception the sorcerer initiates a night of stressful effort. Eventually the
+> demon arrives and sensing the crude trick, breaks free of its confinement and lays waste
+> to Mepath-Ka’s home. Unfortunately for his treacherous acolytes, they lack the same self
+> preservation instinct of the aged wizard and are trapped in the summoning chamber when
+> the escaping ancient one locks and bars the door behind him...
 
 
-Designing the Demonic Creature
+### Designing the Demonic Creature
+
 The final form and powers of the demon can either be handled in a free-form manner,
 the leader of the summoning ritual making the relevant choices, or the Games Master
 can pre-prepare a number of specific demons, each one a specific individual known to
@@ -3184,46 +3035,40 @@ Magic Points invested in the ritual are used to pay for the Characteristics, imp
 skills, protections, mystical abilities and other random features.
 
 Use the following design steps to create an otherworld entity:
-*	 Spend Magic Points to purchase its Characteristics.
-*	 Roll twice on the Demonic Physique table to determine its form and calculate
-locational Hit Points.
-*	 Roll 1D3 times on the Natural Weapons table and calculate the damage, size and
-reach of each armament.
-*	 Roll on the Natural Protection table to determine the appearance and armour
-value of its outer layer.
-                                                        75
-Alex Greene (order #3262370)                                                                                     7
-       *	   Spend Magic Points to improve its skills.
-*	   Spend Magic Points to assign additional protections.
-*	   Spend Magic Points to grant it mystical abilities.
-*	   Spend any remaining Magic Points to purchase Random Features.
-*	   Roll on the Emotional Attitude table.
+* Spend Magic Points to purchase its Characteristics.
+* Roll twice on the Demonic Physique table to determine its form and calculate locational Hit Points.
+* Roll 1D3 times on the Natural Weapons table and calculate the damage, size and reach of each armament.
+* Roll on the Natural Protection table to determine the appearance and armour value of its outer layer.\
+* Spend Magic Points to improve its skills.
+* Spend Magic Points to assign additional protections.
+* Spend Magic Points to grant it mystical abilities.
+* Spend any remaining Magic Points to purchase Random Features.
+* Roll on the Emotional Attitude table.
 
-Purchase Characteristics
+#### Purchase Characteristics
+
 Magic Points must be invested to pay for the creature’s Characteristics. Since demonic
 entities arriving in the world must possess all seven Characteristics this places a
 lower limit of 7 Magic Points for any summoning. Such tiny beings are often called
 Homunculi if vaguely humanoid in shape.
 
-Demon Characteristic Costs
-MP Cost              Characteristic Value
-1                    1D6
-2                    1D6+6
-3                    1D6+12
-4                    1D6+18
-5                    1D6+24
-Each +1              Add an extra +6
+#### Demon Characteristic Costs
+
+| MP Cost            | Characteristic Value |
+|--------------------|----------------------|
+| 1                  | 1D6                  |
+| 2                  | 1D6+6                |
+| 3                  | 1D6+12               |
+| 4                  | 1D6+18               |
+| 5                  | 1D6+24               |
+| Each +1            | Add an extra +6      |
 
 A summoned demon has any Common Skill suitable to its form and original plane. These
 are calculated as per normal but have a base value of 50+Pertinant Characteristics. For
 example a demon with STR 16 and DEX 15 would have a default Unarmed skill of 81%.
 
+#### Determine Physical Appearance
 
-
-
-76
-Alex Greene (order #3262370)                                                                     7
-         Determine Physical Appearance
 Once the Characteristics of the summoned creature have been selected, the summoner
 should determine its shape. These should be randomly generated unless the summoning
 has called forth a known species.
@@ -3234,72 +3079,132 @@ body parts or surface appearance. For example rolling Arachnine and Feline could
 create a furry eight legged body form with a cat head instead of a spider, a chitinous cat
 shape with compound eyes, or anything in between which can be imagined.
 
-Demon Physique Type
-1D100     Species                Description        Hit Location Chart
-01–04     Arachnine              Spider             Arachnid
-05–08     Avian                  Bird               Avian
-09–12     Canine                 Dog                Quadruped
-13–16     Caprine                Goat               Quadruped
-17–20     Cancrine               Crab               Decapod
-21–24     Crocodilian            Crocodile          Quadruped – Tailed
-25–28     Equine                 Horse              Quadruped
-29–32     Feline                 Cat                Quadruped – Tailed
-33–36     Glirine                Rodent             Quadruped – Tailed
-37–38     Hirudinal              Leech              Gastropod
-39–40     Humaniform             Human              Biped
-41–44     Insectile              Insect             Hexapod
-45–48     Lupine                 Wolf               Quadruped
-49–52     Noctillionine          Bat                Avian
-53–56     Octopine               Octopus            Cephalopod
-57–60     Ophidian               Snake              Serpent
-61–64     Piscine                Fish               Piscine
-65–68     Porcine                Boar               Quadruped
-69–72     Ranine                 Frog               Quadruped – Jumping
-73–76     Saurian                Lizard             Quadruped – Tailed
-77–80     Scorpioid              Scorpion           Arachnid – Tailed
-81–84     Simian                 Ape                Biped
-85–88     Taurine                Bull               Quadruped
-89–92     Ursine                 Bear               Quadruped
-93–96     Vermian                Worm               Gastropod
-97–00     Vespine                Wasp               Hexapod – Winged
+#### Demon Physique Type
 
+| 1D100   | Species              | Description      | Hit Location Chart |
+|---------|----------------------|------------------|--------------------|
+| 01–04   | Arachnine            | Spider           | Arachnid           |
+| 05–08   | Avian                | Bird             | Avian              |
+| 09–12   | Canine               | Dog              | Quadruped          |
+| 13–16   | Caprine              | Goat             | Quadruped          |
+| 17–20   | Cancrine             | Crab             | Decapod            |
+| 21–24   | Crocodilian          | Crocodile        | Quadruped – Tailed |
+| 25–28   | Equine               | Horse            | Quadruped          |
+| 29–32   | Feline               | Cat              | Quadruped – Tailed |
+| 33–36   | Glirine              | Rodent           | Quadruped – Tailed |
+| 37–38   | Hirudinal            | Leech            | Gastropod          |
+| 39–40   | Humaniform           | Human            | Biped              |
+| 41–44   | Insectile            | Insect           | Hexapod            |
+| 45–48   | Lupine               | Wolf             | Quadruped          |
+| 49–52   | Noctillionine        | Bat              | Avian              |
+| 53–56   | Octopine             | Octopus          | Cephalopod         |
+| 57–60   | Ophidian             | Snake            | Serpent            |
+| 61–64   | Piscine              | Fish             | Piscine            |
+| 65–68   | Porcine              | Boar             | Quadruped          |
+| 69–72   | Ranine               | Frog             | Quadruped – Jumping |
+| 73–76   | Saurian              | Lizard           | Quadruped – Tailed |
+| 77–80   | Scorpioid            | Scorpion         | Arachnid – Tailed  |
+| 81–84   | Simian               | Ape              | Biped              |
+| 85–88   | Taurine              | Bull             | Quadruped          |
+| 89–92   | Ursine               | Bear             | Quadruped          |
+| 93–96   | Vermian              | Worm             | Gastropod          |
+| 97–00   | Vespine              | Wasp             | Hexapod – Winged   |
 
+#### Hexapod - Winged
 
+| 1D20    | Hit Location |
+|---------|--------------|
+| 1       | Right Rear Leg |
+| 2       | Left Rear Leg |
+| 3       | Right Middle Leg |
+| 4       | Left Middle Leg |
+| 5–7     | Abdomen      |
+| 8–9     | Thorax       |
+| 10–11   | Right Wing   |
+| 12–13   | Left Wing    |
+| 14      | Right Front Leg |
+| 15      | Left Front Leg |
+| 16–20   | Head         |
 
-                                                  77
-Alex Greene (order #3262370)                                                                               7
-       Hexapod - Winged             Cephalopod                     Decapod
-1D20      Hit Location       Octopus Squid     Hit          1D20      Hit Location
-1D20    1D20      Location     1         Right Fourth Leg
-1         Right Rear Leg                                    2         Left Fourth Leg
-1–4       Tentacle 1
-2         Left Rear Leg              5–8       Tentacle 2   3         Right Third Leg
-3         Right Middle Leg   1–2     9         Arm 1        4         Left Third Leg
-3–4     10        Arm 2        5         Right Second Leg
-4         Left Middle Leg                                   6         Left Second Leg
-5–6     11        Arm 3
-5–7       Abdomen            7–8     12        Arm 4        7         Right First Leg
-8–9       Thorax             9–10    13        Arm 5        8         Left First Leg
-11–12   14        Arm 6        9–10      Abdomen
-10–11     Right Wing                                        11–16     Cephalothorax
-13–14   15        Arm 7
-12–13     Left Wing          15–16   16        Arm 8        17–18     Right Claw
-14        Right Front Leg    17      17        Head         19–20     Left Claw
-15        Left Front Leg     18–20   18–20     Mantle
-16–20     Head
-Arachnid - Tailed              Quadruped - Centauran
-Arachnid                     1D20    Hit Location            1D20       Hit Location
-1D20      Hit Location       1–4     Tail                    1–2        Right Hind Leg
-1         Right Fourth Leg   5       Right Fourth Leg        3–4        Left Hind Leg
-2         Left Fourth Leg    6       Left Fourth Leg         5–6        Hindquarters
-3         Right Third Leg    7       Right Third Leg         7–8        Forequarters
-4         Left Third Leg     8       Left Third Leg          9–10       Right Front Leg
-5–10      Abdomen            9–12    Abdomen                 11–12      Left Front Leg
-11        Right Second Leg   13      Right Second Leg        13–14      Chest
-12        Left Second Leg    14      Left Second Leg         15–16      Right Arm
-13        Right First Leg    15      Right Claw              17–18      Left Arm
-14        Left First Leg     16      Left Claw               19–20      Head
-15–20     Cephalothorax      17–20   Cephalothorax
+#### Cephalopod
+
+| Octopus 1D20  | Squid 1D20    | Hit Location |
+|---------------|---------------|--------------|
+|               | 1–4           | Tentacle 1   |
+|               | 5–8           | Tentacle 2   |
+| 1–2           | 9             | Arm 1        |
+| 3–4           | 10            | Arm 2        |
+| 5–6           | 11            | Arm 3        |
+| 7–8           | 12            | Arm 4        |
+| 9–10          | 13            | Arm 5        |
+| 11–12         | 14            | Arm 6        |
+| 13–14         | 15            | Arm 7        |
+| 15–16         | 16            | Arm 8        |
+| 17            | 17            | Head         |
+| 18–20         | 18–20         | Mantle       |
+
+#### Decapod
+
+| 1D20    | Hit Location |
+|---------|--------------|
+| 1       | Right Fourth Leg |
+| 2       | Left Fourth Leg |
+| 3       | Right Third Leg |
+| 4       | Left Third Leg |
+| 5       | Right Second Leg |
+| 6       | Left Second Leg |
+| 7       | Right First Leg |
+| 8       | Left First Leg |
+| 9–10    | Abdomen      |
+| 11–16   | Cephalothorax |
+| 17–18   | Right Claw   |
+| 19–20   | Left Claw    |
+
+#### Arachnid
+
+| 1D20    | Hit Location        |
+|---------|---------------------|
+| 1       | Right Fourth Leg    |
+| 2       | Left Fourth Leg     |
+| 3       | Right Third Leg     |
+| 4       | Left Third Leg      |
+| 5–10    | Abdomen             |
+| 11      | Right Second Leg    |
+| 12      | Left Second Leg     |
+| 13      | Right First Leg     |
+| 14      | Left First Leg      |
+| 15–20   | Cephalothorax       |
+
+#### Arachnid - Tailed
+
+| 1D20  | Hit Location             |
+|-------|--------------------------|
+| 1–4   | Tail                     |
+| 5     | Right Fourth Leg         |
+| 6     | Left Fourth Leg          |
+| 7     | Right Third Leg          |
+| 8     | Left Third Leg           |
+| 9–12  | Abdomen                  |
+| 13    | Right Second Leg         |
+| 14    | Left Second Leg          |
+| 15    | Right Claw               |
+| 16    | Left Claw                |
+| 17–20 | Cephalothorax            |
+
+#### Quadruped - Centauran
+
+| 1D20     | Hit Location |
+|----------|--------------|
+| 1–2      | Right Hind Leg |
+| 3–4      | Left Hind Leg |
+| 5–6      | Hindquarters |
+| 7–8      | Forequarters |
+| 9–10     | Right Front Leg |
+| 11–12    | Left Front Leg |
+| 13–14    | Chest        |
+| 15–16    | Right Arm    |
+| 17–18    | Left Arm     |
+| 19–20    | Head         |
 
 Biped – Tailed                                              Quadruped - Tailed
 Hexapod
@@ -4184,7 +4089,7 @@ where sacrifice is a fundamental part of worshipping ancient beings.
 of the god Amanon, a bronze image facing an iron image, across the fires and blood-stains
 of the alter-stone. When the gory sunset of the day of sacrifice is over and the writhing fires of
 the sacrifice are dead, and the moon smiles with a cold and marble smile on the blackened
-altar - then Amanon speaks to Amanon, with a voice of iron, and a voice of bronze…’
+altar - then Amanon speaks to Amanon, with a voice of iron, and a voice of bronze...’
 
 - Clark Ashton Smith, The Image of Bronze and the Image of Iron
 
