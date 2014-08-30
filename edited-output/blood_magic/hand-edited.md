@@ -3206,68 +3206,141 @@ shape with compound eyes, or anything in between which can be imagined.
 | 17–18    | Left Arm     |
 | 19–20    | Head         |
 
-Biped – Tailed                                              Quadruped - Tailed
-Hexapod
-               1D20      Hit Location
-1D20      Hit Location       1D20      Hit Location         1–3       Tail
-1–2       Right Leg          1         Right Rear Leg       4–5       Right Hind Leg
-3–4       Left Leg           2         Left Rear Leg        6–7       Left Hind Leg
-5–6       Tail               3         Right Middle Leg     8–10      Hindquarters
-7–9       Abdomen            4         Left Middle Leg      11–14     Forequarters
-10–12     Chest              5–9       Abdomen              15–16     Right Front Leg
-13–15     Right Arm          10–13     Thorax               17–18     Left Front Leg
-16–18     Left Arm           14        Right Front Leg      19–20     Head
-19–20     Head               15        Left Front Leg
-16–20     Head
-               Biped
-Quadruped                    Avian                          1D20      Hit Location
-1D20      Hit Location       1D20    Hit Location           1–3       Right Leg
-1–3       Right Hind Leg     1–3     Right Claw             4–6       Left Leg
-4–6       Left Hind Leg      4–6     Left Claw              7–9       Abdomen
-7–9       Hindquarters       7–9     Body                   10–12     Chest
-10–12     Forequarters       10–12   Breast                 13–15     Right Arm
-13–15     Right Front Leg    13–15   Right Wing             16–18     Left Arm
-16–18     Left Front Leg     16–18   Left Wing              19–20     Head
-19–20     Head               19–20   Head
+#### Biped – Tailed
 
-Quadruped - Jumping            Serpent
-Piscine                      1D20      Hit Location         1D20       Hit Location
-1D20      Hit Location       1–5       Right Hind Leg       1–9        Tail
-1–3       Tail               6–10      Left Hind Leg        10–18      Body
-4–8       Hindbody           11–13     Hindquarters         19–20      Head
-9–13      Forebody           14–16     Forequarters
-14        Right Fin          17        Right Front Leg      Gastropod
-15        Left Fin           18        Left Front Leg
-16–20     Head               19–20     Head                 1D20 Hit Location
-               1–20 Body
+| 1D20    | Hit Location        |
+|---------|---------------------|
+| 1–2     | Right Leg           |
+| 3–4     | Left Leg            |
+| 5–6     | Tail                |
+| 7–9     | Abdomen             |
+| 10–12   | Chest               |
+| 13–15   | Right Arm           |
+| 16–18   | Left Arm            |
+| 19–20   | Head                |
 
-78
-Alex Greene (order #3262370)                                                                     7
-         Determine Natural Weaponry
+
+#### Hexapod
+
+| 1D20    | Hit Location          |
+|---------|-----------------------|
+| 1       | Right Rear Leg        |
+| 2       | Left Rear Leg         |
+| 3       | Right Middle Leg      |
+| 4       | Left Middle Leg       |
+| 5–9     | Abdomen               |
+| 10–13   | Thorax                |
+| 14      | Right Front Leg       |
+| 15      | Left Front Leg        |
+| 16–20   | Head                  |
+
+#### Quadruped - Tailed
+
+| 1D20    | Hit Location |
+|---------|--------------|
+| 1–3     | Tail         |
+| 4–5     | Right Hind Leg |
+| 6–7     | Left Hind Leg |
+| 8–10    | Hindquarters |
+| 11–14   | Forequarters |
+| 15–16   | Right Front Leg |
+| 17–18   | Left Front Leg |
+| 19–20   | Head         |
+
+#### Quadruped
+
+| 1D20    | Hit Location        |
+|---------|---------------------|
+| 1–3     | Right Hind Leg      |
+| 4–6     | Left Hind Leg       |
+| 7–9     | Hindquarters        |
+| 10–12   | Forequarters        |
+| 13–15   | Right Front Leg     |
+| 16–18   | Left Front Leg      |
+| 19–20   | Head                |
+
+#### Avian
+
+| 1D20  | Hit Location            |
+|-------|-------------------------|
+| 1–3   | Right Claw              |
+| 4–6   | Left Claw               |
+| 7–9   | Body                    |
+| 10–12 | Breast                  |
+| 13–15 | Right Wing              |
+| 16–18 | Left Wing               |
+| 19–20 | Head                    |
+
+#### Biped
+
+| 1D20    | Hit Location |
+|---------|--------------|
+| 1–3     | Right Leg    |
+| 4–6     | Left Leg     |
+| 7–9     | Abdomen      |
+| 10–12   | Chest        |
+| 13–15   | Right Arm    |
+| 16–18   | Left Arm     |
+| 19–20   | Head         |
+
+#### Piscine
+
+| 1D20    | Hit Location |
+|---------|--------------|
+| 1–3     | Tail         |
+| 4–8     | Hindbody     |
+| 9–13    | Forebody     |
+| 14      | Right Fin    |
+| 15      | Left Fin     |
+| 16–20   | Head         |
+
+#### Quadruped - Jumping
+
+| 1D20    | Hit Location          |
+|---------|-----------------------|
+| 1–5     | Right Hind Leg        |
+| 6–10    | Left Hind Leg         |
+| 11–13   | Hindquarters          |
+| 14–16   | Forequarters          |
+| 17      | Right Front Leg       |
+| 18      | Left Front Leg        |
+| 19–20   | Head                  |
+
+#### Serpent
+
+| 1D20     | Hit Location |
+|----------|--------------|
+| 1–9      | Tail         |
+| 10–18    | Body         |
+| 19–20    | Head         |
+
+#### Gastropod
+
+| 1D20 Hit | Location |
+|----------|----------|
+| 1–20     | Body     |
+
+
+#### Determine Natural Weaponry
+
 The natural weapons of the creature can be either rolled for randomly, or a particular
 type of weaponry selected if it fits one of the physique types. The damage dice, size
 and reach of the weaponry depends on the SIZ of the creature and the type of attack.
 
-Natural Weapon Type
-1D10 Armament Description
-1      Beaked      The head possesses a beak.
-2      Clawed      Claws at the ends of arms and legs.
-3      Hoofed      Hooves or trotters at the ends of its legs.
-4      Horned      Horns placed upon its head or back.
-5      None        Uses weapons, has 1D3 different types; roll randomly on
-weapon list.
-6      Pincer      Pincers or segmented claws at the ends of its arms, or perhaps
-at the end of a tail. A successful un-parried attack with a
-pincer results in an automatic grapple.
-7      Sting       Stingers are located on either the tail or arms.
-8      Tentacle    Can sprout from any location or be the substitute for limbs. A
-successful un-parried attack allows a tentacle to automatically grapple
-that location and Inflict Pain each combat action thereafter.
-9      Tongue      No damage, grapple attack only. If it successfully hits then the sticky
-tongue Immobilises the opponent and they can be automatically
-bitten or swallowed the following Combat Action.
-10     Toothed     A tooth filled maw, usually located in the head but could also
-be placed directly in the abdomen or at the ends of limbs.
+#### Natural Weapon Type
+
+| 1D10  | Armament   | Description |
+|-------|------------|-------------|
+| 1     | Beaked     | The head possesses a beak. |
+| 2     | Clawed     | Claws at the ends of arms and legs. |
+| 3     | Hoofed     | Hooves or trotters at the ends of its legs. |
+| 4     | Horned     | Horns placed upon its head or back. |
+| 5     | None       | Uses weapons, has 1D3 different types; roll randomly on weapon list. |
+| 6     | Pincer     | Pincers or segmented claws at the ends of its arms, or perhaps at the end of a tail. A successful un-parried attack with a pincer results in an automatic grapple. |
+| 7     | Sting      | Stingers are located on either the tail or arms. |
+| 8     | Tentacle   | Can sprout from any location or be the substitute for limbs. A successful un-parried attack allows a tentacle to automatically grapple that location and Inflict Pain each combat action thereafter. |
+| 9     | Tongue     | No damage, grapple attack only. If it successfully hits then the sticky tongue Immobilises the opponent and they can be automatically bitten or swallowed the following Combat Action. |
+| 10    | Toothed    | A tooth filled maw, usually located in the head but could also be placed directly in the abdomen or at the ends of limbs. |
 
 The natural weapons of the creature are usually a function of its basic size. Some beings
 however may have unusually big or small examples depending on its physiology and
@@ -3275,52 +3348,58 @@ proportions. Games Masters should treat the following tables as average values. 
 summoned creature has more than one natural weapon, the Size or Reach of one may
 be increased at the expense of reducing the value of another.
 
-Natural Weapon Damage
-Creature SIZ    Bash/Crush/Claw Damage                      Bite/Stab Damage
-1–10            1D3                                         1D4
-11–20           1D4                                         1D6
-21–30           1D6                                         1D8
-31–40           1D8                                         1D10
+#### Natural Weapon Damage
 
-Natural Weapon Size and Reach
-Creature SIZ Size Bite Reach Horn Reach              Limb Reach     Tongue/Tail Reach
-1–10         S    T          T                       S              M
-11–20        M T             S                       M              M
-21–30        L    S          M                       M              L
-31–40        H M             M                       L              L
+| Creature SIZ  | Bash/Crush/Claw Damage  | Bite/Stab Damage |
+|---------------|-------------------------|------------------|
+| 1–10          | 1D3                     | 1D4              |
+| 11–20         | 1D4                     | 1D6              |
+| 21–30         | 1D6                     | 1D8              |
+| 31–40         | 1D8                     | 1D10             |
 
-                                                  79
-Alex Greene (order #3262370)                                                                               7
-       Determine Natural Protection
+#### Natural Weapon Size and Reach
+
+| Creature SIZ | Size | Bite Reach | Horn Reach | Limb Reach   | Tongue/Tail Reach |
+|--------------|------|------------|------------|--------------|-------------------|
+| 1–10         | S    | T          | T          | S            | M                 |
+| 11–20        | M    | T          | S          | M            | M                 |
+| 21–30        | L    | S          | M          | M            | L                 |
+| 31–40        | H    | M          | M          | L            | L                 |
+
+#### Determine Natural Protection
+
 The protective outer layer of the creature should be resolved, using the same guidelines
 as natural weaponry above. Larger creatures have a default value due to the gradual
 thickening of their outer layer. Note that although the type of skin can appear
 formidable, the actual protective value may be superficial, unless additional physical
 protection was defined as part of the summoning and paid for in Magic Points.
 
-Natural Protection Type
-1D10 Protection Description
-1      Chitinous Insect-like chitin, which gives the creature an exoskeleton.
-2      Crystalline Plates of crystal, stony or sandy crust.
-3      Feathered Feathers and down, usually brightly coloured and iridescent.
-4      Furry        Short fur to thick hairy pelts, often with beautiful patterns.
-5      Hide         Thick leathery skin.
-6      Metallic     Metal protection, such as thin flexible skin, scales or heavy plates.
-7      None         Has no natural protection but can wear armour of the right shape.
-8      Scaly        Reptilian scales, sometimes brightly coloured.
-9      Shelled      Crustacean carapace, reptilian plastron or mollusc shell.
-10     Spiny        Opponents in melee suffer half their own rolled damage if they
-successfully land an attack with a weapon of equal or shorter Reach.
-To calculate their length, treat spines as Horns in the previous table.
+#### Natural Protection Type
 
-Base Natural Protection
-Creature SIZ      Base AP
-1–10              None
-11–20             1 AP
-21–30             2 AP
-31–40             3 AP
+| 1D10 | Protection  | Description |
+|------|-------------|-------------|
+| 1    | Chitinous   | Insect-like chitin, which gives the creature an exoskeleton. |
+| 2    | Crystalline | Plates of crystal, stony or sandy crust. |
+| 3    | Feathered   | Feathers and down, usually brightly coloured and iridescent. |
+| 4    | Furry       | Short fur to thick hairy pelts, often with beautiful patterns. |
+| 5    | Hide        | Thick leathery skin. |
+| 6    | Metallic    | Metal protection, such as thin flexible skin, scales or heavy plates. |
+| 7    | None        | Has no natural protection but can wear armour of the right shape. |
+| 8    | Scaly       | Reptilian scales, sometimes brightly coloured. |
+| 9    | Shelled     | Crustacean carapace, reptilian plastron or mollusc shell. |
+| 10   | Spiny       | Opponents in melee suffer half their own rolled damage if they successfully land an attack with a weapon of equal or shorter Reach. To calculate their length, treat spines as Horns in the previous table. |
 
-Improve Skills
+#### Base Natural Protection
+
+| Creature SIZ    | Base AP |
+|-----------------|---------|
+| 1–10            | None    |
+| 11–20           | 1 AP    |
+| 21–30           | 2 AP    |
+| 31–40           | 3 AP    |
+
+#### Improve Skills
+
 Expertise can be purchased for the demonic being, making it a sage or savant of its
 race. Each Magic Point spent can either purchase an Advanced Skill at base value (using
 the creature’s own Characteristics), or increase the value of an existing skill by 10%.
@@ -3329,43 +3408,43 @@ raised above the ritual leader’s own un-augmented Summon skill using this meth
 
 Advanced Magical skills cannot be purchased in this way.
 
-Add Protections
+#### Add Protections
+
 Additional defences can be purchased for the creature, demonstrating its overall
 toughness and the nature of its home plane. These may be physical or magical but
 tend to be very specific so as to not generate universally invulnerable demonic beings.
 Remember that larger creatures have a default level of natural armour, as described in
 the Base Natural Protection table earlier.
 
+Magic Points can be spent on the following:
 
-
-
-80
-Alex Greene (order #3262370)                                                                         7
-         Magic Points can be spent on the following:
-*	 Magical Resistance: 1 Magic Point per Magnitude of magical protection, so that
+* Magical Resistance: 1 Magic Point per Magnitude of magical protection, so that
 investing 3 MP would grant a 3 Magnitude resistance. Incoming spells must exceed this
 magnitude to affect the creature. Although highly resistant demons can be summoned,
 they are extremely dangerous if the summoners fail to control the creature.
-*	 Environmental Immunity: one Magic Point to provide complete immunity to one
+* Environmental Immunity: one Magic Point to provide complete immunity to one
 form of environmental damage; heat, cold, electricity, poison and so on. Purchasing a
 second immunity costs two Magic Points, a third three Magic Points and so on.
-*	 Additional Armour Points: Adding one extra Armour Point all over costs a single Magic
+* Additional Armour Points: Adding one extra Armour Point all over costs a single Magic
 Point. Each point beyond the first is incrementally more expensive. Thus adding 2 AP
 would cost 3MPs in total, three additional AP would cost 6 MPs and so on.
 
-Additional Armour Points
-Extra AP                        Total MP cost
-1                               1
-2                               3
-3                               6
-4                               10
-5                               15
-6                               21
-7                               28
-8                               36
-9                               45
+#### Additional Armour Points
 
-Grant Mystical Abilities
+| Extra AP                      | Total MP cost |
+|-------------------------------|---------------|
+| 1                             | 1             |
+| 2                             | 3             |
+| 3                             | 6             |
+| 4                             | 10            |
+| 5                             | 15            |
+| 6                             | 21            |
+| 7                             | 28            |
+| 8                             | 36            |
+| 9                             | 45            |
+
+#### Grant Mystical Abilities
+
 Demonic entities may possess mystical abilities. These are inherent magical powers
 which have a default skill value of 50+INT+CHA. The base values can be increased
 with Improve Skills as previous. Mystical Abilities are treated as having a default
@@ -3377,194 +3456,86 @@ creature lacks any form of additional Manipulation (beyond its default Magnitude
 calculates its effect as if the ability skill was the Grimoire value. A succubus type demon
 may have the ability to Dominate (Human) for example.
 
-Purchase Random Features
+#### Purchase Random Features
+
 If the summoner is haphazardly drawing a creature from an alternate plane, they may utilise
 the Random Feature table to create some unusual abilities. Each roll costs one Magic Point.
 
+#### Random Feature Table
 
+| D100   | Ability       | Effect |
+|--------|---------------|--------|
+| 01–02  | Absorbing     | All spells it comes into contact with are immediately neutralised. |
+| 03–04  | Acidic        | Possesses a flesh dissolving acidic ichor which sprays whenever the skin is penetrated, causing damage to the attacker; roll 1D4 to determine the strength of the acid, 1=1D2, 2=1D4, 3=1D6 and 4=1D8 damage per wound. |
+| 05–06  | Alluring      | Produces pheromones which attract and seduce victims, who must succeed in an unopposed Persistence test to avoid approaching defencelessly. |
+| 07–08  | Asymmetric    | One half of the creature is larger, longer or taller than the other, double the Hit Points of locations in the larger side and halve the Hit Points of locations in the smaller. |
+| 09–10  | Boneless      | Can squeeze through any gap and survive any fall. |
+| 11–12  | Brainless     | Sense organs are distributed over the entire body and sentience is located elsewhere from the head, roll a random location and place the ‘brain’ there. |
+| 13–14  | Burning       | Glows with burning heat, injuring anyone within melee range; roll a d4, 1=1d2, 2=1D4, 3=1D6 and 4=1D8 damage per round. |
+| 15–16  | Chameleon     | Cannot be perceived using vision, but may be heard, smelled and so on. |
+| 17–18  | Climbing      | Has a spider or lizard like ability to scale surfaces. |
+| 19–20  | Contagious    | Inflicts a virulent disease with a delay of 1D8 hours and potency of CONx5%, which causes a penalty of 1D8 points to; roll 1D6, 1=STR, 2=CON, 3=DEX, 4=INT, 5=POW or 6=CHA. |
+| 21–22  | Corroding     | Weapons take 1D8 damage each time they strike the creature, ignoring their Armour Points. |
+| 23–24  | Dampener      | All magical effects in the vicinity are suppressed by 1D8 Magnitude. Spells reduced to zero Magnitude are dispelled unless part of a permanent enchantment. |
+| 25–26  | Deathly       | Can drain the life force of nearby plants and creatures. Those in the immediate area must succeed in an unopposed Resilience test each round to avoid suffering one point of damage to every location, ignoring armour. |
+| 27–28  | Disturbing    | Creature is covered with unsettling forms, such as baby arms, or multiple eyes or mouths; viewers must succeed in an unopposed Persistence test or be helpless with horror. |
+| 29–30  | Domineering Ma|ipulates those around it with mental commands, which cannot be resisted unless the target is successful in an unopposed Persistence test. |
+| 31–32  | Draining      | Temporarily weakens the magical power of an opponent, draining 1D8 MP each successful hit. |
+| 33–34  | Droning       | Produces a buzzing noise that sedates listeners, who must succeed in an unopposed Persistence test to avoid falling asleep for 1D8 minutes. |
+| 35–36  | Entangle      | Restricts the movements of those within melee range, who must succeed in an unopposed Brawn test to avoid being rendered physically helpless each round. |
+| 37–38  | Frightening   | Creature appears terrifyingly dangerous; viewers must succeed in an unopposed Persistence test or flee the creature. |
+| 39–40  | Icy           | Radiates freezing coldness, injuring anyone within melee range; roll 1D4, 1=1D2, 2=1D4, 3=1D6 and 4=1D8 damage per round |
+| 41–42  | Intangible    | Can move through solid objects at will. Whilst intangible it cannot be harmed physically, but neither can it attack. |
+| 43–44  | Leaper        | Has powerfully sprung limbs, multiplying its jump range by 1D4+1 times. |
+| 45–46  | Levitating    | Has the capability to move over any solid or liquid surface without sinking or leaving tracks. |
+| 47–48  | Mimic         | Changes into the shape of a creature it successfully touches, maintaining its own Characteristics but assuming the locations and the duplicate countenance of the being contacted. |
+| 49–50  | Mournful      | Appearance is so sad or pathetic, that observers must succeed in an unopposed Persistence test to be able to begin attacking it. |
+| 51–52  | Mutated       | Roll a random location, which no longer exists. |
+| 53–54  | Nerveless     | Cannot feel pain and does not suffer the ill-effects of Serious Wounds. |
+| 55–56  | Obfuscating   | Produces a cloud of mist, spores or darkness that blinds observers, who must succeed in an unopposed Perception test every Combat Action to observe the creature. |
+| 57–58  | Oversized     | One location is swollen to a very large size or length, doubling its Hit Points. |
+| 59–60  | Paralysing    | Able to render victims incapable of movement; those touched must succeed in an unopposed Resilience test to avoid paralysis which lasts 1D8 minutes. |
+| 61–62  | Perceptive    | Possesses an odd primary sense; roll a d6, 1=Echolocation (sonar), 2=Thermoception (heat), 3=Cerebralception (sapient consciousness), 4=Nociception (pain), 5=Ethoception (souls), 6=Thaumaception (magic). |
+| 63–64  | Poisonous     | One unarmed attack inflicts a venomous poison with a delay of 1D8 Combat Actions and a potency of CONx5%, which inflicts a Poison Condition selected from the table on p79 of the Legend Core Rulebook. |
+| 65–66  | Polymorph     | Changes form every round, maintaining its own Characteristics, but assuming the locations of the new shape and carrying over any damage already suffered (various forms should be prepared in advance by the Games Master). |
+| 67–68  | Projector     | Any damage inflicted on the creature is felt by everybody nearby, who suffer the psychological but not physiological effects as if they had been wounded too. |
+| 69–70  | Quick         | Movement rate is multiplied by 1D4+1 times. |
+| 71–72  | Reflecting    | All magic cast on the creature is reflected back upon the caster. |
+| 73–74  | Regenerating  | Recovers 1 Hit Point per round to every location, except for Major Wounds. |
+| 75–76  | Roaring       | Produces a thunderous sound which deafens listeners, who must succeed in an unopposed Resilience test to avoid becoming temporally stunned for 1D3 Combat Actions. |
+| 77–78  | Scintillating | A shifting polychromatic appearance that confuses onlookers, who must succeed in an unopposed Persistence test to avoid becoming mesmerised. |
+| 79–80  | Shadowy       | Can control the ambient light in its immediate surroundings. |
+| 81–82  | Shocking      | Charges itself with electricity, inflicting a shock on those that hit it or are struck by it; roll 1D4, 1=1D2, 2=1D4, 3=1D6 and 4=1D8 damage per blow. |
+| 83–84  | Silent        | Cannot be heard and even its attacks are inaudible. |
+| 85–86  | Slimy         | Cannot be grappled in close combat and leaves a sticky trail wherever it travels. |
+| 87–88  | Stench        | Gives off nauseating odours that sicken inhalers, who must succeed in an unopposed Resilience test to avoid dropping prone and vomiting. |
+| 89–90  | Sticky        | Secretes a strong glue or mucus which causes items to adhere to its skin, requiring a successful unopposed Brawn test and a Combat Action to remove. |
+| 91–92  | Teleporter    | Can freely change its location once per round at no cost in Combat Actions. |
+| 93–94  | Transmuter    | Changes the substance of touched organics into another material; living victims must succeed in an unopposed Resilience test to avoid the struck location being changed into crystal, dust, plants, wine, bronze and so forth. |
+| 95–96  | Vampiric      | Hit Point damage inflicted on an opponent is transferred to itself, healing any wounds currently suffered. |
+| 97–98  | Warded        | Invulnerable to one specific type of material; steel, wood, stone, flesh and so on. |
+| 99–100 | Weakening     | Temporarily weakens the strength of an opponent by 1D8 STR each successful (un-parried) hit. |
 
+#### Determine Emotional Attitude
 
-                                                   81
-Alex Greene (order #3262370)                                                                                7
-       Random Feature Table
-D100 Ability         Effect
-01–02 Absorbing      All spells it comes into contact with are immediately neutralised.
-03–04 Acidic         Possesses a flesh dissolving acidic ichor which sprays
-whenever the skin is penetrated, causing damage to the
-attacker; roll 1D4 to determine the strength of the acid,
-1=1D2, 2=1D4, 3=1D6 and 4=1D8 damage per wound.
-05–06 Alluring       Produces pheromones which attract and seduce victims,
-who must succeed in an unopposed Persistence test to avoid
-approaching defencelessly.
-07–08 Asymmetric One half of the creature is larger, longer or taller than the
-other, double the Hit Points of locations in the larger side
-and halve the Hit Points of locations in the smaller.
-09–10 Boneless       Can squeeze through any gap and survive any fall.
-11–12 Brainless      Sense organs are distributed over the entire body and
-sentience is located elsewhere from the head, roll a random
-location and place the ‘brain’ there.
-13–14 Burning        Glows with burning heat, injuring anyone within melee range; roll
-a d4, 1=1d2, 2=1D4, 3=1D6 and 4=1D8 damage per round.
-15–16 Chameleon Cannot be perceived using vision, but may be heard, smelled
-and so on.
-17–18 Climbing       Has a spider or lizard like ability to scale surfaces.
-19–20 Contagious Inflicts a virulent disease with a delay of 1D8 hours and potency
-of CONx5%, which causes a penalty of 1D8 points to; roll 1D6,
-1=STR, 2=CON, 3=DEX, 4=INT, 5=POW or 6=CHA.
-21–22 Corroding      Weapons take 1D8 damage each time they strike the
-creature, ignoring their Armour Points.
-23–24 Dampener       All magical effects in the vicinity are suppressed by 1D8
-Magnitude. Spells reduced to zero Magnitude are dispelled
-unless part of a permanent enchantment.
-25–26 Deathly        Can drain the life force of nearby plants and creatures.
-Those in the immediate area must succeed in an unopposed
-Resilience test each round to avoid suffering one point of
-damage to every location, ignoring armour.
-27–28 Disturbing     Creature is covered with unsettling forms, such as baby
-arms, or multiple eyes or mouths; viewers must succeed in
-an unopposed Persistence test or be helpless with horror.
-29–30 Domineering Manipulates those around it with mental commands,
-which cannot be resisted unless the target is successful in an
-unopposed Persistence test.
-31–32 Draining       Temporarily weakens the magical power of an opponent,
-draining 1D8 MP each successful hit.
-33–34 Droning        Produces a buzzing noise that sedates listeners, who must
-succeed in an unopposed Persistence test to avoid falling
-asleep for 1D8 minutes.
-
-82
-Alex Greene (order #3262370)                                                                     7
-         D100      Ability       Effect
-35–36     Entangle      Restricts the movements of those within melee range, who
-must succeed in an unopposed Brawn test to avoid being
-rendered physically helpless each round.
-37–38     Frightening   Creature appears terrifyingly dangerous; viewers must succeed
-in an unopposed Persistence test or flee the creature.
-39–40     Icy           Radiates freezing coldness, injuring anyone within melee
-range; roll 1D4, 1=1D2, 2=1D4, 3=1D6 and 4=1D8
-damage per round
-41–42     Intangible    Can move through solid objects at will. Whilst intangible it
-cannot be harmed physically, but neither can it attack.
-43–44     Leaper        Has powerfully sprung limbs, multiplying its jump range
-by 1D4+1 times.
-45–46     Levitating    Has the capability to move over any solid or liquid surface
-without sinking or leaving tracks.
-47–48     Mimic         Changes into the shape of a creature it successfully touches,
-maintaining its own Characteristics but assuming the
-locations and the duplicate countenance of the being
-contacted.
-49–50     Mournful      Appearance is so sad or pathetic, that observers must succeed in
-an unopposed Persistence test to be able to begin attacking it.
-51–52     Mutated       Roll a random location, which no longer exists.
-53–54     Nerveless     Cannot feel pain and does not suffer the ill-effects of Serious
-Wounds.
-55–56     Obfuscating   Produces a cloud of mist, spores or darkness that blinds
-observers, who must succeed in an unopposed Perception
-test every Combat Action to observe the creature.
-57–58     Oversized     One location is swollen to a very large size or length,
-doubling its Hit Points.
-59–60     Paralysing    Able to render victims incapable of movement; those
-touched must succeed in an unopposed Resilience test to
-avoid paralysis which lasts 1D8 minutes.
-61–62     Perceptive    Possesses an odd primary sense; roll a d6, 1=Echolocation
-(sonar), 2=Thermoception (heat), 3=Cerebralception
-(sapient consciousness), 4=Nociception (pain),
-5=Ethoception (souls), 6=Thaumaception (magic).
-63–64     Poisonous     One unarmed attack inflicts a venomous poison with a
-delay of 1D8 Combat Actions and a potency of CONx5%,
-which inflicts a Poison Condition selected from the table on
-p79 of the Legend Core Rulebook.
-65–66     Polymorph     Changes form every round, maintaining its own
-Characteristics, but assuming the locations of the new shape
-and carrying over any damage already suffered (various forms
-should be prepared in advance by the Games Master).
-
-
-                                                83
-Alex Greene (order #3262370)                                                                             7
-       D100      Ability   Effect
-67–68     Projector Any damage inflicted on the creature is felt by everybody
-nearby, who suffer the psychological but not physiological
-effects as if they had been wounded too.
-69–70 Quick         Movement rate is multiplied by 1D4+1 times.
-71–72 Reflecting    All magic cast on the creature is reflected back upon the caster.
-73–74 Regenerating Recovers 1 Hit Point per round to every location, except for
-Major Wounds.
-75–76 Roaring       Produces a thunderous sound which deafens listeners, who
-must succeed in an unopposed Resilience test to avoid
-becoming temporally stunned for 1D3 Combat Actions.
-77–78 Scintillating A shifting polychromatic appearance that confuses
-onlookers, who must succeed in an unopposed Persistence
-test to avoid becoming mesmerised.
-79–80 Shadowy       Can control the ambient light in its immediate
-surroundings.
-81–82 Shocking      Charges itself with electricity, inflicting a shock on those
-that hit it or are struck by it; roll 1D4, 1=1D2, 2=1D4,
-3=1D6 and 4=1D8 damage per blow.
-83–84 Silent        Cannot be heard and even its attacks are inaudible.
-85–86 Slimy         Cannot be grappled in close combat and leaves a sticky trail
-wherever it travels.
-87–88 Stench        Gives off nauseating odours that sicken inhalers, who must
-succeed in an unopposed Resilience test to avoid dropping
-prone and vomiting.
-89–90 Sticky        Secretes a strong glue or mucus which causes items to adhere
-to its skin, requiring a successful unopposed Brawn test and
-a Combat Action to remove.
-91–92 Teleporter    Can freely change its location once per round at no cost in
-Combat Actions.
-93–94 Transmuter Changes the substance of touched organics into another
-material; living victims must succeed in an unopposed
-Resilience test to avoid the struck location being changed
-into crystal, dust, plants, wine, bronze and so forth.
-95–96 Vampiric      Hit Point damage inflicted on an opponent is transferred to
-itself, healing any wounds currently suffered.
-97–98 Warded        Invulnerable to one specific type of material; steel, wood,
-stone, flesh and so on.
-99–100 Weakening    Temporarily weakens the strength of an opponent by 1D8
-STR each successful (un-parried) hit.
-
-
-
-
-84
-Alex Greene (order #3262370)                                                                   7
-         Determine Emotional Attitude
 The demon’s attitude is important: it determines how it reacts to the summoner and
 what kind of services it will perform if successfully influences by the summoner. The
 attitude is usually rolled randomly using the following table:
 
-Demon Attitude Table
-1D10 Attitude        Game Effects
-1      Amorous       The demon develops a physical attraction for anyone who
-tries to engage with it. It may become protective, jealous or
-seductive depending on how the encounter develops.
-2      Argumentative The demon delights in contradictions and argument. It
-does not become physically aggressive but may be verbally
-abusive. It certainly sticks to its own point of view, rejecting
-out of hand all except the most reasoned cases put to it.
-3      Arrogant      The demon treats those who interact with it as worthless
-scum, unfit to occupy the same physical space as itself.
-If the Adventurer might be useful in some capacity,
-then demon might deign to engage but is otherwise
-contemptuous of such an inferior, mortal being.
-4      Dismissive    Unless beaten in an opposed Influence or Insight test, the
-demon dismisses anyone who tries to engage with it. Not a
-team player.
-5      Domineering The demon seeks to use Influence or threats of retribution
-to browbeat anyone it meets into some form of service.
-6      Hostile       The demon is hostile to all mortals. If possible it attacks
-immediately.
-7      Intrigued     The demon expresses a huge degree of interest in the
-Adventurer’s motives. It spends 1D3 hours engaged in deep
-and detailed questions. At the end of this period, roll again
-on this table to determine the demon’s final reaction.
-8      Neutral       The demon has no strong opinions one way or another. It
-simply goes about its business.
-9      Vengeful      The demon will attempt to extract some form of revenge for
-being summoned, such as finding a loophole in any negotiation
-or informing its victims exactly who summoned it.
-10     Welcoming     The demon is open, friendly and willing to engage in
-conversation. Friendship may result.
+#### Demon Attitude Table
+
+| 1D10  | Attitude      | Game Effects |
+|-------|---------------|--------------|
+| 1     | Amorous       | The demon develops a physical attraction for anyone who tries to engage with it. It may become protective, jealous or seductive depending on how the encounter develops. |
+| 2     | Argumentative | The demon delights in contradictions and argument. It does not become physically aggressive but may be verbally abusive. It certainly sticks to its own point of view, rejecting out of hand all except the most reasoned cases put to it. |
+| 3     | Arrogant      | The demon treats those who interact with it as worthless scum, unfit to occupy the same physical space as itself. If the Adventurer might be useful in some capacity, then demon might deign to engage but is otherwise contemptuous of such an inferior, mortal being. |
+| 4     | Dismissive    | Unless beaten in an opposed Influence or Insight test, the demon dismisses anyone who tries to engage with it. Not a team player. |
+| 5     | Domineering   | The demon seeks to use Influence or threats of retribution to browbeat anyone it meets into some form of service. |
+| 6     | Hostile       | The demon is hostile to all mortals. If possible it attacks immediately. |
+| 7     | Intrigued     | The demon expresses a huge degree of interest in the Adventurer’s motives. It spends 1D3 hours engaged in deep and detailed questions. At the end of this period, roll again on this table to determine the demon’s final reaction. |
+| 8     | Neutral       | The demon has no strong opinions one way or another. It simply goes about its business. |
+| 9     | Vengeful      | The demon will attempt to extract some form of revenge for being summoned, such as finding a loophole in any negotiation or informing its victims exactly who summoned it. |
+| 10    | Welcoming     | The demon is open, friendly and willing to engage in conversation. Friendship may result. |
 
 In most cases a demonic entity requires some form of payment or service for its aid. This
 can range from the traditional fresh meat to virgin sacrifices, or more bizarre requests such
@@ -3572,12 +3543,8 @@ as being granted a copy of a particular book, an exchange of philosophical knowl
 even being permitted to return to its pane of existence with physical trophies of its kills.
 Such exchanges normally occur before the creature performs its end of the bargain.
 
+### Final Notes
 
-
-
-                                                     85
-Alex Greene (order #3262370)                                                                                  7
-       Final Notes
 The metaphysics of summoning can be very complex. Games Masters are free to decide
 whether the physical nature of a demon is their actual body, drawn across the infinite
 planes, or if the magical strength of the summoning provides a temporary manifestation
@@ -3603,12 +3570,8 @@ battlefield scenery or the reason d’être for a scenario – offering other me
 defeat rather than direct violence. If the game calls for a demonic conflict, it is generally
 better for the foes to summon multiple lesser beings, rather than one huge beast.
 
+# Bloody Campaigns
 
-
-
-86
-Alex Greene (order #3262370)                                                                           7
-                               Bloody Campaigns
 The majority of this book has been concerned with the provision of new and alternate
 magic rules, linking the supernatural with the spilling of blood, draining of life or
 infliction of pain. Although these sources of power may to our eyes seem gross, if
@@ -3621,7 +3584,8 @@ considerably more depth than the usual stereotypical two-dimensional approach of
 merely being ‘evil’.
 
 
-Including Blood Magic in a Campaign
+## Including Blood Magic in a Campaign
+
 Hopefully after reading this book some small seeds of inspiration will be planted,
 encouraging the inclusion of one or more of the options provided in the preceding
 chapters. Using blood and sacrifice adds a great deal of descriptive depth to magic,
@@ -3634,7 +3598,8 @@ to encourage magic use in many genres, mostly fantasy, but is particularly suite
 pseudo-historical and Sword & Sorcery settings.
 
 
-Game Balance
+### Game Balance
+
 On first sight, many of the rules included in this tome may appear incomplete or open to
 abuse from players. This is intentional. The magic systems and blood powers have been
 designed for maximum flexibility so that they can be tweaked to sympathetically fit any
@@ -3646,14 +3611,7 @@ not balanced with Adventurers or the rules in the Legend Core Rulebook – often
 requirement when designing challenging enemies or the big bad adversary who is the
 ultimate challenge of the entire campaign.
 
-
-
-
-                                                87
-Alex Greene (order #3262370)                                                                             7
- 88
-Alex Greene (order #3262370)   7
-         In established games, retroactively working-in these new systems can present significant
+In established games, retroactively working-in these new systems can present significant
 difficulties as they may undermine the perceived power of Adventurers. Introducing them
 as magic systems only available to Non-Player Character cults or nations can bypass many
 issues, whist simultaneously giving sacrificial magic a darker, more secretive tone.
@@ -3673,7 +3631,8 @@ thaumaturgy more restrictive grants it more of an aura of mystique or perhaps dr
 according to how it is used in that culture.
 
 
-Sword & Sorcery Campaigns
+### Sword & Sorcery Campaigns
+
 Perhaps the most popular genre for sacrificial types of magic is that of Sword &
 Sorcery. Made infamous by antagonists such as ancient sorcerers risen from the dead
 and despicable high priests seizing political power, the magic in these dark settings is
@@ -3689,10 +3648,10 @@ fearing becoming the sacrifice of a ritual themselves.
 
 To reflect the genre, the following options are suggested:
 
-*	   Thaumaturgists do not generate their own Magic Points but must raise them via some
+* Thaumaturgists do not generate their own Magic Points but must raise them via some
 form of sacrifice.
-*	   Spell costs are doubled or tripled, and casting times are multiplied by a factor of ten.
-*	   All churches and guilds know the skill of Concert Casting.
+* Spell costs are doubled or tripled, and casting times are multiplied by a factor of ten.
+* All churches and guilds know the skill of Concert Casting.
 
 Not only does this make casting spells much more difficult but it also allows for the
 inclusion of very powerful manipulations of magic by well practiced cabals, permitting
@@ -3700,10 +3659,7 @@ a sect of sorcerers for example to strike down a king with a horrific affliction
 his coronation from half way across the continent. Adventurers are prevented from
 returning the favour by lacking the resources or numbers to duplicate such effects.
 
-
-                                                     89
-Alex Greene (order #3262370)                                                                                  7
-       If lacking a spellcaster of their own, Adventurers can be protected against the malicious attention
+If lacking a spellcaster of their own, Adventurers can be protected against the malicious attention
 of thaumaturgists with the provision of protective talismans, blessings from a friendly cult or a
 boost to their Evade, Persistence and Resilience skills during Adventurer Creation.
 
@@ -3731,7 +3687,8 @@ being taught forbidden, exotic knowledge. An inspirational tale for this type of
 would be The Tower of the Elephant by R. E. Howard.
 
 
-Pseudo Historical Campaigns
+### Pseudo Historical Campaigns
+
 Pseudo historical campaigns are those in which the magic practiced by real world
 cultures actually works and has significant effects, so that the Aztec empire as illustrated
 opposite really can summon fire from the sky or cause eclipses. In effect the superstition
@@ -3750,14 +3707,11 @@ upon performing sacrifices of one type or another.
 
 In historical settings the following options are suggested:
 
-
-90
-Alex Greene (order #3262370)                                                                                 7
-         *	   Thaumaturgists do not generate their own Magic Points but must raise them via some
+* Thaumaturgists do not generate their own Magic Points but must raise them via some
 form of sacrifice.
-*	   The Magnitude, Intensity and Manipulation points of all forms of magic and spirits
+* The Magnitude, Intensity and Manipulation points of all forms of magic and spirits
 are halved to reflect the general weakness and less flashy nature of historical magic.
-*	   Special skills such as Concert and Enchant are rare.
+* Special skills such as Concert and Enchant are rare.
 
 A number of diverse campaigns can be based upon conquering the religion of a
 neighbouring city, locating and eradicating an evil minor church, or even corrupting
@@ -3799,16 +3753,13 @@ obliged to ‘educate’ the savages, steps are taken to eradicate the immoral r
 prompting an insurgent war between followers and the civilised colonials. As the stakes
 rise, simple raids are replaced by attacks from spirits, summoned demons, or magical
 curses. An extra twist could come if the British successfully quash the original faith
-
-
-                                                   91
-Alex Greene (order #3262370)                                                                                7
-       only to let loose an ancient evil which the sacrificial practices were keeping bound, thus
+only to let loose an ancient evil which the sacrificial practices were keeping bound, thus
 forcing the colonials to re-evaluate their own beliefs and perhaps permit the heathen
 traditions to continue.
 
 
-High Fantasy Campaigns
+### High Fantasy Campaigns
+
 In a high fantasy setting magic systems (both sacrificial and not) can be mixed and
 matched to achieve a particular flavour for a game world. Ascetic monks could practice
 mental powers, generating mystical effects by the strength of their own mind, whilst
@@ -3839,27 +3790,25 @@ are commonplace.
 
 For the High Fantasy genre the following options are suggested:
 
-*	   Thaumaturgists may either generate their own Magic Points or reap them from
+* Thaumaturgists may either generate their own Magic Points or reap them from
 some form of sacrifice.
-*	   All churches, guilds or magical practitioners know the skill of Enchant and
+* All churches, guilds or magical practitioners know the skill of Enchant and
 temporary magical items such as potions or one-shot stored spells are reasonably
 easy to commission.
-*	   Most people are alert to the use of magic, possessing contingencies if they or their family
+* Most people are alert to the use of magic, possessing contingencies if they or their family
 and friends come under some form of magical assault. Cities, fortifications and temples
 are usually protected by Concert cast spells of epic Magnitudes and Intensities.
 
 If the game world limits thaumaturgy to only utilising sacrificial sources for Magic
 Points, most magic will be stored as temporary enchantments in preparation for its
-
-92
-Alex Greene (order #3262370)                                                                              7
-         use. Otherwise casting magic on the fly will become difficult without on-the-spot
+use. Otherwise casting magic on the fly will become difficult without on-the-spot
 bloodletting and travelling with an entourage of sacrificial offerings in tow. Of course
 this could provide an excellent challenge for a spellcasting Adventurer, forcing them to
 invest their magic in preparations, leaving them only their wits and knowledge with
 which to use once their enchantments are used up.
 
-Cultural Attitudes
+### Cultural Attitudes
+
 Most of this book revolves around sacrificial methods, such as exsanguinations, animal
 and human offerings, headhunting, ritual mutilation, cannibalism and so on. Although
 staples of pulp fantasy, they were (and still are) actually performed for religious and
@@ -3900,9 +3849,7 @@ made to stabilise and protect the foundations of temples or city walls, or the c
 punishment of those accused of impiety who were offered to the gods they offended,
 most notably in the case of the Vestal Virgins. Blood offerings were also made to the
 spirits of deceased family patriarchs, by warriors fighting in their honour. This was a
-                                                     93
-Alex Greene (order #3262370)                                                                                  7
-       tradition inherited from their neighbours and at first rarely involved death, only the
+tradition inherited from their neighbours and at first rarely involved death, only the
 spilled blood of honourable wounds but eventually it grew into gladiatorial games
 perverted out of all proportion from its original intention.
 
@@ -3949,9 +3896,7 @@ when they can no longer contribute to support the family or tribe. Is it right t
 probably unwilling person after they have worked hard to sustain the community all
 their lives, or does the harshness of the local environment make such actions excusable?
 On the other hand, is the purchasing of several dozen slaves for the singular purpose
-94
-Alex Greene (order #3262370)                                                                           7
-         of exsanguinating them to protect a city an immoral act? What if they are psychotic
+of exsanguinating them to protect a city an immoral act? What if they are psychotic
 criminals of the worst kind and are barely considered to be above animals?
 
 Whether or not we think so, the fact remains that societies did in fact see these sorts of
@@ -3961,7 +3906,8 @@ magic as being depraved evil but seek to define the truth of its nature by how i
 with society.
 
 
-A Church’s Purpose
+### A Church’s Purpose
+
 Another interesting aspect of sacrificial magic concerns how its practitioners exert their
 influence on society. Campaign settings in which thaumaturgy is a restricted art
 will lend more authority to individuals who practice magic, or the churches
@@ -3997,11 +3943,9 @@ community which will provide most of the
 offerings, whether they be animals, captives, or
 (in)voluntary members of society. Without
 a steady supply of live offerings it is
-unlikely the church or guild could
-exert significant magical power.
+unlikely the church or guild could exert significant magical power.
 
-Alex Greene (order #3262370)                                                                           7
-       A church which operates illegitimately, working to undermine society, will face serious
+A church which operates illegitimately, working to undermine society, will face serious
 difficulties gathering suitable sacrifices for its spellcasters. Such groups or individual
 practitioners are likely to have been expelled for unsavoury acts not deemed acceptable
 to that culture, for example a congregation of cannibals or necromancer based in a
@@ -4012,7 +3956,8 @@ kidnapped from the perhaps oblivious local community before ending up on an alte
 the power from each offering used surgically to obtain the greatest advantage.
 
 
-Power Limits
+### Power Limits
+
 The biggest task facing Games Masters using the sacrificial variants of Divine Magic
 and Sorcery is what combinations of sacrificial methods and restrictions to apply to
 each form of thaumaturgy, or individual churches if willing to place the effort into
@@ -4049,9 +3994,7 @@ allow Magic Points to recover between encounters.
 
 One option hitherto not discussed thus far is combining the ability to naturally generate
 personal Magic Points as per the Legend Core Rulebook with opportunities to regenerate
-96
-Alex Greene (order #3262370)                                                                             7
-         or boost the total further with Magic Points reaped from sacrificing. This allows the best
+or boost the total further with Magic Points reaped from sacrificing. This allows the best
 elements of both methods to be used in parallel with each other but with the potential
 result that magic becomes an overwhelming influence on the game world, where spells
 and spirits are used continuously, especially at the top church echelons.
@@ -4063,7 +4006,8 @@ daily invocations at the other. Whatever the final decision the magic available 
 should in general, roughly match that of their foes least player resentment result.
 
 
-Inspirational Sources
+## Inspirational Sources
+
 Due to its historical prevalence Blood and Sacrifice are a major element of many pulp,
 fantasy and horror stories. Although mostly portrayed as acts of horrific evil, rather
 than deeds of noble or willing self sacrifice, the concept has become a trope of the genre
@@ -4073,10 +4017,10 @@ Classic examples are Sword & Sorcery literature, such as many of the tales writt
 by Robert Howard, Lin Carter, L. Sprague De Camp, Fritz Lieber, August Derleth,
 Andrew Offut and Michael Moorcock for example.
 
-‘Thus the sons of Kosala offer sacrifice to Yajur. Barbarian, you look upon a strangler of Yota-
-pong. I was chosen by the priests of Yajur in my infancy, and throughout childhood, boyhood,
-and youth I was trained in the art of slaying with the naked hands - for only thus are the
-sacrifices enacted. Yajur loves blood, and we waste not a drop from the victim’s veins.’
+> ‘Thus the sons of Kosala offer sacrifice to Yajur. Barbarian, you look upon a strangler of Yota-
+> pong. I was chosen by the priests of Yajur in my infancy, and throughout childhood, boyhood,
+> and youth I was trained in the art of slaying with the naked hands - for only thus are the
+> sacrifices enacted. Yajur loves blood, and we waste not a drop from the victim’s veins.’
 
 - R. E. Howard, Shadows in Zamboula
 
@@ -4085,11 +4029,11 @@ include themes of sacrifice, be they blood or souls. The Call of Cthulhu, Dreams
 Witch House, The Tomb-Spawn, and An Offering to the Moon provide examples of
 where sacrifice is a fundamental part of worshipping ancient beings.
 
-‘In the temple of the city of Morm, which lies between the desert and the sea, are two images
-of the god Amanon, a bronze image facing an iron image, across the fires and blood-stains
-of the alter-stone. When the gory sunset of the day of sacrifice is over and the writhing fires of
-the sacrifice are dead, and the moon smiles with a cold and marble smile on the blackened
-altar - then Amanon speaks to Amanon, with a voice of iron, and a voice of bronze...’
+> ‘In the temple of the city of Morm, which lies between the desert and the sea, are two images
+> of the god Amanon, a bronze image facing an iron image, across the fires and blood-stains
+> of the alter-stone. When the gory sunset of the day of sacrifice is over and the writhing fires of
+> the sacrifice are dead, and the moon smiles with a cold and marble smile on the blackened
+> altar - then Amanon speaks to Amanon, with a voice of iron, and a voice of bronze...’
 
 - Clark Ashton Smith, The Image of Bronze and the Image of Iron
 
@@ -4097,16 +4041,12 @@ The Pirate genre is also rich with blood sacrifice, with Voodoo and Vodun both b
 prevalent in magically rich fantasy pirate literature. Tim Power’s book On Stranger
 Tides is chock full of blood and rum based magic.
 
-
-
-                                                          97
-Alex Greene (order #3262370)                                                                                       7
-       ‘Suddenly he held up the bird, gleaming in the last rays, and shouted something aloud, sharp
-and guttural and cruel. Somehow I understood what he was about to do; I half rose, a shout
-on my lips. But Mall yanked me down, even as the old man flung his arms wide and ripped
-the hapless bird apart, wing from body. A low groan of revulsion arose from the sailors. But
-even as the blood spattered onto the deck, I saw the sails ahead jolt as if some vast hand had
-slapped at them, and flap empty and useless in the breeze.’
+> ‘Suddenly he held up the bird, gleaming in the last rays, and shouted something aloud, sharp
+> and guttural and cruel. Somehow I understood what he was about to do; I half rose, a shout
+> on my lips. But Mall yanked me down, even as the old man flung his arms wide and ripped
+> the hapless bird apart, wing from body. A low groan of revulsion arose from the sailors. But
+> even as the blood spattered onto the deck, I saw the sails ahead jolt as if some vast hand had
+> slapped at them, and flap empty and useless in the breeze.’
 
 - Michael Scott Rohan, Chase the Morning
 
@@ -4115,12 +4055,12 @@ recorded as actual eye witness accounts or investigations by colonial powers, re
 are recommended to look up some of the references quoted elsewhere in this tome.
 Particular areas of interest are:
 
-*	   The persecutions against the Kali cult in 18th Century India.
-*	   The activities of the Human Leopard Society of West Africa.
-*	   The reports of the first Conquistadors to arrive in Central America, most notably
+* The persecutions against the Kali cult in 18th Century India.
+* The activities of the Human Leopard Society of West Africa.
+* The reports of the first Conquistadors to arrive in Central America, most notably
 the ethnology study of Diego de Landa.
-*	   The Shuar Headhunters of Peru and Ecuador.
-*	   The cannibalism of peoples such as the Batak people of Sumatra, Maori of New
+* The Shuar Headhunters of Peru and Ecuador.
+* The cannibalism of peoples such as the Batak people of Sumatra, Maori of New
 Zealand and inhabitants of Easter Island.
 
 Last but by no means least, the following brief list contains entertaining movies and
