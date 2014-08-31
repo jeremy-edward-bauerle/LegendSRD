@@ -6,7 +6,7 @@ at home or on their travels, will encounter creatures of all persuasions and wil
 hunted by them, trade with them and, inevitably, battle them.
 
 This book details a selection of creatures for Legend, along with the rules that distinguish them
-from Adventurers. However, as is evident from each creature’s entry, they possess the same
+from Adventurers. However, as is evident from each creature's entry, they possess the same
 characteristics and attributes as humans and, very often, similar skills. This means that some
 creatures can also be played as Adventurers, for those players and Games Masters who want, and
 enjoy, a mixture of human and non-human races in their Legend games.
@@ -17,7 +17,7 @@ is by no means essential.
 
 ## Adventuring Creatures
 Every creature detailed in this book has a set of statistics that may be used to represent most
-individuals of that species that the players face – these are considered to be ‘average’ members
+individuals of that species that the players face – these are considered to be 'average' members
 of the species.
 
 Alternatively, Games Masters are free to generate their own creature characters, using all the normal
@@ -25,9 +25,9 @@ rules in the Adventurer Creation chapter of the Legend Core Rulebook. Every crea
 book have random Characteristics and any important traits listed, allowing Games Masters to create
 a character from each creature race. In addition, Games Masters might like to use the experience
 rules from the Improving Adventurers chapter in the Legend Core Rulebook to make more powerful
-creatures for players to confront. This is particularly relevant when creating ‘leader’ type characters.
+creatures for players to confront. This is particularly relevant when creating 'leader' type characters.
 For example, if there is a beastman lair within a scenario, it makes perfect sense to have perhaps a
-dozen of the ‘average’ beastmen and a leader who is much more powerful than the rest.
+dozen of the 'average' beastmen and a leader who is much more powerful than the rest.
 
 
 ## Creatures and Intelligence
@@ -50,7 +50,7 @@ game is covered here.
 *Breathe Flame*  
 The creature may breathe flame over an area as a Combat Action. The flame covers a cone in
 front of the creature, which stretches for its POW in metres. At its furthest extent, the cone is
-equal to 1/2 the creature’s POW in width.
+equal to 1/2 the creature's POW in width.
 
 Any Adventurer caught in the flame suffers the noted fire damage to all Hit Locations, though
 an Adventurer may dive for cover to halve this damage and Armour Points count as normal.
@@ -82,14 +82,14 @@ The creature gains a +30% bonus to its Athletics skill whenever swimming. In add
 creature uses its normal Movement score when swimming.
 
 *Formidable Natural Weapons*  
-This creature’s natural weapons are as tough and durable as metal. As such they may parry
+This creature's natural weapons are as tough and durable as metal. As such they may parry
 weapon attacks. The SIZ of the weapon, for parrying purposes, is given in the description of the
-creature’s attacks.
+creature's attacks.
 
 *Life Sense*  
 In tune with the rhythms of nature, this creature can determine the vitality of any living creature
 by touch alone. If the creature touches another and makes a successful Perception test, it will
-learn of the target’s current Hit Points, Fatigue level and whether it is currently afflicted by any
+learn of the target's current Hit Points, Fatigue level and whether it is currently afflicted by any
 poison or disease.
 
 *Magic Sense*  
@@ -101,7 +101,7 @@ effects upon another creature or object.
 Allows the creature to treat partial darkness as illuminated and darkness as partial darkness.
 
 *Poison*  
-One of the creature’s attacks, or possibly its very form, is poisoned. The description will describe
+One of the creature's attacks, or possibly its very form, is poisoned. The description will describe
 the particular poison or venom the creature employs.
 
 *Poison Immunity*  
@@ -116,7 +116,7 @@ remains completely in charge. In many cases, the possessed may not even know he 
 *Possession, Dominant*  
 The more well-known and obvious form of possession, dominant possession occurs when
 the possessing entity literally takes control of the possessed body. The identity (INT, POW
-and CHA) of the body’s owner is subsumed beneath the identity of the possessing spirit. The
+and CHA) of the body's owner is subsumed beneath the identity of the possessing spirit. The
 possessed is absolutely helpless, unable to take any action at all, unable even to regain Magic
 Points, a prisoner in his own body. The possessor is in complete control, though it does not have
 access to any of the memories, skills or magic of the possessed.
@@ -127,16 +127,16 @@ depending upon the creature.
 
 *Trample*  
 The creature is able to trample beings with a SIZ of half or less its own. This attack inflicts
-damage equal to double the creature’s Damage Modifier and requires the creature to expend
+damage equal to double the creature's Damage Modifier and requires the creature to expend
 Movement. A creature with this trait may Trample even if it has only one Combat Action – the
 Trample is assumed to be part of its Movement.
 
 *Wall Walking*  
 The creature can move freely on vertical surfaces and even move upside down on a ceiling with
-no special equipment. Such Movement is always at half the creature’s normal Movement rate.
+no special equipment. Such Movement is always at half the creature's normal Movement rate.
 
 *Vampiric Touch*  
-The creature can drain one or more of a character’s Characteristics permanently by touch.
+The creature can drain one or more of a character's Characteristics permanently by touch.
 
 
 ### Chaotic Features
@@ -147,7 +147,7 @@ deformed and horrid creatures, some results are simply not appropriate for some 
 
 Note that the Chaotic Features table uses eight-sided dice to modify characteristics. The number
 eight is traditionally associated with chaos and it is therefore fitting to use an eight-sided die to
-modify a chaos creature’s characteristics, either positively or negatively.
+modify a chaos creature's characteristics, either positively or negatively.
 
 #### Chaotic Features
 
@@ -158,7 +158,7 @@ modify a chaos creature’s characteristics, either positively or negatively.
 | 03    | Acidic        | Possesses acidic ichor which sprays whenever the skin is penetrated, causing damage to the attacker; roll 1D4, 1=1D2, 2=1D4, 3=1D6 and |
 | 4=1D8 |amage per wound|             |
 | 04    | Agile         | +1D8 DEX.   |
-| 05    | Alluring      | Produces pheromones which attract and seduce victims, who must succeed in an opposed test of Persistence against the Allurement’s potency of 1D8x10%. If the resistance fails the victim is hopelessly allured by the creature for 21–INT Combat Rounds. |
+| 05    | Alluring      | Produces pheromones which attract and seduce victims, who must succeed in an opposed test of Persistence against the Allurement's potency of 1D8x10%. If the resistance fails the victim is hopelessly allured by the creature for 21–INT Combat Rounds. |
 | 06    | Antennae      | Large antennae which sprout from a random location and grant a new primary sense; roll 1D6, 1=Echolocation (sonar), 2=Thermoception (senses heat), 3=Insanoception (senses madness and insanity), 4=Nociception (senses pain), 5=Ethoception (senses souls), 6=Magiception (senses any type of magic). |
 | 07    | Apathetic     | –1D8 POW.   |
 | 08    | Armed         | Uses physical weapons having an appropriate Combat Style for 1D4 different types. |
@@ -183,7 +183,7 @@ modify a chaos creature’s characteristics, either positively or negatively.
 | 27    | Deaf          | No hearing organs. Creature is immune to verbal commands and attacks or spells that affect hearing. |
 | 28    | Disturbing    | Creature is covered with 2D8 unsettling forms, such as baby arms or multiple eyes or mouths. Non-Chaotic foes suffer a –20% penalty to combat rolls owing to the disturbing nature of the deformities. |
 | 29    | Draining      | Temporarily weakens the willpower of an opponent by 1D8 Persistence each successful hit. The drain is not permanent; victims recover drained Persistence points, up to their previous level, at a rate of 1D10 per hour after the end of the encounter. |
-| 30    | Droning       | Produces a buzzing noise that sedates listeners, who must succeed in an opposed test of Persistence against the Droning’s potency of 1D8 x10% to avoid falling asleep for 1D8 minutes. |
+| 30    | Droning       | Produces a buzzing noise that sedates listeners, who must succeed in an opposed test of Persistence against the Droning's potency of 1D8 x10% to avoid falling asleep for 1D8 minutes. |
 | 31    | Exploding     | Deals damage equal to its Damage Modifier to all within 5 metres upon death. |
 | 32    | Feeble        | –1D8 STR.   |
 | 33    | Fixated       | Creature may only concentrate upon one thing at any one time. If in combat all attacks are concentrated on one particular opponent, determined randomly. It will not defend itself against attacks from anyone but the selected opponent. |
@@ -192,7 +192,7 @@ modify a chaos creature’s characteristics, either positively or negatively.
 | 36    | Hated         | Will be instantly attacked by any encountered members of a specific species. |
 | 37    | Hatred        | Creature possesses unreasoning hatred of a particular species and will attack on sight. Creature also gains the Fixated feature. |
 | 38    | Head          | Gain an extra head (roll on the Physique Type table, page xx), each one gets an independent Persistence check against mental effects, spells and so forth and can control the entire body if one head is incapacitated. |
-| 39    | Heart of Wealt| The creature’s heart is a precious gem the size of a human fist. Roll 1D6 for its properties: 1 = Worth 1D10 x1,000 silvers; 2 = When ground up and ingested heals 2D6 damage to all wounded locations instantly; 3 = When ground up and ingested causes 2D6 damage to all hit locations instantly; 4 = Spell Focus – the gem offers 1D8 uses of a randomly chosen Common Magic spell at a Magnitude equal to the creature’s POW divided by 3; 5 = The gem offers 1D8 uses of a randomly chosen Divine Magic spell at a Magnitude equal to the creature’s POW divided by 3. Using the spell requires the gem’s owner to make a successful Persistence roll. 6 = The gem offers 1D8 uses of a randomly chosen Sorcery spell at a Magnitude equal to the creature’s POW divided by 3. Using the spell requires the owner to make a successful Insight roll. |
+| 39    | Heart of Wealt| The creature's heart is a precious gem the size of a human fist. Roll 1D6 for its properties: 1 = Worth 1D10 x1,000 silvers; 2 = When ground up and ingested heals 2D6 damage to all wounded locations instantly; 3 = When ground up and ingested causes 2D6 damage to all hit locations instantly; 4 = Spell Focus – the gem offers 1D8 uses of a randomly chosen Common Magic spell at a Magnitude equal to the creature's POW divided by 3; 5 = The gem offers 1D8 uses of a randomly chosen Divine Magic spell at a Magnitude equal to the creature's POW divided by 3. Using the spell requires the gem's owner to make a successful Persistence roll. 6 = The gem offers 1D8 uses of a randomly chosen Sorcery spell at a Magnitude equal to the creature's POW divided by 3. Using the spell requires the owner to make a successful Insight roll. |
 | 40    | Horned        | Gain a gore attack. Each additional incidence adds another set of horns on a different location; roll 1D4, 1=1D6 damage, 2=1D8 damage, 3=1D10 damage or 4=1D12 damage. |
 | 41    | Icy           | Radiates freezing coldness, injuring anyone within melee range; roll 1D4, 1=1D2, 2=1D4, 3=1D6 and 4=1D8 damage per round. |
 | 42    | Intangible    | Cannot be harmed physically (roll again if Inviolate). |
@@ -202,12 +202,12 @@ modify a chaos creature’s characteristics, either positively or negatively.
 | 46    | Legs          | Gain an extra pair of motile limbs from a random species (roll on Physique Type table, page xx). |
 | 47    | Levitating    | Has the capability to move over any solid or liquid surface without sinking or leaving tracks. |
 | 48    | Mimic         | Changes into the shape of a creature it successfully touches, maintaining its own Characteristics but assuming the locations and a duplicate image of the being contacted. |
-| 49    | Mutable       | Every 1D3 Combat Rounds the creature mutates into a different form as determined on the Physique Type table on page xx. The transformation lasts 2 Combat Actions during which time the creature is vulnerable. The creature completes the transformation with all its original characteristics the same but gaining additional hit locations (or losing them) according to the nature of the transformation. Owing to the creature’s disturbing mutability, all attacks against it are at –20% and –40% whilst it is transforming (although it can neither attack nor defend). |
+| 49    | Mutable       | Every 1D3 Combat Rounds the creature mutates into a different form as determined on the Physique Type table on page xx. The transformation lasts 2 Combat Actions during which time the creature is vulnerable. The creature completes the transformation with all its original characteristics the same but gaining additional hit locations (or losing them) according to the nature of the transformation. Owing to the creature's disturbing mutability, all attacks against it are at –20% and –40% whilst it is transforming (although it can neither attack nor defend). |
 | 50    | Mutated       | Roll a random hit location, which no longer exists. |
 | 51    | Nerveless     | Cannot feel pain and does not suffer the ill-effects of serious wounds. |
 | 52    | Numb          | No sense of touch. |
-| 53    | Obfuscating   | Produces a cloud of mist that blinds observers, who must succeed in an opposed test of Perception against the Obfuscation’s potency of 1D8x10% every Combat Action to keep the creature in sight. |
-| 54    | Observant     | One of the creature’s sensory organs either grows bigger (x1D4 in size) or multiplies (x1D4 in number), adding a +1D8x10% bonus to the Perception skill when using that sensory perception; roll a D6, 1=Sight, 2=Sound, 3=Smell, 4=Taste, 5=Touch and 6=Other (if possessed). |
+| 53    | Obfuscating   | Produces a cloud of mist that blinds observers, who must succeed in an opposed test of Perception against the Obfuscation's potency of 1D8x10% every Combat Action to keep the creature in sight. |
+| 54    | Observant     | One of the creature's sensory organs either grows bigger (x1D4 in size) or multiplies (x1D4 in number), adding a +1D8x10% bonus to the Perception skill when using that sensory perception; roll a D6, 1=Sight, 2=Sound, 3=Smell, 4=Taste, 5=Touch and 6=Other (if possessed). |
 | 55    | Oversized     | One location is swollen to a very large size or length, doubling its Hit Points |
 | 56    | Paralysing    | Temporarily weakens the dexterity of an opponent by 1D8 DEX each successful hit. DEX points are recovered at the rate of 1 per hour after the end of the encounter. |
 | 57    | Patterned     | Weird colouring and markings, tiger stripes, spots, blotches and so forth, granting a +1D8 x10% bonus to Stealth. |
@@ -218,10 +218,10 @@ modify a chaos creature’s characteristics, either positively or negatively.
 | 62    | Reflecting    | All spells cast on the creature are reflected back upon the caster. |
 | 63    | Regenerating  | Recovers 1D4 Hit Points per round to every injured location, unless the location has suffered a Major Wound. |
 | 64    | Resistant     | Invulnerable to one type of damage or weapon type; fire, cold, poison, disease, swords, spears, cudgels and so forth. |
-| 65    | Roaring       | Produces a thunderous sound which deafens listeners, who must succeed in an opposed test of Resilience against the Roaring’s potency of 1D8x10% to avoid becoming temporarily deaf. |
+| 65    | Roaring       | Produces a thunderous sound which deafens listeners, who must succeed in an opposed test of Resilience against the Roaring's potency of 1D8x10% to avoid becoming temporarily deaf. |
 | 66    | Scaly         | Gain 1D6 Armour Points from reptilian scales. |
-| 67    | Scintillating | A shifting polychromatic appearance that confuses onlookers, who must succeed in an opposed test of Persistence against the Scintillation’s potency of 1D8x10% to avoid becoming mesmerised. Mesmerised characters are rooted to the spot for 1D3 Combat Rounds. |
-| 68    | Screaming     | Horrible screams which terrify listeners, who must succeed in an opposed test of Persistence against the Screaming’s potency of 1D8x10%. Failure to do so causes the listener to crumple into a sobbing, whimpering, foetal ball for 1D3 rounds. |
+| 67    | Scintillating | A shifting polychromatic appearance that confuses onlookers, who must succeed in an opposed test of Persistence against the Scintillation's potency of 1D8x10% to avoid becoming mesmerised. Mesmerised characters are rooted to the spot for 1D3 Combat Rounds. |
+| 68    | Screaming     | Horrible screams which terrify listeners, who must succeed in an opposed test of Persistence against the Screaming's potency of 1D8x10%. Failure to do so causes the listener to crumple into a sobbing, whimpering, foetal ball for 1D3 rounds. |
 | 69    | Shadowy       | Can control the ambient light in its immediate surroundings, gaining a 1D8x10% bonus to Stealth in daylight conditions or total invisibility in twilight/night conditions. |
 | 70    | Shaggy        | Gain 1D4 Armour Points from a thick, hairy pelt. |
 | 71    | Shelled       | Gain 1D8 Armour Points from an insectile or crustacean carapace. |
@@ -231,21 +231,21 @@ modify a chaos creature’s characteristics, either positively or negatively.
 | 75    | Slow          | Halve Movement. |
 | 76    | Small         | –1D8 SIZ.   |
 | 77    | Spiny         | Opponents in melee suffer half their own rolled damage if they successfully land an attack. |
-| 78    | Spores        | Produces clouds of spores. If inhaled the breather must win an opposed test of Resilience against the Spore’s potency of 1D8x10% to avoid suffering 1D8 Hit Points to the chest every round until successful; as the spores gestate into worms, flowers, vines and so on that are coughed up or grow out of the victim’s lungs. |
+| 78    | Spores        | Produces clouds of spores. If inhaled the breather must win an opposed test of Resilience against the Spore's potency of 1D8x10% to avoid suffering 1D8 Hit Points to the chest every round until successful; as the spores gestate into worms, flowers, vines and so on that are coughed up or grow out of the victim's lungs. |
 | 79    | Stalker       | +1D8x5% bonus to Stealth when sneaking. |
-| 80    | Stench        | Gives off nauseating odours that sicken inhalers, who must succeed in an opposed test of Resilience against the Stench’s potency of 1D8x10% to avoid dropping prone and vomiting for 1D4 Combat Actions. |
+| 80    | Stench        | Gives off nauseating odours that sicken inhalers, who must succeed in an opposed test of Resilience against the Stench's potency of 1D8x10% to avoid dropping prone and vomiting for 1D4 Combat Actions. |
 | 81    | Sticky        | Secretes a strong glue or mucus of potency 1D8x10% which causes items to adhere to its skin, requiring a Brawn roll at a penalty equal to the potency to remove. |
 | 82    | Sting         | Gain a sting attack. Each additional incidence adds another stinger on a different location; roll 1D4, 1=1D6 damage, 2=1D8 damage, 3=1D10 damage or 4=1D12 damage. |
 | 83    | Strong        | +1D8 STR.   |
 | 84    | Stupid        | –1D8 INT.   |
 | 85    | Susceptibility| One form of substance causes double damage to the creature; alcohol, silver, fire, and so on, |
 | 86    | Swimmer       | Has webbed digits and gills, +1D8x10% bonus to Swim. Can breathe underwater. |
-| 87    | Tailed        | Gains extra Unarmed attack, the damage is triple the creature’s Damage Modifier but only for the purposes of calculating Knockback. |
+| 87    | Tailed        | Gains extra Unarmed attack, the damage is triple the creature's Damage Modifier but only for the purposes of calculating Knockback. |
 | 88    | Tentacle      | Gains Unarmed attack. If successful then the tentacle inflicts the Entangle Combat Manoeuvre. |
 | 89    | Tongue        | Gains Umarmed attack. If successful then the sticky tongue inflicts the Grip Combat Manoeuvre. |
 | 90    | Toothed       | Gain a bite attack. Each additional incidence adds another toothed maw on a different location; roll 1D4, 1=1D6 damage, 2=1D8 damage, 3=1D10 damage or 4=1D12 damage – roll. |
 | 91    | Tough         | +1D8 CON.   |
-| 92    | Transmuter    | Changes the substance of whatever it touches into another material; living victims must succeed in an opposed test of Resilience against the Transmute’s potency of 1D8x10% to avoid being changed into crystal, dust, plants, wine, bronze, etc. |
+| 92    | Transmuter    | Changes the substance of whatever it touches into another material; living victims must succeed in an opposed test of Resilience against the Transmute's potency of 1D8x10% to avoid being changed into crystal, dust, plants, wine, bronze, etc. |
 | 93    | Ugly          | –1D8 CHA.   |
 | 94    | Vampiric      | Temporarily weakens the health of an opponent by 1D8 CON each successful hit. |
 | 95    | Vulnerable    | Damage to one location slays the creature instantly. |
@@ -312,20 +312,20 @@ entries. The skills are the basic skills for the creature type – individual cr
 enhanced scores or additional skills.
 
 All creatures have Persistence and Resilience scores. Generally, Persistence is calculated as the
-creature’s POW multiplied by 3 with a +10% bonus added and Resilience using the same formula
+creature's POW multiplied by 3 with a +10% bonus added and Resilience using the same formula
 but based on CON. Some creatures have higher or lower Persistence or Resilience values than
 these formulae generate, reflecting their innate nature.
 
 Where a creature is capable of using magic, the magical type it is skilled with is quoted, along
 with the appropriate skill value (Common Magic %, Pact and Lore %, and, for Sorcery, Sorcery
 (Grimoire) and Manipulation %). The spells the creature typically has are also listed but for
-custom designed creatures these can be varied, in line with the creature’s magical type.
+custom designed creatures these can be varied, in line with the creature's magical type.
 
 Where a creature can fly (dragons, for example), or swim, two Movement rates are given,
-separated by a slash. The first Movement rate is the creature’s ground Movement; the second for
+separated by a slash. The first Movement rate is the creature's ground Movement; the second for
 flying or swimming, as appropriate.
 
-**Weapons**: The creature’s preferred and available attacks and/or Combat Styles are listed. Where
+**Weapons**: The creature's preferred and available attacks and/or Combat Styles are listed. Where
 a Combat Style is concerned, the weapons are noted and the respective sizes and reach listed.
 Where weapon and shield styles are listed, size and reach for the weapon and then the shield are
 separated by a slash. The AP/HP for the weapons are similarly listed in the same order.
@@ -338,7 +338,7 @@ insulated from spiritual attack. Likewise spirits which have been bound to a phy
 tied to the material world and removed from the Spirit Plane.
 
 However, many spirits such as those of diseases, predatory animals or the malevolent dead, have
-the ability to discorporate the soul of a corporeal creature. This literally drags the mortal’s spirit
+the ability to discorporate the soul of a corporeal creature. This literally drags the mortal's spirit
 out of its body and fully into the Spirit Plane. Once there, they become vulnerable to spiritual
 combat. In addition, some mortals such as shamans can learn to discorporate themselves and
 High Shamans can even bring others with them into the spirit world. Other methods exist too.
@@ -353,14 +353,14 @@ form of magic to escape from the spirit world.
 
 Spirit combat is run in a very similar way to physical combat, save that lacking physical bodies on
 the Spirit Plane, Attributes are calculated using different characteristics. A spirit or discorporated
-soul’s spiritual attributes are calculated the following way:
+soul's spiritual attributes are calculated the following way:
 
 **Combat Actions** are determined from its average of INT and POW, rather than the average of
 DEX and INT.  
 **Strike Rank** is calculated from the average of INT and CHA, instead of the average of DEX
 and INT.  
 **Magic Points** are calculated as normal but are used by spirits and souls as their Hit Points.  
-**Spirit Damage** is based upon the value of a spirit’s Spectral Combat skill or a soul’s Spirit Binding
+**Spirit Damage** is based upon the value of a spirit's Spectral Combat skill or a soul's Spirit Binding
 skill; see the Spirit Damage Table. If a discorporated Adventurer lacks Spirit Binding, they use
 half the value of their Persistence on the table instead.
 
@@ -374,7 +374,7 @@ must rely on half of their raw Persistence skill. Attacks are made by rolling an
 between the attacker and the defender, using their relevant skills.
 
 If the attacker wins the Opposed Test they inflict an amount of damage equal to their Spirit
-Damage to the opponent’s Magic Points. If the defender wins, then no damage is incurred.
+Damage to the opponent's Magic Points. If the defender wins, then no damage is incurred.
 
 If the defender runs out of Combat Actions with which to defend themselves, then they are
 left wide open and the attacker may attempt to make an unopposed attack roll. An Adventurer
@@ -396,7 +396,7 @@ only if both spirits are concurrently occupying the same body or fetish.
 ## Possession and Exorcism
 A possessed creature is one whose control of their physical body has been usurped by another
 spirit or soul. This is normally the result of losing a Spirit Combat, whereupon the victor
-entwines itself around the defeated soul and rides it back to the loser’s corporeal body in the
+entwines itself around the defeated soul and rides it back to the loser's corporeal body in the
 material world. There are two forms of possession, Dominant and Covert.
 
 Dominant Possession occurs when the possessing entity literally takes complete control of the
@@ -410,13 +410,13 @@ viewed magically, or Spirit Walking.
 Covert Possession is when the spirit hides in the body of the possessed, riding it like a hitchhiker.
 The victim retains complete control over his body and remains completely unaware of his
 possession, unless the spirit chooses to inform him of its presence. Some spirits take over the
-victim’s body at night when they are sleeping, thus keeping their existence secret – save for
+victim's body at night when they are sleeping, thus keeping their existence secret – save for
 inevitable physical exhaustion and fleeting nightmares. Another example of covert possession is a
 curse or disease spirit which infects that creature with some form of debilitation. No manner of
 magic or healing will stop the effects until the spirit responsible is somehow cast out.
  
-Detecting a covert possession requires a successful Opposed Test of the investigator’s Perception
-(if viewed magically) or Spirit Walking skill versus the spirit’s Stealth skill.
+Detecting a covert possession requires a successful Opposed Test of the investigator's Perception
+(if viewed magically) or Spirit Walking skill versus the spirit's Stealth skill.
 
 No creature can ever purge itself of a possessing entity. They may only be exorcised by a separate
 individual defeating the possessor in Spirit Combat, or by successfully casting a specific type of
@@ -536,7 +536,7 @@ At as much as 16 metres, a full-grown giant is a terrible enemy. Giants usually 
 
 Giants tend to use mighty clubs (and sometimes even tree trunks) in battle. Because of the sheer
 size of a giant, Adventurers of SIZ 20 or less only roll 1D10 to determine Hit Location when
-attacking it in close combat. A giant’s Movement is equal to six plus its height, in metres.
+attacking it in close combat. A giant's Movement is equal to six plus its height, in metres.
 
 The Characteristics reflect a six metre high giant. For every two metres of height, a giant rolls
 3D6+6 for STR, 2D6+6 for CON and 3D6+6 for SIZ.
@@ -558,9 +558,8 @@ as Adventurers if the Games Master allows it.
 ```
 Combat Actions             2                  Typical Armour: Tough Hide (AP 3), Heavy
 Damage Modifier            +2D12              Leather Apron (AP 2, Abdomen and Legs only, –2
-                                              Strike Rank Penalty).
-Magic Points               11                 Traits: Formidable Natural Weapons
-Movement                   12m
+Magic Points               11                 Strike Rank Penalty).
+Movement                   12m                Traits: Formidable Natural Weapons
 Strike Rank                +11 (+9 if wearing apron)
 ```
 
@@ -619,7 +618,7 @@ Strike Rank                  +11
 
 **Skills**: Athletics 75%, Brawn 45%, Lore (Regional) 50%, Perception 70%, Persistence 40%,
 Resilience 40%, Sleight 70%, Stealth 75%, Survival 30%  
-**Common Magic 50%**: Bandit’s Cloak 2, Bladesharp 2, Pierce 2
+**Common Magic 50%**: Bandit's Cloak 2, Bladesharp 2, Pierce 2
 
 #### Combat Styles
 Spear and Shield 45%, Sling 50%
@@ -668,7 +667,7 @@ Strike Rank                    +15
 
 **Skills**: Athletics 30%, Evade 35%, First Aid 25%, Influence 25%, Perception 30%, Persistence
 43%, Resilience 58%, Sleight 50%, Stealth 40%  
-**Common Magic 30%**: Abacus, Becalm, Detect Food, Entertainer’s Smile 2
+**Common Magic 30%**: Abacus, Becalm, Detect Food, Entertainer's Smile 2
 
 #### Combat Styles
 Shortsword 35%, Sling 40%
@@ -804,10 +803,9 @@ the beleaguered males out to hunt.
 
 ```
 Combat Actions           2                 Typical Armour: Wiry or thick hair/fur. No Armour
-                                           Penalty.
-Damage Modifier          +1D6
-Magic Points             11                Traits: Night Sight
-Movement                 8m
+Damage Modifier          +1D6              Penalty.
+Magic Points             11
+Movement                 8m                Traits: Night Sight
 Strike Rank              +10
 ```
 
@@ -841,7 +839,7 @@ egg nurseries, the queen, hunt for food and protect their territory.
 
 Ant communication is pheromone-based, with different levels of pheromone being released
 to act as the communicator for others. Ant food trails and territories are marked with
-pheromone trails and anyone entering a giant ant colony’s territory can detect the stale,
+pheromone trails and anyone entering a giant ant colony's territory can detect the stale,
 musky scent of pheromones with a successful Perception roll.
 
 Ants work to their function unless a particular problem requires the communal mind to solve it.
@@ -852,11 +850,11 @@ or an obstacle to be removed. Thus, ants often scout individually and then retur
 numbers to deal with a problem.
 
 If a solitary ant is killed it releases an alarm pheromone that sends nearby ants into an attack
-frenzy and attracts more ants from further away. The alarm pheromone’s potency means that it
-can reach and alert ants from the same colony up to a distance in kilometres equal to the ant’s
+frenzy and attracts more ants from further away. The alarm pheromone's potency means that it
+can reach and alert ants from the same colony up to a distance in kilometres equal to the ant's
 CON. Thus killing a scout is no guard against further ants turning-up; in fact, it is the precise
 opposite. The alarm pheromone signals every ant within a number of metres equal to the dying
-ant’s CON x10 to attack immediately and summons a further 1D6+1 ants from the colony to
+ant's CON x10 to attack immediately and summons a further 1D6+1 ants from the colony to
 come and join the attack.
 
 Every ant colony can react and adapt to its needs, setting ambushes, barricading tunnels, raiding
@@ -874,7 +872,7 @@ of the colony but do not engage in combat.
 Individually, ants display intelligence related directly to their function. A single giant ant has
 INT 2, for instance. However, when working together, a communal intelligence develops. Every
 ant co-operating to solve a problem – whether it is moving something out of the way or attacking
-a threat – contributes 1D3 to the communal intelligence. This is added to the ants’ Fixed INT.
+a threat – contributes 1D3 to the communal intelligence. This is added to the ants' Fixed INT.
 Thus, two ants have a communal INT of 2+2D3 each; three ants have 2+3D3 each and so forth.
 The communal INT is then used to calculate Strike Rank and Combat Actions.
 
@@ -937,11 +935,11 @@ Resistance roll is failed. At the end of the Duration the victim must succeed in
 roll or suffer the effects of Asphyxiation (see the Legend Core Rulebook).  
 **Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a Potency
 of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing roll and add
-their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout its duration.
+their Potency as a bonus to the victim's Resilience roll to fight the venom throughout its duration.
 
 The sting of a giant bee is barbed. Using it causes the bee to suffer 2D6 damage to its abdomen
 as it is forced to leave the sting in the victim. However, if a bee stings successfully, the victim
-suffers the effects of an Impale in addition to the bee’s venom.
+suffers the effects of an Impale in addition to the bee's venom.
 
 |           | Dice         | Average          | 1D20      | Hit Location              | AP/HP |
 |-----------|--------------|------------------|-----------|---------------------------|-------|
@@ -1035,15 +1033,15 @@ live near a plentiful water source. They are solitary creatures.
 The centipede is a complex creature, with an equally complex Hit Location system. The body is
 divided into multiple segments, with each Hit Location covering one or two of these segments.
 The segments are numbered from one through 18, with segment one being immediately behind
-the head and segment 18 being the creature’s posterior. If the centipede’s head is reduced to
+the head and segment 18 being the creature's posterior. If the centipede's head is reduced to
 zero Hit Points or lower, it begins to thrash frantically but the fight is over and the creature will
 soon die. If any of the other segments are brought to zero Hit Points but not destroyed, the
 centipede will lose 5m from its Movement rate. If enough locations are incapacitated to reduce
-the creature’s Movement to zero, it will die.
+the creature's Movement to zero, it will die.
 
-However, if one of the centipede’s segments is destroyed, all segments behind that one will be
+However, if one of the centipede's segments is destroyed, all segments behind that one will be
 incapacitated and immobile. Meanwhile, all segments ahead of the one destroyed will attempt to
-run away, carrying the creature’s head with them.
+run away, carrying the creature's head with them.
 
 #### Combat Notes
 Centipede venom is as follows:
@@ -1060,7 +1058,7 @@ the first Resistance roll is failed. The location bitten then suffers paralysis 
 roll is failed.  
 **Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a
 Potency of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing
-roll and add their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout
+roll and add their Potency as a bonus to the victim's Resilience roll to fight the venom throughout
 its duration.  
 
 |                | Dice      | Average            | 1D20   | Hit Location     | AP/HP |
@@ -1121,19 +1119,20 @@ Giant crabs use their immense claws to both Bash and Grip. The claws are capable
 Combat Manoeuvre although this is applied only if the crab scores a critical success on an
 attack.
 
-             Dice            Average             1D20       Hit Location             AP/HP
-STR          3D6+24          35                  1          Right Rear Leg           8/8
-CON          3D6+6           17                  2          Left Rear Leg            8/8
-SIZ          3D6+24          35                  3          Right Hind Leg           8/8
-INT          2               2                   4          Left Hind Leg            8/8
-POW          3D6             11                  5-8        Body                     8/13
-DEX          2D6             7                   9          Right Centre Leg         8/8
-                                                 10         Left Centre Leg          8/8
-                                                 11         Right Front Leg          8/8
-                                                 12         Left Front Leg           8/8
-                                                 13-14      Right Claw               8/9
-                                                 15-16      Left Claw                8/9
-                                                 17-20      Head                     8/10
+|            | Dice          | Average           | 1D20     | Hit Location           | AP/HP |
+|------------|---------------|-------------------|----------|------------------------|-------|
+| STR        | 3D6+24        | 35                | 1        | Right Rear Leg         | 8/8   |
+| CON        | 3D6+6         | 17                | 2        | Left Rear Leg          | 8/8   |
+| SIZ        | 3D6+24        | 35                | 3        | Right Hind Leg         | 8/8   |
+| INT        | 2             | 2                 | 4        | Left Hind Leg          | 8/8   |
+| POW        | 3D6           | 11                | 5-8      | Body                   | 8/13  |
+| DEX        | 2D6           | 7                 | 9        | Right Centre Leg       | 8/8   |
+|            |               |                   | 10       | Left Centre Leg        | 8/8   |
+|            |               |                   | 11       | Right Front Leg        | 8/8   |
+|            |               |                   | 12       | Left Front Leg         | 8/8   |
+|            |               |                   | 13-14    | Right Claw             | 8/9   |
+|            |               |                   | 15-16    | Left Claw              | 8/9   |
+|            |               |                   | 17-20    | Head                   | 8/10  |
 
 ```
 Combat Actions               1
@@ -1205,7 +1204,7 @@ like a dragon.
 An insect swarm always attacks uses its first Combat Action to attack.
 
 Every round the Adventurer is exposed to the swarm the Games Master should total the number
-of stings taken and multiply that total by the appropriate species’ Venom Factor, as given on the
+of stings taken and multiply that total by the appropriate species' Venom Factor, as given on the
 Insect Venom table.
 
 #### Insect Venom
@@ -1221,8 +1220,8 @@ Insect Venom table.
 | Bullfrog Ants                         | 1                              | 2m            |
 
 The total number of stings multiplied by the venom factor gives the base Potency of the venom
-introduced into the victim’s body. Insect swarm venom has an onset time of 1D10 Combat
-Rounds. After that time, the Potency of the venom should be matched against the victim’s
+introduced into the victim's body. Insect swarm venom has an onset time of 1D10 Combat
+Rounds. After that time, the Potency of the venom should be matched against the victim's
 Resilience in a standard opposed test.
 
 #### Insect Venom
@@ -1239,7 +1238,7 @@ Resistance roll is failed. At the end of the Duration the victim must succeed in
 roll or suffer the effects of Asphyxiation (see the Legend Core Rulebook).  
 **Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a
 Potency of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing
-roll and add their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout
+roll and add their Potency as a bonus to the victim's Resilience roll to fight the venom throughout
 its duration.
 
 The Movement Rate listing shows how fast a swarm can travel if it is pursuing an enemy.
@@ -1350,13 +1349,13 @@ Blood-sucking insects that inhabit woodlands, marshlands and bogs, giant mosquit
 wherever there is standing water and are attracted by carbon dioxide – the exhaled breath of
 breathing creatures. Mosquitoes are, in general, nectar feeders and only the females require blood
 to stimulate egg production. However the giant variety, unable to gain enough sustenance from
-the small amounts of nectar normal sized plants produce, compared to the giant mosquitoes’
+the small amounts of nectar normal sized plants produce, compared to the giant mosquitoes'
 size, have adapted to rely on blood.
 
 Giant mosquitoes are the size of a cat and the high pitched buzzing of their wings provides an
 early warning of an attack. They are most active at dawn and dusk, preferring to lie dormant
 during the day – but they will attack if disturbed. A single giant mosquito can drink a number of
-Hit Points’ worth of blood equal to its SIZ x2 before being satiated. However, it is not necessarily
+Hit Points' worth of blood equal to its SIZ x2 before being satiated. However, it is not necessarily
 blood loss that is the killer. To drain blood the mosquito injects anti-coagulant saliva into its
 prey, and, at the levels a giant mosquito uses, this can overwhelm a bite victim after the mosquito
 has taken it fill. See Combat Notes for more details.
@@ -1461,7 +1460,7 @@ Unarmed 95%
 | Mandible       | M              | T            | 1D8+2D8        | As for Head   | -     |
 | Foreclaws      | L              | VL           | 1D10+2D8       | As for Claw   | -     |
 
-##Scorpion, Giant
+## Scorpion, Giant
 Scorpions are giant carnivorous arachnids that come in a riot of colours and patterns. They live
 in jungles and deserts where they hide out during the day and emerge at nightfall to hunt. With
 pincers to the fore and a long, segmented tail carrying a wicked sting to the aft, giant scorpions
@@ -1474,47 +1473,58 @@ have no discernible head; the sensory organs are contained within the forefront 
 #### Combat Notes
 Scorpion venom has the following Characteristics:
 
-Application: Injected or smeared.
-Onset Time: 1D3 Rounds.
-Duration: 1D3 Days.
-Resistance Time: Daily. The first Resistance roll must be made at the end of the Onset Time,
+**Application**: Injected or smeared.  
+**Onset Time**: 1D3 Rounds.  
+**Duration**: 1D3 Days.  
+**Resistance Time**: Daily. The first Resistance roll must be made at the end of the Onset Time,
 then daily thereafter. Successfully resisting the poison allows the victim to avoid suffering the
-Conditions until the next roll must be made.
-Potency: 40+ CON of Scorpion.
-Resistance: Resilience.
-Conditions: Agony and Nausea.
-Antidote/Cure: Healing skill and magic.
+Conditions until the next roll must be made.  
+**Potency**: 40+ CON of Scorpion.  
+**Resistance**: Resilience.  
+**Conditions**: Agony and Nausea.  
+**Antidote/Cure**: Healing skill and magic.
 
-              Dice           Average            1D20         Hit Location               AP/HP
-STR              4D6+12         26                 1            Right Fourth Leg           5/8
-CON              2D6+12         19                 2            Left Fourth Leg            5/8
-SIZ              3D6+12         23                 3            Right Third Leg            5/8
-INT              1              1                  4            Left Third Leg             5/8
-POW              3D6            11                 5-6          Tail                       5/8
-DEX              3D6            11                 7-9          Abdomen                    5/10
-                                                10           Right Second Leg           5/8
-Combat Actions                  2                  11           Left Second Leg            5/8
-Damage Modifier                 +1D10              12           Right First Leg            5/8
-Magic Points                    11                 13           Left First Leg             5/8
-Movement                        12m                14-15        Right Pincer               5/9
-Strike Rank                     +7                 16-17        Left Pincer                5/9
-                                                18-20        Thorax                     5/11
+|                | Dice         | Average          | 1D20       | Hit Location             | AP/HP |
+|----------------|--------------|------------------|------------|--------------------------|-------|
+| STR            | 4D6+12       | 26               | 1          | Right Fourth Leg         | 5/8   |
+| CON            | 2D6+12       | 19               | 2          | Left Fourth Leg          | 5/8   |
+| SIZ            | 3D6+12       | 23               | 3          | Right Third Leg          | 5/8   |
+| INT            | 1            | 1                | 4          | Left Third Leg           | 5/8   |
+| POW            | 3D6          | 11               | 5-6        | Tail                     | 5/8   |
+| DEX            | 3D6          | 11               | 7-9        | Abdomen                  | 5/10  |
+|                |              |                  | 10         | Right Second Leg         | 5/8   |
+|                |              |                  | 11         | Left Second Leg          | 5/8   |
+|                |              |                  | 12         | Right First Leg          | 5/8   |
+|                |              |                  | 13         | Left First Leg           | 5/8   |
+|                |              |                  | 14-15      | Right Pincer             | 5/9   |
+|                |              |                  | 16-17      | Left Pincer              | 5/9   |
+|                |              |                  | 18-20      | Thorax                   | 5/11  |
+
+```
+Combat Actions                  2
+Damage Modifier                 +1D10
+Magic Points                    11
+Movement                        12m
+Strike Rank                     +7
 
 Typical Armour: Chitin exoskeleton. No Armour Penalty.
 Traits: Formidable Natural Weapons, Wall Walking, Sting
-Skills: Athletics 65%, Evade 30%, Perception 55%, Persistence 37%, Resilience 67%, Stealth 45%
+```
 
-Combat Styles
+**Skills**: Athletics 65%, Evade 30%, Perception 55%, Persistence 37%, Resilience 67%, Stealth 45%
+
+#### Combat Styles
 Unarmed 35%
 
-Weapons
-Type             Size     Reach       Damage                  AP/HP            Range
-Sting            L        L           1D6+1D10 Poison         As for Tail      -
-Pincer           M        S           1D4+1+1D10              As for Tail      -
+#### Weapons
 
-                                                                                                      43
-Alex Greene (order #3140110)                                                                                           8
-       Slug, Giant
+| Type           | Size   | Reach     | Damage                | AP/HP          | Range |
+|----------------|--------|-----------|-----------------------|----------------|-------|
+| Sting          | L      | L         | 1D6+1D10 Poison       | As for Tail    | -     |
+| Pincer         | M      | S         | 1D4+1+1D10            | As for Tail    | -     |
+
+
+## Slug, Giant
 These huge gastropods are omnivorous but are carrion feeders rather than hunters. Slow moving
 and dull-witted, giant slugs are, nevertheless, fond of fresh meat, being attracted to helpless,
 wounded creatures. Healthy sources of protein are able to move far faster than a slug and so it
@@ -1522,35 +1532,37 @@ poses little threat.
 
 The mucus a slug exudes to help it move is extremely slippery but is otherwise harmless to the
 touch.
-           Dice         Average            1D20        Hit Location         AP/HP
-STR             2D6+6        13                 1-7         Tail                 1/5
-CON             3D6          11                 8-16        Body                 1/6
-SIZ             2D6+4        11                 17-20       Head                 1/5
-INT             1            1
-POW             2D6          7
-DEX             2D6–1        6
 
+|               | Dice       | Average          | 1D20      | Hit Location       | AP/HP |
+|---------------|------------|------------------|-----------|--------------------|-------|
+| STR           | 2D6+6      | 13               | 1-7       | Tail               | 1/5   |
+| CON           | 3D6        | 11               | 8-16      | Body               | 1/6   |
+| SIZ           | 2D6+4      | 11               | 17-20     | Head               | 1/5   |
+| INT           | 1          | 1                |           |                    |       |
+| POW           | 2D6        | 7                |           |                    |       |
+| DEX           | 2D6–1      | 6                |           |                    |       |
+
+```
 Combat Actions               1                  Typical Armour: Slime. No armour penalty.
 Damage Modifier              +0
 Magic Points                 7                  Traits: Wall Walking
 Movement                     3m
 Strike Rank                  +4
+```
 
-Skills: Evade 05%, Perception 25%, Persistence 31%, Resilience 31%, Stealth 30%
+**Skills**: Evade 05%, Perception 25%, Persistence 31%, Resilience 31%, Stealth 30%
 
-Combat Styles
+#### Combat Styles
 Bite 30%
 
-Weapons
-Type            SIZ               Reach         Damage          AP/HP           Range
-Bite            S                 T             1D4             As for Head     -
+#### Weapons
+
+| Type          | SIZ             | Reach       | Damage        | AP/HP         | Range |
+|---------------|-----------------|-------------|---------------|---------------|-------|
+| Bite          | S               | T           | 1D4           | As for Head   | -     |
 
 
-
-
-44
-Alex Greene (order #3140110)                                                                              8
-         Spider, Giant
+## Spider, Giant
 There are tens of thousands of species of spiders in the world but only a few species that pose a
 real danger to the average adventurer – the giant spider is one of these.
 
@@ -1564,8 +1576,8 @@ spider can then drop a sheet of webbing atop its intended victim. Still another 
 enclose an area in which its prey is sleeping.
 
 The webbing of a giant spider will hold fast anyone who touches it unless they can succeed on an
-opposed Brawn or Athletics test. The spider web’s Athletics value is equal to that of the spider that
-wove it. The web’s Hit Points are double the spider’s STR. Any weapon striking a strand of webbing
+opposed Brawn or Athletics test. The spider web's Athletics value is equal to that of the spider that
+wove it. The web's Hit Points are double the spider's STR. Any weapon striking a strand of webbing
 will do damage but it also may become stuck. Flaming weapons never become stuck and always
 inflict double damage on webbing. However, webbing will not ignite.
 
@@ -1577,138 +1589,141 @@ must be broken through individually. An incoming webbing attack may not be parri
 
 Giant spiders are extremely intelligent creatures, though they are still just animals and their INT
 is fixed. In the following entries, the Movement figure following the slash is for movement within
-the spider’s own web.
+the spider's own web.
 
-Combat Notes
+#### Combat Notes
 Spider venom has the following Characteristics:
 
-Application: Injected.
-Onset time: 1D3 Rounds.
-Duration: 1D3 Days.
-Resistance Time: Daily. The first Resistance roll must be made at the end of the Onset Time,
+**Application**: Injected.  
+**Onset time**: 1D3 Rounds.  
+**Duration**: 1D3 Days.  
+**Resistance Time**: Daily. The first Resistance roll must be made at the end of the Onset Time,
 then daily thereafter. Successfully resisting the poison allows the victim to avoid suffering the
-Conditions until the next roll must be made.
-Potency: 40+ CON of Spider.
-Resistance: Resilience.
-Conditions: Paralysis.
-Antidote/Cure: Healing skill and magic.
+Conditions until the next roll must be made.  
+**Potency**: 40+ CON of Spider.  
+**Resistance**: Resilience.  
+**Conditions**: Paralysis.  
+**Antidote/Cure**: Healing skill and magic.
 
 The web is incredibly strong. All webs have 4 AP but the strength of the web in Hit Points
-is equal to the spider’s own STR. Those caught in the web suffer the effects of the Entangle
+is equal to the spider's own STR. Those caught in the web suffer the effects of the Entangle
 Combat Manoeuvre, across 1D3 separate locations at the same time. If a victim is able to move
 across the web, his movement is reduced by two thirds.
 
+#### 'Small' Giant Spider
 
+|          | Dice       | Average            | 1D20    | Hit Location          | AP/HP |
+|----------|------------|--------------------|---------|-----------------------|-------|
+| STR      | 1D6+6      | 10                 | 1       | Right Fourth Leg      | 3/3   |
+| CON      | 3D6        | 11                 | 2       | Left Fourth Leg       | 3/3   |
+| SIZ      | 2D6+6      | 13                 | 3       | Right Third Leg       | 3/3   |
+| INT      | 8          | 8                  | 4       | Left Third Leg        | 3/3   |
+| POW      | 2D6        | 7                  | 5-11    | Abdomen               | 3/6   |
+| DEX      | 2D6+9      | 16                 | 12      | Right Second Leg      | 3/3   |
+|          |            |                    | 13      | Left Second Leg       | 3/3   |
+|          |            |                    | 14      | Right First Leg       | 3/3   |
+|          |            |                    | 15      | Left First Leg        | 3/3   |
+|          |            |                    | 16-20   | Thorax                | 3/5   |
 
+```
+Combat Actions          3                    Typical Armour: Chitin. No armour penalty.
+Damage Modifier         +0
+Magic Points            7                    Traits: Poison, (bite, see below for 
+Movement                6m/12m               details on Spider Venom), Wall Walking
+Strike Rank             +16
+```
 
-                                                                                                      45
-Alex Greene (order #3140110)                                                                                           8
-       ‘Small’ Giant Spider
-      Dice         Average              1D20      Hit Location            AP/HP
-STR        1D6+6        10                   1         Right Fourth Leg        3/3
-CON        3D6          11                   2         Left Fourth Leg         3/3
-SIZ        2D6+6        13                   3         Right Third Leg         3/3
-INT        8            8                    4         Left Third Leg          3/3
-POW        2D6          7                    5-11      Abdomen                 3/6
-DEX        2D6+9        16                   12        Right Second Leg        3/3
-                                        13        Left Second Leg         3/3
-                                        14        Right First Leg         3/3
-Combat Actions          3                    15        Left First Leg          3/3
-Damage Modifier         +0                   16-20     Thorax                  3/5
-Magic Points            7
-Movement                6m/12m
-Strike Rank             +16                  Typical Armour: Chitin. No armour penalty.
-
-Traits: Poison, (bite, see below for details on Spider Venom), Wall Walking
-Skills: Athletics 75%, Evade 40%, Perception 65%, Persistence 31%, Resilience 43%, Stealth
+**Skills**: Athletics 75%, Evade 40%, Perception 65%, Persistence 31%, Resilience 43%, Stealth
 85%, Track 40%
 
-Combat Styles
+#### Combat Styles
 Bite 50%, Web 60%
 
-Weapons
-Type           SIZ            Reach          Damage         AP/HP          Range
-Bite           S              T              1D6+poison     As for Head    -
-Web            L              L              Entangles      4/10           -
+#### Weapons
+
+| Type         | SIZ          | Reach        | Damage       | AP/HP        | Range |
+|--------------|--------------|--------------|--------------|--------------|-------|
+| Bite         | S            | T            | 1D6+poison   | As for Head  | -     |
+| Web          | L            | L            | Entangles    | 4/10         | -     |
 
 
+## 'Medium' Giant Spider
 
+|           | Dice      | Average         | 1D20      | Hit Location            | AP/HP |
+|-----------|-----------|-----------------|-----------|-------------------------|-------|
+| STR       | 2D6+12    | 19              | 1         | Right Fourth Leg        | 4/8   |
+| CON       | 3D6+6     | 17              | 2         | Left Fourth Leg         | 4/8   |
+| SIZ       | 4D6+12    | 26              | 3         | Right Third Leg         | 4/8   |
+| INT       | 8         | 8               | 4         | Left Third Leg          | 4/8   |
+| POW       | 3D6       | 11              | 5-11      | Abdomen                 | 4/10  |
+| DEX       | 2D6+9     | 16              | 12        | Right Second Leg        | 4/8   |
+|           |           |                 | 13        | Left Second Leg         | 4/8   |
+|           |           |                 | 14        | Right First Leg         | 4/8   |
+|           |           |                 | 15        | Left First Leg          | 4/8   |
+|           |           |                 | 16-20     | Thorax                  | 4/11  |
 
-46
-Alex Greene (order #3140110)                                                                        8
-         ‘Medium’ Giant Spider
-         Dice        Average           1D20        Hit Location              AP/HP
-STR         2D6+12      19                1           Right Fourth Leg          4/8
-CON         3D6+6       17                2           Left Fourth Leg           4/8
-SIZ         4D6+12      26                3           Right Third Leg           4/8
-INT         8           8                 4           Left Third Leg            4/8
-POW         3D6         11                5-11        Abdomen                   4/10
-DEX         2D6+9       16                12          Right Second Leg          4/8
-                                       13          Left Second Leg           4/8
-                                       14          Right First Leg           4/8
-Combat Actions          3                 15          Left First Leg            4/8
-Damage Modifier         +1D8              16-20       Thorax                    4/11
+```
+Combat Actions          3
+Damage Modifier         +1D8              Typical Armour: Chitin. No armour penalty.
 Magic Points            11
-Movement                8m/18m
-Strike Rank             +16               Typical Armour: Chitin. No armour penalty.
+Movement                8m/18m            Traits: Poison, (bite, see below for
+Strike Rank             +16               details on Spider Venom), Wall Walking
+```
 
-Traits: Poison, (bite, see below for details on Spider Venom), Wall Walking
-Skills: Athletics 100%, Evade 40%, Perception 65%, Persistence 43%, Resilience 61%, Stealth
+**Skills**: Athletics 100%, Evade 40%, Perception 65%, Persistence 43%, Resilience 61%, Stealth
 85%, Track 40%
 
-Combat Styles
+#### Combat Styles
 Bite 55%, Web 65%
 
-Weapons
-Type           SIZ     Reach         Damage                  AP/HP          Range
-Bite           M       T             1D6+1D8+poison          As for Head    -
-Web            L       L             Entangles               4/19           -
+#### Weapons
+
+| Type         | SIZ   | Reach       | Damage                | AP/HP        | Range |
+|--------------|-------|-------------|-----------------------|--------------|-------|
+| Bite         | M     | T           | 1D6+1D8+poison        | As for Head  | -     |
+| Web          | L     | L           | Entangles             | 4/19         | -     |
 
 
+## 'Large' Giant Spider
 
+|        | Dice      | Average         | 1D20      | Hit Location           | AP/HP |
+|--------|-----------|-----------------|-----------|------------------------|-------|
+| STR    | 3D6+18    | 29              | 1         | Right Fourth Leg       | 6/11  |
+| CON    | 3D6+12    | 23              | 2         | Left Fourth Leg        | 6/11  |
+| SIZ    | 6D6+18    | 39              | 3         | Right Third Leg        | 6/11  |
+| INT    | 8         | 8               | 4         | Left Third Leg         | 6/11  |
+| POW    | 4D6       | 14              | 5-11      | Abdomen                | 6/16  |
+| DEX    | 2D6+9     | 16              | 12        | Right Second Leg       | 6/11  |
+|        |           |                 | 13        | Left Second Leg        | 6/11  |
+|        |           |                 | 14        | Right First Leg        | 6/11  |
+|        |           |                 | 15        | Left First Leg         | 6/11  |
+|        |           |                 | 16-20     | Thorax                 | 6/17  |
 
-                                                                                           47
-Alex Greene (order #3140110)                                                                                8
-       Large’ Giant Spider
-    Dice        Average           1D20        Hit Location             AP/HP
-STR      3D6+18      29                1           Right Fourth Leg         6/11
-CON      3D6+12      23                2           Left Fourth Leg          6/11
-SIZ      6D6+18      39                3           Right Third Leg          6/11
-INT      8           8                 4           Left Third Leg           6/11
-POW      4D6         14                5-11        Abdomen                  6/16
-DEX      2D6+9       16                12          Right Second Leg         6/11
-                                  13          Left Second Leg          6/11
-                                  14          Right First Leg          6/11
-Combat Actions       3                 15          Left First Leg           6/11
-Damage Modifier      +2D6              16-20       Thorax                   6/17
+```
+Combat Actions       3
+Damage Modifier      +2D6              Typical Armour: Chitin. No armour penalty.
 Magic Points         14
-Movement             12m/20m
-Strike Rank          +16               Typical Armour: Chitin. No armour penalty.
+Movement             12m/20m           Traits: Poison, (bite, see below for
+Strike Rank          +16               details on Spider Venom), Wall Walking
+```
 
-Traits: Poison, (bite, see below for details on Spider Venom), Wall Walking
-Skills: Athletics 110%, Dodge 40%, Perception 65%, Persistence 52%, Resilience 79%, Stealth
+**Skills**: Athletics 110%, Dodge 40%, Perception 65%, Persistence 52%, Resilience 79%, Stealth
 85%, Track 40%
 
-Combat Styles
+#### Combat Styles
 Bite 60%, Web 70%
 
-Weapons
-Type           SIZ         Reach      Damage                 AP/HP          Range
-Bite           M           T          1D6+2D6+poison         As for Head    -
-Web            L           L          Entangles              4/29           -
+#### Weapons
+
+| Type         | SIZ       | Reach    | Damage               | AP/HP        | Range |
+|--------------|-----------|----------|----------------------|--------------|-------|
+| Bite         | M         | T        | 1D6+2D6+poison       | As for Head  | -     |
+| Web          | L         | L        | Entangles            | 4/29         | -     |
 
 
+# Dinosaurs and Reptiles
 
-
-48
-Alex Greene (order #3140110)                                                                         8
-          dinosaurs and reptiles
-
-
-
-
-Alex Greene (order #3140110)       8
-       Alligator/Crocodile
+## Alligator/Crocodile
 These large reptiles, close relatives of the dinosaurs, live in swamps and slow-moving rivers.
 Active predators, they use their stealth to prey upon fish, snakes and animals coming in search
 of drinking water. Although alligators and crocodiles are different species and have a different
@@ -1716,82 +1731,86 @@ appearance (alligators are shorter and have a smaller snout), the same statistic
 
 Though they are often found in large numbers, crocodiles are not sociable or pack animals.
 Crocodiles are faster in the water than they are on land and prefer to attack prey in the water or
-at the water’s edge.
+at the water's edge.
 
 When a crocodile in the water bites its victim, it holds on and spins around, attempting to
 tear away a large chunk of flesh. This attack is automatically successful (assuming of course the
-crocodile succeeds on the initial attack) and inflicts damage equal to the crocodile’s Damage
+crocodile succeeds on the initial attack) and inflicts damage equal to the crocodile's Damage
 Modifier each round to the location bitten. Armour does not protect against this damage. A
 crocodile on land is unable to use this attack, though it can still bite.
 
-Medium Alligator or Crocodile
-         Dice          Average                1D20         Hit Location          AP/HP
-STR           4D6+12        26                     1-3          Tail                  5/8
-CON           3D6+8         19                     4            Right Hind Leg        5/6
-SIZ           4D6+12        26                     5            Left Hind Leg         5/6
-INT           3             3                      6-9          Hindquarters          5/9
-POW           3D6           11                     10-14        Forequarters          5/10
-DEX           2D6           7                      15           Right Front Leg       5/6
-                                              16           Left Front Leg        5/6
-                                              17-20        Head/Neck             5/8
+#### Medium Alligator or Crocodile
 
+|             | Dice        | Average              | 1D20       | Hit Location        | AP/HP |
+|-------------|-------------|----------------------|------------|---------------------|-------|
+| STR         | 4D6+12      | 26                   | 1-3        | Tail                | 5/8   |
+| CON         | 3D6+8       | 19                   | 4          | Right Hind Leg      | 5/6   |
+| SIZ         | 4D6+12      | 26                   | 5          | Left Hind Leg       | 5/6   |
+| INT         | 3           | 3                    | 6-9        | Hindquarters        | 5/9   |
+| POW         | 3D6         | 11                   | 10-14      | Forequarters        | 5/10  |
+| DEX         | 2D6         | 7                    | 15         | Right Front Leg     | 5/6   |
+|             |             |                      | 16         | Left Front Leg      | 5/6   |
+|             |             |                      | 17-20      | Head/Neck           | 5/8   |
+
+```
 Combat Actions              2                      Typical Armour: Scales. No Armour Penalty.
 Damage Modifier             +1D12
 Magic Points                11                     Traits: Excellent Swimmer
 Movement                    6m/10m (swim)
 Strike Rank                 +7
+```
 
-Skills: Athletics 75%, Brawn 65%, Perception 40%, Persistence 43%, Resilience 67%, Stealth
+**Skills**: Athletics 75%, Brawn 65%, Perception 40%, Persistence 43%, Resilience 67%, Stealth
 50%, Swim 95%
 
-Combat Styles
+#### Combat Styles
 Bite 50%
 
-Weapons
-Type             Size          Reach      Damage                AP/HP                Range
-Bite             M             M          1D8+1D12              As for Head          -
-Tail Bash        L             L          1D4+1D12              As for Tail          -
+#### Weapons
+
+| Type           | Size        | Reach    | Damage              | AP/HP              | Range |
+|----------------|-------------|----------|---------------------|--------------------|-------|
+| Bite           | M           | M        | 1D8+1D12            | As for Head        | -     |
+| Tail Bash      | L           | L        | 1D4+1D12            | As for Tail        | -     |
 
 
+#### Large Alligator or Crocodile
 
+|              | Dice      | Average       | 1D20      | Hit Location        | AP/HP |
+|--------------|-----------|---------------|-----------|---------------------|-------|
+| STR          | 8D6+12    | 40            | 1-3       | Tail                | 7/14  |
+| CON          | 6D6+8     | 29            | 4         | Right Hind Leg      | 7/9   |
+| SIZ          | 8D6+12    | 40            | 5         | Left Hind Leg       | 7/9   |
+| INT          | 3         | 3             | 6-9       | Hindquarters        | 7/15  |
+| POW          | 3D6       | 11            | 10-14     | Forequarters        | 7/16  |
+| DEX          | 2D6       | 7             | 15        | Right Front Leg     | 7/9   |
+|              |           |               | 16        | Left Front Leg      | 7/9   |
+|              |           |               | 17-20     | Head/Neck           | 7/14  |
 
-50
-Alex Greene (order #3140110)                                                                                8
-         Large Alligator or Crocodile
-            Dice        Average         1D20        Hit Location          AP/HP
-STR            8D6+12      40              1-3         Tail                  7/14
-CON            6D6+8       29              4           Right Hind Leg        7/9
-SIZ            8D6+12      40              5           Left Hind Leg         7/9
-INT            3           3               6-9         Hindquarters          7/15
-POW            3D6         11              10-14       Forequarters          7/16
-DEX            2D6         7               15          Right Front Leg       7/9
-                                        16          Left Front Leg        7/9
-                                        17-20       Head/Neck             7/14
-
+```
 Combat Actions             2               Typical Armour: Scales. No Armour Penalty.
 Damage Modifier            +2D8
 Magic Points               11              Traits: Excellent Swimmer
 Movement                   6m/10m
 Strike Rank                +7
+```
 
-Skills: Athletics 75%, Brawn 85%, Perception 40%, Persistence 43%, Resilience 97%, Stealth
+**Skills**: Athletics 75%, Brawn 85%, Perception 40%, Persistence 43%, Resilience 97%, Stealth
 50%, Swim 95%
 
-Combat Styles
+#### Combat Styles
 Bite 50%
 
-Weapons
-Type           Size           Reach          Damage         AP/HP          Range
-Bite           M              M              1D8+2D12       As for Head    -
-Tail Bash      L              L              1D4+2D12       As for Tail    -
+#### Weapons
+
+| Type         | Size         | Reach        | Damage       | AP/HP        | Range |
+|--------------|--------------|--------------|--------------|--------------|-------|
+| Bite         | M            | M            | 1D8+2D12     | As for Head  | -     |
+| Tail Bash    | L            | L            | 1D4+2D12     | As for Tail  | -     |
 
 
-
-
-                                                                                          51
-Alex Greene (order #3140110)                                                                               8
-       Allosaurus
-The name means ‘different lizard’ and allosaurs are large carnivorous dinosaurs, reaching 10
+## Allosaurus
+The name means 'different lizard' and allosaurs are large carnivorous dinosaurs, reaching 10
 metres in length and standing over three metres tall. Allosaurs are bipedal, with large heads,
 long tails for balance and thick hides capable of easily turning aside a sword blow. They possess
 exceptional eyesight for hunting and chasing prey. As dinosaurs go, allosaurs are reasonably smart
@@ -1801,76 +1820,82 @@ from a height, using their enormous upper jaws as a hatchet.
 Allosaurs can be found in savannahs and sparse tropical forests. They may be solitary or they may
 hunt in small packs, depending upon the area and the density of available prey.
 
-        Dice        Average             1D20         Hit Location              AP/HP
-STR          6D6+32      53                  1-3          Tail                      10/17
-CON          4D6+21      35                  4            Right Hind Leg            10/17
-SIZ          4D6+32      46                  5            Left Hind Leg             10/17
-INT          3           3                   6-9          Hindquarters              10/18
-POW          3D6         11                  10-14        Forequarters              10/19
-DEX          2D6+9       16                  15           Right Front Leg           10/16
-                                        16           Left Front Leg            10/16
-Combat Actions           2                   17-20        Head/Neck                 10/17
+|            | Dice      | Average           | 1D20       | Hit Location            | AP/HP |
+|------------|-----------|-------------------|------------|-------------------------|-------|
+| STR        | 6D6+32    | 53                | 1-3        | Tail                    | 10/17 |
+| CON        | 4D6+21    | 35                | 4          | Right Hind Leg          | 10/17 |
+| SIZ        | 4D6+32    | 46                | 5          | Left Hind Leg           | 10/17 |
+| INT        | 3         | 3                 | 6-9        | Hindquarters            | 10/18 |
+| POW        | 3D6       | 11                | 10-14      | Forequarters            | 10/19 |
+| DEX        | 2D6+9     | 16                | 15         | Right Front Leg         | 10/16 |
+|            |           |                   | 16         | Left Front Leg          | 10/16 |
+|            |           |                   | 17-20      | Head/Neck               | 10/17 |
+
+```
+Combat Actions           2
 Damage Modifier          +2D12
 Magic Points             11                  Typical Armour: Scales. No Armour Penalty.
 Movement                 12m
 Strike Rank              +11                 Traits: Formidable Natural Weapons
+```
 
-Skills: Athletics 90%, Perception 50%, Persistence 43%, Resilience 95%, Tracking 40%
+**Skills**: Athletics 90%, Perception 50%, Persistence 43%, Resilience 95%, Tracking 40%
 
-Combat Styles
+#### Combat Styles
 Bite 50%, Kick 35%, Tail Bash 30%
 
-Weapons
-Type             Size         Reach          Damage            AP/HP               Range
-Bite             L            L              1D10+2D12         As for Head         -
-Kick             H            L              1D6+2D12          As for Leg          -
-Tail Bash        H            VL             1D8+2D12          As for Tail         -
+#### Weapons
+
+| Type           | Size       | Reach        | Damage          | AP/HP             | Range |
+|----------------|------------|--------------|-----------------|-------------------|-------|
+| Bite           | L          | L            | 1D10+2D12       | As for Head       | -     |
+| Kick           | H          | L            | 1D6+2D12        | As for Leg        | -     |
+| Tail Bash      | H          | VL           | 1D8+2D12        | As for Tail       | -     |
 
 
-
-
-52
-Alex Greene (order #3140110)                                                                                8
-         Ankylosaurus
+## Ankylosaurus
 An ankylosaurus is a squat, quadruped herbivore. It has a wide shell of thick armour plates
 covering much of its turtle-like body, four thick legs and a blunt snout. The most impressive
 aspect of the dinosaur, however, is its tail, a long, muscular appendage that ends in a cruel club
-of bone. The surface and edges of the ankylosaurus’s shell is studded with bony spikes.
+of bone. The surface and edges of the ankylosaurus's shell is studded with bony spikes.
 
 Ankylosaurs are solitary creatures who only come together to mate. They prefer grassy plains
 with easy access to rivers and streams.
 
-          Dice        Average            1D20        Hit Location               AP/HP
-STR          4D6+21      35                 1-3         Tail                       14/13
-CON          3D6+15      26                 4           Right Hind Leg             6/13
-SIZ          4D6+21      35                 5           Left Hind Leg              6/13
-INT          3           3                  6-9         Hindquarters               14/14
-POW          3D6         11                 10-14       Forequarters               14/15
-DEX          2D6+6       13                 15          Right Front Leg            6/13
-                                         16          Left Front Leg             6/13
-Combat Actions           2                  17-20       Head/Neck                  14/13
+|            | Dice      | Average          | 1D20      | Hit Location             | AP/HP |
+|------------|-----------|------------------|-----------|--------------------------|-------|
+| STR        | 4D6+21    | 35               | 1-3       | Tail                     | 14/13 |
+| CON        | 3D6+15    | 26               | 4         | Right Hind Leg           | 6/13  |
+| SIZ        | 4D6+21    | 35               | 5         | Left Hind Leg            | 6/13  |
+| INT        | 3         | 3                | 6-9       | Hindquarters             | 14/14 |
+| POW        | 3D6       | 11               | 10-14     | Forequarters             | 14/15 |
+| DEX        | 2D6+6     | 13               | 15        | Right Front Leg          | 6/13  |
+|            |           |                  | 16        | Left Front Leg           | 6/13  |
+|            |           |                  | 17-20     | Head/Neck                | 14/13 |
+
+```
+Combat Actions           2
 Damage Modifier          +2D6
 Magic Points             11                 Typical Armour: Scales. No Armour Penalty.
 Movement                 10m
 Strike Rank              +10                Traits: Formidable Natural Weapons
+```
 
-Skills: Athletics 20%, Brawn 80%, Perception 40%, Persistence 43%, Resilience 82%
+**Skills**: Athletics 20%, Brawn 80%, Perception 40%, Persistence 43%, Resilience 82%
 
-Combat Styles
+#### Combat Styles
 Bite 50%, Tail Bash 60%
 
-Weapons
-Type             Size             Reach            Damage         AP/HP           Range
-Bite             M                M                1D6+2D6        As for Head     -
-Tail Bash        L                VL               3D6+2D6        As for Tail     -
+#### Weapons
+
+| Type           | Size           | Reach          | Damage       | AP/HP         | Range |
+|----------------|----------------|----------------|--------------|---------------|-------|
+| Bite           | M              | M              | 1D6+2D6      | As for Head   | -     |
+| Tail Bash      | L              | VL             | 3D6+2D6      | As for Tail   | -     |
 
 
-
-
-                                                                                                  53
-Alex Greene (order #3140110)                                                                                       8
-       Brontosaurus
-Meaning ‘thunder lizard’, and more correctly known as Apatosaurus, brontosaurs are amongst
+## Brontosaurus
+Meaning 'thunder lizard', and more correctly known as Apatosaurus, brontosaurs are amongst
 the largest of the dinosaurs. A brontosaurus has a tiny head at the end of a long, sweeping neck,
 elephantine body and a long tail. Generally found in herds, brontosaurs are not aggressive and
 will often ignore a creature as tiny as a human (though they may still step on the careless).
@@ -1879,40 +1904,41 @@ Brontosaurs live near warm forests, and may be found either wallowing in shallow
 rivers or making their way across dry land. They are purely vegetarians, and are commonly
 around 20 metres long and four or five metres wide.
 
-        Dice           Average           1D20        Hit Location               AP/HP
-STR          4D6+40         54                1-3         Tail                       14/21
-CON          2D6+30         37                4           Right Hind Leg             14/21
-SIZ          4D6+50         64                5           Left Hind Leg              14/21
-INT          3              3                 6-9         Hindquarters               14/22
-POW          1D6+6          10                10-14       Forequarters               14/22
-DEX          1D6            4                 15          Right Front Leg            14/21
-                                         16          Left Front Leg             14/21
-                                         17-20       Head/Neck                  14/21
+|            | Dice         | Average         | 1D20      | Hit Location             | AP/HP |
+|------------|--------------|-----------------|-----------|--------------------------|-------|
+| STR        | 4D6+40       | 54              | 1-3       | Tail                     | 14/21 |
+| CON        | 2D6+30       | 37              | 4         | Right Hind Leg           | 14/21 |
+| SIZ        | 4D6+50       | 64              | 5         | Left Hind Leg            | 14/21 |
+| INT        | 3            | 3               | 6-9       | Hindquarters             | 14/22 |
+| POW        | 1D6+6        | 10              | 10-14     | Forequarters             | 14/22 |
+| DEX        | 1D6          | 4               | 15        | Right Front Leg          | 14/21 |
+|            |              |                 | 16        | Left Front Leg           | 14/21 |
+|            |              |                 | 17-20     | Head/Neck                | 14/21 |
 
+```
 Combat Actions              1                 Typical Armour: Scales. No Armour Penalty.
 Damage Modifier             +3D10
 Magic Points                10                Traits: Formidable Natural Weapons, Trample
 Movement                    8m
 Strike Rank                 +5
+```
 
-Skills: Athletics 15%, Brawn 95%, Perception 25%, Persistence 40%, Resilience 95%
+**Skills**: Athletics 15%, Brawn 95%, Perception 25%, Persistence 40%, Resilience 95%
 
-Combat Styles
+#### Combat Styles
 Trample/Stamp 65%, Tail Bash 60%
 
-Weapons
-Type                 Size       Reach        Damage              AP/HP             Range
-Trample/Stamp        E          L            2D12+3D10           As for Leg        -
-Tail Bash            E          VL           4D12+3D10           As for Tail       -
+#### Weapons
+
+| Type               | Size     | Reach      | Damage            | AP/HP           | Range |
+|--------------------|----------|------------|-------------------|-----------------|-------|
+| Trample/Stamp      | E        | L          | 2D12+3D10         | As for Leg      | -     |
+| Tail Bash          | E        | VL         | 4D12+3D10         | As for Tail     | -     |
 
 
-
-
-54
-Alex Greene (order #3140110)                                                                               8
-         Hadrosaurus
+## Hadrosaurus
 Hadrosaurus is the general name given to several dozen varieties of herbivorous, bipedal dinosaurs
-commonly referred to as ‘duck-billed dinosaurs’. Varying slightly in size and body proportion,
+commonly referred to as 'duck-billed dinosaurs'. Varying slightly in size and body proportion,
 many of these dinosaurs have a large, bony crest atop their heads, which are used for trumpeting
 out mating calls that can carry for many kilometres.
 
@@ -1920,38 +1946,39 @@ Hadrosaurs prefer marshy areas and riverbanks, and are almost always found along
 of water. They commonly congregate in herds of as many as a hundred individuals of both sexes. The
 statistics given below can be applied to virtually any hadrosaur.
 
-         Dice           Average              1D20        Hit Location               AP/HP
-STR         6D6+15         34                   1-3         Tail                       8/14
-CON         4D6+9          22                   4           Right Hind Leg             8/14
-SIZ         4D6+30         44                   5           Left Hind Leg              8/14
-INT         3              3                    6-9         Hindquarters               8/15
-POW         1D6+6          10                   10-14       Forequarters               8/15
-DEX         3D6            11                   15          Right Front Leg            8/13
-                                             16          Left Front Leg             8/13
-                                             17-20       Head/Neck                  8/13
+|           | Dice         | Average            | 1D20      | Hit Location             | AP/HP |
+|-----------|--------------|--------------------|-----------|--------------------------|-------|
+| STR       | 6D6+15       | 34                 | 1-3       | Tail                     | 8/14  |
+| CON       | 4D6+9        | 22                 | 4         | Right Hind Leg           | 8/14  |
+| SIZ       | 4D6+30       | 44                 | 5         | Left Hind Leg            | 8/14  |
+| INT       | 3            | 3                  | 6-9       | Hindquarters             | 8/15  |
+| POW       | 1D6+6        | 10                 | 10-14     | Forequarters             | 8/15  |
+| DEX       | 3D6          | 11                 | 15        | Right Front Leg          | 8/13  |
+|           |              |                    | 16        | Left Front Leg           | 8/13  |
+|           |              |                    | 17-20     | Head/Neck                | 8/13  |
 
+```
 Combat Actions             2                    Typical Armour: Scales. No Armour Penalty.
 Damage Modifier            +2D8
 Magic Points               10                   Traits: Formidable Natural Weapons, Trample
 Movement                   10m
 Strike Rank                +9
+```
 
-Skills: Athletics 80%, Brawn 75%, Perception 40%, Persistence 40%, Resilience 73%
+**Skills**: Athletics 80%, Brawn 75%, Perception 40%, Persistence 40%, Resilience 73%
 
-Combat Styles
+#### Combat Styles
 Kick 40%, Tail Bash 20%
 
-Weapons
-Type             Size            Reach            Damage          AP/HP            Range
-Kick             H               L                1D8+2D8         As for Leg       -
-Tail Bash        H               L                1D10+2D8        As for Tail      -
+#### Weapons
+
+| Type           | Size          | Reach          | Damage        | AP/HP          | Range |
+|----------------|---------------|----------------|---------------|----------------|-------|
+| Kick           | H             | L              | 1D8+2D8       | As for Leg     | -     |
+| Tail Bash      | H             | L              | 1D10+2D8      | As for Tail    | -     |
 
 
-
-
-                                                                                                   55
-Alex Greene (order #3140110)                                                                                        8
-       Plesiosaurus
+## Plesiosaurus
 A long-necked, sea-going dinosaur, plesiosaurs hunt fish and squid in the shallows although with
 its powerful flippers and tail it is quite capable of diving to great depths in search of larger prey.
 
@@ -1964,41 +1991,41 @@ Combat Notes
 Plesiosaurs are capable of seizing smaller creatures in their long, powerful jaws, and thus use
 the Grip Combat Manoeuvre before exercising a bite.
 
+|            | Dice        | Average             | 1D20       | Hit Location              | AP/HP |
+|------------|-------------|---------------------|------------|---------------------------|-------|
+| STR        | 6D6         | 21                  | 1-2        | Tail                      | 5/10  |
+| CON        | 4D6         | 14                  | 3-4        | Right Hind Flipper        | 5/6   |
+| SIZ        | 6D6+12      | 33                  | 5-6        | Left Hind Flipper         | 5/6   |
+| INT        | 3           | 3                   | 7-10       | Hindbody                  | 5/11  |
+| POW        | 3D6         | 11                  | 11-14      | Body                      | 5/12  |
+| DEX        | 3D6+6       | 17                  | 15-16      | Right Front Flipper       | 5/6   |
+|            |             |                     | 17-18      | Left Front Flipper        | 5/6   |
+|            |             |                     | 19-20      | Head/Neck                 | 5/10  |
 
-        Dice          Average               1D20         Hit Location                AP/HP
-STR          6D6           21                    1-2          Tail                        5/10
-CON          4D6           14                    3-4          Right Hind Flipper          5/6
-SIZ          6D6+12        33                    5-6          Left Hind Flipper           5/6
-INT          3             3                     7-10         Hindbody                    5/11
-POW          3D6           11                    11-14        Body                        5/12
-DEX          3D6+6         17                    15-16        Right Front Flipper         5/6
-                                            17-18        Left Front Flipper          5/6
-                                            19-20        Head/Neck                   5/10
-
+```
 Combat Actions             2                     Typical Armour: Scales. No Armour Penalty.
 Damage Modifier            +1D12
 Magic Points               11                    Traits: Excellent Swimmer, Formidable Natural
 Movement                   10m (swim)            Weapons
 Strike Rank                +12
+```
 
-Skills: Athletics 80%, Brawn 75%, Evade 50%, Persistence 43%, Resilience 52%, Stealth 45%,
+**Skills**: Athletics 80%, Brawn 75%, Evade 50%, Persistence 43%, Resilience 52%, Stealth 45%,
 Tracking 60%
 
-Combat Styles
+#### Combat Styles
 Bite 45%
 
-Weapons
-Type        Size             Reach            Damage           AP/HP                 Range
-Bite        H                VL               1D8+1D12         As for Head           -
+#### Weapons
+
+| Type      | Size           | Reach          | Damage         | AP/HP               | Range |
+|-----------|----------------|----------------|----------------|---------------------|-------|
+| Bite      | H              | VL             | 1D8+1D12       | As for Head         | -     |
 
 
-
-
-56
-Alex Greene (order #3140110)                                                                                    8
-         Pteranodon
+## Pteranodon
 Flying reptiles, with wingspans averaging 10 to 12 metres, pteranodons have slender bodies,
-wide wings with a grasping claw at the midpoint of each and large talons. The pteranodon’s head
+wide wings with a grasping claw at the midpoint of each and large talons. The pteranodon's head
 has an elongated, toothless beak, with a narrow crest almost as long as its jaw jutting from the
 rear of its skull.
 
@@ -2009,37 +2036,38 @@ pteranodon nest. Pteranodon are usually found in small colonies of 3D6 individua
 A pteranodon is capable of running along the ground on all fours, using its feet and the claws on
 its wings to propel itself at a speed belying its size.
 
-          Dice           Average          1D20        Hit Location           AP/HP
-STR          4D6+6          20               1-3         Right Leg              3/8
-CON          3D6+3          14               4-6         Left Leg               3/8
-SIZ          4D6+12         26               7-8         Abdomen                3/9
-INT          3              3                9-12        Chest                  3/10
-POW          3D6            11               13-14       Right Wing             3/7
-DEX          2D6+12         19               15-16       Left Wing              3/7
-                                          17-20       Head                   3/8
+|            | Dice         | Average        | 1D20      | Hit Location         | AP/HP |
+|------------|--------------|----------------|-----------|----------------------|-------|
+| STR        | 4D6+6        | 20             | 1-3       | Right Leg            | 3/8   |
+| CON        | 3D6+3        | 14             | 4-6       | Left Leg             | 3/8   |
+| SIZ        | 4D6+12       | 26             | 7-8       | Abdomen              | 3/9   |
+| INT        | 3            | 3              | 9-12      | Chest                | 3/10  |
+| POW        | 3D6          | 11             | 13-14     | Right Wing           | 3/7   |
+| DEX        | 2D6+12       | 19             | 15-16     | Left Wing            | 3/7   |
+|            |              |                | 17-20     | Head                 | 3/8   |
 
+```
 Combat Actions              3                Typical Armour: Thick Hide. No Armour Penalty.
 Damage Modifier             +1D10
 Magic Points                11               Traits: Flying
 Movement                    10m/5m
 Strike Rank                 +13
+```
 
-Skills: Acrobatics 40%, Perception 65%, Persistence 43%, Resilience 52%, Stealth 40%
+**Skills**: Acrobatics 40%, Perception 65%, Persistence 43%, Resilience 52%, Stealth 40%
 
-Combat Styles
+#### Combat Styles
 Bite 55%, Claw 45%
 
-Weapons
-Type             Size            Reach           Damage          AP/HP           Range
-Bite             L               M               1D8+1D10        As for Head     -
-Claw             L               T               1D6+1D10        As for Leg      -
+### Weapons
+
+| Type           | Size          | Reach         | Damage        | AP/HP         | Range |
+|----------------|---------------|---------------|---------------|---------------|-------|
+| Bite           | L             | M             | 1D8+1D10      | As for Head   | -     |
+| Claw           | L             | T             | 1D6+1D10      | As for Leg    | -     |
 
 
-
-
-                                                                                                 57
-Alex Greene (order #3140110)                                                                                      8
-       Rock Lizard
+## Rock Lizard
 Rock lizards are large, fairly stupid beasts that live in hills and caves, though they are also often
 found in ruined cities and other places abandoned by humanity.
 
@@ -2047,219 +2075,227 @@ Rock lizards are carnivorous creatures who prefer live prey, but are not adverse
 carrion if that is what is available. Rock lizards typically live in colonies of as many as 50
 individuals, who can be seen basking in the sun together each morning.
 
-       Dice         Average           1D20        Hit Location                AP/HP
-STR         2D6+6        13                1-2         Tail                        3/6
-CON         2D6+6        13                3-5         Right Leg                   3/6
-SIZ         4D6          14                6-8         Left Leg                    3/6
-INT         2            2                 9-11        Hindquarters                3/7
-POW         2D6          7                 12-15       Chest                       3/8
-DEX         2D6+3        10                16          Right Claw                  3/6
-                                      17          Left Claw                   3/6
-                                      18-20       Head                        3/6
+|           | Dice       | Average         | 1D20      | Hit Location              | AP/HP |
+|-----------|------------|-----------------|-----------|---------------------------|-------|
+| STR       | 2D6+6      | 13              | 1-2       | Tail                      | 3/6   |
+| CON       | 2D6+6      | 13              | 3-5       | Right Leg                 | 3/6   |
+| SIZ       | 4D6        | 14              | 6-8       | Left Leg                  | 3/6   |
+| INT       | 2          | 2               | 9-11      | Hindquarters              | 3/7   |
+| POW       | 2D6        | 7               | 12-15     | Chest                     | 3/8   |
+| DEX       | 2D6+3      | 10              | 16        | Right Claw                | 3/6   |
+|           |            |                 | 17        | Left Claw                 | 3/6   |
+|           |            |                 | 18-20     | Head                      | 3/6   |
 
+```
 Combat Actions           2                 Typical Armour: Scales. No Armour Penalty.
 Damage Modifier          +1D2
 Magic Points             7                 Traits: Formidable Natural Weapons
 Movement                 8m
 Strike Rank              +7
+```
 
-Skills: Evade 45%, Perception 25%, Persistence 41%, Resilience 49%, Stealth 25%, Tracking
+**Skills**: Evade 45%, Perception 25%, Persistence 41%, Resilience 49%, Stealth 25%, Tracking
 30%
 
-Combat Styles
+#### Combat Styles
 Claw 45%, Bite 40%
 
-Weapons
-Type             Size              Reach           Damage           AP/HP            Range
-Claw             M                 S               1D6+1D2          As for Leg       -
-Bite             M                 S               1D8+1D2          As for Head      -
+#### Weapons
+
+| Type           | Size            | Reach         | Damage         | AP/HP          | Range |
+|----------------|-----------------|---------------|----------------|----------------|-------|
+| Claw           | M               | S             | 1D6+1D2        | As for Leg     | -     |
+| Bite           | M               | S             | 1D8+1D2        | As for Head    | -     |
 
 
-
-
-58
-Alex Greene (order #3140110)                                                                                   8
-         Snake
+## Snake
 Snakes are scaly, limbless reptiles found in nearly every non-arctic climate. There is a wide variety
 of different species within the group, each with its own specialisation. However, snakes can be
-generally divided into constricting snakes and venomous snakes. For Legend’s purposes, these
-two divisions are called simply ‘constrictors’ and ‘venomous’.
+generally divided into constricting snakes and venomous snakes. For Legend's purposes, these
+two divisions are called simply 'constrictors' and 'venomous'.
 
 
-Constrictor
+### Constrictor
 The statistics given are for an eight-metre constrictor, an enormous beast capable of consuming
 a full-grown human.
 
-Combat Notes
-If the constrictor’s constrict attack hits, the victim is caught up in the serpent’s coils. Each round,
-the constrictor inflicts damage to the victim’s chest location. Chest armour protects against this
+#### Combat Notes
+If the constrictor's constrict attack hits, the victim is caught up in the serpent's coils. Each round,
+the constrictor inflicts damage to the victim's chest location. Chest armour protects against this
 damage. In addition to the Hit Point damage caused by the constriction, the victim is unable to
 breathe and begins to suffocate (see the Legend Core Rulebook). Being constricted by a constrictor
-counts as ‘heavy’ activity in determining how long the victim can hold its breath. The victim may
+counts as 'heavy' activity in determining how long the victim can hold its breath. The victim may
 make an opposed Athletics or Brawn roll each round to escape.
 
-          Dice           Average            1D20         Hit Location             AP/HP
-STR          3D6+24         35                 1-6          Tail                     2/5
-CON          3D6            11                 7-14         Body                     2/5
-SIZ          3D6            11                 15-20        Head                     2/5
-INT          3              3
-POW          3D6            11
-DEX          2D6+6          13
+|            | Dice         | Average          | 1D20       | Hit Location           | AP/HP |
+|------------|--------------|------------------|------------|------------------------|-------|
+| STR        | 3D6+24       | 35               | 1-6        | Tail                   | 2/5   |
+| CON        | 3D6          | 11               | 7-14       | Body                   | 2/5   |
+| SIZ        | 3D6          | 11               | 15-20      | Head                   | 2/5   |
+| INT        | 3            | 3                |            |                        |       |
+| POW        | 3D6          | 11               |            |                        |       |
+| DEX        | 2D6+6        | 13               |            |                        |       |
 
+```
 Combat Actions              2                  Typical Armour: Scales. No Armour Penalty.
 Damage Modifier             +1D10
 Magic Points                11                 Traits: Excellent Swimmer
 Movement                    6m
 Strike Rank                 +10
+```
 
-Skills: Athletics 85%, Evade 65%, Persistence 43%, Resilience 43%, Stealth 75%
+**Skills**: Athletics 85%, Evade 65%, Persistence 43%, Resilience 43%, Stealth 75%
 
-Combat Styles
+#### Combat Styles
 Bite 60%, Constrict 40%
 
-Weapons
-Type              Size             Reach            Damage           AP/HP            Range
-Bite              M                T                1D3+1D10         As for Head      -
-Constrict         H                T                1D8+1D10         As for Body      -
+#### Weapons
+
+| Type            | Size           | Reach          | Damage         | AP/HP          | Range |
+|-----------------|----------------|----------------|----------------|----------------|-------|
+| Bite            | M              | T              | 1D3+1D10       | As for Head    | -     |
+| Constrict       | H              | T              | 1D8+1D10       | As for Body    | -     |
 
 
-
-
-                                                                                                       59
-Alex Greene (order #3140110)                                                                                            8
-       Venomous
+### Venomous
 The statistics given below are for one of the more famous varieties of venomous snake – the
 cobra. Other venomous types can be created by varying the STR and SIZ Characteristics, as well
-as the Potency of the snake’s poison. Some snakes spit their venom, and so the Combat Style
+as the Potency of the snake's poison. Some snakes spit their venom, and so the Combat Style
 reflects this kind of serpent.
 
-Combat Notes
+#### Combat Notes
 Snake venom has the following Characteristics:
 
-Application: Injection/Smeared.
-Onset time: Nausea after 1D3 minutes, Paralysis after 3D6 minutes, Asphyxiation at conclusion.
-Duration: 1 hour.
-Resistance Time: The victim must make a Resistance roll at the Onset Time of each stage of the
-poison. Failure indicates that Condition has taken effect.
-Potency: Snake’s CON x8.
-Resistance: Resilience.
-Conditions: Nausea, Paralysis, Asphyxiation. The venom initially causes the victim to start
+**Application**: Injection/Smeared.  
+**Onset time**: Nausea after 1D3 minutes, Paralysis after 3D6 minutes, Asphyxiation at conclusion.  
+**Duration**: 1 hour.  
+**Resistance Time**: The victim must make a Resistance roll at the Onset Time of each stage of the
+poison. Failure indicates that Condition has taken effect.  
+**Potency**: Snake's CON x8.  
+**Resistance**: Resilience.  
+**Conditions**: Nausea, Paralysis, Asphyxiation. The venom initially causes the victim to start
 feeling nauseous if the first Resistance roll is failed. The location bitten then suffers paralysis if
 the second Resistance roll is failed. At the end of the Duration the victim must succeed in a final
-resistance roll or suffer respiratory failure.
-Antidote/Cure: Anti-venom. Some cultures have perfected anti-venom remedies which have a Potency
+resistance roll or suffer respiratory failure.  
+**Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a Potency
 of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing roll and add
-their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout its duration.
+their Potency as a bonus to the victim's Resilience roll to fight the venom throughout its duration.
 
-        Dice          Average            1D20         Hit Location           AP/HP
-STR          2D6+6         13                 1-6          Tail                   1/3
-CON          2D6           7                  7-14         Body                   1/5
-SIZ          2D6           7                  15-20        Head                   1/3
-INT          3             3
-POW          3D6           11
-DEX          3D6+18        29
+|            | Dice        | Average          | 1D20       | Hit Location         | AP/HP |
+|------------|-------------|------------------|------------|----------------------|-------|
+| STR        | 2D6+6       | 13               | 1-6        | Tail                 | 1/3   |
+| CON        | 2D6         | 7                | 7-14       | Body                 | 1/5   |
+| SIZ        | 2D6         | 7                | 15-20      | Head                 | 1/3   |
+| INT        | 3           | 3                |            |                      |       |
+| POW        | 3D6         | 11               |            |                      |       |
+| DEX        | 3D6+18      | 29               |            |                      |       |
 
+```
 Combat Actions             3                  Typical Armour: Scales. No Armour Penalty.
 Damage Modifier            –1D2
 Magic Points               11                 Traits: Excellent Swimmer
 Movement                   8m
 Strike Rank                +18
+```
 
-Skills: Athletics 35%, Evade 75%, Persistence 43%, Resilience 31%, Stealth 95%
+**Skills**: Athletics 35%, Evade 75%, Persistence 43%, Resilience 31%, Stealth 95%
 
-Combat Styles
+#### Combat Styles
 Bite/Spit 60%
 
-Weapons
-Type             Size     Reach      Damage        AP/HP            Range (spitters only)
-Bite/Spit        S        T          1D3–1D2       As for Head      STR in metres
+#### Weapons
+
+| Type           | Size   | Reach    | Damage      | AP/HP          | Range (spitters only) |
+|----------------|--------|----------|-------------|----------------|-----------------------|
+| Bite/Spit      | S      | T        | 1D3–1D2     | As for Head    | STR in metres         |
 
 
-
-60
-Alex Greene (order #3140110)                                                                                    8
-         Stegosaurus
+## Stegosaurus
 With a slender head, fat, stocky body and long, tapered tail, stegosaurs are a highly distinctive
 animal. The head and tail of the beast hang low to the ground, while its back arches up as high
-as four metres, a series of bony plates protruding from the creature’s spine, offering it protection
+as four metres, a series of bony plates protruding from the creature's spine, offering it protection
 against predators. The tip of its tail is equipped with four, long, vicious spikes.
 
 Stegosaurs prefer warm forests, and are usually found in family groups of 2D4 individuals. They
 will tend to ignore any creature that is not an obvious threat to them or their young.
 
-          Dice           Average           1D20         Hit Location              AP/HP
-STR          5D6+21         39                1-2          Tail                      10/13
-CON          4D6+12         26                3-4          Right Hind Leg            8/13
-SIZ          6D6+21         42                5-6          Left Hind Leg             8/13
-INT          3              3                 7-10         Hind Quarters             10/14
-POW          3D6            10                11-14        Fore Quarters             10/15
-DEX          2D6            7                 15-16        Right Front Leg           8/13
-                                           17-18        Left Front Leg            8/13
-Combat Actions              2                 19-20        Head/Neck                 10/13
+|            | Dice         | Average         | 1D20       | Hit Location            | AP/HP |
+|------------|--------------|-----------------|------------|-------------------------|-------|
+| STR        | 5D6+21       | 39              | 1-2        | Tail                    | 10/13 |
+| CON        | 4D6+12       | 26              | 3-4        | Right Hind Leg          | 8/13  |
+| SIZ        | 6D6+21       | 42              | 5-6        | Left Hind Leg           | 8/13  |
+| INT        | 3            | 3               | 7-10       | Hind Quarters           | 10/14 |
+| POW        | 3D6          | 10              | 11-14      | Fore Quarters           | 10/15 |
+| DEX        | 2D6          | 7               | 15-16      | Right Front Leg         | 8/13  |
+|            |              |                 | 17-18      | Left Front Leg          | 8/13  |
+|            |              |                 | 19-20      | Head/Neck               | 10/13 |
+
+```
+Combat Actions              2
 Damage Modifier             +2D10
 Magic Points                11                Typical Armour: Thick Hide and Armour Plate. No
 Movement                    8m                Armour Penalty.
 Strike Rank                 +7                Traits: Formidable Natural Weapons, Trample
+```
 
-Skills: Athletics 65%, Brawn 58%, Perception 40%, Persistence 40%, Resilience 88%
+**Skills**: Athletics 65%, Brawn 58%, Perception 40%, Persistence 40%, Resilience 88%
 
-Combat Styles
+#### Combat Styles
 Tail Bash 65%
 
-Weapons
-Type             Size         Reach            Damage             AP/HP             Range
-Tail Bash        H            VL               1D10+2D10          As for Tail       -
+#### Weapons
+
+| Type           | Size       | Reach          | Damage           | AP/HP           | Range |
+|----------------|------------|----------------|------------------|-----------------|-------|
+| Tail Bash      | H          | VL             | 1D10+2D10        | As for Tail     | -     |
 
 
-
-
-                                                                                                    61
-Alex Greene (order #3140110)                                                                                         8
-       Triceratops
+## Triceratops
 A broad, muscular dinosaur with a large shield of bone surrounding its head, two long horns
-emerging from the crest and a third, smaller horn protruding from the dinosaur’s snout.
+emerging from the crest and a third, smaller horn protruding from the dinosaur's snout.
 
 A triceratops is a herbivore, although it has a surly and often unpleasant disposition making it
 likely to charge anything that enters its territory: if the beast fails a Persistence roll, then a charge
 is guaranteed. Triceratops are quadrupeds, propelling themselves on four thick, powerful legs.
 They are fond of open savannah and are usually solitary.
 
-Combat Notes
+#### Combat Notes
 Triceratops attempt to gore their foes. The triumvirate of horns are capable of both Sundering
 and Impaling and, if a foe is Impaled, the next Combat Action sees the triceratops aim to throw
 its victim with a toss of its massive head.
 
-        Dice            Average              1D20         Hit Location                 AP/HP
-STR          6D6+30          51                   1-2          Tail                         10/16
-CON          4D6+14          28                   3-4          Right Hind Leg               10/16
-SIZ          6D6+30          51                   5-6          Left Hind Leg                10/16
-INT          3               3                    7-10         Hindquarters                 10/17
-POW          3D6             11                   11-14        Forequarters                 10/18
-DEX          2D6+3           10                   15-16        Right Front Leg              10/16
-                                             17-18        Left Front Leg               10/16
-                                             19-20        Head/Neck                    14/16
+|            | Dice          | Average            | 1D20       | Hit Location               | AP/HP |
+|------------|---------------|--------------------|------------|----------------------------|-------|
+| STR        | 6D6+30        | 51                 | 1-2        | Tail                       | 10/16 |
+| CON        | 4D6+14        | 28                 | 3-4        | Right Hind Leg             | 10/16 |
+| SIZ        | 6D6+30        | 51                 | 5-6        | Left Hind Leg              | 10/16 |
+| INT        | 3             | 3                  | 7-10       | Hindquarters               | 10/17 |
+| POW        | 3D6           | 11                 | 11-14      | Forequarters               | 10/18 |
+| DEX        | 2D6+3         | 10                 | 15-16      | Right Front Leg            | 10/16 |
+|            |               |                    | 17-18      | Left Front Leg             | 10/16 |
+|            |               |                    | 19-20      | Head/Neck                  | 14/16 |
 
+```
 Combat Actions               2                    Typical Armour: Thick Hide and Armour Plate.
 Damage Modifier              +3D8                 No Armour Penalty
 Magic Points                 11                   Traits: Formidable Natural Weapons, Trample
 Movement                     8m
 Strike Rank                  +8
+```
 
-Skills: Athletics 60%, Brawn 75%, Perception 50%, Persistence 40%, Resilience 95%
+**Skills**: Athletics 60%, Brawn 75%, Perception 50%, Persistence 40%, Resilience 95%
 
-Combat Styles
+#### Combat Styles
 Tail Bash 65%
 
-Weapons
-Type            Size       Reach            Damage                AP/HP                 Range
-Gore            H          VL               1D10+3D8              As for Head           -
+#### Weapons
+
+| Type          | Size     | Reach          | Damage              | AP/HP               | Range |
+|---------------|----------|----------------|---------------------|---------------------|-------|
+| Gore          | H        | VL             | 1D10+3D8            | As for Head         | -     |
 
 
-
-
-62
-Alex Greene (order #3140110)                                                                                       8
-         Tyrannosaurus
+## Tyrannosaurus
 Needing little introduction, the Tyrannosaur is a consummate predator, a massive tower of
 muscle and teeth with a voracious appetite.
 
@@ -2267,35 +2303,38 @@ Tyrannosaurs appear much like larger, stouter versions of allosaurs; they are bi
 heads, long tails for balance and thick hides capable of easily turning aside a sword blow. They
 possess exceptional eyesight for hunting and chasing prey.
 
-        Dice         Average            1D20        Hit Location               AP/HP
-STR        4D6+40       54                 1-2         Tail                       10/19
-CON        5D6+30       48                 3-5         Right Leg                  10/19
-SIZ        4D6+30       44                 6-8         Left Leg                   10/19
-INT        3            3                  9-11        Hindquarters               10/20
-POW        3D6          10                 12-15       Forequarters               10/20
-DEX        2D6+3        10                 16          Right Claw                 10/11
-                                        17          Left Claw                  10/11
-Combat Actions          2                  18-20       Head                       10/19
+|          | Dice       | Average          | 1D20      | Hit Location             | AP/HP |
+|----------|------------|------------------|-----------|--------------------------|-------|
+| STR      | 4D6+40     | 54               | 1-2       | Tail                     | 10/19 |
+| CON      | 5D6+30     | 48               | 3-5       | Right Leg                | 10/19 |
+| SIZ      | 4D6+30     | 44               | 6-8       | Left Leg                 | 10/19 |
+| INT      | 3          | 3                | 9-11      | Hindquarters             | 10/20 |
+| POW      | 3D6        | 10               | 12-15     | Forequarters             | 10/20 |
+| DEX      | 2D6+3      | 10               | 16        | Right Claw               | 10/11 |
+|          |            |                  | 17        | Left Claw                | 10/11 |
+|          |            |                  | 18-20     | Head                     | 10/19 |
+
+```
+Combat Actions          2
 Damage Modifier         +2D12
 Magic Points            10                 Typical Armour: Thick Hide. No Armour Penalty.
 Movement                11m
 Strike Rank             +8                 Traits: Formidable Natural Weapons, Trample
+```
 
-Skills: Athletics 90%, Perception 50%, Persistence 40%, Resilience 100%, Tracking 50%
+**Skills**: Athletics 90%, Perception 50%, Persistence 40%, Resilience 100%, Tracking 50%
 
-Combat Styles
+#### Combat Styles
 Bite 60%, Roar 75%
 
-Weapons
-Type             Size          Reach        Damage             AP/HP             Range
-Bite             H             VL           1D10+2D12          As for Head       -
+#### Weapons
+
+| Type           | Size        | Reach      | Damage           | AP/HP           | Range |
+|----------------|-------------|------------|------------------|-----------------|-------|
+| Bite           | H           | VL         | 1D10+2D12        | As for Head     | -     |
 
 
-
-
-                                                                                                 63
-Alex Greene (order #3140110)                                                                                      8
-       Velociraptor
+## Velociraptor
 Again needing little introduction, this is a pack-hunting dinosaur, and what the velociraptor
 lacks in size it makes up for in ferocity and a base cunning. Reasonably intelligent – at least when
 compared to other dinosaurs – the velociraptor employs misdirection and ambush techniques to
@@ -2306,49 +2345,47 @@ are commonly found in packs of 3 to 12 (3D4) individuals. They are bipedal dinos
 dextrous foreclaws, mouths full of sharp teeth and enormous claws on their powerful legs. They
 stand a little taller than a man.
 
-The velociraptor’s bite is capable of Bleed and Impaling. The Kick and Foreclaw are both capable
+The velociraptor's bite is capable of Bleed and Impaling. The Kick and Foreclaw are both capable
 of Sundering and Bleed, owing to the razor-like talons on each. The kick and claws are used as
 primary methods of disabling prey before the bite is used to tear the victim asunder.
 
+|            | Dice        | Average           | 1D20       | Hit Location             | AP/HP |
+|------------|-------------|-------------------|------------|--------------------------|-------|
+| STR        | 4D6+12      | 26                | 1-2        | Tail                     | 5/7   |
+| CON        | 3D6+3       | 14                | 3-5        | Right Leg                | 5/7   |
+| SIZ        | 3D6+6       | 17                | 6-8        | Left Leg                 | 5/7   |
+| INT        | 7           | 7                 | 9-11       | Hindquarters             | 5/8   |
+| POW        | 3D6         | 11                | 12-15      | Forequarters             | 5/9   |
+| DEX        | 4D6+2       | 16                | 16         | Right Claw               | 5/6   |
+|            |             |                   | 17         | Left Claw                | 5/6   |
+|            |             |                   | 18-20      | Head                     | 5/7   |
 
-        Dice          Average             1D20         Hit Location               AP/HP
-STR          4D6+12        26                  1-2          Tail                       5/7
-CON          3D6+3         14                  3-5          Right Leg                  5/7
-SIZ          3D6+6         17                  6-8          Left Leg                   5/7
-INT          7             7                   9-11         Hindquarters               5/8
-POW          3D6           11                  12-15        Forequarters               5/9
-DEX          4D6+2         16                  16           Right Claw                 5/6
-                                          17           Left Claw                  5/6
-Combat Actions             3                   18-20        Head                       5/7
+```
+Combat Actions             3
 Damage Modifier            +1D8
 Magic Points               11                  Typical Armour: Thick Hide. No Armour Penalty.
 Movement                   12m
 Strike Rank                +15                 Traits: Formidable Natural Weapons, Trample
+```
 
-Skills: Athletics 40%, Perception 50%, Persistence 40%, Resilience 52%, Stealth 50%, Track
+**Skills**: Athletics 40%, Perception 50%, Persistence 40%, Resilience 52%, Stealth 50%, Track
 45%
 
-Combat Styles
+#### Combat Styles
 Bite 40%, Kick 35%, Foreclaw 65%
 
-Weapons
-Type           Size           Reach           Damage           AP/HP                  Range
-Bite           L              L               1D8+1D8          As for Head            -
-Kick           L              VL              1D6+1D8          As for Leg             -
-Foreclaw       M              M               1D4+1D8          As for Foreclaw        -
+#### Weapons
+
+| Type         | Size         | Reach         | Damage         | AP/HP                | Range |
+|--------------|--------------|---------------|----------------|----------------------|-------|
+| Bite         | L            | L             | 1D8+1D8        | As for Head          | -     |
+| Kick         | L            | VL            | 1D6+1D8        | As for Leg           | -     |
+| Foreclaw     | M            | M             | 1D4+1D8        | As for Foreclaw      | -     |
 
 
+# Creatures of Legend
 
-
-64
-Alex Greene (order #3140110)                                                                                  8
-           creatures of legend
-
-
-
-
-Alex Greene (order #3140110)     8
-       Amphisboena
+## Amphisboena
 A solitary, massive serpent with a head at either end of its body, amphisboena lurk on the fringes
 of forbidding forests or in ancient, crumbling ruins.
 
@@ -2360,7 +2397,7 @@ Numbers divided by a slash in the Characteristics below indicate the amphisboena
 Characteristic scores – one for each head. All resistible attack spells targeted at an amphisboena must
 overcome both heads separately in order to take effect on the monster. This means the amphisboena is
 able to attempt to resist all incoming spells twice. Only if both heads are overcome will the spell work.
-Emotional and mental spells, such as Befuddle, or spells affecting the snake’s INT, POW or Magic
+Emotional and mental spells, such as Befuddle, or spells affecting the snake's INT, POW or Magic
 Points, may only affect one head, chosen by the caster. The remaining head is unaffected.
 
 Combat Notes
@@ -2375,7 +2412,7 @@ Resistance: Resilience.
 Conditions: Agony, Exhaustion.
 Antidote/Cure: Anti-venom. Some cultures have perfected anti-venom remedies which have a Potency
 of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing roll and add
-their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout its duration.
+their Potency as a bonus to the victim's Resilience roll to fight the venom throughout its duration.
 
          Dice            Average               1D20        Hit Location           AP/HP
 STR           4D6             14                    1-6         Right Head             3/6
@@ -2400,19 +2437,18 @@ Weapons
 Type           Size          Reach         Damage                      AP/HP              Range
 Bite           M             M             1D8+1D4+Poison              As for Head        -
 Jump           L             T             1D6+1D4+Poison              As for Body        -
-66
-Alex Greene (order #3140110)                                                                                       8
-Alex Greene (order #3140110)   8
-       Basilisk
+
+
+## Basilisk
 Approximately the size of a large rooster, a basilisk has grey or green scales, two bat-like wings
 and a mane of greasy, mangy black feathers running down its spine. It supports itself on four legs
-ending in rooster-like claws. The creature’s head is similar to a rooster’s, featuring a crown-like
+ending in rooster-like claws. The creature's head is similar to a rooster's, featuring a crown-like
 crest and a wattle. The tail is serpentine or reptilian and the facial features of the beast may also
 bear a resemblance to a lizard or snake.
 
 A basilisk can kill with a glance. In combat, the basilisk glares at a single opponent each
 round. If the basilisk overcomes the target in an opposed test of its Persistence against the
-target’s Resilience, the target dies instantly. Using the gaze attack costs no Magic Points and
+target's Resilience, the target dies instantly. Using the gaze attack costs no Magic Points and
 the basilisk may attack normally in any round in which it uses the gaze attack. This attack
 penetrates magical defences as if it were a Magnitude 6 Common Magic spell. If the target
 successfully resists the gaze attack, he is unharmed, though he may certainly be targeted
@@ -2422,24 +2458,19 @@ mirror always works as just described. A polished shield or other reflective sur
 too but the basilisk gains a bonus to its Resilience roll, ranging from +10 to +40 depending
 on the quality of the reflective surface.
 
-Any weapon hitting the basilisk corrodes in the creature’s blood, taking one point of damage
-for every point of damage inflicted on the basilisk. This damage bypasses the weapon’s Armour
-Points and is applied directly to the weapon’s Hit Points. However, magical damage from
+Any weapon hitting the basilisk corrodes in the creature's blood, taking one point of damage
+for every point of damage inflicted on the basilisk. This damage bypasses the weapon's Armour
+Points and is applied directly to the weapon's Hit Points. However, magical damage from
 spells or enchantments placed on the weapon does not count as damage mirrored against the
 weapon. For example, a sword with a Bladesharp 4 spell placed upon it will inflict four points
 of additional damage to the basilisk but those four points will not in turn be applied to the
 damage suffered by the sword.
 
-The basilisk’s poison and corrosive blood are magical effects, which lose their special properties
-1D3 minutes after leaving the basilisk’s body, making it virtually impossible to use the creature
+The basilisk's poison and corrosive blood are magical effects, which lose their special properties
+1D3 minutes after leaving the basilisk's body, making it virtually impossible to use the creature
 as a source for such lethal compounds.
 
-
-
-
-68
-Alex Greene (order #3140110)                                                                                   8
-         Combat Notes
+Combat Notes
 The bite of a basilisk, if it causes damage, is also poisonous, with the following Characteristics:
 
 Application: Injection.
@@ -2478,24 +2509,20 @@ Type          Size         Reach        Damage                    AP/HP         
 Bite          S            T            1D6–1D6+Poison            As for Head          -
 
 
-
-
-                                                                                                   69
-Alex Greene (order #3140110)                                                                                        8
-       Behemoth
+## Behemoth
 Perhaps the largest animal ever to tread upon the face of the land, a behemoth is dull-witted
 brute so powerful even a dragon would prefer to stay out of its way.
 
 Built much like a bear, an adult behemoth stands more than 10 metres tall at the shoulder, 10
 metres broad across the middle and is around 30 metres in length. It has smooth grey skin,
 legs like massive tree trunks and a long, thick tail ending in a knobbed and spiked club. The
-behemoth’s muscles audibly grate against one another as the beast smashes its way through the
+behemoth's muscles audibly grate against one another as the beast smashes its way through the
 jungles where it makes its home, a signal every other creature takes as its cue to go far away.
 
 Behemoths are mammals that live in tropical jungles and are strictly herbivorous. They are
 solitary creatures that can often be found wallowing in deep pools and rivers.
 
-Because of a behemoth’s immense size and length, creatures less than one-third its SIZ do not roll
+Because of a behemoth's immense size and length, creatures less than one-third its SIZ do not roll
 on its Hit Location chart for combat attacks; they simply hit the part closest to them.
 
        Dice           Average           1D20         Hit Location               AP/HP
@@ -2526,18 +2553,14 @@ Tail Bash         E          VL             1D6+5D12           As for Tail      
 Trample           E          T              6D8+5D12           -                 -
 
 
-
-
-70
-Alex Greene (order #3140110)                                                                                8
-         Centaur
+## Centaur
 Famed nomads, musicians and bowmen, centaurs are an intelligent and usually benign race.
 A centaur has the body of a horse but with the torso, arms and head of a human where the
-horse’s head would be.
+horse's head would be.
 
-Because of a centaur’s unique body structure it is not able to put the full force of its mass behind
-most attacks. Thus, instead of adding SIZ to STR to determine the centaur’s Damage Modifier,
-the centaur’s STR should be doubled. However, if the centaur is kicking, charging or striking
+Because of a centaur's unique body structure it is not able to put the full force of its mass behind
+most attacks. Thus, instead of adding SIZ to STR to determine the centaur's Damage Modifier,
+the centaur's STR should be doubled. However, if the centaur is kicking, charging or striking
 with a lance or longspear the Damage Modifier should be figured normally (STR + SIZ).
 
 Centaurs can be used as Adventurers. They prefer the simple life of the herd and wilds to cities
@@ -2581,11 +2604,7 @@ Target Shield    L                S               1D6+1D4            4/10       
 Hooves           L                M               1D6+1+1D8          As for Leg       -
 
 
-
-
-                                                                                                    71
-Alex Greene (order #3140110)                                                                                         8
-       Dragon
+## Dragon
 Vast, intelligent and awe-inspiring, dragons are enormous flying reptiles that can breathe
 flame. The statistics given here relate to the traditional western dragon of legend but many
 varieties exist. Dragons tend to be solitary creatures but all are equipped with claws, fangs,
@@ -2633,15 +2652,14 @@ Type             Size         Reach        Damage              AP/HP            
 Bite             E            L            1D10+4D10           As for Head        -
 Claw             E            VL           1D8+4D10            As for Leg         -
 Tail             H            VL           1D6+4D10 / 2        As for Tail        -
-72
-Alex Greene (order #3140110)                                                                                  8
-Alex Greene (order #3140110)   8
-       Gargoyle
+
+
+## Gargoyle
 With skin that emulates the texture of stone – and its hardness, to some degree – twisted faces,
 vestigial wings and grotesque postures, gargoyles are living versions of the sculpted wards that
 grace temples and cathedrals. They are not made from stone at all; and it is possible that the
 original sculptors of gargoyles based their designs on these creatures – or that the gargoyles
-were originally a race of shapechangers who were ‘inspired’ by stone gargoyles and simply took
+were originally a race of shapechangers who were 'inspired' by stone gargoyles and simply took
 on a fixed form.
 
 Gargoyles frequent ruins and old buildings where they can merge with their surroundings
@@ -2682,12 +2700,7 @@ Type             Size             Reach            Damage           AP/HP       
 Claw             M                M                1D6+1D10         As for Arm       -
 
 
-
-
-74
-Alex Greene (order #3140110)                                                                                   8
-Alex Greene (order #3140110)   8
-       Ghoul
+## Ghoul
 Ghouls are demonic creatures that sustain their unnatural existence by feeding on the corpses
 of the dead. Formed when a malign spirit crosses over from the nether world to possess a freshly
 slain corpse, most ghouls come in human form but there is nothing to prevent such a spirit from
@@ -2695,7 +2708,7 @@ inhabiting any newly killed body. The spirits that become ghouls are the hungry,
 spirits that are drawn to graveyards or places of death; anyone capable of Spirit Combat can see
 such spirits clamouring around places where the dead are interred (or left to rot) – and identify
 bodies possessed by the ghoul spirit. Shamans with the capability can attempt to discorporate the
-ghoul spirit and battle it on the Spirit Plane, where the ghoul’s claws become Spectral Weapons
+ghoul spirit and battle it on the Spirit Plane, where the ghoul's claws become Spectral Weapons
 at the same percentage as their mundane weapons.
 
 Ghouls look like grotesque caricatures of humanity, rotting corpses from a week-old grave. Any
@@ -2704,39 +2717,32 @@ do battle with their talons and poisonous bite.
 
 Combat Notes
 Ghouls employ a blood chilling howl in combat. When a ghoul
-howls, every creature in a radius equal to the ghoul’s POW in
+howls, every creature in a radius equal to the ghoul's POW in
 metres becomes Demoralised (as the Common Magic spell)
-unless he can overcome the ghoul’s Persistence with his
+unless he can overcome the ghoul's Persistence with his
 Resilience in an opposed test. The Demoralise effect
 continues until all howling stops. Any who are able to resist
 the howling must resist again every round for a total of
 five successive rounds, after which they are considered
-immune to the howling’s effects for a week.
+immune to the howling's effects for a week.
 
 Countermagic, Shield and Spell Resistance offer
-no protection against the effects of a ghoul’s howl.
+no protection against the effects of a ghoul's howl.
 
-The bite of a ghoul is venomous, with the
-following Characteristics:
+The bite of a ghoul is venomous, with the following Characteristics:
 
 Application: Injection.
 Onset time: 1D3 Combat Rounds.
 Duration: 1D10 Hours.
-Resistance Time: The victim must make a
-Resistance roll at the end of the Onset Time.
-Failure indicates that Condition has taken
-effect.
+Resistance Time: The victim must make a Resistance roll at the end of the Onset Time.
+Failure indicates that Condition has taken effect.
 Potency: 22.
 Resistance: Resilience.
 Conditions: Paralysis.
 Antidote/Cure: Healing Magic only.
 
 
-
-
-76
-Alex Greene (order #3140110)                                                                                  8
-                    Dice       Average               1D20        Hit Location         AP/HP
+           Dice       Average               1D20        Hit Location         AP/HP
 STR        4D6        14                    1–3         Right Leg            –/5
 CON        3D6        11                    4–6         Left Leg             –/5
 SIZ        2D6+6      13                    7–10        Abdomen              –/6
@@ -2763,14 +2769,10 @@ Claw           S               M              1D4+1D2         As for Arm    -
 Bite           S               T              1D6+1D2         As for Head   -
 
 
-
-
-                                                                                          77
-Alex Greene (order #3140110)                                                                               8
-       Gorgon
+## Gorgon
 Monsters of legend who posess the upper bodies of women but the lower body of giant snakes.
-Their heads are wreathed in serpents instead of hair. The monster’s face can shift into something
-so hideous that anyone who sees it is automatically and immediately turned to stone, the victim’s
+Their heads are wreathed in serpents instead of hair. The monster's face can shift into something
+so hideous that anyone who sees it is automatically and immediately turned to stone, the victim's
 spirit trapped helpless inside the statue. This is a passive gaze attack.
 
 Whilst gorgons are often solitary creatures, residing far from human sight, they do socialise with
@@ -2779,22 +2781,22 @@ to its POW of being immortal and of having an additional Chaos Feature. Immortal
 only be affected by magical damage. They can also possess Common and Divine magic.
 
 Combat Notes
-The gorgon’s appearance attack is line of sight but the victim must be able to see the face – the attack
+The gorgon's appearance attack is line of sight but the victim must be able to see the face – the attack
 will not work in pitch darkness or fog, for example. The attack is not hindered by defensive spells such
 as Countermagic. Gorgons are immune to their own appearance and that of other gorgons.
 
-The gorgon’s gaze attack is an automatic attack at the beginning of every round. Every
-susceptible creature must make an opposed Resilience test against the Gorgon’s Persistence or
+The gorgon's gaze attack is an automatic attack at the beginning of every round. Every
+susceptible creature must make an opposed Resilience test against the Gorgon's Persistence or
 be turned to stone.
 
-The mane of snakes that forms a gorgon’s hair is a different threat altogether. If the gaze attack
+The mane of snakes that forms a gorgon's hair is a different threat altogether. If the gaze attack
 does not work and if the gorgon can connect with a claw attack, it Grips the opponent and draws
 them in for the hideous, writhing snakes to do their work. 1D4+1 snakes can make a single
 attack as a Combat Action, with each snake inflicting its own damage if the single attack hits.
 The poison is the same as for Venomous Snake (see page 105) with the Venom Potency being
-equal to the gorgon’s CON x3
+equal to the gorgon's CON x3
 
-        Dice           Average             1D20          Hit Location             AP/HP
+             Dice           Average             1D20          Hit Location             AP/HP
 STR          4D6            14                  1-3           Right Leg                8/7
 CON          3D6+6          17                  4-6           Left Leg                 8/7
 SIZ          4D6            14                  7-9           Abdomen                  8/8
@@ -2820,10 +2822,9 @@ Weapons
 Type              Size             Reach            Damage            AP/HP            Range
 Claw              M                M                1D6+1D2           As for Arm       -
 Serpents          S                T                1D4+Poison        –/2              -
-78
-Alex Greene (order #3140110)                                                                                      8
-Alex Greene (order #3140110)   8
-       Harpy
+
+
+## Harpy
 A notoriously filthy and evil race, harpies appear as human-sized grimy vultures with the head
 and upper torso of a human female. Harpies delight in befouling the person and possessions of
 others, being things of mischief and villainy rather than outright killers.
@@ -2836,7 +2837,7 @@ miles, albeit at a safe distance, indulging itself in whatever torments it can d
 Combat Notes
 Harpies often fight by dropping stones on their foes. These stones are between 5 and 10 kilograms
 and inflict 1D6 damage for every three metres the stone falls (to a maximum of 10D6). The
-harpy’s chance to hit decreases by 5% per three metres of distance the stone falls.
+harpy's chance to hit decreases by 5% per three metres of distance the stone falls.
 
             Dice        Average                1D20         Hit Location        AP/HP
 STR              3D6         11                     1-2          Right Claw          1/4
@@ -2865,12 +2866,7 @@ Claw                 M          T          1D6–1D2          As for Leg     -
 Dropped Stone        M          Varies     1D6/3m           6/4            Up to 30m in height
 
 
-
-
-80
-Alex Greene (order #3140110)                                                                                 8
-Alex Greene (order #3140110)   8
-       Lamia
+## Lamia
 This beautiful and deadly creature is wholly supernatural and wholly evil. A lamia resembles a
 beautiful woman from the torso up but has the lower body of an enormous serpent.
 
@@ -2883,11 +2879,11 @@ illusion can be dispelled as though it were a Magnitude 4 spell.
 
 Each Combat Round, as a Combat Action, a lamia may make a gaze attack to try to overcome
 a male humanoid (including humans, dwarfs, elves, trolls & halflings) in an opposed test of her
-Seduction against the male’s Resilience. If the lamia wins, the man immediately falls hopelessly
+Seduction against the male's Resilience. If the lamia wins, the man immediately falls hopelessly
 in love with her for as long as she is present. The first time he sees her in her true form, rather
 than cloaked in an illusion, he may attempt to break her hold by making another opposed test. If
 he succeeds, he breaks free but if he fails, he remains entranced as long as he is in her presence. If
-an Adventurer is able to resist the lamia’s gaze attack, he will be immune to it for a full 24 hours.
+an Adventurer is able to resist the lamia's gaze attack, he will be immune to it for a full 24 hours.
 
 A man in thrall to a lamia will do virtually anything she asks, including attacking friends and
 comrades.
@@ -2921,15 +2917,10 @@ Kiss             S           T           1D6+1D2+POW drain              As for H
 Tail             L           L           1D6+1D2                        As for Tail
 
 
-
-
-82
-Alex Greene (order #3140110)                                                                                    8
-Alex Greene (order #3140110)   8
-       Manticore
+## Manticore
 A manticore is a large, leonine creature with the tail of a scorpion and the head of a man. The
-tip of the tail boasts several dozen long, sharp spines and the creature’s face is round and hideous,
-sporting a pair of long tusks and a scraggly mane like a lion’s.
+tip of the tail boasts several dozen long, sharp spines and the creature's face is round and hideous,
+sporting a pair of long tusks and a scraggly mane like a lion's.
 
 A bestial, dangerous creature, the manticore is usually a solitary predator, haunting wastelands
 and remote mountain regions. It is a well-known eater of human flesh.
@@ -2977,11 +2968,7 @@ Gore (tusks)     M              T            1D8+1D12               As for Head 
 Sting            M              VL           1D6+1D12+Posion        As for Tail     -
 
 
-
-
-84
-Alex Greene (order #3140110)                                                                                   8
-         Minotaur
+## Minotaur
 The bull/man hybrid of legend, minotaurs have a reputation for violence and, to outsiders, they
 are surly and often down-right aggressive; but these are not simple-minded monsters; they are
 intelligent and capable of quite rational behaviour – although their dispositions remain gruff,
@@ -3022,11 +3009,7 @@ Great Axe      H            L            1D12+2+1D10         4/10             -
 Head Butt      L            T            1D6+1D10            As for Head      -
 
 
-
-
-                                                                                               85
-Alex Greene (order #3140110)                                                                                    8
-       Mummy
+## Mummy
 A mummy is an undead monster spawned of a preserved, desiccated and eviscerated corpse,
 inhabited by the spirit or soul that resided in the creature when it was alive. The spirit is
 effectively captured within the emaciate frame of the mummy but the physical and the spiritual
@@ -3035,10 +3018,10 @@ even though it is rotten and fragile, it still, nevertheless, prevents the spiri
 intends to. The spirit is therefore an insane version of what existed in life, bent, very often, on
 extracting revenge from the living – and those who created its torment in particular.
 
-A mummy’s body is dried, spiced and wrapped in dry cloth, making it particularly vulnerable to
-fire. An Ignite spell will work on any portion of a mummy’s body. A strike with a fiery weapon,
+A mummy's body is dried, spiced and wrapped in dry cloth, making it particularly vulnerable to
+fire. An Ignite spell will work on any portion of a mummy's body. A strike with a fiery weapon,
 such as a sword with a Fireblade spell on it or even a torch, will ignite the Hit Location struck if
-the damage from the fire overcomes the mummy’s Resilience in a standard opposed test.
+the damage from the fire overcomes the mummy's Resilience in a standard opposed test.
 
 Mummies can be engaged in Spirit Combat on the mundane plane with no discorporation
 necessary. In Spirit Combat the mummy attacks with its Spectral Grip – the same as for its
@@ -3063,7 +3046,7 @@ Movement                         6m                 Life Sense
 Strike Rank                      +10
 
 Skills: Mummies possess the same skills they had when alive, though the skills may be modified
-by the mummy’s new Characteristics.
+by the mummy's new Characteristics.
 
 Common Magic: Mummies also have any Common Magic spells they had when living. However,
 because the harmony between spirit and flesh is broken, the Magic Point cost is doubled.
@@ -3076,10 +3059,8 @@ Type          Size                Reach            Damage           AP/HP       
 Grasp         M                   T                1D6+1D6          As for Arm       -
 Any weapon as used in life.
 
-86
-Alex Greene (order #3140110)                                                                                   8
-Alex Greene (order #3140110)   8
-       Roc
+
+## Roc
 A roc is an enormous bird of prey, larger than a dragon and fully capable of challenging one for
 rulership of the air. Capable of feeding on elephants with ease, a roc will usually ignore a creature
 as small as a human but will certainly attempt to destroy humans or any other predators found
@@ -3118,12 +3099,7 @@ Dropped Rock        E          VL           1D10+1D6 per three      -           
                                         metres dropped
 
 
-
-
-88
-Alex Greene (order #3140110)                                                                                   8
-Alex Greene (order #3140110)   8
-       Satyr
+## Satyr
 Satyrs are magical and mischievous woodland creatures with a reputation for lechery (amongst
 woodland spirits) and a beguiling way. All satyrs are male and must perpetuate their race by
 breeding with nymphs or with captured human or elven women – a proclivity which has caused
@@ -3134,13 +3110,13 @@ thick and curly and is usually pierced by a pair of short, goat-like horns. Saty
 uncanny strength and stamina.
 
 Satyrs are avid practitioners of Common Magic and tend to use their pipes (or, rarely, another
-instrument) as a focus. A satyr’s skill with his pipes activates his Common Magic skill. By playing the
+instrument) as a focus. A satyr's skill with his pipes activates his Common Magic skill. By playing the
 pipes and expending the appropriate number of Magic Points, a satyr can cast any spell he knows.
 
-A satyr’s magic is unlike most Common Magic in that the spells will affect anyone within
-earshot of the pipes, to a maximum number of targets equal to the satyr’s POW. The satyr may
+A satyr's magic is unlike most Common Magic in that the spells will affect anyone within
+earshot of the pipes, to a maximum number of targets equal to the satyr's POW. The satyr may
 consciously choose to exempt one or more particular individuals. This aspect of satyr magic is
-tied directly to the creature’s magical biology and no satyr can teach a non-satyr how to cast spells
+tied directly to the creature's magical biology and no satyr can teach a non-satyr how to cast spells
 in this manner. In addition to its more normal spells, a satyr can make use of three spells unique
 to the satyr race.
 
@@ -3165,12 +3141,7 @@ Duration Special, Magnitude 3, Ranged, Resist (Persistence)
 Sleep causes all who fail to resist its effects to fall immediately into a deep, but normal, sleep.
 Sleeping Adventurers may be woken by loud noises, nudging and so forth.
 
-
-
-
-90
-Alex Greene (order #3140110)                                                                                     8
-                   Dice        Average         1D20       Hit Location             AP/HP
+          Dice        Average         1D20       Hit Location             AP/HP
 STR       5D6         18              1-3        Right Leg                2/6
 CON       4D6         14              4-6        Left Leg                 2/6
 SIZ       2D6+6       13              7-9        Abdomen                  2/7
@@ -3198,17 +3169,13 @@ Head Butt	        M	         T	       1D4+1D4	           As for Head	       -
 Club		            M	         S	       1D6+1D4	           4/4		              -
 
 
-
-
-                                                                                        91
-Alex Greene (order #3140110)                                                                             8
-       Skeleton
+## Skeleton
 A skeleton is a magical construct that is animate only until the magic powering it runs out or the
 skeleton is destroyed. A skeleton has no mind of its own – it only follows the commands of its
 creator as literally and completely as possible.
 
 Skeletons have a score of 0 for INT, POW and CHA, as they have no intelligence, will or
-personalities of their own. As such, attempts to control a skeleton’s mind or influence its
+personalities of their own. As such, attempts to control a skeleton's mind or influence its
 personality will automatically fail. Skeletons are also immune to fatigue, disease, poisons and
 weapons that only cause impaling hits.
 
@@ -3244,11 +3211,7 @@ Longspear          L           VL         36%               1D10+1+1D2 4/10     
 Shortsword         M           S          36%               1D6 +1D2   6/8                 -
 
 
-
-
-92
-Alex Greene (order #3140110)                                                                                  8
-         Unicorn
+## Unicorn
 A potent creature of legend, unicorns need little introduction. Generally they are smaller than a
 horse but are distinguished by their cloven hooves (rather than a single, full hoof ) and the long,
 spiralling horn mounted in the centre of their foreheads.
@@ -3259,8 +3222,8 @@ attuned to purity: of body and spirit. Any Adventurer that can demonstrate purit
 ways (and it is not an easy thing to do) will find that the unicorn acts with friendliness towards
 them.
 
-The unicorn’s horn is a powerful source of magical healing. It acts as a Cure Disease/Poison spell
-and will cure magical diseases and poisons with a potency less than the unicorn’s Persistence.
+The unicorn's horn is a powerful source of magical healing. It acts as a Cure Disease/Poison spell
+and will cure magical diseases and poisons with a potency less than the unicorn's Persistence.
 The horn also acts as a Heal Body spell with a Magnitude of 1D6 and Heal Mind. However, the
 magic only works if the unicorn offers the healing willingly. Forcing a unicorn to use its magic
 or cutting off the horn in the hope of gaining a permanent healing implement renders the magic
@@ -3292,11 +3255,7 @@ Horn              L                L                1D8+1D6          As for Head
 Kick              L                M                1D6+1D6          As for Leg       -
 
 
-
-
-                                                                                                       93
-Alex Greene (order #3140110)                                                                                            8
-       Vampire
+## Vampire
 The pinnacle of the undead form is the vampire. These beings are pale-skinned, parasitic creatures
 that were once mortal and now survive in immortality only by feeding on the lives of others.
 They cast no reflection, have no shadow and they do not breathe as true mortals do. Any sentient
@@ -3312,7 +3271,7 @@ Vampires can only gain sustenance by drinking the blood or souls of living being
 from a resisting victim, a vampire must somehow restrain the victim and somehow succeed in a
 subsequent bite attack. The bite attack drains either blood, in the form of CON, or the soul, in
 the form of POW. The damage from the bite is applied to one of these Characteristics directly,
-rather than to Hit Points. The amount of CON or POW sapped is added to the vampire’s own
+rather than to Hit Points. The amount of CON or POW sapped is added to the vampire's own
 CON or POW; thus, the more a vampire feeds, the stronger it becomes. A human vampire
 can drain up to 21 CON or 21 POW and other species can drain up to their respective species
 maximum. However, a vampire can reach satiation without completely draining a victim of
@@ -3324,9 +3283,9 @@ The amount of CON or POW drained sustains the vampire for a number of days equal
 the number of points drunk: it need not feed again and will feel no compulsion to do so but
 may feed if it wishes, until it reaches either satiation or its consumption limit (21 or species
 maximum). The amount of characteristic points drained dissipate at the rate of 1 point every
-day: thus, the vampire’s CON or POW diminishes by one point the day after feeding but it
+day: thus, the vampire's CON or POW diminishes by one point the day after feeding but it
 will not feel compelled to feed until all the Characteristic points it has fed on have diminished.
-Furthermore, the vampire’s CON or POW will not fall below its original, living, level. Thus,
+Furthermore, the vampire's CON or POW will not fall below its original, living, level. Thus,
 a vampire with CON 11 could drain up to 21 points of blood in one feeding session, gaining
 a CON of 32. It will feel no compulsion to feed again for 21 days but its CON will drop by
 one point per day until it reaches 11 – at that stage, the compulsion to feed is overwhelming.
@@ -3336,7 +3295,7 @@ consumed first. Thus, a soul-feeding vampire can effectively break the link a vi
 god – and does so deliberately to prevent interference from meddling deities.
 
 If an Adventurer is reduced to zero CON or POW by a vampire, either in one or several feeding
-attacks, there is a chance equal to the vampire’s original POW x3 that the victim will resurrect
+attacks, there is a chance equal to the vampire's original POW x3 that the victim will resurrect
 as a vampire, enthralled to the one who created them. If the POW x3 roll fails then the victim
 simply dies. If the roll succeeds, they resurrects as a vampire after a number of days equal to their
 original CON or POW subtracted from 21.
@@ -3347,17 +3306,14 @@ same SIZ as they were in the flesh. As a mist, the vampire is immune to all type
 damage but cannot take any action except Movement. In mist form, a vampire moves at the same
 speed as they would normally and is unaffected by strong winds.
 
-There is a chance equal to the vampire’s POW that it also has the ability to transform into a wolf or
+There is a chance equal to the vampire's POW that it also has the ability to transform into a wolf or
 bat. If the roll to determine this additional ability is a critical success, then the vampire can assume the
 form of both. As with the mist transformation, such changes take a Combat Action to perform.
 
 Vampires retain all Common Magic and Sorcery known before their transformation. Any Divine
 Magic is lost.
 
-
-94
-Alex Greene (order #3140110)                                                                                          8
-         Vampire Weaknesses
+Vampire Weaknesses
 Despite their undoubted power, vampires have certain inherent weaknesses.
 
 •	   If a vampire is reduced to zero Hit Points in its Head or Chest Hit Locations, it dies –
@@ -3375,10 +3331,10 @@ Despite their undoubted power, vampires have certain inherent weaknesses.
   down to the Games Master to decide what supernaturally offends any particular vampire.
   An elven vampire, for example, might be repelled by symbols of nature gods, rather than
   human symbols of holiness. Any Adventurer presenting a holy symbol to a vampire as a
-  Combat Action matches their Persistence against the vampire’s Resilience in an opposed
-  check. They will receive bonuses or penalties at the Games Master’s discretion, based on the
+  Combat Action matches their Persistence against the vampire's Resilience in an opposed
+  check. They will receive bonuses or penalties at the Games Master's discretion, based on the
   appropriateness of the symbol being displayed. On a successful test, the vampire loses 1D4
-  Hit Points to a random Hit Location, unaffected by armour or any of the vampire’s magic.
+  Hit Points to a random Hit Location, unaffected by armour or any of the vampire's magic.
 
 
           Dice           Average            1D20          Hit Location          AP/HP
@@ -3409,11 +3365,7 @@ Type             Size            Reach           Damage           AP/HP         
 Bite             S               T               1D6+1D4          As for Head     -
 
 
-
-                                                                                                  95
-Alex Greene (order #3140110)                                                                                       8
-Alex Greene (order #3140110)   8
-         Werewolf
+## Werewolf
 Scholars are divided as to whether werewolves are humans who turn into wolves or wolves who turn
 into humans – a simple question no werewolf has ever bothered to answer. Whatever the truth of
 the matter, a werewolf takes on the strength and senses of a wolf at the expense of intelligence.
@@ -3427,13 +3379,13 @@ contrary of much popular belief.
 While in wolf form, werewolves are immune to most damage. Only magic, fire or weapons made
 of pure silver will harm them – all other blows simply bounce off harmlessly. If a normal sword
 with a Bladesharp 3 spell cast on it is used against a werewolf, only the three points of damage
-from the spell will affect the creature; the weapon’s normal damage, as well as the attacker’s
-Damage Modifier, do not count. The werewolf ’s thick skin, which grants the beast one point of
-armour, would reduce the Bladesharp spell’s damage to two. If the entire weapon is enchanted,
-such as with a Fireblade spell, the entire damage rolled will count, though the wielder’s Damage
+from the spell will affect the creature; the weapon's normal damage, as well as the attacker's
+Damage Modifier, do not count. The werewolf 's thick skin, which grants the beast one point of
+armour, would reduce the Bladesharp spell's damage to two. If the entire weapon is enchanted,
+such as with a Fireblade spell, the entire damage rolled will count, though the wielder's Damage
 Modifier will still be ignored.
 
-Werewolves can be poisoned, so long as the poison can be introduced to the creature’s body.
+Werewolves can be poisoned, so long as the poison can be introduced to the creature's body.
 They are living entities who require oxygen and thus may be asphyxiated or drowned.
 
 The statistics are for a typical werewolf form. For human characteristics, use the standard Legend
@@ -3466,9 +3418,7 @@ Bite             L               S               1D8+1D4          As for Head   
 Claw             M               M               1D6+1D4          As for Leg      -
 
 
-                                                                                                  97
-Alex Greene (order #3140110)                                                                                       8
-       Wurm
+## Wurm
 A wurm is a large, limbless reptile, distantly related to dragons and their kind. Wurms have
 no fiery breath weapon to employ, but they are able to belch out a cloud of poisonous gas and
 regenerate Hit Points after suffering damage.
@@ -3478,14 +3428,14 @@ They are fixed INT creatures, but display such a level of base cunning that many
 believe them to be sentient. A wurm appears as a large snake, except for the head, which, while
 reptilian, sports a crest much like that of a dragon.
 
-The wurm can emit a cloud of poisonous gas once per round. The wurm’s poison cloud remains
+The wurm can emit a cloud of poisonous gas once per round. The wurm's poison cloud remains
 for one round before losing its effectiveness.
 
 A wurm regenerates two Hit Points per Combat Round in every damaged location. Regeneration
 will cease if the wurm dies.
 
 Combat Notes
-Wurms exhale a poisonous gas that affects everyone within a radius equal to the monster’s CON
+Wurms exhale a poisonous gas that affects everyone within a radius equal to the monster's CON
 in metres and has the following Characteristics:
 
 Application: Inhaled.
@@ -3522,9 +3472,8 @@ Weapons
 Type            Size            Reach           Damage          AP/HP          Range
 Bite            H               VL              1D10+2D10       As for Head    -
 
-98
-Alex Greene (order #3140110)                                                                             8
-         Wyrm
+
+## Wyrm
 Wyrms are serpentine, legless, winged relatives of dragons. Possessed of intelligence akin to that
 of a human, a wyrm is a patient, dangerous foe but it lacks the superior insight and intelligence
 of a true dragon.
@@ -3534,7 +3483,7 @@ a few individuals will join together for a common purpose. Unlike dragons, wyrms
 magic.
 
 Upon hatching, a wyrm is about two metres long and has 3D6 SIZ and STR. The wyrm will grow at
-the rate of 1D6 SIZ and STR every five years until it reaches the age of 35, when the creature’s growth
+the rate of 1D6 SIZ and STR every five years until it reaches the age of 35, when the creature's growth
 slows dramatically. By this point the creature is some nine metres in length. After age 35, a wyrm will
 continue to gain 1D6 SIZ and STR every 50 years. A wyrm may live for many hundreds of years.
 
@@ -3568,11 +3517,7 @@ Bite                 H                    VL                  1D10+2D8          
 Tail                 H                    VL                  1D20+2D8             As for Tail
 
 
-
-
-                                                                                                       99
-Alex Greene (order #3140110)                                                                                            8
-       Wyvern
+## Wyvern
 A distant and less dangerous relative of the dragon, wyverns are solitary hunters the size of a
 horse. A wyvern has two legs, two wings, no forelimbs and a tail tipped with a lethal poison
 stinger, long enough to reach around the wyvern to strike an enemy in front of the creature.
@@ -3619,18 +3564,14 @@ Bite            H          VL         1D10+1D12               As for Head     -
 Sting           H          VL         1D6+1D12+ Poison        As for Tail     -
 
 
-
-
-100
-Alex Greene (order #3140110)                                                                               8
-         Zombie
+## Zombie
 A zombie is a corpse that has been animated by dark magic. A zombie has only shreds of its original
 mind left and is generally either under the control of a master or follows its natural hunger to feed
 on living flesh. Since a zombie is comprised of rotting flesh, they sometimes carry diseases which
 can be passed on via wounds they inflict.
 
 Zombies have very low INT and POW, and no CHA, as they have virtually no intelligence, will or
-personalities of their own. As such, attempts to control a zombie’s mind or influence its personality
+personalities of their own. As such, attempts to control a zombie's mind or influence its personality
 will suffer a –50% penalty. Zombies are also immune to fatigue, disease and poisons.
 
 Combat Notes
@@ -3651,7 +3592,7 @@ DEX              1D6+3        7                 16–18        Left Arm         
 
 Combat Actions                1                 Typical Armour: None.
 Damage Modifier               +1D6
-Magic Points                  2                 Traits: Dark Sight, Diseased (GM’s choice),
+Magic Points                  2                 Traits: Dark Sight, Diseased (GM's choice),
 Movement                      4m                Night Sight
 Strike Rank                   +5
 
@@ -3665,17 +3606,9 @@ Type             Size             Reach            Damage           AP/HP       
 Unarmed          S                T                1D3+1D6          As for Arm       -
 
 
+# Natural life
 
-
-                                                                                                     101
-Alex Greene (order #3140110)                                                                                           8
-       natural life
-
-
-
-
-Alex Greene (order #3140110)   8
-         Baboon
+## Baboon
 Baboons are omnivorous primates that subsist mostly on fruits and roots, though they do hunt
 live prey from time-to-time. They gather in groups of as many as 100 individuals, ruled over by a
 handful of dominant males (roughly 10% of the population). Baboon troops are amazingly well
@@ -3711,11 +3644,7 @@ Type                SIZ          Reach          Damage          AP/HP           
 Bite                S            T              1D8–1D2         As for Head     -
 
 
-
-
-                                                                                                 103
-Alex Greene (order #3140110)                                                                                       8
-       Bear, Brown
+## Bear, Brown
 Bears are often unpredictable and can display vicious or cowardly behaviour on a whim. Some
 adventurers manage to scare them away from camps with bravado while others have paid a heavy
 price for this approach. Sleeping for long periods over winter, bears will occasionally forage the
@@ -3749,17 +3678,13 @@ Bite          S            T              1D8+1D12         As for Head         -
 Claw          M            S              1D6+1D12         As for Leg          -
 
 
-
-
-104
-Alex Greene (order #3140110)                                                                                8
-         Bear, Polar
+## Bear, Polar
 One of the largest and most aggressive species of bear, the polar bear lives on the frozen wastes
-and ice floes of the world’s arctic regions. It is a strictly carnivorous creature, dining primarily
+and ice floes of the world's arctic regions. It is a strictly carnivorous creature, dining primarily
 on seals and fish.
 
 Polar bears are excellent swimmers. They have little fear of humans and will often treat them as
-prey if they come into the bears’ territory.
+prey if they come into the bears' territory.
 
            Dice         Average              1D20         Hit Location               AP/HP
 STR           3D6+21       32                   1-3          Right Hind Leg             3/9
@@ -3788,11 +3713,7 @@ Bite             S                T               1D8+2D6          As for Head  
 Claw             M                S               1D6+2D6          As for Leg       -
 
 
-
-
-                                                                                                    105
-Alex Greene (order #3140110)                                                                                          8
-       Boar
+## Boar
 Boars are wild, feral pigs with wiry coats, long tusks and extremely poor dispositions. They are
 commonly encountered in small groups of 2 to 12 individuals and prefer forested areas.
 
@@ -3828,11 +3749,7 @@ Type                Size               Reach               Damage             AP
 Tusk                M                  T                   1D8+1D2            As for Head
 
 
-
-
-106
-Alex Greene (order #3140110)                                                                               8
-         Cattle
+## Cattle
 One of the most common domesticated beasts, cattle can be found in virtually any human
 civilisation not in arctic regions.
 
@@ -3867,11 +3784,7 @@ Trample          VL              T               1D8+1D6          -             
 Gore             L               S               1D6+1D6          As for Head     -
 
 
-
-
-                                                                                                  107
-Alex Greene (order #3140110)                                                                                        8
-       Chimpanzee
+## Chimpanzee
 Chimpanzees are forest-dwelling apes slightly smaller than humans. They are extremely intelligent
 creatures, with thin black hair and long, muscular arms. Chimpanzees are quadrupeds, though
 they can walk short distances on their hind legs and split their time equally between walking on
@@ -3911,11 +3824,7 @@ Bite                S                  T                  1D6+1D2             As
 Unarmed             M                  M                  1D3+1D2             As for Arm
 
 
-
-
-108
-Alex Greene (order #3140110)                                                                               8
-         Deer
+## Deer
 One of the most common food sources for human civilisations, as well as a number of large
 carnivores, deer are a wary and easily frightened species. They dwell mostly on the fringes of
 forests and in brushy areas where they follow well-established feeding and migration trails. A
@@ -3951,11 +3860,7 @@ Type            Size            Reach           Damage          AP/HP           
 Head Butt       L               S               1D6+1D6         As for Head     -
 
 
-
-
-                                                                                                109
-Alex Greene (order #3140110)                                                                                      8
-       Dog
+## Dog
 All dogs are descended from wolves but millennia of crossbreeding and diversification has
 produced the myriad breeds (mongrel and pedigree) found across the world. Dogs are easily
 domesticated, display high degrees of loyalty and can be crossbred to a huge variety of purposes.
@@ -3992,11 +3897,7 @@ Type             Size            Reach            Damage            AP/HP       
 Bite             S               T                1D6–1D6           As for Head    -
 
 
-
-
-110
-Alex Greene (order #3140110)                                                                                 8
-         Elephant
+## Elephant
 Elephants need little introduction. They usually travel in herds and live on savannahs, tropical
 plains and in lightly wooded areas. An elephant stands a little more than three metres tall and has
 a large, prehensile trunk and a pair of tusks.
@@ -4041,11 +3942,7 @@ Trample          E                S               2D12             -            
 Gore             H                L               1D10+2D12        As for Head      -
 
 
-
-
-                                                                                                    111
-Alex Greene (order #3140110)                                                                                          8
-       Gorilla
+## Gorilla
 Largest of the primates, gorillas are naturally quadrupeds but are also comfortable walking and
 standing on their hind legs. Gorillas are primarily vegetarian, though they often supplement
 their diet with insects and the occasional small animal. They are most often found in small family
@@ -4082,15 +3979,11 @@ Bite             M                T              1D8+2D6          As for Head   
 Unarmed          M                L              1D6+2D6          As for Arm      -
 
 
-
-
-112
-Alex Greene (order #3140110)                                                                                8
-         Hawk
+## Hawk
 Hawks are predatory birds that can be found in most climates, from tropical to temperate to
 desert. A capable hunter who prefers to fall upon its prey by dropping out of the sky, a hawk will
 not attack anything that is not normally prey unless it is diseased, magically compelled or the
-creature in question is menacing the hawk’s young.
+creature in question is menacing the hawk's young.
 
 The statistics given below are for a large hawk but may also be applied to an owl or an eagle.
 Owls have the Night Sight trait.
@@ -4126,11 +4019,7 @@ Bite             S               T                1D4–1D8         As for Head 
 Claw             S               T                1D6–1D8         –/2              -
 
 
-
-
-                                                                                                  113
-Alex Greene (order #3140110)                                                                                        8
-       Horse
+## Horse
 Of all domesticated animals, only dogs have been part of human culture longer than horses. As
 such, many different breeds of horse have emerged over the millennia, as humanity has bred this
 useful servant to fill a variety of specialised needs. The horse described below is a typical working
@@ -4164,11 +4053,7 @@ Type                 Size                Reach                Damage            
 Kick                 M                   M                    1D6+1D10           As for Leg
 
 
-
-
-114
-Alex Greene (order #3140110)                                                                                   8
-         Lion
+## Lion
 Largest of the big cats, lions hunt in arid grasslands and live communally in packs known as
 prides.
 
@@ -4210,11 +4095,7 @@ Bite            M                T              1D8+1D8         As for Head     
 Claw            M                M              1D6+1D8         As for Leg      -
 
 
-
-
-                                                                                                115
-Alex Greene (order #3140110)                                                                                      8
-       Mammoth
+## Mammoth
 Mammoths are closely related to elephants and far less common. They are built much like
 elephants, save that they have larger heads and tusks, smaller ears and a coat of thick fur. They
 usually travel in herds and live in arctic and sub-arctic steppes. A mammoth stands a little more
@@ -4249,11 +4130,7 @@ Trample         E                 S              3D12            -              
 Gore            H                 L              1D10+3D12       As for Head     -
 
 
-
-
-116
-Alex Greene (order #3140110)                                                                               8
-         Panther
+## Panther
 A panther is a large hunting cat. For this description, panther includes such diverse feline species as
 mountain lions, jaguars and leopards. These creatures live in forests and jungles, sometimes ranging
 out into nearby savannahs, plains and even deserts. They will prey on anything they can kill but
@@ -4292,11 +4169,7 @@ Bite             M                 T                1D8+1D6           As for Hea
 Claw             M                 M                1D6+1D6           As for Leg      -
 
 
-
-
-                                                                                                       117
-Alex Greene (order #3140110)                                                                                             8
-       Rhinoceros
+## Rhinoceros
 Dim-witted and surly, these great beasts live on tropical savannahs and at the edges of forests.
 They have poor eyesight and a tendency to charge anything they perceive as infringing on their
 territory.
@@ -4337,11 +4210,7 @@ Gore             L               M               1D8+1D12         As for Head   
 Trample          H               T               1D12+1D12        -               -
 
 
-
-
-118
-Alex Greene (order #3140110)                                                                                8
-         Shark
+## Shark
 A perfect killing and eating machine, the shark is one of the most famous and feared denizens
 of the oceans. Sharks are unpredictable and dangerous, though fortunately, unlike sea serpents,
 they very rarely grow large enough to menace ships. They are, however, extremely hazardous to
@@ -4377,11 +4246,7 @@ Type               Size               Reach              Damage             AP/H
 Bite               L                  T                  1D10+2D10          As for Head
 
 
-
-
-                                                                                               119
-Alex Greene (order #3140110)                                                                                     8
-       Tiger
+## Tiger
 One of the largest of the big cats, a tiger hunts alone, eschewing the company of its own kind
 except during mating season. Tigers live in jungles and grassy areas and are perfectly capable of
 surviving in conditions ranging from the tropical to the arctic.
@@ -4419,11 +4284,7 @@ Bite            M                T               1D8+1D12        As for Head    
 Claw            M                M               1D10+1D12       As for Leg      -
 
 
-
-
-120
-Alex Greene (order #3140110)                                                                               8
-         Tiger, Sabre Tooth (Smilodon)
+## Tiger, Sabre Tooth (Smilodon)
 Sabre tooth tigers are not true tigers but a separate big-cat species. Stocky and powerful over
 short distances, their favoured tactic is to ambush their prey from a high point, leaping onto the
 back and stabbing down with their dreadful sabre-curved fangs. They are native to savannahs
@@ -4458,11 +4319,7 @@ Claw             M               M               1D10+1D12        As for Leg    
 Stab             M               M               1D10+1D12        As for Head     -
 
 
-
-
-                                                                                                  121
-Alex Greene (order #3140110)                                                                                        8
-       Wolf
+## Wolf
 Consummate hunters, wolves gather in groups ranging from a few individuals to packs as large as 50 or
 more. They tend to prefer mountains and forest terrain, although they can be found almost anywhere.
 
