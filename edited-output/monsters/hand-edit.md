@@ -325,7 +325,7 @@ Where a creature can fly (dragons, for example), or swim, two Movement rates are
 separated by a slash. The first Movement rate is the creature's ground Movement; the second for
 flying or swimming, as appropriate.
 
-**Weapons**: The creature's preferred and available attacks and/or Combat Styles are listed. Where
+**Weapons**: The creature's preferred and available attacks and/or ##### Combat Styles are listed. Where
 a Combat Style is concerned, the weapons are noted and the respective sizes and reach listed.
 Where weapon and shield styles are listed, size and reach for the weapon and then the shield are
 separated by a slash. The AP/HP for the weapons are similarly listed in the same order.
@@ -465,10 +465,10 @@ Evaluate 60%, Lore (Mineral) 80%, Mechanisms 40%, Persistence 43%, Resilience 67
 **Magic**: Sorcery (Dwarf Grimoire) 56%, Manipulation 54%: Animate (Rock or Metal), Damage
 Resistance, Form/Set (Rock or Metal), Holdfast
 
-#### Combat Styles
+##### Combat Styles
 Mace and Shield 75%, Battleaxe (two handed) 65%, Crossbow 45%
 
-#### Weapons
+##### Weapons
 
 | Type                  | Size         | Reach        | Damage        | AP/HP        | Range |
 |-----------------------|--------------|--------------|---------------|--------------|-------|
@@ -518,10 +518,10 @@ Strike Rank                +17 (+14 if armoured)
 **Magic**: Common Magic 54%: Clear Path 2, Co-Ordination 2, Multi-Missile 2 Pact (Grower)
 60% – 3 points of Dedicated POW; Lore (Grower) 60%: Alter Target, Behold, Evergreen
 
-#### Combat Styles
+##### Combat Styles
 Longbow 80%, Spear 60%
 
-#### Weapons
+##### Weapons
 
 | Type          | Size           | Reach         | Damage        | AP/HP         | Range |
 |---------------|----------------|---------------|---------------|---------------|-------|
@@ -566,10 +566,10 @@ Strike Rank                +11 (+9 if wearing apron)
 **Skills**: Athletics 44%, Brawn 112%, Lore (Regional) 20%, Perception 40%, Persistence 43%,
 Resilience 99%, Survival 30%
 
-#### Combat Styles
+##### Combat Styles
 Club 84%, Unarmed 60%
 
-#### Weapons
+##### Weapons
 
 | Type              | Size        | Reach        | Damage            | AP/HP           | Range |
 |-------------------|-------------|--------------|-------------------|-----------------|-------|
@@ -617,13 +617,14 @@ Strike Rank                  +11
 
 
 **Skills**: Athletics 75%, Brawn 45%, Lore (Regional) 50%, Perception 70%, Persistence 40%,
-Resilience 40%, Sleight 70%, Stealth 75%, Survival 30%  
+Resilience 40%, Sleight 70%, Stealth 75%, Survival 30%
+
 **Common Magic 50%**: Bandit's Cloak 2, Bladesharp 2, Pierce 2
 
-#### Combat Styles
+##### Combat Styles
 Spear and Shield 45%, Sling 50%
 
-#### Weapons
+##### Weapons
 
 | Type            | SIZ            | Reach          | Damage           | AP/HP        | Range |
 |-----------------|----------------|----------------|------------------|--------------|-------|
@@ -666,13 +667,14 @@ Strike Rank                    +15
 ```
 
 **Skills**: Athletics 30%, Evade 35%, First Aid 25%, Influence 25%, Perception 30%, Persistence
-43%, Resilience 58%, Sleight 50%, Stealth 40%  
+43%, Resilience 58%, Sleight 50%, Stealth 40%
+
 **Common Magic 30%**: Abacus, Becalm, Detect Food, Entertainer's Smile 2
 
-#### Combat Styles
+##### Combat Styles
 Shortsword 35%, Sling 40%
 
-#### Weapons
+##### Weapons
 
 | Type           | SIZ            | Reach          | Damage          | AP/HP         | Range |
 |----------------|----------------|----------------|-----------------|---------------|-------|
@@ -712,13 +714,14 @@ Strike Rank                 +12
 ```
 
 **Skills**: Athletics 40%, Influence 35%, Perception 50%, Persistence 50%, Resilience 50%,
-Stealth 35%, Track 35%, Unarmed 60%  
+Stealth 35%, Track 35%, Unarmed 60%
+
 **Common Magic**: Endurance, Glamour 2, Golden Tongue 2
 
-#### Combat Styles
+##### Combat Styles
 Sword and Shield 50%, Unarmed 60%
 
-#### Weapons
+##### Weapons
 
 | Type                  | SIZ     | Reach      | Damage            | AP/HP           | Range |
 |-----------------------|---------|------------|-------------------|-----------------|-------|
@@ -758,12 +761,13 @@ Strike Rank                    +13
 
 **Skills**: Athletics 30%, Brawn 35%, Evade 40%, Perception 35%, Persistence 43%, Resilience
 55%, Stealth 35%, Unarmed 40%
+
 **Common Magic 20%**: Bladesharp 2, Pierce 2
 
-#### Combat Styles
+##### Combat Styles
 Spear and Shield 45%, Sword and Shield 45%, Bow 40%, Unarmed 40%
 
-#### Weapons
+##### Weapons
 
 | Type            | SIZ       | Reach       | Damage           | AP/HP          | Range |
 |-----------------|-----------|-------------|------------------|----------------|-------|
@@ -811,12 +815,13 @@ Strike Rank              +10
 
 **Skills**: Athletics 30%, Brawn 55%, Evade 25%, Perception 30%, Persistence 43%, Resilience
 55%, Stealth 25%, Unarmed 55%
+
 **Common Magic 20%**: Bludgeon 2
 
-#### Combat Styles
+##### Combat Styles
 Club 55%, Sling, 40%, Unarmed 40%
 
-#### Weapons
+##### Weapons
 
 | Type         | SIZ         | Reach       | Damage          | AP/HP             | Range |
 |--------------|-------------|-------------|-----------------|-------------------|-------|
@@ -899,10 +904,10 @@ Strike Rank                   +9
 **Skills**: Athletics 75%, Evade 40%, Perception 30%, Persistence 49%, Resilience 61%, Stealth
 25%, Track 85%
 
-#### Combat Styles
+##### Combat Styles
 Mandibles 40%, Sting 45%
 
-#### Weapons
+##### Weapons
 
 | Type          | Size     | Reach     | Damage         | AP/HP            | Range |
 |---------------|----------|-----------|----------------|------------------|-------|
@@ -920,11 +925,11 @@ Giant bees are the size of a medium sized dog and are usually peaceful unless th
 Like ants, their intelligence is based on the size of the community and the problem at hand: treat
 bees in exactly the same way as giant ants when it comes to calculating the INT of larger groups.
 
-#### Combat Notes
+##### Combat Notes
 Bee venom has the following Characteristics:
 
 **Application**: Injection.  
-**Onset time**: 1D12 Combat Rounds.  
+**Onset Time**: 1D12 Combat Rounds.  
 **Duration**: 6D10 minutes.  
 **Resistance Time**: The victim must make a resistance roll at the Onset Time of each stage of the
 poison. Failure indicates that Condition has taken effect.  
@@ -965,10 +970,10 @@ Strike Rank                +9
                                          
 **Skills**: Athletics 70%, Evade 50%, Perception 40%, Persistence 49%, Resilience 43%, Track 50%
 
-#### Combat Styles
+##### Combat Styles
 Sting 40%
 
-#### Weapons
+##### Weapons
 
 | Type         | Size      | Reach      | Damage              | AP/HP                 | Range |
 |--------------|-----------|------------|---------------------|-----------------------|-------|
@@ -1009,17 +1014,17 @@ Strike Rank                  +9
 
 **Skills**: Athletics 75%, Evade 40%, Perception 50%, Persistence 37%, Resilience 61%, Track 40%
 
-#### Combat Styles
+##### Combat Styles
 Mandibles 40%
 
-#### Weapons
+##### Weapons
 
 | Type               | Size     | Reach | Damage   | AP/HP        | Range |
 |--------------------|----------|-------|----------|--------------|-------|
 | Mandibles	         | M        | M     | 1D8+1D6  | As for Head  | -     |
 
 
-##Centipede, Giant
+## Centipede, Giant
 Centipedes have long sinuous bodies and a head tipped with a pair of poison claws. Each of its
 many legs ends in a needle-sharp point equipped with a smaller version of the venom glands
 found on its head.
@@ -1043,11 +1048,11 @@ However, if one of the centipede's segments is destroyed, all segments behind th
 incapacitated and immobile. Meanwhile, all segments ahead of the one destroyed will attempt to
 run away, carrying the creature's head with them.
 
-#### Combat Notes
+##### Combat Notes
 Centipede venom is as follows:
 
 **Application**: Injection.  
-**Onset time**: Nausea after 1D3 minutes, Paralysis after 3D6 minutes.  
+**Onset Time**: Nausea after 1D3 minutes, Paralysis after 3D6 minutes.  
 **Duration**: 1 hour.  
 **Resistance Time**: The victim must make a Resistance roll at the Onset Time of each stage of the
 poison. Failure indicates that Condition has taken effect.  
@@ -1097,10 +1102,10 @@ Traits: Poison
 **Skills**: Athletics 60%, Evade 25%, Perception 55%, Persistence 40%, Resilience 100%,
 Stealth 70%
 
-#### Combat Styles
+##### Combat Styles
 Mandibles 35%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size        | Reach         | Damage   | AP/HP         | Range |
 |----------------|-------------|---------------|----------|---------------|-------|
@@ -1114,7 +1119,7 @@ on the beach or in the shallows.
 
 Crabs are opportunistic scavengers who will attack anything that looks even remotely edible.
 
-#### Combat Notes
+##### Combat Notes
 Giant crabs use their immense claws to both Bash and Grip. The claws are capable of the Sunder
 Combat Manoeuvre although this is applied only if the crab scores a critical success on an
 attack.
@@ -1148,10 +1153,10 @@ Traits: Formidable Natural Weapons.
 **Skills**: Athletics 75%, Brawn 75%, Perception 40%, Persistence 43%, Resilience 61%, Stealth
 55%, Track 20%
 
-#### Combat Styles
+##### Combat Styles
 Claw 50%
 
-#### Weapons
+##### Weapons
 
 | Type           | SIZ            | Reach          | Damage         | AP/HP          | Range |
 |----------------|----------------|----------------|----------------|----------------|-------|
@@ -1227,7 +1232,7 @@ Resilience in a standard opposed test.
 #### Insect Venom
 
 **Application**: Injection.  
-**Onset time**: 1D10 Combat Rounds.  
+**Onset Time**: 1D10 Combat Rounds.  
 **Duration**: 6D10 minutes.  
 **Resistance Time**: The victim must make a resistance roll at the Onset Time of each stage of the
 poison. Failure indicates that Condition has taken effect.  
@@ -1285,10 +1290,10 @@ Strike Rank               +7
 
 **Skills**: Athletics 60%, Evade 05%, Perception 25%, Persistence 22%, Resilience 40%
 
-#### Combat Styles
+##### Combat Styles
 Bite 40%
 
-#### Weapons
+##### Weapons
 
 | Type        | Size        | Reach          | Damage                       | AP/HP |
 |-------------|-------------|----------------|------------------------------|-------|
@@ -1334,10 +1339,10 @@ Strike Rank               +14                   Traits: Wall Walking
 
 **Skills**: Athletics 80%, Evade 60%, Perception 40%, Persistence 40%, Resilience 40%,
 
-#### Combat Styles
+##### Combat Styles
 Mandibles 30%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size           | Reach          | Damage         | AP/HP          | Range |
 |----------------|----------------|----------------|----------------|----------------|-------|
@@ -1358,7 +1363,7 @@ during the day – but they will attack if disturbed. A single giant mosquito ca
 Hit Points' worth of blood equal to its SIZ x2 before being satiated. However, it is not necessarily
 blood loss that is the killer. To drain blood the mosquito injects anti-coagulant saliva into its
 prey, and, at the levels a giant mosquito uses, this can overwhelm a bite victim after the mosquito
-has taken it fill. See Combat Notes for more details.
+has taken it fill. See ##### Combat Notes for more details.
 
 On a successful attack the mosquito drains blood every Combat Action that it remains attached
 to the victim, beginning on the same CA it makes its first attack. It does not need to make
@@ -1390,10 +1395,10 @@ Strike Rank                  +9                  Traits: Flying, Wall Walking, L
 
 **Skills**: Athletics 70%, Evade 70%, Perception 20%, Persistence 31%, Resilience 22%
 
-#### Combat Styles
+##### Combat Styles
 Bite 40%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size           | Reach         | Damage         | AP/HP          | Range |
 |----------------|----------------|---------------|----------------|----------------|-------|
@@ -1414,7 +1419,7 @@ Anyone riding such a creature into battle may use 1D10+10 to determine Hit Locat
 his targets, even against mounted foes (except particularly tall enemies or enemies also riding
 mantises).
 
-#### Combat Notes
+#### ##### Combat Notes
 The preying mantis is a formidable hunter. Its primary attack is always the foreclaws and it
 combines both claws in a single, devastating grasp that both damages and automatically Grips
 the prey – it does not need to gain a level of success above a defender to use this Combat
@@ -1450,10 +1455,10 @@ Traits: Formidable Natural Weapons, Wall Walking
 **Skills**: Athletics 55%, Evade 40%, Perception 85%, Persistence 37%, Resilience 70%, Stealth
 90%, Track 65%
 
-#### Combat Styles
+##### Combat Styles
 Unarmed 95%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size           | Reach        | Damage         | AP/HP         | Range |
 |----------------|----------------|--------------|----------------|---------------|-------|
@@ -1470,7 +1475,7 @@ The giant scorpion described below is approximately two and a half metres long, 
 which is itself another two metres in length. The scorpion stands about half a metre tall. Scorpions
 have no discernible head; the sensory organs are contained within the forefront of the thorax.
 
-#### Combat Notes
+#### ##### Combat Notes
 Scorpion venom has the following Characteristics:
 
 **Application**: Injected or smeared.  
@@ -1513,10 +1518,10 @@ Traits: Formidable Natural Weapons, Wall Walking, Sting
 
 **Skills**: Athletics 65%, Evade 30%, Perception 55%, Persistence 37%, Resilience 67%, Stealth 45%
 
-#### Combat Styles
+##### Combat Styles
 Unarmed 35%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size   | Reach     | Damage                | AP/HP          | Range |
 |----------------|--------|-----------|-----------------------|----------------|-------|
@@ -1552,10 +1557,10 @@ Strike Rank                  +4
 
 **Skills**: Evade 05%, Perception 25%, Persistence 31%, Resilience 31%, Stealth 30%
 
-#### Combat Styles
+##### Combat Styles
 Bite 30%
 
-#### Weapons
+##### Weapons
 
 | Type          | SIZ             | Reach       | Damage        | AP/HP         | Range |
 |---------------|-----------------|-------------|---------------|---------------|-------|
@@ -1591,11 +1596,11 @@ Giant spiders are extremely intelligent creatures, though they are still just an
 is fixed. In the following entries, the Movement figure following the slash is for movement within
 the spider's own web.
 
-#### Combat Notes
+##### Combat Notes
 Spider venom has the following Characteristics:
 
 **Application**: Injected.  
-**Onset time**: 1D3 Rounds.  
+**Onset Time**: 1D3 Rounds.  
 **Duration**: 1D3 Days.  
 **Resistance Time**: Daily. The first Resistance roll must be made at the end of the Onset Time,
 then daily thereafter. Successfully resisting the poison allows the victim to avoid suffering the
@@ -1636,10 +1641,10 @@ Strike Rank             +16
 **Skills**: Athletics 75%, Evade 40%, Perception 65%, Persistence 31%, Resilience 43%, Stealth
 85%, Track 40%
 
-#### Combat Styles
+##### Combat Styles
 Bite 50%, Web 60%
 
-#### Weapons
+##### Weapons
 
 | Type         | SIZ          | Reach        | Damage       | AP/HP        | Range |
 |--------------|--------------|--------------|--------------|--------------|-------|
@@ -1673,10 +1678,10 @@ Strike Rank             +16               details on Spider Venom), Wall Walking
 **Skills**: Athletics 100%, Evade 40%, Perception 65%, Persistence 43%, Resilience 61%, Stealth
 85%, Track 40%
 
-#### Combat Styles
+##### Combat Styles
 Bite 55%, Web 65%
 
-#### Weapons
+##### Weapons
 
 | Type         | SIZ   | Reach       | Damage                | AP/HP        | Range |
 |--------------|-------|-------------|-----------------------|--------------|-------|
@@ -1710,10 +1715,10 @@ Strike Rank          +16               details on Spider Venom), Wall Walking
 **Skills**: Athletics 110%, Dodge 40%, Perception 65%, Persistence 52%, Resilience 79%, Stealth
 85%, Track 40%
 
-#### Combat Styles
+##### Combat Styles
 Bite 60%, Web 70%
 
-#### Weapons
+##### Weapons
 
 | Type         | SIZ       | Reach    | Damage               | AP/HP        | Range |
 |--------------|-----------|----------|----------------------|--------------|-------|
@@ -1763,10 +1768,10 @@ Strike Rank                 +7
 **Skills**: Athletics 75%, Brawn 65%, Perception 40%, Persistence 43%, Resilience 67%, Stealth
 50%, Swim 95%
 
-#### Combat Styles
+##### Combat Styles
 Bite 50%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size        | Reach    | Damage              | AP/HP              | Range |
 |----------------|-------------|----------|---------------------|--------------------|-------|
@@ -1798,10 +1803,10 @@ Strike Rank                +7
 **Skills**: Athletics 75%, Brawn 85%, Perception 40%, Persistence 43%, Resilience 97%, Stealth
 50%, Swim 95%
 
-#### Combat Styles
+##### Combat Styles
 Bite 50%
 
-#### Weapons
+##### Weapons
 
 | Type         | Size         | Reach        | Damage       | AP/HP        | Range |
 |--------------|--------------|--------------|--------------|--------------|-------|
@@ -1841,10 +1846,10 @@ Strike Rank              +11                 Traits: Formidable Natural Weapons
 
 **Skills**: Athletics 90%, Perception 50%, Persistence 43%, Resilience 95%, Tracking 40%
 
-#### Combat Styles
+##### Combat Styles
 Bite 50%, Kick 35%, Tail Bash 30%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size       | Reach        | Damage          | AP/HP             | Range |
 |----------------|------------|--------------|-----------------|-------------------|-------|
@@ -1883,10 +1888,10 @@ Strike Rank              +10                Traits: Formidable Natural Weapons
 
 **Skills**: Athletics 20%, Brawn 80%, Perception 40%, Persistence 43%, Resilience 82%
 
-#### Combat Styles
+##### Combat Styles
 Bite 50%, Tail Bash 60%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size           | Reach          | Damage       | AP/HP         | Range |
 |----------------|----------------|----------------|--------------|---------------|-------|
@@ -1925,10 +1930,10 @@ Strike Rank                 +5
 
 **Skills**: Athletics 15%, Brawn 95%, Perception 25%, Persistence 40%, Resilience 95%
 
-#### Combat Styles
+##### Combat Styles
 Trample/Stamp 65%, Tail Bash 60%
 
-#### Weapons
+##### Weapons
 
 | Type               | Size     | Reach      | Damage            | AP/HP           | Range |
 |--------------------|----------|------------|-------------------|-----------------|-------|
@@ -1967,10 +1972,10 @@ Strike Rank                +9
 
 **Skills**: Athletics 80%, Brawn 75%, Perception 40%, Persistence 40%, Resilience 73%
 
-#### Combat Styles
+##### Combat Styles
 Kick 40%, Tail Bash 20%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size          | Reach          | Damage        | AP/HP          | Range |
 |----------------|---------------|----------------|---------------|----------------|-------|
@@ -1987,7 +1992,7 @@ beasts will usually not attempt this unless sick or starving. When a plesiosaur 
 the water like this, only its Head/Neck Hit Location can be struck – the rest remains safely
 submerged.
 
-Combat Notes
+##### Combat Notes
 Plesiosaurs are capable of seizing smaller creatures in their long, powerful jaws, and thus use
 the Grip Combat Manoeuvre before exercising a bite.
 
@@ -2013,10 +2018,10 @@ Strike Rank                +12
 **Skills**: Athletics 80%, Brawn 75%, Evade 50%, Persistence 43%, Resilience 52%, Stealth 45%,
 Tracking 60%
 
-#### Combat Styles
+##### Combat Styles
 Bite 45%
 
-#### Weapons
+##### Weapons
 
 | Type      | Size           | Reach          | Damage         | AP/HP               | Range |
 |-----------|----------------|----------------|----------------|---------------------|-------|
@@ -2056,10 +2061,10 @@ Strike Rank                 +13
 
 **Skills**: Acrobatics 40%, Perception 65%, Persistence 43%, Resilience 52%, Stealth 40%
 
-#### Combat Styles
+##### Combat Styles
 Bite 55%, Claw 45%
 
-### Weapons
+##### Weapons
 
 | Type           | Size          | Reach         | Damage        | AP/HP         | Range |
 |----------------|---------------|---------------|---------------|---------------|-------|
@@ -2097,10 +2102,10 @@ Strike Rank              +7
 **Skills**: Evade 45%, Perception 25%, Persistence 41%, Resilience 49%, Stealth 25%, Tracking
 30%
 
-#### Combat Styles
+##### Combat Styles
 Claw 45%, Bite 40%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size            | Reach         | Damage         | AP/HP          | Range |
 |----------------|-----------------|---------------|----------------|----------------|-------|
@@ -2119,7 +2124,7 @@ two divisions are called simply 'constrictors' and 'venomous'.
 The statistics given are for an eight-metre constrictor, an enormous beast capable of consuming
 a full-grown human.
 
-#### Combat Notes
+##### Combat Notes
 If the constrictor's constrict attack hits, the victim is caught up in the serpent's coils. Each round,
 the constrictor inflicts damage to the victim's chest location. Chest armour protects against this
 damage. In addition to the Hit Point damage caused by the constriction, the victim is unable to
@@ -2146,10 +2151,10 @@ Strike Rank                 +10
 
 **Skills**: Athletics 85%, Evade 65%, Persistence 43%, Resilience 43%, Stealth 75%
 
-#### Combat Styles
+##### Combat Styles
 Bite 60%, Constrict 40%
 
-#### Weapons
+##### Weapons
 
 | Type            | Size           | Reach          | Damage         | AP/HP          | Range |
 |-----------------|----------------|----------------|----------------|----------------|-------|
@@ -2163,11 +2168,11 @@ cobra. Other venomous types can be created by varying the STR and SIZ Characteri
 as the Potency of the snake's poison. Some snakes spit their venom, and so the Combat Style
 reflects this kind of serpent.
 
-#### Combat Notes
+##### Combat Notes
 Snake venom has the following Characteristics:
 
 **Application**: Injection/Smeared.  
-**Onset time**: Nausea after 1D3 minutes, Paralysis after 3D6 minutes, Asphyxiation at conclusion.  
+**Onset Time**: Nausea after 1D3 minutes, Paralysis after 3D6 minutes, Asphyxiation at conclusion.  
 **Duration**: 1 hour.  
 **Resistance Time**: The victim must make a Resistance roll at the Onset Time of each stage of the
 poison. Failure indicates that Condition has taken effect.  
@@ -2200,10 +2205,10 @@ Strike Rank                +18
 
 **Skills**: Athletics 35%, Evade 75%, Persistence 43%, Resilience 31%, Stealth 95%
 
-#### Combat Styles
+##### Combat Styles
 Bite/Spit 60%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size   | Reach    | Damage      | AP/HP          | Range (spitters only) |
 |----------------|--------|----------|-------------|----------------|-----------------------|
@@ -2240,10 +2245,10 @@ Strike Rank                 +7                Traits: Formidable Natural Weapons
 
 **Skills**: Athletics 65%, Brawn 58%, Perception 40%, Persistence 40%, Resilience 88%
 
-#### Combat Styles
+##### Combat Styles
 Tail Bash 65%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size       | Reach          | Damage           | AP/HP           | Range |
 |----------------|------------|----------------|------------------|-----------------|-------|
@@ -2259,7 +2264,7 @@ likely to charge anything that enters its territory: if the beast fails a Persis
 is guaranteed. Triceratops are quadrupeds, propelling themselves on four thick, powerful legs.
 They are fond of open savannah and are usually solitary.
 
-#### Combat Notes
+##### Combat Notes
 Triceratops attempt to gore their foes. The triumvirate of horns are capable of both Sundering
 and Impaling and, if a foe is Impaled, the next Combat Action sees the triceratops aim to throw
 its victim with a toss of its massive head.
@@ -2285,10 +2290,10 @@ Strike Rank                  +8
 
 **Skills**: Athletics 60%, Brawn 75%, Perception 50%, Persistence 40%, Resilience 95%
 
-#### Combat Styles
+##### Combat Styles
 Tail Bash 65%
 
-#### Weapons
+##### Weapons
 
 | Type          | Size     | Reach          | Damage              | AP/HP               | Range |
 |---------------|----------|----------------|---------------------|---------------------|-------|
@@ -2324,10 +2329,10 @@ Strike Rank             +8                 Traits: Formidable Natural Weapons, T
 
 **Skills**: Athletics 90%, Perception 50%, Persistence 40%, Resilience 100%, Tracking 50%
 
-#### Combat Styles
+##### Combat Styles
 Bite 60%, Roar 75%
 
-#### Weapons
+##### Weapons
 
 | Type           | Size        | Reach      | Damage           | AP/HP           | Range |
 |----------------|-------------|------------|------------------|-----------------|-------|
@@ -2371,10 +2376,10 @@ Strike Rank                +15                 Traits: Formidable Natural Weapon
 **Skills**: Athletics 40%, Perception 50%, Persistence 40%, Resilience 52%, Stealth 50%, Track
 45%
 
-#### Combat Styles
+##### Combat Styles
 Bite 40%, Kick 35%, Foreclaw 65%
 
-#### Weapons
+##### Weapons
 
 | Type         | Size         | Reach         | Damage         | AP/HP                | Range |
 |--------------|--------------|---------------|----------------|----------------------|-------|
@@ -2400,43 +2405,48 @@ able to attempt to resist all incoming spells twice. Only if both heads are over
 Emotional and mental spells, such as Befuddle, or spells affecting the snake's INT, POW or Magic
 Points, may only affect one head, chosen by the caster. The remaining head is unaffected.
 
-Combat Notes
+##### Combat Notes
 Amphisboena venom has the following Characteristics:
-Application: Injection.
-Onset time: 2 Combat Rounds.
-Duration: 6D10 minutes.
-Resistance Time: The victim must make a Resistance roll at the Onset Time of each stage of the
+**Application**: Injection.
+**Onset Time**: 2 Combat Rounds.
+**Duration**: 6D10 minutes.
+**Resistance Time**: The victim must make a Resistance roll at the Onset Time of each stage of the
 poison. Failure indicates that Condition has taken effect.
-Potency: 28.
-Resistance: Resilience.
-Conditions: Agony, Exhaustion.
-Antidote/Cure: Anti-venom. Some cultures have perfected anti-venom remedies which have a Potency
+**Potency**: 28.
+**Resistance**: Resilience.
+**Conditions**: Agony, Exhaustion.
+**Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a Potency
 of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing roll and add
 their Potency as a bonus to the victim's Resilience roll to fight the venom throughout its duration.
 
-         Dice            Average               1D20        Hit Location           AP/HP
-STR           4D6             14                    1-6         Right Head             3/6
-CON           3D6             11                    7-14        Body                   3/8
-SIZ           3D6+6           17                    15-20       Left Head              3/6
-INT           2/2             2/2
-POW           3D6/3D6         11/11
-DEX           3D6+12          23
+|             | Dice          | Average             | 1D20      | Hit Location         | AP/HP |
+|-------------|---------------|---------------------|-----------|----------------------|-------|
+| STR         | 4D6           | 14                  | 1-6       | Right Head           | 3/6   |
+| CON         | 3D6           | 11                  | 7-14      | Body                 | 3/8   |
+| SIZ         | 3D6+6         | 17                  | 15-20     | Left Head            | 3/6   |
+| INT         | 2/2           | 2/2                 |           |                      |       |
+| POW         | 3D6/3D6       | 11/11               |           |                      |       |
+| DEX         | 3D6+12        | 23                  |           |                      |       |
 
+```
 Combat Actions                3                     Typical Armour: Scales. No Armour Penalty.
 Damage Modifier               +1D4
 Magic Points                  11/11                 Traits: Poison (bite, see below)
 Movement                      12m/16m
 Strike Rank                   +14
+```
 
-Skills: Athletics 85%, Evade 60%, Influence 60%, Persistence 43%, Resilience 43%
+**Skills**: Athletics 85%, Evade 60%, Influence 60%, Persistence 43%, Resilience 43%
 
-Combat Styles
+##### Combat Styles
 Bite 45%, Jump (Athletics) 85%
 
-Weapons
-Type           Size          Reach         Damage                      AP/HP              Range
-Bite           M             M             1D8+1D4+Poison              As for Head        -
-Jump           L             T             1D6+1D4+Poison              As for Body        -
+##### Weapons
+
+| Type         | Size        | Reach       | Damage                    | AP/HP            | Range |
+|--------------|-------------|-------------|---------------------------|------------------|-------|
+| Bite         | M           | M           | 1D8+1D4+Poison            | As for Head      | -     |
+| Jump         | L           | T           | 1D6+1D4+Poison            | As for Body      | -     |
 
 
 ## Basilisk
@@ -2470,43 +2480,50 @@ The basilisk's poison and corrosive blood are magical effects, which lose their 
 1D3 minutes after leaving the basilisk's body, making it virtually impossible to use the creature
 as a source for such lethal compounds.
 
-Combat Notes
+##### Combat Notes
 The bite of a basilisk, if it causes damage, is also poisonous, with the following Characteristics:
 
-Application: Injection.
-Onset time: Immediate.
-Duration: 6D10 minutes.
-Resistance Time: The victim must make a Resistance roll immediately. Failure indicates that
+**Application**: Injection.
+**Onset Time**: Immediate.
+**Duration**: 6D10 minutes.
+**Resistance Time**: The victim must make a Resistance roll immediately. Failure indicates that
 Condition has taken effect.
-Potency: CON x5 (65).
-Resistance: Resilience.
-Conditions: Agony. The victim also suffers 1D3 damage to all Hit Locations simultaneously.
-Antidote/Cure: Healing Magic only.
+**Potency**: CON x5 (65).
+**Resistance**: Resilience.
+**Conditions**: Agony. The victim also suffers 1D3 damage to all Hit Locations simultaneously.
+**Antidote/Cure**: Healing Magic only.
 
-         Dice            Average             1D20        Hit Location              AP/HP
-STR         2D3             4                   1-2         Tail                      2/3
-CON         2D6+6           13                  3-4         Right Hind Leg            2/3
-SIZ         1D3             2                   5-6         Left Hind Leg             2/3
-INT         3               3                   7-8         Hindquarters              2/4
-POW         1D6+12          16                  9-10        Forequarters              2/5
-DEX         2D6             7                   11-12       Right Wing                2/2
-                                             13-14       Left Wing                 2/2
-                                             15-16       Right Front Leg           2/3
-                                             17-18       Left Front Leg            2/3
-Combat Actions              2                   19-20       Head                      2/3
+|           | Dice          | Average           | 1D20      | Hit Location            | AP/HP |
+|-----------|---------------|-------------------|-----------|-------------------------|-------|
+| STR       | 2D3           | 4                 | 1-2       | Tail                    | 2/3   |
+| CON       | 2D6+6         | 13                | 3-4       | Right Hind Leg          | 2/3   |
+| SIZ       | 1D3           | 2                 | 5-6       | Left Hind Leg           | 2/3   |
+| INT       | 3             | 3                 | 7-8       | Hindquarters            | 2/4   |
+| POW       | 1D6+12        | 16                | 9-10      | Forequarters            | 2/5   |
+| DEX       | 2D6           | 7                 | 11-12     | Right Wing              | 2/2   |
+|           |               |                   | 13-14     | Left Wing               | 2/2   |
+|           |               |                   | 15-16     | Right Front Leg         | 2/3   |
+|           |               |                   | 17-18     | Left Front Leg          | 2/3   |
+|           |               |                   | 19-20     | Head                    | 2/3   |
+
+```
+Combat Actions              2
 Damage Modifier             –1D6
 Magic Points                16                  Typical Armour: Scales and Feathers. No Armour
 Movement                    8m/12m              Penalty.
 Strike Rank                 +7                  Traits: Gaze Attack, Poison, Flying
+```
 
-Skills: Athletics 60%, Evade 30%, Persistence 58%, Resilience 49%, Stealth 40%, Survival 40%
+**Skills**: Athletics 60%, Evade 30%, Persistence 58%, Resilience 49%, Stealth 40%, Survival 40%
 
-Combat Styles
+##### Combat Styles
 Gaze 100%, Bite 30%
 
-Weapons
-Type          Size         Reach        Damage                    AP/HP                Range
-Bite          S            T            1D6–1D6+Poison            As for Head          -
+##### Weapons
+
+| Type        | Size       | Reach      | Damage                  | AP/HP              | Range |
+|-------------|------------|------------|-------------------------|--------------------|-------|
+| Bite        | S          | T          | 1D6–1D6+Poison          | As for Head        | -     |
 
 
 ## Behemoth
@@ -2525,32 +2542,37 @@ solitary creatures that can often be found wallowing in deep pools and rivers.
 Because of a behemoth's immense size and length, creatures less than one-third its SIZ do not roll
 on its Hit Location chart for combat attacks; they simply hit the part closest to them.
 
-       Dice           Average           1D20         Hit Location               AP/HP
-STR         6D10+100       133               1-2          Tail                       30/33
-CON         6D10+60        93                3-4          Right Hind Leg             30/33
-SIZ         4D10+100       122               5-6          Left Hind Leg              30/33
-INT         4              4                 7-10         Hindquarters               30/33
-POW         4D6            14                11-14        Forequarters               30/33
-DEX         2D3            4                 15-16        Right Front Leg            30/33
-                                        17-18        Left Front Leg             30/33
-                                        19-20        Head/Neck                  30/33
+|           | Dice         | Average         | 1D20       | Hit Location             | AP/HP |
+|-----------|--------------|-----------------|------------|--------------------------|-------|
+| STR       | 6D10+100     | 133             | 1-2        | Tail                     | 30/33 |
+| CON       | 6D10+60      | 93              | 3-4        | Right Hind Leg           | 30/33 |
+| SIZ       | 4D10+100     | 122             | 5-6        | Left Hind Leg            | 30/33 |
+| INT       | 4            | 4               | 7-10       | Hindquarters             | 30/33 |
+| POW       | 4D6          | 14              | 11-14      | Forequarters             | 30/33 |
+| DEX       | 2D3          | 4               | 15-16      | Right Front Leg          | 30/33 |
+|           |              |                 | 17-18      | Left Front Leg           | 30/33 |
+|           |              |                 | 19-20      | Head/Neck                | 30/33 |
 
+```
 Combat Actions             1                 Typical Armour: Thick Hide. No Armour Penalty.
 Damage Modifier            +5D12
 Magic Points               14                Traits: Trample
 Movement                   12m
 Strike Rank                +6
+```
 
-Skills: Athletics 90%, Perception 40%, Persistence 66%, Resilience 100%, Track 40%
+**Skills**: Athletics 90%, Perception 40%, Persistence 66%, Resilience 100%, Track 40%
 
-Combat Styles
+##### Combat Styles
 Bite 30%, Tail Bash 60%, Trample 30%
 
-Weapons
-Type              Size       Reach          Damage             AP/HP             Range
-Bite              E          VL             7D8+5D12           As for Head       -
-Tail Bash         E          VL             1D6+5D12           As for Tail       -
-Trample           E          T              6D8+5D12           -                 -
+##### Weapons
+
+| Type            | Size     | Reach        | Damage           | AP/HP           | Range |
+|-----------------|----------|--------------|------------------|-----------------|-------|
+| Bite            | E        | VL           | 7D8+5D12         | As for Head     | -     |
+| Tail Bash       | E        | VL           | 1D6+5D12         | As for Tail     | -     |
+| Trample         | E        | T            | 6D8+5D12         | -               | -     |
 
 
 ## Centaur
@@ -2566,42 +2588,47 @@ with a lance or longspear the Damage Modifier should be figured normally (STR + 
 Centaurs can be used as Adventurers. They prefer the simple life of the herd and wilds to cities
 but they are not averse to socialising with other cultures.
 
-         Dice          Average            1D20       Hit Location               AP/HP
-STR         3D6+6         17                 1-2        Right Hind Leg             2/8
-CON         3D6           11                 3-4        Left Hind Leg              2/8
-SIZ         4D6+12        26                 5-6        Hindquarters               2/8
-INT         2D6+6         13                 7-8        Forequarters               2/10
-POW         3D6           11                 9-10       Right Front Leg            2/8
-DEX         3D6+3         14                 11-12      Left Front Leg             2/8
-CHA         3D6           11                 13-14      Chest                      0/9
-                                          15-16      Right Arm                  0/8
-                                          17-18      Left Arm                   0/8
-                                          19-20      Head                       0/7
+|           | Dice        | Average          | 1D20     | Hit Location             | AP/HP |
+|-----------|-------------|------------------|----------|--------------------------|-------|
+| STR       | 3D6+6       | 17               | 1-2      | Right Hind Leg           | 2/8   |
+| CON       | 3D6         | 11               | 3-4      | Left Hind Leg            | 2/8   |
+| SIZ       | 4D6+12      | 26               | 5-6      | Hindquarters             | 2/8   |
+| INT       | 2D6+6       | 13               | 7-8      | Forequarters             | 2/10  |
+| POW       | 3D6         | 11               | 9-10     | Right Front Leg          | 2/8   |
+| DEX       | 3D6+3       | 14               | 11-12    | Left Front Leg           | 2/8   |
+| CHA       | 3D6         | 11               | 13-14    | Chest                    | 0/9   |
+|           |             |                  | 15-16    | Right Arm                | 0/8   |
+|           |             |                  | 17-18    | Left Arm                 | 0/8   |
+|           |             |                  | 19-20    | Head                     | 0/7   |
 
+```
 Combat Actions            3                  Typical Armour: Thick Hide. No Armour Penalty.
 Damage Modifier           +1D4/+1D8          Centaurs can wear armour protecting the arms, chest,
 Magic Points              11                 forequarters and head, at the appropriate Armour
 Movement                  12m                Penalty for the armour type worn (usually hardened
-Strike Rank               +14
-                                          leather but metal armour is not unheard of).
-Traits: None
+Strike Rank               +14                leather but metal armour is not unheard of).
+                                          
+                                             Traits: None
+```
 
-Skills: Athletics 52%, Evade 40%, Lore (Regional) 35%, Play Instrument 40%, Perception
+**Skills**: Athletics 52%, Evade 40%, Lore (Regional) 35%, Play Instrument 40%, Perception
 40%, Persistence 43%, Resilience 43%, Stealth 22%, Survival 40%, Track 40%, Unarmed 40%
 
-Common Magic 32%: Centaurs can use Common Magic as well as any human. A typical centaur
+**Common Magic 32%**: Centaurs can use Common Magic as well as any human. A typical centaur
 has 6 Magnitude in Common Magic spells, such as Bladesharp 2, Mobility 2 and Multimissile 2.
 
-Combat Styles
+##### Combat Styles
 Bow 70%, Spear/Lance 40%, Spear and Shield 40%, Sword and Shield 35%, Unarmed
 
-Weapons
-Type             Size             Reach           Damage             AP/HP            Range
-Long Bow         H                -               1D8+1D4            5/8              175m
-Longsword        M                L               1D8+1D4            6/12             -
-Long Spear       L                VL              1D10+1+1D8         4/10             -
-Target Shield    L                S               1D6+1D4            4/10             -
-Hooves           L                M               1D6+1+1D8          As for Leg       -
+##### Weapons
+
+| Type           | Size           | Reach         | Damage           | AP/HP          | Range |
+|----------------|----------------|---------------|------------------|----------------|-------|
+| Long Bow       | H              | -             | 1D8+1D4          | 5/8            | 175m  |
+| Longsword      | M              | L             | 1D8+1D4          | 6/12           | -     |
+| Long Spear     | L              | VL            | 1D10+1+1D8       | 4/10           | -     |
+| Target Shield  | L              | S             | 1D6+1D4          | 4/10           | -     |
+| Hooves         | L              | M             | 1D6+1+1D8        | As for Leg     | -     |
 
 
 ## Dragon
@@ -2613,7 +2640,7 @@ typically have a selection of Common Magic spells at their disposal. The statist
 example of the sorts of spells a dragon has but different individuals may well have more. As
 intelligent beings, dragons can also work sorcery.
 
-Combat Notes
+##### Combat Notes
 Dragons are highly intelligent and cunning. They have a myriad of combat options open to them
 including their breath weapon and whatever magic the dragon has learned during its long life.
 Thus, the array of combat techniques is as wide and versatile as any human foe. Depending on its
@@ -2622,36 +2649,45 @@ first or toy with its foes, using magic to harass and claw swipes to injure – 
 asserting supremacy. Other dragons may want to avoid a fight altogether, knowing that they
 would easily win and only something as powerful as itself poses any kind of challenge.
 
-         Dice         Average                 1D20         Hit Location           AP/HP
-STR           20D6         70                      1–2          Tail                   12/20
-CON           10D6         35                      3–4          Right Hind Leg         12/20
-SIZ           10D6+30      65                      5–6          Left Hind Leg          12/20
-INT           6D6          21                      7–8          Hindquarters           12/22
-POW           4D6+12       26                      9–10         Forequarters           12/21
-DEX           4D6          14                      11–12        Right Wing             12/19
-CHA           6D6          21                      13–14        Left Wing              12/19
-                                              15–16        Right Front Leg        12/20
-Combat Actions             3                       17–18        Left Front Leg         12/20
-Damage Modifier            +4D10                   19–20        Head                   12/20
-Magic Points               26
-Movement                   12m/20m (fly)           Typical Armour: Dragon scale (AP 12). No
-                                              Armour Penalty
-Strike Rank                +18
+|             | Dice       | Average               | 1D20       | Hit Location         | AP/HP |
+|-------------|------------|-----------------------|------------|----------------------|-------|
+| STR         | 20D6       | 70                    | 1–2        | Tail                 | 12/20 |
+| CON         | 10D6       | 35                    | 3–4        | Right Hind Leg       | 12/20 |
+| SIZ         | 10D6+30    | 65                    | 5–6        | Left Hind Leg        | 12/20 |
+| INT         | 6D6        | 21                    | 7–8        | Hindquarters         | 12/22 |
+| POW         | 4D6+12     | 26                    | 9–10       | Forequarters         | 12/21 |
+| DEX         | 4D6        | 14                    | 11–12      | Right Wing           | 12/19 |
+| CHA         | 6D6        | 21                    | 13–14      | Left Wing            | 12/19 |
+|             |            |                       | 15–16      | Right Front Leg      | 12/20 |
+|             |            |                       | 17–18      | Left Front Leg       | 12/20 |
+|             |            |                       | 19–20      | Head                 | 12/20 |
 
-Traits: Breathe Flame (4D6, 1/hour), Dark Sight, Formidable Natural Weapons, Night Sight
-Skills: Athletics 120%, Brawn 135%, Evaluate 100%, Influence 150%, Lore (all) 100%,
+```
+Combat Actions             3
+Damage Modifier            +4D10                   Typical Armour: Dragon scale (AP 12).
+Magic Points               26                      No Armour Penalty
+Movement                   12m/20m (fly)
+Strike Rank                +18                     Traits: Breathe Flame (4D6, 1/hour),
+                                                   Dark Sight, Formidable Natural Weapons, 
+                                                   Night Sight
+```
+
+**Skills**: Athletics 120%, Brawn 135%, Evaluate 100%, Influence 150%, Lore (all) 100%,
 Persistence 88%, Resilience 115%, Tracking 110%
-Common Magic 68%: Countermagic 4, Demoralise, Detect Gems, Detect Gold, Glamour 2,
+
+**Common Magic 68%**: Countermagic 4, Demoralise, Detect Gems, Detect Gold, Glamour 2,
 Mobility 4
 
-Combat Styles
+##### Combat Styles
 Bite 125%, Claw 95%, Tail Bash 90%
 
-Weapons
-Type             Size         Reach        Damage              AP/HP              Range
-Bite             E            L            1D10+4D10           As for Head        -
-Claw             E            VL           1D8+4D10            As for Leg         -
-Tail             H            VL           1D6+4D10 / 2        As for Tail        -
+##### Weapons
+
+| Type           | Size       | Reach      | Damage            | AP/HP            | Range |
+|----------------|------------|------------|-------------------|------------------|-------|
+| Bite           | E          | L          | 1D10+4D10         | As for Head      | -     |
+| Claw           | E          | VL         | 1D8+4D10          | As for Leg       | -     |
+| Tail           | H          | VL         | 1D6+4D10 / 2      | As for Tail      | -     |
 
 
 ## Gargoyle
@@ -2673,31 +2709,37 @@ from their hiding places in a flurry of claws and talons. At other times they mo
 imperceptibly, tiny shifts in position at a time that can only be detected with a critical Perception
 roll, allowing the gargoyle to creep-up on an unwary foe and maximise its surprise.
 
+|            | Dice        | Average         | 1D20       | Hit Location         | AP/HP |
+|------------|-------------|-----------------|------------|----------------------|-------|
+| STR        | 5D6+12      | 30              | 1-3        | Right Leg            | 6/7   |
+| CON        | 2D6+6       | 13              | 4-6        | Left Leg             | 6/7   |
+| SIZ        | 5D6         | 18              | 7-9        | Abdomen              | 6/8   |
+| INT        | 1D6         | 4               | 10         | Chest                | 6/9   |
+| POW        | 2D6+3       | 10              | 11-12      | Right Wing           | 6/6   |
+| DEX        | 3D6         | 11              | 13-14      | Left Wing            | 6/6   |
+|            |             |                 | 15-16      | Right Arm            | 6/6   |
+|            |             |                 | 17-18      | Left Arm             | 6/6   |
+|            |             |                 | 19-20      | Head                 | 6/7   |
 
-        Dice          Average           1D20         Hit Location           AP/HP
-STR          5D6+12        30                1-3          Right Leg              6/7
-CON          2D6+6         13                4-6          Left Leg               6/7
-SIZ          5D6           18                7-9          Abdomen                6/8
-INT          1D6           4                 10           Chest                  6/9
-POW          2D6+3         10                11-12        Right Wing             6/6
-DEX          3D6           11                13-14        Left Wing              6/6
-                                        15-16        Right Arm              6/6
-Combat Actions             2                 17-18        Left Arm               6/6
-Damage Modifier            +1D10             19-20        Head                   6/7
-Magic Points               10
-Movement                   8m/12m            Typical Armour: Stone-Like Skin. No Armour
-Strike Rank                +8                Penalty.
+```
+Combat Actions             2
+Damage Modifier            +1D10             Typical Armour: Stone-Like Skin. No Armour
+Magic Points               10                Penalty.
+Movement                   8m/12m
+Strike Rank                +8                Traits: Flying, Formidable Natural Weapons
+```
 
-Traits: Flying, Formidable Natural Weapons
-Skills: Athletics 40%, Evade 25%, Perception 75%, Persistence 40%, Resilience 49%, Stealth
+**Skills**: Athletics 40%, Evade 25%, Perception 75%, Persistence 40%, Resilience 49%, Stealth
 90%
 
-Combat Styles
+##### Combat Styles
 Claw 50%
 
-Weapons
-Type             Size             Reach            Damage           AP/HP            Range
-Claw             M                M                1D6+1D10         As for Arm       -
+##### Weapons
+
+| Type           | Size           | Reach          | Damage         | AP/HP          | Range |
+|----------------|----------------|----------------|----------------|----------------|-------|
+| Claw           | M              | M              | 1D6+1D10       | As for Arm     | -     |
 
 
 ## Ghoul
@@ -2715,7 +2757,7 @@ Ghouls look like grotesque caricatures of humanity, rotting corpses from a week-
 armour they possess is looted from graves and victims and they usually eschew weapons, preferring to
 do battle with their talons and poisonous bite.
 
-Combat Notes
+##### Combat Notes
 Ghouls employ a blood chilling howl in combat. When a ghoul
 howls, every creature in a radius equal to the ghoul's POW in
 metres becomes Demoralised (as the Common Magic spell)
@@ -2731,42 +2773,46 @@ no protection against the effects of a ghoul's howl.
 
 The bite of a ghoul is venomous, with the following Characteristics:
 
-Application: Injection.
-Onset time: 1D3 Combat Rounds.
-Duration: 1D10 Hours.
-Resistance Time: The victim must make a Resistance roll at the end of the Onset Time.
+**Application**: Injection.
+**Onset Time**: 1D3 Combat Rounds.
+**Duration**: 1D10 Hours.
+**Resistance Time**: The victim must make a Resistance roll at the end of the Onset Time.
 Failure indicates that Condition has taken effect.
-Potency: 22.
-Resistance: Resilience.
-Conditions: Paralysis.
-Antidote/Cure: Healing Magic only.
+**Potency**: 22.
+**Resistance**: Resilience.
+**Conditions**: Paralysis.
+**Antidote/Cure**: Healing Magic only.
 
+|          | Dice     | Average             | 1D20      | Hit Location       | AP/HP |
+|----------|----------|---------------------|-----------|--------------------|-------|
+| STR      | 4D6      | 14                  | 1–3       | Right Leg          | –/5   |
+| CON      | 3D6      | 11                  | 4–6       | Left Leg           | –/5   |
+| SIZ      | 2D6+6    | 13                  | 7–10      | Abdomen            | –/6   |
+| INT      | 3D6      | 11                  | 11–12     | Chest              | –/7   |
+| POW      | 3D6      | 11                  | 13–15     | Right Arm          | –/4   |
+| DEX      | 3D6      | 11                  | 16–18     | Left Arm           | –/4   |
+|          |          |                     | 19–20     | Head               | –/5   |
 
-           Dice       Average               1D20        Hit Location         AP/HP
-STR        4D6        14                    1–3         Right Leg            –/5
-CON        3D6        11                    4–6         Left Leg             –/5
-SIZ        2D6+6      13                    7–10        Abdomen              –/6
-INT        3D6        11                    11–12       Chest                –/7
-POW        3D6        11                    13–15       Right Arm            –/4
-DEX        3D6        11                    16–18       Left Arm             –/4
-                                         19–20       Head                 –/5
-
+```
 Combat Actions        2                     Typical Armour: None.
 Damage Modifier       +1D2
 Magic Points          11                    Traits: Poison
 Movement              8m
 Strike Rank           +11
+```
 
-Skills: Athletics 40%, Evade 40%, Perception 30%, Persistence 43%, Resilience 43%, Stealth
+**Skills**: Athletics 40%, Evade 40%, Perception 30%, Persistence 43%, Resilience 43%, Stealth
 40%, Unarmed 60%
 
-Combat Styles
+##### Combat Styles
 Claw/Bite 60%, Howl 100%
 
-Weapons
-Type           SIZ             Reach          Damage          AP/HP         Range
-Claw           S               M              1D4+1D2         As for Arm    -
-Bite           S               T              1D6+1D2         As for Head   -
+##### Weapons
+
+| Type         | SIZ           | Reach        | Damage        | AP/HP       | Range |
+|--------------|---------------|--------------|---------------|-------------|-------|
+| Claw         | S             | M            | 1D4+1D2       | As for Arm  | -     |
+| Bite         | S             | T            | 1D6+1D2       | As for Head | -     |
 
 
 ## Gorgon
@@ -2780,7 +2826,7 @@ their own kind, forming small groups of 2D3 entities. Every gorgon has a percent
 to its POW of being immortal and of having an additional Chaos Feature. Immortal gorgons can
 only be affected by magical damage. They can also possess Common and Divine magic.
 
-Combat Notes
+##### Combat Notes
 The gorgon's appearance attack is line of sight but the victim must be able to see the face – the attack
 will not work in pitch darkness or fog, for example. The attack is not hindered by defensive spells such
 as Countermagic. Gorgons are immune to their own appearance and that of other gorgons.
@@ -2796,32 +2842,39 @@ attack as a Combat Action, with each snake inflicting its own damage if the sing
 The poison is the same as for Venomous Snake (see page 105) with the Venom Potency being
 equal to the gorgon's CON x3
 
-             Dice           Average             1D20          Hit Location             AP/HP
-STR          4D6            14                  1-3           Right Leg                8/7
-CON          3D6+6          17                  4-6           Left Leg                 8/7
-SIZ          4D6            14                  7-9           Abdomen                  8/8
-INT          2D6+6          13                  10            Chest                    8/9
-POW          1D6+12         16                  11-12         Right Wing               8/6
-DEX          3D6+6          17                  13-14         Left Wing                8/6
-CHA          1D3            2                   15-16         Right Arm                8/6
-                                           17-18         Left Arm                 8/6
-Combat Actions              3                   19-20         Head                     8/7
-Damage Modifier             +1D2
-Magic Points                15                  Typical Armour: Scales and Hide. No Armour
-Movement                    8m/12m              Penalty.
-Strike Rank                 +15
+|            | Dice         | Average           | 1D20        | Hit Location           | AP/HP |
+|------------|--------------|-------------------|-------------|------------------------|-------|
+| STR        | 4D6          | 14                | 1-3         | Right Leg              | 8/7   |
+| CON        | 3D6+6        | 17                | 4-6         | Left Leg               | 8/7   |
+| SIZ        | 4D6          | 14                | 7-9         | Abdomen                | 8/8   |
+| INT        | 2D6+6        | 13                | 10          | Chest                  | 8/9   |
+| POW        | 1D6+12       | 16                | 11-12       | Right Wing             | 8/6   |
+| DEX        | 3D6+6        | 17                | 13-14       | Left Wing              | 8/6   |
+| CHA        | 1D3          | 2                 | 15-16       | Right Arm              | 8/6   |
+|            |              |                   | 17-18       | Left Arm               | 8/6   |
+|            |              |                   | 19-20       | Head                   | 8/7   |
 
-Traits: Formidable Natural Weapons, Gaze, Poison
-Skills: Athletics 65%, Evade 50%, Perception 50%, Persistence 55%, Resilience 61%, Stealth
+```
+Combat Actions              3
+Damage Modifier             +1D2                Typical Armour: Scales and Hide.
+Magic Points                15                  No Armour Penalty.
+Movement                    8m/12m
+Strike Rank                 +15                 Traits: Formidable Natural Weapons,
+                                                Gaze, Poison
+```
+
+**Skills**: Athletics 65%, Evade 50%, Perception 50%, Persistence 55%, Resilience 61%, Stealth
 60%, Survival 60%, Track 50%
 
-Combat Styles
+##### Combat Styles
 Claw 60%, Serpents 75%, Gaze (Special)
 
-Weapons
-Type              Size             Reach            Damage            AP/HP            Range
-Claw              M                M                1D6+1D2           As for Arm       -
-Serpents          S                T                1D4+Poison        –/2              -
+##### Weapons
+
+| Type            | Size           | Reach          | Damage          | AP/HP          | Range |
+|-----------------|----------------|----------------|-----------------|----------------|-------|
+| Claw            | M              | M              | 1D6+1D2         | As for Arm     | -     |
+| Serpents        | S              | T              | 1D4+Poison      | –/2            | -     |
 
 
 ## Harpy
@@ -2834,36 +2887,41 @@ Harpies are prone to acts of petty cruelty. They enjoy contaminating food stocks
 items of value. If an Adventurer gains the enmity of a harpy (easily done), it will follow them for
 miles, albeit at a safe distance, indulging itself in whatever torments it can devise.
 
-Combat Notes
+##### Combat Notes
 Harpies often fight by dropping stones on their foes. These stones are between 5 and 10 kilograms
 and inflict 1D6 damage for every three metres the stone falls (to a maximum of 10D6). The
 harpy's chance to hit decreases by 5% per three metres of distance the stone falls.
 
-            Dice        Average                1D20         Hit Location        AP/HP
-STR              3D6         11                     1-2          Right Claw          1/4
-CON              3D6         11                     3-4          Left Claw           1/4
-SIZ              2D6         7                      5-7          Abdomen             1/5
-INT              3D6         11                     8-9          Chest               1/6
-POW              3D6         11                     10-13        Right Wing          1/3
-DEX              5D6         18                     14-17        Left Wing           1/3
-CHA              1D3         2                      18-20        Head                1/4
+|                | Dice      | Average              | 1D20       | Hit Location      | AP/HP |
+|----------------|-----------|----------------------|------------|-------------------|-------|
+| STR            | 3D6       | 11                   | 1-2        | Right Claw        | 1/4   |
+| CON            | 3D6       | 11                   | 3-4        | Left Claw         | 1/4   |
+| SIZ            | 2D6       | 7                    | 5-7        | Abdomen           | 1/5   |
+| INT            | 3D6       | 11                   | 8-9        | Chest             | 1/6   |
+| POW            | 3D6       | 11                   | 10-13      | Right Wing        | 1/3   |
+| DEX            | 5D6       | 18                   | 14-17      | Left Wing         | 1/3   |
+| CHA            | 1D3       | 2                    | 18-20      | Head              | 1/4   |
 
+```
 Combat Actions               3                      Typical Armour: Thick Hide and feather. No
 Damage Modifier              –1D2                   Armour Penalty.
-Magic Points                 11                     Traits: Flying
-Movement                     6m/12m (fly)
+Magic Points                 11
+Movement                     6m/12m (fly)           Traits: Flying
 Strike Rank                  +15
+```
 
-Skills: Athletics 35%, Evade 50%, Perception 45%, Persistence 43%, Resilience 43%, Stealth
+**Skills**: Athletics 35%, Evade 50%, Perception 45%, Persistence 43%, Resilience 43%, Stealth
 50 %, Survival 40%, Track 45%
 
-Combat Styles
+##### Combat Styles
 Claw 30%, Dropped Stone 30%, Dung Droppings 50%
 
-Weapons
-Type                 Size       Reach      Damage           AP/HP          Range
-Claw                 M          T          1D6–1D2          As for Leg     -
-Dropped Stone        M          Varies     1D6/3m           6/4            Up to 30m in height
+##### Weapons
+
+| Type               | Size     | Reach    | Damage         | AP/HP        | Range |
+|--------------------|----------|----------|----------------|--------------|-------|
+| Claw               | M        | T        | 1D6–1D2        | As for Leg   | -     |
+| Dropped Stone      | M        | Varies   | 1D6/3m         | 6/4          | Up to 30m in height |
 
 
 ## Lamia
@@ -2888,33 +2946,37 @@ an Adventurer is able to resist the lamia's gaze attack, he will be immune to it
 A man in thrall to a lamia will do virtually anything she asks, including attacking friends and
 comrades.
 
+|            | Dice        | Average             | 1D20       | Hit Location              | AP/HP |
+|------------|-------------|---------------------|------------|---------------------------|-------|
+| STR        | 3D6         | 11                  | 1-6        | Tail                      | 4/6   |
+| CON        | 3D6         | 11                  | 7-9        | Abdomen                   | 4/7   |
+| SIZ        | 3D6+6       | 17                  | 10-12      | Chest                     | –/8   |
+| INT        | 4D6         | 14                  | 13-15      | Right Arm                 | –/5   |
+| POW        | 4D6         | 14                  | 16-18      | Left Arm                  | –/5   |
+| DEX        | 4D6         | 14                  | 19-20      | Head                      | –/6   |
+| CHA        | 3D6+6       | 17                  |            |                           |       |
 
-        Dice          Average               1D20         Hit Location                AP/HP
-STR          3D6           11                    1-6          Tail                        4/6
-CON          3D6           11                    7-9          Abdomen                     4/7
-SIZ          3D6+6         17                    10-12        Chest                       –/8
-INT          4D6           14                    13-15        Right Arm                   –/5
-POW          4D6           14                    16-18        Left Arm                    –/5
-DEX          4D6           14                    19-20        Head                        –/6
-CHA          3D6+6         17
-
+```
 Combat Actions             3                     Typical Armour: Scales. No Armour Penalty.
 Damage Modifier            +1D2
 Magic Points               14                    Traits: Vampiric Touch (Bite and Kiss)
 Movement                   8m
 Strike Rank                +14
+```
 
-Skills: Athletics 40%, Evade 50%, Insight 65%, Lore (Regional) 50%, Persistence 52%,
+**Skills**: Athletics 40%, Evade 50%, Insight 65%, Lore (Regional) 50%, Persistence 52%,
 Resilience 43%, Seduction 95%, Stealth 95%
 
-Combat Styles
+##### Combat Styles
 Bite 50%, Kiss 50%, Tail 50%
 
-Weapons
-Type             Size        Reach       Damage                         AP/HP            Range
-Bite             S           T           1D6+1D2+blood drain            As for Head
-Kiss             S           T           1D6+1D2+POW drain              As for Head
-Tail             L           L           1D6+1D2                        As for Tail
+##### Weapons
+
+| Type           | Size      | Reach     | Damage                       | AP/HP          | Range |
+|----------------|-----------|-----------|------------------------------|----------------|-------|
+| Bite           | S         | T         | 1D6+1D2+blood drain          | As for Head    |       |
+| Kiss           | S         | T         | 1D6+1D2+POW drain            | As for Head    |       |
+| Tail           | L         | L         | 1D6+1D2                      | As for Tail    |       |
 
 
 ## Manticore
@@ -2925,47 +2987,52 @@ sporting a pair of long tusks and a scraggly mane like a lion's.
 A bestial, dangerous creature, the manticore is usually a solitary predator, haunting wastelands
 and remote mountain regions. It is a well-known eater of human flesh.
 
-Combat Notes
+##### Combat Notes
 The tail injects venom with the following Characteristics:
 
-Application: Injected.
-Onset time: 1D3 Rounds.
-Duration: 1D3 Days.
-Resistance Time: Daily. The first Resistance roll must be made at the end of the Onset Time,
+**Application**: Injected.
+**Onset Time**: 1D3 Rounds.
+**Duration**: 1D3 Days.
+**Resistance Time**: Daily. The first Resistance roll must be made at the end of the Onset Time,
 then daily thereafter. Successfully resisting the poison allows the victim to avoid suffering the
 Conditions until the next roll must be made.
-Potency: 30+ CON of Manticore.
-Resistance: Resilience.
-Conditions: Agony and Paralysis.
-Antidote/Cure: Healing skill and magic.
+**Potency**: 30+ CON of Manticore.
+**Resistance**: Resilience.
+**Conditions**: Agony and Paralysis.
+**Antidote/Cure**: Healing skill and magic.
 
-       Dice          Average                 1D20           Hit Location             AP/HP
-STR         4D6+12        26                      1-2            Right Hind Leg           3/10
-CON         4D6+6         20                      3-4            Left Hind Leg            3/10
-SIZ         4D6+12        26                      5-6            Tail                     3/10
-INT         7             7                       7-9            Hindquarters             3/11
-POW         3D6           11                      10-12          Forequarters             3/12
-DEX         3D6           11                      13-14          Right Front Leg          3/10
-                                             15-16          Left Front Leg           3/10
-                                             17-20          Head                     3/10
+|           | Dice        | Average               | 1D20         | Hit Location           | AP/HP |
+|-----------|-------------|-----------------------|--------------|------------------------|-------|
+| STR       | 4D6+12      | 26                    | 1-2          | Right Hind Leg         | 3/10  |
+| CON       | 4D6+6       | 20                    | 3-4          | Left Hind Leg          | 3/10  |
+| SIZ       | 4D6+12      | 26                    | 5-6          | Tail                   | 3/10  |
+| INT       | 7           | 7                     | 7-9          | Hindquarters           | 3/11  |
+| POW       | 3D6         | 11                    | 10-12        | Forequarters           | 3/12  |
+| DEX       | 3D6         | 11                    | 13-14        | Right Front Leg        | 3/10  |
+|           |             |                       | 15-16        | Left Front Leg         | 3/10  |
+|           |             |                       | 17-20        | Head                   | 3/10  |
 
+```
 Combat Actions            3                       Typical Armour: Tough Hide. No Armour
 Damage Modifier           +1D12                   Penalty.
-Magic Points              11                      Traits: Night Sight, Poison Sting
-Movement                  10m
+Magic Points              11
+Movement                  10m                     Traits: Night Sight, Poison Sting
 Strike Rank               +13
+```
 
-Skills: Athletics 60%, Evade 45%, Perception 55%, Persistence 43%, Resilience 70%, Stealth
+**Skills**: Athletics 60%, Evade 45%, Perception 55%, Persistence 43%, Resilience 70%, Stealth
 40%, Survival 40%, Track 40%
 
-Combat Styles
+##### Combat Styles
 Claw 70%, Gore 50%, Sting 40%
 
-Weapons
-Type             Size           Reach        Damage                 AP/HP           Range
-Claw             M              M            1D6+1D12               As for Leg      -
-Gore (tusks)     M              T            1D8+1D12               As for Head     -
-Sting            M              VL           1D6+1D12+Posion        As for Tail     -
+##### Weapons
+
+| Type           | Size         | Reach      | Damage               | AP/HP         | Range |
+|----------------|--------------|------------|----------------------|---------------|-------|
+| Claw           | M            | M          | 1D6+1D12             | As for Leg    | -     |
+| Gore (tusks)   | M            | T          | 1D8+1D12             | As for Head   | -     |
+| Sting          | M            | VL         | 1D6+1D12+Posion      | As for Tail   | -     |
 
 
 ## Minotaur
@@ -2981,32 +3048,38 @@ them and for straight-dealings when they have to discourse with human society.
 Minotaur settlements tend to be found in remote valleys, away from civilisation. Minotaur
 females are far more docile than the men, fulfilling the child-caring and hearth-tending role
 whilst the males farm and hunt.
-          Dice        Average           1D20        Hit Location              AP/HP
-STR          3D6+12      23                1-3         Right Leg                 3/8
-CON          1D6+12      16                4-6         Left Leg                  3/8
-SIZ          3D6+12      23                7-9         Abdomen                   3/9
-INT          2D6+3       10                10-12       Chest                     3/10
-POW          3D6         11                13-15       Right Arm                 3/7
-DEX          3D6         11                16-18       Left Arm                  3/7
-CHA          2D6         7                 19-20       Head                      5/8
 
+|            | Dice      | Average         | 1D20      | Hit Location            | AP/HP |
+|------------|-----------|-----------------|-----------|-------------------------|-------|
+| STR        | 3D6+12    | 23              | 1-3       | Right Leg               | 3/8   |
+| CON        | 1D6+12    | 16              | 4-6       | Left Leg                | 3/8   |
+| SIZ        | 3D6+12    | 23              | 7-9       | Abdomen                 | 3/9   |
+| INT        | 2D6+3     | 10              | 10-12     | Chest                   | 3/10  |
+| POW        | 3D6       | 11              | 13-15     | Right Arm               | 3/7   |
+| DEX        | 3D6       | 11              | 16-18     | Left Arm                | 3/7   |
+| CHA        | 2D6       | 7               | 19-20     | Head                    | 5/8   |
+
+```
 Combat Actions           2                 Typical Armour: Tough Hide (plus horns on the
 Damage Modifier          +1D10             head). No Armour Penalty.
-Magic Points             11                Traits: None
-Movement                 8m
+Magic Points             11
+Movement                 8m                Traits: None
 Strike Rank              +11
+```
 
-Skills: Athletics 60%, Brawn 58%, Perception 30%, Persistence 43%, Resilience 55%, Survival
+**Skills**: Athletics 60%, Brawn 58%, Perception 30%, Persistence 43%, Resilience 55%, Survival
 30%, Track 40%, Unarmed 35%
 
-Combat Styles
+##### Combat Styles
 Axe, Hammer (or any other close quarters weapon used two handed), 40%, Unarmed (head
 butt)
 
-Weapons
-Type           Size         Reach        Damage              AP/HP            Range
-Great Axe      H            L            1D12+2+1D10         4/10             -
-Head Butt      L            T            1D6+1D10            As for Head      -
+##### Weapons
+
+| Type         | Size       | Reach      | Damage            | AP/HP          | Range |
+|--------------|------------|------------|-------------------|----------------|-------|
+| Great Axe    | H          | L          | 1D12+2+1D10       | 4/10           | -     |
+| Head Butt    | L          | T          | 1D6+1D10          | As for Head    | -     |
 
 
 ## Mummy
@@ -3030,33 +3103,39 @@ mundane grip but with damage applied as per the Spirit Combat rules from Legend.
 When a creature becomes a mummy, its STR and CON are doubled. The statistics represent a human
 mummy, though any sentient creature willing to undergo the process may become a mummy.
 
-            Dice            Average            1D20         Hit Location         AP/HP
-STR              3D6+12          23                 1-3          Right Leg            3/8
-CON              3D6+12          23                 4-6          Left Leg             3/8
-SIZ              2D6+6           13                 7-9          Abdomen              3/9
-INT              2D6+6           13                 10-12        Chest                3/10
-POW              3D6             11                 13-15        Right Arm            3/7
-DEX              2D6             7                  16-18        Left Arm             3/7
-CHA              1               1                  19-20        Head                 5/8
+|                | Dice          | Average          | 1D20       | Hit Location       | AP/HP |
+|----------------|---------------|------------------|------------|--------------------|-------|
+| STR            | 3D6+12        | 23               | 1-3        | Right Leg          | 3/8   |
+| CON            | 3D6+12        | 23               | 4-6        | Left Leg           | 3/8   |
+| SIZ            | 2D6+6         | 13               | 7-9        | Abdomen            | 3/9   |
+| INT            | 2D6+6         | 13               | 10-12      | Chest              | 3/10  |
+| POW            | 3D6           | 11               | 13-15      | Right Arm          | 3/7   |
+| DEX            | 2D6           | 7                | 16-18      | Left Arm           | 3/7   |
+| CHA            | 1             | 1                | 19-20      | Head               | 5/8   |
 
+```
 Combat Actions                   2                  Typical Armour: Bandages and toughened,
 Damage Modifier                  +1D6               wizened skin. No Armour Penalty.
-Magic Points                     11                 Traits: Disease Immunity, Poison Immunity,
-Movement                         6m                 Life Sense
-Strike Rank                      +10
+Magic Points                     11
+Movement                         6m                 Traits: Disease Immunity, Poison Immunity,
+Strike Rank                      +10                Life Sense
+```
 
-Skills: Mummies possess the same skills they had when alive, though the skills may be modified
+**Skills**: Mummies possess the same skills they had when alive, though the skills may be modified
 by the mummy's new Characteristics.
 
-Common Magic: Mummies also have any Common Magic spells they had when living. However,
+**Common Magic**: Mummies also have any Common Magic spells they had when living. However,
 because the harmony between spirit and flesh is broken, the Magic Point cost is doubled.
 
-Combat Styles
+##### Combat Styles
 Any used in life. Grasp 55%
 
-Weapons
-Type          Size                Reach            Damage           AP/HP            Range
-Grasp         M                   T                1D6+1D6          As for Arm       -
+##### Weapons
+
+| Type        | Size              | Reach          | Damage         | AP/HP          | Range |
+|-------------|-------------------|----------------|----------------|----------------|-------|
+| Grasp       | M                 | T              | 1D6+1D6        | As for Arm     | -     |
+
 Any weapon as used in life.
 
 
@@ -3070,33 +3149,36 @@ Rocs are capable of attacking a ship by dropping enormous stones onto the deck, 
 a hole straight through the hull. A typical roc has a wingspan of approximately 40 metres and a
 body length of 18 to 20 metres.
 
+|             | Dice         | Average             | 1D20       | Hit Location         | AP/HP |
+|-------------|--------------|---------------------|------------|----------------------|-------|
+| STR         | 20D6+30      | 100                 | 1-3        | Right Claw           | 6/26  |
+| CON         | 4D6+21       | 35                  | 4-6        | Left Claw            | 6/26  |
+| SIZ         | 20D6+30      | 100                 | 7-9        | Body                 | 6/28  |
+| INT         | 4            | 4                   | 10-12      | Breast               | 6/29  |
+| POW         | 3D6          | 11                  | 13-15      | Right Wing           | 6/26  |
+| DEX         | 3D6          | 11                  | 16-18      | Left Wing            | 6/26  |
+|             |              |                     | 19-20      | Head                 | 6/27  |
 
-         Dice           Average               1D20         Hit Location           AP/HP
-STR           20D6+30        100                   1-3          Right Claw             6/26
-CON           4D6+21         35                    4-6          Left Claw              6/26
-SIZ           20D6+30        100                   7-9          Body                   6/28
-INT           4              4                     10-12        Breast                 6/29
-POW           3D6            11                    13-15        Right Wing             6/26
-DEX           3D6            11                    16-18        Left Wing              6/26
-                                              19-20        Head                   6/27
-
+```
 Combat Actions               2                     Typical Armour: Feathers and hide. No Armour
 Damage Modifier              +4D12                 Penalty.
 Magic Points                 11                    Traits: Flying
 Movement                     12m/25m
 Strike Rank                  +10
+```
 
-Skills: Athletics 90%, Brawn 200%, Perception 60%, Persistence 43%, Resilience 115%.
+**Skills**: Athletics 90%, Brawn 200%, Perception 60%, Persistence 43%, Resilience 115%.
 
-Combat Styles
+##### Combat Styles
 Peck 55%, Claw 55%, Dropped Rock 30%
 
-Weapons
-Type                Size       Reach        Damage                  AP/HP               Range
-Peck                E          VL           1D10+4D12               As for Head         -
-Claw                E          VL           1D8+1+4D12              As for Claw         -
-Dropped Rock        E          VL           1D10+1D6 per three      -                   -
-                                        metres dropped
+##### Weapons
+
+| Type              | Size     | Reach      | Damage                    | AP/HP             | Range |
+|-------------------|----------|------------|---------------------------|-------------------|-------|
+| Peck              | E        | VL         | 1D10+4D12                 | As for Head       | -     |
+| Claw              | E        | VL         | 1D8+1+4D12                | As for Claw       | -     |
+| Dropped Rock      | E        | VL         | 1D10+1D6 per 3m dropped   | -                 | -     |
 
 
 ## Satyr
@@ -3120,7 +3202,7 @@ tied directly to the creature's magical biology and no satyr can teach a non-sat
 in this manner. In addition to its more normal spells, a satyr can make use of three spells unique
 to the satyr race.
 
-Harmonise
+##### Harmonise
 Duration Special, Magnitude 2, Ranged, Resist (Persistence)
 
 This spell causes all who hear it and fail to resist to dance and sing as long as the satyr continues
@@ -3128,45 +3210,51 @@ to play his pipes. Victims of this spell dance to the exclusion of all other act
 may make a second attempt to resist the spell if they suffer damage (the loss of one or more Hit
 Points) at any time during the spell.
 
-Madness
+##### Madness
 Duration Special, Magnitude 4, Ranged, Resist (Persistence)
 
 This spell causes all who fail to resist it to either begin screaming in horror or singing merrily
 (50% chance of either). The victim will not react to outside stimuli, even if wounded while
 under the influence of the spell.
 
-Sleep
+##### Sleep
 Duration Special, Magnitude 3, Ranged, Resist (Persistence)
 
 Sleep causes all who fail to resist its effects to fall immediately into a deep, but normal, sleep.
 Sleeping Adventurers may be woken by loud noises, nudging and so forth.
 
-          Dice        Average         1D20       Hit Location             AP/HP
-STR       5D6         18              1-3        Right Leg                2/6
-CON       4D6         14              4-6        Left Leg                 2/6
-SIZ       2D6+6       13              7-9        Abdomen                  2/7
-INT       2D6+6       13              10-12      Chest                    –/8
-POW       4D6         14              13-15      Right Arm                –/5
-DEX       3D6+6       17              16-18      Left Arm                 –/5
-CHA       2D6         7               19-20      Head                     2/6
+|         | Dice      | Average       | 1D20     | Hit Location           | AP/HP |
+|---------|-----------|---------------|----------|------------------------|-------|
+| STR     | 5D6       | 18            | 1-3      | Right Leg              | 2/6   |
+| CON     | 4D6       | 14            | 4-6      | Left Leg               | 2/6   |
+| SIZ     | 2D6+6     | 13            | 7-9      | Abdomen                | 2/7   |
+| INT     | 2D6+6     | 13            | 10-12    | Chest                  | –/8   |
+| POW     | 4D6       | 14            | 13-15    | Right Arm              | –/5   |
+| DEX     | 3D6+6     | 17            | 16-18    | Left Arm               | –/5   |
+| CHA     | 2D6       | 7             | 19-20    | Head                   | 2/6   |
 
+```
 Combat Actions        3               Typical Armour: Fur and hide on the lower half,
 Damage Modifier       +1D4            horns on head. No Armour Penalty.
-Magic Points          14              Traits: None
-Movement              8m
+Magic Points          14
+Movement              8m              Traits: None
 Strike Rank           +15
+```
 
-Skills: Athletics 45%, Dance 85%, Evade 50%, Play Instrument (pipes) 95%, Seduction 45%,
+**Skills**: Athletics 45%, Dance 85%, Evade 50%, Play Instrument (pipes) 95%, Seduction 45%,
 Sing 85%, Stealth 55%
-Common Magic: See spells above, plus 1D6+2 Magnitude of other Common Magic spells
 
-Combat Styles
+**Common Magic**: See spells above, plus 1D6+2 Magnitude of other Common Magic spells
+
+##### Combat Styles
 Headbutt 45%, Club 35%
 
-Weapons
-Type		            Size	      Reach	   Damage		           AP/HP		            Range
-Head Butt	        M	         T	       1D4+1D4	           As for Head	       -
-Club		            M	         S	       1D6+1D4	           4/4		              -
+##### Weapons
+
+| Type          | Size    | Reach	 | Damage   | AP/HP         | Range |
+|---------------|---------|--------|----------|---------------|-------|
+| Head Butt     | M       | T      | 1D4+1D4  | As for Head   | -     |
+| Club          | M       | S      | 1D6+1D4  | 4/4           | -     |
 
 
 ## Skeleton
@@ -3184,31 +3272,35 @@ a skeleton formed from the remains of any creature with a bone structure. A skel
 Movement the creature had in life but as a skeleton it cannot naturally fly or swim (if the creature
 had those abilities while alive).
 
+|           | Dice        | Average            | 1D20       | Hit Location             | AP/HP |
+|-----------|-------------|--------------------|------------|--------------------------|-------|
+| STR       | 2D6+6       | 13                 | 1–3        | Right Leg                | 6/4   |
+| CON       | 1D6         | 4                  | 4–6        | Left Leg                 | 6/4   |
+| SIZ       | 2D6+6       | 13                 | 7–9        | Abdomen                  | 6/5   |
+| INT       | 0           | 0                  | 10–12      | Chest                    | 6/6   |
+| POW       | 0           | 0                  | 13–15      | Right Arm                | 6/3   |
+| DEX       | 1D6+12      | 16                 | 16–18      | Left Arm                 | 6/3   |
+|           |             |                    | 19–20      | Head                     | 6/4   |
 
-       Dice          Average              1D20         Hit Location               AP/HP
-STR         2D6+6         13                   1–3          Right Leg                  6/4
-CON         1D6           4                    4–6          Left Leg                   6/4
-SIZ         2D6+6         13                   7–9          Abdomen                    6/5
-INT         0             0                    10–12        Chest                      6/6
-POW         0             0                    13–15        Right Arm                  6/3
-DEX         1D6+12        16                   16–18        Left Arm                   6/3
-                                          19–20        Head                       6/4
-
+```
 Combat Actions            2                  Typical Armour: Ancient Bronze Plate (AP 6, –9
 Damage Modifier           +1D2               Strike Rank Penalty).
 Magic Points              11                 Traits: Dark Sight
 Movement                  8m
 Strike Rank               +8 (–1 if armoured)
+```
 
-Skills: Athletics 30%, Evade 45%, Persistence 0%, Resilience 22%
+**Skills**: Athletics 30%, Evade 45%, Persistence 0%, Resilience 22%
 
-Combat Styles
+##### Combat Styles
 Weapon 36%
 
-Weapons
-Type               Size        Reach      Weapon Skill      Damage     AP/HP               Range
-Longspear          L           VL         36%               1D10+1+1D2 4/10                -
-Shortsword         M           S          36%               1D6 +1D2   6/8                 -
+##### Weapons
+
+| Type             | Size      | Reach    | Weapon Skill    | Damage   | AP/HP             | Range |
+|------------------|-----------|----------|-----------------|----------|-------------------|-------|
+| Longspear        | L         | VL       | 36%             | 1D10+1+1D| 4/10              | -     |
+| Shortsword       | M         | S        | 36%             | 1D6 +1D2 | 6/8               | -     |
 
 
 ## Unicorn
@@ -3229,30 +3321,35 @@ magic only works if the unicorn offers the healing willingly. Forcing a unicorn 
 or cutting off the horn in the hope of gaining a permanent healing implement renders the magic
 useless.
 
-           Dice           Average              1D20         Hit Location                 AP/HP
-STR           2D6+12         19                   1-2          Right Hind Leg               3/9
-CON           3D6+12         23                   3-4          Left Hind Leg                3/9
-SIZ           2D6+12         19                   5-7          Hindquarters                 3/10
-INT           2D6+6          13                   8-10         Forequarters                 3/11
-POW           2D6+12         19                   11-13        Right Front Leg              3/9
-DEX           3D6+3          14                   14-16        Left Front Leg               3/9
-CHA           3D6+6          17                   17-20        Head                         3/9
+|             | Dice         | Average            | 1D20       | Hit Location               | AP/HP |
+|-------------|--------------|--------------------|------------|----------------------------|-------|
+| STR         | 2D6+12       | 19                 | 1-2        | Right Hind Leg             | 3/9   |
+| CON         | 3D6+12       | 23                 | 3-4        | Left Hind Leg              | 3/9   |
+| SIZ         | 2D6+12       | 19                 | 5-7        | Hindquarters               | 3/10  |
+| INT         | 2D6+6        | 13                 | 8-10       | Forequarters               | 3/11  |
+| POW         | 2D6+12       | 19                 | 11-13      | Right Front Leg            | 3/9   |
+| DEX         | 3D6+3        | 14                 | 14-16      | Left Front Leg             | 3/9   |
+| CHA         | 3D6+6        | 17                 | 17-20      | Head                       | 3/9   |
 
+```
 Combat Actions               3                    Typical Armour: Tough hide. No Armour
 Damage Modifier              +1D6                 Penalty.
-Magic Points                 19                   Traits: Formidable Natural Weapons, Life Sense,
-Movement                     12m                  Night Sight
-Strike Rank                  +14
+Magic Points                 19
+Movement                     12m                  Traits: Formidable Natural Weapons, Life Sense,
+Strike Rank                  +14                  Night Sight
+```
 
-Skills: Athletics 75%, Evade 50%, Perception 75%, Persistence 67%, Resilience 79%, Survival 50%
+**Skills**: Athletics 75%, Evade 50%, Perception 75%, Persistence 67%, Resilience 79%, Survival 50%
 
-Combat Styles
+##### Combat Styles
 Horn 70%, Kick 50%
 
-Weapons
-Type              Size             Reach            Damage           AP/HP            Range
-Horn              L                L                1D8+1D6          As for Head      -
-Kick              L                M                1D6+1D6          As for Leg       -
+##### Weapons
+
+| Type            | Size           | Reach          | Damage         | AP/HP          | Range |
+|-----------------|----------------|----------------|----------------|----------------|-------|
+| Horn            | L              | L              | 1D8+1D6        | As for Head    | -     |
+| Kick            | L              | M              | 1D6+1D6        | As for Leg     | -     |
 
 
 ## Vampire
@@ -3313,19 +3410,19 @@ form of both. As with the mist transformation, such changes take a Combat Action
 Vampires retain all Common Magic and Sorcery known before their transformation. Any Divine
 Magic is lost.
 
-Vampire Weaknesses
+##### Vampire Weaknesses
 Despite their undoubted power, vampires have certain inherent weaknesses.
 
-•	   If a vampire is reduced to zero Hit Points in its Head or Chest Hit Locations, it dies –
+• If a vampire is reduced to zero Hit Points in its Head or Chest Hit Locations, it dies –
   albeit not necessarily for good. Upon death, the vampire collapses to the ground and turns
   to mist at the beginning of the next Combat Round. Before then, it can be destroyed
   permanently by driving a stake through its heart (the only way to prevent it turning to mist)
   and decapitating it.
-•	   Vampires cannot stand the touch of natural sunlight. They take one point of damage to
+• Vampires cannot stand the touch of natural sunlight. They take one point of damage to
   every Hit Location per round that they are exposed to the sun, though some will risk
   travelling in the daylight hours by wearing layers of clothing and a hood to cover as much
   of their body as possible.
-•	   The holy icons of some cults have proved effective against vampires in the past. Cults that
+• The holy icons of some cults have proved effective against vampires in the past. Cults that
   focus their energies against the undead (such as those formed around Death, Law and
   Light runes or similar gods) are the most likely to be effective, though the end result is
   down to the Games Master to decide what supernaturally offends any particular vampire.
@@ -3336,33 +3433,39 @@ Despite their undoubted power, vampires have certain inherent weaknesses.
   appropriateness of the symbol being displayed. On a successful test, the vampire loses 1D4
   Hit Points to a random Hit Location, unaffected by armour or any of the vampire's magic.
 
+|            | Dice         | Average          | 1D20        | Hit Location        | AP/HP |
+|------------|--------------|------------------|-------------|---------------------|-------|
+| STR        | 3D6x2        | 21               | 1-3         | Right Leg           | 1/5   |
+| CON        | 3D6          | 11               | 4-6         | Left Leg            | 1/5   |
+| SIZ        | 2D6+6        | 13               | 7-9         | Abdomen             | 1/6   |
+| INT        | 2D6+6        | 13               | 10-12       | Chest               | 1/7   |
+| POW        | 3D6          | 11               | 13-15       | Right Arm           | 1/4   |
+| DEX        | 3D6x2        | 21               | 16-18       | Left Arm            | 1/4   |
+| CHA        | 3D6          | 11               | 19-20       | Head                | 1/5   |
 
-          Dice           Average            1D20          Hit Location          AP/HP
-STR          3D6x2          21                 1-3           Right Leg             1/5
-CON          3D6            11                 4-6           Left Leg              1/5
-SIZ          2D6+6          13                 7-9           Abdomen               1/6
-INT          2D6+6          13                 10-12         Chest                 1/7
-POW          3D6            11                 13-15         Right Arm             1/4
-DEX          3D6x2          21                 16-18         Left Arm              1/4
-CHA          3D6            11                 19-20         Head                  1/5
-
+```
 Combat Actions              3                  Typical Armour: Tough hide. No armour penalty.
 Damage Modifier             +1D4               Can wear additional armour.
-Magic Points                11                 Traits: Blood/Soul Drain, Life Sense, Night
-Movement                    10m                Sight
-Strike Rank                 +17
+Magic Points                11
+Movement                    10m                Traits: Blood/Soul Drain, Life Sense, Night
+Strike Rank                 +17                Sight
+```
 
-Skills: Athletics 75%, Evade 60%, Insight 75%, Perception 80%, Persistence 60%*, Resilience 	
+**Skills**: Athletics 75%, Evade 60%, Insight 75%, Perception 80%, Persistence 60%*, Resilience
 60%*, Stealth 80%, Survival 65%, Track 60%, Unarmed 80%
-*Base values. Will change according to how much the vampire feeds.
-Common Magic 50%: 1D6 Magnitude of Common Magic spells
 
-Combat Styles
+*_Base values. Will change according to how much the vampire feeds._
+
+**Common Magic 50%**: 1D6 Magnitude of Common Magic spells
+
+##### Combat Styles
 Weapon from Life at previous skill value (typically 60%). Unarmed 80%, Bite 60%
 
-Weapons
-Type             Size            Reach           Damage           AP/HP           Range
-Bite             S               T               1D6+1D4          As for Head     -
+##### Weapons
+
+| Type           | Size          | Reach         | Damage         | AP/HP         | Range |
+|----------------|---------------|---------------|----------------|---------------|-------|
+| Bite           | S             | T             | 1D6+1D4        | As for Head   | -     |
 
 
 ## Werewolf
@@ -3391,31 +3494,36 @@ They are living entities who require oxygen and thus may be asphyxiated or drown
 The statistics are for a typical werewolf form. For human characteristics, use the standard Legend
 rules for creating an Adventurer.
 
-         Dice            Average            1D20        Hit Location               AP/HP
-STR         3D6 x2          21                 1-2         Right Hind Leg             1/5
-CON         3D6             11                 3-4         Left Hind Leg              1/5
-SIZ         2D6+6           13                 5-7         Hindquarters               1/6
-INT         (2D6+6)/2       7                  8-10        Forequarters               1/7
-POW         3D6             11                 11-13       Right Front Leg            1/5
-DEX         3D6+3           14                 14-16       Left Front Leg             1/5
-CHA         3D6             11                 17-20       Head                       1/5
+|           | Dice          | Average          | 1D20      | Hit Location             | AP/HP |
+|-----------|---------------|------------------|-----------|--------------------------|-------|
+| STR       | 3D6 x2        | 21               | 1-2       | Right Hind Leg           | 1/5   |
+| CON       | 3D6           | 11               | 3-4       | Left Hind Leg            | 1/5   |
+| SIZ       | 2D6+6         | 13               | 5-7       | Hindquarters             | 1/6   |
+| INT       | (2D6+6)/2     | 7                | 8-10      | Forequarters             | 1/7   |
+| POW       | 3D6           | 11               | 11-13     | Right Front Leg          | 1/5   |
+| DEX       | 3D6+3         | 14               | 14-16     | Left Front Leg           | 1/5   |
+| CHA       | 3D6           | 11               | 17-20     | Head                     | 1/5   |
 
+```
 Combat Actions              2                  Typical Armour: Tough hide. No Armour Penalty.
 Damage Modifier             +1D4               Note resistance to mundane damage.
-Magic Points                11                 Traits: Night Sight
-Movement                    12m
+Magic Points                11
+Movement                    12m                Traits: Night Sight
 Strike Rank                 +11
+```
 
-Skills: Athletics 80%, Evade 55%, Perception 50%, Persistence 43%, Resilience 43%, Stealth
+**Skills**: Athletics 80%, Evade 55%, Perception 50%, Persistence 43%, Resilience 43%, Stealth
 55%, Survival 40%, Track 50%
 
-Combat Styles
+##### Combat Styles
 Bite 55%, Claw 60%
 
-Weapons
-Type             Size            Reach           Damage           AP/HP           Range
-Bite             L               S               1D8+1D4          As for Head     -
-Claw             M               M               1D6+1D4          As for Leg      -
+##### Weapons
+
+| Type           | Size          | Reach         | Damage         | AP/HP         | Range |
+|----------------|---------------|---------------|----------------|---------------|-------|
+| Bite           | L             | S             | 1D8+1D4        | As for Head   | -     |
+| Claw           | M             | M             | 1D6+1D4        | As for Leg    | -     |
 
 
 ## Wurm
@@ -3434,43 +3542,48 @@ for one round before losing its effectiveness.
 A wurm regenerates two Hit Points per Combat Round in every damaged location. Regeneration
 will cease if the wurm dies.
 
-Combat Notes
+##### Combat Notes
 Wurms exhale a poisonous gas that affects everyone within a radius equal to the monster's CON
 in metres and has the following Characteristics:
 
-Application: Inhaled.
-Onset time: Immediate.
-Duration: 1 Combat Round.
-Resistance Time: The victim must make a Resistance roll at the Onset Time of each stage of the
+**Application**: Inhaled.
+**Onset Time**: Immediate.
+**Duration**: 1 Combat Round.
+**Resistance Time**: The victim must make a Resistance roll at the Onset Time of each stage of the
 poison. Failure indicates that Condition has taken effect.
-Potency: 72.
-Resistance: Resilience.
-Conditions: Agony. The victim suffers 1D8 points of damage to the chest location if the
+**Potency**: 72.
+**Resistance**: Resilience.
+**Conditions**: Agony. The victim suffers 1D8 points of damage to the chest location if the
 resistance test is failed.
-Antidote/Cure: Healing magic.
+**Antidote/Cure**: Healing magic.
 
-     Dice           Average           1D20         Hit Location             AP/HP
-STR       12D6           42                1-6          Tail                     8/13
-CON       3D6+12         23                7-14         Body                     8/13
-SIZ       12D6           42                15-20        Head                     8/13
-INT       9              9
-POW       1D6+12         16
-DEX       2D6            7
+|         | Dice         | Average         | 1D20       | Hit Location           | AP/HP |
+|---------|--------------|-----------------|------------|------------------------|-------|
+| STR     | 12D6         | 42              | 1-6        | Tail                   | 8/13  |
+| CON     | 3D6+12       | 23              | 7-14       | Body                   | 8/13  |
+| SIZ     | 12D6         | 42              | 15-20      | Head                   | 8/13  |
+| INT     | 9            | 9               |            |                        |       |
+| POW     | 1D6+12       | 16              |            |                        |       |
+| DEX     | 2D6          | 7               |            |                        |       |
 
+```
 Combat Actions           3                 Typical Armour: Scales. No Armour Penalty.
 Damage Modifier          +2D10
 Magic Points             16                Traits: Poison (breath, see above for details on
 Movement                 6m                Wurm Breath), Regeneration
 Strike Rank              +13
+```
 
-Skills: Athletics 30%, Persistence 58%, Resilience 79%, Stealth 35%
+**Skills**: Athletics 30%, Persistence 58%, Resilience 79%, Stealth 35%
 
-Combat Styles
+##### Combat Styles
 Bite 55%, Breath 100%
 
-Weapons
-Type            Size            Reach           Damage          AP/HP          Range
-Bite            H               VL              1D10+2D10       As for Head    -
+##### Weapons
+
+| Type          | Size          | Reach         | Damage        | AP/HP        | Range |
+|---------------|---------------|---------------|---------------|--------------|-------|
+| Bite          | H             | VL            | 1D10+2D10     | As for Head  | -     |
 
 
 ## Wyrm
@@ -3489,32 +3602,36 @@ continue to gain 1D6 SIZ and STR every 50 years. A wyrm may live for many hundre
 
 The Characteristics given below are for a wyrm between 35 and 85 years old.
 
+|             | Dice        | Average             | 1D20       | Hit Location              | AP/HP |
+|-------------|-------------|---------------------|------------|---------------------------|-------|
+| STR         | 11D6        | 39                  | 1-4        | Tail                      | 8/11  |
+| CON         | 4D6         | 14                  | 5-8        | Abdomen                   | 8/12  |
+| SIZ         | 11D6        | 39                  | 9-12       | Chest                     | 8/13  |
+| INT         | 3D6         | 11                  | 13-14      | Right Wing                | 8/10  |
+| POW         | 3D6+6       | 17                  | 15-16      | Left Wing                 | 8/10  |
+| DEX         | 2D6+6       | 13                  | 17-20      | Head                      | 8/11  |
+| CHA         | 3D6         | 11                  |            |                           |       |
 
-           Dice          Average               1D20         Hit Location                AP/HP
-STR           11D6          39                    1-4          Tail                        8/11
-CON           4D6           14                    5-8          Abdomen                     8/12
-SIZ           11D6          39                    9-12         Chest                       8/13
-INT           3D6           11                    13-14        Right Wing                  8/10
-POW           3D6+6         17                    15-16        Left Wing                   8/10
-DEX           2D6+6         13                    17-20        Head                        8/11
-CHA           3D6           11
-
+```
 Combat Actions              3                     Typical Armour: Tough hide. No Armour
 Damage Modifier             +2D8                  Penalty.
-Magic Points                17                    Traits: Dark Sight, Formidable Natural
-Movement                    6m/12m                Weapons, Night Sight
-Strike Rank                 +12
+Magic Points                17
+Movement                    6m/12m                Traits: Dark Sight, Formidable Natural
+Strike Rank                 +12                   Weapons, Night Sight
+```
 
-Skills: Athletics 80%, Brawn 75%, Evade 65%, Influence 60%, Perception 45%, Persistence
+**Skills**: Athletics 80%, Brawn 75%, Evade 65%, Influence 60%, Perception 45%, Persistence
 61%, Resilience 52%
 
-Combat Styles
+##### Combat Styles
 Bite 85%, Tail Bash 60%
 
-Weapons
-Type                 Size                 Reach               Damage               AP/HP
-Bite                 H                    VL                  1D10+2D8             As for Head
-Tail                 H                    VL                  1D20+2D8             As for Tail
+##### Weapons
+
+| Type               | Size               | Reach             | Damage             | AP/HP |
+|--------------------|--------------------|-------------------|--------------------|-------|
+| Bite               | H                  | VL                | 1D10+2D8           | As for Head |
+| Tail               | H                  | VL                | 1D20+2D8           | As for Tail |
 
 
 ## Wyvern
@@ -3525,43 +3642,50 @@ stinger, long enough to reach around the wyvern to strike an enemy in front of t
 Like wyrms, their cousins, wyverns are cunning and dangerous but lack the insight and magical
 abilities of true dragons.
 
-Combat Notes
+##### Combat Notes
 The sting is the favoured weapon of the wyvern and it has the following Characteristics:
 
-Application: Injected or smeared.
-Onset time: Immediate.
-Duration: 1D6 Days.
-Resistance Time: Daily. The first Resistance roll must be made at the end of the Onset Time,
+**Application**: Injected or smeared.
+**Onset Time**: Immediate.
+**Duration**: 1D6 Days.
+**Resistance Time**: Daily. The first Resistance roll must be made at the end of the Onset Time,
 then daily thereafter. Successfully resisting the poison allows the victim to avoid suffering the
 Conditions until the next roll must be made.
-Potency: 50+ CON of wyvern.
-Resistance: Resilience.
-Conditions: Agony and Paralysis.
-Antidote/Cure: Healing skill and magic.
+**Potency**: 50+ CON of wyvern.
+**Resistance**: Resilience.
+**Conditions**: Agony and Paralysis.
+**Antidote/Cure**: Healing skill and magic.
 
-       Dice          Average             1D20        Hit Location               AP/HP
-STR         4D6+12        26                  1-3         Right Leg                  5/9
-CON         2D6+12        19                  4-6         Left Leg                   5/9
-SIZ         4D6+12        26                  7-8         Hindquarters               5/10
-INT         7             7                   9-11        Forequarters               5/11
-POW         3D6           11                  12          Tail                       5/9
-DEX         2D6+6         13                  13-14       Right Wing                 5/8
-                                         15-16       Left Wing                  5/8
-Combat Actions            3                   17-20       Head                       5/9
+|           | Dice        | Average           | 1D20      | Hit Location             | AP/HP |
+|-----------|-------------|-------------------|-----------|--------------------------|-------|
+| STR       | 4D6+12      | 26                | 1-3       | Right Leg                | 5/9   |
+| CON       | 2D6+12      | 19                | 4-6       | Left Leg                 | 5/9   |
+| SIZ       | 4D6+12      | 26                | 7-8       | Hindquarters             | 5/10  |
+| INT       | 7           | 7                 | 9-11      | Forequarters             | 5/11  |
+| POW       | 3D6         | 11                | 12        | Tail                     | 5/9   |
+| DEX       | 2D6+6       | 13                | 13-14     | Right Wing               | 5/8   |
+|           |             |                   | 15-16     | Left Wing                | 5/8   |
+|           |             |                   | 17-20     | Head                     | 5/9   |
+
+```
+Combat Actions            3
 Damage Modifier           +1D12
 Magic Points              11                  Typical Armour: Scales. No Armour Penalty.
 Movement                  8m/16m
 Strike Rank               +14                 Traits: Dark Sight, Night Sight, Poison Sting
+```
 
-Skills: Athletics 60%, Brawn 80%, Perception 35%, Resilience 67%, Survival 40%
+**Skills**: Athletics 60%, Brawn 80%, Perception 35%, Resilience 67%, Survival 40%
 
-Combat Styles
+##### Combat Styles
 Bite 55%, Sting 70%
 
-Weapons
-Type            Size       Reach      Damage                  AP/HP           Range
-Bite            H          VL         1D10+1D12               As for Head     -
-Sting           H          VL         1D6+1D12+ Poison        As for Tail     -
+##### Weapons
+
+| Type          | Size     | Reach    | Damage                | AP/HP         | Range |
+|---------------|----------|----------|-----------------------|---------------|-------|
+| Bite          | H        | VL       | 1D10+1D12             | As for Head   | -     |
+| Sting         | H        | VL       | 1D6+1D12+ Poison      | As for Tail   | -     |
 
 
 ## Zombie
@@ -3574,36 +3698,41 @@ Zombies have very low INT and POW, and no CHA, as they have virtually no intelli
 personalities of their own. As such, attempts to control a zombie's mind or influence its personality
 will suffer a –50% penalty. Zombies are also immune to fatigue, disease and poisons.
 
-Combat Notes
+##### Combat Notes
 Slow and ponderous, the tenacious nature of zombies still makes them a formidable foe, especially
 in large numbers where a gang of the undead can outnumber and overwhelm a foe. The unarmed
 attack of the zombie is a flailing, grasping flurry that aims to randomly Grip or Bash with little
 strategy or reasoning. They do, however, concentrate on attacking rather than defending, so that
 single Combat Action is almost always used offensively.
 
-              Dice         Average           1D20         Hit Location           AP/HP
-STR              3D6+12       23                1–3          Right Leg              –/4
-CON              1D6          4                 4–6          Left Leg               –/4
-SIZ              2D6+6        13                7–9          Abdomen                –/5
-INT              1D3          2                 10–12        Chest                  –/6
-POW              1D3          2                 13–15        Right Arm              –/3
-DEX              1D6+3        7                 16–18        Left Arm               –/3
-                                             19–20        Head                   –/4
+|                | Dice       | Average         | 1D20       | Hit Location         | AP/HP |
+|----------------|------------|-----------------|------------|----------------------|-------|
+| STR            | 3D6+12     | 23              | 1–3        | Right Leg            | –/4   |
+| CON            | 1D6        | 4               | 4–6        | Left Leg             | –/4   |
+| SIZ            | 2D6+6      | 13              | 7–9        | Abdomen              | –/5   |
+| INT            | 1D3        | 2               | 10–12      | Chest                | –/6   |
+| POW            | 1D3        | 2               | 13–15      | Right Arm            | –/3   |
+| DEX            | 1D6+3      | 7               | 16–18      | Left Arm             | –/3   |
+|                |            |                 | 19–20      | Head                 | –/4   |
 
+```
 Combat Actions                1                 Typical Armour: None.
 Damage Modifier               +1D6
 Magic Points                  2                 Traits: Dark Sight, Diseased (GM's choice),
 Movement                      4m                Night Sight
 Strike Rank                   +5
+```
 
-Skills: Athletics 35%, Persistence 16%, Resilience 22%
+**Skills**: Athletics 35%, Persistence 16%, Resilience 22%
 
-Combat Styles
+##### Combat Styles
 Unarmed 50%
 
-Weapons
-Type             Size             Reach            Damage           AP/HP            Range
-Unarmed          S                T                1D3+1D6          As for Arm       -
+##### Weapons
+
+| Type           | Size           | Reach          | Damage         | AP/HP          | Range |
+|----------------|----------------|----------------|----------------|----------------|-------|
+| Unarmed        | S              | T              | 1D3+1D6        | As for Arm     | -     |
 
 
 # Natural life
@@ -3618,30 +3747,35 @@ the centre, closely guarded by the dominant males, while the lesser males scout 
 the perimeter. If a baboon group encounters a superior foe, the baboons will scatter and climb
 trees or rocks for protection.
 
-        Dice           Average           1D20       Hit Location              AP/HP
-STR        2D6+6          13                1-3        Right Leg                 1/4
-CON        3D6            11                4-6        Left Leg                  1/4
-SIZ        2D3+1          5                 7-9        Abdomen                   1/5
-INT        6              6                 10-12      Chest                     1/6
-POW        3D6            11                13-15      Right Arm                 1/3
-DEX        3D6+6          17                16-18      Left Arm                  1/3
-CHA        2D6            7                 19-20      Head                      1/4
+|          | Dice         | Average         | 1D20     | Hit Location            | AP/HP |
+|----------|--------------|-----------------|----------|-------------------------|-------|
+| STR      | 2D6+6        | 13              | 1-3      | Right Leg               | 1/4   |
+| CON      | 3D6          | 11              | 4-6      | Left Leg                | 1/4   |
+| SIZ      | 2D3+1        | 5               | 7-9      | Abdomen                 | 1/5   |
+| INT      | 6            | 6               | 10-12    | Chest                   | 1/6   |
+| POW      | 3D6          | 11              | 13-15    | Right Arm               | 1/3   |
+| DEX      | 3D6+6        | 17              | 16-18    | Left Arm                | 1/3   |
+| CHA      | 2D6          | 7               | 19-20    | Head                    | 1/4   |
 
+```
 Combat Actions            3                 Typical Armour: Hide. No Armour Penalty.
 Damage Modifier           –1D2
 Magic Points              11                Traits: None
 Movement                  8m
 Strike Rank               +15
+```
 
-Skills: Athletics 80%, Evade 35%, Perception 45%, Persistence 43%, Resilience 43%, Stealth
+**Skills**: Athletics 80%, Evade 35%, Perception 45%, Persistence 43%, Resilience 43%, Stealth
 55%, Survival 40%, Track 40%
 
-Combat Styles
+##### Combat Styles
 Bite 40%
 
-Weapons
-Type                SIZ          Reach          Damage          AP/HP           Range
-Bite                S            T              1D8–1D2         As for Head     -
+##### Weapons
+
+| Type              | SIZ        | Reach        | Damage        | AP/HP         | Range |
+|-------------------|------------|--------------|---------------|---------------|-------|
+| Bite              | S          | T            | 1D8–1D2       | As for Head   | -     |
 
 
 ## Bear, Brown
@@ -3651,31 +3785,36 @@ price for this approach. Sleeping for long periods over winter, bears will occas
 snow-bound wilderness, typically preying on cattle and deer but, being true omnivores, they are
 also opportunistic when it comes to food.
 
-        Dice         Average             1D20        Hit Location               AP/HP
-STR          3D6+15       26                  1-3         Right Hind Leg             3/8
-CON          2D6+6        13                  4-6         Left Hind Leg              3/8
-SIZ          3D6+15       26                  7-9         Hindquarters               3/9
-INT          5            5                   10-12       Forequarters               3/10
-POW          3D6          11                  13-15       Right Front Leg            3/8
-DEX          3D6          11                  16-18       Left Front Leg             3/8
-                                         19-20       Head                       3/8
+|            | Dice       | Average           | 1D20      | Hit Location             | AP/HP |
+|------------|------------|-------------------|-----------|--------------------------|-------|
+| STR        | 3D6+15     | 26                | 1-3       | Right Hind Leg           | 3/8   |
+| CON        | 2D6+6      | 13                | 4-6       | Left Hind Leg            | 3/8   |
+| SIZ        | 3D6+15     | 26                | 7-9       | Hindquarters             | 3/9   |
+| INT        | 5          | 5                 | 10-12     | Forequarters             | 3/10  |
+| POW        | 3D6        | 11                | 13-15     | Right Front Leg          | 3/8   |
+| DEX        | 3D6        | 11                | 16-18     | Left Front Leg           | 3/8   |
+|            |            |                   | 19-20     | Head                     | 3/8   |
 
+```
 Combat Actions            2                   Typical Armour: Fur. No Armour Penalty.
 Damage Modifier           +1D12
 Magic Points              11                  Traits: Formidable Natural Weapons
 Movement                  24m
 Strike Rank               +11
+```
 
-Skills: Athletics 60%, Perception 50%, Persistence 43%, Resilience 49%, Stealth 15%, Survival
+**Skills**: Athletics 60%, Perception 50%, Persistence 43%, Resilience 49%, Stealth 15%, Survival
 60%, Swim 45%, Track 25%
 
-Combat Styles
+##### Combat Styles
 Bite 60%, Claw 50%
 
-Weapons
-Type          Size         Reach          Damage           AP/HP               Range
-Bite          S            T              1D8+1D12         As for Head         -
-Claw          M            S              1D6+1D12         As for Leg          -
+##### Weapons
+
+| Type        | Size       | Reach        | Damage         | AP/HP             | Range |
+|-------------|------------|--------------|----------------|-------------------|-------|
+| Bite        | S          | T            | 1D8+1D12       | As for Head       | -     |
+| Claw        | M          | S            | 1D6+1D12       | As for Leg        | -     |
 
 
 ## Bear, Polar
@@ -3686,31 +3825,36 @@ on seals and fish.
 Polar bears are excellent swimmers. They have little fear of humans and will often treat them as
 prey if they come into the bears' territory.
 
-           Dice         Average              1D20         Hit Location               AP/HP
-STR           3D6+21       32                   1-3          Right Hind Leg             3/9
-CON           2D6+6        13                   4-6          Left Hind Leg              3/9
-SIZ           3D6+21       32                   7-9          Hindquarters               3/10
-INT           5            5                    10-12        Forequarters               3/11
-POW           3D6          11                   13-15        Right Front Leg            3/8
-DEX           3D6          11                   16-18        Left Front Leg             3/8
-                                             19-20        Head                       3/9
+|             | Dice       | Average            | 1D20       | Hit Location             | AP/HP |
+|-------------|------------|--------------------|------------|--------------------------|-------|
+| STR         | 3D6+21     | 32                 | 1-3        | Right Hind Leg           | 3/9   |
+| CON         | 2D6+6      | 13                 | 4-6        | Left Hind Leg            | 3/9   |
+| SIZ         | 3D6+21     | 32                 | 7-9        | Hindquarters             | 3/10  |
+| INT         | 5          | 5                  | 10-12      | Forequarters             | 3/11  |
+| POW         | 3D6        | 11                 | 13-15      | Right Front Leg          | 3/8   |
+| DEX         | 3D6        | 11                 | 16-18      | Left Front Leg           | 3/8   |
+|             |            |                    | 19-20      | Head                     | 3/9   |
 
+```
 Combat Actions             2                    Typical Armour: Fur. No Armour Penalty.
 Damage Modifier            +2D6
 Magic Points               11                   Traits: Formidable Natural Weapons
 Movement                   24m
 Strike Rank                +11
+```
 
-Skills: Athletics 25%, Brawn 50%, Perception 50%, Persistence 43%, Resilience 55%, Stealth
+**Skills**: Athletics 25%, Brawn 50%, Perception 50%, Persistence 43%, Resilience 55%, Stealth
 25%, Survival 60%, Swim 80%, Track 35%
 
-Combat Styles
+##### Combat Styles
 Bite 65%, Claw 55%
 
-Weapons
-Type             Size             Reach           Damage           AP/HP            Range
-Bite             S                T               1D8+2D6          As for Head      -
-Claw             M                S               1D6+2D6          As for Leg       -
+##### Weapons
+
+| Type           | Size           | Reach         | Damage         | AP/HP          | Range |
+|----------------|----------------|---------------|----------------|----------------|-------|
+| Bite           | S              | T             | 1D8+2D6        | As for Head    | -     |
+| Claw           | M              | S             | 1D6+2D6        | As for Leg     | -     |
 
 
 ## Boar
@@ -3722,32 +3866,35 @@ are ferociously territorial creatures who will attack a much larger creature wit
 They are also incredibly resilient to damage and do not need to make Resilience rolls against any
 wounds save Major Wounds.
 
+|             | Dice        | Average          | 1D20      | Hit Location             | AP/HP |
+|-------------|-------------|------------------|-----------|--------------------------|-------|
+| STR         | 3D6+6       | 17               | 1–2       | Right Hind Leg           | 2/6   |
+| CON         | 2D6+9       | 16               | 3–4       | Left Hind Leg            | 2/6   |
+| SIZ         | 2D6+3       | 10               | 5–7       | Hindquarters             | 2/7   |
+| INT         | 5           | 5                | 8–10      | Forequarters             | 2/8   |
+| POW         | 3D6         | 11               | 11–13     | Right Front Leg          | 2/5   |
+| DEX         | 3D6         | 11               | 14–16     | Left Front Leg           | 2/5   |
+|             |             |                  | 17–20     | Head                     | 2/6   |
 
-         Dice          Average            1D20        Hit Location               AP/HP
-STR           3D6+6         17                 1–2         Right Hind Leg             2/6
-CON           2D6+9         16                 3–4         Left Hind Leg              2/6
-SIZ           2D6+3         10                 5–7         Hindquarters               2/7
-INT           5             5                  8–10        Forequarters               2/8
-POW           3D6           11                 11–13       Right Front Leg            2/5
-DEX           3D6           11                 14–16       Left Front Leg             2/5
-                                          17–20       Head                       2/6
-
+```
 Combat Actions              2                  Typical Armour: Tough Hide. No Armour
 Damage Modifier             +1D2               Penalty.
-Magic Points                11                 Traits: None
-Movement                    8m
+Magic Points                11
+Movement                    8m                 Traits: None
 Strike Rank                 +11
+```
 
-Skills: Athletics 25%, Evade 55%, Perception 50%, Persistence 43%, Resilience 58%, Stealth
+**Skills**: Athletics 25%, Evade 55%, Perception 50%, Persistence 43%, Resilience 58%, Stealth
 55%, Survival 50%, Track 25%
 
-Combat Styles
+##### Combat Styles
 Tusk 65%
 
-Weapons
-Type                Size               Reach               Damage             AP/HP
-Tusk                M                  T                   1D8+1D2            As for Head
+##### Weapons
 
+| Type              | Size             | Reach             | Damage           | AP/HP |
+|-------------------|------------------|-------------------|------------------|-------|
+| Tusk              | M                | T                 | 1D8+1D2          | As for Head |
 
 ## Cattle
 One of the most common domesticated beasts, cattle can be found in virtually any human
@@ -3756,32 +3903,37 @@ civilisation not in arctic regions.
 The statistics below are designed for a bull but are also applicable to domestic cows, oxen, bison
 and sundry other large herbivores.
 
-        Dice          Average            1D20         Hit Location               AP/HP
-STR        4D6+6         20                 1–2          Right Hind Leg             2/7
-CON        2D6+9         16                 3–4          Left Hind Leg              2/7
-SIZ        2D6+9         16                 5–7          Hindquarters               2/8
-INT        4             4                  8–10         Forequarters               2/9
-POW        2D6           7                  11–13        Right Front Leg            2/6
-DEX        2D6           7                  14–16        Left Front Leg             2/6
-                                         17–20        Head                       2/7
+|          | Dice        | Average          | 1D20       | Hit Location             | AP/HP |
+|----------|-------------|------------------|------------|--------------------------|-------|
+| STR      | 4D6+6       | 20               | 1–2        | Right Hind Leg           | 2/7   |
+| CON      | 2D6+9       | 16               | 3–4        | Left Hind Leg            | 2/7   |
+| SIZ      | 2D6+9       | 16               | 5–7        | Hindquarters             | 2/8   |
+| INT      | 4           | 4                | 8–10       | Forequarters             | 2/9   |
+| POW      | 2D6         | 7                | 11–13      | Right Front Leg          | 2/6   |
+| DEX      | 2D6         | 7                | 14–16      | Left Front Leg           | 2/6   |
+|          |             |                  | 17–20      | Head                     | 2/7   |
 
+```
 Combat Actions           2                  Typical Armour: Tough Hide. No Armour Penalty.
 Damage Modifier          +1D6
 Magic Points             7                  Traits: Trample
 Movement                 10m
 Strike Rank              +8
+```
 
-Skills: Athletics 55%, Brawn 55%, Perception 30% Persistence 31%, Resilience 58%,
+**Skills**: Athletics 55%, Brawn 55%, Perception 30% Persistence 31%, Resilience 58%,
 Survival 20%
 
-Combat Styles
+##### Combat Styles
 Charge 40%, Trample 55%, Gore (bulls only) 45%
 
-Weapons
-Type             Size            Reach           Damage           AP/HP           Range
-Charge           VL              T               1D8+1D6          -               -
-Trample          VL              T               1D8+1D6          -               -
-Gore             L               S               1D6+1D6          As for Head     -
+##### Weapons
+
+| Type           | Size          | Reach         | Damage         | AP/HP         | Range |
+|----------------|---------------|---------------|----------------|---------------|-------|
+| Charge         | VL            | T             | 1D8+1D6        | -             | -     |
+| Trample        | VL            | T             | 1D8+1D6        | -             | -     |
+| Gore           | L             | S             | 1D6+1D6        | As for Head   | -     |
 
 
 ## Chimpanzee
@@ -3797,31 +3949,36 @@ genders led by a dominant male.
 Some male chimps will use clubs for threatening gestures and, from time to time, will even wield
 them in combat. Most chimpanzees would never use weapons, however.
 
-       Dice        Average             1D20        Hit Location               AP/HP
-STR         3D6+6       17                  1-3         Right Leg                  –/5
-CON         3D6         11                  4-6         Left Leg                   –/5
-SIZ         2D6+6       13                  7-9         Abdomen                    –/6
-INT         7           7                   10-12       Chest                      –/7
-POW         3D6         11                  13-15       Right Arm                  –/4
-DEX         3D6+6       17                  16-18       Left Arm                   –/4
-CHA         2D6         7                   19-20       Head                       –/5
+|           | Dice      | Average           | 1D20      | Hit Location             | AP/HP |
+|-----------|-----------|-------------------|-----------|--------------------------|-------|
+| STR       | 3D6+6     | 17                | 1-3       | Right Leg                | –/5   |
+| CON       | 3D6       | 11                | 4-6       | Left Leg                 | –/5   |
+| SIZ       | 2D6+6     | 13                | 7-9       | Abdomen                  | –/6   |
+| INT       | 7         | 7                 | 10-12     | Chest                    | –/7   |
+| POW       | 3D6       | 11                | 13-15     | Right Arm                | –/4   |
+| DEX       | 3D6+6     | 17                | 16-18     | Left Arm                 | –/4   |
+| CHA       | 2D6       | 7                 | 19-20     | Head                     | –/5   |
 
+```
 Combat Actions          3                   Typical Armour: None.
 Damage Modifier         +1D2
 Magic Points            11                  Traits: None
 Movement                8m
 Strike Rank             +16
+```
 
-Skills: Athletics 95%, Evade 45%, Perception 30%, Persistence 43%, Resilience 43%, Stealth
+**Skills**: Athletics 95%, Evade 45%, Perception 30%, Persistence 43%, Resilience 43%, Stealth
 55%, Survival 45%, Track 40%
 
-Combat Styles
+##### Combat Styles
 Bite 35%, Unarmed 45%
 
-Weapons
-Type                SIZ                Reach              Damage              AP/HP
-Bite                S                  T                  1D6+1D2             As for Head
-Unarmed             M                  M                  1D3+1D2             As for Arm
+##### Weapons
+
+| Type              | SIZ              | Reach            | Damage            | AP/HP |
+|-------------------|------------------|------------------|-------------------|-------|
+| Bite              | S                | T                | 1D6+1D2           | As for Head |
+| Unarmed           | M                | M                | 1D3+1D2           | As for Arm |
 
 
 ## Deer
@@ -3833,31 +3990,35 @@ deer will only attack if it has no other choice.
 Deer live in small herds, consisting of a number of does and fawns with either one dominant stag
 or a small group of bachelor stags. The statistics given are for a stag; does have SIZ 3D6+9.
 
+|           | Dice       | Average           | 1D20      | Hit Location             | AP/HP |
+|-----------|------------|-------------------|-----------|--------------------------|-------|
+| STR       | 2D6+6      | 13                | 1–2       | Right Hind Leg           | 1/7   |
+| CON       | 3D6        | 11                | 3–4       | Left Hind Leg            | 1/7   |
+| SIZ       | 3D6+12     | 23                | 5–7       | Hindquarters             | 1/8   |
+| INT       | 4          | 4                 | 8–10      | Forequarters             | 1/9   |
+| POW       | 2D6        | 7                 | 11–13     | Right Front Leg          | 1/6   |
+| DEX       | 3D6+6      | 17                | 14–16     | Left Front Leg           | 1/6   |
+|           |            |                   | 17–20     | Head                     | 1/7   |
 
-         Dice         Average             1D20        Hit Location               AP/HP
-STR         2D6+6        13                  1–2         Right Hind Leg             1/7
-CON         3D6          11                  3–4         Left Hind Leg              1/7
-SIZ         3D6+12       23                  5–7         Hindquarters               1/8
-INT         4            4                   8–10        Forequarters               1/9
-POW         2D6          7                   11–13       Right Front Leg            1/6
-DEX         3D6+6        17                  14–16       Left Front Leg             1/6
-                                          17–20       Head                       1/7
-
+```
 Combat Actions           3                   Typical Armour: Hide. No Armour Penalty.
 Damage Modifier          +1D6
 Magic Points             7                   Traits: None
 Movement                 12m
 Strike Rank              +13
+```
 
-Skills: Athletics 75%, Evade 70%, Perception 95%, Persistence 31%, Resilience 58%,
+**Skills**: Athletics 75%, Evade 70%, Perception 95%, Persistence 31%, Resilience 58%,
 Stealth 25%
 
-Combat Styles
+##### Combat Styles
 Head Butt 35%
 
-Weapons
-Type            Size            Reach           Damage          AP/HP           Range
-Head Butt       L               S               1D6+1D6         As for Head     -
+##### Weapons
+
+| Type          | Size          | Reach         | Damage        | AP/HP         | Range |
+|---------------|---------------|---------------|---------------|---------------|-------|
+| Head Butt     | L             | S             | 1D6+1D6       | As for Head   | -     |
 
 
 ## Dog
@@ -3871,30 +4032,36 @@ Breeds of dogs come as small as STR 1D3 and SIZ 1D3 or as large as STR 2D6+3 and
 
 Left to their own devices, dogs hunt in packs composed of members of both sexes, led by a single
 dominant individual.
-        Dice         Average             1D20         Hit Location               AP/HP
-STR          1D6+1        5                   1–2          Right Hind Leg             –/3
-CON          3D6          11                  3–4          Left Hind Leg              –/3
-SIZ          1D6          4                   5–7          Hindquarters               –/4
-INT          5            5                   8–10         Forequarters               –/5
-POW          1D6+6        10                  11–13        Right Front Leg            –/2
-DEX          2D6+6        13                  14–16        Left Front Leg             –/2
-                                         17–20        Head                       –/3
 
+|            | Dice       | Average           | 1D20       | Hit Location             | AP/HP |
+|------------|------------|-------------------|------------|--------------------------|-------|
+| STR        | 1D6+1      | 5                 | 1–2        | Right Hind Leg           | –/3   |
+| CON        | 3D6        | 11                | 3–4        | Left Hind Leg            | –/3   |
+| SIZ        | 1D6        | 4                 | 5–7        | Hindquarters             | –/4   |
+| INT        | 5          | 5                 | 8–10       | Forequarters             | –/5   |
+| POW        | 1D6+6      | 10                | 11–13      | Right Front Leg          | –/2   |
+| DEX        | 2D6+6      | 13                | 14–16      | Left Front Leg           | –/2   |
+|            |            |                   | 17–20      | Head                     | –/3   |
+
+```
 Combat Actions            2                   Typical Armour: None.
 Damage Modifier           –1D6
 Magic Points              10                  Traits: Night Sight
 Movement                  12m
 Strike Rank               +12
+```
 
-Skills: Athletics 60%, Evade 30%, Persistence 37%, Perception 85%, Resilience 43%, Stealth
+**Skills**: Athletics 60%, Evade 30%, Persistence 37%, Perception 85%, Resilience 43%, Stealth
 45%, Survival 30%, Track 85%
 
-Combat Styles
+##### Combat Styles
 Bite 35%
 
-Weapons
-Type             Size            Reach            Damage            AP/HP          Range
-Bite             S               T                1D6–1D6           As for Head    -
+##### Weapons
+
+| Type           | Size          | Reach          | Damage          | AP/HP        | Range |
+|----------------|---------------|----------------|-----------------|--------------|-------|
+| Bite           | S             | T              | 1D6–1D6         | As for Head  | -     |
 
 
 ## Elephant
@@ -3910,36 +4077,43 @@ the herd will actively protect it.
 Elephants are intelligent beasts who learn very quickly. They can be domesticated and trained
 and in some cultures are used as mounts.
 
-Combat Notes
+##### Combat Notes
 Elephants can Grip opponents with their trunk, effectively immobilising them and then
 attempting to throw them. A successful throw occurs if the victim cannot break free on the
 Combat Action following the Grip and if the elephant succeeds in a Brawn roll. The victim is
 thrown 2D6 metres and may sustain falling damage.
 
-           Dice          Average             1D20         Hit Location            AP/HP
-STR           6D6+24        45                  1-2          Right Hind Leg          3/16
-CON           3D6+15        26                  3-4          Left Hind Leg           3/16
-SIZ           6D6+30        51                  5-8          Hindquarters            3/17
-INT           6             6                   9-12         Forequarters            3/18
-POW           2D6+6         13                  13-14        Right Front Leg         3/16
-DEX           3D6           11                  15-16        Left Front Leg          3/16
-                                             17           Trunk                   3/15
-Combat Actions              2                   18-20        Head                    3/16
+|             | Dice        | Average           | 1D20       | Hit Location          | AP/HP |
+|-------------|-------------|-------------------|------------|-----------------------|-------|
+| STR         | 6D6+24      | 45                | 1-2        | Right Hind Leg        | 3/16  |
+| CON         | 3D6+15      | 26                | 3-4        | Left Hind Leg         | 3/16  |
+| SIZ         | 6D6+30      | 51                | 5-8        | Hindquarters          | 3/17  |
+| INT         | 6           | 6                 | 9-12       | Forequarters          | 3/18  |
+| POW         | 2D6+6       | 13                | 13-14      | Right Front Leg       | 3/16  |
+| DEX         | 3D6         | 11                | 15-16      | Left Front Leg        | 3/16  |
+|             |             |                   | 17         | Trunk                 | 3/15  |
+|             |             |                   | 18-20      | Head                  | 3/16  |
+
+```
+Combat Actions              2
 Damage Modifier             +2D12
 Magic Points                13                  Typical Armour: Hide. No Armour Penalty.
 Movement                    10m
 Strike Rank                 +12                 Traits: Trample
+```
 
-Skills: Athletics 60%, Brawn 80%, Perception 65%, Persistence 49%, Resilience 88%
+**Skills**: Athletics 60%, Brawn 80%, Perception 65%, Persistence 49%, Resilience 88%
 
-Combat Styles
+##### Combat Styles
 Trunk 55%, Trample 50%, Gore 40%
 
-Weapons
-Type             Size             Reach           Damage           AP/HP            Range
-Trunk            H                VL              Special          As for Trunk     -
-Trample          E                S               2D12             -                -
-Gore             H                L               1D10+2D12        As for Head      -
+##### Weapons
+
+| Type           | Size           | Reach         | Damage         | AP/HP          | Range |
+|----------------|----------------|---------------|----------------|----------------|-------|
+| Trunk          | H              | VL            | Special        | As for Trunk   | -     |
+| Trample        | E              | S             | 2D12           | -              | -     |
+| Gore           | H              | L             | 1D10+2D12      | As for Head    | -     |
 
 
 ## Gorilla
@@ -3952,31 +4126,36 @@ Gorillas are not an aggressive species but if one becomes angry, it is easily ca
 man, or even a troll, limb from limb. Female gorillas are smaller than males and have 1D6 less
 of both SIZ and STR.
 
-        Dice          Average             1D20         Hit Location          AP/HP
-STR          6D6+15        36                  1-3          Right Leg             2/8
-CON          2D6+6         13                  4-6          Left Leg              2/8
-SIZ          4D6+12        26                  7-9          Abdomen               2/9
-INT          7             7                   10-12        Chest                 2/10
-POW          3D6           11                  13-15        Right Arm             2/7
-DEX          3D6+3         14                  16-18        Left Arm              2/7
-                                          19-20        Head                  2/8
+|            | Dice        | Average           | 1D20       | Hit Location        | AP/HP |
+|------------|-------------|-------------------|------------|---------------------|-------|
+| STR        | 6D6+15      | 36                | 1-3        | Right Leg           | 2/8   |
+| CON        | 2D6+6       | 13                | 4-6        | Left Leg            | 2/8   |
+| SIZ        | 4D6+12      | 26                | 7-9        | Abdomen             | 2/9   |
+| INT        | 7           | 7                 | 10-12      | Chest               | 2/10  |
+| POW        | 3D6         | 11                | 13-15      | Right Arm           | 2/7   |
+| DEX        | 3D6+3       | 14                | 16-18      | Left Arm            | 2/7   |
+|            |             |                   | 19-20      | Head                | 2/8   |
 
+```
 Combat Actions             3                   Typical Armour: Hide. No Armour Penalty.
 Damage Modifier            +2D6
 Magic Points               11                  Traits: None
 Movement                   8m
 Strike Rank                +14
+```
 
-Skills: Athletics 75%, Brawn 70%, Evade 40%, Perception 40%, Persistence 43%, Resilience
+**Skills**: Athletics 75%, Brawn 70%, Evade 40%, Perception 40%, Persistence 43%, Resilience
 49%, Stealth 30%, Survival 40%
 
-Combat Styles
+##### Combat Styles
 Bite 35%, Unarmed 45%
 
-Weapons
-Type             SIZ              Reach          Damage           AP/HP           Range
-Bite             M                T              1D8+2D6          As for Head     -
-Unarmed          M                L              1D6+2D6          As for Arm      -
+##### Weapons
+
+| Type           | SIZ            | Reach        | Damage         | AP/HP         | Range |
+|----------------|----------------|--------------|----------------|---------------|-------|
+| Bite           | M              | T            | 1D8+2D6        | As for Head   | -     |
+| Unarmed        | M              | L            | 1D6+2D6        | As for Arm    | -     |
 
 
 ## Hawk
@@ -3988,35 +4167,39 @@ creature in question is menacing the hawk's young.
 The statistics given below are for a large hawk but may also be applied to an owl or an eagle.
 Owls have the Night Sight trait.
 
-Combat Notes
+##### Combat Notes
 Trained birds of prey can be directed to attack larger targets than their normal prey.
 The claws and beak of a giant bird of prey can Sunder.
 
+|           | Dice         | Average            | 1D20       | Hit Location        | AP/HP |
+|-----------|--------------|--------------------|------------|---------------------|-------|
+| STR       | 1D3          | 2                  | 1-5        | Right Wing          | –/2   |
+| CON       | 2D3          | 4                  | 6-10       | Left Wing           | –/2   |
+| SIZ       | 1D3          | 2                  | 11-16      | Body                | –/4   |
+| INT       | 4            | 4                  | 17-20      | Head                | –/3   |
+| POW       | 2D6          | 7                  |            |                     |       |
+| DEX       | 3D6+18       | 29                 |            |                     |       |
 
-         Dice           Average              1D20         Hit Location          AP/HP
-STR         1D3            2                    1-5          Right Wing            –/2
-CON         2D3            4                    6-10         Left Wing             –/2
-SIZ         1D3            2                    11-16        Body                  –/4
-INT         4              4                    17-20        Head                  –/3
-POW         2D6            7
-DEX         3D6+18         29
-
+```
 Combat Actions             4                    Typical Armour: None.
 Damage Modifier            –1D8
 Magic Points               7                    Traits: Flying
 Movement                   16m flying
 Strike Rank                +19
+```
 
-Skills: Athletics 90%, Evade 90%, Perception 110%, Persistence 31%, Resilience 22%, Stealth
+**Skills**: Athletics 90%, Evade 90%, Perception 110%, Persistence 31%, Resilience 22%, Stealth
 100%, Survival 40%
 
-Combat Styles
+##### Combat Styles
 Bite 35%, Claw 50%
 
-Weapons
-Type             SIZ             Reach            Damage          AP/HP            Range
-Bite             S               T                1D4–1D8         As for Head      -
-Claw             S               T                1D6–1D8         –/2              -
+##### Weapons
+
+| Type           | SIZ           | Reach          | Damage        | AP/HP          | Range |
+|----------------|---------------|----------------|---------------|----------------|-------|
+| Bite           | S             | T              | 1D4–1D8       | As for Head    | -     |
+| Claw           | S             | T              | 1D6–1D8       | –/2            | -     |
 
 
 ## Horse
@@ -4028,29 +4211,34 @@ horse, suitable for riding or as a beast of burden.
 Heavy horses – those used for ploughing fields and as warhorses – have an additional +4 STR,
 +4 CON and +4 SIZ.
 
-        Dice           Average            1D20         Hit Location             AP/HP
-STR          2D6+18         25                 1-3          Right Hind Leg           2/9
-CON          3D6+6          17                 4-6          Left Hind Leg            2/9
-SIZ          2D6+18         25                 7-9          Hindquarters             2/10
-INT          4              4                  10-12        Forequarters             2/11
-POW          3D6            11                 13-15        Right Front Leg          2/9
-DEX          2D6+3          10                 16-18        Left Front Leg           2/9
-                                          19-20        Head                     2/9
+|            | Dice         | Average          | 1D20       | Hit Location           | AP/HP |
+|------------|--------------|------------------|------------|------------------------|-------|
+| STR        | 2D6+18       | 25               | 1-3        | Right Hind Leg         | 2/9   |
+| CON        | 3D6+6        | 17               | 4-6        | Left Hind Leg          | 2/9   |
+| SIZ        | 2D6+18       | 25               | 7-9        | Hindquarters           | 2/10  |
+| INT        | 4            | 4                | 10-12      | Forequarters           | 2/11  |
+| POW        | 3D6          | 11               | 13-15      | Right Front Leg        | 2/9   |
+| DEX        | 2D6+3        | 10               | 16-18      | Left Front Leg         | 2/9   |
+|            |              |                  | 19-20      | Head                   | 2/9   |
 
+```
 Combat Actions              2                  Typical Armour: Hide. No Armour Penalty.
 Damage Modifier             +1D10
 Magic Points                11                 Traits: None
 Movement                    16m
 Strike Rank                 +9
+```
 
-Skills: Athletics 75%, Brawn 60%, Persistence 43%, Resilience 61%, Survival 20%
+**Skills**: Athletics 75%, Brawn 60%, Persistence 43%, Resilience 61%, Survival 20%
 
-Combat Styles
+##### Combat Styles
 Kick 40%
 
-Weapons
-Type                 Size                Reach                Damage             AP/HP
-Kick                 M                   M                    1D6+1D10           As for Leg
+##### Weapons
+
+| Type               | Size              | Reach              | Damage           | AP/HP |
+|--------------------|-------------------|--------------------|------------------|-------|
+| Kick               | M                 | M                  | 1D6+1D10         | As for Leg |
 
 
 ## Lion
@@ -4062,37 +4250,42 @@ leaders. The lionesses do the majority of the hunting, whilst the males act most
 the pride. A male lion is usually easy to spot, as the majority have a dramatic mane of fur
 framing their faces.
 
-Combat Notes
+##### Combat Notes
 A lion uses its claws to Grip and hold prey and then deliver a bite on the next Combat Action.
 A similar tactic is used by lionesses when giving chase to prey; both claws pull the prey to the
 ground and it suffers falling damage as though falling from 3 metres before the lioness then
 inflicts a killing bite.
 
-          Dice         Average             1D20         Hit Location            AP/HP
-STR          3D6+12       23                  1-3          Right Hind Leg          2/6
-CON          3D6          11                  4-6          Left Hind Leg           2/6
-SIZ          2D6+12       19                  7-9          Hindquarters            2/7
-INT          5            5                   10-12        Forequarters            2/8
-POW          3D6          11                  13-15        Right Front Leg         2/6
-DEX          3D6+6        17                  16-18        Left Front Leg          2/6
-                                           19-20        Head                    2/6
+|            | Dice       | Average           | 1D20       | Hit Location          | AP/HP |
+|------------|------------|-------------------|------------|-----------------------|-------|
+| STR        | 3D6+12     | 23                | 1-3        | Right Hind Leg        | 2/6   |
+| CON        | 3D6        | 11                | 4-6        | Left Hind Leg         | 2/6   |
+| SIZ        | 2D6+12     | 19                | 7-9        | Hindquarters          | 2/7   |
+| INT        | 5          | 5                 | 10-12      | Forequarters          | 2/8   |
+| POW        | 3D6        | 11                | 13-15      | Right Front Leg       | 2/6   |
+| DEX        | 3D6+6      | 17                | 16-18      | Left Front Leg        | 2/6   |
+|            |            |                   | 19-20      | Head                  | 2/6   |
 
+```
 Combat Actions            3                   Typical Armour: Fur. No Amour Penalty.
 Damage Modifier           +1D8
 Magic Points              11                  Traits: Night Sight
 Movement                  12m
 Strike Rank               +14
+```
 
-Skills: Athletics 70%, Evade 45%, Perception 55%, Persistence 43%, Resilience 43%, Stealth 50%,
+**Skills**: Athletics 70%, Evade 45%, Perception 55%, Persistence 43%, Resilience 43%, Stealth 50%,
 Survival 40%
 
-Combat Styles
+##### Combat Styles
 Bite 60%, Claw 60%
 
-Weapons
-Type            Size             Reach          Damage          AP/HP           Range
-Bite            M                T              1D8+1D8         As for Head     -
-Claw            M                M              1D6+1D8         As for Leg      -
+##### Weapons
+
+| Type          | Size           | Reach        | Damage        | AP/HP         | Range |
+|---------------|----------------|--------------|---------------|---------------|-------|
+| Bite          | M              | T            | 1D8+1D8       | As for Head   | -     |
+| Claw          | M              | M            | 1D6+1D8       | As for Leg    | -     |
 
 
 ## Mammoth
@@ -4101,33 +4294,39 @@ elephants, save that they have larger heads and tusks, smaller ears and a coat o
 usually travel in herds and live in arctic and sub-arctic steppes. A mammoth stands a little more
 than four metres tall and has a large, prehensile trunk and a pair of tusks.
 
-Combat Notes
+##### Combat Notes
 As per Elephant (see page 103).
 
-        Dice           Average            1D20         Hit Location            AP/HP
-STR          10D6+30        65                 1-2          Right Hind Leg          9/20
-CON          4D6+21         35                 3-4          Left Hind Leg           9/20
-SIZ          10D6+30        65                 5-8          Hindquarters            9/21
-INT          6              6                  9-12         Forequarters            9/22
-POW          2D6+6          13                 13-14        Right Front Leg         9/20
-DEX          3D6            11                 15-16        Left Front Leg          9/20
-                                          17           Trunk                   9/19
-Combat Actions              2                  18-20        Head                    9/20
-Damage Modifier             +3D12
-Magic Points                13                 Typical Armour: Hide and fur. No Armour
-Movement                    10m                Penalty.
+|            | Dice         | Average          | 1D20       | Hit Location          | AP/HP |
+|------------|--------------|------------------|------------|-----------------------|-------|
+| STR        | 10D6+30      | 65               | 1-2        | Right Hind Leg        | 9/20  |
+| CON        | 4D6+21       | 35               | 3-4        | Left Hind Leg         | 9/20  |
+| SIZ        | 10D6+30      | 65               | 5-8        | Hindquarters          | 9/21  |
+| INT        | 6            | 6                | 9-12       | Forequarters          | 9/22  |
+| POW        | 2D6+6        | 13               | 13-14      | Right Front Leg       | 9/20  |
+| DEX        | 3D6          | 11               | 15-16      | Left Front Leg        | 9/20  |
+|            |              |                  | 17         | Trunk                 | 9/19  |
+|            |              |                  | 18-20      | Head                  | 9/20  |
+
+```
+Combat Actions              2
+Damage Modifier             +3D12              Typical Armour: Hide and fur. No Armour
+Magic Points                13                 Penalty.
+Movement                    10m
 Strike Rank                 +12                Traits: Trample
+```
+**Skills**: Athletics 60%, Brawn 90%, Perception 65%, Persistence 49%, Resilience 99%
 
-Skills: Athletics 60%, Brawn 90%, Perception 65%, Persistence 49%, Resilience 99%
-
-Combat Styles
+##### Combat Styles
 Trunk 55%, Trample 50%, Gore 60%
 
-Weapons
-Type            Size              Reach          Damage          AP/HP           Range
-Trunk           H                 VL             Special         As for Trunk    -
-Trample         E                 S              3D12            -               -
-Gore            H                 L              1D10+3D12       As for Head     -
+##### Weapons
+
+| Type          | Size            | Reach        | Damage        | AP/HP         | Range |
+|---------------|-----------------|--------------|---------------|---------------|-------|
+| Trunk         | H               | VL           | Special       | As for Trunk  | -     |
+| Trample       | E               | S            | 3D12          | -             | -     |
+| Gore          | H               | L            | 1D10+3D12     | As for Head   | -     |
 
 
 ## Panther
@@ -4139,34 +4338,39 @@ than a match for them.
 
 Panthers hunt by lying in wait and springing on their prey from ambush.
 
-Combat Notes
+##### Combat Notes
 As per Lion. (see page 107)
 
-          Dice            Average             1D20         Hit Location             AP/HP
-STR          3D6+6           17                  1-3          Right Hind Leg           1/6
-CON          3D6             11                  4-6          Left Hind Leg            1/6
-SIZ          2D6+12          19                  7-9          Hindquarters             1/7
-INT          5               5                   10-12        Forequarters             1/8
-POW          3D6             11                  13-15        Right Front Leg          1/5
-DEX          2D6+12          19                  16-18        Left Front Leg           1/5
-                                              19-20        Head                     1/5
+|            | Dice          | Average           | 1D20       | Hit Location           | AP/HP |
+|------------|---------------|-------------------|------------|------------------------|-------|
+| STR        | 3D6+6         | 17                | 1-3        | Right Hind Leg         | 1/6   |
+| CON        | 3D6           | 11                | 4-6        | Left Hind Leg          | 1/6   |
+| SIZ        | 2D6+12        | 19                | 7-9        | Hindquarters           | 1/7   |
+| INT        | 5             | 5                 | 10-12      | Forequarters           | 1/8   |
+| POW        | 3D6           | 11                | 13-15      | Right Front Leg        | 1/5   |
+| DEX        | 2D6+12        | 19                | 16-18      | Left Front Leg         | 1/5   |
+|            |               |                   | 19-20      | Head                   | 1/5   |
 
+```
 Combat Actions               3                   Typical Armour: Fur. No Armour Penalty.
 Damage Modifier              +1D6
 Magic Points                 11                  Traits: Night Sight
 Movement                     12m
 Strike Rank                  +15
+```
 
-Skills: Athletics 60%, Evade 65%, Perception 70%, Persistence 43%, Resilience 43%, Stealth
+**Skills**: Athletics 60%, Evade 65%, Perception 70%, Persistence 43%, Resilience 43%, Stealth
 90%, Survival 45%
 
-Combat Styles
+##### Combat Styles
 Bite 40%, Claw 60%
 
-Weapons
-Type             Size              Reach            Damage            AP/HP           Range
-Bite             M                 T                1D8+1D6           As for Head     -
-Claw             M                 M                1D6+1D6           As for Leg      -
+##### Weapons
+
+| Type           | Size            | Reach          | Damage          | AP/HP         | Range |
+|----------------|-----------------|----------------|-----------------|---------------|-------|
+| Bite           | M               | T              | 1D8+1D6         | As for Head   | -     |
+| Claw           | M               | M              | 1D6+1D6         | As for Leg    | -     |
 
 
 ## Rhinoceros
@@ -4180,34 +4384,39 @@ made to domesticate them, most have failed but some cultures still actively seek
 participation in arena games and other blood sports, as well as for the reputed magical properties
 of their horns.
 
-Combat Notes
+##### Combat Notes
 The rhino horn is also a vicious impaling weapon. If a foe is Impaled, the next Combat Action
 sees the rhino aim to throw its victim with a toss of its head.
 
-       Dice          Average              1D20        Hit Location               AP/HP
-STR         2D6+21        28                   1-3         Right Rear Leg             5/8
-CON         3D6           11                   4-6         Left Rear Leg              5/8
-SIZ         2D6+21        28                   7-9         Hindquarters               5/9
-INT         3             3                    10-12       Forequarters               5/10
-POW         3D6           11                   13-15       Right Front Leg            5/7
-DEX         2D6           7                    16-18       Left Front Leg             5/7
-                                          19-20       Head                       5/8
+|           | Dice        | Average            | 1D20      | Hit Location             | AP/HP |
+|-----------|-------------|--------------------|-----------|--------------------------|-------|
+| STR       | 2D6+21      | 28                 | 1-3       | Right Rear Leg           | 5/8   |
+| CON       | 3D6         | 11                 | 4-6       | Left Rear Leg            | 5/8   |
+| SIZ       | 2D6+21      | 28                 | 7-9       | Hindquarters             | 5/9   |
+| INT       | 3           | 3                  | 10-12     | Forequarters             | 5/10  |
+| POW       | 3D6         | 11                 | 13-15     | Right Front Leg          | 5/7   |
+| DEX       | 2D6         | 7                  | 16-18     | Left Front Leg           | 5/7   |
+|           |             |                    | 19-20     | Head                     | 5/8   |
 
+```
 Combat Actions            2                    Typical Armour: Hide. No Armour Penalty.
 Damage Modifier           +1D12
 Magic Points              11                   Traits: Trample
 Movement                  10m
 Strike Rank               +7
+```
 
-Skills: Athletics 30%, Brawn 55%, Perception 45%, Persistence 43%, Resilience 43%
+**Skills**: Athletics 30%, Brawn 55%, Perception 45%, Persistence 43%, Resilience 43%
 
-Combat Styles
+##### Combat Styles
 Gore 50%, Trample 75%
 
-Weapons
-Type             Size            Reach           Damage           AP/HP           Range
-Gore             L               M               1D8+1D12         As for Head     -
-Trample          H               T               1D12+1D12        -               -
+##### Weapons
+
+| Type           | Size          | Reach         | Damage         | AP/HP         | Range |
+|----------------|---------------|---------------|----------------|---------------|-------|
+| Gore           | L             | M             | 1D8+1D12       | As for Head   | -     |
+| Trample        | H             | T             | 1D12+1D12      | -             | -     |
 
 
 ## Shark
@@ -4219,31 +4428,34 @@ anyone actually in the water.
 A shark is in constant motion and is always on the lookout for prey. The skin of a shark is
 extremely tough, covered with thousands of tiny ridges.
 
+|           | Dice        | Average       | 1D20      | Hit Location            | AP/HP |
+|-----------|-------------|---------------|-----------|-------------------------|-------|
+| STR       | 6D6+24      | 45            | 1-3       | Tail                    | 6/15  |
+| CON       | 4D6+18      | 32            | 4-8       | Hindbody                | 6/16  |
+| SIZ       | 6D6+24      | 45            | 9-13      | Forebody                | 6/17  |
+| INT       | 2           | 2             | 14        | Right Fin               | 6/10  |
+| POW       | 4D6         | 14            | 15        | Left Fin                | 6/10  |
+| DEX       | 2D6+3       | 10            | 16-20     | Head                    | 6/15  |
 
-
-         Dice          Average         1D20        Hit Location              AP/HP
-STR         6D6+24        45              1-3         Tail                      6/15
-CON         4D6+18        32              4-8         Hindbody                  6/16
-SIZ         6D6+24        45              9-13        Forebody                  6/17
-INT         2             2               14          Right Fin                 6/10
-POW         4D6           14              15          Left Fin                  6/10
-DEX         2D6+3         10              16-20       Head                      6/15
-
+```
 Combat Actions            2               Typical Armour: Hide. No Armour Penalty.
 Damage Modifier           +2D10
 Magic Points              14              Traits: None
 Movement                  16m
 Strike Rank               +7
+```
 
-Skills: Athletics 60%, Brawn 60%, Perception 75%, Persistence 43%, Resilience 95%, Swim
+**Skills**: Athletics 60%, Brawn 60%, Perception 75%, Persistence 43%, Resilience 95%, Swim
 100%
 
-Combat Styles
+##### Combat Styles
 Bite 70%
 
-Weapons
-Type               Size               Reach              Damage             AP/HP
-Bite               L                  T                  1D10+2D10          As for Head
+##### Weapons
+
+| Type             | Size             | Reach            | Damage           | AP/HP |
+|------------------|------------------|------------------|------------------|-------|
+| Bite             | L                | T                | 1D10+2D10        | As for Head |
 
 
 ## Tiger
@@ -4254,34 +4466,39 @@ surviving in conditions ranging from the tropical to the arctic.
 Tigers prefer to ambush their prey and are intelligent enough to avoid obviously dangerous
 quarry.
 
-Combat Notes
+##### Combat Notes
 As per Lion (see page 107).
 
-       Dice         Average           1D20         Hit Location           AP/HP
-STR         5D6+12       30                1-3          Right Hind Leg         2/9
-CON         3D6+3        14                4-6          Left Hind Leg          2/9
-SIZ         5D6+12       30                7-9          Hindquarters           2/10
-INT         5            5                 10-12        Forequarters           2/11
-POW         2D6+6        13                13-15        Right Front Leg        2/9
-DEX         3D6+6        17                16-18        Left Front Leg         2/9
-       -            -                 19-20        Head                   2/9
+|           | Dice       | Average         | 1D20       | Hit Location         | AP/HP |
+|-----------|------------|-----------------|------------|----------------------|-------|
+| STR       | 5D6+12     | 30              | 1-3        | Right Hind Leg       | 2/9   |
+| CON       | 3D6+3      | 14              | 4-6        | Left Hind Leg        | 2/9   |
+| SIZ       | 5D6+12     | 30              | 7-9        | Hindquarters         | 2/10  |
+| INT       | 5          | 5               | 10-12      | Forequarters         | 2/11  |
+| POW       | 2D6+6      | 13              | 13-15      | Right Front Leg      | 2/9   |
+| DEX       | 3D6+6      | 17              | 16-18      | Left Front Leg       | 2/9   |
+|           |            |                 | 19-20      | Head                 | 2/9   |
 
+```
 Combat Actions           3                 Typical Armour: Fur. No Armour Penalty.
 Damage Modifier          +1D12
 Magic Points             13                Traits: Night Sight
 Movement                 12m
 Strike Rank              +14
+```
 
-Skills: Athletics 70%, Evade 40%, Perception 60%, Persistence 49%, Resilience 52%, Stealth
+**Skills**: Athletics 70%, Evade 40%, Perception 60%, Persistence 49%, Resilience 52%, Stealth
 80%, Survival 40%
 
-Combat Styles
+##### Combat Styles
 Bite 55%, Claw 65%
 
-Weapons
-Type            Size             Reach           Damage          AP/HP           Range
-Bite            M                T               1D8+1D12        As for Head     -
-Claw            M                M               1D10+1D12       As for Leg      -
+##### Weapons
+
+| Type          | Size           | Reach         | Damage        | AP/HP         | Range |
+|---------------|----------------|---------------|---------------|---------------|-------|
+| Bite          | M              | T             | 1D8+1D12      | As for Head   | -     |
+| Claw          | M              | M             | 1D10+1D12     | As for Leg    | -     |
 
 
 ## Tiger, Sabre Tooth (Smilodon)
@@ -4290,33 +4507,37 @@ short distances, their favoured tactic is to ambush their prey from a high point
 back and stabbing down with their dreadful sabre-curved fangs. They are native to savannahs
 and bushlands, stalking rocky outcrops and grazing areas.
 
+|            | Dice          | Average          | 1D20       | Hit Location        | AP/HP |
+|------------|---------------|------------------|------------|---------------------|-------|
+| STR        | 6D6+10        | 31               | 1-3        | Right Hind Leg      | 3/10  |
+| CON        | 3D6+6         | 17               | 4-6        | Left Hind Leg       | 3/10  |
+| SIZ        | 4D6+15        | 29               | 7-9        | Hindquarters        | 3/11  |
+| INT        | 5             | 5                | 10-12      | Forequarters        | 3/12  |
+| POW        | 3D6           | 11               | 13-15      | Right Front Leg     | 3/10  |
+| DEX        | 3D6+3         | 14               | 16-18      | Left Front Leg      | 3/10  |
+|            |               |                  | 19-20      | Head                | 3/9   |
 
-          Dice            Average            1D20         Hit Location          AP/HP
-STR          6D6+10          31                 1-3          Right Hind Leg        3/10
-CON          3D6+6           17                 4-6          Left Hind Leg         3/10
-SIZ          4D6+15          29                 7-9          Hindquarters          3/11
-INT          5               5                  10-12        Forequarters          3/12
-POW          3D6             11                 13-15        Right Front Leg       3/10
-DEX          3D6+3           14                 16-18        Left Front Leg        3/10
-                                             19-20        Head                  3/9
-
+```
 Combat Actions               2                  Typical Armour: Fur. No Armour Penalty.
 Damage Modifier              +1D12
 Magic Points                 11                 Traits: Night Sight
 Movement                     10m
 Strike Rank                  +12
+```
 
-Skills: Athletics 75%, Evade 40%, Perception 60%, Persistence 43%, Resilience 67%, Stealth
+**Skills**: Athletics 75%, Evade 40%, Perception 60%, Persistence 43%, Resilience 67%, Stealth
 80%, Survival 60%, Track 60%
 
-Combat Styles
+##### Combat Styles
 Bite 55%, Claw 65%, Stab 75%
 
-Weapons
-Type             Size            Reach           Damage           AP/HP           Range
-Bite             M               T               1D8+1D12         As for Head     -
-Claw             M               M               1D10+1D12        As for Leg      -
-Stab             M               M               1D10+1D12        As for Head     -
+##### Weapons
+
+| Type           | Size          | Reach         | Damage         | AP/HP         | Range |
+|----------------|---------------|---------------|----------------|---------------|-------|
+| Bite           | M             | T             | 1D8+1D12       | As for Head   | -     |
+| Claw           | M             | M             | 1D10+1D12      | As for Leg    | -     |
+| Stab           | M             | M             | 1D10+1D12      | As for Head   | -     |
 
 
 ## Wolf
@@ -4331,34 +4552,38 @@ in while the enemy is off balance.
 Though wolves are hated by ranchers and farmers for their tendency to dine on livestock, they
 rarely attack humans.
 
-Combat Notes
+##### Combat Notes
 As per Dog (see page 102).
 
+|                | Dice      | Average          | 1D20       | Hit Location              | AP/HP |
+|----------------|-----------|------------------|------------|---------------------------|-------|
+| STR            | 3D6       | 11               | 1–2        | Right Hind Leg            | 2/5   |
+| CON            | 3D6+3     | 14               | 3–4        | Left Hind Leg             | 2/5   |
+| SIZ            | 2D6+3     | 10               | 5–7        | Hindquarters              | 2/6   |
+| INT            | 5         | 5                | 8–10       | Forequarters              | 2/7   |
+| POW            | 3D6       | 11               | 11–13      | Right Front Leg           | 2/5   |
+| DEX            | 3D6+3     | 14               | 14–16      | Left Front Leg            | 2/5   |
+|                |           |                  | 17–20      | Head                      | 2/5   |
 
-            Dice        Average            1D20         Hit Location                AP/HP
-STR              3D6         11                 1–2          Right Hind Leg              2/5
-CON              3D6+3       14                 3–4          Left Hind Leg               2/5
-SIZ              2D6+3       10                 5–7          Hindquarters                2/6
-INT              5           5                  8–10         Forequarters                2/7
-POW              3D6         11                 11–13        Right Front Leg             2/5
-DEX              3D6+3       14                 14–16        Left Front Leg              2/5
-                                           17–20        Head                        2/5
-
+```
 Combat Actions               2                  Typical Armour: Fur, Hide. No Armour Penalty.
 Damage Modifier              0
 Magic Points                 11                 Traits: Night Sight
 Movement                     10m
 Strike Rank                  +12
+```
 
-Skills: Athletics 80%, Evade 55%, Perception 60%, Persistence 43%, Resilience 52%, Stealth
+**Skills**: Athletics 80%, Evade 55%, Perception 60%, Persistence 43%, Resilience 52%, Stealth
 55%, Survival 40%, Tracking 60%
 
-Combat Styles
+##### Combat Styles
 Bite 60%, Claw 30%
 
-Weapons
-Type             Size              Reach           Damage           AP/HP            Range
-Bite             M                 T               1D8              As for Head      -
-Claw             M                 M               1D3              As for Leg       -
+##### Weapons
+
+| Type           | Size            | Reach         | Damage         | AP/HP          | Range |
+|----------------|-----------------|---------------|----------------|----------------|-------|
+| Bite           | M               | T             | 1D8            | As for Head    | -     |
+| Claw           | M               | M             | 1D3            | As for Leg     | -     |
 
 
