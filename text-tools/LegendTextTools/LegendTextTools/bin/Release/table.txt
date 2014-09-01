@@ -1,5 +1,0 @@
-| Type         | Size         | Reach         | Damage         | AP/HP                | Range |
-|--------------|--------------|---------------|----------------|----------------------|-------|
-| Bite         | L            | L             | 1D8+1D8        | As for Head          | -     |
-| Kick         | L            | VL            | 1D6+1D8        | As for Leg           | -     |
-| Foreclaw     | M            | M             | 1D4+1D8        | As for Foreclaw      | -     |
