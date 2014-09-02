@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace LegendTextTools
 {
@@ -9,11 +10,30 @@ namespace LegendTextTools
 
 		#region MakeTable
 
-		public static List<string> MakeTable (string text, bool isFilePath = false)
+		/// <summary>
+		/// Makes the table from various plain-text sources.
+		/// </summary>
+		/// <returns>The table.</returns>
+		/// <param name="text">The string to create a table from, or a file path to the string.</param>
+		/// <param name="isFilePath">If set to <c>true</c> then 'text' is file path.</param>
+		/// <param name="hasMultipleRowsPerCell">If set to <c>true</c> then the plain-text table has multiple rows per cell.</param>
+		public static List<string> MakeTable (string text, 
+		                                      bool isFilePath = false, 
+		                                      bool hasMultipleRowsPerCell = false)
 		{
-			if (isFilePath && File.Exists (text)) 
+			if (isFilePath && File.Exists (text) && hasMultipleRowsPerCell) 
+			{
+				return MakeTable (new List<string> (File.ReadAllLines (text)), 
+				                                    hasMultipleRowsPerCell: true);
+			}
+			else if (isFilePath && File.Exists (text))
 			{
 				return MakeTable (new List<string> (File.ReadAllLines (text)));
+			}
+			else if (hasMultipleRowsPerCell)
+			{
+				return MakeTable (new List<string> (text.Split ('\n')), 
+				                  hasMultipleRowsPerCell: true);
 			}
 			else 
 			{
@@ -22,58 +42,186 @@ namespace LegendTextTools
 		}
 
 
-		public static List<string> MakeTable (List<string> lines)
+		public static List<string> MakeTable (List<string> lines, 
+		                                      bool hasMultipleRowsPerCell = false)
 		{
-			// Insert pipe chars at these indices
-			List<int> pipeIndices = new List<int> () {0};
-
 			// The returned table text
 			List<string> table = new List<string> ();
 
-			// Find the pipe indices using the heading line as a guide
-			char[] head = lines [0].ToCharArray ();
-
-			bool foundTwoSpaces = false;
-			for (int i = 1; i < head.Length; i++)
+			// plain text must have a blank line between all rows, 
+			// including the table header. 
+			// The last line must also be blank.
+			if (hasMultipleRowsPerCell)
 			{
-				if (!foundTwoSpaces && head [i] == ' ' && head [i - 1] == ' ') 
+				// Blank lines deliminate the table rows.
+				// Find the first blank line - all lines above it are table header lines.
+				int headLength = 0;
+
+				foreach (string line in lines)
 				{
-					foundTwoSpaces = true;
+					if (String.IsNullOrWhiteSpace (line))
+					{
+						break;
+					}
+					headLength++;
 				}
-					
-				if (foundTwoSpaces == true && head [i] != ' ') 
+
+				// Loop through the head lines and find where each column starts
+				// (First column starts at index 0)
+				List<int> columnIndices = new List<int> () {0};
+
+				for (int i = 0; i < headLength; i++)
 				{
-					pipeIndices.Add (i);
-					foundTwoSpaces = false;
+					char[] head = lines [i].ToCharArray ();
+
+					bool foundTwoSpaces = false;
+					for (int j = 1; j < head.Length; j++)
+					{
+						if (!foundTwoSpaces && head [j] == ' ' && head [j - 1] == ' ') 
+						{
+							foundTwoSpaces = true;
+						}
+
+						if (foundTwoSpaces == true && head [j] != ' ') 
+						{
+							columnIndices.Add (j);
+							foundTwoSpaces = false;
+						}
+					}
+				}
+
+				// Remove duplicates from pipeIndices list
+				columnIndices = columnIndices.Distinct ().ToList ();
+
+				// cellData will store the information in the cell, 
+				// regardless of how many lines (of plain text) it spans
+				List<string> cellData = new List<string> (columnIndices.Count);
+
+				for (int i = 0; i < columnIndices.Count; i++)
+				{
+					cellData.Add ("");
+				}
+
+				// Loop through the whole table
+				foreach (string line in lines)
+				{
+					// Strip some text from each line, 
+					// and save it until we reach a blank line.
+					for (int i = 0; 
+					     i <= columnIndices.Count - 1 && columnIndices[i] < line.Length; 
+					     i++)
+					{
+						int columnLength;
+
+						// The last column (for a line containing all indices)
+						if (i == columnIndices.Count - 1)
+						{
+							columnLength = (line.Length - columnIndices [i]);
+						}
+						else
+						{
+							columnLength = (columnIndices [i + 1] - columnIndices [i]);
+
+							// The last column (for a shorter line)
+							if (columnIndices [i] + columnLength > line.Length)
+							{
+								columnLength = (line.Length - columnIndices [i]);
+							}
+						}
+
+						string data = line.Substring (columnIndices [i], columnLength);
+
+						if (String.IsNullOrWhiteSpace (data))
+						{
+							continue;
+						}
+						else
+						{
+							cellData [i] += data.Trim () + " ";
+						}
+					}
+
+					// Blank lines deliminate rows
+					if (String.IsNullOrWhiteSpace (line))
+					{
+						// Check if all cellData is whitespace
+						int whitespaceCount = 0;
+						foreach (string s in cellData)
+						{
+							if (String.IsNullOrWhiteSpace (s)) 
+							{
+								whitespaceCount++;
+							}
+						}
+						if (whitespaceCount == cellData.Count)
+						{
+							continue;
+						}
+
+						string columnData = "| ";
+
+						// Add the current cell data to the table
+						// then clear the data
+						for (int i = 0; i < cellData.Count; i++)
+						{
+							columnData += cellData [i] + "| ";
+							cellData [i] = "";
+						}
+
+						table.Add (columnData.Trim ());
+					}
 				}
 			}
 
-			// Use the length of the first line for padding
-			int padding = lines [0].Length;
-
-			// Add pipes to each line
-			foreach (string line in lines)
+			else 
 			{
-				if (String.IsNullOrEmpty(line))
-					continue;
+				// Insert pipe chars at these indices
+				List<int> pipeIndices = new List<int> () {0};
 
-				char[] output = ("| " + line.TrimEnd ().PadRight (padding) + " |").ToCharArray ();
+				// Find the pipe indices using the heading line as a guide
+				char[] head = lines [0].ToCharArray ();
 
-				foreach (int i in pipeIndices) 
-					output [i] = '|';
+				bool foundTwoSpaces = false;
+				for (int i = 1; i < head.Length; i++)
+				{
+					if (!foundTwoSpaces && head [i] == ' ' && head [i - 1] == ' ') 
+					{
+						foundTwoSpaces = true;
+					}
 
-				table.Add (new string (output));
+					if (foundTwoSpaces == true && head [i] != ' ') 
+					{
+						pipeIndices.Add (i);
+						foundTwoSpaces = false;
+					}
+				}
+
+				// Use the length of the first line for padding
+				int padding = lines [0].Length;
+
+				// Add pipes to each line
+				foreach (string line in lines)
+				{
+					if (String.IsNullOrWhiteSpace (line))
+						continue;
+
+					char[] output = ("| " + line.TrimEnd ().PadRight (padding) + " |").ToCharArray ();
+
+					foreach (int i in pipeIndices) 
+						output [i] = '|';
+
+					table.Add (new string (output));
+				}
 			}
 
 			// Add "|--------------|" under the first line
-			char[] underline = table [0].ToCharArray ();
+			char [] underline = table [0].ToCharArray ();
 
 			for (int i = 0; i < underline.Length; i++) 
 				if (underline [i] != '|')
 					underline [i] = '-';
 
 			table.Insert (1, new string (underline));
-
 
 			return table;
 		}
