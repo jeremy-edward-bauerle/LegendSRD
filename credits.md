@@ -72,7 +72,8 @@ Original Authors: Gareth Hanrahan
 Developer: Bryan Steele  
 Editor: Charlotte Law  
 Layout & Graphic Design: Will Chapman  
-Interior Illustrations: Ryan Horvath, Javier Charro Martinez, Pascal Quidault, Phil Renne & Chad Sergesketter
+Interior Illustrations: Ryan Horvath, Javier Charro Martinez, Pascal Quidault, Phil Renne & Chad Sergesketter  
+Special Thanks: Sean Demory, Andrew Aulenbach, Wanda White, Ian Sturrock
 
 ## Gladiators of Legend
 
