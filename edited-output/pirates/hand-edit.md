@@ -90,275 +90,38 @@ many became pirates to escape some tragedy in their backgrounds.
 
 ##### Professions
 
-              Cultural     Basic Skill
-Profession    Background   Bonuses             Advanced Skills             Magic
-
-Apothecary    Civilised    Evaluate +10%,      Lore (Chemistry), Healing   -
-                           First Aid +10%,
-                           Lore (Plant)
-                           +10%
-
-Blacksmith    Barbarian,   Evaluate +5%,       Craft (blacksmith), Lore    -
-              Civilised    Resilience +5%      (mineral)
-                                               Pick One
-                                               Engineering, Mechanisms,
-                                               Handiwork, Craft
-                                               (Armourer), Craft
-                                               (Weaponsmith),
-                                               Craft (Gunsmith)
-
-Buccaneer     Barbarian,   Sing +5%, Stealth   Boating, Survival, Track    -
-              Civilised,   +5%
-              Mariner                          Pick One
-                           Pick One            Language (any),
-                           Combat Style        Lore (any)
-                           appropriate to      Shiphandling
-                           your culture at a
-                           +10% bonus
-
-Cabin Boy     Peasant,     Evade +5%,          Boating, Shiphandling       -
-              Civilised    Perception +5%,
-                           Stealth +10%        Pick Two
-                                               Disguise
-                                               Language (any)
-                                               Lore (any)
-                                               Play Instrument
-                                               Streetwise
-                                               Survival
-
-Cannoneer     Mariner      First Aid +5%,      Gunnery                     -
-              Civilised    Perception +10%,    Engineering
-                           Resilience +5%,
-                           Pick Two            Pick Two
-                           Combat Styles       Craft (Chemistry)
-                           appropriate to      Craft (Blacksmithing),
-                           your culture at a   Healing,
-                           +10% bonus          Mechanisms,
-                                               Shiphandling,
-                                               Handiwork
-
-Clerk         Civilised    Courtesy +5%        Language (any)              -
-                           Evaluate +10%,      Lore (any) +10%
-                           Influence +10%,
-                           Lore (World)        Pick Two
-                           +10%, Persistence   Courtesy
-                           +5%                 Lore (any)
-                                               Language (any)
-                                               Streetwise
-
-Craftsman     Barbarian,   Evaluate +10%,      Craft (any) +10%            -
-              Civilised    Influence +5%,
-                           Persistence +5%     Pick One
-                                               Craft (other),
-                                               Engineering,
-                                               Mechanisms,
-                                               Handiwork
-
-Diplomat      Civilised,   Influence +20%,     Courtesy                    -
-                           Lore (World)
-                           +10%, Perception    Pick One
-                           +10%                Dance, Language, Lore,
-                                               Play Instrument
-
-Doctor        Civilised,   Evaluate +5%,       Courtesy, Healing           -
-                           First Aid +20%,
-                           Lore (Plant)
-                           +10%, Perception
-                           +5%
-
-Entertainer   Barbarian,   Influence +10%,     Pick Two                    -
-              Civilised,   Perception +5%      Courtesy,
-              Noble        Sing +5%            Dance,
-                           Stealth +5%         Disguise
-                                               Mechanisms,
-                           Pick Two            Play Instrument,
-                           Acrobatics +10%,    Streetwise
-                           Evade +5%, Lore
-                           (World) +10%,
-                           Sing +10%,
-                           Sleight +10%,
-                           Stealth +10%,
-
-Explorer      Barbarian,   Lore (world)        Pick Two                    -
-              Civilised,   +20%, Perception    Handiwork,
-              Nomad,       +5%, Resilience     Language, Lore
-              Mariner      +5%,                (Astronomy), Lore
-                                               (Geography), Lore
-                           Pick One            (Navigation), Shiphandling,
-                           Combat Style        Survival
-                           appropriate to
-                           your culture at a
-                           +10% bonus
-
-Farmer        Barbarian,   Athletics +5%,                                  -
-              Nomad,       Driving +5%,
-              Primitive    Lore (Animal)
-                           +15%, Lore
-                           (Plant) +15%,
-                           Resilience +10%
-
-Fisherman     Barbarian,   Lore (animal)       Boating, Shiphandling,      -
-              Nomad,       +5%, Resilience     Handiwork
-              Primitive    +10%,
-
-Gentry        Civilised    Influence +10%,     Courtesy +10%               -
-                           Lore (World)
-                           +10%, Ride          Pick Two
-                           +10%                Craft,
-                                               Dance, Language, Lore,
-                           Pick Two            Play Instrument
-                           Drive +5%,
-                           Perception +5%,
-                           Sing +5%,
-                           Sleight +5%
-                           Pick Two
-                           Combat Style
-                           appropriate to
-                           your culture at a
-                           +10% bonus
-
-Herdsman      Barbarian,   First Aid +5%       Cooking, Survival           -
-              Nomad,       Lore (Animal)
-              Primitive    +20%
-                           Resilience +5%
-                           Longarms +10%
-
-Mercenary     Barbarian    Lore (World) +10%                               -
-              Nomad        
-              Civilised    Pick Three 
-                           Combat Style
-                           appropriate to
-                           your culture at a
-                           +10% bonus
-                           Pick Two
-                           Evade +5%
-                           Drive +5%
-                           Evaluate +5%
-                           Resilience +5%
-                           Ride +5%
-
-Merchant      Civilised    Evaluate +20%       Courtesy                    -
-                           Influence +10%
-                           Lore (World) +10%   Pick One
-                                               Language
-                                               Lore (Logistics)
-                                               Shiphandling
-                                               Handiwork
-
-Militiaman    Civilised    Evade +5%                                       -
-                           Resilience +5%
-                           Pick Two
-                           Combat Style
-                           appropriate to
-                           your culture at a
-                           +10% bonus
-
-Miner         Civilised    1H Axe +10%         Lore (Mineral)              -
-                           2H Axe +10%
-                           Athletics +10%
-                           Resilience +10%
-
-Missionary    Civilised    First Aid +5%,      Lore (Theology)             -
-                           Influence +10%,     Survival
-                           Lore (World)
-                           +10%,
-                           Persistence +5%
-                           Pick Two
-                           Boating +10%,
-                           Drive +10%,
-                           Perception +10%,
-                           Ride +10%,
-                           Sing +10%
-
-Naval         Civilised,   Athletics +10%,     Gunnery                     -
-Officer       Mariner      Boating +10%        Shiphandling
-                           Evade +5%,
-                           First Aid +5%,      Pick One
-                           Influence +10%,     Courtesy,
-                           Perception +10%,    Engineering
-                           Resilience +10%,    Handiwork,
-                           Longarms +10%       Lore (Navigation),
-                                               Handiwork
-                           Pick One
-                           Combat Style
-                           appropriate to
-                           your culture at a
-                           +10% bonus
-
-Pirate        Barbarian,   Acrobatics +5%,     Pick Two                    -
-              Civilised,   Boating +10%,       Gunnery,
-              Mariner      Evaluate +10%,      Disguise,
-                           Lore (World) +5%,   Shiphandling,
-                                               Streetwise, Track,
-                                               Handiwork
-                           Pick One
-                           Sleight +10%,
-                           Stealth +10%,
-                           Pick Two
-                           Combat Style
-                           appropriate to
-                           your culture at a
-                           +10% bonus
-
-Priest       Civilised     Influence +20%,     Courtesy                    -
-                           Lore (world)        Lore (Theology)
-                           +10%, Persistence   Language (Latin)
-                           +5%, Sing +10%
-                                               Pick Two
-                                               Lore (any),
-                                               Language (any),
-                                               Play Instrument, Streetwise
-
-Sailor       Civilised,    Acrobatics +10%     Shiphandling,               -
-             Mariner       Lore (World) +5%    Boating
-                           Resilience +5%
-
-Sailmaker    Civilised,    Evaluate +10%,      Craft (Sailmaking)          -
-             Mariner       Influence +5%,      Shiphandling
-                           Persistence +5%     Boating
-
-Shipwright   Civilised,    Evaluate +10%,      Craft (Shipwright)          -
-             Mariner       Lore (World) +5%,   Boating,
-                           Perception +5%      Shiphandling
-                                               Pick Two
-                                               Gunnery,
-                                               Engineering,
-                                               Mechanisms
-
-Slave        Barbarian,    Resilience +10%,    Pick Two                    -
-             Nomad,                            Craft (any),
-             Primitive                         Streetwise,
-                                               Survival,
-                                               Track
-
-Soldier      Barbarian,    Evade +5%           Pick One                    -
-             Civilised,    Lore (World) +5%    Gunnery,
-             Nomad                             Courtesy,
-                           Resilience +5%      Lore (military tactics),
-                           Unarmed +5%         Survival
-                           Drive +10%
-                           Ride +10%
-                           Pick Three
-                           Combat Styles
-                           appropriate to
-                           your culture at a
-                           +10% bonus
-
-Thief        Barbarian,    Acrobatics +5%      Pick One                    -
-             Civilised     Evaluate +5%        Disguise
-                           Perception +10%     Mechanisms
-                           Sleight +10%        Streetwise
-                           Stealth +10%
-
-Trader       Civilised,    Evaluate +10%,      Pick One                    -
-             Mariner       Influence +10%      Cooking,
-                           Lore (World) +5%    Craft (Chemistry),
-                                               Healing,
-                           Pick Two            Mechanisms,
-                           Drive +10%,         Streetwise
-                           Ride +10%,          Boating
-                           Sleight +10%
-
+| Profession | Cultural Background | Basic Skill Bonuses | Advanced Skills | Magic |
+|------------|---------------------|---------------------|-----------------|-------|
+| Apothecary | Civilised | Evaluate +10%, First Aid +10%, Lore (Plant) +10% | Lore (Chemistry), Healing | - |
+| Blacksmith | Barbarian, Civilised | Evaluate +5%, Resilience +5% | Craft (blacksmith), Lore (mineral) Pick One Engineering, Mechanisms, Handiwork, Craft (Armourer), Craft (Weaponsmith), Craft (Gunsmith) | - |
+| Buccaneer | Barbarian, Civilised, Mariner | Sing +5%, Stealth +5% Pick One Combat Style appropriate to your culture at a +10% bonus | Boating, Survival, Track Pick One Language (any), Lore (any) Shiphandling | - |
+| Cabin Boy | Peasant, Civilised | Evade +5%, Perception +5%, Stealth +10% | Boating, Shiphandling Pick Two Disguise Language (any) Lore (any) Play Instrument Streetwise Survival | - |
+| Cannoneer | Mariner Civilised | First Aid +5%, Perception +10%, Resilience +5%, Pick Two Combat Styles appropriate to your culture at a +10% bonus | Gunnery Engineering Pick Two Craft (Chemistry) Craft (Blacksmithing), Healing, Mechanisms, Shiphandling, Handiwork | - |
+| Clerk | Civilised | Courtesy +5% Evaluate +10%, Influence +10%, Lore (World) +10%, Persistence +5% | Language (any) Lore (any) +10% Pick Two Courtesy Lore (any) Language (any) Streetwise | - |
+| Craftsman | Barbarian, Civilised | Evaluate +10%, Influence +5%, Persistence +5% | Craft (any) +10% Pick One Craft (other), Engineering, Mechanisms, Handiwork | - |
+| Diplomat | Civilised, | Influence +20%, Lore (World) +10%, Perception +10% | Courtesy Pick One Dance, Language, Lore, Play Instrument | - |
+| Doctor | Civilised, | Evaluate +5%, First Aid +20%, Lore (Plant) +10%, Perception +5% | Courtesy, Healing | - |
+| Entertainer | Barbarian, Civilised, Noble | Influence +10%, Perception +5% Sing +5% Stealth +5% Pick Two Acrobatics +10%, Evade +5%, Lore (World) +10%, Sing +10%, Sleight +10%, Stealth +10%, | Pick Two Courtesy, Dance, Disguise Mechanisms, Play Instrument, Streetwise | - |
+| Explorer | Barbarian, Civilised, Nomad, Mariner | Lore (world) +20%, Perception +5%, Resilience +5%, Pick One Combat Style appropriate to your culture at a +10% bonus | Pick Two Handiwork, Language, Lore (Astronomy), Lore (Geography), Lore (Navigation), Shiphandling, Survival | - |
+| Farmer | Barbarian, Nomad, Primitive | Athletics +5%, Driving +5%, Lore (Animal) +15%, Lore (Plant) +15%, Resilience +10% | | - |
+| Fisherman | Barbarian, Nomad, Primitive | Lore (animal) +5%, Resilience +10%, | Boating, Shiphandling, Handiwork | - |
+| Gentry | Civilised | Influence +10%, Lore (World) +10%, Ride +10% Pick Two Drive +5%, Perception +5%, Sing +5%, Sleight +5% Pick Two Combat Style appropriate to your culture at a +10% bonus | Courtesy +10% Pick Two Craft, Dance, Language, Lore, Play Instrument | - |
+| Herdsman | Barbarian, Nomad, Primitive | First Aid +5% Lore (Animal) +20% Resilience +5% Longarms +10% | Cooking, Survival | - |
+| Mercenary | Barbarian Nomad Civilised | Lore (World) +10% Pick Three Combat Style appropriate to your culture at a +10% bonus Pick Two Evade +5% Drive +5% Evaluate +5% Resilience +5% Ride +5% | | - |
+| Merchant | Civilised | Evaluate +20% Influence +10% Lore (World) +10% | Courtesy Pick One Language Lore (Logistics) Shiphandling Handiwork | - |
+| Militiaman | Civilised | Evade +5% Resilience +5% Pick Two Combat Style appropriate to your culture at a +10% bonus | | - |
+| Miner | Civilised | 1H Axe +10% 2H Axe +10% Athletics +10% Resilience +10% | Lore (Mineral) | - |
+| Missionary | Civilised | First Aid +5%, Influence +10%, Lore (World) +10%, Persistence +5% Pick Two Boating +10%, Drive +10%, Perception +10%, Ride +10%, Sing +10% | Lore (Theology) Survival | - |
+| Naval Officer | Civilised, Mariner | Athletics +10%, Boating +10% Evade +5%, First Aid +5%, Influence +10%, Perception +10%, Resilience +10%, Longarms +10% Pick One Combat Style appropriate to your culture at a +10% bonus | Gunnery Shiphandling Pick One Courtesy, Engineering Handiwork, Lore (Navigation), Handiwork | - |
+| Pirate | Barbarian, Civilised, Mariner | Acrobatics +5%, Boating +10%, Evaluate +10%, Lore (World) +5%, Pick One Sleight +10%, Stealth +10%, Pick Two Combat Style appropriate to your culture at a +10% bonus | Pick Two Gunnery, Disguise, Shiphandling, Streetwise, Track, Handiwork | - |
+| Priest       C | ivilised | Influence +20%, Lore (world) +10%, Persistence +5%, Sing +10% | Courtesy Lore (Theology) Language (Latin) Pick Two Lore (any), Language (any), Play Instrument, Streetwise | - |
+| Sailor       C M | ivilised, ariner | Acrobatics +10% Lore (World) +5% Resilience +5% | Shiphandling, Boating | - |
+| Sailmaker    C M | ivilised, ariner | Evaluate +10%, Influence +5%, Persistence +5% | Craft (Sailmaking) Shiphandling Boating | - |
+| Shipwright   C M | ivilised, ariner | Evaluate +10%, Lore (World) +5%, Perception +5% | Craft (Shipwright) Boating, Shiphandling Pick Two Gunnery, Engineering, Mechanisms | - |
+| Slave        B N P | arbarian, omad, rimitive | Resilience +10%, | Pick Two Craft (any), Streetwise, Survival, Track | - |
+| Soldier      B C N | arbarian, ivilised, omad | Evade +5% Lore (World) +5% Resilience +5% Unarmed +5% Drive +10% Ride +10% Pick Three Combat Styles appropriate to your culture at a +10% bonus | Pick One Gunnery, Courtesy, Lore (military tactics), Survival | - |
+| Thief        B C | arbarian, ivilised | Acrobatics +5% Evaluate +5% Perception +10% Sleight +10% Stealth +10% | Pick One Disguise Mechanisms Streetwise | - |
+| Trader       C M | ivilised, ariner | Evaluate +10%, Influence +10% Lore (World) +5% Pick Two Drive +10%, Ride +10%, Sleight +10% | Pick One Cooking, Craft (Chemistry), Healing, Mechanisms, Streetwise Boating | - |
 
 A few of these professions deserve extra descriptions. The word 'Buccaneer' has become
 synonymous with 'pirate' but it originally referred to outcasts and runaways who fled to the
@@ -439,105 +202,105 @@ strange possessions that may or may not come in useful.
 
 ##### Starting Equipment
 
-Roll 1D100              Item
-01                      Mongrel dog
-02                      A pet albino rat
-03                      A rather foul-mouthed parrot
-04                      Lucky rabbit's foot
-05                      Dozen mummified chicken legs
-06                      Alligator tooth necklace
-07                      Silver cat's skull
-08                      Flea-bitten pet cat
-09                      Fine drinking horn
-10                      Horse
-11                      Rusted key
-12                      Empty rum bottle
-13                      2D6 debased silver coins (worthless)
-14                      Broken spyglass
-15                      Broken compass
-16                      Rusted and broken manacles
-17                      Cracked glass eye
-18                      One left shoe
-19                      Absurdly overlarge pantaloons
-20                      Belaying pin, ornately scrimshawed
-21                      Sailmaker's knife
-22                      Deck of cards
-23                      Deck of cards, marked
-24                      Dice
-25                      Dice, loaded
-26                      Dice, human bone
-27                      Serrated knife
-28                      Gilt powder horn
-29                      Monocle
-30                      Bedraggled gentleman's wig
-31                      False beard
-32                      Gypsy headscarf
-33                      Very fine hat, indeed
-34                      Black leather boots with bright brass buckles
-35                      Flamboyant coat
-36                      Very fine belt
-37                      Signet ring
-38                      Knuckledusters
-39                      Pocket mirror
-40                      Eye patch
-41                      Promissory note for 2D6 doubloons, owed to you by a pirate
-42                      Dead man's skull
-43                      Tobacco pipe
-44                      Compass, unreliable
-45                      Sea chart, unreliable
-46                      Fine clothes
-47                      Women's dress, fine
-48                      Piece of the True Cross (alleged)
-49                      Feather from an angel's wing (alleged)
-50                      Voudun drogue (talisman)
-51                      Family bible
-52                      Book of psalms
-53                      Ancient obsidian sacrificial knife
-54                      Potent incense, 1D6 sticks
-55                      Bottle of holy water
-56                      Bottle of patent cure-all
-57                      Blunderbuss, rusted and broken
-58                      Musket, rusted and broken
-59                      Working musket
-60                      Working blunderbuss
-61                      Pistol, filthy and rusted
-62                      Pistol, working
-63                      Pistol, exquisite (+5% to hit)
-64                      Dirk
-65                      Cutlass, rusted
-66                      Cutlass
-67                      Vial of poison
-68                      Rapier
-69                      Breastplate
-70                      Duellist's half-cape
-71                      Aztec gold coin
-72                      Painted miniature
-73                      Book, scientific treatise
-74                      Book, medical textbook
-75                      Book, poetry
-76                      Book, ship's log
-77                      Book, accounts
-78                      Book, diary, boring
-79                      Book, diary, madman's
-80                      Book, diary, scandalous
-81                      Wedding ring
-82                      Finger bones in a bag
-83                      Puppet, marionette
-84                      Handkerchief, embroidered
-85                      Rolled-up painting
-86                      Tin whistle
-87                      Bone flute
-88                      Mandolin
-89                      Message in a bottle
-90                      Jewelled crucifix, heirloom of the family
-91                      Deed to a plantation in the Caribbean
-92                      Last Will and Testament
-93                      Fragment of strange crystal
-94                      Map to buried treasure
-95                      The Black Spot
-96-99                   Roll again twice
-00                      Roll again three times
-
+| Roll 1D100            | Item |
+|-----------------------|------|
+| 01                    | Mongrel dog |
+| 02                    | A pet albino rat |
+| 03                    | A rather foul-mouthed parrot |
+| 04                    | Lucky rabbit's foot |
+| 05                    | Dozen mummified chicken legs |
+| 06                    | Alligator tooth necklace |
+| 07                    | Silver cat's skull |
+| 08                    | Flea-bitten pet cat |
+| 09                    | Fine drinking horn |
+| 10                    | Horse |
+| 11                    | Rusted key |
+| 12                    | Empty rum bottle |
+| 13                    | 2D6 debased silver coins (worthless) |
+| 14                    | Broken spyglass |
+| 15                    | Broken compass |
+| 16                    | Rusted and broken manacles |
+| 17                    | Cracked glass eye |
+| 18                    | One left shoe |
+| 19                    | Absurdly overlarge pantaloons |
+| 20                    | Belaying pin, ornately scrimshawed |
+| 21                    | Sailmaker's knife |
+| 22                    | Deck of cards |
+| 23                    | Deck of cards, marked |
+| 24                    | Dice |
+| 25                    | Dice, loaded |
+| 26                    | Dice, human bone |
+| 27                    | Serrated knife |
+| 28                    | Gilt powder horn |
+| 29                    | Monocle |
+| 30                    | Bedraggled gentleman's wig |
+| 31                    | False beard |
+| 32                    | Gypsy headscarf |
+| 33                    | Very fine hat, indeed |
+| 34                    | Black leather boots with bright brass buckles |
+| 35                    | Flamboyant coat |
+| 36                    | Very fine belt |
+| 37                    | Signet ring |
+| 38                    | Knuckledusters |
+| 39                    | Pocket mirror |
+| 40                    | Eye patch |
+| 41                    | Promissory note for 2D6 doubloons, owed to you by a pirate |
+| 42                    | Dead man's skull |
+| 43                    | Tobacco pipe |
+| 44                    | Compass, unreliable |
+| 45                    | Sea chart, unreliable |
+| 46                    | Fine clothes |
+| 47                    | Women's dress, fine |
+| 48                    | Piece of the True Cross (alleged) |
+| 49                    | Feather from an angel's wing (alleged) |
+| 50                    | Voudun drogue (talisman) |
+| 51                    | Family bible |
+| 52                    | Book of psalms |
+| 53                    | Ancient obsidian sacrificial knife |
+| 54                    | Potent incense, 1D6 sticks |
+| 55                    | Bottle of holy water |
+| 56                    | Bottle of patent cure-all |
+| 57                    | Blunderbuss, rusted and broken |
+| 58                    | Musket, rusted and broken |
+| 59                    | Working musket |
+| 60                    | Working blunderbuss |
+| 61                    | Pistol, filthy and rusted |
+| 62                    | Pistol, working |
+| 63                    | Pistol, exquisite (+5% to hit) |
+| 64                    | Dirk |
+| 65                    | Cutlass, rusted |
+| 66                    | Cutlass |
+| 67                    | Vial of poison |
+| 68                    | Rapier |
+| 69                    | Breastplate |
+| 70                    | Duellist's half-cape |
+| 71                    | Aztec gold coin |
+| 72                    | Painted miniature |
+| 73                    | Book, scientific treatise |
+| 74                    | Book, medical textbook |
+| 75                    | Book, poetry |
+| 76                    | Book, ship's log |
+| 77                    | Book, accounts |
+| 78                    | Book, diary, boring |
+| 79                    | Book, diary, madman's |
+| 80                    | Book, diary, scandalous |
+| 81                    | Wedding ring |
+| 82                    | Finger bones in a bag |
+| 83                    | Puppet, marionette |
+| 84                    | Handkerchief, embroidered |
+| 85                    | Rolled-up painting |
+| 86                    | Tin whistle |
+| 87                    | Bone flute |
+| 88                    | Mandolin |
+| 89                    | Message in a bottle |
+| 90                    | Jewelled crucifix, heirloom of the family |
+| 91                    | Deed to a plantation in the Caribbean |
+| 92                    | Last Will and Testament |
+| 93                    | Fragment of strange crystal |
+| 94                    | Map to buried treasure |
+| 95                    | The Black Spot |
+| 96-99                 | Roll again twice |
+| 00                    | Roll again three times |
 
 # Reputation, Legendary Abilities and Vices
 
@@ -548,58 +311,35 @@ functions in the same way as described in the Legend Core Rulebook.
 
 ##### Starting Reputation
 
-Circumstance                                                        Reputation Modifier
-CHA 12+                                                             +1
-CHA 15+                                                             +2
-CHA 18+                                                             +3
-Per other Characteristic over 15                                    +1
-Per each skill over 70% from the following list:                    +1
-Rapier, 1H Sword, Longarms, Firearms, Shiphandling, Acrobatics,
-Artillery, Influence, Lore (navigation), Perception
-
+| Circumstance | Reputation Modifier |
+|--------------|---------------------|
+| CHA 12+ | +1 |
+| CHA 15+ | +2 |
+| CHA 18+ | +3 |
+| Per other Characteristic over 15 | +1 |
+| Per each skill over 70% from the following list: Rapier, 1H Sword, Longarms, Firearms, Shiphandling, Acrobatics, Artillery, Influence, Lore (navigation), Perception | +1 |
 
 ##### Reputation Increases
 
-Circumstance                                                       Reputation Modifier *
-
-Adventurer defeated/was defeated by minor enemy (rival pirate,     +2/-10
-merchant ship)
-
-Adventurer defeated/was defeated by major enemy (rival pirate,     +5/-5
-pirate hunter)
-
-Adventurer defeated/was defeated by deadly enemy                   +10/-2
-(rival pirate, Royal Navy)
-
-Become the captain of a ship                                       +4
-
-Become admiral                                                     +10
-
-Return from far East                                               +4
-
-Become governor of a small town                                    +2
-
-Become governor of a large town                                    +4
-
-Received a title                                                   +4
-
-Capturing a powerful ship                                          +4
-
-Per 2,000 silver captured                                          +1
-
-Other impressive victory                                           +2
-
-Notorious indulgence of a Vice                                     +2
-
-When any of the following skills reaches 100%:                     +1
-Rapier, 1H Sword, Longarms, Firearms, Shiphandling,
-Acrobatics, Artillery, Influence, Lore (navigation), Perception
-
-Defeating a foe of lesser Reputation in single combat              1/10th foe's Reputation
-
-Defeating a foe of greater Reputation in single combat             1/5th foe's Reputation
-
-Acts of infamous brutality, cunning, devilry or showmanship        +1 to +6
+| Circumstance | Reputation Modifier * |
+|--------------|-----------------------|
+| Adventurer defeated/was defeated by minor enemy (rival pirate, merchant ship) | +2/-10 |
+| Adventurer defeated/was defeated by major enemy (rival pirate, pirate hunter) | +5/-5 |
+| Adventurer defeated/was defeated by deadly enemy (rival pirate, Royal Navy) | +10/-2 |
+| Become the captain of a ship | +4 |
+| Become admiral | +10 |
+| Return from far East | +4 |
+| Become governor of a small town | +2 |
+| Become governor of a large town | +4 |
+| Received a title | +4 |
+| Capturing a powerful ship | +4 |
+| Per 2,000 silver captured | +1 |
+| Other impressive victory | +2 |
+| Notorious indulgence of a Vice | +2 |
+| When any of the following skills reaches 100%: Rapier, 1H Sword, Longarms, Firearms, Shiphandling, Acrobatics, Artillery, Influence, Lore (navigation), Perception | +1 |
+| Defeating a foe of lesser Reputation in single combat | 1/10th foe's Reputation |
+| Defeating a foe of greater Reputation in single combat | 1/5th foe's Reputation |
+| Acts of infamous brutality, cunning, devilry or showmanship | +1 to +6 |
 
 *Most of these modifiers are cumulative. If an Adventurer is both a Master-level Adventurer and
 has recently defeated a grave nearby threat, he is entitled to both bonuses. However, he does not
@@ -621,16 +361,17 @@ the nature of his Reputation and who he is dealing with.
 
 ##### Reputation Effects
 
-Reputation          Modifier to Influence Tests               Penalty to Disguise Tests
-1-2                 -                                         -0%
-3-5                 +5% / -5%                                 -0%
-6-10                +10% / -10%                               -5%
-11-15               +15% / -15%                               -10%
-16-20               +15% / -20%                               -10%
-21-25               +20% / -20%                               -15%
-26-30               +25% / -25%                               -15%
-31-40               +30% / -35%                               -20%
-41-50               +40% / -40%                               -25%
+| Reputation        | Modifier to Influence Tests             | Penalty to Disguise Tests |
+|-------------------|-----------------------------------------|---------------------------|
+| 1-2               | -                                       | -0%                       |
+| 3-5               | +5% / -5%                               | -0%                       |
+| 6-10              | +10% / -10%                             | -5%                       |
+| 11-15             | +15% / -15%                             | -10%                      |
+| 16-20             | +15% / -20%                             | -10%                      |
+| 21-25             | +20% / -20%                             | -15%                      |
+| 26-30             | +25% / -25%                             | -15%                      |
+| 31-40             | +30% / -35%                             | -20%                      |
+| 41-50             | +40% / -40%                             | -25%                      |
 
 On board a ship, there are a number of modifiers to an Adventurer's Reputation.
 
@@ -646,13 +387,14 @@ points per month.
 An Adventurer who is believed to be dead or who takes on a new identity can build up a
 Reputation for this second identity.
 
-Reputation of...       You are...                                         Reward for your capture
-10 or less             Unknown                                            None
-11-15                  Known by people in Port Royal or New Providence    None
-16-20                  Known by many in the Caribbean                     1,000 silver
-21-30                  Known by the Royal Navy                            5,000 silver
-31-40                  Infamous                                           25,000 silver
-41+                    Known world-wide                                   50,000 silver
+| Reputation of...     | You are...                                       | Reward for your capture |
+|----------------------|--------------------------------------------------|-------------------------|
+| 10 or less           | Unknown                                          | None                    |
+| 11-15                | Known by people in Port Royal or New Providence  | None                    |
+| 16-20                | Known by many in the Caribbean                   | 1,000 silver            |
+| 21-30                | Known by the Royal Navy                          | 5,000 silver            |
+| 31-40                | Infamous                                         | 25,000 silver           |
+| 41+                  | Known world-wide                                 | 50,000 silver           |
 
 
 ## Legendary Abilities
@@ -678,45 +420,46 @@ considered a criminal.
 This adds an extra level of politics and book-keeping to the game, so it should only be included
 if the differing agendas of the powers is going to come into the campaign.
 
-                                                           
-Character's Action                            Standing With Affected Power   Standing With Other Powers
-First time he takes a prize                   -2                             +1
-Each attack thereafter                        -1                             +0
-Takes a prize worth more than 50,000 silver   -4                             +2
-Attacks a port                                -2                             +1
-Sacks a port                                  -4                             +2
+| Character's Action                          | Standing With Affected Power | Standing With Other Powers |
+|---------------------------------------------|------------------------------|----------------------------|
+| First time he takes a prize                 | -2                           | +1                         |
+| Each attack thereafter                      | -1                           | +0                         |
+| Takes a prize worth more than 50,000 silver | -4                           | +2                         |
+| Attacks a port                              | -2                           | +1                         |
+| Sacks a port                                | -4                           | +2                         |
 
 
 ##### Legendary Abilities
 
-Legendary Ability                   Requirements                                    Hero Points
-Always Something to Swing From ~    DEX 15+, Acrobatics 90%+                        8
-Battle Fury*                        CON 15+, close combat Weapon skill 90%+         12
-Born to the Saddle*                 POW 15+, Riding skill 90%+                      8
-Born to the Sea                     POW 15+, Shiphandling 90%+                      8
-Contact                                                                             2+
-Dashing ~                           CHA 13+                                         4
-Dead Eye*                           DEX 15+, ranged Weapon skill 90%+               10
-Decapitating Swing* ~               STR 15+, 2H Sword or Axe skill 90%+             12
-Devil's Luck ~                      POW 15+                                         8
-Disease Immunity*                   CON 15+, Resilience skill 70%+                  8
-Drowned Man                         CON 15+, Athletics 70%                          8
-Duellist*                           1H Weapon or Rapier skill 90%+                  10
-Fearsome Aura                       CHA 15+, any Weapon skill at 70%+               12
-Heroic Aura*                        CHA 15+, Influence skill 90%+                   12
-Infamous                            Reputation 10+                                  2
-Linguist*                           INT 15+, two non-native Language skills 50%+    8
-Loremaster*                         INT 15+, four Lore skills 50%+                  10
-Old Salt                            Shiphandling or Boating 50%+                    2
-Pet ~                                                                               2+
-Poison Immunity* ~                  CON 15+, Resilience skill 70%+                  8
-Powder Monkey                       Any Firearms skill at 70%                       4
-Quick Reload                        DEX 15+, any Firearms skill at 70%              8
-Skin of the Bear* ~                 CON 15+, Resilience skill 90%+                  10
-Swashbuckler ~                      CHA 15+, Rapier 70%+                            8
-Tireless*                           CON 15+, Athletics skill 90%+                   8
-Wall Leaping* ~                     DEX 15+, Acrobatics skill 90%+                  10
-Vice                                                                                2
+| Legendary Ability                 | Requirements                                  | Hero Points |
+|-----------------------------------|-----------------------------------------------|-------------|
+| Always Something to Swing From ~  | DEX 15+, Acrobatics 90%+                      | 8           |
+| Battle Fury*                      | CON 15+, close combat Weapon skill 90%+       | 12          |
+| Born to the Saddle*               | POW 15+, Riding skill 90%+                    | 8           |
+| Born to the Sea                   | POW 15+, Shiphandling 90%+                    | 8           |
+| Contact                           |                                               | 2+          |
+| Dashing ~                         | CHA 13+                                       | 4           |
+| Dead Eye*                         | DEX 15+, ranged Weapon skill 90%+             | 10          |
+| Decapitating Swing* ~             | STR 15+, 2H Sword or Axe skill 90%+           | 12          |
+| Devil's Luck ~                    | POW 15+                                       | 8           |
+| Disease Immunity*                 | CON 15+, Resilience skill 70%+                | 8           |
+| Drowned Man                       | CON 15+, Athletics 70%                        | 8           |
+| Duellist*                         | 1H Weapon or Rapier skill 90%+                | 10          |
+| Fearsome Aura                     | CHA 15+, any Weapon skill at 70%+             | 12          |
+| Heroic Aura*                      | CHA 15+, Influence skill 90%+                 | 12          |
+| Infamous                          | Reputation 10+                                | 2           |
+| Linguist*                         | INT 15+, two non-native Language skills 50%+  | 8           |
+| Loremaster*                       | INT 15+, four Lore skills 50%+                | 10          |
+| Old Salt                          | Shiphandling or Boating 50%+                  | 2           |
+| Pet ~                             |                                               | 2+          |
+| Poison Immunity* ~                | CON 15+, Resilience skill 70%+                | 8           |
+| Powder Monkey                     | Any Firearms skill at 70%                     | 4           |
+| Quick Reload                      | DEX 15+, any Firearms skill at 70%            | 8           |
+| Skin of the Bear* ~               | CON 15+, Resilience skill 90%+                | 10          |
+| Swashbuckler ~                    | CHA 15+, Rapier 70%+                          | 8           |
+| Tireless*                         | CON 15+, Athletics skill 90%+                 | 8           |
+| Wall Leaping* ~                   | DEX 15+, Acrobatics skill 90%+                | 10          |
+| Vice                              |                                               | 2           |
 
 Abilities marked with a * are to be found in the main Legend Core Rulebook.	
 Abilities marked with a ~ are especially suited to a Cinematic campaign.	
@@ -728,9 +471,9 @@ whole crew. The second part of the Legendary Ability, the power to temporarily i
 skills does not.
 
 
-Always Something to Swing From	
-Requirements: DEX 15+, Acrobatics 90%+	
-Hero Points: 8
+### Always Something to Swing From
+**Requirements**: DEX 15+, Acrobatics 90%+	
+**Hero Points**: 8
 
 No matter where you are, there is always a rope, line, chandelier, jungle vine, pulley, inn sign,
 flagpole or other thing to swing from. Such dramatic acrobatics can be used to swing past
@@ -738,51 +481,51 @@ opponents. You can also swing into combat as a charge, gaining a +5% bonus to hi
 to the normal +1D4 bonus to damage.
 
 
-Born to the Sea	
-Requirements: POW 15+, Shiphandling 90%+
-Hero Points: 8
+### Born to the Sea
+**Requirements**: POW 15+, Shiphandling 90%+
+**Hero Points**: 8
 
-When at the helm of a ship, the following effects take place:
-•	   Any penalty to your Shiphandling skill is reduced by -20 %. For instance, if the driving
-rains and slippery ground would normally apply a -40% penalty to your Shiphandling
-test, the penalty is reduced to -20%.
-•	   You may increase your ship's movement by +12 feet/1 knot.
-•	   Any Seaworthiness losses are reduced by one. For example, if the ship would lose 5
-Seaworthiness as the result of a storm, then this loss is reduced to 4.
+When at the helm of a ship, the following effects take place:  
+* Any penalty to your Shiphandling skill is reduced by -20 %. For instance, if 
+  the driving rains and slippery ground would normally apply a -40% penalty to 
+  your Shiphandling test, the penalty is reduced to -20%.
+* You may increase your ship's movement by +12 feet/1 knot.
+* Any Seaworthiness losses are reduced by one. For example, if the ship would 
+  lose 5 Seaworthiness as the result of a storm, then this loss is reduced to 4.
 
 
-Contact
-Hero Points: 2
+### Contact
+**Hero Points**: 2
 
 Every time you take this Legendary Ability, you gain a trusted friend on one of the islands of the
 Caribbean. This friend will shelter you in times of need, pass on rumours and interesting tales to
 you, receive stolen goods and so forth.
 
 
-Dashing	
-Requirements: CHA 13+
-Hero Points: 4
+### Dashing
+**Requirements**: CHA 13+
+**Hero Points**: 4
 
 You are especially stylish and charming. You gain a +20% bonus to Influence tests made against
 female Adventurer (female Adventurer may take a variant of this Legendary Ability called
 Beautiful, which gives a +20% bonus to Influence tests against male Adventurer).
 
 
-Devil's Luck
-Requirements: POW 15+	
-Hero Points: 8
+### Devil's Luck
+**Requirements**: POW 15+	
+**Hero Points**: 8
 
-You are cursed or blessed with the devil's own luck. This has two abilities:
-•	     Whenever you spend a Hero Point to get a Second Chance, you also get a +10% bonus
+You are cursed or blessed with the devil's own luck. This has two abilities:  
+* Whenever you spend a Hero Point to get a Second Chance, you also get a +10% bonus
   to the re-roll attempt.
-•	     When killed, you may put yourself into the Games Master's hands. You will always
+* When killed, you may put yourself into the Games Master's hands. You will always
   survive but your POW is reduced by 1D6 and you will most likely end up in a very
   dangerous or unpleasant situation.
 
 
-Drowned Man
-Requirements: CON 15+, Athletics 70%
-Hero Points: 8
+### Drowned Man
+**Requirements**: CON 15+, Athletics 70%
+**Hero Points**: 8
 
 You nearly drowned once and are now almost a thing of the sea. You may hold your breath
 for three times longer than normal and the Resilience test to hold your breath after this period
@@ -790,9 +533,9 @@ expires does not suffer from a -10% cumulative penalty. Furthermore, any penalti
 and actions under water are reduced by 20%.
 
 
-Fearsome Aura
-Requirements: CHA 15+, any Weapon skill at 70%+
-Hero Points: 12
+### Fearsome Aura
+**Requirements**: CHA 15+, any Weapon skill at 70%+
+**Hero Points**: 12
 
 All foes within your CHA in yards will be intimidated by your presence, suffering your CHA as
 a penalty to any Persistence or Resilience tests they are called upon to make.
@@ -803,55 +546,56 @@ to all Weapon skills for the remainder of the Combat Round. This ability only wo
 Adventurer scale, not on the crew scale.
 
 
-Infamous
-Requirements: Reputation 10+	
-Hero Points: 2
+### Infamous
+**Requirements**: Reputation 10+	
+**Hero Points**: 2
 
 Stories of your deeds as a pirate have spread far and wide. Increase your Reputation by +5.
 
 
-Old Salt
-Requirements: Shiphandling or Boating 50%+
-Hero Points: 2
+### Old Salt
+**Requirements**: Shiphandling or Boating 50%+
+**Hero Points**: 2
 
 You are an especially experienced sailor. You may reduce all penalties to the movement of a ship
 by 10% and increase all your Crew's skills by 1%.
 
 
-Pet
-Hero Points: 2
+### Pet
+**Hero Points**: 2
 
 You have a pet monkey, parrot, cat, dog or other animal. This animal is smart enough to follow
 basic instructions and will follow you around no matter where you go.
 
 
-Powder Monkey
-Requirements: Any Firearms skill at 70%	
-Hero Points: 4
+### Powder Monkey
+**Requirements**: Any Firearms skill at 70%	
+**Hero Points**: 4
 
 You have a knack for using gunpowder. You never suffer misfires when using a firearm.
 
 
-Quick Reload
-Requirements: DEX 15+, any Firearms skill at 70%	
-Hero Points: 8
+### Quick Reload
+**Requirements**: DEX 15+, any Firearms skill at 70%	
+**Hero Points**: 8
 
 You are especially nimble at reloading weapons. Reduce the reload time for all guns and cannons
 you are using by one-third.
 
 
-Vice
-Hero Points: 2
+### Vice
+**Hero Points**: 2
 
 You have developed another Vice (choose from the list in the Vices section), or increased an
 existing Vice by one point. You may take this Legendary Ability multiple times.
 
 
-Vices
-'I soon found that any death was preferable to being linked with such a vile crew of miscreants, to
-whom it was a sport to do mischief, where prodigious drinking, monstrous cursing and swearing,
-hideous blasphemies and open defiance of Heaven, and contempt of Hell itself, was the constant
-employment, unless when something abated the noise and revellings.'
+## Vices
+
+> 'I soon found that any death was preferable to being linked with such a vile crew of miscreants, to
+> whom it was a sport to do mischief, where prodigious drinking, monstrous cursing and swearing,
+> hideous blasphemies and open defiance of Heaven, and contempt of Hell itself, was the constant
+> employment, unless when something abated the noise and revellings.'
 
 - From the account of Philip Ashton, captured by pirates in 1722
 
@@ -876,107 +620,162 @@ Adventurer with two Vice Points in Drunkard could get unnecessarily and inconven
 twice per adventure and get one Hero Point each time (he could get drunk many more times
 during the adventure but only gains a mechanical advantage once per Vice Point).
 
-For example, Fat Pete has three points in, surprisingly, Gluttony. As the Adventurers' ship is sailing
-along, Fat Pete's player describes in detail how his Adventurer has hidden his own supply of food in a
-barrel and creeps out at night to gorge himself. This Adventurer detail gets the player one Hero Point
-and he could get another two Hero Points later in the adventure for being gluttonous in other ways.
+> For example, Fat Pete has three points in, surprisingly, Gluttony. As the Adventurers' ship is sailing
+> along, Fat Pete's player describes in detail how his Adventurer has hidden his own supply of food in a
+> barrel and creeps out at night to gorge himself. This Adventurer detail gets the player one Hero Point
+> and he could get another two Hero Points later in the adventure for being gluttonous in other ways.
 
 Secondly, if the Adventurer has a chance to indulge his Vice at a time when he does not want
 to, he must make a Persistence test, penalised by -20% per Vice Point after the first (so, -20%
 at two Vice Points, -40% at three points and so forth). If the Persistence test fails, then the
 Adventurer gives into temptation.
 
-The Adventurers are trapped on an island by a Royal Navy patrol. Soldiers from the ship have landed on
-the shore and made camp for the night; the pirates are hiding in the nearby jungle. All the Adventurers
-need to do is wait for the soldiers to fall asleep and they can either sneak away or attack under cover
-of darkness. Unfortunately, the soldiers are roasting a wild chicken and Fat Pete's downwind of that
-lovely smell. His stomach rumbles incessantly. Fat Pete's player must make a Persistence test at -40%
-(Fat Pete's a three-point Glutton). If the Persistence test fails, then Fat Pete can stand the hunger no
-more and must try to get hold of that chicken somehow.
+> The Adventurers are trapped on an island by a Royal Navy patrol. Soldiers from the ship have landed on
+> the shore and made camp for the night; the pirates are hiding in the nearby jungle. All the Adventurers
+> need to do is wait for the soldiers to fall asleep and they can either sneak away or attack under cover
+> of darkness. Unfortunately, the soldiers are roasting a wild chicken and Fat Pete's downwind of that
+> lovely smell. His stomach rumbles incessantly. Fat Pete's player must make a Persistence test at -40%
+> (Fat Pete's a three-point Glutton). If the Persistence test fails, then Fat Pete can stand the hunger no
+> more and must try to get hold of that chicken somehow.
 
-Indulgence is chosen by the pirate's player; Temptation is inflicted by the Games Master.
+**Indulgence** is chosen by the pirate's player; **Temptation** is inflicted by the Games Master.
 
 Some Vices (like Honour) work slightly differently; see the individual descriptions.
 
+##### Vices
+
+| Avarice       | Gold and jewels |
+|---------------|-----------------|
+| Blasphemy     | Offending against God and civility |
+| Bravado       | You must be the bravest and most dramatic |
+| Cowardice     | You value your life above all else |
+| Cruelty       | You delight in torture |
+| Destruction   | Blowing things up |
+| Drink         | Wine, whiskey or rum |
+| Freedom       | You cannot stand to be constrained |
+| Gambling      | Dice, cards or whatever comes to hand |
+| Gluttony      | Either fine food or lots of food |
+| Honour        | You have a code of conduct |
+| Lust          | Women of all sorts |
+| Revenge       | Against an individual, group or institution |
+| Seduction     | The thrill of the chase |
+| Superstition  | You fear ghosts and goblins |
+| Piety         | You have a deep respect for the divine |
+| Pride         | Your reputation means everything to you |
+| Wrath         | You long for combat |
 
 
-
-Vices
-Avarice - Gold and jewels
-Blasphemy - Offending against God and civility
-Bravado - You must be the bravest and most dramatic
-Cowardice - You value your life above all else
-Cruelty - You delight in torture
-Destruction - Blowing things up
-Drink - Wine, whiskey or rum
-Freedom - You cannot stand to be constrained
-Gambling - Dice, cards or whatever comes to hand
-Gluttony - Either fine food or lots of food
-Honour - You have a code of conduct
-Lust - Women of all sorts
-Revenge - Against an individual, group or institution
-Seduction - The thrill of the chase
-Superstition - You fear ghosts and goblins
-Piety - You have a deep respect for the divine
-Pride - Your reputation means everything to you
-Wrath - You long for combat
-
-
-
-
-Avarice
+### Avarice
 You desire wealth, especially gold. You go out of your way to find treasure and hoard it when you
-do. Avaricious Adventurer cannot resist the lure of plunder.
-Indulged by: Looting treasure, counting your gold.
-Tempted by: Treasure of all sorts, especially gold and jewels.
+do. Avaricious Adventurer cannot resist the lure of plunder.  
+**Indulged by**: Looting treasure, counting your gold.
+**Tempted by**: Treasure of all sorts, especially gold and jewels.
 
 
-Blasphemy
+### Blasphemy
 You have quarrelled with God and hate Him and all His works. You may be an avowed Atheist,
-or believe yourself to be the Devil's own.
-Indulged by: Destroying churches, insulting priests, shocking others with your words.
-Tempted by: Especially big ways to offend the Almighty or believers.
+or believe yourself to be the Devil's own.  
+**Indulged by**: Destroying churches, insulting priests, shocking others with your words.
+**Tempted by**: Especially big ways to offend the Almighty or believers.
 
 
-Bravado
+### Bravado
 You are the living embodiment of the pirate myth; a devilish, dashing rogue, and you play to
-the stereotype.
-Indulged by: Witty quips, dramatic entrances.
-Tempted by: Showing off to the crowd when fleeing over subtlety would be preferable.
+the stereotype.  
+**Indulged by**: Witty quips, dramatic entrances.
+**Tempted by**: Showing off to the crowd when fleeing over subtlety would be preferable.
 
 
-Cowardice
-You are a craven rogue, interested only in saving your own skin.
-Indulged by: Hanging at the back when it comes to a fight; finding cover; being scared.
-Tempted by: Running and fleeing instead of fighting.
+### Cowardice
+You are a craven rogue, interested only in saving your own skin.  
+**Indulged by**: Hanging at the back when it comes to a fight; finding cover; being scared.
+**Tempted by**: Running and fleeing instead of fighting.
 
 
+### Cruelty
+You delight in cruelty and torture and are thoroughly black-hearted and vile.  
+**Indulged by**: Being cruel; punishing others.
+**Tempted by**: Chances to be unnecessarily cruel to a defeated foe.
 
-Cruelty
-You delight in cruelty and torture and are thoroughly black-hearted and vile.
-Indulged by: Being cruel; punishing others.
-Tempted by: Chances to be unnecessarily cruel to a defeated foe.
 
-
-Destruction
+### Destruction
 No doubt you have all manner of gunpowder bombs and incendiaries about your person, for you
-love nothing more than fire.
-Indulged by: Delighting in blowing things up; setting fire to things; making bombs.
-Tempted by: The chance to blow something really big up.
+love nothing more than fire.  
+**Indulged by**: Delighting in blowing things up; setting fire to things; making bombs.
+**Tempted by**: The chance to blow something really big up.
 
 
-
-Drink
-A powerful thirst
-for all manner of
-drink is upon you.
-Indulged by:
-Drinking.
-Tempted by:
-Drinking.
+### Drink
+A powerful thirst for all manner of drink is upon you.  
+**Indulged by**: Drinking.
+**Tempted by**: Drinking.
 
 
-Wine, Whiskey and Rum
+### Freedom
+You cannot stand to be constrained.  
+**Indulged by**: Refusing to obey any law or accepting any limit on your movement.
+**Tempted by**: Thumbing your nose at society; escaping when you really should stay confined.
+
+
+### Gambling
+Be it dice, cards or the flight of gulls, you will wager on anything.  
+**Indulged by**: Gambling.
+**Tempted by**: Gambling.
+
+
+### Gluttony
+You are always hungry and gorge yourself whenever you can.  
+**Indulged by**: Eating, cooking.
+**Tempted by**: Feasting.
+
+
+### Honour
+You refuse to break oaths or contravene your own personal beliefs.  
+**Indulged by**: Keeping to your own system of honour.
+**Tempted by**: Holding to your own system of honour, even when it will have dire consequences
+for you (for example, letting a foe go because you gave your word you would.)
+
+
+### Lust
+Your appetite for sexual satisfaction is boundless.  
+**Indulged by**: Whoring.
+**Tempted by**: A willing woman.
+
+
+### Revenge
+You have a special hatred for a group or individual and go out of your way to defeat or injure
+them or their agents.  
+**Indulged by**: Slaying agents or foiling the plans of your foe.
+**Tempted by**: Inflicting serious injury on your foe.
+
+
+### Seduction
+You delight in seducing women; your pleasure is not in the conquest (although that is pleasant
+enough) but in the chase.  
+**Indulged by**: Flirtation and seduction.
+**Tempted by**: Inaccessible, haughty or well-born women.
+
+
+### Superstitious
+You believe in ghosts, demons and all manner of hostile spirits.  
+**Indulged by**: Taking preparations against such horrors; finding relics; observing superstitious
+traditions.
+**Tempted by**: Fleeing when confronted by anything that might be supernatural.
+
+
+### Piety
+Unlike most pirates, you have a great respect for the Church.  
+**Indulged by**: Attending or celebrating mass; abhorring blasphemy.
+**Tempted by**: Confession; protecting a church from being looted.
+
+
+### Wrath
+You long for combat in all its forms.  
+**Indulged by**: Picking fights.
+**Tempted by**: Picking fights you have little chance of winning.
+
+
+#### Wine, Whiskey and Rum
 Common drinks in the age of piracy include rum, punch, wine, whiskey and gin. Grog, a drink
 associated with pirates in stories, was actually not invented until the 1740s.
 
@@ -992,82 +791,14 @@ An already-drunk Adventurer can become Very Drunk (+/- 20% penalty) or Blind Dru
 40% penalty).
 
 
-
-
-Freedom
-You cannot stand to be constrained.
-Indulged by: Refusing to obey any law or accepting any limit on your movement.
-Tempted by: Thumbing your nose at society; escaping when you really should stay confined.
-
-
-Gambling
-Be it dice, cards or the flight of gulls, you will wager on anything.
-Indulged by: Gambling.
-Tempted by: Gambling.
-
-
-Gluttony
-You are always hungry and gorge yourself whenever you can.
-Indulged by: Eating, cooking.
-Tempted by: Feasting.
-
-
-Honour
-You refuse to break oaths or contravene your own personal beliefs.
-Indulged by: Keeping to your own system of honour.
-Tempted by: Holding to your own system of honour, even when it will have dire consequences
-for you (for example, letting a foe go because you gave your word you would.)
-
-
-Lust
-Your appetite for sexual satisfaction is boundless.
-Indulged by: Whoring.
-Tempted by: A willing woman.
-
-
-Revenge
-You have a special hatred for a group or individual and go out of your way to defeat or injure
-them or their agents.
-Indulged by: Slaying agents or foiling the plans of your foe.
-Tempted by: Inflicting serious injury on your foe.
-
-
-Seduction
-You delight in seducing women; your pleasure is not in the conquest (although that is pleasant
-enough) but in the chase.
-Indulged by: Flirtation and seduction.
-Tempted by: Inaccessible, haughty or well-born women.
-
-
-Superstitious
-You believe in ghosts, demons and all manner of hostile spirits.
-Indulged by: Taking preparations against such horrors; finding relics; observing superstitious
-traditions.
-Tempted by: Fleeing when confronted by anything that might be supernatural.
-
-
-Piety
-Unlike most pirates, you have a great respect for the Church.
-Indulged by: Attending or celebrating mass; abhorring blasphemy.
-Tempted by: Confession; protecting a church from being looted.
-
-
-Wrath
-You long for combat in all its forms.
-Indulged by: Picking fights.
-Tempted by: Picking fights you have little chance of winning.
-
-
-chattels, blades
-and gunshot
+# Chattels, Blades and Gunshot
 
 While prices for various goods are given in this chapter, much of what a pirate owned would be
 taken by force. The gold and silver won from captured ships would be spent in the friendly ports
 like Port Royal or New Providence on drink and women.
 
 
-
-Currency
+#### Currency
 Prices are given in reales, silver Spanish coins. Spanish doubloons and pieces of eight are more
 commonly used by pirates. Doubloons are gold coins; silver pieces of eight are worth a quarter
 of a doubloon, or eight reales.
@@ -1078,57 +809,36 @@ Adventurers may also encounter English crowns, shillings and pence, or Dutch duc
 and florins.
 
 
-
-
-Melee Weapons
-Belaying Pin: Belaying pins are iron spikes used to secure ropes on board a ship but they also
-make excellent improvised weapons. An Adventurer using a belaying pin suffers a -10% penalty
-to hit.
-
-Boarding Axe: Boarding axes are used to cut lines and as a support when climbing, as well as a
-weapon. An Adventurer using a boarding axe gets a +10% bonus to Athletics checks to climbing
-wooden surfaces.
-
-Boarding Pike: Boarding pikes are cheap spears with a hooked end. An Adventurer using a
-boarding pike gets a +10% bonus to Athletics tests when making boarding actions.
-
-Buckler: This duelling shield is the only shield still in common use in the age of piracy.
-
-Cat o'nine tails: A heavy, nine-tongued whip used as a punishment device.
-
-Club: Or a tree branch, bar stool, piece of timber, crowbar...
-
-Cutlass: A cutlass is a heavy curved sword, short enough to be used on board a ship without
-getting tangled in the ever-present ropes and lines but sharp and strong enough to cut through a
-foe. Cutlasses are used by navies the world over. Its basket hilt gives a +10% bonus to Parry tests.
+### Melee Weapons
 
 ##### Close Combat Weapons
 
-Weapon              Skill            Damage        STR/DEX   ENC        AP/HP      Cost
-Belaying Pin        Dagger (5)       1D4           5/5       1          4/6        5 SP
-Boarding Axe        1H Axe (5)       1D6           7/5       2          3/6        20 SP
-Boarding Pike       Polearm          1D8           5/5       2          3/8        15 SP
-Bill                Polearm (2)      1D6+1         7/9       2          2/8        50 SP
-Buckler             Shield           1D4           -/5       1          5/8        50 SP
-Cat 'o'nine tails   Whip             1D4           5/9       1          0/3        50 SP
-Club                1H               1D6           7/-       1          2/4        5 SP
-Club                Hammer           1D6           7/-       1          2/4        5 SP
-Cutlass             1H Sword (5)     1D6+1         6/7       1          3/9        200 SP
-Dagger              Dagger (4,5)     1D4+1         -/-       -          4/6        30 SP
-Dirk                Dagger (5)       1D3+2         -/-       1          3/8        50 SP
-Halberd             2H Axe           1D8+2         13/7      4          3/10       50 SP
-Halberd             Polearm (2)      1D8+1         9/9       4          3/10       50 SP
-Halberd             Spear (1,2)      1D8           7/7       4          3/10       50 SP
-Hatchet             1H Axe (4,5)     1D6           -/9       1          3/6        25 SP
-Knife               Dagger (5)       1D3           -/-       -          4/4        10 SP
-Quarterstaff        Staff            1D8           7/7       2          3/8        20 SP
-Rapier              Rapier (1)       1D8           7/13      1          3/8        100 SP
-Scimitar            1H Sword         1D6+1         7/11      2          4/10       200 SP
-Spear               Spear (1,2,4)    1D8           5/5       2          2/5        20 SP
-Shortsword          1H Sword (1,5)   1D6           5/7       1          3/8        80 SP
-Tomahawk            1H Axe (4,5)     1D6           7/13      1          3/4        25 SP
-Unarmed             Unarmed (5)      1D3           -/-       -          -/-        -
-Whip                Whip             1D3           -/9       1          -/3        25 SP
+| Weapon            | Skill          | Damage      | STR/DEX | ENC      | AP/HP    | Cost |
+|-------------------|----------------|-------------|---------|----------|----------|------|
+| Belaying Pin      | Dagger (5)     | 1D4         | 5/5     | 1        | 4/6      | 5 SP |
+| Boarding Axe      | 1H Axe (5)     | 1D6         | 7/5     | 2        | 3/6      | 20 SP |
+| Boarding Pike     | Polearm        | 1D8         | 5/5     | 2        | 3/8      | 15 SP |
+| Bill              | Polearm (2)    | 1D6+1       | 7/9     | 2        | 2/8      | 50 SP |
+| Buckler           | Shield         | 1D4         | -/5     | 1        | 5/8      | 50 SP |
+| Cat 'o'nine tails | Whip           | 1D4         | 5/9     | 1        | 0/3      | 50 SP |
+| Club              | 1H             | 1D6         | 7/-     | 1        | 2/4      | 5 SP |
+| Club              | Hammer         | 1D6         | 7/-     | 1        | 2/4      | 5 SP |
+| Cutlass           | 1H Sword (5)   | 1D6+1       | 6/7     | 1        | 3/9      | 200 SP |
+| Dagger            | Dagger (4,5)   | 1D4+1       | -/-     | -        | 4/6      | 30 SP |
+| Dirk              | Dagger (5)     | 1D3+2       | -/-     | 1        | 3/8      | 50 SP |
+| Halberd           | 2H Axe         | 1D8+2       | 13/7    | 4        | 3/10     | 50 SP |
+| Halberd           | Polearm (2)    | 1D8+1       | 9/9     | 4        | 3/10     | 50 SP |
+| Halberd           | Spear (1,2)    | 1D8         | 7/7     | 4        | 3/10     | 50 SP |
+| Hatchet           | 1H Axe (4,5)   | 1D6         | -/9     | 1        | 3/6      | 25 SP |
+| Knife             | Dagger (5)     | 1D3         | -/-     | -        | 4/4      | 10 SP |
+| Quarterstaff      | Staff          | 1D8         | 7/7     | 2        | 3/8      | 20 SP |
+| Rapier            | Rapier (1)     | 1D8         | 7/13    | 1        | 3/8      | 100 SP |
+| Scimitar          | 1H Sword       | 1D6+1       | 7/11    | 2        | 4/10     | 200 SP |
+| Spear             | Spear (1,2,4)  | 1D8         | 5/5     | 2        | 2/5      | 20 SP |
+| Shortsword        | 1H Sword (1,5) | 1D6         | 5/7     | 1        | 3/8      | 80 SP |
+| Tomahawk          | 1H Axe (4,5)   | 1D6         | 7/13    | 1        | 3/4      | 25 SP |
+| Unarmed           | Unarmed (5)    | 1D3         | -/-     | -        | -/-      | -    |
+| Whip              | Whip           | 1D3         | -/9     | 1        | -/3      | 25 SP |
 
 1 - This weapon will impale an opponent upon a critical hit.  
 2 - This weapon may be set against a charge.  
@@ -1136,53 +846,70 @@ Whip                Whip             1D3           -/9       1          -/3     
 4 - This weapon suffers no penalty when thrown.  
 5 - This weapon can be used in cramped conditions without penalty.
 
+**Belaying Pin**: Belaying pins are iron spikes used to secure ropes on board a ship but they also
+make excellent improvised weapons. An Adventurer using a belaying pin suffers a -10% penalty
+to hit.
 
-Dagger: A long knife, balanced for throwing.
+**Boarding Axe**: Boarding axes are used to cut lines and as a support when climbing, as well as a
+weapon. An Adventurer using a boarding axe gets a +10% bonus to Athletics checks to climbing
+wooden surfaces.
 
-Dirk: Slightly larger and more damaging than a dagger, dirks suffer a -10% penalty to Parry
+**Boarding Pike**: Boarding pikes are cheap spears with a hooked end. An Adventurer using a
+boarding pike gets a +10% bonus to Athletics tests when making boarding actions.
+
+**Buckler**: This duelling shield is the only shield still in common use in the age of piracy.
+
+**Cat o'nine tails**: A heavy, nine-tongued whip used as a punishment device.
+
+**Club**: Or a tree branch, bar stool, piece of timber, crowbar...
+
+**Cutlass**: A cutlass is a heavy curved sword, short enough to be used on board a ship without
+getting tangled in the ever-present ropes and lines but sharp and strong enough to cut through a
+foe. Cutlasses are used by navies the world over. Its basket hilt gives a +10% bonus to Parry tests.
+
+**Dagger**: A long knife, balanced for throwing.
+
+**Dirk**: Slightly larger and more damaging than a dagger, dirks suffer a -10% penalty to Parry
 attempts.
 
-Halberd: Polearms like this are common weapons for guards and soldiers in forts.
+**Halberd**: Polearms like this are common weapons for guards and soldiers in forts.
 
-Hatchet: Mainly used for hewing wood or cutting through jungle but still a lethal weapon.
+**Hatchet**: Mainly used for hewing wood or cutting through jungle but still a lethal weapon.
 
-Knife: A simple knife.
+**Knife**: A simple knife.
 
-Quarterstaff: Rarely used as a weapon but still easy to make and obtain.
+**Quarterstaff**: Rarely used as a weapon but still easy to make and obtain.
 
-Rapier: A duelling rapier. Weapons like this are often of exceptional quality.
+**Rapier**: A duelling rapier. Weapons like this are often of exceptional quality.
 
-Scimitar: A wickedly curved sword, more common in Moslem lands than in the west. The
+**Scimitar**: A wickedly curved sword, more common in Moslem lands than in the west. The
 infamous Barbary pirates may use such blades.
 
-Spear: From weapons used by wild natives to improved spears.
+**Spear**: From weapons used by wild natives to improved spears.
 
-Shortsword: Commonly used in combination with another blade by a duellist.
+**Shortsword**: Commonly used in combination with another blade by a duellist.
 
-Tomahawk: Adapted from the Native American weapon of the same name, a tomahawk is a
+**Tomahawk**: Adapted from the Native American weapon of the same name, a tomahawk is a
 small, well-balanced axe that can be thrown.
 
-Whip: A length of leather more commonly used to goad slaves than as a weapon.
+**Whip**: A length of leather more commonly used to goad slaves than as a weapon.
 
 
+#### Whips
+
+Whips can be used in three different ways:  
+* **As a direct attack** on any foe within 10 feet (2 metres). A whip cannot be used on an
+  adjacent target. Such attacks use the normal rules.
+* **As a grapple attack** on any foe within 10 feet (2 metres). If the grapple attack succeeds,
+  then the attacker may immediately make a Throw or Incapacitate attack but the two are not
+  considered to be grappling. If the defender is allowed Riposte and the whip wielder is out of
+  range, then the defender may instead choose to try to wrench the whip out of the attacker's
+  hand (use an opposed Athletics (Brute Force) test to determine who wins).
+* **As a short rope**, for swinging off masts and grabbing onto railings. In certain situations, the
+  Whip skill can be substituted for the Acrobatics skill.
 
 
-Whips
-Whips can be used in three different ways:
-•	 As a direct attack on any foe within 10 feet (2 metres). A whip cannot be used on an
-adjacent target. Such attacks use the normal rules.
-•	 As a grapple attack on any foe within 10 feet (2 metres). If the grapple attack succeeds,
-then the attacker may immediately make a Throw or Incapacitate attack but the two are not
-considered to be grappling. If the defender is allowed Riposte and the whip wielder is out of
-range, then the defender may instead choose to try to wrench the whip out of the attacker's
-hand (use an opposed Athletics (Brute Force) test to determine who wins).
-•	 As a short rope, for swinging off masts and grabbing onto railings. In certain situations, the
-Whip skill can be substituted for the Acrobatics skill.
-
-
-
-
-Gunpowder
+#### Gunpowder
 Gunpowder is carried in either a powder horn or in prepared paper packets. It must be loaded
 into the gun along with wadding and shot.
 
@@ -1195,37 +922,39 @@ also happen with improperly stored power.
 If powder gets wet, then the misfire chance doubles at the very least, and may increase further.
 Soaked powder is almost certain not to function.
 
-Gunpowder Explosions
+#### Gunpowder Explosions
 Gunpowder fuses can be made using the Artillery skill, or just improved by making an INT+DEX
 test. A powder horn will explode for 2D4 damage, or an improvised bomb for 1D4 x 1D4
 damage. A barrel of gunpowder deals 6D6 damage if it explodes.
 
 ##### Weapon Conditions
                                         
-Normal             Poorly Maintained           Damp                Soaked
-00 - Misfire       96-00 - Misfire             00 - Misfire        00 - Misfire
-99-96 - Fail       90-95 - Fail                80-99 - Fail        50-99 - Fail
->skill - Miss      >skill - Miss               >skill - Miss       >skill - Miss
-<skill - Hit       <skill - Hit                <skill - Hit        <skill - Hit
+| Normal           | Poorly Maintained         | Damp              | Soaked |
+|------------------|---------------------------|-------------------|--------|
+| 00 - Misfire     | 96-00 - Misfire           | 00 - Misfire      | 00 - Misfire |
+| 99-96 - Fail     | 90-95 - Fail              | 80-99 - Fail      | 50-99 - Fail |
+| >skill - Miss    | >skill - Miss             | >skill - Miss     | >skill - Miss |
+| <skill - Hit     | <skill - Hit              | <skill - Hit      | <skill - Hit |
 
 
 ##### Ranged Weapons
                                                              
-Weapon                  Skill                 Damage      Range     Load   STR/DEX   ENC   AP/HP     Cost
-Blowgun                 Blowgun               1D2         45 ft.    1      -/9       -     1/4       30 SP
-Blunderbuss             Longarms              2D8         60 ft.    12     -/5       1     4/83      100 SP
-Dagger (2)              Dagger or Throwing    1D6         30 ft.    -      -/9       -     4/6       30 SP
-Grenade                 Throwing              1D4 x 1D6   30 ft.    -      -/-       -     2/14      5 SP
-Hatchet (2)             1H Axe or Throwing    1D6         30 ft.    -      7/11      1     3/6       25 SP
-Musket (1)              Longarms              2D6         100 ft.   6      -/9       2     4/83      150 SP
-Pistol (1)              Pistol                2D4         40 ft.    6      -/5       1     3/63      250 SP
-Pistol, Blunderbuss     Pistol                2D6         20 ft.    8      -/-       1     3/63      350 SP
-Pistol, Pocket (1)      Pistol                2D3         20 ft.    6      -/9       1     3/63      350 SP
-Rifle (1)               Longarms              2D6         160 ft.   6      -/9       2     4/83      1000 SP
-Rock (improvised)       Throwing              1D3         30 ft.    -      5/9       1     3/5       -
-Short bow (1)           Bow                   1D8         180 ft.   1      9/11      1     2/4       75 SP
-Spear (1,2)             Spear or Throwing     1D8         75 ft.    -      5/9       2     2/5       20 SP
-Throwing star           Throwing              1D4         45 ft.    -      -/13      -     4/1       15 SP
+| Weapon                | Skill               | Damage    | Range   | Load | STR/DEX | ENC | AP/HP   | Cost |
+|-----------------------|---------------------|-----------|---------|------|---------|-----|---------|------|
+| Blowgun               | Blowgun             | 1D2       | 45 ft.  | 1    | -/9     | -   | 1/4     | 30 SP |
+| Blunderbuss           | Longarms            | 2D8       | 60 ft.  | 12   | -/5     | 1   | 4/83    | 100 SP |
+| Dagger (2)            | Dagger or Throwing  | 1D6       | 30 ft.  | -    | -/9     | -   | 4/6     | 30 SP |
+| Grenade               | Throwing            | 1D4 x 1D6 | 30 ft.  | -    | -/-     | -   | 2/14    | 5 SP |
+| Hatchet (2)           | 1H Axe or Throwing  | 1D6       | 30 ft.  | -    | 7/11    | 1   | 3/6     | 25 SP |
+| Musket (1)            | Longarms            | 2D6       | 100 ft. | 6    | -/9     | 2   | 4/83    | 150 SP |
+| Pistol (1)            | Pistol              | 2D4       | 40 ft.  | 6    | -/5     | 1   | 3/63    | 250 SP |
+| Pistol, Blunderbuss   | Pistol              | 2D6       | 20 ft.  | 8    | -/-     | 1   | 3/63    | 350 SP |
+| Pistol, Pocket (1)    | Pistol              | 2D3       | 20 ft.  | 6    | -/9     | 1   | 3/63    | 350 SP |
+| Rifle (1)             | Longarms            | 2D6       | 160 ft. | 6    | -/9     | 2   | 4/83    | 1000 SP |
+| Rock (improvised)     | Throwing            | 1D3       | 30 ft.  | -    | 5/9     | 1   | 3/5     | -    |
+| Short bow (1)         | Bow                 | 1D8       | 180 ft. | 1    | 9/11    | 1   | 2/4     | 75 SP |
+| Spear (1,2)           | Spear or Throwing   | 1D8       | 75 ft.  | -    | 5/9     | 2   | 2/5     | 20 SP |
+| Throwing star         | Throwing            | 1D4       | 45 ft.  | -    | -/13    | -   | 4/1     | 15 SP |
 
 1 - This weapon will impale an opponent upon a critical hit.  
 2 - This weapon suffers no penalty when used in close combat.  
@@ -1233,56 +962,58 @@ Throwing star           Throwing              1D4         45 ft.    -      -/13 
 4 - Parrying with a grenade is pretty much the definition of 'a really bad idea'.
 
 
-Blunderbuss: Blunderbuss weapons fire a hail of shot, or can even be loaded with scrap and
+**Blunderbuss**: Blunderbuss weapons fire a hail of shot, or can even be loaded with scrap and
 nails. They are rather inaccurate but devastating at close range. Blunderbusses suffer a -20%
 penalty to hit at long range but do an extra 1D6 damage at short range.
 
-Grenade: Grenades are bottles or iron casks filled with powder and metal, which explode
+**Grenade**: Grenades are bottles or iron casks filled with powder and metal, which explode
 violently. They are commonly used in boarding actions, scattering an enemy crew before the
 pirates attack.
 
-Musket: Muskets fire a heavy lead ball. They are the commonest firearm in this era.
+**Musket**: Muskets fire a heavy lead ball. They are the commonest firearm in this era.
 
-Pistol: Pistols are smaller versions of muskets. Most pirates have at least a pair of pistols and
+**Pistol**: Pistols are smaller versions of muskets. Most pirates have at least a pair of pistols and
 some carry four or five, so they can keep firing without needing to stop and reload.
 
-Pistol, Blunderbuss: A blunderbuss pistol is a wide mouthed gun that works just like its larger
+**Pistol, Blunderbuss**: A blunderbuss pistol is a wide mouthed gun that works just like its larger
 cousin. It suffers a -20% penalty to hit at long range but does an extra 1D4 damage at close
 range.
 
-Pistol, Pocket: Pocket pistols are small enough to be concealed and are generally seen as a
+**Pistol, Pocket**: Pocket pistols are small enough to be concealed and are generally seen as a
 coward's gun or a hold-out weapon. An Adventurer can hide a pocket pistol inside a pocket or
 secret compartment.
 
-Rifle: Rifles are a new form of musket; grooves are carved into the inner surface of the barrel,
+**Rifle**: Rifles are a new form of musket; grooves are carved into the inner surface of the barrel,
 making the shot spin when fired, resulting in a more accurate attack. Effectively, a rifle is an
 Exceptional-quality musket, effect giving a +10% bonus to hit.
 
 
-##### Ammunition
+### Ammunition
 
-Item                                                                  Cost
-12 Powder & Shot, Pistol                                              2 SP
-12 Powder & Shot, Blunderbuss Pistol                                  4 SP
-12 Powder & Shot, Blunderbuss                                         5 SP
-12 Powder & Shot, Musket                                              2 SP
+| Item                                                                | Cost |
+|---------------------------------------------------------------------|------|
+| 12 Powder & Shot, Pistol                                            | 2 SP |
+| 12 Powder & Shot, Blunderbuss Pistol                                | 4 SP |
+| 12 Powder & Shot, Blunderbuss                                       | 5 SP |
+| 12 Powder & Shot, Musket                                            | 2 SP |
 
 
-Armour & Clothing
+### Armour & Clothing
 Armour is used sparingly in this era, as most firearms are powerful enough to punch through the
 heavy plate and chain of previous centuries.
 
 ##### Armour
 
-Armour                             AP     ENC     Locations                           Cost
-Duellist's Half-Cape               2      1       Chest, Arm (wearer's choice)        200 sp
-Buff Coat                          1      2       Chest, Arms, Abdomen                150 sp
-Pitch Jacket                       3      2       Chest, Abdomen                      10 sp
-Breastplate                        6      4       Chest, Abdomen                      1,000 sp
-Helmet                             5      1       Head                                300 sp
+| Armour                           | AP   | ENC   | Locations                         | Cost |
+|----------------------------------|------|-------|-----------------------------------|------|
+| Duellist's Half-Cape             | 2    | 1     | Chest, Arm (wearer's choice)      | 200 sp |
+| Buff Coat                        | 1    | 2     | Chest, Arms, Abdomen              | 150 sp |
+| Pitch Jacket                     | 3    | 2     | Chest, Abdomen                    | 10 sp |
+| Breastplate                      | 6    | 4     | Chest, Abdomen                    | 1,000 sp |
+| Helmet                           | 5    | 1     | Head                              | 300 sp |
 
 
-Duellists Half-Cape: This is a length of flexible cloth that is often cut into a draped cape of sorts
+**Duellists Half-Cape**: This is a length of flexible cloth that is often cut into a draped cape of sorts
 that hangs over the chest and unused arm during a swordfight. A number of stiff leather strips
 are sewn into the cape here and there, giving additional protection to the areas they cover. The
 half-cape's construction allows it to be twirled over one arm or the other as a Combat Reaction.
@@ -1290,87 +1021,92 @@ This adds the cape's Armour Points to the covered arm if desired. Also, if taken
 chest and held in one hand, the half-cape can be used like a buckler - offering no AP protection
 but allowing a +10% bonus to Parry skill tests.
 
-Buff Coat: A heavy jacket, commonly worn by sailors.
+**Buff Coat**: A heavy jacket, commonly worn by sailors.
 
-Pitch Jacket: A linen shirt or jacket, covered with hardened pitch. Easy to improvise on board
+**Pitch Jacket**: A linen shirt or jacket, covered with hardened pitch. Easy to improvise on board
 a ship.
 
-Breastplate: Some soldiers wear still metal breastplates as a defence against enemy blades.
+**Breastplate**: Some soldiers wear still metal breastplates as a defence against enemy blades.
 
 
-##### Clothing
+### Clothing
 
-Item                                                            Cost
-Poor-quality clothes                                            3 SP
-Pirate clothes                                                  5 SP
-Average clothes                                                 25 SP
-Fine clothes                                                    120 SP
-Very fine clothes                                               1,200 SP
-Magnificent clothes                                             1,500 SP
-Hat                                                             10 SP
-Good boots                                                      50 SP
-Officer's Uniform                                               80 SP
-Priest's robe                                                   20 SP
-Powdered Wig                                                    20 SP
+| Item                                                          | Cost |
+|---------------------------------------------------------------|------|
+| Poor-quality clothes                                          | 3 SP |
+| Pirate clothes                                                | 5 SP |
+| Average clothes                                               | 25 SP |
+| Fine clothes                                                  | 120 SP |
+| Very fine clothes                                             | 1,200 SP |
+| Magnificent clothes                                           | 1,500 SP |
+| Hat                                                           | 10 SP |
+| Good boots                                                    | 50 SP |
+| Officer's Uniform                                             | 80 SP |
+| Priest's robe                                                 | 20 SP |
+| Powdered Wig                                                  | 20 SP |
 
 Pirates wear a gaudy mish-mash of clothing, ranging from rags to fine jackets and boots taken
 from the dead, together with head-scarves, gold jewellery and all manner of trinkets, curios and
 charms.
 
 
-Clothes Maketh The Man
+#### Clothes Maketh The Man
 When dealing with the aristocracy and the authorities, fine clothes are a requirement. An
 Adventurer suffers a modifier to all Courtesy and Influence tests depending on his dress in any
 encounter with wealthy, respectable types in civilised surroundings (obviously, Influence works
 very differently if the wealthy gent with his fine powdered wig is kneeling on the deck with a
 cutlass at his throat).
 
+##### Clothes
 
-Garb                      Modifier
-Pirate's clothes          -50%
-Poor clothes              -25%
-Average clothes           -10%
-Fine clothes              +0%
-Very fine clothes         +10%
-Magnificent clothes       +25%
+| Garb                    | Modifier |
+|-------------------------|----------|
+| Pirate's clothes        | -50%     |
+| Poor clothes            | -25%     |
+| Average clothes         | -10%     |
+| Fine clothes            | +0%      |
+| Very fine clothes       | +10%     |
+| Magnificent clothes     | +25%     |
 
 
 ##### Food & Drink
 
-Item                      Cost
-Meal, Fine                30 SP
-Meal, Good                15 SP
-Meal, Average             3 SP
-Meal, Poor                1 SP
-Bread                     1/4 SP
-Chicken                   3 SP
-Pig                       35 SP
-Ale                       1/4 SP
-Rum                       30 SP
-Wine, cheap               5 SP
-Wine, good                1/2 SP
+| Item                    | Cost |
+|-------------------------|------|
+| Meal, Fine              | 30 SP |
+| Meal, Good              | 15 SP |
+| Meal, Average           | 3 SP |
+| Meal, Poor              | 1 SP |
+| Bread                   | 1/4 SP |
+| Chicken                 | 3 SP |
+| Pig                     | 35 SP |
+| Ale                     | 1/4 SP |
+| Rum                     | 30 SP |
+| Wine, cheap             | 5 SP |
+| Wine, good              | 1/2 SP |
 
 
 ##### Equipment
 
-Item                      Cost
-Compass                   150 SP
-Logbook                   15 SP
-Pocket watch              25 SP
-Telescope                 1,500 SP
-Parrot                    150 SP
-Eye patch                 5 SP
-Peg Leg                   50 SP
-Hook Hand                 150 SP
+| Item                    | Cost |
+|-------------------------|------|
+| Compass                 | 150 SP |
+| Logbook                 | 15 SP |
+| Pocket watch            | 25 SP |
+| Telescope               | 1,500 SP |
+| Parrot                  | 150 SP |
+| Eye patch               | 5 SP |
+| Peg Leg                 | 50 SP |
+| Hook Hand               | 150 SP |
 
 
 ##### Professional Tools
 
-Item                      Cost
-Navigator's Instruments   650 SP
-Shipwright's Tools        250 SP
-Surgeon's Kit             600 SP
-
+| Item                    | Cost |
+|-------------------------|------|
+| Navigator's Instruments | 650 SP |
+| Shipwright's Tools      | 250 SP |
+| Surgeon's Kit           | 600 SP |
 
 
 # Crews and Sworn Companions
@@ -1390,7 +1126,7 @@ ship that big is no doubt accompanied by a consort vessel or three, making her c
 admiral.
 
 
-Crew Quality
+## Crew Quality
 In Pirates of Legend, the quality of a crew counts for much. An experienced gang of dangerous
 pirates will obviously outfight or out sail a few green merchant seamen but would still turn tail
 and run when confronted by the best ship in the Royal Navy.
@@ -1400,15 +1136,16 @@ associated with it, which is the crew's basic skill level. This is the average s
 when it comes to making a Skill Test for the whole ship. Individual sailors may have a skill that is
 far higher or lower than this average but crew Skill Tests are made for a whole crew.
 
-Crew Quality                                                         Base Skill
-Atrocious (Landlubbers)                                              15%
-Very Poor (Green)                                                    25%
-Poor (Scurvy Dogs)                                                   40%
-Average (Passing Fair)                                               50%
-Good (Sea Dogs)                                                      60%
-Excellent (Devilish Cut-throats)                                     75%
-Fearsome (Most Notorious Pirates)                                    100%
-Peerless (Devils Straight From Hell)                                 150%
+| Crew Quality                                                       | Base Skill |
+|--------------------------------------------------------------------|------------|
+| Atrocious (Landlubbers)                                            | 15%        |
+| Very Poor (Green)                                                  | 25%        |
+| Poor (Scurvy Dogs)                                                 | 40%        |
+| Average (Passing Fair)                                             | 50%        |
+| Good (Sea Dogs)                                                    | 60%        |
+| Excellent (Devilish Cut-throats)                                   | 75%        |
+| Fearsome (Most Notorious Pirates)                                  | 100%       |
+| Peerless (Devils Straight From Hell)                               | 150%       |
 
 
 While this base skill can be used for any Skill Test made by the crew, a few skills are obviously
@@ -1419,9 +1156,7 @@ can make all the difference in a battle. Therefore, a crew gets bonuses from hav
 in positions of authority.
 
 
-
-
-Choice Men and Reduced Crews
+#### Choice Men and Reduced Crews
 A crew's quality is the average of the pirates' skills. Now, some lazy sod or clumsy fool will drag
 that average down, just as an especially hardy sailor or iron-nerved cannoneer will bring the total
 up. In a given crew, then, it is possible to pick the best men and come up with a smaller crew of
@@ -1432,19 +1167,19 @@ It is possible, obviously, to improve a crew by taking the best sailors from oth
 rid of your own unskilled dogs. Pirates often raid the hardy crews of the Newfoundland fishing
 boats for new recruits.
 
-
-Officer                                    Crew Skill
-Captain                                    Shiphandling, Persistence, Adds to morale
-Quartermaster                              Hand to Hand (1), Resilience
-Boatswain                                  Boating
-Gunner                                     Gunnery, Firearms (2)
-Cook                                       Adds to morale
-Carpenter's Mate                           Handiwork
-Doctor                                     Adds to healing
-Master                                     Lore (navigation)
-Musician                                   Perform
-First Mate                                 Any one
-Second Mate                                Any one
+| Officer                                  | Crew Skill |
+|------------------------------------------|------------|
+| Captain                                  | Shiphandling, Persistence, Adds to morale |
+| Quartermaster                            | Hand to Hand (1), Resilience |
+| Boatswain                                | Boating    |
+| Gunner                                   | Gunnery, Firearms (2) |
+| Cook                                     | Adds to morale |
+| Carpenter's Mate                         | Handiwork  |
+| Doctor                                   | Adds to healing |
+| Master                                   | Lore (navigation) |
+| Musician                                 | Perform    |
+| First Mate                               | Any one    |
+| Second Mate                              | Any one    |
 
 1 - The Quartermaster may choose any one melee weapon to determine the bonus he gives the crew.  
 2 - The Gunner may choose either his Pistols or Longarms skill to determine the bonus he gives
@@ -1456,16 +1191,14 @@ crew checks. A Poor crew has a base skill of 40%, plus 7% for the leadership pro
 gunner, so they would have an effective Gunnery of 47%.
 
 
-Pirate Flags
+#### Pirate Flags
 While the skull-and-crossbones is the traditional pirate flag, it was not the only flag used. Every
 captain had his own unique flag, a barbaric coat of arms that everyone will recognise. Pirate flags
 used a combination of symbols of death, like skulls, hourglasses, bloody swords and so on. A
 newly elected captain should choose the flag he will sail under.
 
 
-
-
-Crew Skill Tests
+### Crew Skill Tests
 A crew Skill Test is made whenever the whole crew must act as one. They work in exactly the
 same way as a normal Skill Test - roll percentile dice and try to get under the crew's skill total.
 For example, when firing a broadside of cannons, then the crew must make a Gunnery test.
@@ -1480,7 +1213,7 @@ three Hero Points to re-roll such a test, not just one. Several Adventurers can 
 this Hero Point cost for a re-roll.
 
 
-Morale
+### Morale
 The other major factor in a crew is morale - how much stomach they have for a fight and how
 much belief they have in their captain and the course he has set. Morale is bolstered by victories
 and plunder, and sapped by defeat, dullness or adversity. Morale tests must often be made in
@@ -1491,21 +1224,22 @@ Low or Mutinous.
 
 Morale is calculated at the start of a voyage, as follows:
 
-Crew Quality                                   Base Morale
-Atrocious                                      Low
-Very Poor                                      Shaken
-Poor                                           Shaken
-Average                                        Average
-Good                                           Average
-Excellent                                      High
-Fearsome                                       High
-Peerless                                       Very High
+| Crew Quality                                 | Base Morale |
+|----------------------------------------------|-------------|
+| Atrocious                                    | Low         |
+| Very Poor                                    | Shaken      |
+| Poor                                         | Shaken      |
+| Average                                      | Average     |
+| Good                                         | Average     |
+| Excellent                                    | High        |
+| Fearsome                                     | High        |
+| Peerless                                     | Very High   |
 
-Add the following factors to that base morale:
-•	    If the captain has a Charisma of 15 or higher, increase the crew's morale by one level.
-•	    If the cook has a Cooking skill of 50% or higher, increase the crew's morale by one level.
-•	    If the musician has a Perform skill of 50% or higher, increase the crew's morale by one
- level.
+Add the following factors to that base morale:  
+* If the captain has a Charisma of 15 or higher, increase the crew's morale by one level.
+* If the cook has a Cooking skill of 50% or higher, increase the crew's morale by one level.
+* If the musician has a Perform skill of 50% or higher, increase the crew's morale by one
+  level.
 
 Morale is also recalculated if the captain is replaced.
 
@@ -1513,7 +1247,7 @@ Morale will rise and fall very quickly during voyages. See Piracy, page 63, for 
 events at sea.
 
 
-Morale Tests
+### Morale Tests
 Certain situations will call for a Morale test, which is made using the Crew's Persistence score. If
 this test is failed, then the crew's nerve has faltered and they lose one level of Morale. On a critical
 success, the crew is galvanised by the challenge and gains one level of Morale.
@@ -1524,26 +1258,26 @@ Hero Points may be spent to re-roll Morale tests - it costs the Adventurers thre
 get such a re-roll.
 
 
-Morale Bonuses
+### Morale Bonuses
 A crew gets a bonus to all Crew Tests based on its morale. This morale bonus can be a very useful
 edge in a fight between evenly matched crews.
 
-Morale                                        Modifier to Crew Tests
-Mutinous                                      -10%
-Low                                           -5%
-Shaken                                        +0%
-Average                                       +0%
-High                                          +0%
-Very High                                     +5%
-Fanatic                                       +10%
+| Morale                                      | Modifier to Crew Tests |
+|---------------------------------------------|------------------------|
+| Mutinous                                    | -10%                   |
+| Low                                         | -5%                    |
+| Shaken                                      | +0%                    |
+| Average                                     | +0%                    |
+| High                                        | +0%                    |
+| Very High                                   | +5%                    |
+| Fanatic                                     | +10%                   |
 
-
-Elections
+### Elections
 An Adventurer's Reputation determines how much influence he has on board ship. Most
 ordinary deck-hands will just follow the Adventurer with the highest Reputation, or who has
 won their trust. In any contest of influence on board ship, follow this procedure:
 
-Step One
+**Step One**  
 Start by determining who the contenders are. For example, if there are two Adventurers on
 board who hope to be quartermaster, then these two are the contenders. If the Adventurers are
 trying to convince the crew that the captain should be removed, then the captain and one of the
@@ -1551,15 +1285,26 @@ Adventurers are the contenders.
 
 Next, the positions of the rest of the crew must be considered.
 
-Step Two
+**Step Two**  
 Remove from consideration all members of the crew whose Reputation is less than half that of
 the highest Reputation on board ship. Effectively, this will remove all but the officers and other
 highly influential pirates on board. For example, if the captain has Reputation 16, then anyone
 with a Reputation of less than eight is simply irrelevant in terms of sway.
 
+**Step Three**  
+Of those crewmen remaining after step two, determine who each of them supports. Add half
+their Reputation scores, rounding down, to the Reputation score of the contender they support.
+This total score is referred to as an Adventurer's Sway in the election.
+
+**Step Four**  
+Finally, each contender rolls 1D10 and adds it to their score. The contender with the highest
+score wins the contest. In certain circumstances, a dramatic speech or other act to inspire loyalty,
+like bribery, can give the Adventurer a further bonus to Sway.
+
+Some positions give a temporary Reputation bonus. This bonus is applied immediately.
 
 
-Going On The Account
+#### Going On The Account
 To 'go on the account' means to become a pirate and join a pirate crew. The majority of pirates
 joined such crews voluntarily, hoping for little work but rich rewards, or they were running from
 something and had nowhere else to go. One may as well be hung for being a pirate as for being
@@ -1570,74 +1315,63 @@ the gut, only the most principled man would not join the pirates.
 Every pirate crew has its own articles that every man among them must sign to. One famous set
 of articles, used by the crew of Captain Roberts, ran as follows:
 
-ARTICLE I. Every man shall have an equal vote in affairs of moment. He shall have an equal
+**ARTICLE I.** Every man shall have an equal vote in affairs of moment. He shall have an equal
 title to the fresh provisions or strong liquors at any time seized and shall use them at pleasure
 unless a scarcity may make it necessary for the common good that a retrenchment may be voted.
 
-ARTICLE II. Every man shall be called fairly in turn by the list on board of prizes, because over
+**ARTICLE II.** Every man shall be called fairly in turn by the list on board of prizes, because over
 and above their proper share, they are allowed a shift of clothes. But if they defraud the company
 to the value of even one dollar in plate, jewels or money, they shall be marooned. If any man robs
 another he shall have his nose and ears slit and be put ashore where he shall be sure to encounter
 hardships.
 
-ARTICLE III. None shall game for money either with dice or cards.
+**ARTICLE III.** None shall game for money either with dice or cards.
 
-ARTICLE IV. The lights and candles should be put out at eight at night and if any of the crew
+**ARTICLE IV.** The lights and candles should be put out at eight at night and if any of the crew
 desire to drink after that hour they shall sit upon the open deck without lights.
 
-ARTICLE V. Each man shall keep his piece, cutlass and pistols at all times clean and ready for
+**ARTICLE V.** Each man shall keep his piece, cutlass and pistols at all times clean and ready for
 action.
 
-ARTICLE VI. No boy or woman to be allowed amongst them. If any man shall be found
+**ARTICLE VI.** No boy or woman to be allowed amongst them. If any man shall be found
 seducing any of the latter sex and carrying her to sea in disguise he shall suffer death.
 
-ARTICLE VII. He that shall desert the ship or his quarters in time of battle shall be punished
+**ARTICLE VII.** He that shall desert the ship or his quarters in time of battle shall be punished
 by death or marooning.
 
-ARTICLE VIII. None shall strike another on board the ship but every man's quarrel shall
+**ARTICLE VIII.** None shall strike another on board the ship but every man's quarrel shall
 be ended on shore by sword or pistol in this manner. At the word of command from the
 quartermaster, each man being previously placed back to back, shall turn and fire immediately.
 If any man does not, the quartermaster shall knock the piece out of his hand. If both miss their
 aim they shall take to their cutlasses, and he that draweth first blood shall be declared the victor.
 
-ARTICLE IX. No man shall talk of breaking up their way of living till each has a share of £l,000.
+**ARTICLE IX.** No man shall talk of breaking up their way of living till each has a share of £l,000.
 Every man who shall become a cripple or lose a limb in the service shall have 800 pieces of eight
 from the common stock and for lesser hurts proportionately.
 
-ARTICLE X. The captain and the quartermaster shall each receive two shares of a prize, the
+**ARTICLE X.** The captain and the quartermaster shall each receive two shares of a prize, the
 master gunner and boatswain, one and one half shares, all other officers one and one quarter, and
 private gentlemen of fortune one share each.
 
-ARTICLE XI. The musicians shall have rest on the Sabbath Day only by right. On all other
+**ARTICLE XI.** The musicians shall have rest on the Sabbath Day only by right. On all other
 days by favour only.
 
 Every pirate ship will have its own articles, agreed upon and kept to by the crew.
 
 
-Step Three
-Of those crewmen remaining after step two, determine who each of them supports. Add half
-their Reputation scores, rounding down, to the Reputation score of the contender they support.
-This total score is referred to as an Adventurer's Sway in the election.
-
-Step Four
-Finally, each contender rolls 1D10 and adds it to their score. The contender with the highest
-score wins the contest. In certain circumstances, a dramatic speech or other act to inspire loyalty,
-like bribery, can give the Adventurer a further bonus to Sway.
-
-
-
-Captain of Shreds and Patches
+#### Captain of Shreds and Patches
 The pirate ship Greywater has gone to the bottom, along with most of her crew. However, 12
 pirates managed to escape on board a battered boat and now they are arguing amongst themselves
 over who is in charge. Their Reputation scores are important for this contest, so here they are:
 
-Pirate                                              Reputation
-Pete the Scoundrel                                  8
-One-Eyed Joe                                        6
-Mart Roberts                                        6
-Alan Fairhands                                      5
-French Lou                                          5
-Rest of the pirates                                 0-3
+| Pirate                                            | Reputation |
+|---------------------------------------------------|------------|
+| Pete the Scoundrel                                | 8          |
+| One-Eyed Joe                                      | 6          |
+| Mart Roberts                                      | 6          |
+| Alan Fairhands                                    | 5          |
+| French Lou                                        | 5          |
+| Rest of the pirates                               | 0-3        |
 
 Pete the Scoundrel, a notorious murderer, and One-Eyed Joe are both in contention to be
 captain. As Pete has Reputation 8, anyone with Reputation 4 or less is irrelevant.
@@ -1655,12 +1389,7 @@ Pete the Scoundrel smiles, and fingers his wickedly sharp knife. One-Eyed Joe, i
 what you don't see on your left side can still hurt you...
 
 
-
-
-Some positions give a temporary Reputation bonus. This bonus is applied immediately.
-
-
-Captains, Quartermasters and Officers
+### Captains, Quartermasters and Officers
 Holding a position of authority on board a ship gives an Adventurer more responsibilities and
 often puts him in a perilous situation but does also give him more influence among the crew
 and a greater share of the prize. Every pirate vessel will have a captain and a quartermaster at the
@@ -1676,28 +1405,56 @@ grumbling and dissent.
 An officer also gives a bonus to certain crew skill tests, equal to one-fifth the officer's skill in that
 category.
 
-Captain: Commands the ship in battle; orders its course; leads the crew (note that becoming a
+**Captain**: Commands the ship in battle; orders its course; leads the crew (note that becoming a
 captain gives a permanent +4 bonus to Reputation as well as a temporary one - see the Reputation
 table on page 92). The captain gives a bonus to the crew's Shiphandling, Persistence and Morale.
 
-Quartermaster: Resolves disputes, shares out plunder, leads boarding actions. The quartermaster
+**Quartermaster**: Resolves disputes, shares out plunder, leads boarding actions. The quartermaster
 gives a bonus to all Hand to Hand attacks and to Resilience.
 
-Boatswain: Commands the ship's boats; second in command in boarding actions. The boatswain
+**Boatswain**: Commands the ship's boats; second in command in boarding actions. The boatswain
 gives a bonus to Boating.
 
-Gunner: Commands the ship's guns; keeps the armoury. The gunner gives a bonus to Gunnery
+**Gunner**: Commands the ship's guns; keeps the armoury. The gunner gives a bonus to Gunnery
 and Firearms.
 
-Cook: Commands the ship's stores. Gives a bonus to Morale.
+**Cook**: Commands the ship's stores. Gives a bonus to Morale.
 
-Carpenter's Mate: Commands repairs and supplies. Gives a bonus to Craft (Carpentry) used
+**Carpenter's Mate**: Commands repairs and supplies. Gives a bonus to Craft (Carpentry) used
 when repairing a ship.
 
+**Doctor**: Sews up wounds and saws off limbs. Gives a bonus to the rate at which a crew heals
+wounds.
+
+**Master**: Guides the ship from port to port. Gives a bonus to Navigation.
+
+**Musician**: Entertains the crew, and adds to Morale. Perform is also used when vapouring to
+intimidate enemy crews.
+
+**First Mate**: Present only on large ships (100 crew or more); helps command the crew. Gives a
+bonus to any one skill.
+
+**Second Mate**: Present only on very large ships (200 crew or more); helps command the crew.
+Gives a bonus to any one skill.
+
+##### Benefits of Rank
+
+| Position              | Shares of Booty   | Requirement              | Temporary Reputation Modifier |
+|-----------------------|-------------------|--------------------------|-------------------------------|
+| Captain               | 5                 | None                     | +6                            |
+| Quartermaster         | 3                 | None                     | +5                            |
+| Boatswain             | 11/2              | Boating 20%              | +3                            |
+| Gunner                | 11/2              | Gunnery 20%              | +3                            |
+| Cook                  | 1                 | Cooking 20%              | +4                            |
+| Carpenter's Mate      | 11/4              | Craft (carpentry) 20%    | +2                            |
+| Doctor                | 11/4              | First Aid 20%            | +2                            |
+| Master                | 11/2              | Lore (navigation) 20%    | +2                            |
+| Musician              | 1                 | Perform 20%              | +2                            |
+| First Mate            | 11/4              | None                     | +2                            |
+| Second Mate           | 11/4              | None                     | +2                            |
 
 
-
-Captain of Shreds & Patches, Part II.
+#### Captain of Shreds & Patches, Part II.
 To return to those unfortunates on that doomed little boat ...
 
 The 12 survivors of the Greywater are a poor crew but a crew nonetheless, so they shall serve as
@@ -1708,47 +1465,18 @@ One-Eyed Joe is their Captain; they elect Mart Roberts as Quartermaster and Alan
 Boatswain. Without cannons, there is no need for a Gunner and none of them have the skills to
 take on any other office.
 
-Crew Skill           %       Officer                 Name                     Officer Skill
-Shiphandling         52      Captain                 One Eyed Joe             60%
-Persistence          48      ~                       ~                        40%
-Hand to Hand         49      Quartermaster           Mart Roberts             45%
-Resilience           46      ~                       ~                        30%
-Boating              50      Boatswain               Alan Fairhands           50%
-Gunnery              40      Gunner                  None                     ~
-Firearms             40      ~                       ~                        ~
+| Crew Skill         | %     | Officer               | Name                   | Officer Skill |
+|--------------------|-------|-----------------------|------------------------|---------------|
+| Shiphandling       | 52    | Captain               | One Eyed Joe           | 60%           |
+| Persistence        | 48    | ~                     | ~                      | 40%           |
+| Hand to Hand       | 49    | Quartermaster         | Mart Roberts           | 45%           |
+| Resilience         | 46    | ~                     | ~                      | 30%           |
+| Boating            | 50    | Boatswain             | Alan Fairhands         | 50%           |
+| Gunnery            | 40    | Gunner                | None                   | ~             |
+| Firearms           | 40    | ~                     | ~                      | ~             |
 
 
-Doctor: Sews up wounds and saws off limbs. Gives a bonus to the rate at which a crew heals
-wounds.
-
-Master: Guides the ship from port to port. Gives a bonus to Navigation.
-
-Musician: Entertains the crew, and adds to Morale. Perform is also used when vapouring to
-intimidate enemy crews.
-
-First Mate: Present only on large ships (100 crew or more); helps command the crew. Gives a
-bonus to any one skill.
-
-Second Mate: Present only on very large ships (200 crew or more); helps command the crew.
-Gives a bonus to any one skill.
-
-##### Benefits of Rank
-
-Position                Shares of Booty     Requirement                Temporary Reputation Modifier
-Captain                 5                   None                       +6
-Quartermaster           3                   None                       +5
-Boatswain               11/2                Boating 20%                +3
-Gunner                  11/2                Gunnery 20%                +3
-Cook                    1                   Cooking 20%                +4
-Carpenter's Mate        11/4                Craft (carpentry) 20%      +2
-Doctor                  11/4                First Aid 20%              +2
-Master                  11/2                Lore (navigation) 20%      +2
-Musician                1                   Perform 20%                +2
-First Mate              11/4                None                       +2
-Second Mate             11/4                None                       +2
-
-
-Improvement
+### Improvement
 Crews gain Improvement rolls just like Adventurers but a crew gains Improvement rolls
 more rarely - on average, a crew gets one roll per story. Crews use Improvement rolls just like
 Adventurers to improve their skills.
@@ -1756,13 +1484,13 @@ Adventurers to improve their skills.
 A crew Improvement roll may also be spent to increase Morale by one level.
 
 
-Mutinies
+### Mutinies
 If a crew's Morale is reduced to Mutinous, then they are prepared to turn on their captain. Roll
 1D6 on the following list to determine the crew's reaction:
 
 1. Demand an election.
 2. The highest reputation officer challenges the captain to a duel. If no-one dares challenge him,
-roll again.
+   roll again.
 3. A conspiracy of officers overthrows the captain and chooses one of their own to lead.
 4. Wait until another ship is captured, then take that as their own ship.
 5. The crew quarrel among themselves, leading to bloody slaughter on the deck.
@@ -1775,18 +1503,17 @@ rebel for the moment and will defer their mutiny under the next opportunity, giv
 a chance to rebuild morale.
 
 
-Raising Morale
-There are several ways to raise morale:
-•	     Taking a prize: If the pirates capture a ship without significant losses, they gain one level
+### Raising Morale
+There are several ways to raise morale:  
+* Taking a prize: If the pirates capture a ship without significant losses, they gain one level
   of Morale.
-•	     Taking a rich prize: Capturing a ship with a Treasure or Rich Cargo on board also gives
+* Taking a rich prize: Capturing a ship with a Treasure or Rich Cargo on board also gives
   one level of Morale.
-•	     Getting drunk: Allowing a crew to get properly drunk, or spending time at a port, gives
+* Getting drunk: Allowing a crew to get properly drunk, or spending time at a port, gives
   1D3 levels of morale. A drunken crew suffers a penalty to all Crew tests.
 
 
-
-Battle Stations
+#### Battle Stations
 In a battle, there are three main tasks - sailing the ship, manning the guns and actually fighting
 with musket or cutlass. These three crews are handled separately in a battle - see page 63 for
 more details on crews in battles.
@@ -1794,80 +1521,32 @@ more details on crews in battles.
 
 
 
-Healing Damage To A Crew
+### Healing Damage To A Crew
 Each week, the crew should make a Resilience test to see how many of the crew are restored to
 health.
 
-Crew Was...                            Failed Test                   Successful Test
-Wounded                                50%                           100%
-Seriously Wounded                      25%                           50%
-Mauled                                 10%                           25%
-Slaughtered                            0%                            10%
+| Crew Was...                          | Failed Test                 | Successful Test |
+|--------------------------------------|-----------------------------|-----------------|
+| Wounded                              | 50%                         | 100%            |
+| Seriously Wounded                    | 25%                         | 50%             |
+| Mauled                               | 10%                         | 25%             |
+| Slaughtered                          | 0%                          | 10%             |
 
 Having a doctor on board ship gives a +20% bonus to the Resilience test.
 
 
-Recompense For Damage
+### Recompense For Damage
 Each pirate who is injured permanently (i.e. suffers a Major Wound) may claim recompense
 from the common stores. The amount payable to the crippled man depends on the wound he
 suffered in action:
 
-Injury                              Compensation
-Right Arm Lost                      600 pieces of eight (4,800 silver)
-Left Arm Lost                       500 pieces of eight (4,000 silver)
-Right Leg Lost                      500 pieces of eight (4,000 silver)
-Left Leg Lost                       400 pieces of eight (3,200 silver)
-Eye or Finger Lost                  100 pieces of eight (800 silver)
-
-
-# CREW SHEET
-
-```
-Ship:                                           Morale      Modifier to Crew Checks
-                                                Mutinous    -10%
-# of Men:                                       Low         -5%
-                                                Shaken      +0%
-# Injured:                                      Average     +0%
-                                                High        +0%
-# Healthy:                                      Very High   +5%
-                                                Fanatic     +10%
-Base Skill:
-
-```
-
-                                                              
-Crew Skill        %    Officer          Name     Officer Skill   Reputation   Bonus Reputation
-Shiphandling           Captain                                                +6
-Persistence
-Hand to Hand           Quartermaster (1)                                      +5
-Resilience
-Boating                Boatswain                                              +3
-Gunnery                Gunner                                                 +3
-Pistols
-Longarms
-Adds to morale         Cook                                                   +4
-Handiwork              Carpenter's                                            +2
-                       Mate (2)
-                       Doctor                                                 +2
-Navigation             Navigator                                              +2
-Perform                Musician                                               +2
-Adds to morale
-                       First Mate                                             +2
-                       Second Mate                                            +2
-.                 .    .                .        .               .            . 
-
-DAMAGE
-
-                                            Seriously
-           Running                Wounded   Wounded     Mauled   Slaughtered
-Group      Wounds Total   Fresh   (-10%)    (-20%)      (-30%)   (-50%)
-
-Sailing
-
-Gunnery
-
-Boarding
-
+| Injury                            | Compensation |
+|-----------------------------------|--------------|
+| Right Arm Lost                    | 600 pieces of eight (4,800 silver) |
+| Left Arm Lost                     | 500 pieces of eight (4,000 silver) |
+| Right Leg Lost                    | 500 pieces of eight (4,000 silver) |
+| Left Leg Lost                     | 400 pieces of eight (3,200 silver) |
+| Eye or Finger Lost                | 100 pieces of eight (800 silver) |
 
 
 # Ships and the Sea
@@ -1904,52 +1583,49 @@ types of ship. The defining quality of a ship was often not its size but its rig
 A ship can be up to 50% bigger or smaller than the averages listed, with a commensurate change
 in Structural Points and guns.
 
-
-Ship Statistics
-Length: The distance from bow to stern.
-
-Draft: The depth of water needed for the ship to manoeuvre effectively and avoid running
-aground. This is the distance between the ship's keel and the waterline.
-
-
-Your Starting Ship
+### Your Starting Ship
 It is assumed that most pirate games will begin with the Adventurers being part of the crew of
 a sloop - the smallest vessel commonly used by pirates. Roll on the Ship Traits table for more
 details of the sloop.
 
-Ship Traits
+##### Ship Traits
 
-Roll 1D100          Crew           Provisions         Ammo             Cargo
-0-50                10 sailors     None               1D3 tons         None
-51-75               40 sailors     1D6 tons           1D4 tons         1D6 tons Common
-76-90               60 sailors     2D6 tons           1D6 tons         2D6 tons Common
-91-00               80 sailors     4D6 tons           2D4 tons         3D6 tons Common
+| Roll 1D100        | Crew         | Provisions       | Ammo           | Cargo |
+|-------------------|--------------|------------------|----------------|-------|
+| 0-50              | 10 sailors   | None             | 1D3 tons       | None  |
+| 51-75             | 40 sailors   | 1D6 tons         | 1D4 tons       | 1D6 tons Common |
+| 76-90             | 60 sailors   | 2D6 tons         | 1D6 tons       | 2D6 tons Common |
+| 91-00             | 80 sailors   | 4D6 tons         | 2D4 tons       | 3D6 tons Common |
 
 
+### Ship Statistics
+Length: The distance from bow to stern.
 
+**Draft**: The depth of water needed for the ship to manoeuvre effectively and avoid running
+aground. This is the distance between the ship's keel and the waterline.
 
-Capacity: This indicates the cargo capacity of the ship in tons. This number reflects the ship's
+**Capacity**: This indicates the cargo capacity of the ship in tons. This number reflects the ship's
 cargo capacity in addition to the weight of the ship's rigging, crew, provisions and so forth.
 Speed: For rowed vessels, then this lists the speed at which the vessel travels per Crew Combat
 Round (30 seconds, or six normal rounds) or per 12 hour period. For sailed vessels, then a
 modifier is listed, describing how much faster or slower than average the vessel goes.
 
-Seaworthiness: The ability of the ship to stand up to the rigours of sailing. All ships must
+**Seaworthiness**: The ability of the ship to stand up to the rigours of sailing. All ships must
 undergo frequent maintenance in order to keep their Seaworthiness rating from deteriorating.
 
-Structure Points: Essentially, Structure Points are a ship's Hit Points. Damage to these represents
+**Structure Points**: Essentially, Structure Points are a ship's Hit Points. Damage to these represents
 damage to the integrity of the ship itself and ships do not heal of their own accord.
 
-Weapons: The weapons carried on the ship.
+**Weapons**: The weapons carried on the ship.
 
-Crew: The first number is the minimum needed to sail the ship without penalty. The second
+**Crew**: The first number is the minimum needed to sail the ship without penalty. The second
 number is the average crew on board such a ship and the last number is the maximum number
 of people that the ship can reasonably carry.
 
 A vessel can be sailed with as little as one-third the minimum crew - this is called a skeleton
 crew. More commonly, a captured vessel is given a two-thirds minimum crew, called a prize crew.
 
-Skill: Every ship has its own peculiarities and each design presents different challenges. This
+**Skill**: Every ship has its own peculiarities and each design presents different challenges. This
 entry firstly denotes which skill is used when operating the ship (nearly always either Boating
 or Shiphandling). Also, though any ship can be operated under ideal conditions without the
 necessity of a Skill Test, when the ship and crew are called upon for more extreme endeavours,
@@ -1957,12 +1633,12 @@ this modifier is applied to the Skill Test. Note that this modifier is in additi
 Games Master feels are appropriate.
 
 
-Overloading
+### Overloading
 If a ship is carrying more than three-quarters of its maximum cargo capacity, then its draft
 increases by 25% and it suffers a -10% penalty to Shiphandling tests.
 
 
-Crew Size & Crew Tests
+### Crew Size & Crew Tests
 A skeleton crew suffers a -20% penalty to all Shiphandling and other crew tests.
 
 A prize crew suffers a -10% penalty to all Shiphandling and other crew tests.
@@ -1970,219 +1646,294 @@ A prize crew suffers a -10% penalty to all Shiphandling and other crew tests.
 An over-crewed ship gets a +10% bonus to all Shiphandling and other appropriate crew tests.
 
 
-
-
-Changes from the Legend Ship Rules
+### Changes from the Legend Ship Rules
 The ship rules in Pirates of Legend are based on those in the Legend Core Rulebook but have a few key
 differences to reflect different priorities and the different settings. Legend assumes a fantasy-medieval
-setting, with ships that are quite different from the sloops and schooners of the Spanish Main.
-•	 Measurements are in Imperial, not Metric: Having pirates measure speed in kilometres
+setting, with ships that are quite different from the sloops and schooners of the Spanish Main.  
+* **Measurements are in Imperial, not Metric**: Having pirates measure speed in kilometres
  instead of knots, or talk about a ship being so many metres long just seems wrong, so
  imperial measurements are used. ('Avast, ye dogs, and fire the 16-kilo cannons!')
-•	 Speed works slightly differently: There is a bigger emphasis on sailing speed and wind in
+* **Speed works slightly differently**: There is a bigger emphasis on sailing speed and wind in
  Pirates of Legend, so a sailed ship's speed is measured as a bonus or penalty.
 
 
+Barge
+Hull: 3
+Structure Points: 80
+Seaworthiness: 10
+Length: 4 ft.
+Draft: 1 ft.
+Capacity: 12 tons
+Crew: 2/4/12
+Speed: 18 ft. / 3 knots, poled.
+Weapons: None.
+Masts: None
+Skill: Boating +0%
 
-
-Barge                                               Brigantine
-Hull: 3                                             Hull: 4
-Structure Points: 80                                Structure Points: 250
-Seaworthiness: 10                                   Seaworthiness: 15
-Length: 4 ft.                                       Length: 100 ft.
-Draft: 1 ft.                                        Draft: 15 ft.
-Capacity: 12 tons                                   Capacity: 100 tons.
-Crew: 2/4/12                                        Crew: 30/60/120
-Speed: 18 ft. / 3 knots, poled.                     Speed: +0
-Weapons: None.                                      Weapons
-Masts: None                                         Fore: None
-Skill: Boating +0%                                  Aft: Four 18-pounders (4D8 each)
-                                               Broadside: Ten 18-pounders (4D8 each)
-                                               Skill: Shiphandling +0%
 Barque
 Hull: 4
-Structure Points: 100                               Canoe
-Seaworthiness: 25                                   The statistics for this 'dugout' canoe are placed in
-Length: 80 ft.                                      parentheses after the statistics for the hide canoe.
-Draft: 10 ft.                                       Hull: 1 (2)
-Capacity: 80 tons.                                  Structure Points: 4 (6)
-Crew: 15/30/60                                      Seaworthiness: 7
-Speed: +0                                           Length: 12ft
-Weapons                                             Draft: 1 ft.
-Fore: None                                          Capacity: 0.25 tons
-Aft: None                                           Crew: 1-2 rowers
-Broadside: Eight 18-pounders (4D8 each)             Speed: 72ft. / 12 knots paddled
-Skill: Shiphandling +0%                             Weapons: None
-                                               Skill: Boating +20%
+Structure Points: 100
+Seaworthiness: 25
+Length: 80 ft.
+Draft: 10 ft.
+Capacity: 80 tons.
+Crew: 15/30/60
+Speed: +0
+Weapons
+Fore: None
+Aft: None
+Broadside: Eight 18-pounders (4D8 each)
+Skill: Shiphandling +0%
 
-Corvette                                  Frigate
-Hull: 4                                   Hull: 5
-Structure Points: 150                     Structure Points: 180
-Seaworthiness: 18                         Seaworthiness: 20
-Length: 60 ft.                            Length: 90 ft.
-Draft: 10 ft.                             Draft: 10 ft.
-Capacity: 40 tons.                        Capacity: 80 tons.
-Crew: 15/50/80                            Crew: 20/60/120
-Speed: +6 feet/+1 knot                    Speed: +12 ft/2 knots
-Weapons:                                  Weapons
-Fore: Two 9-pounders (4D6 each)           Fore: Two 9-pounders (4D6 each)
-Broadside: Eight 18-pounders (4D8 each)   Aft: Two 9-pounders (4D6 each)
-Skill: Shiphandling +0%                   Broadside: Ten 18-pounders (4D8 each)
-                                       Skill: Shiphandling +10%
+Brigantine
+Hull: 4
+Structure Points: 250
+Seaworthiness: 15
+Length: 100 ft.
+Draft: 15 ft.
+Capacity: 100 tons.
+Crew: 30/60/120
+Speed: +0
+Weapons
+Fore: None
+Aft: Four 18-pounders (4D8 each)
+Broadside: Ten 18-pounders (4D8 each)
+Skill: Shiphandling +0%
+
+Canoe
+The statistics for this 'dugout' canoe are placed in
+parentheses after the statistics for the hide canoe.
+Hull: 1 (2)
+Structure Points: 4 (6)
+Seaworthiness: 7
+Length: 12ft
+Draft: 1 ft.
+Capacity: 0.25 tons
+Crew: 1-2 rowers
+Speed: 72ft. / 12 knots paddled
+Weapons: None
+Skill: Boating +20%
+
+Corvette
+Hull: 4
+Structure Points: 150
+Seaworthiness: 18
+Length: 60 ft.
+Draft: 10 ft.
+Capacity: 40 tons.
+Crew: 15/50/80
+Speed: +6 feet/+1 knot
+Weapons:
+Fore: Two 9-pounders (4D6 each)
+Broadside: Eight 18-pounders (4D8 each)
+Skill: Shiphandling +0%
 
 Fishing Boat
-Hull: 3                                   Galleon
-Structure Points: 100                     Hull: 5
-Seaworthiness: 18                         Structure Points: 300
-Length: 25 ft.                            Seaworthiness: 20
-Draft: 5 ft.                              Length: 200 ft.
-Capacity: 10 tons.                        Draft: 30 ft.
-Crew: 3/5/20                              Capacity: 250 tons.
-Speed: +12 ft/+2 knots                    Crew: 80/160/320
-Weapons                                   Speed: -18 ft/-3 knots
-Fore: None                                Weapons
-Aft: None                                 Fore: Four 18-pounders (4D8 each)
-Broadside: None                           Aft: Eight 18-pounders (4D8 each)
-Skill: Boating +0%                        Broadside: Sixteen 18-pounders (4D8 each),
-                                       Sixteen 24-pounders (4D10 each)
-                                       Skill: Shiphandling -10%
+Hull: 3
+Structure Points: 100
+Seaworthiness: 18
+Length: 25 ft.
+Draft: 5 ft.
+Capacity: 10 tons.
+Crew: 3/5/20
+Speed: +12 ft/+2 knots
+Weapons
+Fore: None
+Aft: None
+Broadside: None
+Skill: Boating +0%
+
+Frigate
+Hull: 5
+Structure Points: 180
+Seaworthiness: 20
+Length: 90 ft.
+Draft: 10 ft.
+Capacity: 80 tons.
+Crew: 20/60/120
+Speed: +12 ft/2 knots
+Weapons
+Fore: Two 9-pounders (4D6 each)
+Aft: Two 9-pounders (4D6 each)
+Broadside: Ten 18-pounders (4D8 each)
+Skill: Shiphandling +10%
+
 Fluyt
 Hull: 54
-Structure Points: 200                     Indiaman
-Seaworthiness: 18                         Hull: 4
-Length: 160 ft.                           Structure Points: 300
-Draft: 30 ft.                             Seaworthiness: 15
-Capacity: 250 tons.                       Length: 175 ft.
-Crew: 20/40/120                           Draft: 24 ft.
-Speed: -18 ft/-3 knots                    Capacity: 300 tons.
-Weapons                                   Crew: 50/200/300
-Fore: None                                Speed: -24 ft/-4 knots
-Aft: Four 18-pounders (4D8 each)          Weapons
-Broadside: Eight 18-pounders (4D8 each)   Fore: Four 9-pounders (4D6 each)
-Skill: Shiphandling -10%                  Aft: Six 9-pounders (4D6 each)
-                                       Broadside: Twenty-four 18-pounders (4D8 each)
-                                       Skill: Shiphandling -10%
+Structure Points: 200
+Seaworthiness: 18
+Length: 160 ft.
+Draft: 30 ft.
+Capacity: 250 tons.
+Crew: 20/40/120
+Speed: -18 ft/-3 knots
+Weapons
+Fore: None
+Aft: Four 18-pounders (4D8 each)
+Broadside: Eight 18-pounders (4D8 each)
+Skill: Shiphandling -10%
 
+Galleon
+Hull: 5
+Structure Points: 300
+Seaworthiness: 20
+Length: 200 ft.
+Draft: 30 ft.
+Capacity: 250 tons.
+Crew: 80/160/320
+Speed: -18 ft/-3 knots
+Weapons
+Fore: Four 18-pounders (4D8 each)
+Aft: Eight 18-pounders (4D8 each)
+Broadside: Sixteen 18-pounders (4D8 each),
+Sixteen 24-pounders (4D10 each)
+Skill: Shiphandling -10%
 
-                                  Weapons
-Raft                                    Fore: None
+Indiaman
+Hull: 4
+Structure Points: 300
+Seaworthiness: 15
+Length: 175 ft.
+Draft: 24 ft.
+Capacity: 300 tons.
+Crew: 50/200/300
+Speed: -24 ft/-4 knots
+Weapons
+Fore: Four 9-pounders (4D6 each)
+Aft: Six 9-pounders (4D6 each)
+Broadside: Twenty-four 18-pounders (4D8 each)
+Skill: Shiphandling -10%
+
+Raft
 Hull: 1
-                                   Aft: None
 Structure Points: 40
-                                   Broadside: None
 Seaworthiness: 10
-                                   Skill: Shiphandling +0%
 Length: 12 ft.
 Draft: 1 ft.
 Capacity: 4 tons
-                                   Sloop
-                                   Hull: 4
 Crew: 2 polemen
-                                   Structure Points: 120
 Speed: 18 ft. / 3 knots, poled
-                                   Seaworthiness: 20
 Weapons: None
-                                   Length: 60 ft.
 Skill: Boating -10%
-                                   Draft: 10 ft.
-                                   Capacity: 50 tons.
-Rowboat                                 Crew: 10/40/75
+
+Rowboat
 Hull: 2
-                                   Speed: +6 feet/+2 knots
 Structure Points: 15
-                                   Weapons
 Seaworthiness: 15
-                                   Broadside: Eight 18-pounders (4D8 each)
 Length: 15 ft.
-                                   Skill: Shiphandling +10%
 Draft: 1 ft.
 Capacity: 0.5 tons
 Crew: 1 rower
-                                   Snow
-                                   Hull: 4
 Speed: 36 ft./ 3 knots, rowed
-                                   Structure Points: 220
 Weapons: None
-                                   Seaworthiness: 18
 Modifier: Boating +0%
-                                   Length: 100 ft.
-                                   Draft: 15 ft.
-Schooner                                Capacity: 120 tons.
+
+Schooner
 Hull: 4
-                                   Crew: 30/60/120
 Structure Points: 180
-                                   Speed: +6 ft/1 knot
 Seaworthiness: 20
-                                   Weapons
 Length: 90 ft.
-                                   Fore: None
 Draft: 10 ft.
-                                   Aft: Four 18-pounders (4D8 each)
 Capacity: 100 tons.
-                                   Broadside: Ten 18-pounders (4D8 each)
 Crew: 15/50/100
-                                   Skill: Shiphandling -10%
 Speed: +0
 Weapons
 Fore: Two 9-pounders (4D6 each)
-                                   Warship
-                                   Hull: 5
 Aft: Two 9-pounders (4D6 each)
-                                   Structure Points: 250
 Broadside: Ten 18-pounders (4D8 each)
-                                   Seaworthiness: 20
 Skill: Shiphandling +10%
-                                   Length: 150 ft.
-                                   Draft: 30 ft.
-Small Trader                            Capacity: 100 tons.
+
+Small Trader
 Hull: 3
-                                   Crew: 30/120/200
 Structure Points: 100
-                                   Speed: +12 ft/2 knots
 Seaworthiness: 18
-                                   Weapons
 Length: 40 ft.
-                                   Fore: Four 9-pounders (4D6 each)
 Draft: 10 ft.
-                                   Aft: Four 9-pounders (4D6 each)
 Capacity: 40 tons.
-                                   Broadside: Twenty 18-pounders (4D8 each)
 Crew: 5/10/20
-                                   Skill: Shiphandling +10%
 Speed: +0
+Weapons
+Fore: None
+Aft: None
+Broadside: None
+Skill: Shiphandling +0%
+
+Sloop
+Hull: 4
+Structure Points: 120
+Seaworthiness: 20
+Length: 60 ft.
+Draft: 10 ft.
+Capacity: 50 tons.
+Crew: 10/40/75
+Speed: +6 feet/+2 knots
+Weapons
+Broadside: Eight 18-pounders (4D8 each)
+Skill: Shiphandling +10%
+
+Snow
+Hull: 4
+Structure Points: 220
+Seaworthiness: 18
+Length: 100 ft.
+Draft: 15 ft.
+Capacity: 120 tons.
+Crew: 30/60/120
+Speed: +6 ft/1 knot
+Weapons
+Fore: None
+Aft: Four 18-pounders (4D8 each)
+Broadside: Ten 18-pounders (4D8 each)
+Skill: Shiphandling -10%
+
+Warship
+Hull: 5
+Structure Points: 250
+Seaworthiness: 20
+Length: 150 ft.
+Draft: 30 ft.
+Capacity: 100 tons.
+Crew: 30/120/200
+Speed: +12 ft/2 knots
+Weapons
+Fore: Four 9-pounders (4D6 each)
+Aft: Four 9-pounders (4D6 each)
+Broadside: Twenty 18-pounders (4D8 each)
+Skill: Shiphandling +10%
 
 
-Ship Qualities: Optional Rule
+### Ship Qualities: Optional Rule
 To add character to a ship, qualities can be used. These are quirks of a ship's design that improve
 or hinder its performance. It is impossible to add or remove a quality from a ship; they are simply
 part of the way it is.
 
-Agile:         +10% to all Shiphandling tests     Battleshy:       -10% to all Gunnery checks
-          in battle
-Defiant:       +10% to all Gunnery tests          Clumsy:          -10% to all Shiphandling
-                                                              checks in battle
-Good:          +5% to all Crew tests              Cursed:          GM may force crew to re-roll
-                                                              one successful Crew test per
-                                                              day
-Lucky:         Re-roll one failed Crew test    Distinctive:        -10% to all Shiphandling tests
-          per day                                             to avoid detection
-Nimble:        +10% to all Shiphandling tests; Fragile:            -1 Hull
-          -1 foot draft
-Reliable:      +10% to all Handiwork tests     Foul:               +10% to all Crew Resilience
-                                                              tests
-Stealthy:      +10% to all Shiphandling tests     Ill:             -5% to all Crew tests
-          to avoid detection
-Sturdy:        +1 Hull                            Unreliable:      -10% to all Handiwork tests
-Sweet:         +10% to all Crew Resilience        Slow:            -6 ft./-1 knot Movement
-          tests
-Swift:         +6 ft./+1 knot Movement            Sluggish:        -10% to all Shiphandling
-                                                              tests; +1 foot draft
+| Quality      | Effect |
+|--------------|--------|
+| Agile        | +10% to all Shiphandling tests in battle |
+| Battleshy    | -10% to all Gunnery checks |
+| Clumsy       | -10% to all Shiphandling checks in battle |
+| Cursed       | GM may force crew to re-roll one successful Crew test per day |
+| Defiant      | +10% to all Gunnery tests |
+| Distinctive  | -10% to all Shiphandling tests to avoid detection |
+| Foul         | +10% to all Crew Resilience tests |
+| Fragile      | -1 Hull |
+| Good         | +5% to all Crew tests |
+| Ill          | -5% to all Crew tests |
+| Lucky        | Re-roll one failed Crew test per day |
+| Nimble       | +10% to all Shiphandling tests; -1 foot draft |
+| Reliable     | +10% to all Handiwork tests |
+| Slow         | -6 ft./-1 knot Movement |
+| Sluggish     | -10% to all Shiphandling tests; +1 foot draft |
+| Stealthy     | +10% to all Shiphandling tests to avoid detection |
+| Sturdy       | +1 Hull |
+| Sweet        | +10% to all Crew Resilience tests |
+| Swift        | +6 ft./+1 knot Movement |
+| Unreliable   | -10% to all Handiwork tests |
 
 
+## Movement
 
-
-Movement
-Rowing
+### Rowing
 Each vessel capable of movement by rowing or poling has a Speed entry in its description. This is
 the ship's base Movement in normal operating conditions. Rowing a vessel at this normal speed
 counts as medium activity for determining Fatigue.
@@ -2199,32 +1950,31 @@ That said, if the vessel is operating before a fresh gale or heavier wind, the l
 decreased by one step. Thus moving at normal speed counts as light activity and moving at
 double speed counts as medium activity.
 
+**Wind Speed**: The speed of the prevailing winds.
 
-Wind Speed: The speed of the prevailing winds.
+**Against**: The vessel is moving against or perpendicular to the direction of the wind.
 
-Against: The vessel is moving against or perpendicular to the direction of the wind.
+**Before**: The vessel is moving with the prevailing winds.
 
-Before: The vessel is moving with the prevailing winds.
-
-Skill Modifier: The modifier to the Boating skill imposed by the winds. This modifier is in
+**Skill Modifier**: The modifier to the Boating skill imposed by the winds. This modifier is in
 addition to the modifiers of the ship itself and any others the Games Master feels are appropriate.
 
 ##### Rowing & Wind
 
-Wind Speed       Against                            Before                            Skill Modifier
-Calm             -                                  -                                 -
-Light Wind       -                                  -                                 -
-Moderate Wind    Slight Adversity (-25% Speed)      Slight Adversity (-25% Speed)     -
-Stiff Wind       Slight Adversity (-25% Speed)      Slight Adversity (-25% Speed)     -10%
-Fresh Gale       Moderate Adversity (-50% Speed)    Moderate Adversity (-50% Speed)   -20%
-Full Gale        Great Adversity (-75% Speed)       Great Adversity (-75% Speed)      -40%
-Hurricane        *                                  *                                 -60%
+| Wind Speed     | Against                          | Before                          | Skill Modifier |
+|----------------|----------------------------------|---------------------------------|----------------|
+| Calm           | -                                | -                               | -              |
+| Light Wind     | -                                | -                               | -              |
+| Moderate Wind  | Slight Adversity (-25% Speed)    | Slight Adversity (-25% Speed)   | -              |
+| Stiff Wind     | Slight Adversity (-25% Speed)    | Slight Adversity (-25% Speed)   | -10%           |
+| Fresh Gale     | Moderate Adversity (-50% Speed)  | Moderate Adversity (-50% Speed) | -20%           |
+| Full Gale      | Great Adversity (-75% Speed)     | Great Adversity (-75% Speed)    | -40%           |
+| Hurricane      | *                                | *                               | -60%           |
 
 * Rowing vessels cannot make headway in a hurricane.
 
 
-
-Sailing
+## Sailing
 Sails offer some significant advantages over rowing. A sailing ship requires a much smaller crew,
 for example, and the ship relies on wind, rather than broad backs, for its propulsion.
 
@@ -2232,15 +1982,15 @@ The speed of a sailing ship depends upon the angle of the wind in relation to th
 as the speed of the wind itself. For the sake of simplicity, these rules incorporate four wind
 directions: before the wind, quarter wind, half wind and head wind.
 
-Before the Wind: The wind is coming directly from the stern of the ship toward the bow.
+**Before the Wind**: The wind is coming directly from the stern of the ship toward the bow.
 
-Quarter Wind: The wind is blowing against one of the ship's rear quarters, at a roughly 45
+**Quarter Wind**: The wind is blowing against one of the ship's rear quarters, at a roughly 45
 degree angle to the length of the ship.
 
-Half Wind: The wind is blowing across the ship, at a roughly 90 degree angle to the length of
+**Half Wind**: The wind is blowing across the ship, at a roughly 90 degree angle to the length of
 the ship.
 
-Head Wind: The wind is blowing directly from the bow of the ship toward the stern.
+**Head Wind**: The wind is blowing directly from the bow of the ship toward the stern.
 
 The Sailing Speed table gives the speed a sailing ship will travel under different wind speeds,
 presented in the following manner: Speed per Crew Combat Round / Speed per 12 hour period.
@@ -2248,14 +1998,15 @@ presented in the following manner: Speed per Crew Combat Round / Speed per 12 ho
 
 ##### Sailing Speed
 
-Wind Speed      Before the Wind    Quarter Wind        Half Wind           Head Wind          Skill Modifier
-Calm            3 ft. / 6 miles    -                   -                   -                  0%
-Light Wind      9 ft. / 18 miles   6 ft. / 12 miles    3 ft. / 6 miles     -                  0%
-Moderate Wind   15 ft. / 30 miles  12 ft. / 24 miles   9 ft. / 18 miles    3 ft./ 6 miles     0%
-Stiff Wind      21 ft. / 42 miles  18 ft. / 36 miles   15 ft. / 30 miles   6 ft. / 12 miles   -10%
-Fresh Gale      27 ft. / 54 miles  24 ft. / 48 miles   21 ft. / 42 miles   9 ft. / 18 miles   -20%
-Full Gale       *                  *                   *                   *                  -40%
-Hurricane       *                  *                   *                   *                  -60%
+| Wind Speed    | Before the Wind  | Quarter Wind      | Half Wind         | Head Wind        | Skill Modifier |
+|---------------|------------------|-------------------|-------------------|------------------|----------------|
+| Calm          | 3 ft. / 6 miles  | -                 | -                 | -                | 0%             |
+| Light Wind    | 9 ft. / 18 miles | 6 ft. / 12 miles  | 3 ft. / 6 miles   | -                | 0%             |
+| Moderate Wind | 15 ft. / 30 miles| 12 ft. / 24 miles | 9 ft. / 18 miles  | 3 ft./ 6 miles   | 0%             |
+| Stiff Wind    | 21 ft. / 42 miles| 18 ft. / 36 miles | 15 ft. / 30 miles | 6 ft. / 12 miles | -10%           |
+| Fresh Gale    | 27 ft. / 54 miles| 24 ft. / 48 miles | 21 ft. / 42 miles | 9 ft. / 18 miles | -20%           |
+| Full Gale     | *                | *                 | *                 | *                | -40%           |
+| Hurricane     | *                | *                 | *                 | *                | -60%           |
 
 *The winds of a full gale or a hurricane will shred a ship's rigging. In such a situation, the best
 that can be done is to deploy a small amount of sailcloth to keep the ship steady and hope to ride
@@ -2268,64 +2019,64 @@ depend upon the Boating or Shiphandling skills of the captains of either ship, a
 design and rigging.
 
 
-Sail Modifiers
+### Sail Modifiers
 With a successful Shiphandling test, a crew can change the sails currently deployed by a ship.
 Different configurations of sail give different results:
 
-Sail            Speed Modifier        Other Effects
-None            No movement           None
-Minimum         -25 ft.               None
-Fighting        -10 ft.               +10% to Shiphandling tests for manoeuvring
-Plain           No modifier           None
-Full            +10 ft.               -10% to Shiphandling tests for manoeuvring
-Extra           +25 ft.               -20% to Shiphandling tests for manoeuvring
+| Sail          | Speed Modifier      | Other Effects |
+|---------------|---------------------|---------------|
+| None          | No movement         | None          |
+| Minimum       | -25 ft.             | None          |
+| Fighting      | -10 ft.             | +10% to Shiphandling tests for manoeuvring |
+| Plain         | No modifier         | None          |
+| Full          | +10 ft.             | -10% to Shiphandling tests for manoeuvring |
+| Extra         | +25 ft.             | -20% to Shiphandling tests for manoeuvring |
 
 
-Weapons
+## Weapons
 There are several sizes of cannon used on board ships. There are also swivel guns, which are
 smaller pieces mounted on the deck of a ship, and are used to blast smaller boats or for precise
 shooting.
-
-
-                                                          
-Weapon                    Skill     Damage   Range     Crew Required   Shots/ton of Ammo   Load       Cost
-9-pound (demi-culverin)   Gunnery   4D6      300 ft.   1               50                  Special    2,500 silver
-18-pound (culverin)       Gunnery   4D8      250 ft.   2               25                  Special    5,000 silver
-24-pound (demi-cannon)    Gunnery   4D12     300 ft.   2               15                  Special    6,500 silver
-45-pound (cannon)         Gunnery   4D20     250 ft.   3               10                  Special    12,500 silver
-Swivel Gun                Gunnery   3D6      150 ft.   1               50                  5 rounds   1,500 silver
+                                          
+| Weapon                  | Skill   | Damage | Range   | Crew Required | Shots/ton of Ammo | Load     | Cost |
+|-------------------------|---------|--------|---------|---------------|-------------------|----------|------|
+| 9-pound (demi-culverin) | Gunnery | 4D6    | 300 ft. | 1             | 50                | Special  | 2,500 silver |
+| 18-pound (culverin)     | Gunnery | 4D8    | 250 ft. | 2             | 25                | Special  | 5,000 silver |
+| 24-pound (demi-cannon)  | Gunnery | 4D12   | 300 ft. | 2             | 15                | Special  | 6,500 silver |
+| 45-pound (cannon)       | Gunnery | 4D20   | 250 ft. | 3             | 10                | Special  | 12,500 silver |
+| Swivel Gun              | Gunnery | 3D6    | 150 ft. | 1             | 50                | 5 rounds | 1,500 silver |
                                                                                       
-
-Reloading Cannons: The time it takes to reload a cannon depends on the operator's Gunnery skill.
+**Reloading Cannons**: The time it takes to reload a cannon depends on the operator's Gunnery skill.
                               
-Gunnery Skill   Combat Actions to reload (Adventurer scale)   Number of Crew Combat rounds to reload (Crew Combat scale)
-<25%            25                                            1D6
-26%-50%         20                                            1D4
-51-75%          15                                            1D3
-76%-100%        10                                            1D2
-100%+           5                                             1
+| Gunnery Skill | Combat Actions to reload (Adventurer scale) | Number of Crew Combat rounds to reload (Crew Combat scale) |
+|---------------|---------------------------------------------|------------------------------------------------------------|
+| <25%          | 25                                          | 1D6                                                        |
+| 26%-50%       | 20                                          | 1D4                                                        |
+| 51-75%        | 15                                          | 1D3                                                        |
+| 76%-100%      | 10                                          | 1D2                                                        |
+| 100%+         | 5                                           | 1                                                          |
 
 
-Buying a Ship
+### Buying a Ship
 Large ships are rarely for sale - virtually every pirate ship was stolen, or became a pirate ship when
 the crew decided to go on the account. Still, especially wealthy pirates may wish to purchase a
 vessel, or to sell a prize. In the extremely unlikely event that an Adventurer finds a buyer or seller,
 the following prices should be used as guidelines:
 
-Vessel                                   Cost
-Rowboat                                  50-200 silver
-Sloop                                    5,000-25,000 silver
-Schooner                                 50,000-250,000 silver
-Brigantine                               100,000-1,00,000 silver
+| Vessel                                 | Cost |
+|----------------------------------------|------|
+| Rowboat                                | 50-200 silver |
+| Sloop                                  | 5,000-25,000 silver |
+| Schooner                               | 50,000-250,000 silver |
+| Brigantine                             | 100,000-1,00,000 silver |
 
 
-
-Customising and Changing a Ship
+## Customising and Changing a Ship
 Ships can also be modified to serve other purposes or to emphasise a particular quality. Some
 modifications require the ship to be in a port or dock, or hauled up onto a beach.
 
 
-Modifications
+### Modifications
 Some of these changes require the ship to be beached or docked but others can be undertaken at
 sea, albeit with a penalty to Handiwork of -20%. Particularly difficult tasks also incur a bigger
 penalty to the crew's Handiwork test. Each modification also consumes a certain amount of
@@ -2334,68 +2085,68 @@ supplies.
 If the Handiwork test fails, then the modification has gone wrong - either the task is impossible,
 or else an accident has occurred, smashing whatever items are being used and injuring 1D6 crew.
 
-Aft Guns
-This adds a cannon to the rear of the ship, which can be fired when the vessel is being pursued.
-Requires: Whatever guns are being added, 1D4 days.
-Consumes: 1 ton of supplies per gun
-Handiwork Modifier: Varies
+#### Aft Guns
+This adds a cannon to the rear of the ship, which can be fired when the vessel is being pursued.  
+**Requires**: Whatever guns are being added, 1D4 days.  
+**Consumes**: 1 ton of supplies per gun  
+**Handiwork Modifier**: Varies  
 The difficulty of the Handiwork test varies depending on the size of the gun and how many aft
 guns the ship already has.
 
-9-pounder                                          -0%
-Swivel gun                                         -0%
-18-pounder                                         -10%
-24-pounder                                         -25%
-45-pounder                                         -50%
-Per gun after the first                            -50%
+| 9-pounder                                        | -0% |
+|--------------------------------------------------|-----|
+| Swivel gun                                       | -0% |
+| 18-pounder                                       | -10% |
+| 24-pounder                                       | -25% |
+| 45-pounder                                       | -50% |
+| Per gun after the first                          | -50% |
 
-Bulwarks
+#### Bulwarks
 Heavy wooden bulwarks and defensive fortifications can be added to a ship's deck, to give extra
 protection against attack by muskets and small arms fire. Adding Bulwarks gives a -10% penalty
 to all Shiphandling tests. A ship with Bulwarks counts as having a +2 Hull for the purposes of
-protecting the crew against small arms fire.
-Requires: 1D6 weeks
-Consumes: 1 ton of supplies per ten feet length of the ship
-Handiwork Modifier: +0%
+protecting the crew against small arms fire.  
+**Requires**: 1D6 weeks  
+**Consumes**: 1 ton of supplies per ten feet length of the ship  
+**Handiwork Modifier**: +0%
 
-Copper Bottom
+#### Copper Bottom
 In the warm waters of the Caribbean, a ship can quickly become fouled with teredo beetles,
 barnacles, weeds and other growths and parasites that slow its speed. Adding copper plates to the
-underwater sections of the hull prevents the needs for careering.
-Requires: Drydock, 3D6 weeks
-Consumes: Copper plates, costing 100 silver per ton of capacity of the ship
-Handiwork Modifier: +0%
+underwater sections of the hull prevents the needs for careering.  
+**Requires**: Drydock, 3D6 weeks  
+**Consumes**: Copper plates, costing 100 silver per ton of capacity of the ship  
+**Handiwork Modifier**: +0%
 
-
-Chase Guns
+#### Chase Guns
 Adding chase guns, on the front of the ship, works just like adding aft guns, with one important
 difference - the narrow prow of the ship has less space for extra armament, so the penalty to
 Handiwork tests is increased by +20%.
 
-Full Repairs
-Full repairs restores 2D6 Structural Points or 1D6 points of Seaworthiness per ton of supplies used.
-Requires: 1 day
-Consumes: Up to five tons of supplies
-Handiwork Modifier: +0%
+#### Full Repairs
+Full repairs restores 2D6 Structural Points or 1D6 points of Seaworthiness per ton of supplies used.  
+**Requires**: 1 day  
+**Consumes**: Up to five tons of supplies  
+**Handiwork Modifier**: +0%
 
-Hidden Cargo Space
+#### Hidden Cargo Space
 This modification creates a hidden compartment in the ship's hold, where cargo can be hidden.
 It is often used by smugglers. Finding such a hidden space requires a Perception test opposed by
-the builder's Handiwork.
-Requires: 1D6 days
-Consumes: One ton of supplies per ton of hiding space.
-Handiwork Modifier: -20% if done at sea
+the builder's Handiwork.  
+**Requires**: 1D6 days  
+**Consumes**: One ton of supplies per ton of hiding space.  
+**Handiwork Modifier**: -20% if done at sea
 
-Lighten Hull
+#### Lighten Hull
 By removing two cannon, 10% of the ship's cargo space, or by reducing Structural Points by 5%,
 the crew make the ship lighter, reducing its draft by one foot and increasing its speed by 6ft/1
 knot. This modification can be attempted multiple times but each time, the Handiwork test
-penalty doubles. This modification cannot be attempted if it would reduce the ship's draft to 0.
-Requires: 1D6 days
-Consumes: 1D6 tones of supplies
-Handiwork Modifier: -10%
+penalty doubles. This modification cannot be attempted if it would reduce the ship's draft to 0.  
+**Requires**: 1D6 days  
+**Consumes**: 1D6 tones of supplies  
+**Handiwork Modifier**: -10%
 
-More Cannon
+#### More Cannon
 Adding more cannons to a ship can be done but there are two major restrictions. Firstly, heavy cannon
 will slow the ship down. Secondly, the extra recoil may damage the ship, or even cause it to capsize.
 
@@ -2406,84 +2157,84 @@ If the guns mounted are larger than normal, then a second Handiwork test must be
 first time the guns are fired. If this test fails, then the gun breaks free of its housing and deals 2D6
 points of Structural Damage to the ship. The ship also loses 1D4 Seaworthiness.
 
-Requires: Extra cannon, 1D4 days
-Consumes: 1 ton of supplies
-Handiwork Modifier: Varies
+**Requires**: Extra cannon, 1D4 days  
+**Consumes**: 1 ton of supplies  
+**Handiwork Modifier**: Varies
 
+| 9-pounder                                                           | -0% |
+|---------------------------------------------------------------------|-----|
+| 18-pounder                                                          | -5% |
+| 24-pounder                                                          | -10% |
+| 45-pounder                                                          | -25% |
+| Per gun after the first                                             | -20% |
+| If guns are larger than those commonly mounted on this ship         | -10% per size difference |
 
-9-pounder                                                             -0%
-18-pounder                                                            -5%
-24-pounder                                                            -10%
-45-pounder                                                            -25%
-Per gun after the first                                               -20%
-If guns are larger than those commonly mounted on this ship           -10% per size difference
-
-
-More Cargo Space
+#### More Cargo Space
 By removing internal frames and cabin space, the crew allow the ship to cram in more cargo. The
 ship's Structure Points are decreased by 5% to increase its capacity by an equal amount. A ship
-can add no more than 25% to its starting capacity.
-Requires: One day.
-Consumes: 1 ton of supplies
-Handiwork Modifier: -10%
+can add no more than 25% to its starting capacity.  
+**Requires**: One day.  
+**Consumes**: 1 ton of supplies  
+**Handiwork Modifier**: -10%
 
-More Sail
+#### More Sail
 By adding more spars or even an extra mast, the crew attempt to increase the base speed of the
 vessel. The capacity of the ship is reduced by 10% or it suffers a -10% penalty to all Shiphandling
-tests but its speed is increased by 6 ft/1 knot.
-Requires: 1D6 days.
-Consumes: 2D6 tons of supplies
-Handiwork Modifier: -10%
+tests but its speed is increased by 6 ft/1 knot.  
+**Requires**: 1D6 days.  
+**Consumes**: 2D6 tons of supplies  
+**Handiwork Modifier**: -10%
 
-Reinforced Hull
+#### Reinforced Hull
 By fortifying the ship for combat, even a merchant vessel can be made into a warship. The ship's
-Hull rating is increased by 1 and its Structure Point total is increased by 20%.
-Requires: 3D6 weeks.
-Consumes: One ton of supplies per five Structure Points.
-Handiwork Modifier: -10%
+Hull rating is increased by 1 and its Structure Point total is increased by 20%.  
+**Requires**: 3D6 weeks.  
+**Consumes**: One ton of supplies per five Structure Points.  
+**Handiwork Modifier**: -10%
 
 
-Temporary Measures
-Bail Out The Bilges
+### Temporary Measures
+
+#### Bail Out The Bilges
 A crew can temporarily raise the Seaworthiness of a ship by 1D4 points by frantically fixing leaks
-and bailing out floodwaters. This must be repeated every day to keep the bonus points in place.
-Requires: 8 hours
-Consumes: 1D6 tons of supplies
-Handiwork Modifier: -10%
+and bailing out floodwaters. This must be repeated every day to keep the bonus points in place.  
+**Requires**: 8 hours  
+**Consumes**: 1D6 tons of supplies  
+**Handiwork Modifier**: -10%
 
-Batten Down The Hatches
+#### Batten Down The Hatches
 This prepares the ship for a storm or other dangerous weather. The ship's Seaworthiness is
 temporarily raised by 1D4 points. Any damage to the ship's Seaworthiness is taken from these
-temporary points first. While the hatches are battened down, the ship cannot fire guns.
-Requires: 1 hour.
-Handiwork Modifier: -10%
+temporary points first. While the hatches are battened down, the ship cannot fire guns.  
+**Requires**: 1 hour.  
+**Handiwork Modifier**: -10%
 
-False Colours
+#### False Colours
 By displaying false flags and hiding its extra guns and large crew, a pirate vessel can disguise itself
-as a merchantman.
-Requires: 1 hour
-Consumes: 1D6 tons of supplies
-Handiwork Modifier: -10%
+as a merchantman.  
+**Requires**: 1 hour  
+**Consumes**: 1D6 tons of supplies  
+**Handiwork Modifier**: -10%
 
-Partial Repairs
-This repairs 1D6 points of Structural Damage or 1 point of Seaworthiness.
-Requires: 1D6 hours
-Consumes: 1D6 tons of supplies
-Handiwork Modifier: -10%
+#### Partial Repairs
+This repairs 1D6 points of Structural Damage or 1 point of Seaworthiness.  
+**Requires**: 1D6 hours  
+**Consumes**: 1D6 tons of supplies  
+**Handiwork Modifier**: -10%
 
 
-Repair
+## Repair
 One thing is certain about a ship - it will always be in need of repair. Ships lose Seaworthiness as
 part of their normal operation, wear and tear that must be attended to eventually. In addition to
 this is the damage to a ship's Structure Points that occur through combat.
 
 
-Cost of Repair
+### Cost of Repair
 A ship requires 10 silvers worth of materials to repair every lost point of Seaworthiness. Repairing
 lost Structure Points requires 100 silvers worth of materials for every point.
 
 
-Repair Crews
+### Repair Crews
 Ship repair crews work in exactly the same manner as construction crews and cost the same. A
 standard repair crew can repair 10 points of Seaworthiness or four Structure Points per day on a
 beached or dry docked ship.
@@ -2492,7 +2243,7 @@ If he is working alone, a ship's carpenter can repair three points of Seaworthin
 Point per day on a beached or dry docked ship.
 
 
-Repairs at Sea
+### Repairs at Sea
 While at sea, any Handiwork skill tests suffer a -40% penalty.
 
 When attempting to repair a ship at sea, the carpenter must attempt a Handiwork Skill Test
@@ -2504,14 +2255,14 @@ If the ship's carpenter fails his Handicraft Skill Test, no repairs are made but
 the attempt are still consumed.
 
 
-Vessel Damage
+## Vessel Damage
 A ship can meet its end in one of two ways. A ship that loses all its Seaworthiness points will
 begin taking on water at a rate faster than the water can be expelled, causing it to sink. A ship
 may also be destroyed through the loss of all its Structure Points as a result of damage from
 weather and enemies.
 
 
-Seaworthiness
+### Seaworthiness
 All ships are fashioned from timber and nails, and all of them continually take on water. The
 question is exactly how much water. Bailing water from a ship's bilge is a normal part of a sailor's
 daily duties and larger ships always carry at least one carpenter (and spare lumber) to make
@@ -2526,17 +2277,18 @@ Every time a ship suffers 10 or more points of structural damage from a single a
 Seaworthiness of the ship by one point.
 
 
-Structure Points
+### Structure Points
 If a ship's Structure Points are ever reduced to zero, the ship immediately begins to break apart.
 What remains is useful only as life rafts for the surviving crew.
 
 
-Dangers
+## Dangers
+
 The sea is a dangerous place to be. Even without the potential dangers of enemy ships and rival
 pirates, threats such as storms and fires can imperil a ship.
 
 
-Disease
+### Disease
 Bad food, fetid conditions below decks and tropical heat conspire to make fever a danger on
 board ship. Some ports are also especially dangerous. If a disease breaks out on board ship,
 then the crew must make a Resilience test. If this test fails, then 1D6 x 5% of the crew fall ill
@@ -2548,7 +2300,7 @@ If a ship has a doctor on board, then the doctor may make a Healing test. If thi
 then the crew gets a +20% bonus to its Resilience test.
 
 
-Fire
+### Fire
 Small fires are very common aboard ships, although they are always carefully contained. A fire
 that escapes control is, however, a real danger to a ship. If not extinguished, an uncontrolled fire
 aboard a ship will grow one size category every 2D6 minutes.
@@ -2557,7 +2309,7 @@ Every Combat Round during which the fire rages, the Games Master should roll dam
 and apply the damage directly to the ship's Structure Points.
 
 
-Storms
+### Storms
 The most terrible danger facing a ship at sea is the weather. The wind and the sea combine to
 strike at the tossing ship with a primal fury, as masts creak and crack in the gale, leaks spray water
 into the hold and cargo bursts its ties to tumble about the storm-wracked deck.
@@ -2568,8 +2320,7 @@ the ship endures one hour of storm weather at a cost of only one Seaworthiness. 
 fails, the ship endures one hour of storm weather at a cost 1D6 Seaworthiness.
 
 
-
-Running Aground
+### Running Aground
 Reefs and sandbars spell the doom for more ships than any pirate. If an unexpected reef lies
 ahead on the ship's course, then the lookout is permitted a Perception test to notice the reef and
 then the helmsman may make a Shiphandling test to avoid it. If this fails, then the ship risks
@@ -2581,7 +2332,7 @@ surface, then it takes 5D4 damage. If the ship is still seaworthy, then it can p
 the reef at high tide by lightening it.
 
 
-Beaching a Ship
+### Beaching a Ship
 Beaching a ship is normally only done in the most dire circumstances. Canoes, rowboats and
 rafts can be beached with impunity, though even they have a 25% chance of losing a point of
 Seaworthiness when they do so.
@@ -2595,7 +2346,7 @@ and 1D6 Structure Points. Failure results in the ship losing its draft x D10 (mi
 in both Seaworthiness and structure points, as the ship effectively crashes into the shore.
 
 
-Careening
+### Careening
 The warm waters of the Caribbean are a paradise for weeds, worms and other parasites, and a
 ship will quickly find itself befouled by all manner of things clinging to its lower hull. These
 weeds create drag, slowing a ship down considerably. A wise pirate, therefore, will careen his
@@ -2609,45 +2360,7 @@ of debris. This takes 1D3 days and a successful Handiwork test. Each successful 
 careening brings the ship's speed back up by 6 ft/1 knot.
 
 
-SHIP SHEET
-Name:						                                         Hull Score:
-
-Structure Points:
-
-Seaworthiness:
-
-Length: 			               Draft: 			                Skill Used:
-
-Movement:
-
-
-
-Normal Crew:                           Skeleton Crew (-20%):
-
-Overcrewed (+10%)                      Prize Crew (-10%):
-
-Crew needed for guns:                  Boarding Party:
-
-
-Speed:
-
-
-WEAPONS
-
-Fore:              Aft     Broadside         Broadside           Broadside
-
-
-
-
-Ammo:
-
-
-
-Cargo:		            ton
-
-
-
-piracy and plunder
+# Piracy and Plunder
 
 This chapter has a great number of random tables, which the Games Master can use for random
 encounters and prizes. If the Adventurers just want to sail around the Caribbean stealing ships,
@@ -2660,282 +2373,291 @@ that a galleon loaded with treasure has put into a lightly-defended harbour in T
 the pirates have a target to aim for...
 
 
-Weather
+## Weather
 At the start of a voyage, roll on the Random Weather Change table. Add +4 during the Summer:
 
 ##### Random Weather Change
 
-Roll D20        Weather
-<10             Calm - roll on the Random Weather table. That weather persists for one week.
-11-15           Relatively Calm - roll on the Random Weather table with a +2 bonus. The weather persists for 1D6 days
-16-19           Violent - roll on the Random Weather table with a +4 bonus. The weather persists for one day.
-20+             Storm. The storm lasts 2D20 hours; reroll on the Random Weather Change table again then, with a -10 modifier.
+| Roll D20      | Weather |
+|---------------|---------|
+| <10           | Calm - roll on the Random Weather table. That weather persists for one week. |
+| 11-15         | Relatively Calm - roll on the Random Weather table with a +2 bonus. The weather persists for 1D6 days |
+| 16-19         | Violent - roll on the Random Weather table with a +4 bonus. The weather persists for one day. |
+| 20+           | Storm. The storm lasts 2D20 hours; reroll on the Random Weather Change table again then, with a -10 modifier. |
 
 
 ##### Random Weather
 
-Roll D20       Weather                             Shiphandling Modifier
-1              No wind                             No roll needed
-2              No wind, very hot                   No roll needed
-3              No wind, stifling heat              No roll needed
-4              Light Wind                          No
-5              Light Wind, very hot                No
-6              Light Wind, stifling heat           No
-7              Light Wind                          No
-8              Light Wind, rain                    No
-9              Moderate Wind                       +25%
-10             Moderate Wind                       +25%
-11             Moderate Wind, very hot             +25%
-12             Moderate Wind, rain                 +20%
-13             Moderate Wind, torrential rain      +15%
-14             Stiff Wind                          +15%
-15             Stiff Wind                          +10%
-16             Stiff Wind, rain                    +10%
-17             Stiff Wind, torrential rain         -0%
-18             Fresh Gale, rain                    -0%, 1D6 Seaworthiness
-19             Fresh Gale, torrential rain         -5%, 1D6 Seaworthiness
-20             Fresh Gale, torrential rain         -5%, 1D6 Seaworthiness
-21             Full Gale, torrential rain          -10%, 1D6 Seaworthiness
-22             Full Gale, torrential rain          -10%, 1D6 Seaworthiness
-23             Hurricane                           -25%, 2D6 Seaworthiness
-24             Hurricane                           -25%, 2D6 Seaworthiness
+| Roll D20     | Weather                           | Shiphandling Modifier |
+|--------------|-----------------------------------|-----------------------|
+| 1            | No wind                           | No roll needed        |
+| 2            | No wind, very hot                 | No roll needed        |
+| 3            | No wind, stifling heat            | No roll needed        |
+| 4            | Light Wind                        | No                    |
+| 5            | Light Wind, very hot              | No                    |
+| 6            | Light Wind, stifling heat         | No                    |
+| 7            | Light Wind                        | No                    |
+| 8            | Light Wind, rain                  | No                    |
+| 9            | Moderate Wind                     | +25%                  |
+| 10           | Moderate Wind                     | +25%                  |
+| 11           | Moderate Wind, very hot           | +25%                  |
+| 12           | Moderate Wind, rain               | +20%                  |
+| 13           | Moderate Wind, torrential rain    | +15%                  |
+| 14           | Stiff Wind                        | +15%                  |
+| 15           | Stiff Wind                        | +10%                  |
+| 16           | Stiff Wind, rain                  | +10%                  |
+| 17           | Stiff Wind, torrential rain       | -0%                   |
+| 18           | Fresh Gale, rain                  | -0%, 1D6 Seaworthiness |
+| 19           | Fresh Gale, torrential rain       | -5%, 1D6 Seaworthiness |
+| 20           | Fresh Gale, torrential rain       | -5%, 1D6 Seaworthiness |
+| 21           | Full Gale, torrential rain        | -10%, 1D6 Seaworthiness |
+| 22           | Full Gale, torrential rain        | -10%, 1D6 Seaworthiness |
+| 23           | Hurricane                         | -25%, 2D6 Seaworthiness |
+| 24           | Hurricane                         | -25%, 2D6 Seaworthiness |
 	
 Each day, a crew must make a Shiphandling test, modified as per the Random Weather table. If
 this test is failed, then the ship loses one Seaworthiness (or more, in extreme weather).
 
 
-
-
-Daily Checklist
-•	     Mark off the provisions consumed by the crew (each ton of provisions contains 500
+#### Daily Checklist
+* Mark off the provisions consumed by the crew (each ton of provisions contains 500
   man/days of food). If the crew runs out of food, they must make a Morale test each day.
-•	     Roll for weather. If the weather is a Moderate Wind or more, then the crew must make
+* Roll for weather. If the weather is a Moderate Wind or more, then the crew must make
   a Shiphandling test to avoid losing one or more points of Seaworthiness.
-•	     Roll for an Encounter At Sea.
+* Roll for an Encounter At Sea.
 
 Each week, roll to see if the vessel needs to be careened.
 
 
-Pirate Activity Modifiers
+#### Pirate Activity Modifiers
 If word reaches port of a pirate operating in a particular area, then the authorities may take
 action. The Pirate Activity Modifier of a region rises by +1 each week, to the maximum listed.
 The Pirate Activity Modifier is added directly onto rolls on the Encounters At Sea and Naval
 Vessel tables.
 
-Captain's Reputation                 Maximum Pirate Activity Modifier
-<10                                  +0
-11-20                                +1
-21-30                                +2
-31-40                                +3
-41+                                  +4
+| Captain's Reputation               | Maximum Pirate Activity Modifier |
+|------------------------------------|----------------------------------|
+| <10                                | +0                               |
+| 11-20                              | +1                               |
+| 21-30                              | +2                               |
+| 31-40                              | +3                               |
+| 41+                                | +4                               |
 
 
+##### Random Wind Direction
 
-Random Wind Direction
-Roll D10                                Wind Blows From
-1                                       East
-2                                       North-East
-3                                       North
-4                                       North-West
-5                                       West
-6                                       South-West
-7                                       South
-8-10                                    South-East
+| Roll D10                              | Wind Blows From |
+|---------------------------------------|-----------------|
+| 1                                     | East            |
+| 2                                     | North-East      |
+| 3                                     | North           |
+| 4                                     | North-West      |
+| 5                                     | West            |
+| 6                                     | South-West      |
+| 7                                     | South           |
+| 8-10                                  | South-East      |
 
 
-Encounters At Sea
+## Encounters At Sea
 The following series of tables allow the Games Master to determine randomly what sort of ships
 or events the Adventurers encounter at sea. One roll should be made each day at sea. Choose the
 appropriate column for the ship's current location.
 
-The possible locations are:
-Near Port: Roll on this column if the ship is within a few hour's sail of a major port.
-Settled Coast: Roll on this column if the ship is near an island or mainland that has been settled
-by one of the great powers.
-Wild Coast: For unexplored, uncharted or just unsettled regions.
-Open Seas: Roll on this column if the ship is at sea in an unremarkable area of the Caribbean.
-Trade Route: Roll on this column if the ship is at sea along one of the major trade routes.
-Backwater: Roll on this column if the ship is at sea in a little-travelled or unexplored region.
-High Seas: Roll on this column if the ship is at sea on the open ocean between the Old World
-and the New.
+The possible locations are:  
+**Near Port**: Roll on this column if the ship is within a few hour's sail of a major port.  
+**Settled Coast**: Roll on this column if the ship is near an island or mainland that has been settled by one of the great powers.  
+**Wild Coast**: For unexplored, uncharted or just unsettled regions.  
+**Open Seas**: Roll on this column if the ship is at sea in an unremarkable area of the Caribbean.  
+**Trade Route**: Roll on this column if the ship is at sea along one of the major trade routes.  
+**Backwater**: Roll on this column if the ship is at sea in a little-travelled or unexplored region.  
+**High Seas**: Roll on this column if the ship is at sea on the open ocean between the Old World and the New.
 
 
 ##### Encounters at Sea
 
-                                       
-Roll (2D6)   Near Port                Settled Coast            Wild Coast             Open Seas                Trade Route              Backwater        High Seas
-2 or less    Merchant +4              Merchant +2              Merchant               Merchant                 Merchant                 Merchant         Merchant
-3            Merchant +2              Merchant                 Local                  Local                    Merchant                 Local            No encounter
-4            Merchant                 Local                    No encounter           No encounter             Merchant                 No encounter     No encounter
-5            Local                    No encounter             No encounter           No encounter             No encounter             No encounter     No encounter
-6            Event on ship            Event on ship            Event on ship          Event on ship            Event on ship            Event on ship    Event on ship
-7            Strangeness on shore     No encounter             No encounter           No encounter             No encounter             No encounter     No encounter
-8            Event on ship*           Event on ship*           Event on ship*         Event on ship*           Event on ship*           Event on ship*   Event on ship*
-9            Local                    No encounter             No encounter           No encounter             No encounter             No encounter     No encounter
-10           Local +2                 Local                    No encounter           No encounter             Merchant                 No encounter*    No encounter
-11           Naval Vessel or Pirate   Strangeness on shore     Strangeness on shore   Local                    Naval vessel or Pirate   No encounter*    No encounter*
-12+          Naval Vessel +2          Naval Vessel or Pirate   Random Vessel          Naval Vessel or Pirate   Naval Vessel +2          Naval Vessel     Naval Vessel
+| Roll (2D6) | Near Port              | Settled Coast          | Wild Coast           | Open Seas              | Trade Route            | Backwater      | High Seas |
+|------------|------------------------|------------------------|----------------------|------------------------|------------------------|----------------|-----------|
+| 2 or less  | Merchant +4            | Merchant +2            | Merchant             | Merchant               | Merchant               | Merchant       | Merchant  |
+| 3          | Merchant +2            | Merchant               | Local                | Local                  | Merchant               | Local          | No encounter |
+| 4          | Merchant               | Local                  | No encounter         | No encounter           | Merchant               | No encounter   | No encounter |
+| 5          | Local                  | No encounter           | No encounter         | No encounter           | No encounter           | No encounter   | No encounter |
+| 6          | Event on ship          | Event on ship          | Event on ship        | Event on ship          | Event on ship          | Event on ship  | Event on ship |
+| 7          | Strangeness on shore   | No encounter           | No encounter         | No encounter           | No encounter           | No encounter   | No encounter |
+| 8          | Event on ship*         | Event on ship*         | Event on ship*       | Event on ship*         | Event on ship*         | Event on ship* | Event on ship* |
+| 9          | Local                  | No encounter           | No encounter         | No encounter           | No encounter           | No encounter   | No encounter |
+| 10         | Local +2               | Local                  | No encounter         | No encounter           | Merchant               | No encounter*  | No encounter |
+| 11         | Naval Vessel or Pirate | Strangeness on shore   | Strangeness on shore | Local                  | Naval vessel or Pirate | No encounter*  | No encounter* |
+| 12+        | Naval Vessel +2        | Naval Vessel or Pirate | Random Vessel        | Naval Vessel or Pirate | Naval Vessel +2        | Naval Vessel   | Naval Vessel |
 
 * The crew must make a Morale test due to boredom or adverse events.
-
 
 Next, roll on the appropriate table for the encounter.
 
 If the result is an encounter with another ship, roll for that ship's Nationality, Crew and Plunder .
 
-
 ##### Events on Board Ship
 
-Roll 2D6      Event
-2             Fire! A fire breaks out aboard ship. It is initially only a small fire but can quickly grow if not dealt with.
-3             Disease! Disease strikes down the crew. See Disease.
-4             Water Spoiled! Some of the ship's water supplies have become foul and undrinkable. Roll 1D6 x 10% to see how much water is lost.
-5             Drunkenness! Several people on the ship are drunk. The crew suffers a -10% penalty to Shiphandling tests today.
-6             Gambling! A high-stakes game of cards or knucklebones is being played on ship.
-7             Quarrelling! Several crew are fighting amongst themselves. The crew suffers a -10% penalty to Shiphandling tests today. Furthermore, 1D6 crew members are injured. On a natural 6, one has been killed.
-8             Supplies Spoiled! Some of the ship's food supplies have become foul and undrinkable. Roll 1D6 x 5% to see how much food is lost.
-9             Man Overboard! One of the crew has fallen overboard! Roll 1D6 - on a 6, it is one of the officers.
-10            Good Fortune! The crew has the devil's own luck. Either raise Morale by one level, or have a free Improvement roll.
-11            Dissent! The crew must make another Morale test.
-12            Accident! A spar crashes to the deck, a cannon tears itself loose and slides into a wall - whatever happens, it injures 1D6 crew and deals 4D6 points of Structural Damage to the ship.
+| Roll 2D6    | Event |
+|-------------|-------|
+| 2           | Fire! A fire breaks out aboard ship. It is initially only a small fire but can quickly grow if not dealt with. |
+| 3           | Disease! Disease strikes down the crew. See Disease. |
+| 4           | Water Spoiled! Some of the ship's water supplies have become foul and undrinkable. Roll 1D6 x 10% to see how much water is lost. |
+| 5           | Drunkenness! Several people on the ship are drunk. The crew suffers a -10% penalty to Shiphandling tests today. |
+| 6           | Gambling! A high-stakes game of cards or knucklebones is being played on ship. |
+| 7           | Quarrelling! Several crew are fighting amongst themselves. The crew suffers a -10% penalty to Shiphandling tests today. Furthermore, 1D6 crew members are injured. On a natural 6, one has been killed. |
+| 8           | Supplies Spoiled! Some of the ship's food supplies have become foul and undrinkable. Roll 1D6 x 5% to see how much food is lost. |
+| 9           | Man Overboard! One of the crew has fallen overboard! Roll 1D6 - on a 6, it is one of the officers. |
+| 10          | Good Fortune! The crew has the devil's own luck. Either raise Morale by one level, or have a free Improvement roll. |
+| 11          | Dissent! The crew must make another Morale test. |
+| 12          | Accident! A spar crashes to the deck, a cannon tears itself loose and slides into a wall - whatever happens, it injures 1D6 crew and deals 4D6 points of Structural Damage to the ship. |
 
 
 ##### Strangeness on Shore
 
-Roll 2D6    Event
-2           Shipwreck sighted! The Adventurers come upon a shipwreck. Roll upon the Random Vessel table to see what it was. There may still be some salvage here - roll 1D4-1 times on the vessel's Plunder table.
-3           Flotsam! The Adventurers find some wreckage from a destroyed ship. Roll on the Random Vessel table to see what it was. There may be some salvage here - roll 1D4-2 times on the vessel's Plunder table.
-4           Fire! The Adventurers see a plume of smoke from inland... it could be a cooking fire, a signal, a town put to the torch, a smouldering volcano...
-5           River! The Adventurers come upon a freshwater river.
-6-8         Small village! This little village is not a true port but the Adventurers can trade here.
-9           Fine Beach! This beach is ideal for careening a ship.
-10          Sandbar! The ship may run aground on this sandbar if it is not spotted in time..
-11          Sheltered Cove! This cove is an ideal hiding place when pursued.
-12          Castaway found! The characters encounter a castaway from another ship, desperate to take passage on whatever vessel will take him.
+| Roll 2D6  | Event |
+|-----------|-------|
+| 2         | Shipwreck sighted! The Adventurers come upon a shipwreck. Roll upon the Random Vessel table to see what it was. There may still be some salvage here - roll 1D4-1 times on the vessel's Plunder table. |
+| 3         | Flotsam! The Adventurers find some wreckage from a destroyed ship. Roll on the Random Vessel table to see what it was. There may be some salvage here - roll 1D4-2 times on the vessel's Plunder table. |
+| 4         | Fire! The Adventurers see a plume of smoke from inland... it could be a cooking fire, a signal, a town put to the torch, a smouldering volcano... |
+| 5         | River! The Adventurers come upon a freshwater river. |
+| 6-8       | Small village! This little village is not a true port but the Adventurers can trade here. |
+| 9         | Fine Beach! This beach is ideal for careening a ship. |
+| 10        | Sandbar! The ship may run aground on this sandbar if it is not spotted in time.. |
+| 11        | Sheltered Cove! This cove is an ideal hiding place when pursued. |
+| 12        | Castaway found! The characters encounter a castaway from another ship, desperate to take passage on whatever vessel will take him. |
 
 
 ##### Local Vessel
 
-Roll 2D6        Encounter
-2               Raft
-3-4             Rowboat
-5-7             Fisherman
-8-9             Small trader
-9-12            Sloop
+| Roll 2D6      | Encounter |
+|---------------|-----------|
+| 2             | Raft      |
+| 3-4           | Rowboat   |
+| 5-7           | Fisherman |
+| 8-9           | Small trader |
+| 9-12          | Sloop     |
 
 
 ##### Merchant Vessel
 
-Roll 3D6    Encounter
-3           Convoy - roll twice more on this table and once more on the Naval table.
-4           Roll again on this table and once on the Naval table.
-5           Roll again, but the ship has suffered a misfortune. Reduce her crew by 1D10x10%.
-6-9         Sloop
-10-11       Schooner (50%) or Snow (50%)
-12-14       Schooner (50%) or Barque (50%)
-15-17       Fluyt (50%) or Brigantine (50%)
-18-19       Indiaman
-20-21       Convoy - roll again twice.
-22          Galleon, plus roll once on the Naval table.
-23+         Galleon, plus roll again twice, plus roll once on the Naval table.
+| Roll 3D6  | Encounter |
+|-----------|-----------|
+| 3         | Convoy - roll twice more on this table and once more on the Naval table. |
+| 4         | Roll again on this table and once on the Naval table. |
+| 5         | Roll again, but the ship has suffered a misfortune. Reduce her crew by 1D10x10%. |
+| 6-9       | Sloop     |
+| 10-11     | Schooner (50%) or Snow (50%) |
+| 12-14     | Schooner (50%) or Barque (50%) |
+| 15-17     | Fluyt (50%) or Brigantine (50%) |
+| 18-19     | Indiaman  |
+| 20-21     | Convoy - roll again twice. |
+| 22        | Galleon, plus roll once on the Naval table. |
+| 23+       | Galleon, plus roll again twice, plus roll once on the Naval table. |
 
 
 ##### Naval or Pirate Vessel
 
-Roll 1D6                       Result
-1-2                            Pirate Sloop
-3                              Pirate Schooner
-4+                             Roll on the Naval Vessel table
+| Roll 1D6                     | Result |
+|------------------------------|--------|
+| 1-2                          | Pirate Sloop |
+| 3                            | Pirate Schooner |
+| 4+                           | Roll on the Naval Vessel table |
 
 
 ##### Random Vessel
 
-Roll 2D6                       Result
-2-4                            Roll on Merchant Vessel table
-5-9                            Roll on Local Vessel table
-10-11                          Roll on Naval Vessel table
-12                             Roll on Naval or Pirate Vessel table
+| Roll 2D6                     | Result |
+|------------------------------|--------|
+| 2-4                          | Roll on Merchant Vessel table |
+| 5-9                          | Roll on Local Vessel table |
+| 10-11                        | Roll on Naval Vessel table |
+| 12                           | Roll on Naval or Pirate Vessel table |
 
 
 ##### Naval Vessel
 
-Roll 2D6            Encounter
-2-4                 Sloop
-5-7                 Brigantine
-8-9                 Corvette
-10-12               Frigate
-13                  Roll again twice
-14                  Fourth-rate Warship
-15+                 Roll again three times
+| Roll 2D6          | Encounter |
+|-------------------|-----------|
+| 2-4               | Sloop     |
+| 5-7               | Brigantine |
+| 8-9               | Corvette  |
+| 10-12             | Frigate   |
+| 13                | Roll again twice |
+| 14                | Fourth-rate Warship |
+| 15+               | Roll again three times |
 
 
-Step One: Crew
+### Step One: Crew
 Once the type of ship(s) encountered has been determined using the tables, the next step is to
 determine what sort of crew and plunder she carries. Roll on the Crew Size, Crew Quality and
 Crew Morale tables. Naval or Pirate vessels roll 1D6+6 instead of 2D6 on Crew Size rolls.
 
 ##### Crew Size
 
-Crew Size 2D6                        Crew Is
-2                                    Skeleton crew for that ship
-3-6                                  Average crew for that ship
-8-10                                 Full crew for that ship
-11-12                                Overcrewed for that ship
+| Crew Size 2D6                      | Crew Is |
+|------------------------------------|---------|
+| 2                                  | Skeleton crew for that ship |
+| 3-6                                | Average crew for that ship |
+| 8-10                               | Full crew for that ship |
+| 11-12                              | Overcrewed for that ship |
 
 
 ##### Crew Quality
 
-Crew Quality 2D6         Crew Quality        Base Skill      Modifier to the Morale role
-2                        Atrocious           15%             -2
-3-5                      Very Poor           25%             -1
-6-7                      Poor                40%             +0
-8-9                      Average             50%             +0
-10-11                    Good                60%             +1
-12-13                    Excellent           75%             +2
-14                       Fearsome            100%            +4
+| Crew Quality 2D6       | Crew Quality      | Base Skill    | Modifier to the Morale role |
+|------------------------|-------------------|---------------|-----------------------------|
+| 2                      | Atrocious         | 15%           | -2                          |
+| 3-5                    | Very Poor         | 25%           | -1                          |
+| 6-7                    | Poor              | 40%           | +0                          |
+| 8-9                    | Average           | 50%           | +0                          |
+| 10-11                  | Good              | 60%           | +1                          |
+| 12-13                  | Excellent         | 75%           | +2                          |
+| 14                     | Fearsome          | 100%          | +4                          |
 
 Naval vessels may add +2 to their roll.
 
-Remember to add the modifiers for Morale and Crew to the crew's Base Skill!
-
+**Remember to add the modifiers for Morale and Crew to the crew's Base Skill!**
 
 
 ##### Crew Morale
 
-Crew 2D6                           Crew Morale                      Morale Bonus
-2 or less                          Mutinous                         -10%
-3-5                                Low                              -5%
-6-7                                Shaken                           +0%
-8-9                                Average                          +0%
-10-11                              High                             +0%
-12                                 Very High                        +5%
-13+                                Fanatic                          +10%
+| Crew 2D6                         | Crew Morale                    | Morale Bonus |
+|----------------------------------|--------------------------------|--------------|
+| 2 or less                        | Mutinous                       | -10%         |
+| 3-5                              | Low                            | -5%          |
+| 6-7                              | Shaken                         | +0%          |
+| 8-9                              | Average                        | +0%          |
+| 10-11                            | High                           | +0%          |
+| 12                               | Very High                      | +5%          |
+| 13+                              | Fanatic                        | +10%         |
 
 
-Step Two: Details
+### Step Two: Details
 Roll on the Notable Officers table next. Assume that all other positions are filled by an officer
 that gives +5% to the crew's skill. Next, roll for the other ship's Nationality.
 
 ##### Notable Officers
 
-Roll 1D6         Officer                        Bonus to Crew
-1                No notable officers            +0%
-2                Captain                        Shiphandling +10%, Persistence +10%
-3                Quartermaster                  Hand to Hand +10%, Resilience +10%
-4                Gunner                         Firearms +10%, Gunnery +10%
-5                Boatswain                      Boating +10%
-6                Roll Again Twice
+| Roll 1D6       | Officer                      | Bonus to Crew |
+|----------------|------------------------------|---------------|
+| 1              | No notable officers          | +0%           |
+| 2              | Captain                      | Shiphandling +10%, Persistence +10% |
+| 3              | Quartermaster                | Hand to Hand +10%, Resilience +10% |
+| 4              | Gunner                       | Firearms +10%, Gunnery +10% |
+| 5              | Boatswain                    | Boating +10%  |
+| 6              | Roll Again Twice             |               |
 
 ##### Random Nationality
 
-Roll 2D6                                 Result
-2                                        Unusual/Exotic
-3                                        French
-4-5                                      Spanish
-6-8                                      Same as nearest Port
-9-10                                     English
-11                                       Dutch
-12                                       Portuguese
+| Roll 2D6                               | Result |
+|----------------------------------------|--------|
+| 2                                      | Unusual/Exotic |
+| 3                                      | French |
+| 4-5                                    | Spanish |
+| 6-8                                    | Same as nearest Port |
+| 9-10                                   | English |
+| 11                                     | Dutch  |
+| 12                                     | Portuguese |
 
 At this point, the next move is up to the Adventurers. Do they pursue the ship? Ignore it? Attack
 it? Meet and parlay? If they attack, move to the Combat on the High Seas chapter on page 79.
@@ -2943,15 +2665,14 @@ it? Meet and parlay? If they attack, move to the Combat on the High Seas chapter
 If the Adventurers capture a ship, roll on the Plunder tables.
 
 
-
-Plunder
+## Plunder
 Piles of gold and jewels, rich silks and spices from the Orient - or just a few barrels of rotting fish
 and worm-ridden timber? The Plunder tables give random plunder for each type of ship. There
 are two tables for each vessel - the Bulk Cargo (carried in the ship's hold) and the Rare Cargo
 (normally kept in cabins or chests).
 
 
-A Note on Random Tables
+### A Note on Random Tables
 There is an infamous story told in an old Dragon magazine about a space-faring game. The players
 showed up and spent a few hours rolling up their characters and their brand new ship. They
 are all excited and enthused about the idea of playing space-travelling traders and adventurers.
@@ -2976,7 +2697,7 @@ up as their ship sinks and they need to pretend they are honest sailors until th
 merchantman and refit it as their new pirate ship.
 
 
-Why Have Random Encounters At All?
+### Why Have Random Encounters At All?
 It could be argued that random encounters are an anachronism in role-playing games. Instead
 of rolling on all these endless tables to determine the encounter, why should the Games Master
 not just choose what the Adventurers encounter? Why have a random encounter that contributes
@@ -2999,90 +2720,90 @@ interactive story time to breathe.
 ##### Master Plunder
 
              1D100                                      1D100
-Prize        roll       Bulk Cargo                      roll    Rare Cargo
+Prize        roll     Bulk Cargo                        roll    Rare Cargo
 
-Raft (4      01-75      None                            -       -
+Raft (4      01-75    None                            -       -
 tons)
 
-             76-00      1D4 Common                      -       -
+             76-00    1D4 Common                      -       -
 
-Rowboat      01-00      None                            01-99   None
+Rowboat      01-00    None                              01-99   None
 (0.5 tons)
 
                                                         00      1 Treasure
 
-Fisherman    01-50      1 Provisions, 1 Supplies, 1D4   01-95
-(10 tons)               Common
+Fisherman    01-50    1 Provisions, 1 Supplies, 1D4     01-95
+(10 tons)             Common
 
-             51-00      1 Provisions, 1 Supplies, 2D4   96-00   1 Rare Supplies
-                        Common
+             51-00    1 Provisions, 1 Supplies, 2D4     96-00   1 Rare Supplies
+                      Common
 
-Small        01-50      1D6 Provisions, 1D6 Supplies,   01-90   1D6x100 Silver
-Trader (40              1 Ammo, 1D10 Common
+Small        01-50    1D6 Provisions, 1D6 Supplies,     01-90   1D6x100 Silver
+Trader (40            1 Ammo, 1D10 Common
 tons)
 
-             51-75      1D6 Provisions, 1D6 Supplies,   91-99   1 Rare Supplies,
-                        1 Ammo, 2D10 Common                     2D6x100 silver
+             51-75    1D6 Provisions, 1D6 Supplies,     91-99   1 Rare Supplies,
+                      1 Ammo, 2D10 Common                       2D6x100 silver
 
-             76-90      1D6 Provisions, 1D6 Supplies,   00      50% chance of One
-                        1 Ammo, 1D10 Common, 1                  Treasure, 4D6x1000
-                        Rich                                    silver
+             76-90    1D6 Provisions, 1D6 Supplies,     00      50% chance of One
+                      1 Ammo, 1D10 Common, 1                    Treasure, 4D6x1000
+                      Rich                                      silver
 
-             91-00      1D6 Provisions, 1D6 Supplies,
-                        1 Ammo, 1D10 Common, 1d3
-                        Rich
+             91-00    1D6 Provisions, 1D6 Supplies,
+                      1 Ammo, 1D10 Common, 1d3
+                      Rich
 
-Sloop (50    01-50      1D6 Provisions, 1D6 Supplies,   01-50   None
-tons)                   1D4 Ammo, 2D10 Common
+Sloop (50    01-50    1D6 Provisions, 1D6 Supplies,     01-50   None
+tons)                 1D4 Ammo, 2D10 Common
 
-             51-75      1D6 Provisions, 1D6 Supplies,   51-75   1D6x200 silver
-                        1D4 Ammo, 3D10 Common
+             51-75    1D6 Provisions, 1D6 Supplies,     51-75   1D6x200 silver
+                      1D4 Ammo, 3D10 Common
 
-             76-90      1D6 Provisions, 1D6 Supplies,   76-90   1 Rare Supplies,
-                        1D4 Ammo, 2x2D10                        2D6x200 silver
-                        Common, 1D6 Rich
+             76-90    1D6 Provisions, 1D6 Supplies,     76-90   1 Rare Supplies,
+                      1D4 Ammo, 2x2D10                          2D6x200 silver
+                      Common, 1D6 Rich
 
-             91-00      1D6 Provisions, 1D6 Supplies,   91-00   1D4 Rare Supplies,
-                        1D4 Ammo, 2x2D10                        4D6x200 silver
-                        Common, 1D10 Rich
+             91-00    1D6 Provisions, 1D6 Supplies,     91-00   1D4 Rare Supplies,
+                      1D4 Ammo, 2x2D10                          4D6x200 silver
+                      Common, 1D10 Rich
 
-Schooner     01-50      2D6 Provisions, 2D6 Supplies,   01-50   None
-(100 tons)              1D6 Ammo, 2x2D10
-                        Common
+Schooner     01-50    2D6 Provisions, 2D6 Supplies,     01-50   None
+(100 tons)            1D6 Ammo, 2x2D10
+                      Common
 
-             51-75      2D6 Provisions, 2D6 Supplies,   51-75   1D6x500 silver
-                        1D6 Ammo, 3x2D10
-                        Common
+             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1D6x500 silver
+                      1D6 Ammo, 3x2D10
+                      Common
 
-             76-90      2D6 Provisions, 2D6 Supplies,   76-90   1D4 Rare Supplies,
-                        1D6 Ammo, 2x2D10                        4D6x500 silver
-                        Common, 2x1D6 Rich
+             76-90    2D6 Provisions, 2D6 Supplies,     76-90   1D4 Rare Supplies,
+                      1D6 Ammo, 2x2D10                          4D6x500 silver
+                      Common, 2x1D6 Rich
 
-             91-00      2D6 Provisions, 2D6 Supplies,   91-00   1D4 Rare Supplies, 1
-                        1D6 Ammo, 3x2D10                        Treasure, 4D6x500 silver
-                        Common, 2x1D10 Rich
+             91-00    2D6 Provisions, 2D6 Supplies,     91-00   1D4 Rare Supplies, 1
+                      1D6 Ammo, 3x2D10                          Treasure, 4D6x500 silver
+                      Common, 2x1D10 Rich
 
-Snow (120    01-50      2D6 Provisions, 2D6 Supplies,   01-50   None
-tons)                   1D6 Ammo, 3x2D10
-                        Common
+Snow (120    01-50    2D6 Provisions, 2D6 Supplies,     01-50   None
+tons)                 1D6 Ammo, 3x2D10
+                      Common
 
-             51-75      2D6 Provisions, 2D6 Supplies,   51-75   1D6x500 silver
-                        1D6 Ammo, 4xD10 Common
+             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1D6x500 silver
+                      1D6 Ammo, 4xD10 Common
 
-             76-90      2D6 Provisions, 2D6 Supplies,   76-90   1D4 Rare Supplies,
-                        1D6 Ammo, 4x2D10                        4D6x500 silver
-                        Common, 2x1D6 Rich
+             76-90    2D6 Provisions, 2D6 Supplies,     76-90   1D4 Rare Supplies,
+                      1D6 Ammo, 4x2D10                          4D6x500 silver
+                      Common, 2x1D6 Rich
 
-             91-00      2D6 Provisions, 2D6 Supplies,   91-00   1D4 Rare Supplies, 1D4
-                        1D6 Ammo, 4x2D10                        Treasure, 4D6x500 silver
-                        Common, 2x1D10 Rich
+             91-00    2D6 Provisions, 2D6 Supplies,     91-00   1D4 Rare Supplies, 1D4
+                      1D6 Ammo, 4x2D10                          Treasure, 4D6x500 silver
+                      Common, 2x1D10 Rich
 
-Brigantine   01-50      3D6 Provisions, 3D6 Supplies,   01-50   None
-(100 tons)              2D6 Ammo, 3D10 Common
+Brigantine   01-50    3D6 Provisions, 3D6 Supplies,     01-50   None
+(100 tons)            2D6 Ammo, 3D10 Common
 
-             51-75      3D6 Provisions, 3D6 Supplies,   51-75   1D6x500 silver
-                        2D6 Ammo, 2x2D10
-                        Common, 1D6 Rich
+             51-75    3D6 Provisions, 3D6 Supplies,     51-75   1D6x500 silver
+                      2D6 Ammo, 2x2D10
+                      Common, 1D6 Rich
 
              76-90    3D6 Provisions, 3D6 Supplies,     76-90   1D4 Rare Supplies,
                       2D6 Ammo, 2xD10 Common,                   4D6x500 silver
@@ -3420,12 +3141,12 @@ than a knife suffers a penalty.
 Gaining Advantage
 There are several ways to increase or decrease an Advantage score:
 
-•	     Opposed Rolls: An Adventurer gains one point of Advantage whenever he beats an
+*	     Opposed Rolls: An Adventurer gains one point of Advantage whenever he beats an
   opponent's score by more than 20% in an opposed roll. In melee combat, where attack
   rolls are opposed by Parry or Dodge, then advantage will flow back and forth quickly.
-•	     Successful Hits: Instead of dealing damage on a successful hit, an Adventurer can instead
+*	     Successful Hits: Instead of dealing damage on a successful hit, an Adventurer can instead
   choose to gain 1D6 points of Advantage.
-•	     Hero Points: An Adventurer may spend a Hero Point to gain 1D6 points of Advantage.
+*	     Hero Points: An Adventurer may spend a Hero Point to gain 1D6 points of Advantage.
 
 
 
@@ -3449,23 +3170,23 @@ Using Advantage
 There are several distinct advantages, so to speak, to having the Advantage in a fight. There are
 two 'passive' bonuses that apply all the time, as long as an Adventurer is favoured:
 
-•	   Bonus to Attack rolls: An Adventurer gains a +10% bonus to all his attacks for every 5
+*	   Bonus to Attack rolls: An Adventurer gains a +10% bonus to all his attacks for every 5
   points of Advantage he holds, or portion thereof. So, an Adventurer with even a single point
   of Advantage gets a +10% bonus; an Adventurer with +11 Advantage gets a massive +30%
   bonus to hit.
-•	   Bonus to Parries: An Adventurer gains a +5% bonus to all his parries for every 5 points
+*	   Bonus to Parries: An Adventurer gains a +5% bonus to all his parries for every 5 points
   of Advantage he holds, or portion thereof. So, an Adventurer with even a single point of
   Advantage gets a +5% bonus; an Adventurer with +11 Advantage gets a +15% bonus to parry.
 
 Advantage can also be spent as part of an attack in several ways.
 
-•	   Force Movement: If an Adventurer is in melee with a foe, he can force his foe to move by
+*	   Force Movement: If an Adventurer is in melee with a foe, he can force his foe to move by
   spending Advantage. The Adventurer spends one point of Advantage per metre he wishes
   to move and both foes must move back or forth as the Adventurer chooses. If the opponent
   does not wish to move, then the Adventurer gets a Reaction free attack, and the opponent's
   Evade score is penalised by 50%. Using this move, an Adventurer can force an opponent
   back over a cliff, into a cramped area, or into a burning building.
-•	   Bonus Damage: An Adventurer can increase damage from a successful hit by spending
+*	   Bonus Damage: An Adventurer can increase damage from a successful hit by spending
   Advantage. Each point of Advantage spent increases damage by +1. The Advantage must
   be spent after the attack is deemed to be successful but before the damage dice are rolled.
 
@@ -3474,11 +3195,11 @@ Resetting Advantage
 There are several ways an Adventurer who is losing a fight can 'reset' the Advantage back to 0, so
 that no Adventurer is favoured.
 
-•	   Breaking Off: If neither combatant in a fight makes an attack roll in a round, then the
+*	   Breaking Off: If neither combatant in a fight makes an attack roll in a round, then the
   Advantage resets to 0.
-•	   Changing The Nature Of The Fight: A switch from melee to grappling, or from armed
+*	   Changing The Nature Of The Fight: A switch from melee to grappling, or from armed
   melee to unarmed melee resets the Advantage to 0.
-•	   Blinding, distracting or otherwise stunning the opponent: Such an event resets the
+*	   Blinding, distracting or otherwise stunning the opponent: Such an event resets the
   Advantage to 0.
 
 
@@ -3505,9 +3226,9 @@ campaigns.
 It is suggested, then, that the following rules changes are made in Pirates of Legend games to
 fatigue:
 
-•	   All combat counts as Heavy Activity. Therefore, an Adventurer can only fight for a number
+*	   All combat counts as Heavy Activity. Therefore, an Adventurer can only fight for a number
 of rounds equal to his CON score before risking Fatigue.
-•	   Adventurers recover from fatigue slightly faster, as the following table shows:
+*	   Adventurers recover from fatigue slightly faster, as the following table shows:
 
 Current State           To recover up to the next state takes...
                         Full Rest                           Light Activity
@@ -3561,13 +3282,13 @@ conditions and predictability of the opponent's location.
 
 
 Duel Summary
-•	   Only one side can have advantage at any time.
-•	   Whenever you win a roll, you either gain +1 Advantage, or take -1 Advantage away from
+*	   Only one side can have advantage at any time.
+*	   Whenever you win a roll, you either gain +1 Advantage, or take -1 Advantage away from
   your opponent.
-•	   Whoever has Advantage gains a bonus to attacks and parries.
-•	   Advantage can also be spent to increase damage and perform other special attacks.
-•	   Advantage is reversed if the currently disadvantaged party gets a critical success.
-•	   Advantage can be reset to 0 by pausing or changing the nature of a fight.
+*	   Whoever has Advantage gains a bonus to attacks and parries.
+*	   Advantage can also be spent to increase damage and perform other special attacks.
+*	   Advantage is reversed if the currently disadvantaged party gets a critical success.
+*	   Advantage can be reset to 0 by pausing or changing the nature of a fight.
 
 
 
@@ -3582,16 +3303,16 @@ boat might be a unit.
 
 Crew combat works in a similar way to normal combat, with the following changes:
 
-•	   Crew combat rounds are 30 seconds long.
-•	   There are no Strike Ranks. The attacking force goes first, followed by the defenders. If there
+*	   Crew combat rounds are 30 seconds long.
+*	   There are no Strike Ranks. The attacking force goes first, followed by the defenders. If there
   is no clear attacking force, then both sides roll 1D10, highest goes first, re-rolling ties.
-•	   To make a Crew Combat attack, the leader of the crew (normally, the quartermaster or the
+*	   To make a Crew Combat attack, the leader of the crew (normally, the quartermaster or the
   gunner) makes a check against the appropriate skill (Firearms or Hand-To-Hand). This
   check may be modified by conditions. Hand to hand tests are opposed.
-•	   Crew damage is not measured in hit points lost - instead, a unit may be Fresh, Wounded,
+*	   Crew damage is not measured in hit points lost - instead, a unit may be Fresh, Wounded,
   Seriously Wounded, Mauled or Slaughtered.
-•	   At the end of a Crew Combat Round, one or both crews must make Morale tests.
-•	   Adventurers can make Heroic Actions during Crew Combat, which inspire their companions
+*	   At the end of a Crew Combat Round, one or both crews must make Morale tests.
+*	   Adventurers can make Heroic Actions during Crew Combat, which inspire their companions
   and give bonuses to the result.
 
 
@@ -3786,11 +3507,11 @@ The Seriously Wounded Spanish are reduced to Mauled. This fight will soon be ove
 Morale Tests
 A Morale test must be made whenever:
 
-•	      A crew is reduced by one damage level.
-•	      A crew loses a Hand to Hand combat with a foe that considerably outnumbers them.
-•	      Something happens to demoralise the crew, such as their ship exploding or their captain
+*	      A crew is reduced by one damage level.
+*	      A crew loses a Hand to Hand combat with a foe that considerably outnumbers them.
+*	      Something happens to demoralise the crew, such as their ship exploding or their captain
    dying before their eyes (assuming they like their captain).
-•	      In sea battles, Morale tests can also be triggered by raising a pirate flag, or by vapouring.
+*	      In sea battles, Morale tests can also be triggered by raising a pirate flag, or by vapouring.
 
 A Morale test is made using the crew's Persistence score. If this test is failed, then the crew's nerve
 has faltered and they lose one level of Morale. On a critical success, the crew is galvanised by the
@@ -3846,12 +3567,12 @@ Throwing yourself into the fight                               +2 to the next da
 
 
 Crew Combat Summary
-•	     Instead of Hit Points, crews have abstract health levels and a Running Wound Total. The
+*	     Instead of Hit Points, crews have abstract health levels and a Running Wound Total. The
     Running Wound total adds to damage rolls and resets to zero whenever a crew loses a
     health level.
-•	     Attacks on crews either reduce health, or add to a Crew's Running Wound Total.
-•	     Crews must also make Morale tests whenever they take damage.
-•	     At the end of the battle, an Aftermath roll is made to see how many crew were actually
+*	     Attacks on crews either reduce health, or add to a Crew's Running Wound Total.
+*	     Crews must also make Morale tests whenever they take damage.
+*	     At the end of the battle, an Aftermath roll is made to see how many crew were actually
     slain and how many were merely injured.
 
 
@@ -3930,12 +3651,12 @@ Keep                                            -5                    1,000
 
 Ship to Ship Combat
 Clashes between ships at sea are resolved as follows:
-•	     The two ships either engage each other in battle, or one attempts to flee.
-•	     If one tries to flee, the other can give chase.
-•	     If they engage, or if the fleeing vessel is caught, then the two battle.
-•	     In a battle, both ships move, then exchange fire.
-•	     Sailors from one ship can attempt to board the other.
-•	     Battle continues until one ship surrenders, is captured, sunk, explodes or otherwise
+*	     The two ships either engage each other in battle, or one attempts to flee.
+*	     If one tries to flee, the other can give chase.
+*	     If they engage, or if the fleeing vessel is caught, then the two battle.
+*	     In a battle, both ships move, then exchange fire.
+*	     Sailors from one ship can attempt to board the other.
+*	     Battle continues until one ship surrenders, is captured, sunk, explodes or otherwise
     defeated.
 
 
@@ -4059,10 +3780,10 @@ in which case it deals its listed damage (2D6 damage), or grape shot (standard f
 to crew with a -4 penalty).
 
 Cannon: Cannons can be fired in four different ways:
-•	   Single Firing with Round Shot
-•	   Single Firing with Grape Shot
-•	   Single Firing with Chain Shot
-•	   Broadside
+*	   Single Firing with Round Shot
+*	   Single Firing with Grape Shot
+*	   Single Firing with Chain Shot
+*	   Broadside
 
 Single Firing: Single firing a cannon uses the formal Ranged Attack rules, not the Crew Combat
 rules. If an Adventurer is alone firing the cannon, he may use his own Gunnery score instead of
@@ -4286,9 +4007,9 @@ Having a hold full of stolen spices, silks and blood-stained doubloons is all we
 if you cannot trade them for a willing wench and a flagon of ale, what good are they? There are
 several ways for a pirate to sell off stolen goods:
 
-•	      Legally: If an Adventurer can enter a port without being identified as a pirate, then he
+*	      Legally: If an Adventurer can enter a port without being identified as a pirate, then he
    can just use the normal trade rules.
-•	      Smuggling: An Adventurer can sell on the black market. This works like normal trade
+*	      Smuggling: An Adventurer can sell on the black market. This works like normal trade
    but smugglers cannot expect to get as good a deal as a legal trader. Pirates dealing with
    smugglers therefore suffer a -50% penalty to their Influence attempts.
 
@@ -4701,9 +4422,9 @@ Touch of the Loa             60%      1D6            damage+1D2
 
 If placated or defeated, the spirit can be bound to a pirate. As this particular Loa is a storm-spirit,
 then the pirate who commands it could gain one of the following abilities:
-•	     Summon a storm once per month
-•	     Ignore the penalties to Shiphandling
-•	     Channel the force of the storm, allowing him to cast the Skybolt spell.
+*	     Summon a storm once per month
+*	     Ignore the penalties to Shiphandling
+*	     Channel the force of the storm, allowing him to cast the Skybolt spell.
 
 
 Pirates and Clockwork: In the year 955 AH, Taqi al-Din Mohammed ibn Ma'ruf (peace
