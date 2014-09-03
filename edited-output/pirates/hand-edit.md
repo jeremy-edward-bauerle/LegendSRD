@@ -2719,236 +2719,77 @@ interactive story time to breathe.
 
 ##### Master Plunder
 
-             1D100                                      1D100
-Prize        roll     Bulk Cargo                        roll    Rare Cargo
+| Prize | 1D100 roll | Bulk Cargo | 1D100 roll | Rare Cargo |
+|-------|------------|------------|------------|------------|
+| Raft (4 tons) | 01-75 | None | - | - |
+| | 76-00 | 1D4 Common | - | - |
+| Rowboat (0.5 tons) | 01-00 | None | 01-99 | None |
+| | | | 00 | 1 Treasure |
+| Fisherman (10 tons) | 01-50 | 1 Provisions, 1 Supplies, 1D4 Common | 01-95 | |
+| | 51-00 | 1 Provisions, 1 Supplies, 2D4 Common | 96-00 | 1 Rare Supplies |
+| Small Trader (40 tons) | 01-50 | 1D6 Provisions, 1D6 Supplies, 1 Ammo, 1D10 Common | 01-90 | 1D6x100 Silver |
+| | 51-75 | 1D6 Provisions, 1D6 Supplies, 1 Ammo, 2D10 Common | 91-99 | 1 Rare Supplies, 2D6x100 silver |
+| | 76-90 | 1D6 Provisions, 1D6 Supplies, 1 Ammo, 1D10 Common, 1 Rich | 00 | 50% chance of One Treasure, 4D6x1000 silver |
+| | 91-00 | 1D6 Provisions, 1D6 Supplies, 1 Ammo, 1D10 Common, 1d3 Rich | | |
+| Sloop (50 tons) | 01-50 | 1D6 Provisions, 1D6 Supplies, 1D4 Ammo, 2D10 Common | 01-50 | None |
+| | 51-75 | 1D6 Provisions, 1D6 Supplies, 1D4 Ammo, 3D10 Common | 51-75 | 1D6x200 silver |
+| | 76-90 | 1D6 Provisions, 1D6 Supplies, 1D4 Ammo, 2x2D10 Common, 1D6 Rich | 76-90 | 1 Rare Supplies, 2D6x200 silver |
+| | 91-00 | 1D6 Provisions, 1D6 Supplies, 1D4 Ammo, 2x2D10 Common, 1D10 Rich | 91-00 | 1D4 Rare Supplies, 4D6x200 silver |
+| Schooner (100 tons) | 01-50 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 2x2D10 Common | 01-50 | None |
+| | 51-75 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 3x2D10 Common | 51-75 | 1D6x500 silver |
+| | 76-90 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 2x2D10 Common, 2x1D6 Rich | 76-90 | 1D4 Rare Supplies, 4D6x500 silver |
+| | 91-00 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 3x2D10 Common, 2x1D10 Rich | 91-00 | 1D4 Rare Supplies, 1 Treasure, 4D6x500 silver |
+| Snow (120 tons) | 01-50 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 3x2D10 Common | 01-50 | None |
+| | 51-75 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 4xD10 Common | 51-75 | 1D6x500 silver |
+| | 76-90 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 4x2D10 Common, 2x1D6 Rich | 76-90 | 1D4 Rare Supplies, 4D6x500 silver |
+| | 91-00 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 4x2D10 Common, 2x1D10 Rich | 91-00 | 1D4 Rare Supplies, 1D4 Treasure, 4D6x500 silver |
+| Brigantine (100 tons) | 01-50 | 3D6 Provisions, 3D6 Supplies, 2D6 Ammo, 3D10 Common | 01-50 | None |
+| | 51-75 | 3D6 Provisions, 3D6 Supplies, 2D6 Ammo, 2x2D10 Common, 1D6 Rich | 51-75 | 1D6x500 silver |
+| | 76-90 | 3D6 Provisions, 3D6 Supplies, 2D6 Ammo, 2xD10 Common, 3x1D6 Rich | 76-90 | 1D4 Rare Supplies, 4D6x500 silver |
+| | 91-00 | 3D6 Provisions, 3D6 Supplies, 2D6 Ammo, 3x2D10 Common, 2x1D10 Rich | 91-00 | 1D4 Rare Supplies, 1 Treasure, 4D6x500 silver |
+| Fluyt (250 tons) | 01-50 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 3x5D10 Common, 1D10 Rich | 01-50 | 3D6x500 silver, 50% chance of 1D6 Rare Supplies |
+| | 51-75 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo,4x5D10 Common, 3x1D10 Rich | 51-75 | 6D6x500 silver, 1D6 Rare Supplies |
+| | 76-90 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 5x5D10 Common, 4xD10 Rich | 76-90 | 8D6x500 silver, 1D6 Rare Supplies, 50% chance of 1D4 Treasures |
+| | 91-00 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 6x5D10 Common, 4x3D10 Rich | 91-00 | 10D6x500 silver, 1D6 Rare Supplies, 1D4 Treasures |
+| Barque (80) | 01-50 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 2D10 Common, 1D4 Rich | 01-50 | None |
+| | 51-75 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo,3D10 Common, 2D4 Rich | 51-75 | 1D6x200 silver, 50% chance of 1 Rare Supplies |
+| | 76-90 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo,2x2D10 Common, 3D4 Rich | 76-90 | 1 Rare Supplies, 2D6x200 silver, 50% chance of one Treasure |
+| | 91-00 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo,3x2D10 Common, 4D4 Rich | 91-00 | 1D4 Rare Supplies, 1 Treasure, 4D6x200 silver |
+| Indiaman (300 tons) | 01-50 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 6x5D10 Common, 2D10 Rich | 01-50 | 4D6x500 silver, 1D6 Rare Supplies |
+| | 51-75 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 7x5D10 Common, 3x2D10 Rich | 51-75 | 6D6x500 silver, 1D6 Rare Supplies, 1 Treasure |
+| | 76-90 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 10x5D10 Common, 4x3D10 Rich | 76-90 | 8D6x500 silver, 1D6 Rare Supplies, 1D4 Treasures |
+| | 91-00 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 10x5D10 Common, 5x4D10 Rich | 91-00 | 10D6x500 silver, 1D6 Rare Supplies, 2D4 Treasures |
+| Galleon (250) | 01-50 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 4x5D10 Common, 2D10 Rich | 01-50 | 10D6x500 silver, 1D6 Rare Supplies, 1 Treasure |
+| | 51-75 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 6x5D10 Common, 2x2D10 Rich | 51-75 | 12D6x500 silver, 1D6 Rare Supplies, 1D4 Treasures |
+| | 76-90 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 6x5D10 Common, 4x4D10 Rich | 76-90 | 16D6x500 silver, 1D6 Rare Supplies, 2D4 Treasures |
+| | 91-00 | 6D6 Provisions, 6D6 Supplies, 3D6 Ammo, 6x5D10 Common, 6x4D10 Rich | 91-00 | 20D6x500 silver, 1D6 Rare Supplies, 3D4 Treasures |
+| Sloop of War (50 tons) | 01-50 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo,2D10 Common | 01-50 | 1D6x200 silver |
+| | 51-75 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo,3D10 Common | 51-75 | 1 Rare Supplies, 2D6x200 silver |
+| | 76-90 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo,3D10 Common, 1D6 Rich | 76-90 | 1D4 Rare Supplies, 4D6x200 silver |
+| | 91-00 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo,3D10 Common, 1D10 Rich | 91-00 | 1D4 Rare Supplies, 6D6x200 silver, 50% chance of 1 Treasure |
+| Corvette (40 tons) | 01-50 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 1D10 Common | 01-50 | 1D6x200 silver |
+| | 51-75 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 2D10 Common | 51-75 | 1 Rare Supplies, 2D6x200 silver |
+| | 76-90 | 2D6 Provisions, 2D6 Supplies, 1D6 Ammo, 1D10 Common, 1D6 Rich | 76-90 | 1D4 Rare Supplies, 4D6x200 silver |
+| | 91-00 | 2D6 Provisions, 2D6 Supplies, 1D10 Common, 1D10 Rich | 91-00 | 1D4 Rare Supplies, 6D6x200 silver, 50% chance of 1 Treasure |
+| Frigate (80 tons) | 01-50 | 2D6 Provisions, 2D6 Supplies, 2D6 Ammo, 2D10 Common, 1D4 Rich | 01-50 | 1D6x200 silver, 50% chance of 1 Rare Supplies |
+| | 51-75 | 2D6 Provisions, 2D6 Supplies, 2D6 Ammo,2D10 Common, 2D6 Rich | 51-75 | 1 Rare Supplies, 2D6x200 silver, 50% chance of one Treasure |
+| | 76-90 | 2D6 Provisions, 2D6 Supplies, 2D6 Ammo,4D10 Common, 3D6 Rich | 76-90 | 1D4 Rare Supplies, 1 Treasure, 4D6x200 silver |
+| | 91-00 | 2D6 Provisions, 2D6 Supplies, 3D10 Common, 2x2D6 Rich | 91-00 | 1D4 Rare Supplies, 1D4 Treasure, 4D6x200 silver |
+| Warship (100 tons) | 01-50 | 2D6 Provisions, 2D6 Supplies, 4D6 Ammo, 2D10 Common, 1D4 Rich | 01-50 | 1D6x200 silver, 50% chance of 1 Rare Supplies |
+| | 51-75 | 2D6 Provisions, 2D6 Supplies, 4D6 Ammo,2D10 Common, 2D6 Rich | 51-75 | 1 Rare Supplies, 2D6x200 silver, 50% chance of one Treasure |
+| | 76-90 | 2D6 Provisions, 2D6 Supplies, 4D6 Ammo,4D10 Common, 2x3D6 Rich | 76-90 | 1D4 Rare Supplies, 1 Treasure, 4D6x200 silver |
+| | 91-00 | 2D6 Provisions, 2D6 Supplies, 4D6 Ammo, 3D10 Common, 3x2D6 Rich | 91-00 | 1D4 Rare Supplies, 1D4 Treasure, 4D6x200 silver |
 
-Raft (4      01-75    None                            -       -
-tons)
+### Plunder
 
-             76-00    1D4 Common                      -       -
-
-Rowboat      01-00    None                              01-99   None
-(0.5 tons)
-
-                                                        00      1 Treasure
-
-Fisherman    01-50    1 Provisions, 1 Supplies, 1D4     01-95
-(10 tons)             Common
-
-             51-00    1 Provisions, 1 Supplies, 2D4     96-00   1 Rare Supplies
-                      Common
-
-Small        01-50    1D6 Provisions, 1D6 Supplies,     01-90   1D6x100 Silver
-Trader (40            1 Ammo, 1D10 Common
-tons)
-
-             51-75    1D6 Provisions, 1D6 Supplies,     91-99   1 Rare Supplies,
-                      1 Ammo, 2D10 Common                       2D6x100 silver
-
-             76-90    1D6 Provisions, 1D6 Supplies,     00      50% chance of One
-                      1 Ammo, 1D10 Common, 1                    Treasure, 4D6x1000
-                      Rich                                      silver
-
-             91-00    1D6 Provisions, 1D6 Supplies,
-                      1 Ammo, 1D10 Common, 1d3
-                      Rich
-
-Sloop (50    01-50    1D6 Provisions, 1D6 Supplies,     01-50   None
-tons)                 1D4 Ammo, 2D10 Common
-
-             51-75    1D6 Provisions, 1D6 Supplies,     51-75   1D6x200 silver
-                      1D4 Ammo, 3D10 Common
-
-             76-90    1D6 Provisions, 1D6 Supplies,     76-90   1 Rare Supplies,
-                      1D4 Ammo, 2x2D10                          2D6x200 silver
-                      Common, 1D6 Rich
-
-             91-00    1D6 Provisions, 1D6 Supplies,     91-00   1D4 Rare Supplies,
-                      1D4 Ammo, 2x2D10                          4D6x200 silver
-                      Common, 1D10 Rich
-
-Schooner     01-50    2D6 Provisions, 2D6 Supplies,     01-50   None
-(100 tons)            1D6 Ammo, 2x2D10
-                      Common
-
-             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1D6x500 silver
-                      1D6 Ammo, 3x2D10
-                      Common
-
-             76-90    2D6 Provisions, 2D6 Supplies,     76-90   1D4 Rare Supplies,
-                      1D6 Ammo, 2x2D10                          4D6x500 silver
-                      Common, 2x1D6 Rich
-
-             91-00    2D6 Provisions, 2D6 Supplies,     91-00   1D4 Rare Supplies, 1
-                      1D6 Ammo, 3x2D10                          Treasure, 4D6x500 silver
-                      Common, 2x1D10 Rich
-
-Snow (120    01-50    2D6 Provisions, 2D6 Supplies,     01-50   None
-tons)                 1D6 Ammo, 3x2D10
-                      Common
-
-             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1D6x500 silver
-                      1D6 Ammo, 4xD10 Common
-
-             76-90    2D6 Provisions, 2D6 Supplies,     76-90   1D4 Rare Supplies,
-                      1D6 Ammo, 4x2D10                          4D6x500 silver
-                      Common, 2x1D6 Rich
-
-             91-00    2D6 Provisions, 2D6 Supplies,     91-00   1D4 Rare Supplies, 1D4
-                      1D6 Ammo, 4x2D10                          Treasure, 4D6x500 silver
-                      Common, 2x1D10 Rich
-
-Brigantine   01-50    3D6 Provisions, 3D6 Supplies,     01-50   None
-(100 tons)            2D6 Ammo, 3D10 Common
-
-             51-75    3D6 Provisions, 3D6 Supplies,     51-75   1D6x500 silver
-                      2D6 Ammo, 2x2D10
-                      Common, 1D6 Rich
-
-             76-90    3D6 Provisions, 3D6 Supplies,     76-90   1D4 Rare Supplies,
-                      2D6 Ammo, 2xD10 Common,                   4D6x500 silver
-                      3x1D6 Rich
-
-             91-00    3D6 Provisions, 3D6 Supplies,     91-00   1D4 Rare Supplies, 1
-                      2D6 Ammo, 3x2D10                          Treasure, 4D6x500 silver
-                      Common, 2x1D10 Rich
-
-Fluyt (250   01-50    6D6 Provisions, 6D6 Supplies,     01-50   3D6x500 silver, 50%
-tons)                 3D6 Ammo, 3x5D10                          chance of 1D6 Rare
-                      Common, 1D10 Rich                         Supplies
-
-             51-75    6D6 Provisions, 6D6               51-75   6D6x500 silver, 1D6
-                      Supplies, 3D6 Ammo,4x5D10                 Rare Supplies
-                      Common, 3x1D10 Rich
-
-             76-90    6D6 Provisions, 6D6 Supplies,     76-90   8D6x500 silver, 1D6
-                      3D6 Ammo, 5x5D10                          Rare Supplies, 50%
-                      Common, 4xD10 Rich                        chance of 1D4 Treasures
-
-             91-00    6D6 Provisions, 6D6 Supplies,     91-00   10D6x500 silver, 1D6
-                      3D6 Ammo, 6x5D10                          Rare Supplies, 1D4
-                      Common, 4x3D10 Rich                       Treasures
-
-Barque       01-50    2D6 Provisions, 2D6 Supplies,     01-50   None
-(80)                  1D6 Ammo, 2D10 Common,
-                      1D4 Rich
-
-             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1D6x200 silver, 50%
-                      1D6 Ammo,3D10 Common,                     chance of 1 Rare
-                      2D4 Rich                                  Supplies
-
-             76-90    2D6 Provisions, 2D6               76-90   1 Rare Supplies,
-                      Supplies, 1D6 Ammo,2x2D10                 2D6x200 silver, 50%
-                      Common, 3D4 Rich                          chance of one Treasure
-
-             91-00    2D6 Provisions, 2D6               91-00   1D4 Rare Supplies, 1
-                      Supplies, 1D6 Ammo,3x2D10                 Treasure, 4D6x200 silver
-                      Common, 4D4 Rich
-
-Indiaman     01-50    6D6 Provisions, 6D6 Supplies,     01-50   4D6x500 silver, 1D6
-(300 tons)            3D6 Ammo, 6x5D10                          Rare Supplies
-                      Common, 2D10 Rich
-
-             51-75    6D6 Provisions, 6D6 Supplies,     51-75   6D6x500 silver, 1D6
-                      3D6 Ammo, 7x5D10                          Rare Supplies, 1 Treasure
-                      Common, 3x2D10 Rich
-
-             76-90    6D6 Provisions, 6D6 Supplies,     76-90   8D6x500 silver, 1D6
-                      3D6 Ammo, 10x5D10                         Rare Supplies, 1D4
-                      Common, 4x3D10 Rich                       Treasures
-
-             91-00    6D6 Provisions, 6D6 Supplies,     91-00   10D6x500 silver, 1D6
-                      3D6 Ammo, 10x5D10                         Rare Supplies, 2D4
-                      Common, 5x4D10 Rich                       Treasures
-
-Galleon      01-50    6D6 Provisions, 6D6 Supplies,     01-50   10D6x500 silver, 1D6
-(250)                 3D6 Ammo, 4x5D10                          Rare Supplies, 1 Treasure
-                      Common, 2D10 Rich
-
-             51-75    6D6 Provisions, 6D6 Supplies,     51-75   12D6x500 silver, 1D6
-                      3D6 Ammo, 6x5D10                          Rare Supplies, 1D4
-                      Common, 2x2D10 Rich                       Treasures
-
-             76-90    6D6 Provisions, 6D6 Supplies,     76-90   16D6x500 silver, 1D6
-                      3D6 Ammo, 6x5D10                          Rare Supplies, 2D4
-                      Common, 4x4D10 Rich                       Treasures
-
-             91-00    6D6 Provisions, 6D6 Supplies,     91-00   20D6x500 silver, 1D6
-                      3D6 Ammo, 6x5D10                          Rare Supplies, 3D4
-                      Common, 6x4D10 Rich                       Treasures
-
-Sloop of     01-50    2D6 Provisions, 2D6 Supplies,     01-50   1D6x200 silver
-War (50               1D6 Ammo,2D10 Common
-tons)
-
-             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1 Rare Supplies,
-                      1D6 Ammo,3D10 Common                      2D6x200 silver
-
-             76-90    2D6 Provisions, 2D6 Supplies,     76-90   1D4 Rare Supplies,
-                      1D6 Ammo,3D10 Common,                     4D6x200 silver
-                      1D6 Rich
-
-             91-00    2D6 Provisions, 2D6 Supplies,     91-00   1D4 Rare Supplies,
-                      1D6 Ammo,3D10 Common,                     6D6x200 silver, 50%
-                      1D10 Rich                                 chance of 1 Treasure
-
-Corvette     01-50    2D6 Provisions, 2D6 Supplies,     01-50   1D6x200 silver
-(40 tons)             1D6 Ammo, 1D10 Common
-
-             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1 Rare Supplies,
-                      1D6 Ammo, 2D10 Common                     2D6x200 silver
-
-             76-90    2D6 Provisions, 2D6 Supplies,     76-90   1D4 Rare Supplies,
-                      1D6 Ammo, 1D10 Common,                    4D6x200 silver
-                      1D6 Rich
-
-             91-00    2D6 Provisions, 2D6 Supplies,     91-00   1D4 Rare Supplies,
-                      1D10 Common, 1D10 Rich                    6D6x200 silver, 50%
-                                                                chance of 1 Treasure
-
-Frigate (80  01-50    2D6 Provisions, 2D6 Supplies,     01-50   1D6x200 silver, 50%
-tons)                 2D6 Ammo, 2D10 Common,                    chance of 1 Rare
-                      1D4 Rich                                  Supplies
-
-             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1 Rare Supplies,
-                      2D6 Ammo,2D10 Common,                     2D6x200 silver, 50%
-                      2D6 Rich                                  chance of one Treasure
-
-             76-90    2D6 Provisions, 2D6 Supplies,     76-90   1D4 Rare Supplies, 1
-                      2D6 Ammo,4D10 Common,                     Treasure, 4D6x200 silver
-                      3D6 Rich
-
-             91-00    2D6 Provisions, 2D6 Supplies,     91-00   1D4 Rare Supplies, 1D4
-                      3D10 Common, 2x2D6 Rich                   Treasure, 4D6x200 silver
-
-Warship      01-50    2D6 Provisions, 2D6 Supplies,     01-50   1D6x200 silver, 50%
-(100 tons)            4D6 Ammo, 2D10 Common,                    chance of 1 Rare
-                      1D4 Rich                                  Supplies
-
-             51-75    2D6 Provisions, 2D6 Supplies,     51-75   1 Rare Supplies,
-                      4D6 Ammo,2D10 Common,                     2D6x200 silver, 50%
-                      2D6 Rich                                  chance of one Treasure
-
-             76-90    2D6 Provisions, 2D6 Supplies,     76-90   1D4 Rare Supplies, 1
-                      4D6 Ammo,4D10 Common,                     Treasure, 4D6x200 silver
-                      2x3D6 Rich
-
-             91-00    2D6 Provisions, 2D6 Supplies,     91-00   1D4 Rare Supplies, 1D4
-                      4D6 Ammo, 3D10 Common,                    Treasure, 4D6x200 silver
-                      3x2D6 Rich
-
-
-Plunder
-Provisions: These are basic foodstuffs, such as fresh water, beer, bread, salt meat, hardtack and so
+**Provisions**: These are basic foodstuffs, such as fresh water, beer, bread, salt meat, hardtack and so
 forth - just what a ship's crew needs to eat. Provisions are used on a voyage, not traded.
 
-Supplies: Rope, sails, nails, pitch, timber and other materials needed to repair a ship.
+**Supplies**: Rope, sails, nails, pitch, timber and other materials needed to repair a ship.
 
-Ammo: Powder and shot for cannons.
+**Ammo**: Powder and shot for cannons.
 
-
-
-Common Plunder: A ship carries a wide variety of goods. For each die or value listed, roll on
+**Common Plunder**: A ship carries a wide variety of goods. For each die or value listed, roll on
 the Common Plunder table. For example, if a ship's Plunder is listed as 2x2D10 Common, you
 would roll twice on the Common Plunder table. There would be 2D10 tons of the first result on
 board and 2D10 tons of the second result.
@@ -2956,126 +2797,128 @@ board and 2D10 tons of the second result.
 
 ##### Common Plunder
 
-Roll 1D100      Item                         Price                    Units
-01-02           Ale                          600 silver               Six Barrels (ton)
-03-04           Brandy                       400 silver               Six Barrel (ton)
-05-07           Building Materials           120 silver               Six Bales (ton)
-08-09           Broadcloth                   500 silver               Six Bales (ton)
-10-11           Cannons                      500 silver               Cannon (ton)
-12-15           Cattle                       80 silver                Three Cattle (ton)
-16-17           Clothing                     800 silver               Ton
-18-19           Cocoa                        1,000 silver             Twelve Casks (ton)
-20-22           Coffee                       700 silver               Twelve Cask (ton)
-23-25           Cotton                       300 silver               Six Bales (ton)
-26-27           Copper                       1,000 silver             Ton
-28-30           Flour                        200 silver               Six Barrels (ton)
-31-33           Fruit                        300 silver               Six Barrels (ton)
-34-35           Furniture                    500 silver               Piece (ton)
-36-40           Grain                        90 silver                Six Barrels (ton)
-41-42           Gunpowder                    1,200 silver             Six Barrels (ton)
-43-45           Hardwood                     120 Silver               Ton
-46-47           Horses                       400 silver               1 Horse (ton)
-48-51           Logwood                      80 silver                Ton
-52-53           Iron                         500 silver               Ton
-54-57           Meat                         100 silver               Six Barrels (ton)
-58-59           Molasses                     250 silver               Six Barrels (ton)
-60-61           Oil                          500 silver               Six Barrels (ton)
-62-65           Pitch                        400 silver               Six Barrels (ton)
-66-68           Rice                         150 silver               Six Barrels (ton)
-69-70           Rum                          2,500 silver             Twelve Casks (ton)
-71-74           Salt Beef                    200 silver               Six Barrels (ton)
-75-77           Salt                         150 silver               Six Barrels (ton)
-78-80           Slaves                       1,500 silver             Two Men (ton)
-81-84           Sugar                        1,000 silver             Six Barrels (ton)
-85-88           Supplies                     200 silver               Ton
-89-90           Tobacco                      1,000 silver             Six Barrels (ton)
-91-93           Vinegar                      200 silver               Six Barrels (ton)
-94-98           Wine, Cheap                  400 silver               Six Barrels (ton)
-99-00           Wool                         500 Silver               Six Bales (ton)
+| Roll 1D100    | Item                       | Price                  | Units |
+|---------------|----------------------------|------------------------|-------|
+| 01-02         | Ale                        | 600 silver             | Six Barrels (ton) |
+| 03-04         | Brandy                     | 400 silver             | Six Barrel (ton) |
+| 05-07         | Building Materials         | 120 silver             | Six Bales (ton) |
+| 08-09         | Broadcloth                 | 500 silver             | Six Bales (ton) |
+| 10-11         | Cannons                    | 500 silver             | Cannon (ton) |
+| 12-15         | Cattle                     | 80 silver              | Three Cattle (ton) |
+| 16-17         | Clothing                   | 800 silver             | Ton   |
+| 18-19         | Cocoa                      | 1,000 silver           | Twelve Casks (ton) |
+| 20-22         | Coffee                     | 700 silver             | Twelve Cask (ton) |
+| 23-25         | Cotton                     | 300 silver             | Six Bales (ton) |
+| 26-27         | Copper                     | 1,000 silver           | Ton   |
+| 28-30         | Flour                      | 200 silver             | Six Barrels (ton) |
+| 31-33         | Fruit                      | 300 silver             | Six Barrels (ton) |
+| 34-35         | Furniture                  | 500 silver             | Piece (ton) |
+| 36-40         | Grain                      | 90 silver              | Six Barrels (ton) |
+| 41-42         | Gunpowder                  | 1,200 silver           | Six Barrels (ton) |
+| 43-45         | Hardwood                   | 120 Silver             | Ton   |
+| 46-47         | Horses                     | 400 silver             | 1 Horse (ton) |
+| 48-51         | Logwood                    | 80 silver              | Ton   |
+| 52-53         | Iron                       | 500 silver             | Ton   |
+| 54-57         | Meat                       | 100 silver             | Six Barrels (ton) |
+| 58-59         | Molasses                   | 250 silver             | Six Barrels (ton) |
+| 60-61         | Oil                        | 500 silver             | Six Barrels (ton) |
+| 62-65         | Pitch                      | 400 silver             | Six Barrels (ton) |
+| 66-68         | Rice                       | 150 silver             | Six Barrels (ton) |
+| 69-70         | Rum                        | 2,500 silver           | Twelve Casks (ton) |
+| 71-74         | Salt Beef                  | 200 silver             | Six Barrels (ton) |
+| 75-77         | Salt                       | 150 silver             | Six Barrels (ton) |
+| 78-80         | Slaves                     | 1,500 silver           | Two Men (ton) |
+| 81-84         | Sugar                      | 1,000 silver           | Six Barrels (ton) |
+| 85-88         | Supplies                   | 200 silver             | Ton   |
+| 89-90         | Tobacco                    | 1,000 silver           | Six Barrels (ton) |
+| 91-93         | Vinegar                    | 200 silver             | Six Barrels (ton) |
+| 94-98         | Wine, Cheap                | 400 silver             | Six Barrels (ton) |
+| 99-00         | Wool                       | 500 Silver             | Six Bales (ton) |
 
 
-Rich Plunder: Rich Plunder includes goods that will fetch a very high price on the black market.
+**Rich Plunder**: Rich Plunder includes goods that will fetch a very high price on the black market.
 Roll in the same way as Common Plunder.
-
 
 ##### Rich Plunder
 
-Roll 1D100            Item                     Price                    Units
-1-7                   Books                    8,000 silver             Crate (ton)
-8-20                  Clothes, Fine            3,000 silver             Crate (ton)
-21-30                 Furniture, Fine          2,000 silver             Unit (ton)
-31-40                 Glassware                5,000 silver             Crate (ton)
-41-60                 Indigo                   8,000 silver             Twelve Casks (ton)
-61-70                 Pewterware               4,000 silver             Crate (ton)
-71-75                 Silk                     50,000 silver            10 bolts (ton)
-76-85                 Silverware               6,000 silver             Crate (ton)
-86-88                 Spice, Pepper            16,000 silver            Twelve Casks (ton)
-89-90                 Spice, Cloves            30,000 silver            Twelve Casks (ton)
-91-92                 Spice, Rosemary          8,000 silver             Twelve Casks (ton)
-93                    Spice, Ginseng           60,000 silver            Twelve Casks (ton)
-94                    Spice, Ginger            10,000 silver            Twelve Casks (ton)
-95-00                 Wine, Fine               4,000 silver             Twelve Casks (ton)
+| Roll 1D100          | Item                   | Price                  | Units |
+|---------------------|------------------------|------------------------|-------|
+| 1-7                 | Books                  | 8,000 silver           | Crate (ton) |
+| 8-20                | Clothes, Fine          | 3,000 silver           | Crate (ton) |
+| 21-30               | Furniture, Fine        | 2,000 silver           | Unit (ton) |
+| 31-40               | Glassware              | 5,000 silver           | Crate (ton) |
+| 41-60               | Indigo                 | 8,000 silver           | Twelve Casks (ton) |
+| 61-70               | Pewterware             | 4,000 silver           | Crate (ton) |
+| 71-75               | Silk                   | 50,000 silver          | 10 bolts (ton) |
+| 76-85               | Silverware             | 6,000 silver           | Crate (ton) |
+| 86-88               | Spice, Pepper          | 16,000 silver          | Twelve Casks (ton) |
+| 89-90               | Spice, Cloves          | 30,000 silver          | Twelve Casks (ton) |
+| 91-92               | Spice, Rosemary        | 8,000 silver           | Twelve Casks (ton) |
+| 93                  | Spice, Ginseng         | 60,000 silver          | Twelve Casks (ton) |
+| 94                  | Spice, Ginger          | 10,000 silver          | Twelve Casks (ton) |
+| 95-00               | Wine, Fine             | 4,000 silver           | Twelve Casks (ton) |
 
-Rich Supplies: Rich Supplies are especially valuable items found on some ships.
+**Rich Supplies**: Rich Supplies are especially valuable items found on some ships.
 
 
 ##### Rich Supplies
 
-Roll 1D100          Item                                                     Price
-01-05               Ship's Anchor                                            800 SP
-06-10               Navigator's Instruments                                  650 SP
-11-15               Shipwright's Tools                                       250 SP
-16-20               Surgeon's Kit                                            600 SP
-21-25               Compass                                                  150 SP
-26-30               Pocketwatch                                              25 SP
-31-40               Telescope                                                1,500 SP
-41-50               Fine clothes                                             120 SP
-51-55               Very fine clothes                                        1,200 SP
-56-60               Magnificent clothes                                      1,500 SP
-61-65               Rifle                                                    1,000 SP
-66-70               Exquisite Rapier (+10% to hit)                           500 SP
-71-75               Very Fine Hat                                            500 SP
-76-80               Fine Charts (+5% to Navigation in this region)           Varies
-81-90               Important Passenger                                      Ransom?
-91-92               Especially talented Gunner (skill 40+4D10%)
-93-94               Especially talented Boatswain (skill 40+4D10%)
-95-96               Especially talented Carpenter (skill 40+4D10%)
-97-98               Especially talented Doctor (skill 40+4D10%)
-99-00               Secret Documents                                         Varies
+| Roll 1D100        | Item                                                   | Price |
+|-------------------|--------------------------------------------------------|-------|
+| 01-05             | Ship's Anchor                                          | 800 SP |
+| 06-10             | Navigator's Instruments                                | 650 SP |
+| 11-15             | Shipwright's Tools                                     | 250 SP |
+| 16-20             | Surgeon's Kit                                          | 600 SP |
+| 21-25             | Compass                                                | 150 SP |
+| 26-30             | Pocketwatch                                            | 25 SP |
+| 31-40             | Telescope                                              | 1,500 SP |
+| 41-50             | Fine clothes                                           | 120 SP |
+| 51-55             | Very fine clothes                                      | 1,200 SP |
+| 56-60             | Magnificent clothes                                    | 1,500 SP |
+| 61-65             | Rifle                                                  | 1,000 SP |
+| 66-70             | Exquisite Rapier (+10% to hit)                         | 500 SP |
+| 71-75             | Very Fine Hat                                          | 500 SP |
+| 76-80             | Fine Charts (+5% to Navigation in this region)         | Varies |
+| 81-90             | Important Passenger                                    | Ransom? |
+| 91-92             | Especially talented Gunner (skill 40+4D10%)            |       |
+| 93-94             | Especially talented Boatswain (skill 40+4D10%)         |       |
+| 95-96             | Especially talented Carpenter (skill 40+4D10%)         |       |
+| 97-98             | Especially talented Doctor (skill 40+4D10%)            |       |
+| 99-00             | Secret Documents                                       | Varies |
 
 
-Treasure: Treasure is the real prize to be found on board a ship - coins, jewels, gold bars and
+**Treasure**: Treasure is the real prize to be found on board a ship - coins, jewels, gold bars and
 other fabulously valuable items.
 
 ##### Treasure
 
-Roll d%              Item                                     Price
-01-10                2D6 x 1,000 Silver Coins                 1 silver each
-11-15                2D6 x 100 Gold Coins                     32 silver each
-16-20                6D6 x 1,000 Silver Coins                 1 silver each
-21-25                6D6 x 100 Gold Coins                     32 silver each
-26-30                12D6 x 1,000 Silver Coins                1 silver each
-31-40                12D6 x 100 Gold Coins                    32 silver each
-41-45                10D6 Silver Ingots                       320 silver per bar
-46-50                Cask of Nutmeg                           5,000 silver
-51-55                Jewelled Ring                            10,000 silver
-56-60                Jewelled Broach                          20,000 silver
-61-65                Jewelled Crucifix                        50,000 silver
-66-70                1D4 Gold Plates                          20,000 silver each
-71-75                Bag of Pearls                            500 silver each
-76-80                Bag of 3D6 Emeralds                      1,500 silver each
-81-85                3D6 Gold Ingots                          10,000 silver per bar
-86-90                Bag of 3D6 Rubies                        2,500 silver each
-91                   Cask of Gemstones                        150,000 silver
-92                   Ivory Tusks                              125,000 silver
-93                   Jesuit's Bark                            160,000 silver
-94                   Crate of Jewellery                       160,000 silver
-95                   Golden Aztec Artefacts                   200,000 silver
-96-00                Roll Again Twice
+| Roll d%            | Item                                   | Price |
+|--------------------|----------------------------------------|-------|
+| 01-10              | 2D6 x 1,000 Silver Coins               | 1 silver each |
+| 11-15              | 2D6 x 100 Gold Coins                   | 32 silver each |
+| 16-20              | 6D6 x 1,000 Silver Coins               | 1 silver each |
+| 21-25              | 6D6 x 100 Gold Coins                   | 32 silver each |
+| 26-30              | 12D6 x 1,000 Silver Coins              | 1 silver each |
+| 31-40              | 12D6 x 100 Gold Coins                  | 32 silver each |
+| 41-45              | 10D6 Silver Ingots                     | 320 silver per bar |
+| 46-50              | Cask of Nutmeg                         | 5,000 silver |
+| 51-55              | Jewelled Ring                          | 10,000 silver |
+| 56-60              | Jewelled Broach                        | 20,000 silver |
+| 61-65              | Jewelled Crucifix                      | 50,000 silver |
+| 66-70              | 1D4 Gold Plates                        | 20,000 silver each |
+| 71-75              | Bag of Pearls                          | 500 silver each |
+| 76-80              | Bag of 3D6 Emeralds                    | 1,500 silver each |
+| 81-85              | 3D6 Gold Ingots                        | 10,000 silver per bar |
+| 86-90              | Bag of 3D6 Rubies                      | 2,500 silver each |
+| 91                 | Cask of Gemstones                      | 150,000 silver |
+| 92                 | Ivory Tusks                            | 125,000 silver |
+| 93                 | Jesuit's Bark                          | 160,000 silver |
+| 94                 | Crate of Jewellery                     | 160,000 silver |
+| 95                 | Golden Aztec Artefacts                 | 200,000 silver |
+| 96-00              | Roll Again Twice                       |       |
 
 Of course, once the plunder is in a pirate's grasp, he still has to trade it or sell it for willing
 wenches, pipes of wine and other necessities, like parrots. See Ill-Gotten Gains.
-
 
 
 # Combat on the High Seas
@@ -3097,7 +2940,7 @@ By contrast, a Crew Combat is a boarding action, a mutiny, or a battle on land i
 or more fighters on either side, where the normal rules for combat would take too long.
 
 
-Duels
+## Duels
 A Duel works just like a normal Legend melee combat, with the added complexity of Advantage.
 Advantage is a measure of how much one combatant is controlling the movement and tempo
 of the fight. Only one Adventurer in a fight can hold the Advantage at any given moment -
@@ -3106,11 +2949,11 @@ Advantage, then subtract the Advantage gained from the Favoured Adventurer's tot
 would reduce the Favoured Adventurer's Advantage to a negative number, then the opponent
 becomes Favoured instead, with a positive Advantage total equal to the excess gain.
 
-For example, the pirates Bartholomew and Morgan are fighting a duel. Bartholomew made several
-successful attacks, and now has an Advantage of +3. As Bartholomew has the advantage, he is the
-Favoured combatant. Morgan executes a particularly clever riposte that garners him 6 points of
-Advantage. He subtracts this from Bartholomew's total, bringing it down to 0. The remaining three
-points go into a new Advantage for Matthew.
+> For example, the pirates Bartholomew and Morgan are fighting a duel. Bartholomew made several
+> successful attacks, and now has an Advantage of +3. As Bartholomew has the advantage, he is the
+> Favoured combatant. Morgan executes a particularly clever riposte that garners him 6 points of
+> Advantage. He subtracts this from Bartholomew's total, bringing it down to 0. The remaining three
+> points go into a new Advantage for Matthew.
 
 The easiest way to keep track of Advantage is by putting a 10 sided die between the combatants.
 Move it closer to whatever Adventurer is currently favoured. When the Favoured Adventurer
@@ -3119,7 +2962,7 @@ Advantage, he decreases the number on the die, or moves it over to his side if h
 Favoured.
 
 
-Optional Rule: Fighting Aboard Ship
+#### Optional Rule: Fighting Aboard Ship
 On a small vessel like a sloop, there is hardly enough room to take two paces without having to
 step over a coiled rope, hatchway, chest or other obstacle. There is little space to swing a sword
 in a fight. Therefore, most weapons suffer a penalty of -10% to hit in cramped conditions such
@@ -3136,22 +2979,18 @@ Some conditions, such as the lower decks of a ship or a cave, are so cramped tha
 than a knife suffers a penalty.
 
 
-
-
-Gaining Advantage
+### Gaining Advantage
 There are several ways to increase or decrease an Advantage score:
 
-*	     Opposed Rolls: An Adventurer gains one point of Advantage whenever he beats an
+* Opposed Rolls: An Adventurer gains one point of Advantage whenever he beats an
   opponent's score by more than 20% in an opposed roll. In melee combat, where attack
   rolls are opposed by Parry or Dodge, then advantage will flow back and forth quickly.
-*	     Successful Hits: Instead of dealing damage on a successful hit, an Adventurer can instead
+* Successful Hits: Instead of dealing damage on a successful hit, an Adventurer can instead
   choose to gain 1D6 points of Advantage.
-*	     Hero Points: An Adventurer may spend a Hero Point to gain 1D6 points of Advantage.
+* Hero Points: An Adventurer may spend a Hero Point to gain 1D6 points of Advantage.
 
 
-
-
-Witty Repartee
+#### Witty Repartee
 Optionally, in Cinematic games, an Adventurer in a Duel can gain Advantage through witty
 repartee. Once per round, an Adventurer may insult or bait his opponent. If the opponent cannot
 respond wittily to this opening gambit, then the character gains +1 Advantage. If the opponent
@@ -3166,57 +3005,57 @@ Optionally, a player can make an Influence check to get a suggestion from the ot
 is stuck and cannot come up with a good line.
 
 
-Using Advantage
+#### Using Advantage
 There are several distinct advantages, so to speak, to having the Advantage in a fight. There are
 two 'passive' bonuses that apply all the time, as long as an Adventurer is favoured:
 
-*	   Bonus to Attack rolls: An Adventurer gains a +10% bonus to all his attacks for every 5
+* **Bonus to Attack rolls**: An Adventurer gains a +10% bonus to all his attacks for every 5
   points of Advantage he holds, or portion thereof. So, an Adventurer with even a single point
   of Advantage gets a +10% bonus; an Adventurer with +11 Advantage gets a massive +30%
   bonus to hit.
-*	   Bonus to Parries: An Adventurer gains a +5% bonus to all his parries for every 5 points
+* **Bonus to Parries**: An Adventurer gains a +5% bonus to all his parries for every 5 points
   of Advantage he holds, or portion thereof. So, an Adventurer with even a single point of
   Advantage gets a +5% bonus; an Adventurer with +11 Advantage gets a +15% bonus to parry.
 
 Advantage can also be spent as part of an attack in several ways.
 
-*	   Force Movement: If an Adventurer is in melee with a foe, he can force his foe to move by
+* **Force Movement**: If an Adventurer is in melee with a foe, he can force his foe to move by
   spending Advantage. The Adventurer spends one point of Advantage per metre he wishes
   to move and both foes must move back or forth as the Adventurer chooses. If the opponent
   does not wish to move, then the Adventurer gets a Reaction free attack, and the opponent's
   Evade score is penalised by 50%. Using this move, an Adventurer can force an opponent
   back over a cliff, into a cramped area, or into a burning building.
-*	   Bonus Damage: An Adventurer can increase damage from a successful hit by spending
+* **Bonus Damage**: An Adventurer can increase damage from a successful hit by spending
   Advantage. Each point of Advantage spent increases damage by +1. The Advantage must
   be spent after the attack is deemed to be successful but before the damage dice are rolled.
 
 
-Resetting Advantage
+### Resetting Advantage
 There are several ways an Adventurer who is losing a fight can 'reset' the Advantage back to 0, so
 that no Adventurer is favoured.
 
-*	   Breaking Off: If neither combatant in a fight makes an attack roll in a round, then the
+* **Breaking Off**: If neither combatant in a fight makes an attack roll in a round, then the
   Advantage resets to 0.
-*	   Changing The Nature Of The Fight: A switch from melee to grappling, or from armed
+* **Changing The Nature Of The Fight**: A switch from melee to grappling, or from armed
   melee to unarmed melee resets the Advantage to 0.
-*	   Blinding, distracting or otherwise stunning the opponent: Such an event resets the
+* **Blinding, distracting or otherwise stunning the opponent**: Such an event resets the
   Advantage to 0.
 
 
-Reversing Advantage
+### Reversing Advantage
 If the Adventurer who is not favoured gets a critical result in an opposed roll, and the favoured
 Adventurer fails, then the Advantage is immediately reversed and the unfavoured Adventurer
 becomes favoured.
 
 
-Duels with Multiple Participants
+### Duels with Multiple Participants
 While the Duel rules are intended to be used to model fights where two Adventurers vie for
 victory, they can be extended to larger fights. If there are multiple combatants on each side, say
 a two against two or three versus three battle, then the rules are used as normal, except that the
 passive bonuses to Parries and Attacks are not used.
 
 
-Optional Rule: Fatigue in Pirates Games
+#### Optional Rule: Fatigue in Pirates Games
 The Legend rules for Fatigue rarely come into play, because normal combat is only Medium
 activity, so Adventurers can keep fighting for a number of minutes equal to their CON without
 risking becoming Fatigued. While this rule supports the dungeon crawling or heroic questing
@@ -3226,25 +3065,24 @@ campaigns.
 It is suggested, then, that the following rules changes are made in Pirates of Legend games to
 fatigue:
 
-*	   All combat counts as Heavy Activity. Therefore, an Adventurer can only fight for a number
-of rounds equal to his CON score before risking Fatigue.
-*	   Adventurers recover from fatigue slightly faster, as the following table shows:
+* All combat counts as Heavy Activity. Therefore, an Adventurer can only fight for a number
+  of rounds equal to his CON score before risking Fatigue.
+* Adventurers recover from fatigue slightly faster, as the following table shows, 
+  recovering up to the next state by resting or engaging in light activity.
 
-Current State           To recover up to the next state takes...
-                        Full Rest                           Light Activity
-Fresh                   -                                   -
-Winded                  One round                           One minute
-Wearied                 Five minutes                        One hour
-Exhausted               Four hours                          -
-Debilitated             Eight hours                         -
+| Current State         | Full Rest                         | Light Activity |
+|-----------------------|-----------------------------------|----------------|
+| Fresh                 | -                                 | -              |
+| Winded                | One round                         | One minute     |
+| Wearied               | Five minutes                      | One hour       |
+| Exhausted             | Four hours                        | -              |
+| Debilitated           | Eight hours                       | -              |
 
 Even if the change in the Fatigue rating of combat is not made for normal fights, it is strongly
 recommended that Duels count as Heavy activity.
 
 
-
-
-Formal Duels
+## Formal Duels
 Formal duels are a gentleman's way of settling disputes and matters of honour that cannot be
 addressed in any fashion save bloodshed. In a duel, the challenged party is permitted the pick
 of weapons - pistols or swords are normally chosen. Duels take place at a time agreed upon by
@@ -3260,7 +3098,7 @@ of damage. When a participant is wounded, then he should yield and give himself 
 mercy of the victor.
 
 
-Pirate Duels
+### Pirate Duels
 Duels between pirates are never so formal, unless the participants are gentlemen of honour who
 have somehow fallen into piracy. Pirate duels almost never take place on board a ship - the
 brotherhood should be united when at sea, so disputes should be settled on the shore. Unlike a
@@ -3270,7 +3108,7 @@ being bound together, or blindfolded, or take place on sandbars of sucking mud o
 with the tide rising swiftly.
 
 
-Pistol Duels
+### Pistol Duels
 In a pistol duel, both participants start back to back. They then take a predetermined number of
 steps apart, then turn and fire. The Adventurers roll their Strike Rank when they have taken the
 requisite number of steps. An Adventurer can cheat, turning and firing early. In such cases, the
@@ -3280,20 +3118,17 @@ When firing, both Adventurers get a +25% bonus to their Pistols skill, due to th
 conditions and predictability of the opponent's location.
 
 
-
-Duel Summary
-*	   Only one side can have advantage at any time.
-*	   Whenever you win a roll, you either gain +1 Advantage, or take -1 Advantage away from
+#### Duel Summary
+* Only one side can have advantage at any time.
+* Whenever you win a roll, you either gain +1 Advantage, or take -1 Advantage away from
   your opponent.
-*	   Whoever has Advantage gains a bonus to attacks and parries.
-*	   Advantage can also be spent to increase damage and perform other special attacks.
-*	   Advantage is reversed if the currently disadvantaged party gets a critical success.
-*	   Advantage can be reset to 0 by pausing or changing the nature of a fight.
+* Whoever has Advantage gains a bonus to attacks and parries.
+* Advantage can also be spent to increase damage and perform other special attacks.
+* Advantage is reversed if the currently disadvantaged party gets a critical success.
+* Advantage can be reset to 0 by pausing or changing the nature of a fight.
 
 
-
-
-Crew Combat
+## Crew Combat
 Crew Combat is a more abstract combat system, used when there are lots of combatants
 on either side, too many to bother keeping track of individually. The size of units in Crew
 Combat varies and should be set to a convenient value. For example, in a sea battle between
@@ -3303,20 +3138,20 @@ boat might be a unit.
 
 Crew combat works in a similar way to normal combat, with the following changes:
 
-*	   Crew combat rounds are 30 seconds long.
-*	   There are no Strike Ranks. The attacking force goes first, followed by the defenders. If there
+* Crew combat rounds are 30 seconds long.
+* There are no Strike Ranks. The attacking force goes first, followed by the defenders. If there
   is no clear attacking force, then both sides roll 1D10, highest goes first, re-rolling ties.
-*	   To make a Crew Combat attack, the leader of the crew (normally, the quartermaster or the
+* To make a Crew Combat attack, the leader of the crew (normally, the quartermaster or the
   gunner) makes a check against the appropriate skill (Firearms or Hand-To-Hand). This
   check may be modified by conditions. Hand to hand tests are opposed.
-*	   Crew damage is not measured in hit points lost - instead, a unit may be Fresh, Wounded,
+* Crew damage is not measured in hit points lost - instead, a unit may be Fresh, Wounded,
   Seriously Wounded, Mauled or Slaughtered.
-*	   At the end of a Crew Combat Round, one or both crews must make Morale tests.
-*	   Adventurers can make Heroic Actions during Crew Combat, which inspire their companions
+* At the end of a Crew Combat Round, one or both crews must make Morale tests.
+* Adventurers can make Heroic Actions during Crew Combat, which inspire their companions
   and give bonuses to the result.
 
 
-Crew Health, Crew Damage & Individual Adventurers
+#### Crew Health, Crew Damage & Individual Adventurers
 A crew's health is measured in levels. The levels are Fresh (unhurt), Wounded, Seriously
 Wounded, Mauled and Slaughtered. When a crew suffers an attack, it might drop down one
 or more health levels. Alternatively, it may also suffer a bonus to the next damage roll made
@@ -3339,106 +3174,108 @@ health levels translate to. However, this is only an average result - in a unit 
 from Fresh to Wounded, there would be plenty of pirates who have not been injured at all and
 an unlucky fellow or two who are dead or maimed.
 
-Crew Is...                              Individual Damage
-Fresh                                   No damage
-Wounded                                 Minor damage to random location
-Seriously Wounded                       Minor wound to random location
-Maimed                                  Serious wound to random location
-Slaughtered                             Major wound to random location
-Dead                                    Dead
+| Crew Is...                            | Individual Damage |
+|---------------------------------------|-------------------|
+| Fresh                                 | No damage         |
+| Wounded                               | Minor damage to random location |
+| Seriously Wounded                     | Minor wound to random location |
+| Maimed                                | Serious wound to random location |
+| Slaughtered                           | Major wound to random location |
+| Dead                                  | Dead              |
 
 
-Ranged Combat Modifiers
-Good equipment                                                        +5%
-Excellent equipment                                                   +10%
-Good attacking position                                               +10%
-Surprise                                                              +40%
-Crew is Wounded                                                       -10%
-Crew is Seriously Wounded                                             -20%
-Crew is Mauled                                                        -30%
-Crew is Slaughtered                                                   -50%
-Strong Wind                                                           -10%
-High Wind                                                             -20%
-Fierce Wind                                                           -40%
-Target obscured by mist or smoke                                      -10%
-Target obscured by thick smoke or fog                                 -20%
-Attacker on unstable ground (including a ship)                        -20%
-Target has moved 100 feet or more since the last round                -10%
+#### Ranged Combat Modifiers
+
+| Good equipment                                                      | +5% |
+| Excellent equipment                                                 | +10% |
+| Good attacking position                                             | +10% |
+| Surprise                                                            | +40% |
+| Crew is Wounded                                                     | -10% |
+| Crew is Seriously Wounded                                           | -20% |
+| Crew is Mauled                                                      | -30% |
+| Crew is Slaughtered                                                 | -50% |
+| Strong Wind                                                         | -10% |
+| High Wind                                                           | -20% |
+| Fierce Wind                                                         | -40% |
+| Target obscured by mist or smoke                                    | -10% |
+| Target obscured by thick smoke or fog                               | -20% |
+| Attacker on unstable ground (including a ship)                      | -20% |
+| Target has moved 100 feet or more since the last round              | -10% |
 
 Note that modifiers for target size are not used.
 
 
 
-
-Severely Outnumbered Attackers & Ranged Attacks
+#### Severely Outnumbered Attackers & Ranged Attacks
 No matter how good your crew's shooting is, the amount of lead shot they can put into the air is
 limited by the number of guns they have. Therefore, in cases where a small handful of men are
 firing at a much larger group, a modifier is applied to their Ranged damage rolls.
 
-Twice as many defenders as attackers: -1 to damage
-Three times: -2 to damage
-Four times: -3 to damage, and so forth.
+**Twice as many defenders as attackers**: -1 to damage
+**Three times**: -2 to damage
+**Four times**: -3 to damage, and so forth.
 
 So, if you are outnumbered five to one, you suffer a -4 penalty to your ranged attack damage
 rolls.
 
 
-Cover & Fortifications
+#### Cover & Fortifications
 Cover also reduces the damage from Ranged attacks.
 
-Thick Vegetation: -1 damage
-Light Cover (low walls, ship railings): -2 damage
-Medium Cover (wooden buildings): -3 damage
-Heavy Cover (stone fort): -4 damage
+**Thick Vegetation**: -1 damage
+**Light Cover (low walls, ship railings)**: -2 damage
+**Medium Cover (wooden buildings)**: -3 damage
+**Heavy Cover (stone fort)**: -4 damage
 
 
-
-Ranged Attacks
-Ranged Attack: To make a ranged attack on another crew, the crew makes a Firearms check, as
+### Ranged Attacks
+**Ranged Attack**: To make a ranged attack on another crew, the crew makes a Firearms check, as
 modified by the Crew Combat Modifiers listed in the sidebar.
 
 A critical success gives a +6 bonus to the damage roll.
 
-Ranged Damage: Roll 2D6 and compare to the Ranged Damage table.
+**Ranged Damage**: Roll 2D6 and compare to the Ranged Damage table.
 
-Ranged Damage
-Roll                 Successful Firearms Check                       Failed Firearms Check
-1 or less            +1 to next roll                                 No damage
-2                    +1 to next roll                                 No damage
-3                    +1 to next roll                                 No damage
-4                    +2 to next roll                                 No damage
-5                    +2 to next roll                                 No damage
-6                    +3 to next roll                                 +1 to next roll
-7                    +3 to next roll                                 +1 to next roll
-8                    One damage level                                +2 to next roll
-9                    One damage level                                +2 to next roll
-10                   Two damage levels                               +3 to next roll
-11                   Two damage levels                               +3 to next roll
-12                   Three damage levels                             One damage level
-13+                  Three damage levels                             Two damage levels
+##### Ranged Damage
+
+| Roll               | Successful Firearms Check                     | Failed Firearms Check |
+|--------------------|-----------------------------------------------|-----------------------|
+| 1 or less          | +1 to next roll                               | No damage             |
+| 2                  | +1 to next roll                               | No damage             |
+| 3                  | +1 to next roll                               | No damage             |
+| 4                  | +2 to next roll                               | No damage             |
+| 5                  | +2 to next roll                               | No damage             |
+| 6                  | +3 to next roll                               | +1 to next roll       |
+| 7                  | +3 to next roll                               | +1 to next roll       |
+| 8                  | One damage level                              | +2 to next roll       |
+| 9                  | One damage level                              | +2 to next roll       |
+| 10                 | Two damage levels                             | +3 to next roll       |
+| 11                 | Two damage levels                             | +3 to next roll       |
+| 12                 | Three damage levels                           | One damage level      |
+| 13+                | Three damage levels                           | Two damage levels     |
 
 A Crew must make a Morale test whenever it takes a damage level - see Morale tests.
 
-For example, a band of twenty pirates ambush a column of 40 guards and mine workers at a gold
-mine on the Spanish coast. The pirates are an Average crew, giving them a base Firearms score of 50%.
-They are lead by an experienced gunner and have good morale, increasing their score to 60%.
+> For example, a band of twenty pirates ambush a column of 40 guards and mine workers at a gold
+> mine on the Spanish coast. The pirates are an Average crew, giving them a base Firearms score of 50%.
+> They are lead by an experienced gunner and have good morale, increasing their score to 60%.
 
-The pirates ambush the enemy, giving them a +40% bonus to their attack, and fire from a rise
-overlooking a trail through the jungle, giving them an extra +10%. Unsurprisingly, they hit with
-their opening barrage.
+> The pirates ambush the enemy, giving them a +40% bonus to their attack, and fire from a rise
+> overlooking a trail through the jungle, giving them an extra +10%. Unsurprisingly, they hit with
+> their opening barrage.
 
-They are outnumbered by the enemy, so they suffer a -1 penalty to their damage roll. The pirates roll
-an 11, -1 for a result of 10. This is a result of two damage levels, bringing the enemy down from Fresh
-to Seriously Wounded. The Spanish also have to make a Morale test.
+> They are outnumbered by the enemy, so they suffer a -1 penalty to their damage roll. The pirates roll
+> an 11, -1 for a result of 10. This is a result of two damage levels, bringing the enemy down from Fresh
+> to Seriously Wounded. The Spanish also have to make a Morale test.
 
-The pirates fire again next round, as the Spanish struggle up the slope towards them. The pirates have
-lost the bonus for surprise, reducing their Firearms chance to hit to only 70% (60%, +10% for their
-good position). The firearms test fails, so the pirates roll on the Failed column of the damage table.
-They roll a 7, modified down by the fact they're outnumbered to a 6. The result is that the next time
-the Spanish suffer damage, the roll on the damage table will be increased by +1.
+> The pirates fire again next round, as the Spanish struggle up the slope towards them. The pirates have
+> lost the bonus for surprise, reducing their Firearms chance to hit to only 70% (60%, +10% for their
+> good position). The firearms test fails, so the pirates roll on the Failed column of the damage table.
+> They roll a 7, modified down by the fact they're outnumbered to a 6. The result is that the next time
+> the Spanish suffer damage, the roll on the damage table will be increased by +1.
 
-Of course, the pirates will not get a chance to fire again, as the Spanish are upon them and it's time
-to draw cutlasses!
+> Of course, the pirates will not get a chance to fire again, as the Spanish are upon them and it's time
+> to draw cutlasses!
 
 
 Hand to Hand Attacks
@@ -3446,72 +3283,74 @@ Unlike Ranged Attacks, Hand to Hand attacks are opposed tests - both groups of c
 a Hand to Hand test and the damage depends on which side won the test. If both succeed, then
 whoever rolled the highest or got a critical wins. If both fail, then whoever rolled the lowest wins.
 
-Hand to Hand attacks are modified as follows:
+### Hand to Hand attacks are modified as follows:
 
+##### Hand to Hand Combat Modifiers
 
-Hand to Hand Combat Modifiers
-Attackers outnumber defenders                       +10%
-Attackers considerably outnumber defenders          +20%
-Attackers vastly outnumber                          +40%
-Good equipment                                      +5%
-Excellent equipment                                 +10%
-Defensive position                                  +10% to +50%, depending on conditions
-Surprise                                            +40%
-Crew is Wounded                                     -10%
-Crew is Seriously Wounded                           -20%
-Crew is Mauled                                      -30%
-Crew is Slaughtered                                 -50%
+| Attackers outnumber defenders                     | +10% |
+|---------------------------------------------------|------|
+| Attackers considerably outnumber defenders        | +20% |
+| Attackers vastly outnumber                        | +40% |
+| Good equipment                                    | +5%  |
+| Excellent equipment                               | +10% |
+| Defensive position                                | +10% to +50%, depending on conditions |
+| Surprise                                          | +40% |
+| Crew is Wounded                                   | -10% |
+| Crew is Seriously Wounded                         | -20% |
+| Crew is Mauled                                    | -30% |
+| Crew is Slaughtered                               | -50% |
 
 A critical success gives a +6 bonus to the damage roll.
 
-Hand to Hand: Roll 2D6 and add the crew's average Damage Modifier to the roll, then compare
+**Hand to Hand**: Roll 2D6 and add the crew's average Damage Modifier to the roll, then compare
 to the Hand to Hand Damage table. Separate rolls are made for both sides.
 
 
-Hand to Hand Damage
-Roll               Loser of Opposed Check                    Winner of Opposed Check
-1 or less          +1 Running Wounds Total                   No damage
-2                  +1 Running Wounds Total                   No damage
-3                  +1 Running Wounds Total                   No damage
-4                  +2 Running Wounds Total                   No damage
-5                  +2 Running Wounds Total                   No damage
-6                  +3 Running Wounds Total                   +1 Running Wounds Total
-7                  +3 Running Wounds Total                   +1 Running Wounds Total
-8                  One damage level                          +2 Running Wounds Total
-9                  One damage level                          +2 Running Wounds Total
-10                 Two damage levels                         +3 Running Wounds Total
-11                 Two damage levels                         +3 Running Wounds Total
-12                 Three damage levels                       One damage level
-13+                Three damage levels                       Two damage levels
+##### Hand to Hand Damage
 
-To continue the example of the pirate ambush, the Severely Wounded Spanish reach the pirate
-ambushers on the hill. The Pirates have a Hand to Hand score of 55%; the Spanish have a score of
-40%.
+| Roll             | Loser of Opposed Check                  | Winner of Opposed Check |
+|------------------|-----------------------------------------|-------------------------|
+| 1 or less        | +1 Running Wounds Total                 | No damage               |
+| 2                | +1 Running Wounds Total                 | No damage               |
+| 3                | +1 Running Wounds Total                 | No damage               |
+| 4                | +2 Running Wounds Total                 | No damage               |
+| 5                | +2 Running Wounds Total                 | No damage               |
+| 6                | +3 Running Wounds Total                 | +1 Running Wounds Total |
+| 7                | +3 Running Wounds Total                 | +1 Running Wounds Total |
+| 8                | One damage level                        | +2 Running Wounds Total |
+| 9                | One damage level                        | +2 Running Wounds Total |
+| 10               | Two damage levels                       | +3 Running Wounds Total |
+| 11               | Two damage levels                       | +3 Running Wounds Total |
+| 12               | Three damage levels                     | One damage level        |
+| 13+              | Three damage levels                     | Two damage levels       |
+
+> To continue the example of the pirate ambush, the Severely Wounded Spanish reach the pirate
+> ambushers on the hill. The Pirates have a Hand to Hand score of 55%; the Spanish have a score of
+> 40%.
+
+> The pirates have no applicable modifiers to their Hand to Hand score.
+> The Spanish have several modifiers, although they are Seriously Wounded (-20%) and they outnumber
+> their foe (+10%), giving them a final score of 30%.
+
+> An opposed roll is made - the Pirates roll a 19, and the Spanish roll a 98. The pirates have won the
+> roll.
+
+> Now, onto damage. Damage rolls are made for both sides. For the damage suffered by the pirates, the
+> roll is a 7, +1 damage to the next roll, so nothing too serious.
+
+> For the Spanish, the roll is a 7 - BUT there is a still a +1 Running Wounds Total hanging over the
+> Spanish from the last round of shooting. This increases the damage roll to an 8, for one level of damage.
+> The Seriously Wounded Spanish are reduced to Mauled. This fight will soon be over...
 
 
-The pirates have no applicable modifiers to their Hand to Hand score.
-The Spanish have several modifiers, although they are Seriously Wounded (-20%) and they outnumber
-their foe (+10%), giving them a final score of 30%.
-
-An opposed roll is made - the Pirates roll a 19, and the Spanish roll a 98. The pirates have won the
-roll.
-
-Now, onto damage. Damage rolls are made for both sides. For the damage suffered by the pirates, the
-roll is a 7, +1 damage to the next roll, so nothing too serious.
-
-For the Spanish, the roll is a 7 - BUT there is a still a +1 Running Wounds Total hanging over the
-Spanish from the last round of shooting. This increases the damage roll to an 8, for one level of damage.
-The Seriously Wounded Spanish are reduced to Mauled. This fight will soon be over...
-
-
-Morale Tests
+### Morale Tests
 A Morale test must be made whenever:
 
-*	      A crew is reduced by one damage level.
-*	      A crew loses a Hand to Hand combat with a foe that considerably outnumbers them.
-*	      Something happens to demoralise the crew, such as their ship exploding or their captain
-   dying before their eyes (assuming they like their captain).
-*	      In sea battles, Morale tests can also be triggered by raising a pirate flag, or by vapouring.
+* A crew is reduced by one damage level.
+* A crew loses a Hand to Hand combat with a foe that considerably outnumbers them.
+* Something happens to demoralise the crew, such as their ship exploding or their captain
+  dying before their eyes (assuming they like their captain).
+* In sea battles, Morale tests can also be triggered by raising a pirate flag, or by vapouring.
 
 A Morale test is made using the crew's Persistence score. If this test is failed, then the crew's nerve
 has faltered and they lose one level of Morale. On a critical success, the crew is galvanised by the
@@ -3521,34 +3360,35 @@ If a Crew in battle is reduced to Low Morale, then they must make a Morale test 
 their nerve slips. A Mutinous crew surrenders or flees, depending on circumstances.
 
 
-Aftermath
+### Aftermath
 When a Crew Combat is finished, it is time to count the casualties and bury the dead. The crew
 must make a Resilience test to determine how severe the damage was, then consult the Aftermath
 table. Any outstanding Running Wounds Totals are directly translated into dead crew.
 
-Aftermath
-Crew Was...                 Successful Resilience Test            Failed Resilience Test
-Fresh                       No lasting damage                     1D3 crew killed, 10% injured
-Wounded                     1D6 crew killed, 10% injured          2D6 crew killed, 20% injured
-Seriously Wounded           3D6 crew killed, 20% injured          4D6 crew killed, 30% injured
-Mauled                      4D6 crew killed, 30% injured          6D6 crew killed, 50% injured
-Slaughtered                 6D6 crew killed, 50% injured          2D6 survivors, all injured
+##### Aftermath
 
-To finish our example of the pirate ambush - the Spanish broke after the short hand-to-hand
-engagement, falling back down the slope leading to the chests of gold dust lying on the track. The
-pirates are victorious - but at what cost? The pirates were never reduced below Fresh but they must
-still make a Resilience test.
+| Crew Was...               | Successful Resilience Test          | Failed Resilience Test |
+|---------------------------|-------------------------------------|------------------------|
+| Fresh                     | No lasting damage                   | 1D3 crew killed, 10% injured |
+| Wounded                   | 1D6 crew killed, 10% injured        | 2D6 crew killed, 20% injured |
+| Seriously Wounded         | 3D6 crew killed, 20% injured        | 4D6 crew killed, 30% injured |
+| Mauled                    | 4D6 crew killed, 30% injured        | 6D6 crew killed, 50% injured |
+| Slaughtered               | 6D6 crew killed, 50% injured        | 2D6 survivors, all injured |
+
+> To finish our example of the pirate ambush - the Spanish broke after the short hand-to-hand
+> engagement, falling back down the slope leading to the chests of gold dust lying on the track. The
+> pirates are victorious - but at what cost? The pirates were never reduced below Fresh but they must
+> still make a Resilience test.
+
+> The pirates fail their test, so they suffer 1D6 casualties, +1 for the +1 Running Wounds Total still
+> hanging over them. Five pirates have died, and 10% of their number - another 2 - have been injured.
+
+> Meanwhile, back in the Spanish fort, the enemy count their dead. The Spanish were reduced to
+> Mauled but they pass their Resilience test. Of the 40 Spanish, 4D6 are dead, and another 30% (13)
+> are wounded.
 
 
-The pirates fail their test, so they suffer 1D6 casualties, +1 for the +1 Running Wounds Total still
-hanging over them. Five pirates have died, and 10% of their number - another 2 - have been injured.
-
-Meanwhile, back in the Spanish fort, the enemy count their dead. The Spanish were reduced to
-Mauled but they pass their Resilience test. Of the 40 Spanish, 4D6 are dead, and another 30% (13)
-are wounded.
-
-
-Heroic Actions
+### Heroic Actions
 In a battle, Adventurers may get a chance to perform Heroic Actions, which are great deeds
 that inspire the crew. Heroic Actions can give a bonus to the Crew. Remember, Crew Combat
 Rounds take 30 seconds, while normal Adventurer-scale rounds only take five seconds, so there
@@ -3558,31 +3398,29 @@ Sample Heroic Actions, and their effects on the battle as a whole, are listed he
 
 ##### Heroic Actions
 
-Action                                                         Bonus to Crew
-Inspiring the crew through conspicuous bravery                 Re-roll a failed Morale test
-Duelling the opponent's leader                                 +5% Hand to Hand
-Leading a few crack gunners to catch the foe in a crossfire    +5% Firearms
-Saving a wounded crewmate                                      -2 to the next damage roll made against your crew
-Throwing yourself into the fight                               +2 to the next damage roll made against the enemy
+| Action                                                       | Bonus to Crew |
+|--------------------------------------------------------------|---------------|
+| Inspiring the crew through conspicuous bravery               | Re-roll a failed Morale test |
+| Duelling the opponent's leader                               | +5% Hand to Hand |
+| Leading a few crack gunners to catch the foe in a crossfire  | +5% Firearms  |
+| Saving a wounded crewmate                                    | -2 to the next damage roll made against your crew |
+| Throwing yourself into the fight                             | +2 to the next damage roll made against the enemy |
+
+#### Crew Combat Summary
+* Instead of Hit Points, crews have abstract health levels and a Running Wound Total. The
+  Running Wound total adds to damage rolls and resets to zero whenever a crew loses a
+  health level.
+* Attacks on crews either reduce health, or add to a Crew's Running Wound Total.
+* Crews must also make Morale tests whenever they take damage.
+* At the end of the battle, an Aftermath roll is made to see how many crew were actually
+  slain and how many were merely injured.
 
 
-Crew Combat Summary
-*	     Instead of Hit Points, crews have abstract health levels and a Running Wound Total. The
-    Running Wound total adds to damage rolls and resets to zero whenever a crew loses a
-    health level.
-*	     Attacks on crews either reduce health, or add to a Crew's Running Wound Total.
-*	     Crews must also make Morale tests whenever they take damage.
-*	     At the end of the battle, an Aftermath roll is made to see how many crew were actually
-    slain and how many were merely injured.
-
-
-
-
-Special Crew Combats
+## Special Crew Combats
 These situations crop up often enough in pirate games to justify their own special rules.
 
 
-Cannons
+### Cannons
 A cannon loaded with standard or chain shot will automatically kill 1D6 Crew on a successful
 gunnery test and increases the enemy crew's Running Wounds Total by 1.
 
@@ -3591,16 +3429,16 @@ A cannon loaded with grape shot deals damage like a normal Firearms attack to a 
 are always 'outnumbered' by a crew, so they suffer a penalty to their damage rolls against crews,
 as follows:
 
-Swivel Gun/9 pounder: -4
-18 pounder: -3
-24 pounder: -2
+Swivel Gun/9 pounder: -4  
+18 pounder: -3  
+24 pounder: -2  
 45 pounder: -0
 
 
-Boarding Actions
+### Boarding Actions
 When storming another ship, follow these steps:
 
-Step One: Approach
+**Step One: Approach**  
 If the Crew is attacking from their ship, then it must be brought alongside the enemy ship
 (which requires a successful opposed Shiphandling roll).
 
@@ -3610,7 +3448,7 @@ ship.
 In both situations, the attackers will be vulnerable to fire from the target. The Approach takes at
 least one round, perhaps more.
 
-Step Two: Boarding
+**Step Two: Boarding**  
 Next round, the Crew must make a Boarding test. This is a Hand to Hand test against whatever
 crew are on deck but the attacking Crew suffers a base -50% penalty to their attack roll. They
 get a +20% bonus to their attack roll if they have Boarding Axes or Boarding Pikes, or if their
@@ -3624,43 +3462,44 @@ need be made.
 Note that if the crew boarded from their ship and not from boats, then the enemy crew can
 counter-attack without having to make their own Boarding test.
 
-Example: The crew of the Greymantle are trying to board a fishing boat off Newfoundland. They try
-to board from their little ship, so they make a Shiphandling test to come alongside. If the fishermen had
-guns, then the pirates would be fired on as they closed but the fishing boat has no cannons or muskets.
+> Example: The crew of the Greymantle are trying to board a fishing boat off Newfoundland. They try
+> to board from their little ship, so they make a Shiphandling test to come alongside. If the fishermen had
+> guns, then the pirates would be fired on as they closed but the fishing boat has no cannons or muskets.
 
-The pirates come alongside and make a Boarding test. They have a Hand to Hand score of 45%, and the
-fishermen have a score of only 30%. However, the pirates suffer a -30% penalty as they try to force their
-way on board, so the actual Hand to Hand test is 15% vs. 30%. The pirates, by a quirk of fate, actually
-win. They roll a 7 for damage, which does not inflict a damage level on the fishermen, so the boarding
-action has actually failed. They can try again next round, however, and will have a +3 Running Wounds
-Total. They will likely fight their way onto the fishing boat's deck eventually, but it will be costly.
+> The pirates come alongside and make a Boarding test. They have a Hand to Hand score of 45%, and the
+> fishermen have a score of only 30%. However, the pirates suffer a -30% penalty as they try to force their
+> way on board, so the actual Hand to Hand test is 15% vs. 30%. The pirates, by a quirk of fate, actually
+> win. They roll a 7 for damage, which does not inflict a damage level on the fishermen, so the boarding
+> action has actually failed. They can try again next round, however, and will have a +3 Running Wounds
+> Total. They will likely fight their way onto the fishing boat's deck eventually, but it will be costly.
 
 
-Sieges
+### Sieges
 Besieging a fort or walled town is difficult. Cannons can be used to blast through fortifications,
 or walls can be stormed by ladders. Especially patient pirates could just blockade a port, stopping
 food and supplies from reaching the town.
 
-Structure                                       Armour                Structure Points
-Low Wall                                        -2                    100
-Fortified House or Prison                       -3                    150
-Tower                                           -4                    300
-Fortress Wall                                   -4                    500
-Keep                                            -5                    1,000
+| Structure                                     | Armour              | Structure Points |
+|-----------------------------------------------|---------------------|------------------|
+| Low Wall                                      | -2                  | 100              |
+| Fortified House or Prison                     | -3                  | 150              |
+| Tower                                         | -4                  | 300              |
+| Fortress Wall                                 | -4                  | 500              |
+| Keep                                          | -5                  | 1,000            |
+
+## Ship to Ship Combat
+
+Clashes between ships at sea are resolved as follows:  
+* The two ships either engage each other in battle, or one attempts to flee.
+* If one tries to flee, the other can give chase.
+* If they engage, or if the fleeing vessel is caught, then the two battle.
+* In a battle, both ships move, then exchange fire.
+* Sailors from one ship can attempt to board the other.
+* Battle continues until one ship surrenders, is captured, sunk, explodes or otherwise
+  defeated.
 
 
-Ship to Ship Combat
-Clashes between ships at sea are resolved as follows:
-*	     The two ships either engage each other in battle, or one attempts to flee.
-*	     If one tries to flee, the other can give chase.
-*	     If they engage, or if the fleeing vessel is caught, then the two battle.
-*	     In a battle, both ships move, then exchange fire.
-*	     Sailors from one ship can attempt to board the other.
-*	     Battle continues until one ship surrenders, is captured, sunk, explodes or otherwise
-    defeated.
-
-
-Battle Stations!
+### Battle Stations!
 In a battle, some of the pirate crew man the guns, others attend to the lines and the business
 of sailing the ship, and others use their muskets to fire at the enemy crew until they come close
 enough to board. Civilian ships operate with a much smaller crew and often have only enough
@@ -3669,15 +3508,15 @@ average.
 
 Before battle, a captain should allocate some of his crew to these three stations:
 
-Sailing Crew: See the description of each ship for the number of sailors needed to crew a ship.
+**Sailing Crew**: See the description of each ship for the number of sailors needed to crew a ship.
 Optionally, a ship can have less than the minimum recommended crew - see page 48 for details
 on skeleton and prize crews.
 
-Gunnery Crew: See the description of each cannon for the number of sailors needed to operate
+**Gunnery Crew**: See the description of each cannon for the number of sailors needed to operate
 it. Cannons can be undermanned but this increases the amount of time it takes to reload the
 weapon. A minimum of one man per cannon is required.
 
-Boarding Crew: The rest of the crew fires muskets from the deck when in range, or engages in
+**Boarding Crew**: The rest of the crew fires muskets from the deck when in range, or engages in
 boarding actions. This crew can also vapour to intimidate the enemy.
 
 Damage to these three crews should be tracked separately on the crew sheet.
@@ -3685,50 +3524,50 @@ Damage to these three crews should be tracked separately on the crew sheet.
 
 
 
-Sighting Ships
+### Sighting Ships
 Spotting an enemy vessel requires a successful Perception test, modified as follows. A look-out in
 a crow's nest can see about 8-10 miles.
 
-Condition                                  Perception Modifier
-Target is
-A rowboat or other boat                    -50%
-A small vessel                             -25%
-An average vessel                          -10%
-A large vessel                             +0%
-A very large vessel                        +10%
-An island                                  +25%
-Coastline                                  +50%
-Lit up at night                            +40%
-Weather conditions                         Up to -100%
+| Target                                   | Perception Modifier |
+|------------------------------------------|---------------------|
+| A rowboat or other boat                  | -50%                |
+| A small vessel                           | -25%                |
+| An average vessel                        | -10%                |
+| A large vessel                           | +0%                 |
+| A very large vessel                      | +10%                |
+| An island                                | +25%                |
+| Coastline                                | +50%                |
+| Lit up at night                          | +40%                |
+| Weather conditions                       | Up to -100%         |
 
 A spyglass gives a +20% bonus to Perception tests.
 
-Pirate Flags: When sighted by the enemy, the pirate captain can choose to raise his pirate flag.
+**Pirate Flags**: When sighted by the enemy, the pirate captain can choose to raise his pirate flag.
 If this is done, then the enemy crew must immediately make a Morale test, penalised by the
 captain's Reputation:
 
-
-Reputation                                       Modifier to Morale
-1-2                                              -
-3-5                                              -5%
-6-10                                             -10%
-11-15                                            -15%
-16-20                                            -20%
-21-25                                            -20%
-26-30                                            -25%
-31-40                                            -35%
-41-50                                            -40%
+| Reputation                                     | Modifier to Morale |
+|------------------------------------------------|--------------------|
+| 1-2                                            | -                  |
+| 3-5                                            | -5%                |
+| 6-10                                           | -10%               |
+| 11-15                                          | -15%               |
+| 16-20                                          | -20%               |
+| 21-25                                          | -20%               |
+| 26-30                                          | -25%               |
+| 31-40                                          | -35%               |
+| 41-50                                          | -40%               |
 
 Remember, if a crew's Morale is reduced to Mutinous, then they will likely surrender or flee.
 Pirates can also use Vapouring to further attack an enemy crew's Morale.
 
-No Quarter: A captain can also choose to raise the red flag of slaughter, declaring that he will
+**No Quarter**: A captain can also choose to raise the red flag of slaughter, declaring that he will
 offer no mercy to the enemy crew. If this is done, then the enemy crew must make a Morale
 test immediately but it also means they will not surrender; they will fight to the last (or mutiny
 against their commander and try to join the pirates).
 
 
-Chases
+### Chases
 In a chase, both ships make opposed Shiphandling tests. The winner may increase the relative
 movement of their ship by 1D6 x 6 feet this Crew Combat Round.
 
@@ -3736,7 +3575,7 @@ When being chased, the pursuing ship can fire its chase guns and the pursued shi
 fire with aft guns.
 
 
-Manoeuvring
+### Manoeuvring
 If ships are closing for battle, then they can manoeuvre for better position. There are several
 manoeuvres that can be attempted - if miniatures or other representations are being used then
 questions about line of sight and firing arcs can be resolved there. Alternatively, manoeuvres can
@@ -3750,42 +3589,42 @@ the crew's skill for these tests.
 
 Only one of the following Manoeuvres may be attempted in a particular round.
 
-Hard Turn!: With a successful Shiphandling test, a ship may turn an extra 45 degrees this round.
+**Hard Turn!**: With a successful Shiphandling test, a ship may turn an extra 45 degrees this round.
 
-Steady!: The helmsman endeavours to hold the ship steady, to provide a stable platform for
+**Steady!**: The helmsman endeavours to hold the ship steady, to provide a stable platform for
 firing. If the Shiphandling test is successful, then any Gunnery tests made by the crew this round
 gain a +10% bonus.
 
-Evasive Action: By steering erratically or keeping out of the arc of fire of the enemy ship, the
+**Evasive Action**: By steering erratically or keeping out of the arc of fire of the enemy ship, the
 helmsman tries to protect his vessel. If the Shiphandling test is successful, then any Gunnery
 attacks on the ship suffer a -10% penalty.
 
-Close For Boarding: The helmsman attempts to bring his vessel close enough to the enemy ship
+**Close For Boarding**: The helmsman attempts to bring his vessel close enough to the enemy ship
 for boarding. Opposed Shiphandling tests must be made; if the Adventure wins, then the crew
 may attempt to board the enemy ship.
 
 
-Firing
+### Firing
 As a ship is pitching up and down in the midst of battle, it counts as Unstable Ground, inflicting a
 -20% penalty to all ranged attack rolls. The Steady manoeuvre mitigates this penalty somewhat.
 Especially rough conditions can increase this penalty.
 
-Muskets & Small Arms: These attacks take place as normal for Crew Combat. If there are
+**Muskets & Small Arms**: These attacks take place as normal for Crew Combat. If there are
 multiple Crews on the enemy vessel (a boarding party and sailors, for instance), then choose
 randomly which crew takes the damage. The hull value of the ship is applied as a modifier to
 the damage roll.
 
-Swivel Guns: Each swivel gun fires independently. A swivel gun can be loaded with round shot,
+**Swivel Guns**: Each swivel gun fires independently. A swivel gun can be loaded with round shot,
 in which case it deals its listed damage (2D6 damage), or grape shot (standard firearms damage
 to crew with a -4 penalty).
 
-Cannon: Cannons can be fired in four different ways:
-*	   Single Firing with Round Shot
-*	   Single Firing with Grape Shot
-*	   Single Firing with Chain Shot
-*	   Broadside
+**Cannon**: Cannons can be fired in four different ways:  
+* Single Firing with Round Shot
+* Single Firing with Grape Shot
+* Single Firing with Chain Shot
+* Broadside
 
-Single Firing: Single firing a cannon uses the formal Ranged Attack rules, not the Crew Combat
+**Single Firing**: Single firing a cannon uses the formal Ranged Attack rules, not the Crew Combat
 rules. If an Adventurer is alone firing the cannon, he may use his own Gunnery score instead of
 that of the crew.
 
@@ -3798,7 +3637,7 @@ If chain shot is used, then the attack must use a Precise Attack (-40%) to accur
 enemy mast. If this attack is successful, then a critical hit is automatically scored on the enemy
 mast. See Cannon Critical Hits.
 
-Broadside: A broadside consists of several cannons firing simultaneously. All the cannons fired
+**Broadside**: A broadside consists of several cannons firing simultaneously. All the cannons fired
 must be of the same time and loaded with the same shot. While each shot is less accurate than
 a single shot attack, filling the air with that much lead does aid immensely. A broadside attack,
 therefore, has a +20% bonus to the Gunnery test, often counter-acting the penalty from the
@@ -3813,60 +3652,62 @@ Roll 2D6 on the Broadsides table to determine how many shots actually hit.
 
 If the Gunnery test is a critical, then the broadside scores 1 critical on the enemy ship.
 
-Broadsides
-Roll               Successful Gunnery Test                        Failed Gunnery Test
-1 or less          One hit                                        No hits
-2                  One hit                                        No hits
-3                  One hit                                        No hits
-4                  Two hits                                       No hits
-5                  Two hits                                       No hits
-6                  Two hits                                       One hit
-7                  Three hits                                     One hit
-8                  Three hits                                     One hit
-9                  Three hits                                     Two hits
-10                 Four hits                                      Two hits
-11                 Four hits                                      Two hits
-12                 Five hits                                      Three hits
-13                 Five hits                                      Three hits
-14                 Six hits                                       Three hits
-15                 Seven hits                                     Three hits
-16                 Eight hits                                     Four hits
+##### Broadsides
+
+| Roll             | Successful Gunnery Test                      | Failed Gunnery Test |
+|------------------|----------------------------------------------|---------------------|
+| 1 or less        | One hit                                      | No hits             |
+| 2                | One hit                                      | No hits             |
+| 3                | One hit                                      | No hits             |
+| 4                | Two hits                                     | No hits             |
+| 5                | Two hits                                     | No hits             |
+| 6                | Two hits                                     | One hit             |
+| 7                | Three hits                                   | One hit             |
+| 8                | Three hits                                   | One hit             |
+| 9                | Three hits                                   | Two hits            |
+| 10               | Four hits                                    | Two hits            |
+| 11               | Four hits                                    | Two hits            |
+| 12               | Five hits                                    | Three hits          |
+| 13               | Five hits                                    | Three hits          |
+| 14               | Six hits                                     | Three hits          |
+| 15               | Seven hits                                   | Three hits          |
+| 16               | Eight hits                                   | Four hits           |
 
 Roll the appropriate damage for each hit, remembering to subtract the ship's Hull rating from
 the damage for each shot. Each hit also increases the enemy crew's Running Wounds Total by 1.
 
-Reloading Cannons: The time it takes to reload a cannon depends on the operator's Gunnery
+**Reloading Cannons**: The time it takes to reload a cannon depends on the operator's Gunnery
 skill.
 
 
-Reloading
-                 Combat Actions to reload          Number of Crew Combat rounds to
-Gunnery Skill       (Adventurer scale)                reload (Crew Combat scale)
-<25%                25                                1D6
-26%-50%             20                                1D4
-51-75%              15                                1D3
-75%-100%            10                                1D2
-100%+               5                                 1
+##### Reloading
+
+| Gunnery Skill     | Combat Actions to reload (Adventurer scale) | Number of Crew Combat rounds to reload (Crew Combat scale) |
+|-------------------|---------------------------------------------|------------------------------------------------------------|
+| <25%              | 25                                          | 1D6                                                        |
+| 26%-50%           | 20                                          | 1D4                                                        |
+| 51-75%            | 15                                          | 1D3                                                        |
+| 75%-100%          | 10                                          | 1D2                                                        |
+| 100%+             | 5                                           | 1                                                          |
 
 Swivel guns always take 5 rounds/one Crew Combat Round to reload.
 
-Ammunition: A ton of cannonballs and powder contains fifty shots. Different guns take up
+**Ammunition**: A ton of cannonballs and powder contains fifty shots. Different guns take up
 different numbers of shots:
 
+| Weapon                                                       | Shots used |
+|--------------------------------------------------------------|------------|
+| Swivel Gun                                                   | 1          |
+| 9-Pounder                                                    | 1          |
+| 18-pounder                                                   | 2          |
+| 24-pounder                                                   | 3          |
+| 45-pounder                                                   | 5          |
 
-Weapon                                                         Shots used
-Swivel Gun                                                     1
-9-Pounder                                                      1
-18-pounder                                                     2
-24-pounder                                                     3
-45-pounder                                                     5
-
-
-Boarding Actions
+### Boarding Actions
 See page 90 for rules on boarding actions.
 
 
-Vapouring
+### Vapouring
 Instead of shooting at an enemy crew, or attempting a boarding action, a boarding crew can
 engage in the practice called vapouring. This involves creating a din with shouts, banging or
 drumming on the sides of the ship, clashing swords, singing, cursing and otherwise intimidating
@@ -3879,7 +3720,7 @@ from the effect once (the Games Master should roll the result of the Morale test
 pirates do not know if their intimidation had any effect).
 
 
-Sinking Ships
+### Sinking Ships
 A ship loses one Seaworthiness for every 10 points of damage it suffers from a single attack (i.e.
 a single hit from a cannon, not from a whole broadside).
 
@@ -3888,7 +3729,7 @@ captured can be scuttled, causing it to sink.
  
 
 
-Destroying Ships
+### Destroying Ships
 A ship reduced to 0 Structural Points has been smashed to smithereens. Wreckage from the ship
 continues to float but the ship is no more. If a ship is carrying gunpowder and ammo aboard in
 a powder room, then this can be hit in a battle, either through a critical hit, or through a Heroic
@@ -3903,9 +3744,7 @@ on the account are rarely loyal to their new pirate brethren and may desert or r
 arises.
 
 
-
-
-Critical Hits on Ships
+#### Critical Hits on Ships
 If a cannon attack scores a critical hit on a ship, then roll on the Critical Hits table. Re-roll if the
 result makes no sense (such as a mast falling on a rowboat - not that the chances of a rowboat
 being anything other than floating wreckage after a cannon hit are very high).
@@ -3914,19 +3753,20 @@ On a successful chain shot attack, roll 1D6 on the Critical Hits table.
 
 ##### Critical Hits
 
-Roll        Damage
-1-2         Mast Topples - one of the ship's masts falls, halving its Movement, giving a -50% penalty to Shiphandling tests and dealing 4D6 Structure Points of damage
-3           Sail Falls - one of the ship's sails plummets to the deck, halving its Movement, giving a -50% penalty to Shiphandling tests and adding 1D6 to the Crew's Running Wounds Total.
-4-5         Rigging Damaged - the ship's rigging is damaged, preventing it from changing sail and giving a -20% penalty to Shiphandling tests.
-6           Crew Maimed - the attack tears through the crew on deck, adding 2D6 to the Crew's Running Wounds Total.
-7           Officer Struck - one of the officers is hit by the cannon ball. If he is an Adventurer, he may spend a Hero Point to be merely thrown overboard instead of killed by the explosion.
-8           Fire - a fire has broken out on board. See fires.
-9-11        Especially Damaging Hit - roll cannon damage again.
-12-13       Cannons Damaged - 1D4 of the ship's cannons are destroyed by the attack.
-14-15       Hold Damaged - the ship's hold is hit, destroying 2D20% of the contents.
-16-19       Holed Below The Waterline - the ship is holed, losing 2D6 Seaworthiness.
-19          Rudder Damage: -50% penalty to Shiphandling test.
-20          Magazine Struck: Roll 1D6. On a 4+, the powder explodes, destroying the ship from the inside.
+| Roll      | Damage |
+|-----------|--------|
+| 1-2       | Mast Topples - one of the ship's masts falls, halving its Movement, giving a -50% penalty to Shiphandling tests and dealing 4D6 Structure Points of damage |
+| 3         | Sail Falls - one of the ship's sails plummets to the deck, halving its Movement, giving a -50% penalty to Shiphandling tests and adding 1D6 to the Crew's Running Wounds Total. |
+| 4-5       | Rigging Damaged - the ship's rigging is damaged, preventing it from changing sail and giving a -20% penalty to Shiphandling tests. |
+| 6         | Crew Maimed - the attack tears through the crew on deck, adding 2D6 to the Crew's Running Wounds Total. |
+| 7         | Officer Struck - one of the officers is hit by the cannon ball. If he is an Adventurer, he may spend a Hero Point to be merely thrown overboard instead of killed by the explosion. |
+| 8         | Fire - a fire has broken out on board. See fires. |
+| 9-11      | Especially Damaging Hit - roll cannon damage again. |
+| 12-13     | Cannons Damaged - 1D4 of the ship's cannons are destroyed by the attack. |
+| 14-15     | Hold Damaged - the ship's hold is hit, destroying 2D20% of the contents. |
+| 16-19     | Holed Below The Waterline - the ship is holed, losing 2D6 Seaworthiness. |
+| 19        | Rudder Damage: -50% penalty to Shiphandling test. |
+| 20        | Magazine Struck: Roll 1D6. On a 4+, the powder explodes, destroying the ship from the inside. |
 
 
 # Ports, Trade and Law
@@ -3939,81 +3779,65 @@ ships and some defences like cannons in a fort overlooking the harbour. The most
 ports are built to resist full-scale attacks by enemy navies and are more than a match for all but
 the most audacious rogue.
 
-Pirate Ports are lawless places like Tortuga, Port Royal (before its destruction), the Bahamas
+**Pirate Ports** are lawless places like Tortuga, Port Royal (before its destruction), the Bahamas
 or Madagascar where pirate ships can land safely. Everyone here is a rogue or villain, or at least
 friendly to them.
 
-Local Ports and Minor Trade Ports are small ports which might only see a trade ship a handful
+**Local Ports** and **Minor Trade Ports** are small ports which might only see a trade ship a handful
 of times per year. Pirates sometimes prey on these ports but more often they come here to sell
 stolen goods. Many places will accept the cargo of pirate ships if it is sold cheaply enough, no
 questions asked. Some landowners are in league with the pirates, sheltering and supplying them
 in exchange for cheap goods.
 
-Major Trade Ports are the heart of commerce in the modern age. Ships from Africa and Europe
+**Major Trade Ports** are the heart of commerce in the modern age. Ships from Africa and Europe
 dock here regularly, bringing manufactured goods and slaves and taking on all the produce of the
 Caribbean and the Americas. These places are too law-abiding for the most part to accept known
 pirates but disguised pirate vessels or less notorious villains can enter and trade. Taking a major
 trade port is a coup for a pirate gang.
 
-Fortresses are rare in the Caribbean - these are major ports with extra guns and fortifications,
+**Fortresses** are rare in the Caribbean - these are major ports with extra guns and fortifications,
 the centre of Imperial power in a region.
 
 
 ##### Port Qualities
 
-                                                                  Ships in
-Port Type      Population     Defences                 Soldiers   Port          Plunder
+| Port Type | Population | Defences | Soldiers | Ships in Port | Plunder |
+|-----------|------------|----------|----------|---------------|---------|
+| Pirate | ~1,000 | A few cannon, wooden fort | None | 1D4 Pirate | |
+| Local | ~500 | 1D6 9 or 18-pounder cannon, wall | 25 troops | 1D4 Local | 5x4D6 Common, 2x2D6 Rare, 50% chance of 1D4 Treasures |
+| Minor | ~2,000 | 2D6 18-pounder cannon, fortified house | 100 troops | 2D4 Local, 1 Merchant | 10x4D6 Common, 5x2D6 Rare, 1D4 Treasures |
+| Major | ~5,000 | 2D6 24 pounder cannon, tower | 250 troops | 2D6 Local, 1D6 Merchant | 10x8D6 Common, 5x4D6 Rare, 2D4 Treasures |
+| Fortress | ~25,000 | 3D6 24 pounder cannon, 1D6 45-pounder cannon, fortress wall | 2,000 troops | 3D6 Local, 2D6 Merchant, 1D6 Naval | 20x8D6 Common, 6x8D6 Rare, 3D4 Treasures |
 
-Pirate         ~1,000         A few cannon,            None       1D4 Pirate
-                              wooden fort
-
-Local          ~500           1D6 9 or 18-pounder      25         1D4 Local     5x4D6 Common,
-                              cannon, wall             troops                   2x2D6 Rare,
-                                                                                50% chance of
-                                                                                1D4 Treasures
-
-Minor          ~2,000         2D6 18-pounder           100        2D4 Local,     10x4D6 Common,
-                              cannon, fortified        troops     1 Merchant     5x2D6 Rare,
-                              house                                              1D4 Treasures
-
-Major          ~5,000         2D6 24 pounder           250        2D6 Local,     10x8D6 Common,
-                              cannon, tower            troops     1D6 Merchant   5x4D6 Rare,
-                                                                                 2D4 Treasures
-
-Fortress       ~25,000        3D6 24 pounder           2,000      3D6 Local,     20x8D6 Common,
-                              cannon, 1D6              troops     2D6 Merchant,  6x8D6 Rare,
-                              45-pounder cannon,                  1D6 Naval      3D4 Treasures
-                              fortress wall
-
-
-Entering a Port
+### Entering a Port
 When an Adventurer enters a port, roll 1D20 and add his Reputation, then check the Pirate
 Reception table:
 
 ##### Pirate Reception
 
-D20+Reputation           Result
-<10                      The Adventurer is not recognised, he may trade freely.
-11-20                    The Adventurer is not recognised but he is found to be suspicious.
-21-30                    The Adventurer is recognised as a pirate and may be attacked.
-31+                      The Adventurer is recognised and will be attacked if possible.
+| D20+Reputation         | Result |
+|------------------------|--------|
+| <10                    | The Adventurer is not recognised, he may trade freely. |
+| 11-20                  | The Adventurer is not recognised but he is found to be suspicious. |
+| 21-30                  | The Adventurer is recognised as a pirate and may be attacked. |
+| 31+                    | The Adventurer is recognised and will be attacked if possible. |
 
 Roll on the Pirate Reception table again if the Adventurer causes a nuisance, or acts in a very
 suspicious way (such as selling off stolen goods openly).
 
 
-Selling Off Your Ill-Gotten Gains
+### Selling Off Your Ill-Gotten Gains
 Having a hold full of stolen spices, silks and blood-stained doubloons is all well and good but
 if you cannot trade them for a willing wench and a flagon of ale, what good are they? There are
 several ways for a pirate to sell off stolen goods:
 
-*	      Legally: If an Adventurer can enter a port without being identified as a pirate, then he
-   can just use the normal trade rules.
-*	      Smuggling: An Adventurer can sell on the black market. This works like normal trade
-   but smugglers cannot expect to get as good a deal as a legal trader. Pirates dealing with
-   smugglers therefore suffer a -50% penalty to their Influence attempts.
+* Legally: If an Adventurer can enter a port without being identified as a pirate, then he
+  can just use the normal trade rules.
+* Smuggling: An Adventurer can sell on the black market. This works like normal trade
+  but smugglers cannot expect to get as good a deal as a legal trader. Pirates dealing with
+  smugglers therefore suffer a -50% penalty to their Influence attempts.
 
-Trade
+### Trade
 Adventurers can engage in legitimate trade as well as piracy.
 
 The base sale price is listed in the Plunder tables. Goods are bought at a price starting at half
@@ -4023,19 +3847,12 @@ Adjustment table).
 
 ##### Price Adjustment
 
-Supply & Demand                     Example                                     Price Change
-
-Item is produced in bulk            Sugar in Barbados                           -25%
-locally
-
-Item is produced locally            Tobacco in Antigua                          -10%
-
-Item is in demand                   Luxury goods in Martinique                  +10%
-
-Item is in desperate demand         Slaves in Antigua                           +25%
-
-Exotic Item                         Coffee and Spices in Europe; Glassware      +10% or more
-                                    and Fine Clothes in Caribbean
+| Supply & Demand | Example | Price Change |
+|-----------------|---------|--------------|
+| Item is produced in bulk locally | Sugar in Barbados | -25% |
+| Item is produced locally | Tobacco in Antigua | -10% |
+| Item is in demand | Luxury goods in Martinique | +10% |
+| Item is in desperate demand | Slaves in Antigua | +25% |
 
 
 See the list of Plunder for details of goods that can be bought and sold.
@@ -4055,20 +3872,20 @@ Take the pirate's crime from the Misdemeanour table, add the pirate's Reputation
 
 ##### Misdemeanour
 
-Prize Taken                                                  Chance of Retribution
-Local                                                        0%
-Merchant, 100 tons or less cargo space                       10%
-Merchant, more than 100 tons                                 20%
-Fluyt or convoy                                              30%
-Galleon or Naval Vessel                                      40%
-Port                                                         50%
+| Prize Taken                                                | Chance of Retribution |
+|------------------------------------------------------------|-----------------------|
+| Local                                                      | 0%                    |
+| Merchant, 100 tons or less cargo space                     | 10%                   |
+| Merchant, more than 100 tons                               | 20%                   |
+| Fluyt or convoy                                            | 30%                   |
+| Galleon or Naval Vessel                                    | 40%                   |
+| Port                                                       | 50%                   |
 
 The retribution dispatched by the governor will depend on what ships are in harbour and what
 sway he has with his government.
 
 
-
-Captured Pirates
+### Captured Pirates
 If a pirate is captured by the authorities, then his remaining few days are likely to be unpleasant.
 If there is time and a nearby fortress, or if the authorities wish to question the pirates, then the
 condemned men will be brought back to a port and imprisoned there before they are tried. They
@@ -4090,7 +3907,7 @@ your crew, then go off in search of plunder. That basic core remains true for al
 but there are many ways to explore that same pirate experience with the players.
 
 
-Historical Piracy
+## Historical Piracy
 While there is a wealth of books and research material about pirates, most will just point you
 at the classic 'A General History of the Most Notorious Pyrates' by Captain Charles Johnson (or
 Daniel Defoe, depending on who you ask). This classic book lists the deeds and crimes of, well,
@@ -4123,25 +3940,22 @@ and turn on their criminal comrades, or do they embrace the pirate lifestyle and
 they can until the law catches up with them?
 
 
-
-
-A Timeline of Important Historical Events
-1492: Columbus discovers the New World.
-1494: The Treaty of Tordesillas divides the New World between Spain and Portugal.
-1519: Cortez lands in Mexico.
-1630: Buccaneers settle on Tortuga.
-1674: Third Anglo-Dutch war ends.
-1688-1671: Henry Morgan's raids on Panama and Portobello.
-1672-1678: Franco-Dutch war.
-1688-1697: Nine Year War, involving most of the European powers.
-1692: Earthquake destroys Port Royal.
-1695: Henry Avery captures the Gunsway (Gang-i-Sawai), the flagship of the Mogul of India.
-1697: Spanish cede the west half of Hispaniola to the French.
-1716: Blackbeard begins his career.
-1718: Blackbeard slain.
-1719: Bartholomew Roberts begins his career.
-1720: Calico Jack hanged; Mary Read and Anne Bonnie 'plead on their bellies' to escape the
-noose.
+#### A Timeline of Important Historical Events
+1492: Columbus discovers the New World.  
+1494: The Treaty of Tordesillas divides the New World between Spain and Portugal.  
+1519: Cortez lands in Mexico.  
+1630: Buccaneers settle on Tortuga.  
+1674: Third Anglo-Dutch war ends.  
+1688-1671: Henry Morgan's raids on Panama and Portobello.  
+1672-1678: Franco-Dutch war.  
+1688-1697: Nine Year War, involving most of the European powers.  
+1692: Earthquake destroys Port Royal.  
+1695: Henry Avery captures the Gunsway (Gang-i-Sawai), the flagship of the Mogul of India.  
+1697: Spanish cede the west half of Hispaniola to the French.  
+1716: Blackbeard begins his career.  
+1718: Blackbeard slain.  
+1719: Bartholomew Roberts begins his career.  
+1720: Calico Jack hanged; Mary Read and Anne Bonnie 'plead on their bellies' to escape the noose.  
 1722: Bartholomew Roberts killed.
 
 The Caribbean in the Golden Age of Piracy is divided between the Great Powers of Europe,
@@ -4172,7 +3986,7 @@ is mainly focussed on trade with the East. England and France are both expansion
 establishing new colonies and sending more ships into the region.
 
 
-Buccaneers and Privateers
+### Buccaneers and Privateers
 Early Spanish settlers had let pigs and other animals run wild on many of the islands of the
 Caribbean. In the mid-1600s, bands of sailors, thieves, rogues and vagabonds take to living on
 these pigs, cooking their flesh in barbeques called boucans. The Spanish authorities drive the
@@ -4198,7 +4012,7 @@ opposing side. When the war ends, the privateers may promise to become law-abidi
 but the lure of piracy and the freedom of the seas is often too strong.
 
 
-The Golden Age of Piracy
+### The Golden Age of Piracy
 The period known as the Golden Age of Piracy lasts roughly from the sacking of Panama in
 1671 to the 1720s, when Woodes Rogers' offer of the pardon to the pirates of Nassau Port is
 largely accepted. The rise of the British Navy's pirate-hunting efforts are largely responsible for
@@ -4218,7 +4032,7 @@ in their viciousness and depravity but their ways are undeniably alluring. Many 
 follow their captain when he turns pirate, so long as he keeps bringing down prizes.
 
 
-The Caribbean
+### The Caribbean
 The buccaneer port of Tortuga is the metaphorical and geographical heart of the pirate Caribbean.
 This lawless town is located on the north coast of the great island of Hispaniola. The island itself
 is, as of 1697, divided into two sections. The western section is St. Domingue and is owned by
@@ -4254,38 +4068,38 @@ used as pirate bases. The main Dutch trade town of Willemstad, rivalling Havana 
 is on Curacao.
 
 
-Techniques
-Research: Between the internet and the library, there is a wealth of information on piracy out
+### Techniques
+**Research**: Between the internet and the library, there is a wealth of information on piracy out
 there, which will give plenty of ideas for adventures. Gather as much information as you can
 and encourage the players to immerse themselves too (alternatively, have the Adventurers live
 sheltered lives or suffer from amnesia, so they can learn about the historical setting in-character).
 
-Handouts: Research will give rise to plenty of documents and texts from the era of piracy
+**Handouts**: Research will give rise to plenty of documents and texts from the era of piracy
 and players love handouts. Descriptions of famous pirates, geographical treatises on the islands,
 copies of laws and treaties - print them out and tack them up around the gaming area. Use copies
 of maps from the era instead of modern maps.
 
-Do not Sweat The Details: While keeping close to the historical ideals is necessary for this style
+**Do not Sweat The Details**: While keeping close to the historical ideals is necessary for this style
 of play, actually having fun and playing a game is even more important. The Games Master
 should never let the game stop because of some historical inconsistency. If two players are
 arguing over exactly what sort of rigging was in common use in 1720, get them to postpone the
 discussion until after the game and move onto plundering ships. The aim of historical campaigns
 is to explore history through a game and the game should come first.
 
-Campaign Ideas:
-Shipwrecked: The game begins with the Adventurers being cast up on a desert island following
+**Campaign Ideas**:
+**Shipwrecked**: The game begins with the Adventurers being cast up on a desert island following
 a terrible storm that destroyed several ships in a convoy. The Adventurers are the only survivors.
 They have to survive on the island for some time, until a pirate vessel arrives on the island to
 careen. The only way off the island is to sign up with the pirates.
 
-Pirate Hunters: Another option is to cast the players as naval officers, in pursuit of pirates. Give
+**Pirate Hunters**: Another option is to cast the players as naval officers, in pursuit of pirates. Give
 them the bare minimum of resources (an armed sloop and a crew of sullen sailors who are already
 grumbling and mutinous) and pit them against historical pirates. Can the players do better than
 real-world pirate hunters? The Games Master can just consult history books for the actions and
 strengths of the various notable pirates.
 
 
-Cinematic Piracy
+## Cinematic Piracy
 A cinematic game covers much the same ground as a historical campaign but takes the best bits
 instead of holding itself to actual history. Pirates were the pulp villains of their day and pirate
 movies invariably involve swashbuckling, dramatic rescues and duels, good-hearted rogues or
@@ -4310,19 +4124,19 @@ pirates are thieves, after all, and unexpected reversals when your old shipmate 
 par for the course.
 
 
-Techniques
-Think Cinema: Frame scenes and situations as if your game was a big-budget movie. Always
+### Techniques
+**Think Cinema**: Frame scenes and situations as if your game was a big-budget movie. Always
 leap into conflict (whether it is an argument, an important decision or a swordfight) as soon
 as possible. Reflect the mood of a scene in the surroundings and the weather - storms signify
 trouble, rainstorms despair, sunshine joy and so forth.
 
-Get Personal: Tie everything into the Adventurers. A villain should never just be a bad guy - he
+**Get Personal**: Tie everything into the Adventurers. A villain should never just be a bad guy - he
 should be related to the Adventurers or have some other prior connection to them. Try to evoke
 emotion as much as possible and throw Hero Points around for dramatic speeches and cool ideas.
 
 
-Campaign Ideas
-The Treasure Map: Treasure Island did it first but it is a classic for a reason. A band of pirates
+### Campaign Ideas
+**The Treasure Map**: Treasure Island did it first but it is a classic for a reason. A band of pirates
 (say, Henry Morgan's buccaneers) bury a vast treasure. They draw a map describing its location,
 then divide the map up between them. The Adventurers have inherited or otherwise obtained
 a few parts of the map. You need the whole map to find the treasure (there is no X marking the
@@ -4333,14 +4147,14 @@ part involves finding the mysterious island, reconstructing the map and recoveri
 (optionally - the mysterious island is home to hostile natives, or ancient ruins, or a giant gorilla,
 or dinosaurs).
 
-Revenge!: The Adventurers were once passengers on a ship that was attacked by a notorious
+**Revenge!**: The Adventurers were once passengers on a ship that was attacked by a notorious
 pirate. They survived but everything they owned and loved was taken from them. Now, they have
 banded together for revenge - only to discover that their old nemesis took a pardon from the
 Spanish king and is now a wealthy and respected plantation owner (he is still secretly sponsoring
 pirate attacks, of course). The Adventurers have to battle their foe's minions and expose his pirate
 connections to the Spanish court, before a final confrontation in the villain's castle.
 
-Libertalia!: Some sources (like A General History of Pyrates) claim that a free pirate nation called
+**Libertalia!**: Some sources (like A General History of Pyrates) claim that a free pirate nation called
 Libertalia was founded by a renegade French captain named Mission. Stealing a Dutch slave
 ship, he and his crew declared themselves in opposition to all the powers and states of Europe,
 as well as the Church. All men were equal; all goods would be held in common. Driven by these
@@ -4351,7 +4165,7 @@ as Libertalia was supposed to be. The idea of a pirate nation is great for gamin
 transplant Libertalia to the Caribbean and give the Adventurers a great home base to sail from!
 
 
-Supernatural Piracy
+## Supernatural Piracy
 Supernatural elements can be added to either a cinematic or historical pirate game. A little bit
 of weirdness can fit nicely into either style of game, while a whole lot of weirdness moves your
 campaign into the field of alternate history or outright fantasy. No matter what supernatural
@@ -4360,7 +4174,7 @@ and colonies trading in the Caribbean and there have to be wild, cruel men on sh
 and stealing from these empires. There has to be something valuable sought by those empires,
 something that drew people to these warm seas.
 
-Pirates and Ghosts: Tales of ghost ships and spectral pirates are classics of the genre and there
+**Pirates and Ghosts**: Tales of ghost ships and spectral pirates are classics of the genre and there
 are numerous ways to incorporate them. One subtle way is to have a ghost appear to only one of
 the Adventurers, a mysterious spectre who is guarding him or guiding him to a particular destiny.
 Pirates live violent, dangerous lives and there is plenty of opportunity for a violent death to give
@@ -4374,7 +4188,7 @@ Captains might interrogate ghosts for intelligence about other ships and trade r
 ghosts might be especially sought after - the spectre of a particularly talented navigator would be
 a treasure worth killing for. Piracy could be the new form of necromancy...
 
-Pirates and Voodoo: The vodun religion was carried from West Africa to the Caribbean by slaves
+**Pirates and Voodoo**: The vodun religion was carried from West Africa to the Caribbean by slaves
 and soon acquired many followers among escaped slaves and on the islands. There were many
 escaped slaves among the pirates, who lived at the fringes of society, so it is possible that they
 learned something of the loa spirits and how to placate and command them. In this game, the
@@ -4393,18 +4207,19 @@ Tim Powers is the absolute master of this type of alternate-history game and his
 Stranger Tides, mixes excellent pirate adventure with voodoo and Greek myth.
 
 
-Minor Loa
+### Minor Loa
 The Loa are spirits (see Monsters of Legend). A minor loa is described here - this particular one
 holds authority over storms and foul weather.
 
-         Dice          Average          1D20         Hit Location         AP/HP
-STR                                     1-20         Loa                  0/16
-CON
-SIZ
-DEX
-INT      3D6           (10)
-POW      3D6+6         (16)
-CHA      3D6           (10)
+|        | Dice        | Average        | 1D20       | Hit Location       | AP/HP |
+|--------|-------------|----------------|------------|--------------------|-------|
+| STR    |             |                | 1-20       | Loa                | 0/16  |
+| CON    |             |                |            |                    |       |
+| SIZ    |             |                |            |                    |       |
+| DEX    |             |                |            |                    |       |
+| INT    | 3D6         | (10)           |            |                    |       |
+| POW    | 3D6+6       | (16)           |            |                    |       |
+| CHA    | 3D6         | (10)           |            |                    |       |
 
 ```
 Combat Actions            2                Typical Armour: None
@@ -4417,17 +4232,18 @@ Strike Rank               +20              Skills: Evade 60%, Lore (nature) 70%,
 
 ##### Weapons
 
-Type                         Size     Damage         AP/HP
-Touch of the Loa             60%      1D6            damage+1D2
+| Type                       | Size   | Damage       | AP/HP |
+|----------------------------|--------|--------------|-------|
+| Touch of the Loa           | 60%    | 1D6          | damage+1D2 |
 
 If placated or defeated, the spirit can be bound to a pirate. As this particular Loa is a storm-spirit,
-then the pirate who commands it could gain one of the following abilities:
-*	     Summon a storm once per month
-*	     Ignore the penalties to Shiphandling
-*	     Channel the force of the storm, allowing him to cast the Skybolt spell.
+then the pirate who commands it could gain one of the following abilities:  
+* Summon a storm once per month
+* Ignore the penalties to Shiphandling
+* Channel the force of the storm, allowing him to cast the Skybolt spell.
 
 
-Pirates and Clockwork: In the year 955 AH, Taqi al-Din Mohammed ibn Ma'ruf (peace
+**Pirates and Clockwork**: In the year 955 AH, Taqi al-Din Mohammed ibn Ma'ruf (peace
 be upon him) started the Great Observatory of Istanbul and ushered in a golden age of
 scientific and technological innovation within the Sublime Ottoman State. One year after
 the construction of the Great Observatory, a fisherman in Cyprus discovered a strange
@@ -4470,14 +4286,14 @@ intercept it. When within range, remorseless and terrible engines give precise f
 the banks of cannons...
 
 
-Clockwork Equipment
-Hajji Device: This is the most common form of clockwork computer, used for navigation. The
+### Clockwork Equipment
+**Hajji Device**: This is the most common form of clockwork computer, used for navigation. The
 Hajji device is a heavy contraption of brass wheels, lodestones and glass dials, roughly the size
 of a buckler shield. A ship's destination and course are input as numbers and the Hajji device
 automatically calculates the ship's course. A clever operator can sail to any point on the surface
 of the globe by correctly programming these machines.
 
-Calculating Engine: Calculating engines are made from rank upon rank of Hajji devices. They
+**Calculating Engine**: Calculating engines are made from rank upon rank of Hajji devices. They
 are powered by hand-cranks or treadmills, although it is said that the English have developed a
 steam-powered machine that runs far quicker than any other engine. A calculating engine can do
 mathematics at great speed and with perfect accuracy. In battle, calculating engines are used to
@@ -4488,17 +4304,17 @@ Other calculating engines are used to produce the secret books of codes and logs
 navigation with Hajji devices.
 
 
-Brazen Head: A curiosity, Brazen Heads are small but very clever calculating engines. They
+**Brazen Head**: A curiosity, Brazen Heads are small but very clever calculating engines. They
 speak using an intricate series of valves and bellows, and can hold discourse on a variety of topics.
 These Machine Intellects are no more than amusing toys in the eyes of most people, with no
 more true intelligence than a parrot or an Irishman - but those who listen to the advice of this
 clacking automata can sometimes learn strange secrets...
 
-Clockwork Hand: Hook hands and peg-legs are a thing of the past! While no artificer has
+**Clockwork Hand**: Hook hands and peg-legs are a thing of the past! While no artificer has
 managed to create a living automaton, they can make replacement limbs and even clockwork
 hands that function almost as well as the real thing, so long as they are wound regularly.
 
-Pirates and Dragons: The jungles of South America held a terrible secret - the true rulers of
+**Pirates and Dragons**: The jungles of South America held a terrible secret - the true rulers of
 the Aztec empire were the dragons. These terrible lizards squatted atop stepped pyramids and
 demanded gold and bloody sacrifices from their followers. Cortez and his conquistadors turned
 dragon-slayer and, after many decades of war, the Dragon Empire was toppled and all the great
@@ -4521,7 +4337,7 @@ the Caribbean is one possible location for the lost city of Atlantis. Pirates wi
 supertechnology powered by meteor shards, anyone?
 
 
-Otherworldly Piracy
+## Otherworldly Piracy
 Players of traditional Legend campaigns may wish to integrate piracy into their fantasy games.
 Fantasy worlds rarely include gunpowder - this can be replaced by magic, or just dropped entirely.
 Pirates can capture prizes through boarding actions and with bows instead of with cannon-fire.
@@ -4534,333 +4350,377 @@ One nice thing about a Pirates of Legend game is that you can start it as a hist
 then suddenly spin the characters off into utmost strangeness.
 
 
-Scurvy Dogs and Other Rogues
+## Scurvy Dogs and Other Rogues
 A miscellanea of generic Non-Player Characters...
 
 
-Pirate, Scurvy Dog
+### Pirate, Scurvy Dog
 This is the average pirate in a poor crew - a penniless buccaneer, a newly recruited pirate or a
 thug in a port.
  
-                                                   1D20         Hit Location          AP/HP
-STR                  10                            1-2          Right Leg             -/5
-CON                  11                            3-4          Left Leg              -/5
-SIZ                  11                            5-6          Abdomen               1/6
-DEX                  10                            7-14         Chest                 1/7
-INT                  10                            15-16        Right Arm             1/4
-POW                  11                            17-18        Left Arm              1/4
-CHA                  9                             19-20        Head                  -/5
+|                                                  | 1D20       | Hit Location        | AP/HP |
+|--------------------------------------------------|------------|---------------------|-------|
+| STR                  10                          | 1-2        | Right Leg           | -/5   |
+| CON                  11                          | 3-4        | Left Leg            | -/5   |
+| SIZ                  11                          | 5-6        | Abdomen             | 1/6   |
+| DEX                  10                          | 7-14       | Chest               | 1/7   |
+| INT                  10                          | 15-16      | Right Arm           | 1/4   |
+| POW                  11                          | 17-18      | Left Arm            | 1/4   |
+| CHA                  9                           | 19-20      | Head                | -/5   |
 
+```
 Combat Actions                  2                  Typical Armour: None
 Damage Modifier                 +0
 Magic Points                    0                  Equipment: Buff Coat, Cutlass, Musket, 3D6 Silver
 Movement                        4m
 Strike Rank                     +10
+```
 
-Skills: Acrobatics 25% (22%), Athletics 35% (32%), Boating 35%, Evade 24% (21%), Evaluate 20%,
+**Skills**: Acrobatics 25% (22%), Athletics 35% (32%), Boating 35%, Evade 24% (21%), Evaluate 20%,
 Gunnery 20%, Lore (animal) 15%, Lore (world) 25%, Perception 41%, Shiphandling 40%, Sing 14%,
 Throwing 15% (12%)
 
-Buff Coat: -3% Skill Penalty
+**Buff Coat**: -3% Skill Penalty
  
-Weapons
-Type            Weapon skill     Damage / AP
-Cutlass         50% (47%)        1D6+1 / 3
-Musket          40% (37%)        2D6
+##### Weapons
+
+| Type          | Weapon skill   | Damage / AP |
+|---------------|----------------|-------------|
+| Cutlass       | 50% (47%)      | 1D6+1 / 3   |
+| Musket        | 40% (37%)      | 2D6         |
 
 
-Pirate, Devilish Cut-Throat
-Seasoned
+### Pirate, Devilish Cut-Throat
+**Seasoned**  
 This is an experienced, dangerous pirate - an officer on most ships or an ordinary hand in the
 most successful and infamous crews.
  
-                                                  1D20       Hit Location            AP/HP
-STR                    14                          1-2        Right Leg               -/6
-CON                    12                          3-4        Left Leg                -/6
-SIZ                    14                          5-6        Abdomen                 1/7
-DEX                    12                          7-14       Chest                   1/8
-INT                    11                          15-16      Right Arm               1/5
-POW                    12                          17-18      Left Arm                1/5
-CHA                    13                          19-20      Head                    -/6
+|                                                 | 1D20     | Hit Location          | AP/HP |
+|-------------------------------------------------|----------|-----------------------|-------|
+| STR                    14                       |  1-2     |  Right Leg            |  -/6  |
+| CON                    12                       |  3-4     |  Left Leg             |  -/6  |
+| SIZ                    14                       |  5-6     |  Abdomen              |  1/7  |
+| DEX                    12                       |  7-14    |  Chest                |  1/8  |
+| INT                    11                       |  15-16   |  Right Arm            |  1/5  |
+| POW                    12                       |  17-18   |  Left Arm             |  1/5  |
+| CHA                    13                       |  19-20   |  Head                 |  -/6  |
 
+```
 Combat Actions 2                                   Typical Armour: None
 Damage Modifier +1D2
 Magic Points                    0                  Equipment: Dagger, Cutlass, Musket, Two Pistols,
-                                                   Grenade, Compass
-Movement                        4m
+Movement                        4m                 Grenade, Compass
 Strike Rank                     +11
+```
 
-Skills: Acrobatics 32% (29%), Athletics 51% (48%), Boating 39%, Evade 23% (20%), Evaluate 21%,
+**Skills**: Acrobatics 32% (29%), Athletics 51% (48%), Boating 39%, Evade 23% (20%), Evaluate 21%,
 Gunnery 33%, Handiwork 21%, Lore (animal) 17%, Lore (world) 26%, Shiphandling 51%, Sing 18%,
 Throwing 17% (14%)
 
 
-Weapons
-Type                               Weapon skill     Damage / AP
-Cutlass                            66% (63%)        1D6+1+1D2 / 3
-Musket                             42% (39%)        2D6
-Pistol                             30% (39%)        2D4
+##### Weapons
+
+| Type                             | Weapon skill   | Damage / AP |
+|----------------------------------|----------------|-------------|
+| Cutlass                          | 66% (63%)      | 1D6+1+1D2 / 3 |
+| Musket                           | 42% (39%)      | 2D6         |
+| Pistol                           | 30% (39%)      | 2D4         |
 
  
-Legendary Ability: Pet
+**Legendary Ability**: Pet
 
-Buff Coat: -3%
+**Buff Coat**: -3% Skill Penalty
  
  
-Pirate, Quartermaster
-Veteran
+### Pirate, Quartermaster
+**Veteran**  
 This big brute is the strongman on a pirate ship, there to maintain discipline and be the captain's
 enforcer.
  
-                                                   1D20           Hit Location        AP/HP
-STR                 16                             1-2            Right Leg           -/7
-CON                 16                             3-4            Left Leg            -/7
-SIZ                 16                             5-6            Abdomen             1/8
-DEX                 10                             7-14           Chest               1/9
-INT                 10                             15-16          Right Arm           1/6
-POW                 10                             17-18          Left Arm            1/6
-CHA                 11                             19-20          Head                -/7
+|                                                  | 1D20         | Hit Location      | AP/HP |
+|--------------------------------------------------|--------------|-------------------|-------|
+| STR                 16                           | 1-2          | Right Leg         | -/7   |
+| CON                 16                           | 3-4          | Left Leg          | -/7   |
+| SIZ                 16                           | 5-6          | Abdomen           | 1/8   |
+| DEX                 10                           | 7-14         | Chest             | 1/9   |
+| INT                 10                           | 15-16        | Right Arm         | 1/6   |
+| POW                 10                           | 17-18        | Left Arm          | 1/6   |
+| CHA                 11                           | 19-20        | Head              | -/7   |
 
+```
 Combat Actions               2                     Typical Armour: None
 Damage Modifier              +1D4
 Magic Points                 0                     Equipment:      Cutlass, Whip,
 
 Movement                     4m
 Strike Rank                  +17
+```
 
-Skills: Acrobatics 25% (22%), Athletics 56% (53%), Boating 41%, Evade 9% (6%), Handiwork 30%,
+**Skills**: Acrobatics 25% (22%), Athletics 56% (53%), Boating 41%, Evade 9% (6%), Handiwork 30%,
 Influence 41%, Lore (animal) 15%, Lore (world) 20%, Persistence 30%, Shiphandling 40%, Sing 16%,
 Resilience 64%, Throwing 15% (12%)
 
 
-Weapons
-Type                Weapon skill        Damage / AP
-Cutlass             66% (63%)           1D6+1+1D4 / 3
-Whip                41% (38%)           1D3
-Pistol              21% (18%)           2D4
+##### Weapons
+
+| Type              | Weapon skill      | Damage / AP |
+|-------------------|-------------------|-------------|
+| Cutlass           | 66% (63%)         | 1D6+1+1D4 / 3 |
+| Whip              | 41% (38%)         | 1D3         |
+| Pistol            | 21% (18%)         | 2D4         |
  
-Legendary Abilities: Infamous, Vice	
+**Legendary Abilities**: Infamous, Vice	
 
-Buff Coat: -3% Skill Penalty
+**Buff Coat**: -3% Skill Penalty
 
 
-Pirate Captain
-Master
+### Pirate Captain
+**Master**  
 This is an exceptional pirate captain - not up there with Blackbeard, but more successful than
 most who go on the account.
 
-                                           1D20         Hit Location            AP/HP
-STR               13                       1-2          Right Leg               -/5
-CON               12                       3-4          Left Leg                -/5
-SIZ               11                       5-6          Abdomen                 1/6
-DEX               13                       7-14         Chest                   1 or 3/7
-INT               14                       15-16        Right Arm               1 or 3/4
-POW               16                       17-18        Left Arm                1 or 3/4
-CHA               15                       19-20        Head                    -/5
+|                                          | 1D20       | Hit Location          | AP/HP |
+|------------------------------------------|------------|-----------------------|-------|
+| STR               13                     | 1-2        | Right Leg             | -/5   |
+| CON               12                     | 3-4        | Left Leg              | -/5   |
+| SIZ               11                     | 5-6        | Abdomen               | 1/6   |
+| DEX               13                     | 7-14       | Chest                 | 1 or 3/7 |
+| INT               14                     | 15-16      | Right Arm             | 1 or 3/4 |
+| POW               16                     | 17-18      | Left Arm              | 1 or 3/4 |
+| CHA               15                     | 19-20      | Head                  | -/5   |
 
+```
 Combat Actions             3               Typical Armour: None
 Damage Modifier            +0
 Magic Points               0               Equipment:    Cutlass, Four Pistols, Musket
 Movement                   4m
 Strike Rank                +13
+```
 
-Skills: Athletics 36% (31%), Boating 23%, Evade 76% (71%), Evaluate 25%, First Aid 19%, Gunnery 37%,
+**Skills**: Athletics 36% (31%), Boating 23%, Evade 76% (71%), Evaluate 25%, First Aid 19%, Gunnery 37%,
 Influence 74%, Lore (navigation) 44%, Lore (world) 44%, Perception 38%, Persistence 66%, Resilience
 48%, Shiphandling 84%
 
 
-Weapons
-Type            Weapon skill        Damage / AP
-Cutlass         96% (91%)           1D6+1 / 3
-Pistol          53% (48%)           2D4
-Musket          23% (18%)           2D6	
+##### Weapons
+
+| Type          | Weapon skill      | Damage / AP |
+|---------------|-------------------|-------------|
+| Cutlass       | 96% (91%)         | 1D6+1 / 3   |
+| Pistol        | 53% (48%)         | 2D4         |
+| Musket        | 23% (18%)         | 2D6         |
  
-Legendary Abilities: Fearsome Aura 
+**Legendary Abilities**: Fearsome Aura 
 
-Buff Coat, Duellist's Half-Cape: -5% Skill Penalty
+**Buff Coat, Duellist's Half-Cape**: -5% Skill Penalty
 
 
-Town Guard
+### Town Guard
 An average guard. These statistics would also do for any troublesome craftsmen or other citizens
 who take up arms against a pirate raid.
  
-                                             1D20         Hit Location         AP/HP
-STR                12                        1-2          Right Leg            -/5
-CON                11                        3-4          Left Leg             -/5
-SIZ                11                        5-6          Abdomen              1/6
-DEX                11                        7-14         Chest                1/7
-INT                10                        15-16        Right Arm            1/4
-POW                9                         17-18        Left Arm             1/4
-CHA                11                        19-20        Head                 5/5
+|                                            | 1D20       | Hit Location       | AP/HP |
+|--------------------------------------------|------------|--------------------|-------|
+| STR                12                      | 1-2        | Right Leg          | -/5   |
+| CON                11                      | 3-4        | Left Leg           | -/5   |
+| SIZ                11                      | 5-6        | Abdomen            | 1/6   |
+| DEX                11                      | 7-14       | Chest              | 1/7   |
+| INT                10                      | 15-16      | Right Arm          | 1/4   |
+| POW                9                       | 17-18      | Left Arm           | 1/4   |
+| CHA                11                      | 19-20      | Head               | 5/5   |
 
+```
 Combat Actions               2               Typical Armour: None
 Damage Modifier              +0
 Magic Points                 0               Equipment:     Halbard, Musket, Helmet, Buff Coat,
                                              4D6 Silver
 Movement                     4m
 Strike Rank                  +10
+```
 
-Skills: Athletics 33% (26%), Craft (any one) 30%, Evade 35% (28%), Evaluate 40%, Influence 21%,
+**Skills**: Athletics 33% (26%), Craft (any one) 30%, Evade 35% (28%), Evaluate 40%, Influence 21%,
 Lore (world) 20%, Perception 39%, Persistence 39%, Resilience 47%
 
 
-Weapons
-Type            Weapon skill        Damage / AP
-Polearm         63% (56%)           1D8+1 / 3
-Musket          41% (34%)           2D6
+##### Weapons
+
+| Type          | Weapon skill      | Damage / AP |
+|---------------|-------------------|-------------|
+| Polearm       | 63% (56%)         | 1D8+1 / 3   |
+| Musket        | 41% (34%)         | 2D6         |
  
-Buff Coat, Helmet: -7% Skill Penalty
+**Buff Coat, Helmet**: -7% Skill Penalty
 
 
 Fat Merchant
-Seasoned
+**Seasoned**  
 This charming character might be an agent of one of the great trading companies, or a plantation
 owner. Either way, he is very fat and very rich.
  
-                                          1D20       Hit Location            AP/HP
-STR               10                      1-2        Right Leg               -/6
-CON               13                      3-4        Left Leg                -/6
-SIZ               16                      5-6        Abdomen                 -/7
-DEX               8                       7-14       Chest                   -/8
-INT               15                      15-16      Right Arm               -/5
-POW               13                      17-18      Left Arm                -/5
-CHA               8                       19-20      Head                    -/6
+|                                         | 1D20     | Hit Location          | AP/HP |
+|-----------------------------------------|----------|-----------------------|-------|
+| STR               10                    | 1-2      | Right Leg             | -/6   |
+| CON               13                    | 3-4      | Left Leg              | -/6   |
+| SIZ               16                    | 5-6      | Abdomen               | -/7   |
+| DEX               8                     | 7-14     | Chest                 | -/8   |
+| INT               15                    | 15-16    | Right Arm             | -/5   |
+| POW               13                    | 17-18    | Left Arm              | -/5   |
+| CHA               8                     | 19-20    | Head                  | -/6   |
 
+```
 Combat Actions           2                Typical Armour: None
 Damage Modifier          +0
 Magic Points             0                Equipment: Rapier, Pistol, Fine Clothes, 4D10x100
                                           Silver
 Movement                 4m
 Strike Rank              +11
+```
 
-Skills: Courtesy 52%, Evaluate 65%, Influence 68%, Lore (logistics) 35%, Lore (world) 35%, Persistence 53%, Sleight 18%
+**Skills**: Courtesy 52%, Evaluate 65%, Influence 68%, Lore (logistics) 35%, Lore (world) 35%, Persistence 53%, Sleight 18%
 
+##### Weapons
 
-
-Weapons
-Type            Weapon skill        Damage / AP
-Rapier          38%                 1D8 / 3
-Pistol          28%                 2D4
+| Type          | Weapon skill      | Damage / AP |
+|---------------|-------------------|-------------|
+| Rapier        | 38%               | 1D8 / 3     |
+| Pistol        | 28%               | 2D4         |
  
-Legendary Ability: Contacts
+**Legendary Ability**: Contacts
 
 
-Governor
-Seasoned
+### Governor
+**Seasoned**  
 This figure, with his fine wig and patrician attitude, could be the governor of one of the richer
 colonies or another representative of the powers of Europe.
 
-                                           1D20          Hit Location         AP/HP
-STR               12                       1-2           Right Leg            -/5
-CON               14                       3-4           Left Leg             -/5
-SIZ               10                       5-6           Abdomen              -/6
-DEX               10                       7-14          Chest                -/7
-INT               14                       15-16         Right Arm            -/4
-POW               16                       17-18         Left Arm             -/4
-CHA               15                       19-20         Head                 -/5
+|                                          | 1D20        | Hit Location       | AP/HP |
+|------------------------------------------|-------------|--------------------|-------|
+| STR               12                     | 1-2         | Right Leg          | -/5   |
+| CON               14                     | 3-4         | Left Leg           | -/5   |
+| SIZ               10                     | 5-6         | Abdomen            | -/6   |
+| DEX               10                     | 7-14        | Chest              | -/7   |
+| INT               14                     | 15-16       | Right Arm          | -/4   |
+| POW               16                     | 17-18       | Left Arm           | -/4   |
+| CHA               15                     | 19-20       | Head               | -/5   |
 
+```
 Combat Actions            2                Typical Armour: None
 Damage Modifier           +0
 Magic Points              0                Equipment: Rapier, Fine Clothes, Pistol, 4D10x100
                                            Silver
 Movement                  4m
 Strike Rank               +12
+```
 
-Skills: Courtesy 60%, Dance 30%, Influence 75%, Language (any other) 34%, Lore (world) 59%,
+**Skills**: Courtesy 60%, Dance 30%, Influence 75%, Language (any other) 34%, Lore (world) 59%,
 Perception 70%, Persistence 36%, Riding 45%
 
+##### Weapons
 
-Weapons
-Type        Weapon skill    Damage / AP
-Rapier      47%             1D8 / 3
-Pistol      35%             2D4
+| Type      | Weapon skill  | Damage / AP |
+|-----------|---------------|-------------|
+| Rapier    | 47%           | 1D8 / 3     |
+| Pistol    | 35%           | 2D4         |
  
-Legendary Ability: Contacts
+**Legendary Ability**: Contacts
 
 
-Governor's Daughter
+### Governor's Daughter
 Beautiful, cultured, genteel, but with a fiery spirit - a prize worth taking for any pirate.
  
-                                           1D20         Hit Location                AP/HP
-STR              9                         1-2          Right Leg                   1/5
-CON              13                        3-4          Left Leg                    1/5
-SIZ              8                         5-6          Abdomen                     -/6
-DEX              14                        7-14         Chest                       -/7
-INT              14                        15-16        Right Arm                   -/4
-POW              15                        17-18        Left Arm                    -/4
-CHA              16                        19-20        Head                        -/5
+|                                          | 1D20       | Hit Location              | AP/HP |
+|------------------------------------------|------------|---------------------------|-------|
+| STR              9                       | 1-2        | Right Leg                 | 1/5   |
+| CON              13                      | 3-4        | Left Leg                  | 1/5   |
+| SIZ              8                       | 5-6        | Abdomen                   | -/6   |
+| DEX              14                      | 7-14       | Chest                     | -/7   |
+| INT              14                      | 15-16      | Right Arm                 | -/4   |
+| POW              15                      | 17-18      | Left Arm                  | -/4   |
+| CHA              16                      | 19-20      | Head                      | -/5   |
 
+```
 Combat Actions           3                 Typical Armour: None
 Damage Modifier          -1D2
 Magic Points             0                 Equipment: Fine Clothes
 Movement                 4m
 Strike Rank              +14
+```
 
-Skills: Courtesy 60%, Craft (needlework) 34%, Dance 34%, Evade 21%, Influence 66%, 
+**Skills**: Courtesy 60%, Craft (needlework) 34%, Dance 34%, Evade 21%, Influence 66%, 
 Lore (world) 34%, Perception 35%, Persistence 36%, Riding 45%, Sing 25%.
 
 
-Weapons
+##### Weapons
 None
  
-Leather Trews: -2% Skill Penalty
+**Leather Trews**: -2% Skill Penalty
 
 
-Sailor
+### Sailor
 An average sailor.
 
-                                         1D20         Hit Location         AP/HP
-STR               13                     1-2          Right Leg            -/5
-CON               12                     3-4          Left Leg             -/5
-SIZ               12                     5-6          Abdomen              -/6
-DEX               10                     7-14         Chest                -/7
-INT               10                     15-16        Right Arm            -/4
-POW               11                     17-18        Left Arm             -/4
-CHA               9                      19-20        Head                 -/5
+|                                        | 1D20       | Hit Location       | AP/HP |
+|----------------------------------------|------------|--------------------|-------|
+| STR               13                   | 1-2        | Right Leg          | -/5   |
+| CON               12                   | 3-4        | Left Leg           | -/5   |
+| SIZ               12                   | 5-6        | Abdomen            | -/6   |
+| DEX               10                   | 7-14       | Chest              | -/7   |
+| INT               10                   | 15-16      | Right Arm          | -/4   |
+| POW               11                   | 17-18      | Left Arm           | -/4   |
+| CHA               9                    | 19-20      | Head               | -/5   |
 
+```
 Combat Actions       2               Typical Armour: None
 Damage Modifier      +0
 Magic Points         0               Equipment: Cutlass, Pistol
 Movement             4m
 Strike Rank          +10
+```
 
-Skills: Acrobatics 35%, Athletics 43%, Boating 38%, Evade 13%, Gunnery 40%, 
+**Skills**: Acrobatics 35%, Athletics 43%, Boating 38%, Evade 13%, Gunnery 40%, 
 Handiwork 30%, Lore (animal) 15%, Lore (world) 25%, Resilience 28%,
 Shiphandling 30%, Sing 14%, Throwing 15%
 
 
-Weapons
-Type            Weapon skill    Damage / AP
-Cutlass         52%             1D6+1/3
-Pistol          40%             2D4
+##### Weapons
+
+| Type          | Weapon skill  | Damage / AP |
+|---------------|---------------|-------------|
+| Cutlass       | 52%           | 1D6+1/3     |
+| Pistol        | 40%           | 2D4         |
  
 
-Officer of the Royal Navy
-Seasoned. 
+### Officer of the Royal Navy
+**Seasoned**
 
-                                          1D20          Hit Location         AP/HP
-STR                   13                  1-2           Right Leg            -/5
-CON                   12                  3-4           Left Leg             -/5
-SIZ                   12                  5-6           Abdomen              1/6
-DEX                   10                  7-14          Chest                1/7
-INT                   14                  15-16         Right Arm            1/4
-POW                   10                  17-18         Left Arm             1/4
-CHA                   12                  19-20         Head                 -/5
+|                                         | 1D20        | Hit Location       | AP/HP |
+|-----------------------------------------|-------------|--------------------|-------|
+| STR                   13                | 1-2         | Right Leg          | -/5   |
+| CON                   12                | 3-4         | Left Leg           | -/5   |
+| SIZ                   12                | 5-6         | Abdomen            | 1/6   |
+| DEX                   10                | 7-14        | Chest              | 1/7   |
+| INT                   14                | 15-16       | Right Arm          | 1/4   |
+| POW                   10                | 17-18       | Left Arm           | 1/4   |
+| CHA                   12                | 19-20       | Head               | -/5   |
 
+```
 Combat Actions        2           Typical Armour: None
 Damage Modifier       +0
 Magic Points          0           Equipment: Rapier, Pistol
 Movement              4m
 Strike Rank           +12
+```
 
-Skills: Acrobatics 25% (22%), Athletics 43% (40%), Boating 38%, Evade 18% (15%), 
+**Skills**: Acrobatics 25% (22%), Athletics 43% (40%), Boating 38%, Evade 18% (15%), 
 First Aid 19%, Gunnery 64%, Handiwork 44%, Influence 32% Lore (animal) 19%, 
 Lore (world) 29%, Perception 34%, Resilience 34%, Shiphandling 54%, Sing 17%, Throwing 15%
  
-Weapons
-Type            Weapon skill        Damage / AP
-Rapier          63% (60%)           1D8 / 3
-Pistol          50% (47%)           2D4
+##### Weapons
+
+| Type          | Weapon skill      | Damage / AP |
+|---------------|-------------------|-------------|
+| Rapier        | 63% (60%)         | 1D8 / 3     |
+| Pistol        | 50% (47%)         | 2D4         |
  
-Buff Jacket: -3%
+**Buff Jacket**: -3% Skill Penalty
 
