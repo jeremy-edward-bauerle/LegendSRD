@@ -92,6 +92,7 @@ namespace LegendTextTools
 
 				// Remove duplicates from pipeIndices list
 				columnIndices = columnIndices.Distinct ().ToList ();
+				columnIndices.Sort ();
 
 				// cellData will store the information in the cell, 
 				// regardless of how many lines (of plain text) it spans
@@ -128,6 +129,7 @@ namespace LegendTextTools
 								columnLength = (line.Length - columnIndices [i]);
 							}
 						}
+
 
 						string data = line.Substring (columnIndices [i], columnLength);
 
