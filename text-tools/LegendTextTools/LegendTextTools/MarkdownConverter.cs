@@ -299,15 +299,7 @@ namespace LegendTextTools
 
 			foreach (string line in lines) 
 			{
-				if (String.IsNullOrEmpty (line)) 
-				{
-					blockquotedLines.Add ("");
-					continue;
-				}
-				else
-				{
-					blockquotedLines.Add ("> " + line);
-				}
+				blockquotedLines.Add ("> " + line);
 			}
 
 			return blockquotedLines;
