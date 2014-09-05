@@ -3884,45 +3884,45 @@ designs, the following ships have been split in two categories, warships and mer
 Each ship detailed in this chapter shares the following Characteristics, whether the ship
 in question is a longserpent or a simple skiff.
 
-Length: The distance from bow to stern.
+**Length**: The distance from bow to stern.
 
-Beam: The widest part of a ship – usually in the middle. Ships equipped with oars will
+**Beam**: The widest part of a ship – usually in the middle. Ships equipped with oars will
 have the beam of the ship increased when the oars are employed. The inclusion of oars
 is considered to increase a ship's beam to half again its original rating.
 
-Draft: The depth of water needed for the ship to manoeuvre effectively and avoid
+**Draft**: The depth of water needed for the ship to manoeuvre effectively and avoid
 running aground. This is the distance between the ship's keel and the waterline.
 
-Freeboard: The minimum height between the ship's gunwale and the waterline.
+**Freeboard**: The minimum height between the ship's gunwale and the waterline.
 Comparing two ships' freeboards can help give the vertical distance that an Adventurer
 needs to achieve when jumping from one to the other.
 
-Capacity: This indicates the cargo capacity of the ship in tons. This number reflects
+**Capacity**: This indicates the cargo capacity of the ship in tons. This number reflects
 the ship's cargo capacity in addition to the weight of the ship's rigging, crew, provisions
 and so forth.
 
-Speed: The speed at which the ship travels per Combat Action. A ship that relies solely
+**Speed**: The speed at which the ship travels per Combat Action. A ship that relies solely
 upon sails for propulsion is dependent on the wind for its speed.
 
-Seaworthiness: The ability of the ship to stand up to the rigours of sailing. All ships
+**Seaworthiness**: The ability of the ship to stand up to the rigours of sailing. All ships
 must undergo frequent maintenance in order to prevent their Seaworthiness rating
 from deteriorating.
 
-Hull: The hull acts as the ship's armour, just as a suit of chainmail does for a man.
+**Hull**: The hull acts as the ship's armour, just as a suit of chainmail does for a man.
 
-Structure Points: Essentially, Structure Points are a ship's Hit Points. Damage to these
+**Structure Points**: Essentially, Structure Points are a ship's Hit Points. Damage to these
 represents damage to the integrity of the ship itself and ships do not heal of their own
 accord. A ship must be hauled onto a beach or into a ship house for structure points
 to be repaired.
 
-Ram: Viking ships do not mount rams per se, their design is not intended to take the
+**Ram**: Viking ships do not mount rams per se, their design is not intended to take the
 strain of a severe forward impact. Their curving arched prows however could probably
 run over the gunwale of a smaller vessel if striking it amidships, crushing and possibly
 swamping it. If a Viking ship does attempt to ram, assume it inflicts 1D6 damage per
 four metres of movement it was travelling at. However, half of that damage should be
 applied to the ramming ship too.
 
-Skill: Every ship has its own peculiarities and each design presents different challenges.
+**Skill**: Every ship has its own peculiarities and each design presents different challenges.
 This entry firstly denotes which skill is used when operating the ship (nearly always
 either Boating or Shiphandling). Also, though any ship can be operated under ideal
 conditions without the necessity of a Skill Test, when the ship and crew are called
@@ -3930,7 +3930,7 @@ upon for more extreme endeavours, this modifier is applied to the test. Note tha
 modifier is in addition to any others that the Games Master feels are appropriate.
 
 
-Warships
+### Warships
 Collectively known as Drakkar, the hulls of Viking warships are long and narrow,
 optimised for speed. They possess at least 20 pairs of oars and carry large crews of
 warriors who, when necessary, take turns at the oars. The balance between speed and
@@ -3938,166 +3938,162 @@ cargo capacity indicates whether a ship is intended for coastal raiding or sea b
 Most warships belonging to a jarl or king possess dragon figureheads but some ships
 have different animal figureheads for theirs, such as storks or bulls.
 
-Snekke
+#### Snekke
 A small longship designed to be easily beached or portaged. Their shallow draft allows
 them to range almost anywhere.
 
-Hull: 4
-Structure Points: 40
-Seaworthiness: 20
-Length: 17m
-Beam: 2.5m
-Capacity: 5 tons
-Freeboard: 1.5m
-Draft: 0.5m
-Crew: 40 rowers, 1 steersman, and up to 10 extra crew
-Speed: 30m at top speed (12 knots)
-Ram: None
-Skill: Shiphandling +30%
-Cost: 100 marks of silver
+**Hull**: 4  
+**Structure Points**: 40  
+**Seaworthiness**: 20  
+**Length**: 17m  
+**Beam**: 2.5m  
+**Capacity**: 5 tons  
+**Freeboard**: 1.5m  
+**Draft**: 0.5m  
+**Crew**: 40 rowers, 1 steersman, and up to 10 extra crew  
+**Speed**: 30m at top speed (12 knots)  
+**Ram**: None  
+**Skill**: Shiphandling +30%  
+**Cost**: 100 marks of silver
 
 
-Skeide
+#### Skeide
 A longship optimised for sea battles with a still narrow beam and little volume
 dedicated for cargo space. Its extreme design for speed makes it vulnerable in heavy
 weather.
 
-Hull: 4
-Structure Points: 60
-Seaworthiness: 18
-Length: 30m
-Beam: 3.5m
-Capacity: 10 tons
-Freeboard: 1m
-Draft: 1m
-Crew: 60 rowers, 1 steersman, and up to 20 extra crew
-Speed: 38m at top speed (15 knots)
-Ram: None
-Skill: Shiphandling +20%
-Cost: 150 marks of silver
+**Hull**: 4  
+**Structure Points**: 60  
+**Seaworthiness**: 18  
+**Length**: 30m  
+**Beam**: 3.5m  
+**Capacity**: 10 tons  
+**Freeboard**: 1m  
+**Draft**: 1m  
+**Crew**: 60 rowers, 1 steersman, and up to 20 extra crew  
+**Speed**: 38m at top speed (15 knots)  
+**Ram**: None  
+**Skill**: Shiphandling +20%  
+**Cost**: 150 marks of silver
 
-Busse
+#### Busse
 A huge longship designed for coastal raiding. With a large cargo and crew capacity,
 it functions as troop transport capable of bringing back large amounts of plunder.
 The famous Ormen Lange (long serpent) of King Olav Tryggvason was of this class.
 
-Hull: 4
-Structure Points: 80
-Seaworthiness: 22
-Length: 40m
-Beam: 3.5m
-Capacity: 20 tons
-Freeboard: 2m
-Draft: 1m
-Crew: 80 rowers, 1 steersman, and up to 40 extra crew
-Speed: 34m at top speed (13 knots)
-Ram: None
-Skill: Shiphandling +10%
-Cost: 200 marks of silver
+**Hull**: 4  
+**Structure Points**: 80  
+**Seaworthiness**: 22  
+**Length**: 40m  
+**Beam**: 3.5m  
+**Capacity**: 20 tons  
+**Freeboard**: 2m  
+**Draft**: 1m  
+**Crew**: 80 rowers, 1 steersman, and up to 40 extra crew  
+**Speed**: 34m at top speed (13 knots)  
+**Ram**: None  
+**Skill**: Shiphandling +10%  
+**Cost**: 200 marks of silver
 
 
-King Olaf's Levy for War
-Soon after the king convoked a Thing in the town, and proclaimed to all the public, that in
-summer would go abroad upon an expedition out of the country, and would raise both ships
-and men from every district; and at the same time fixed how many ships would have from
-the whole Throndhjem fjord. Then he sent his message-token south and north, both along
-the sea-coast and up in the interior of the country, to let an army be gathered.
+> #### King Olaf's Levy for War
+> Soon after the king convoked a Thing in the town, and proclaimed to all the public, that in
+> summer would go abroad upon an expedition out of the country, and would raise both ships
+> and men from every district; and at the same time fixed how many ships would have from
+> the whole Throndhjem fjord. Then he sent his message-token south and north, both along
+> the sea-coast and up in the interior of the country, to let an army be gathered.
+> 
+> The king ordered the Long Serpent to be put into the water, along with all his other ships
+> both small and great. He himself steered the Long Serpent. When the crews were taken out
+> for the ships, they were so carefully selected that no man on board the Long Serpent was
+> older than sixty or younger than twenty years, and all were men distinguished for strength
+> and courage. Those who were Olaf 's bodyguard were in particular chosen men, both of the
+> natives and of foreigners, and the boldest and strongest.
+> 
+> - King Olaf Tryggvason's Saga
 
-The king ordered the Long Serpent to be put into the water, along with all his other ships
-both small and great. He himself steered the Long Serpent. When the crews were taken out
-for the ships, they were so carefully selected that no man on board the Long Serpent was
-older than sixty or younger than twenty years, and all were men distinguished for strength
-and courage. Those who were Olaf 's bodyguard were in particular chosen men, both of the
-natives and of foreigners, and the boldest and strongest.
-
-- King Olaf Tryggvason's Saga
-
-
-
-Merchantmen
+### Merchantmen
 Merchant ships, collectively known as Kaupskip, are the dedicated cargo carriers capable
 of sailing over open seas in relative security. With broader hulls they gain stability in
 exchange for speed.
 
-Ferje
+#### Ferje
 A small skiff or fishing boat used to transport cargo to and from an anchored ship, cross
 fjords or temporarily venture out into deeper water to fish.
 
-Hull: 3
-Structure Points: 20
-Seaworthiness: 16
-Length: 11m
-Beam: 2.5m
-Capacity: 15 tons
-Freeboard: 0.5m
-Draft: 0.5m
-Crew: 2–4 men
-Speed: 22m at top speed (9 knots)
-Ram: None
-Skill: Boating +20%
-Cost: 30 marks of silver
+**Hull**: 3  
+**Structure Points**: 20  
+**Seaworthiness**: 16  
+**Length**: 11m  
+**Beam**: 2.5m  
+**Capacity**: 15 tons  
+**Freeboard**: 0.5m  
+**Draft**: 0.5m  
+**Crew**: 2–4 men  
+**Speed**: 22m at top speed (9 knots)  
+**Ram**: None  
+**Skill**: Boating +20%  
+**Cost**: 30 marks of silver
 
-
-Byrding
+#### Byrding
 A small trading ship that is capable of sailing long distances over open ocean. They
 normally cross between Iceland and Norway transporting cargoes. A responsive vessel,
 this ship is a perfect mid sized trading ship.
 
-Hull: 3
-Structure Points: 30
-Seaworthiness: 24
-Length: 14m
-Beam: 3.5m
-Capacity: 15 tons
-Freeboard: 1m
-Draft: 1m
-Crew: 5–6 men
-Speed: 28m at top speed (11 knots)
-Ram: None
-Skill: Shiphandling +20%
-Cost: 30 marks of silver
+**Hull**: 3  
+**Structure Points**: 30  
+**Seaworthiness**: 24  
+**Length**: 14m  
+**Beam**: 3.5m  
+**Capacity**: 15 tons  
+**Freeboard**: 1m  
+**Draft**: 1m  
+**Crew**: 5–6 men  
+**Speed**: 28m at top speed (11 knots)  
+**Ram**: None  
+**Skill**: Shiphandling +20%  
+**Cost**: 30 marks of silver
 
-Karv
+#### Karv
 An early Viking design, this versatile ship was able to fulfil the function of both a
 merchantman and a warship. They generally had between 12 and 16 pairs of oars.
 Classic examples of this style are the Gokstad and Oseberg burial ships.
 
-Hull: 3
-Structure Points: 50
-Seaworthiness: 18
-Length: 20m
-Beam: 5m
-Capacity: 8 tons
-Freeboard: 1m
-Draft: 1m
-Crew: 24 rowers, 1 steersman
-Speed: 26m at top speed (10 knots)
-Ram: None
-Skill: Shiphandling +10%
-Cost: 80 marks of silver
+**Hull**: 3  
+**Structure Points**: 50  
+**Seaworthiness**: 18  
+**Length**: 20m  
+**Beam**: 5m  
+**Capacity**: 8 tons  
+**Freeboard**: 1m  
+**Draft**: 1m  
+**Crew**: 24 rowers, 1 steersman  
+**Speed**: 26m at top speed (10 knots)  
+**Ram**: None  
+**Skill**: Shiphandling +10%  
+**Cost**: 80 marks of silver
 
-
-Knarr
+#### Knarr
 Broad but manoeuvrable, the knarr is a merchant ship able to traverse wide seas or
 rivers with equal ease. It has a foredeck and stern deck where rowing is done but the
 swell of the hull amidships is left open to ease loading and storing cargo.
 
-Hull: 3
-Structure Points: 40
-Seaworthiness: 22
-Length: 16m
-Beam: 4.5m
-Capacity: 22 tons
-Freeboard: 2m
-Draft: 1m
-Crew: 6–8 men
-Speed: 20m at top speed (8 knots)
-Ram: None
-Skill: Shiphandling +0%
-Cost: 40 marks of silver
+**Hull**: 3  
+**Structure Points**: 40  
+**Seaworthiness**: 22  
+**Length**: 16m  
+**Beam**: 4.5m  
+**Capacity**: 22 tons  
+**Freeboard**: 2m  
+**Draft**: 1m  
+**Crew**: 6–8 men  
+**Speed**: 20m at top speed (8 knots)  
+**Ram**: None  
+**Skill**: Shiphandling +0%  
+**Cost**: 40 marks of silver
 
 
-Viking Naval Battles
+### Viking Naval Battles
 In the early years of the Viking Age, raiders and pirates usually sail the seas in ones or
 twos and any battles that occur are boarding actions rather than attempting to use the
 ship as a weapon itself. Viking ships, despite being excellent sailing and rowing vessels,
@@ -4110,14 +4106,14 @@ tactics adopt a novel way of fighting battles. One side, or both, simply lashes 
 ships together and forms a semi stable fortification to fight from. The largest ships are
 generally held at the centre with smaller vessels tied to either side.
 
-King Olaf ordered the war-horns to sound for all his ships to close up to each other. The
-king's ship lay in the middle of the line, and on one side lay the Little Serpent, and on the
-other the Crane; and as they made fast the stems together, the Long Serpent's stem and the
-short Serpent's were made fast together; but when the king saw it he called out to his men,
-and ordered them to lay the larger ship more in advance, so that its stern should not lie so
-far behind in the fleet.
-
-- King Olaf Tryggvason's Saga
+> King Olaf ordered the war-horns to sound for all his ships to close up to each other. The
+> king's ship lay in the middle of the line, and on one side lay the Little Serpent, and on the
+> other the Crane; and as they made fast the stems together, the Long Serpent's stem and the
+> short Serpent's were made fast together; but when the king saw it he called out to his men,
+> and ordered them to lay the larger ship more in advance, so that its stern should not lie so
+> far behind in the fleet.
+> 
+> - King Olaf Tryggvason's Saga
 
 The crews take up positions along the prows and sterns of the ships laying abreast
 one another, allowing them to concentrate their numbers without worrying about
@@ -4139,23 +4135,24 @@ Boating skills, with a –20% penalty for the slower vessel, is sufficient to re
 it managed to avoid the engagement.
 
 
-                           Viking Religion
-'It is customary also to solemnise in Uppsala, at nine-year intervals, a general feast of all the
-provinces of Sweden. From attendance at this festival no one is exempted. Kings and people
-all and singly send their gifts to the temple and, what is more distressing than any kind of
-punishment, those who have already adopted Christianity redeem themselves through these
-ceremonies.
+# Viking Religion
 
-The sacrifice is of this nature: of every living thing that is male, they offer nine heads, with
-the blood of which it is customary to placate gods of this sort. The bodies they hang in the
-sacred grove that adjoins the temple. Now this grove is so sacred in the eyes of the heathen
-that each and every tree in it is believed divine because of the death or putrefaction of the
-victims. Even dogs and horses hang there with men.
-
-Furthermore, the incantations customarily chanted in the ritual of a sacrifice of this kind are
-manifold and unseemly; therefore, it is better to keep silence about them'
-
-- Adam of Bremen 11th C.
+> 'It is customary also to solemnise in Uppsala, at nine-year intervals, a general feast of all the
+> provinces of Sweden. From attendance at this festival no one is exempted. Kings and people
+> all and singly send their gifts to the temple and, what is more distressing than any kind of
+> punishment, those who have already adopted Christianity redeem themselves through these
+> ceremonies.
+> 
+> The sacrifice is of this nature: of every living thing that is male, they offer nine heads, with
+> the blood of which it is customary to placate gods of this sort. The bodies they hang in the
+> sacred grove that adjoins the temple. Now this grove is so sacred in the eyes of the heathen
+> that each and every tree in it is believed divine because of the death or putrefaction of the
+> victims. Even dogs and horses hang there with men.
+> 
+> Furthermore, the incantations customarily chanted in the ritual of a sacrifice of this kind are
+> manifold and unseemly; therefore, it is better to keep silence about them'
+> 
+> - Adam of Bremen 11th C.
 
 The beliefs and religion of the Vikings are a fertile breeding ground for conflict and
 adventure. During the first half of the Viking Age most inhabitants of Scandinavia
@@ -4190,7 +4187,7 @@ you set a campaign, Vikings will offer sacrifices and pray to anything or anyone
 they think will aid them in their troubles.
 
 
-Spirits, Gods and God
+## Spirits, Gods and God
 Scandinavians are primarily polytheists. That is to say, they believe in all gods and grant
 them equal respect, if not necessarily reverence. Thus throughout a year folk participate
 in communal ceremonies to the deities of the Norse pantheon, leaving none out for
@@ -4225,7 +4222,7 @@ about in such a way, so why should a priest be able to? This cultural insensitiv
 to many violent conflicts and only ceases once hereditary kingships eventually start to
 replace the democratic freedoms of the people with feudalistic controls.
 
-The Old Ways
+## The Old Ways
 A fundamental aspect of Scandinavian culture is how and why people worship the
 gods and spirits. Understanding this is vitally important because of the effect it has on
 historical and fantasy Viking campaigns.
@@ -4267,30 +4264,29 @@ which could be an outbuilding on a farm or someone's longhouse sanctified for th
 
 The major communal sacrifices of the year were at:
 
-*	 Yuletide when darkness was at its deepest and everyone offered food and drink to
-the gods to ensure the return of spring.
-*	 Spring was when Odin received sacrifices to avert disaster in forthcoming wars.
-*	 Autumn after the harvest had been gathered, to thank the gods especially Freyr,
-for protecting the crops.
+* Yuletide when darkness was at its deepest and everyone offered food and drink to
+  the gods to ensure the return of spring.
+* Spring was when Odin received sacrifices to avert disaster in forthcoming wars.
+* Autumn after the harvest had been gathered, to thank the gods especially Freyr,
+  for protecting the crops.
 
 
-A Pagan Sacrifice
-'It was an old custom, that when there was to be sacrifice all the freeholders should come to
-the spot where the temple stood and bring with them all that they required while the festival
-of the sacrifice lasted. To this festival all the men brought ale with them; and all kinds of
-cattle, as well as horses, were slaughtered, and all the blood that came from them was called
-'hlaut', and the vessels in which it was collected were called hlaut-vessels. Hlaut-staves were
-made, like sprinkling brushes, with which the whole of the altars and the temple walls, both
-outside and inside, were sprinkled over, and also the people were sprinkled with the blood;
-but the flesh was boiled into savoury meat for those present. The fire was in the middle of
-the floor of the temple, and over it hung the kettles, and the full goblets were handed across
-the fire; and he who made the feast, and was a chief, blessed the full goblets, and all the
-meat of the sacrifice. And first Odin's goblet was emptied for victory and power to his king;
-thereafter, Niord's and Freyja's goblets for peace and a good season.'
-
-- Haakon the Good's Saga
-
-
+> #### A Pagan Sacrifice
+> 
+> 'It was an old custom, that when there was to be sacrifice all the freeholders should come to
+> the spot where the temple stood and bring with them all that they required while the festival
+> of the sacrifice lasted. To this festival all the men brought ale with them; and all kinds of
+> cattle, as well as horses, were slaughtered, and all the blood that came from them was called
+> 'hlaut', and the vessels in which it was collected were called hlaut-vessels. Hlaut-staves were
+> made, like sprinkling brushes, with which the whole of the altars and the temple walls, both
+> outside and inside, were sprinkled over, and also the people were sprinkled with the blood;
+> but the flesh was boiled into savoury meat for those present. The fire was in the middle of
+> the floor of the temple, and over it hung the kettles, and the full goblets were handed across
+> the fire; and he who made the feast, and was a chief, blessed the full goblets, and all the
+> meat of the sacrifice. And first Odin's goblet was emptied for victory and power to his king;
+> thereafter, Niord's and Freyja's goblets for peace and a good season.'
+> 
+> - Haakon the Good's Saga
 
 
 Some very important blot are held every nine years, nine being a sacred number, which
@@ -4320,7 +4316,7 @@ their cargoes, make a follow-up sacrifice of sheep or cattle to one of the gods 
 'Truly, my Lord is content with me and has consumed the present I brought him'.
 
 
-Rewards of Worship
+## Rewards of Worship
 Unlike the deities of other mythologies, the Norse gods do not appear to be particularly
 willing to intercede in the affairs of men. In the sagas the few times the gods respond
 to a mortal supplicant, they appear in person and use their own tricks and guile to try
@@ -4347,7 +4343,7 @@ are no cults dedicated to the Norse gods, at least none which offer any sort of 
 for spiritual devotion.
 
 
-Propitiating Gods and Spirits
+### Propitiating Gods and Spirits
 Games Masters who wish to make more use of Viking religion and superstition should
 allow their players to propitiate the gods or spirits when necessary. An Adventurer who
 owns a steading, for instance, can attempt a propitiation to ensure the tomte of the
@@ -4359,55 +4355,54 @@ that everyone observes and performs from childhood. All that is needed is a suit
 animal offering, the expenditure of a single Hero Point and a test against Culture
 (Viking) – which the Games Master should roll and keep the results hidden.
 
-*	 A critical success indicates that the god or spirit is pleased by the offering and ensures
-good fortune smiles upon the venture and that it goes perfectly and profitably.
-*	 A normal success determines that nothing bad occurs during the venture.
-*	 A failure means that the god or spirit is piqued at something said or the meanness
-of the sacrifice and a piece of misfortune strikes during the venture, causing it to
-fail if not overcome.
-*	 A fumble brings down the full displeasure of the entities, resulting in the venture
-failing disastrously.
+* A critical success indicates that the god or spirit is pleased by the offering and ensures
+  good fortune smiles upon the venture and that it goes perfectly and profitably.
+* A normal success determines that nothing bad occurs during the venture.
+* A failure means that the god or spirit is piqued at something said or the meanness
+  of the sacrifice and a piece of misfortune strikes during the venture, causing it to
+  fail if not overcome.
+* A fumble brings down the full displeasure of the entities, resulting in the venture
+  failing disastrously.
 
 
-What no Churches or Guilds!?!
-Some Games Masters will be disappointed at the lack of Divine Magic churches or
-guilds for each of the Norse gods. Although the concept of Priests of Thor casting
-lightning bolts sounds pretty cool, not even the most fantastic of the eddas and sagas
-reflect this type of thing in their entertaining tales. What magic does exist in the stories
-is always a personal ability known by the hero or his enemy. A skilled seidr practitioner
-or shaman is more than capable of performing supernatural miracles.
-
-Put simply, in Legend, the Vikings lack a formal priest class and their gods are incapable
-of granting flashy miracles.
-
-However, not everyone wants to play in a historically based game world. Thus for
-campaigns where the players want to join churches and wield Divine Magic, the author
-suggests purchasing other Legend sourcebooks and adapting the applicable gods of the
-pantheons found in them into their Viking equivalents. For example, a fantasy church
-of Thor would probably match a fantasy Storm God and Tyr is fit for a 'Glorious
-Battle' God's church.
-
-
-
-For example, Arngrim the Tall must face a terrifying berserk in a holmganga and decides
-to propitiate Tyr, asking to be warded from serious injury. Since he is not directly requesting
-victory the Games Master decides that the god will listen to the plea. Burning a Hero
-Point Arngrim sacrifices a horse and the Games Master tests Arngrim's Culture (Own)
-skill, rolling a success. The following day, during the duel Arngrim finds himself badly
-outmatched, already suffering several minor wounds. At a critical moment however, just
-as his arm is about to be severed, the berserk's sword splinters on Arngrim's silver arm ring,
-saving the pious Swede from being maimed. Although the berserk is briefly flummoxed, he
-wrestles Arngrim to the ground and wins the fight anyway but impressed by this good fortune
-the berserk decides Arngrim is a man of bravery and luck, dropping the law case entirely.
-Afterwards Arngrim sacrifices a bull to thank the god properly for his aid.
+> #### What no Churches or Guilds!?!
+> Some Games Masters will be disappointed at the lack of Divine Magic churches or
+> guilds for each of the Norse gods. Although the concept of Priests of Thor casting
+> lightning bolts sounds pretty cool, not even the most fantastic of the eddas and sagas
+> reflect this type of thing in their entertaining tales. What magic does exist in the stories
+> is always a personal ability known by the hero or his enemy. A skilled seidr practitioner
+> or shaman is more than capable of performing supernatural miracles.
+> 
+> Put simply, in Legend, the Vikings lack a formal priest class and their gods are incapable
+> of granting flashy miracles.
+> 
+> However, not everyone wants to play in a historically based game world. Thus for
+> campaigns where the players want to join churches and wield Divine Magic, the author
+> suggests purchasing other Legend sourcebooks and adapting the applicable gods of the
+> pantheons found in them into their Viking equivalents. For example, a fantasy church
+> of Thor would probably match a fantasy Storm God and Tyr is fit for a 'Glorious
+> Battle' God's church.
 
 
-Viking Cosmology
+> For example, Arngrim the Tall must face a terrifying berserk in a holmganga and decides
+> to propitiate Tyr, asking to be warded from serious injury. Since he is not directly requesting
+> victory the Games Master decides that the god will listen to the plea. Burning a Hero
+> Point Arngrim sacrifices a horse and the Games Master tests Arngrim's Culture (Own)
+> skill, rolling a success. The following day, during the duel Arngrim finds himself badly
+> outmatched, already suffering several minor wounds. At a critical moment however, just
+> as his arm is about to be severed, the berserk's sword splinters on Arngrim's silver arm ring,
+> saving the pious Swede from being maimed. Although the berserk is briefly flummoxed, he
+> wrestles Arngrim to the ground and wins the fight anyway but impressed by this good fortune
+> the berserk decides Arngrim is a man of bravery and luck, dropping the law case entirely.
+> Afterwards Arngrim sacrifices a bull to thank the god properly for his aid.
+
+
+## Viking Cosmology
 The myths of the Vikings are rich with imagery. The formation of the world, giants
 and gods is a popular tale, as were the epics of their subsequent battles and adventures.
 
 
-The Beginning
+### The Beginning
 In the beginning there was no world, only Ginnungagap, the yawning void. Within
 the void coalesced the realms of Muspelheimr, the lands of heat and ashes to the south,
 within which lived Surtr the lord of fires; and Nifelheimr, the land of ice and frozen
@@ -4435,7 +4430,7 @@ wounds gushed torrents of icy water, which drowned all of the giants save Bergel
 who built a boat with a roof and rowed to freedom with his family.
 
 
-The Forming of Midgardr
+### The Forming of Midgardr
 Odin and his brothers took Ymir's corpse that filled the void of Ginnungagap and tore
 it into pieces with which they formed the world. His blood became the oceans, his
 flesh the land, his broken bones the mountains, his teeth the cliffs and boulders. The
@@ -4461,7 +4456,7 @@ When they occasionally catch their prey, their light is sometimes blotted out, s
 inhabitants of Midgardr must make noise to scare off the wolves before they can
 consume their victims.
 
-The Creation of Time
+### The Creation of Time
 Norvi, a descendant of the giants that survived the great flood, gave birth to a daughter
 called Nott (night). In turn Nott had three children from three fathers; Aud, Jord
 (earth) and Dag (day). The Æsir gave Nott a chariot of her own to circle Midgardr,
@@ -4474,7 +4469,7 @@ Summer, the son of the god Svasud. Winter inherited a bitter temperament, always
 feuding with Summer, blowing terrible storms when they shifted their control to and fro.
 
 
-Birth of the Alfar, Dvergar and Men
+### Birth of the Alfar, Dvergar and Men
 Whilst creating the earth and heavens, Odin and his brothers discovered maggots
 crawling in the dead flesh of Ymir. They took these creatures and from them formed
 beings. Some became the Alfar, or elves, and were granted their own realm of Alfheimr
@@ -4493,7 +4488,7 @@ who took upon themselves human form and bred with mankind to create many evil
 creatures.
 
 
-Asgardr and Yggdrasil
+### Asgardr and Yggdrasil
 After their hard work the Æsir desired a home of their own. High in the branches of
 Yggdrasil, far above Midgardr, Odin laboured long and hard to shape Asaheimr, better
 known as Asgardr. This land was warm and beautiful filled with the halls of the other
@@ -4507,37 +4502,6 @@ of the Vanir and Jotunheimr the land of giants. The last and dourest was Niflehe
 Helheim, where the souls of those who died of age or misfortune went after death.
 This land was given over to Hel, a daughter of Loki who took up the mantle of their
 guardianship, ruling from her hall Eljudnir (Damp with sleet). Within the realm was
-
-
-Halls of the Gods
-The Æsir of Asgardr have their own halls, built to their wants and needs. For campaigns
-where Adventurers may receive divine visions, or actually journey to Asgardr, the
-following names and descriptions are provided:
-
-*	 Bilskirnir (Lightning-crack) – Thor's hall of 540 rooms located in Thrudheim
-(Field of the strong).
-*	 Breidablik (Broad-shining) – Baldr's magnificent hall where nothing unclean
-exists.
-*	 Fensalir (Water-falls) – Frigg's hall.
-*	 Gladsheim (Bright-home) – The meeting hall of the Æsir on the plains of Idavoll.
-*	 Glitnir (Splendour) – The silver and gold hall of Forseti, son of Baldr.
-*	 Himinbjorg (Mountain in the clouds) – Heimdallr's hall, located next to the
-Bifrost bridge.
-*	 Noatun (Ship-yard) – Niord's hall.
-*	 Sessrumnir (Seat-room) – Freyja's hall in Folkvangr (Folk-field) where those
-warriors who do are not chosen to join Odin's Einherjar go.
-*	 Sokvabekk (Deep-stream) – The crystal hall of Saga, daughter of Odin.
-*	 Valaskjalf (Seat of the Slain) – Odin's silver roofed hall in which his high throne
-Hlidskjalf stands.
-*	 Valhalla (Hall of the Slain) – The hall where Odin's Einherjar, the chosen of those
-who fall in battle, are hosted. It is located at the edge of Vigrid, the plane where
-the final battle will occur.
-*	 Vidi (Wooden) – Vidar's hall.
-*	 Vingolf (Friends-hall) – The hall of the goddesses which lies upon Idavoll, the
-central plain of Asgard.
-*	 Ydalir (Yew-dale) – Ullr's hall.
-
-
 
 Nastrond, a hall where no light reached, covered with serpent skins and dripping
 with venom, where the corpses of evil doers were sucked upon by a great wyrm. The
@@ -4554,7 +4518,37 @@ and a squirrel Rataosk (Teeth-that-find) darts up and down the trunk carrying in
 between the eagle and the wyrm.
 
 
-The Time of Great Deeds
+#### Halls of the Gods
+
+The Æsir of Asgardr have their own halls, built to their wants and needs. For campaigns
+where Adventurers may receive divine visions, or actually journey to Asgardr, the
+following names and descriptions are provided:
+
+* Bilskirnir (Lightning-crack) – Thor's hall of 540 rooms located in Thrudheim
+  (Field of the strong).
+* Breidablik (Broad-shining) – Baldr's magnificent hall where nothing unclean
+  exists.
+* Fensalir (Water-falls) – Frigg's hall.
+* Gladsheim (Bright-home) – The meeting hall of the Æsir on the plains of Idavoll.
+* Glitnir (Splendour) – The silver and gold hall of Forseti, son of Baldr.
+* Himinbjorg (Mountain in the clouds) – Heimdallr's hall, located next to the
+  Bifrost bridge.
+* Noatun (Ship-yard) – Niord's hall.
+* Sessrumnir (Seat-room) – Freyja's hall in Folkvangr (Folk-field) where those
+  warriors who do are not chosen to join Odin's Einherjar go.
+* Sokvabekk (Deep-stream) – The crystal hall of Saga, daughter of Odin.
+* Valaskjalf (Seat of the Slain) – Odin's silver roofed hall in which his high throne
+  Hlidskjalf stands.
+* Valhalla (Hall of the Slain) – The hall where Odin's Einherjar, the chosen of those
+  who fall in battle, are hosted. It is located at the edge of Vigrid, the plane where
+  the final battle will occur.
+* Vidi (Wooden) – Vidar's hall.
+* Vingolf (Friends-hall) – The hall of the goddesses which lies upon Idavoll, the
+  central plain of Asgard.
+* Ydalir (Yew-dale) – Ullr's hall.
+
+
+### The Time of Great Deeds
 After the nine realms formed, the Æsir began their great deeds. Odin sought knowledge
 exchanging an eye for a drink from Mimir's well and sacrificed himself to Yggdrasil
 hanging for nine days and nights to find the secret of the Runes. He then stole the
@@ -4572,34 +4566,6 @@ whose power could slay giant's with a single blow. He also brought many evils, t
 of them his own children, the huge ravening wolf Fenrir and the Midgardr serpent
 Jormungandr, fated to kill Odin and Thor at the end of the world.
 
-
-
-The Nine Worlds
-Much confusion abounds concerning the relationship of the nine worlds and how
-they connect with one another. Although they are variously described as lands, realms
-and worlds in the eddas, the tales often contradict one another. In some stories the
-lands appear to be physically divided by rivers or mountain ranges whereas other tales
-indicate more magical separations, such as the rainbow bridge connecting Asgardr with
-Midgardr.
-
-No actual definition is provided here, save that Yggdrasil connects them all. For a
-fantasy Viking campaign it is recommended that Adventurers undertake spirit quests
-or utilise magical portals to reach the other realms, an elf-door in a hillside connecting
-to Alfheimr for example. For mythic campaigns it is probably better to have most of the
-realms physically connected so that heroes can surmount the barriers by wit and skill.
-
-For easier reference the nine realms of Norse cosmology are:
-*	 Nifelheimr – The land of ice and cold.
-*	 Muspelheimr – The land of smoke and fire.
-*	 Midgardr – Middle Earth where mankind resides.
-*	 Alfheimr – The land of the elves.
-*	 Svartalfaheimr – The land of the dwarfs.
-*	 Asgardr – The home of the warlike Æsir, reached only by the Bifrost Bridge.
-*	 Vanaheimr – The home of the Vanir, gods of fertility.
-*	 Jotunheimr – The land of the giants.
-*	 Niflehel – The land of the dead.
-
-
 The giants feuded long and hard against the Æsir, many battles and quests were
 pursued between the rivals. Amongst them were the theft of Mjollnir, the challengers
 and cheating of Utgardaloki, the horse race between Odin and Hrungnir.
@@ -4614,19 +4580,45 @@ This final deed however, promulgates the eventual end of the gods. Odin retreats
 atop his high throne, grimly watching the world for signs of the long foretold fimbulvetr
 (Mighty-winter) heralding the end of the world.
 
+#### The Nine Worlds
+Much confusion abounds concerning the relationship of the nine worlds and how
+they connect with one another. Although they are variously described as lands, realms
+and worlds in the eddas, the tales often contradict one another. In some stories the
+lands appear to be physically divided by rivers or mountain ranges whereas other tales
+indicate more magical separations, such as the rainbow bridge connecting Asgardr with
+Midgardr.
 
-Ragnarok
+No actual definition is provided here, save that Yggdrasil connects them all. For a
+fantasy Viking campaign it is recommended that Adventurers undertake spirit quests
+or utilise magical portals to reach the other realms, an elf-door in a hillside connecting
+to Alfheimr for example. For mythic campaigns it is probably better to have most of the
+realms physically connected so that heroes can surmount the barriers by wit and skill.
+
+For easier reference the nine realms of Norse cosmology are:
+
+* Nifelheimr – The land of ice and cold.
+* Muspelheimr – The land of smoke and fire.
+* Midgardr – Middle Earth where mankind resides.
+* Alfheimr – The land of the elves.
+* Svartalfaheimr – The land of the dwarfs.
+* Asgardr – The home of the warlike Æsir, reached only by the Bifrost Bridge.
+* Vanaheimr – The home of the Vanir, gods of fertility.
+* Jotunheimr – The land of the giants.
+* Niflehel – The land of the dead.
+
+
+### Ragnarok
 For the Vikings the cataclysmic battle of Ragnarok, twilight of the gods, has yet to
 happen. Although Odin knew that a great war would come, not even he could foretell
 the future. The Norns would not tell him what he desired, so in disguise he visited the
 wisest of all Volva who gave him this prophesy.
 
-Brothers will fight and kill each other,
-sisters' children will defile kinship.
-It is harsh in the world, whoredom rife –
-an axe age, a sword age, shields are riven
-a wind age, a wolf age – before the world goes headlong.
-No man will have mercy on another
+> Brothers will fight and kill each other,
+> sisters' children will defile kinship.
+> It is harsh in the world, whoredom rife –
+> an axe age, a sword age, shields are riven
+> a wind age, a wolf age – before the world goes headlong.
+> No man will have mercy on another
 
 After an eternity of chasing, the wolves Skoll and Hati will catch the chariots of Sol
 and Mani, devouring them. In the darkness that follows comes three years of terrible
@@ -4646,23 +4638,6 @@ In the titanic struggle Odin is slain by Fenrir, who in turn is killed by Odin's
 Vidar who tears apart the jaws of the dire wolf. Tyr battles Garm the hound of Hel but
 hindered by his single hand both slay one another. Freyr, lacking his magical sword is
 slaughtered by Surtr. Heimdallr and Loki in mutual hatred kill each other. Thor in a
-
-
-The Days of the Week
-The Viking names of the weekdays are based upon names of the Norse gods.
-
-English Name                Norse Name                   Origin
-Monday                      Manadagr                     Moon's Day
-Tuesday                     Tysdagr                      Tyr's Day
-Wednesday                   Ódinsdagr                    Odin's Day
-Thursday                    Thorsdagr                    Thor's Day
-Friday                      Frjadagr                     Freyr's Day
-Saturday                    Laugardagr                   Washing Day
-Sunday                      Sunnudagr                    Sun's Day
-
-
-
-
 valiant struggle defeats Jormungand but nine steps later is overcome by the poison. The
 thrashing of the serpent causes a cataclysmic flood whilst Surtr will burn Yggdrasil and
 all the nine realms.
@@ -4672,8 +4647,21 @@ of Thor, Modi and Magni; and the brothers Baldr and Hoder will return from the
 realm of Hel. Of mankind only Lif and Lifthrasir survive the flames to repopulate a
 rejuvenated Midgardr free of evil and misfortune.
 
+#### The Days of the Week
+The Viking names of the weekdays are based upon names of the Norse gods.
 
-The Gods
+| English Name              | Norse Name                 | Origin |
+|---------------------------|----------------------------|--------|
+| Monday                    | Manadagr                   | Moon's Day |
+| Tuesday                   | Tysdagr                    | Tyr's Day |
+| Wednesday                 | Ódinsdagr                  | Odin's Day |
+| Thursday                  | Thorsdagr                  | Thor's Day |
+| Friday                    | Frjadagr                   | Freyr's Day |
+| Saturday                  | Laugardagr                 | Washing Day |
+| Sunday                    | Sunnudagr                  | Sun's Day |
+
+
+## The Gods
 The gods of the Vikings are both the Æsir and Vanir who rule in Asgard and the
 giants who control the elemental powers. They have many tales associated with them,
 of which many still survive to the modern day. A Games Master who is considering
@@ -4683,65 +4671,53 @@ ever present threat of the giants.
 
 A quick overview of each god follows.
 
-
-Aegir (The Ale Brewer)
+### Aegir (The Ale Brewer)
 The god of the sea. He is a giant, son of Mistblindi, brother of Logi and married to
 Ran. Aegir was a neutral deity with whom the Æsir remained cordial.
 
-
-Baldr (The Bright One)
+### Baldr (The Bright One)
 The son of Odin and Frigg, fated to be accidentally killed by his brother Hodr. Balder
 is known as a gentle and wise god, for which he is fated to return after Ragnarok. He is
 also known as Balder or Baldur.
 
-
-Bor (The Son)
+### Bor (The Son)
 The son of Buri and married to the giantess Bestla, the 'Little Sauna Woman', with
 whom he fathered Odin, Vili and Ve.
 
-
-Bragi (Best, Highest)
+### Bragi (Best, Highest)
 The god of poetry and eloquence, patron of skalds. He is a son of Odin and Gunnlod,
 and husband to Idun. Bragi greets the new arrivals at Valhalla with songs of their heroic
 deeds.
 
-
-Buri (Good Looking)
+### Buri (Good Looking)
 The ancestor of the gods. Freed from the primordial ice by the cow Audmula licking
 him free. Buri was the only god to die of old age since he lived before the Aplles of
 Idun were grown.
 
-
-Day
+### Day
 The son of Nott and Delling. He drives a chariot around Midgardr drawn by his horse
 Skinfaxi.
 
-
-Delling (Dawn)
+### Delling (Dawn)
 The guard at the hall Breidablik and lover of Nott. He is the father of his son Day.
 
-
-Eir (Mercy)
+### Eir (Mercy)
 Goddess of healing and medicine, a handmaiden to Frigga. She is the daughter of
 Njord and sister to Freya.
 
-
-Fjorgynn
+### Fjorgynn
 The god of weather and father of Frigga.
 
-
-Forseti (The Presiding One)
+### Forseti (The Presiding One)
 The god of peace and justice, who lives in the hall Glitner. He is the son of Balder and
 Nanna.
 
-
-Freyja (The Lady)
+### Freyja (The Lady)
 The goddess of seidr magic. She is one of the Vanir, daughter of Njord and sister
 of Freyr. She owns the necklace Brisingamen for which she slept with its four dwarf
 creators. She was once married to Od who disappeared and weeps tears for his loss.
 
-
-Freyr (The Lord)
+### Freyr (The Lord)
 The god of fertility and protector of sailors. He is also one of the Vanir, who was
 exchanged as a hostage as part of the peace settlement between the Æsir and Vanir.
 Son of Njord and brother of Freyja, he owns many enchanted objects, the boar
@@ -4749,19 +4725,16 @@ Gullinbursti, the ship, Skidbladnir and once owned a magic sword that fought by 
 but exchanged it to marry the giantess Gerd. He rules over Alfheim and fathered the
 royal line of the Yngling family.
 
-
-Frigg (The Loving)
+### Frigg (The Loving)
 The goddess of prophetic magic and childbirth, she can see the fate of all but chooses
 not to prophesise. Daughter of Fjorgynn she is the wife of Odin and mother of six sons
 and one daughter, including Baldr and Hodr.
 
-
-Fulla (The Filler)
+### Fulla (The Filler)
 The maiden sister of Frigga she bears a small chest containing the powers of life and
 death.
 
-
-Gefjun (The Gift Giver)
+### Gefjun (The Gift Giver)
 The goddess of fertility, who married a giant and had four sons. When commanded by
 Odin to seek land from Gylfi the king of Sweden, the king amusedly promised her as
 much land as she could plough in a day. Changing her sons into oxen she ploughed a
@@ -4769,8 +4742,7 @@ vast section of land, which she carried down to the bottom of the sea. She then 
 Skjold a son of Odin, birthed the royal line of the Skioldungs and became the guardian
 of all those who died unwedded, granting them a life of eternal happiness.
 
-
-Gullveig (Gold Thirst)
+### Gullveig (Gold Thirst)
 A Vanir goddess who is the patroness of evil women. She came to live with the Æsir as a
 handmaiden of Freyja but her delight in practicing evil seidr caused the gods to cast her
 onto a fire three times to be burned. She survived each attempt so the Æsir magically
@@ -4778,8 +4750,7 @@ bound her to the Ironwood in Jotunheimr. There she slept with Loki and bore him
 three monstrous offspring, Hel, Fenrir and Jormungand. The treatment of Gullveig
 caused the initial war between the Æsir and Vanir.
 
-
-Heimdallr (Heaven's Mount)
+### Heimdallr (Heaven's Mount)
 The watchman of the gods. Heimdallr was the son of nine mothers (the sea daughters of
 Aegir) and a charm cast by Odin. At birth he was set within a small boat which washed
 up in Midgardr. There he taught crafts and social organisation to mankind, sleeping
@@ -4790,8 +4761,7 @@ to guard the Bifrost Bridge. Heimdallr has teeth of gold, barely sleeps and can 
 hear for hundreds of miles. He blows the magical horn Gjallar when visitors come to
 Asgardr.
 
-
-Hel (Death)
+### Hel (Death)
 The goddess of death and daughter of Loki, Hel rules over Niflhel where the dead who
 do not journey to Asgardr come. By Odin's will she commands the dead of all nine
 worlds in exchange for her oath that those sent to her are granted the hospitality of her
@@ -4800,16 +4770,14 @@ of long dead flesh) and half normal. Whilst her realm is cold it is not a terrib
 but a hall of restful peace for those who die of old age or misfortune. She punishes evil
 doers by sending them to Nastrond.
 
-
-Hermod (Fast)
+### Hermod (Fast)
 The god of swift travelling, messengers and bravery. Hermod is a son of Odin and
 Frigga. He rescues Freyja from the giants in Jotunheimr. He alone volunteers to take
 the terrifying journey down to Hel to ask for the return of his brother Balder. It is
 also Hermod who acts as a secret liaison between Freyr and Gerd to negotiate their
 wedding.
 
-
-Hoder (War)
+### Hoder (War)
 The god of war and a son of Odin and Frigga. Driven by an evil potion, which filled
 his heart with love for Nanna, Baldr's bethrothed, he joined a war band of giants, in
 revolt against Asgardr. Blinded in the battle, they were defeated and the repentant
@@ -4817,29 +4785,24 @@ Hoder returned to Asgardr with his brother Baldr. Tricked by Loki to fire an arr
 of mistletoe at Baldr, he unwittingly killed his brother. None of the Æsir would harm
 Hoder in proper retaliation so Vali was born to perform the deed.
 
-
-Honir
+### Honir
 A warrior god respected for his aggressiveness and bravery. He was sent to the Vanir
 along with Mimir to seal the truce between them and the Æsir but when he refused
 to speak with the leader of the Vanir they beheaded Mimir and sent the head back to
 Odin in displeasure.
 
-
-Idun (She Who Renews)
+### Idun (She Who Renews)
 The goddess of eternal life, she is the guardian of the golden apples of youth and wife
 of Bragi. Each year she grants one of her apples to each of the gods.
 
-
-Jord (Earth)
+### Jord (Earth)
 The daughter of Nott and Annar. She is the goddess of the earth and the mother of
 Thor.
 
-
-Lofn (Love)
+### Lofn (Love)
 The goddess of passion and illicit love affairs, she removes the barriers between lovers.
 
-
-Loki (Fire)
+### Loki (Fire)
 Originally the god of fire, his sly nature changed him to become a trickster god, capable
 of great cunning but flawed with a sadistic and cowardly nature. He is the son of
 giants Farbauti (Cruel Smiter) and Laufrey. He married three times producing many
@@ -4854,13 +4817,12 @@ salmon, a fly, a horse and many other creatures. Responsible for the death of Ba
 his is bound by the entrails of his son Narfi until Ragnarok whilst a serpent placed by
 Skadi drips venom in his eyes.
 
-Magni (The Powerful)
+### Magni (The Powerful)
 The god of strength, Magni is a son of Thor and the giantess Jarnsaxa. He will slay
 the great wyrm Nidhogg at Ragnarok. With his brother Modi he will inherit Thor's
 hammer Mjollnir.
 
-
-Mimir (The Murmuring)
+### Mimir (The Murmuring)
 A giant who was the keeper of Mimisbrunnr the Well of Wisdom. He granted his
 nephew Odin the chance to drink from the well in exchange for an eye. Mimir was
 the wisest of all folk, knowing everything. He was sent to the Vanir to seal the truce
@@ -4868,59 +4830,50 @@ between them and the Æsir but was beheaded by the angered deities. His head was
 back to Odin who revived it using a magical galdr. The head now remains guarding the
 well where it sometimes speaks with the All-Father.
 
-
-Modgud
+### Modgud
 The skeletal maiden who guards the Gjallarbridge over the river Gjoll in Jotenheim,
 which leads to Niflhel. All those who wish to cross must first give blood and tell her
 their name and family.
 
-
-Modi (The Brave)
+### Modi (The Brave)
 God of courage and son of Thor and the giantess Jarnsaxa. He is fated to survive
 Ragnarok with his brother of Magni.
 
-
-Mani (Moon)
+### Mani (Moon)
 The god of the moon, Mani is the son of Mundilfari. He steers the chariot of the moon
 on its course, keeping ahead of the wolf Hati.
 
-
-Nanna
+### Nanna
 The Æsir wife of Baldr and mother of Forseti, who dies of a broken heart after her
 husband dies and is burned with him on his funeral boat.
 
-
-Njord (Stiller of Storms)
+### Njord (Stiller of Storms)
 The Vanir god of seafaring, he commands the wind and waves. The son of Nott and
 father of Freyja and Freyr. He briefly married Skadi but broke up when neither liked
 the other's home.
 
-
-Norns, the
+### Norns, the
 The three norns are Urd 'that which became', Verandi 'that which is happening' and
 Skuld 'that which must be'. They respectively represented the past, present and future.
 They are the guardians of Urdarbrunnr, the Well of Fate and they decide the wyrd of
 all men and gods.
 
-I know an ash that stands, called Yggdrasil
-a tall tree, wet with white dews,
-dews dripping down into the dales.
-Ever green it stands over Urth's well.
-From there come three maidens, deep in lore,
-from the water that stands under the tree.
-One is called Urth, the other Verthandi,
-the third Skuld. Scores they carved,
-laws they laid, lives they chose.
-They worked Orlög for the sons of men.
+> I know an ash that stands, called Yggdrasil
+> a tall tree, wet with white dews,
+> dews dripping down into the dales.
+> Ever green it stands over Urth's well.
+> From there come three maidens, deep in lore,
+> from the water that stands under the tree.
+> One is called Urth, the other Verthandi,
+> the third Skuld. Scores they carved,
+> laws they laid, lives they chose.
+> They worked Orlög for the sons of men.
 
-
-
-Nott (Night )
+### Nott (Night )
 The daughter of Narvi and mother of Day, Nott is the goddess of night. She rides
 around Midgardr on her chariot drawn by Hrimfaxi, followed by her son.
 
-
-Odin (Spirit)
+### Odin (Spirit)
 The god of runes, shamanistic magic, battle and death. Odin is the chief of all
 the Æsir. He has many names and many disguises, which he uses when travelling
 the nine realms. His most common kennings are the 'all-father', the 'terrible one',
@@ -4942,65 +4895,55 @@ with the nine daughters of Ran was produced Heimdallr. As if this was not enough
 often meets with Saga in the crystal hall of Sokvabek and sometimes sleeps with Skadi
 his mistress of the Wild Hunt.
 
-
-Ran (The Ravager)
+### Ran (The Ravager)
 The Vanir goddess of sea and death. She is the wife of Aegir and mother to nine
 daughters. It is her responsibility to collect drowned people in her net but being of
 malicious nature she sometimes uses it to drag still living men down under the waves.
 
-
-Rind (Rime)
+### Rind (Rime)
 The goddess of the cold and frozen earth. Rind is a giantess and lover of Odin, with
 whom she bore Vali.
 
-
-Saga (Seeress)
+### Saga (Seeress)
 Goddess of recall and memory. An attendant of Frigga she lives in her hall beside
 the stream of time, from which she quaffs deeply, alongside her consort and drinking
 companion of Odin.
 
-
-Sif
+### Sif
 The goddess of summer and grain. She is the second wife of Thor with whom she bore
 Magni and Modi. Sif and can shape-shift into the form of a swan. She once had her
 golden hair cut off by Loki but the dwarfs forged her new hair from pure gold, which
 magically bound itself to her scalp.
 
-
-Sigyn (The Faithful)
+### Sigyn (The Faithful)
 The goddess of monogamy, Sigyn is the faithful Æsir wife of Loki and mother of Vali
 and Narfi. After her husband was bound and punished she remained with him, standing
 with a bowl to capture the serpent venom, which drips into his eyes. Occasionally she
 must empty the bowl, which is when Loki writhes in pain sending earthquakes through
 Midgardr.
 
-
-Sjofn (Affection)
+### Sjofn (Affection)
 The Æsir goddess of love and passion, she prevents fights between married couples.
 
-
-Skadi (Harm)
+### Skadi (Harm)
 The bringer of snow and goddess of wintertime destruction. The daughter of the Giant
 Thjatsi she sought revenge for her father's death by the gods. Falling in love with Baldr
 she accepts a settlement of marrying one of the Æsir based on his feet but mistakenly
 chooses the most beautiful pair which belonged to Njord. Their marriage did not last
 and she married Ullr instead. With her scathing nature she leads the Wild Hunt.
 
-
-Sol (Sun )
+### Sol (Sun )
 Daughter of Mundilfari and brother of Mani, she guides the chariot of the sun, bearing
 the magical shield Svalin (Cool) to protect herself from the heat. She is eternally chased
 by the wolf Skoll who will consume her before Ragnarok.
 
-
-Syn (Truth)
+### Syn (Truth)
 The guardian goddess of doorways and love. An attendant of Frigga she guards the door
 to her palace, preventing access to those not invited. Once she has decided, nothing
 can sway her decision. She presides over law trials and her name is invoked whenever a
 decision is to be vetoed 'Syn is against it'.
 
-
-Thor (The Thunderer)
+### Thor (The Thunderer)
 God of lightning, thunder, craftsmanship, fertility, defence and strength. Thor is the
 son of Odin and Jord, and married to Sif. He protects Asgardr from the giants by the
 threat of his wondrous hammer Mjollnir and owns a magical belt called Megingjardar
@@ -5010,14 +4953,12 @@ the north and wades through the sea to enter Midgardr. Hot headed he often slays
 giants out of pique and is doomed to face the great serpent Jormungand several times
 before he final slays it and is slain himself at Ragnarok.
 
-
-Thrud (Power)
+### Thrud (Power)
 The unusually strong daughter of Thor and Sif. Promised to the dwarf Alvis in exchange
 for a deed, Thor cruelly tricked him causing the dwarf to turn to stone. She becomes
 one of the Valkeries.
 
-
-Tyr (The One Handed)
+### Tyr (The One Handed)
 The god of war and honour, he grants victory against the odds to those who deserve it.
 He presides over contracts, law cases and assembly votes at the thing. An older god from
 before Odin, no one knows where he came from. Tyr bravely agreed to place his hand in
@@ -5026,18 +4967,15 @@ that Fenrir would be released if he could not break free; Tyr fully understandin
 was sacrificing his limb. When the gods betrayed their side of the bargain, Tyr had his
 hand bitten off but considered it a worthy exchange in order to keep the evil wolf bound.
 
-
-Ullr (The Brilliant One)
+### Ullr (The Brilliant One)
 The god of archery and skiing, Ullr is the patron of hunters. The step-son of Thor from
 a previous marriage of Sif, Ullr is one of the Vanir. His name comes from the Aurora
 Borealis, which lights up the heavens when he rules in Asgardr in the winter.
 
-
-Vali
+### Vali
 The son of Odin and the giantess Rind. He was birthed solely to avenge the death of Balder.
 
-
-Valkyries, the (Choosers of the Slain)
+### Valkyries, the (Choosers of the Slain)
 The disir sent to select those warriors fallen in battle worthy of being brought to
 Valhalla, or serve the Einherjar in the evening banquets. Also known as Shield Maidens
 or Corpse Goddesses, they can shape-shift as swans or ravens, or they ride through the
@@ -5053,30 +4991,25 @@ and Herfjotur, Goll and Geirahod, Randgridr and Reginleif. These serve ale to th
 Einheriar. Gunnr and Rota and the youngest norn, called Skuld, always ride to choose
 who shall be slain and to govern the killings.'
 
-
-Var (Awareness)
+### Var (Awareness)
 The goddess of oaths and marriage vows. A handmaiden of Frigga she punishes those
 who break their oaths, especially those between men and women.
 
-
-Ve (Holy)
+### Ve (Holy)
 Son of Bor and brother of Odin and Vili. He granted mankind perception.
 
-
-Vidar
+### Vidar
 Son of Odin and the giantess Grid who will avenge Odin's death after Ragnarok.
 
-
-Vili (Will)
+### Vili (Will)
 Son of Bor and brother of Odin and Ve. He gave mankind thought and motion.
 
-
-Vor (Insightful)
+### Vor (Insightful)
 The goddess of inquisitive perception, with Var she is a handmaiden of Frigga and
 helps punish those who break vows.
 
 
-Divine Gifts
+## Divine Gifts
 Games Masters who wish to run a heroic fantasy or a mythic Viking campaign can
 grant their players a Divine Gift, something they are born with which helps boost their
 natural capabilities. In the sagas are many examples of royal lines with traces of divine
@@ -5096,57 +5029,57 @@ could potentially be duplicated by some gift of magical effect during a campaign
 drinking from the Well of Mimir for example might replicate the gift of Sagacity.
 
 
-Gifts of the Gods
+### Gifts of the Gods
 Each of the following powers is either considered permanently active, such as a Characteristic
 increase, or costs the user a single Magic Point to activate with no chance of failure.
 
-Agility
+#### Agility
 The gift increases the recipient's DEX to his maximum rolled value plus an additional 1D6.
 
-Allurement
+#### Allurement
 The gift increases the recipient's CHA to his maximum rolled value plus an additional 1D6.
 
-Animal Tongue
+#### Animal Tongue
 The recipient can understand the speech of the birds and animals. What they say might
 not be particularly interesting however.
 
-Bear Skin
+#### Bear Skin
 The recipient owns a magical bear skin, which provides him with 7 Armour Points all
 over his body but only has a Strike Rank Penalty of –5. This protection only counts
 against iron weapons or fire and is treated as a normal bear skin against other types of
 damage (3 points). If the skin is lost, then if the Adventurer kills and skins another bear
 single-handedly, the new skin adopts the same powers.
 
-Beguiling Voice
+#### Beguiling Voice
 For the investment of a Magic Point the user can force everyone within audible range to
 turn and pay attention to the user, captivated by the tone and power of their voice. The
 user must first succeed in an unopposed Influence, Oratory, Poetry or Sing test to captivate
 his audience, after which he can retain their focus for as long as they can continue the
 performance. An aggressive action automatically breaks the effect of his voice.
 
-Breathe Water
+#### Breathe Water
 The recipient can breathe water as if it were air. They can still be strangled however if
 their windpipe is blocked.
 
-Darksight
+#### Darksight
 The recipient gains the Night Sight trait.
 
-Endurance
+#### Endurance
 The gift increases the recipient's
 
-Ferocity
+#### Ferocity
 When fighting the recipient enters a berserk rage. During this time they may ignore
 any Resilience tests to resist wounds. Note that if they receive a Major Wound they still
 become incapacitated but ignore the chance of instant death or losing a limb.
 
-Immune to Fear
+#### Immune to Fear
 The recipient automatically succeeds in any test against fear, magical or otherwise.
 
-Lucky
+#### Lucky
 Before any skill is rolled the user may spend a Magic Point to get an additional roll,
 picking the best result.
 
-Natural Shape-shifter
+#### Natural Shape-shifter
 The user may choose an animal whose average SIZ Characteristic value is no more
 than twice their own. The user can then change into that form at will, for the cost of
 a single Magic Point. Changing requires a single Combat Action and causes all the
@@ -5155,32 +5088,32 @@ change is unlimited and there is no risk of losing their personality. The animal
 has no additional protection other than its natural skin but retains any unusual forms
 of locomotion, perception or breathing it might have.
 
-Rime Blooded
+#### Rime Blooded
 The recipient is immune to cold of any form.
 
-Sagacity
+#### Sagacity
 The gift increases the recipient's INT to his maximum rolled value plus an additional 1D6.
 
-Second Sight
+#### Second Sight
 The recipient gains a continual ability to see spirits and magic.
 
-Strength
+#### Strength
 The gift increases the recipient's STR to his maximum rolled value plus an additional 1D6.
 
-Swift Footed
+#### Swift Footed
 This gift allows the user to run like the wind. Their natural movement rate is twice
 normal.
 
-Vitality
+#### Vitality
 The recipient cannot become ill or sick. In addition they never lose any Fatigue.
 
-Wind Wise
+#### Wind Wise
 The recipient can knot winds into pieces of rope or leather bags. Using the gift
 temporarily ties up Magic Points for each wind so captured but the wind is trapped
 within the knot, causing a calm for kilometres in all directions. If the knot or bag is
 undone, that wind is released anew and the Magic Points can henceforth regenerate.
 
-Wolf Coat
+#### Wolf Coat
 Similar to the Bear Skin gift, a Wolf Coat only provides 6 Armour Points all over but
 has no Strike Rank penalty. The protection only counts against iron or fire, being
 considered a normal wolf skin against other forms of damage (2 points). Likewise the
@@ -5188,7 +5121,7 @@ coat can be replaced if the Adventurer kills and skins the leader of a wolf pack
 handedly. CON to his maximum rolled value plus an additional 1D6.
 
 
-                                 Viking Magic
+# Viking Magic
 Magic is a fundamental aspect of Viking superstition. Their world is filled with witches
 and sorcerers who can sing spells, rune carvers that can cut mystical symbols into
 charms, seers whom can foretell the future, shaman from the far north that summon
@@ -5217,12 +5150,12 @@ To replace them, several new types of magic are introduced in this chapter. Spir
 remains but with a few minor changes to reflect the practices used in the Viking Age.
 
 
-Using Magic in Viking Campaigns
+## Using Magic in Viking Campaigns
 A number of options are available to Games Masters when designing a Viking
 campaign. These should be carefully considered since the result can radically change
 the feel of the game
 
-Historical Campaigns
+### Historical Campaigns
 If running a real world historical campaign, magic of course does not work. However,
 since most spells have little or no observable effect, Vikings witnessing rituals and
 incantations may still believe in the magic. In such situations the spell casting roll can
@@ -5242,7 +5175,7 @@ application of psychology can result in effects greater than any 'true' spell, a
 doom-saying twisting the result of an entire battle for instance!
 
 
-Fantasy Campaigns
+### Fantasy Campaigns
 In fantasy Viking campaigns magic is rare but potent. Adventurers are still based in
 the real world but spells should work as described later in this chapter. This can add a
 great deal of atmosphere to a game, especially considering how common folk fear and
@@ -5260,7 +5193,7 @@ user can be augmented with the loan of rune charms or spirit fetishes to aid the
 difficult adventures.
 
 
-Mythic Campaigns
+### Mythic Campaigns
 Mythic campaigns are those which take place across the other worlds of Scandinavian
 cosmology, allowing Adventurers to meet – or even be related to – the gods, aiding
 them in their battles against the giants.
@@ -5270,7 +5203,7 @@ and oracular visions abound. Every Adventurer should know a few charms or own an
 of power to be able to handle the monstrous challenges present in the nine worlds.
 
 
-The Source of Magic
+## The Source of Magic
 Magic comes from the Runes. They are the source of all wisdom and authority, existing
 from before the world began and will continue beyond the destruction of Ragnarok.
 
@@ -5279,11 +5212,11 @@ sacrificed an eye to drink from the well of wisdom, before sacrificing himself o
 world tree Yggdrasil – hanging upside-down for nine days, impaled by his own spear –
 until the Runes appeared to him.
 
-Now is answered what you ask of the runes, 
-Graven by the gods, 
-Made by the All Father, 
-Sent by the powerful sage:
-It is best for man to remain silent. 
+> Now is answered what you ask of the runes, 
+> Graven by the gods, 
+> Made by the All Father, 
+> Sent by the powerful sage:
+> It is best for man to remain silent. 
 
 Although there are many forms of shamanism and Scandinavian sorcery, ultimately
 they are just alternative paths to tap the same powers. Similar 'magical effects' can
@@ -5301,24 +5234,26 @@ symbols in use during the Viking Age. Each has its own name and realm of effect,
 which can be extrapolated to be more inclusive. Game Masters can use these looser
 interpretations to assign individual charms with particular rune combinations.
 
-Younger Furthark Runes
-Name             Meaning          Suggested Magical Resonance
-Fe               wealth           silver, cattle, land
-Ur               iron             weapons, bull, beast
-Thurs            giant            Thor, battle
-As               Æsir             the gods, authority, law
-Reidh            ride             horse, movement, ship
-Kaun             ulcer            curse, pain, unhappiness
-Hagall           hail             wind, storms, destruction
-Naudhr           need             desire, lust, greed
-Is               ice              cold, dark, hunger
-Ar               plenty           happiness, fertility
-Sol              sun              warmth, fire
-Tyr              battle           victory, justice, honour
-Bjarkan          birch            rebirth, healing, growth
-Madhr            man              emotion
-Logr             water            sea, lake, rain
-Yr               yew              poison
+#### Younger Furthark Runes
+
+| Name           | Meaning        | Suggested Magical Resonance |
+|----------------|----------------|-----------------------------|
+| Fe             | wealth         | silver, cattle, land        |
+| Ur             | iron           | weapons, bull, beast        |
+| Thurs          | giant          | Thor, battle                |
+| As             | Æsir           | the gods, authority, law    |
+| Reidh          | ride           | horse, movement, ship       |
+| Kaun           | ulcer          | curse, pain, unhappiness    |
+| Hagall         | hail           | wind, storms, destruction   |
+| Naudhr         | need           | desire, lust, greed         |
+| Is             | ice            | cold, dark, hunger          |
+| Ar             | plenty         | happiness, fertility        |
+| Sol            | sun            | warmth, fire                |
+| Tyr            | battle         | victory, justice, honour    |
+| Bjarkan        | birch          | rebirth, healing, growth    |
+| Madhr          | man            | emotion                     |
+| Logr           | water          | sea, lake, rain             |
+| Yr             | yew            | poison                      |
 
 Although the Runes are the keys to invoking magic, the energy to manifest a spell
 comes from the sorcerer. Each person has their own hamingja, which is their personal
@@ -5326,7 +5261,7 @@ reserve of mystical power or, in Legend terms, their Magic Points. The Vikings t
 hamingja as a type of fiery energy.
 
 
-The Forms of Viking Magic
+## The Forms of Viking Magic
 The magic recorded in the Viking eddas and sagas is, like their supernatural creatures,
 a perplexing mess of conflicting ideas, names and traditions. This confusion makes it
 difficult to model Scandinavian magic with any accuracy. For example, depending on
@@ -5336,11 +5271,11 @@ channelling the gods, shape-shifting and even spell chanting.
 To greatly simplify things, Viking magic in this book has been roughly grouped into
 the following five categories.
 
-*	   Rune Carving: Invoking the runes by carving them into enduring physical charms.
-*	   Seidr: The verbal incantation of runes either by chanting or singing.
-*	   Shape-shifting: Physically changing form with the use of animal skins.
-*	   Spa: Prophesy using personal intuition, casting runes or questioning the dead.
-*	   Spirit Magic: Shamanistic summoning and propitiating the spirits of nature for aid.
+* **Rune Carving**: Invoking the runes by carving them into enduring physical charms.
+* **Seidr**: The verbal incantation of runes either by chanting or singing.
+* **Shape-shifting**: Physically changing form with the use of animal skins.
+* **Spa**: Prophesy using personal intuition, casting runes or questioning the dead.
+* **Spirit Magic**: Shamanistic summoning and propitiating the spirits of nature for aid.
 
 Magical practitioners are not limited to only one form of magic. Several different skills
 may be learned to enable a sorcerer to become more diverse, although finding a teacher
@@ -5359,27 +5294,26 @@ Men can wield these arts but at risk to their reputation and manhood. Rune Carvi
 on the other hand, is normally the province of men.
 
 
-'Odin had the skill which gives great power and which he practiced himself. It is called seidr,
-and by means of it he could know the fate of a man and predict events that had not yet come to
-pass; and by it he could also inflict bane on men, or loss of soul or waning health, or also take
-wit or power from some men, and give them to others. But this sorcery is attended by such ergi
-(effeminacy) that manly men considered it shameful to practice it, and so it was taught to priestesses.'
+> 'Odin had the skill which gives great power and which he practiced himself. It is called seidr,
+> and by means of it he could know the fate of a man and predict events that had not yet come to
+> pass; and by it he could also inflict bane on men, or loss of soul or waning health, or also take
+> wit or power from some men, and give them to others. But this sorcery is attended by such ergi
+> (effeminacy) that manly men considered it shameful to practice it, and so it was taught to priestesses.'
 
 - Ynglinga Saga
 
 
-
-Seidr Magic
+## Seidr Magic
 Roughly translatable as witchcraft, the practitioners of Seidr are called seidkona or
 seidman. These titles generally have a negative connotation because of the harm that
 this form of magic can cause.
 
-'Shun a woman, wise in magic, 
-Her bed and her embraces:
-If she cast a spell, you will care no longer 
-To meet and speak with men, 
-Desire no food, desire no pleasure, 
-In sorrow fall asleep.'
+> 'Shun a woman, wise in magic, 
+> Her bed and her embraces:
+> If she cast a spell, you will care no longer 
+> To meet and speak with men, 
+> Desire no food, desire no pleasure, 
+> In sorrow fall asleep.'
 
 Generally speaking, using seidr involves chanting or singing spells called galdr. There
 are many forms of galdrar, in the poem Havamal, Odin claims to have mastered 18
@@ -5397,72 +5331,12 @@ The greatest masters of Seidr are the elfs and gods themselves, whose skill is s
 they can invoke galdr in mere moments rather than spend minutes in clumsy ritualistic
 preparation, as mortals must.
 
-Seidr (Pow x 2)
+### Seidr (Pow x 2)
 This Advanced skill is used to cast galdrar (verbal incantations) using ritual chants sung
 or spoken in a high pitched voice. The magic draws its power from the sound of the
 Runes, their vibrations conjuring mystical effects. Although Seidr and Rune Carving
 share the same base spells, their implementation is subtly different. A combined list of
 suggested Galdrar and Galdrastafir (mystic symbols) follows Rune Carving.
-
-
-The List of Charms
-The following exert is known as the Ljodatal, from the poem Havamal. It describes a list of
-charms know by Odin as recounted by himself. It gives a wide range of magical incantations,
-which are the source of much of the magic portrayed in the eddas and sagas. These are the basis
-for both Seidr and Rune Carving magic.
-
-The first charm I know is              I know an eighth:                     I know a fourteenth, that few
-unknown to rulers                      that all are glad of,                 know:
-Or any of human kind;                  Most useful to men:                   If I tell a troop of warriors 
-Help it is named,                      If hate fester in the heart of a      About the high ones, elves and
-for help it can give In hours of       warrior,                              gods, 
-sorrow and anguish.                    It will soon calm and cure him.       I can name them one by one.
-                                                                          (Few can the nit-wit name.) 
-I know a second that the sons of       I know a ninth: 
-men                                    when need I have                      I know a fifteenth, 
-Must learn who wish to be leeches.     To shelter my ship on the flood,      that first Thjodrerir 
-                                    The wind it calms, the waves it       Sang before Delling's doors, 
-I know a third: in the thick of        smoothes 
-                                                                          Giving power to gods, prowess
-battle,                                And puts the sea to sleep, 
-                                                                          to elves, 
-If my need be great enough, 
-                                                                          Fore-sight to Hroptatyr Odhinn, 
-It will blunt the edges of enemy       I know a tenth: 
-swords,                                if troublesome ghosts 
-Their weapons will make no             Ride the rafters aloft,               I know a sixteenth: 
-wounds.                                I can work it so they wander          if I see a girl 
-                                    astray,                               With whom it would please me
-I know a fourth:                       Unable to find their forms,           to play, 
-it will free me quickly                Unable to find their homes.           I can turn her thoughts, can touch
-If foes should bind me fast                                                  the heart 
-With strong chains, a chant that       I know an eleventh:                   Of any white armed woman. 
-makes Fetters spring from the feet,    when I lead to battle Old
-Bonds burst from the hands.            comrades in-arms,                     I know a seventeenth: 
-                                    I have only to chant it behind my     if I sing it, 
-I know a fifth: no flying arrow,       shield,                               the young Girl will be slow to
-Aimed to bring harm to men,            And unwounded they go to war,         forsake me. 
-Flies too fast for my fingers to       Unwounded they come from war, 
-catch it                               Unscathed wherever they are.          To learn to sing them, Loddfafnir, 
-And hold it in mid-air.                                                      Will take you a long time, 
-                                    I know a twelfth:                     Though helpful they are if you
-I know a sixth:                        If a tree bear                        understand them, 
-it will save me if a man               A man hanged in a halter,             Useful if you use them, 
-Cut runes on a sapling's Roots         I can carve and stain strong runes    Needful if you need them. 
-With intent to harm; it turns          That will cause the corpse to
-the spell;                             speak, 
-                                                                          I know an eighteenth that I never
-The hater is harmed, not me.           Reply to whatever I ask. 
-                                                                          tell 
-                                                                          To maiden or wife of man, 
-I know a seventh:                      I know a thirteenth 
-                                                                          A secret I hide from all 
-If I see the hall                      if I throw a cup Of water over a
-Ablaze around my bench mates,          warrior,                              Except the love who lies in my
-Though hot the flames, they shall      He shall not fall in the fiercest     arms, 
-feel nothing,                          battle,                               Or else my own sister.
-If I choose to chant the spell.        Nor sink beneath the sword, 
-
 
 To cast a galdr the user must make a successful test of their Seidr skill. The success level
 and value rolled on the dice are used as the target number to beat if the spell can be
@@ -5503,14 +5377,69 @@ knows at a maximum of Magnitude of 4. Technically his skill would allow him to c
 it at Magnitude 5 but his mind is incapable of manipulating it at that level.
 
 
-Rune Carving Magic
-Know how to cut them, know how to read them, 
-Know how to stain them, know how to prove them, 
-Know how to evoke them, know how to score them,
-Know how to send them; know how to spend them
+#### The List of Charms
+The following exert is known as the Ljodatal, from the poem Havamal. It describes a list of
+charms know by Odin as recounted by himself. It gives a wide range of magical incantations,
+which are the source of much of the magic portrayed in the eddas and sagas. These are the basis
+for both Seidr and Rune Carving magic.
 
-- Havamal
+```
+The first charm I know is              I know an eighth:                     I know a fourteenth, that few
+unknown to rulers                      that all are glad of,                 know:
+Or any of human kind;                  Most useful to men:                   If I tell a troop of warriors 
+Help it is named,                      If hate fester in the heart of a      About the high ones, elves and
+for help it can give In hours of       warrior,                              gods, 
+sorrow and anguish.                    It will soon calm and cure him.       I can name them one by one.
+                                                                             (Few can the nit-wit name.) 
+I know a second that the sons of       I know a ninth: 
+men                                    when need I have                      I know a fifteenth, 
+Must learn who wish to be leeches.     To shelter my ship on the flood,      that first Thjodrerir 
+                                       The wind it calms, the waves it       Sang before Delling's doors, 
+I know a third: in the thick of        smoothes                              Giving power to gods, prowess
+battle,                                And puts the sea to sleep,            to elves,
+If my need be great enough,                                                  Fore-sight to Hroptatyr Odhinn, 
+It will blunt the edges of enemy       I know a tenth: 
+swords,                                if troublesome ghosts 
+Their weapons will make no             Ride the rafters aloft,               I know a sixteenth: 
+wounds.                                I can work it so they wander          if I see a girl 
+                                       astray,                               With whom it would please me
+I know a fourth:                       Unable to find their forms,           to play, 
+it will free me quickly                Unable to find their homes.           I can turn her thoughts, can touch
+If foes should bind me fast                                                  the heart 
+With strong chains, a chant that       I know an eleventh:                   Of any white armed woman. 
+makes Fetters spring from the feet,    when I lead to battle Old
+Bonds burst from the hands.            comrades in-arms,                     I know a seventeenth: 
+                                       I have only to chant it behind my     if I sing it, 
+I know a fifth: no flying arrow,       shield,                               the young Girl will be slow to
+Aimed to bring harm to men,            And unwounded they go to war,         forsake me. 
+Flies too fast for my fingers to       Unwounded they come from war, 
+catch it                               Unscathed wherever they are.          To learn to sing them, Loddfafnir, 
+And hold it in mid-air.                                                      Will take you a long time, 
+                                       I know a twelfth:                     Though helpful they are if you
+I know a sixth:                        If a tree bear                        understand them, 
+it will save me if a man               A man hanged in a halter,             Useful if you use them, 
+Cut runes on a sapling's Roots         I can carve and stain strong runes    Needful if you need them. 
+With intent to harm; it turns          That will cause the corpse to
+the spell;                             speak, 
+The hater is harmed, not me.           Reply to whatever I ask.              I know an eighteenth that I never
+                                                                             tell 
+                                                                             To maiden or wife of man, 
+I know a seventh:                      I know a thirteenth                   A secret I hide from all 
+If I see the hall                      if I throw a cup Of water over a      Except the love who lies in my
+Ablaze around my bench mates,          warrior,                              arms, 
+Though hot the flames, they shall      He shall not fall in the fiercest     Or else my own sister.
+feel nothing,                          battle,
+If I choose to chant the spell.        Nor sink beneath the sword, 
+```
 
+## Rune Carving Magic
+
+> Know how to cut them, know how to read them, 
+> Know how to stain them, know how to prove them, 
+> Know how to evoke them, know how to score them,
+> Know how to send them; know how to spend them
+> 
+> - Havamal
 
 Rune Carving is effectively the skill of invoking the power of the Runes by engraving
 or marking their physical shapes into objects, rather than singing them aloud. Such
@@ -5521,14 +5450,14 @@ Practitioners skilled in the magical lore of the runes were known as Vitki, whic
 a 'wizard' or 'magician' and Vitkar a wise woman. There was great danger involved in
 carving runes, for incomplete knowledge could cause more harm than good.
 
-Those who carve without knowledge
-Should not write the runes
-Great misfortune will follow
-When the secrets are misused
-I have seen ten letters carved
-Out of a bent bone
-They brought on the pain
-That tortured the young girl.
+> Those who carve without knowledge
+> Should not write the runes
+> Great misfortune will follow
+> When the secrets are misused
+> I have seen ten letters carved
+> Out of a bent bone
+> They brought on the pain
+> That tortured the young girl.
 
 Rune Carving can be performed on any solid surface the caster can incise. This can be
 stone or metal but due to the nature of investing one's own magical strength into such
@@ -5558,21 +5487,20 @@ By far the most skilful rune carvers are the dwarfs. Their mastery is such that 
 craft wondrous weapons and artefacts unachievable by the mortals and gods alike.
 
 
-'And when all was ready for sailing, Egil went up into the island. He took in his hand a
-hazel-pole, and went to a rocky eminence that looked inward to the mainland. Then he took
-a horse's head and fixed it on the pole. After that, in solemn form of curse, he thus spake:
-'Here set I up a curse-pole, and this curse I turn on king Eric and queen Gunnhilda. (Here
-he turned the horse's head landwards.) This curse I turn also on the guardian-spirits who
-dwell in this land, that they may all wander astray, nor reach or find their home till they
-have driven out of the land king Eric and Gunnhilda.' This spoken, he planted the pole
-down in a rift of the rock, and let it stand there. The horse's head he turned inwards to the
-mainland; but on the pole he cut runes, expressing the whole form of curse.'
+> 'And when all was ready for sailing, Egil went up into the island. He took in his hand a
+> hazel-pole, and went to a rocky eminence that looked inward to the mainland. Then he took
+> a horse's head and fixed it on the pole. After that, in solemn form of curse, he thus spake:
+> 'Here set I up a curse-pole, and this curse I turn on king Eric and queen Gunnhilda. (Here
+> he turned the horse's head landwards.) This curse I turn also on the guardian-spirits who
+> dwell in this land, that they may all wander astray, nor reach or find their home till they
+> have driven out of the land king Eric and Gunnhilda.' This spoken, he planted the pole
+> down in a rift of the rock, and let it stand there. The horse's head he turned inwards to the
+> mainland; but on the pole he cut runes, expressing the whole form of curse.'
+> 
+> - Egil's Saga
 
-- Egil's Saga
 
-
-
-Rune Carving (Pow+Dex)
+### Rune Carving (Pow+Dex)
 Rune Carving is an Advanced skill used to create magical talismans. It covers the
 etching and enchanting of runic inscriptions into an object, which is powered by
 the temporary sacrifice of the caster's own Magic Points. A list of possible galdrastafir
@@ -5600,13 +5528,13 @@ or weaving galdrastafir, takes one day per Magnitude.
 
 In return for significantly weakening their magical strength a rune carved talisman
 grants the following benefits:
-*	 The power of the talisman is permanent, unless the galdrastafir has an instantaneous
-effect, in which case the spell remains on 'standby' until activated by the talisman's user.
-*	 The magic of a beneficial talisman transfers to whomever holds it.
-*	 The range of an offensive talisman is effectively unlimited – save that it cannot
-cross large bodies of water – as long as the caster personally knows the target of the
-curse or the talisman is formed from an object belonging to them.
-*	 The talisman remains enchanted even after its creator's death.
+* The power of the talisman is permanent, unless the galdrastafir has an instantaneous
+  effect, in which case the spell remains on 'standby' until activated by the talisman's user.
+* The magic of a beneficial talisman transfers to whomever holds it.
+* The range of an offensive talisman is effectively unlimited – save that it cannot
+  cross large bodies of water – as long as the caster personally knows the target of the
+  curse or the talisman is formed from an object belonging to them.
+* The talisman remains enchanted even after its creator's death.
 
 Once a talisman has been created it can only be undone if the object upon which the
 runes are carved is broken. Talismans containing instantaneous spells automatically
@@ -5623,26 +5551,26 @@ lower of either: the caster's INT divided by three (rounded up) or the user's Ru
 Carving skill divided by 20 (also rounded up).
 
 
-Galdrar and Galdrastafir
+### Galdrar and Galdrastafir
 Literally chants and magical signs, the following spells can be cast using either the
 Seidr or Rune Carving skill. They use the following traits, which are slightly different,
 depending on whether the spell is cast as a chant or engraved as runes.
 
-Enduring: If cast as Seidr the spell's effect lasts for a day and a night, or vice versa. If a
+**Enduring**: If cast as Seidr the spell's effect lasts for a day and a night, or vice versa. If a
 Rune Carving then the spell lasts until the enchanted object is broken.
 
-Instant: The spell's effect takes place instantly and then disappears. Instant spells
+**Instant**: The spell's effect takes place instantly and then disappears. Instant spells
 enchanted as Rune Carvings work once (at a time of the owner's choice) and then
 shatter.
 
-Magnitude (X): The strength and power of the spell. Also the number of Magic Points
+**Magnitude (X)**: The strength and power of the spell. Also the number of Magic Points
 required to cast it (or half this value if engraved). If two identical spells are cast on the
 same target, only the stronger takes effect. They do not stack.
 
-Progressive: If desired the spell can be cast at greater levels of Magnitude, increasing its
+**Progressive**: If desired the spell can be cast at greater levels of Magnitude, increasing its
 Magic Point cost commensurately.
 
-Resist (Persistence/Resilience): The spell's effects do not take effect automatically.
+**Resist (Persistence/Resilience)**: The spell's effects do not take effect automatically.
 The target may make an Opposed Test of their Persistence or Resilience (as specified
 by the spell) against the casting roll, in order to avoid the effect of the spell entirely.
 
@@ -5651,7 +5579,7 @@ have unlimited range overland; and require no concentration to use. Spells which
 divert from this default mention the change specifically in their description.
 
 
-Animate Dead
+#### Animate Dead
 Enduring, Progressive
 
 Raises up freshly slain bodies to continue fighting after death. The number of corpses
@@ -5660,7 +5588,7 @@ retain their original Characteristics and skills but must be literally dismember
 decapitated to cease being a threat. If a corpse is rendered non-functional, the magic
 can transfer to a new dead body in better shape.
 
-Bar Spirit
+#### Bar Spirit
 Enduring, Progressive
 
 Keeps unwelcome spirits at bay, preventing the recipient from being Discorporated,
@@ -5668,7 +5596,7 @@ attacked in Spirit Combat or Possessed. The magic blocks spirits of up to 6 POW 
 point of Magnitude. Thus a Magnitude 4 Bar Spirit could block spirits of up to 24
 POW.
 
-Battle Fetter
+#### Battle Fetter
 Enduring, Magnitude Special, Resist (Persistence)
 
 Also known as 'Weaken Courage' the target of this spell loses any hope of victory and
@@ -5681,21 +5609,20 @@ cancelled by the Inspire Bravery spell and vice versa.
 The Magnitude of the spell depends on the target: 1 for an animal, 2 for a person and
 3 for a supernatural being.
 
-Bind Form
+#### Bind Form
 Enduring, Magnitude 1, Resist (Resilience)
 
 Prevents a shape-shifter from switching forms for the duration of the magic, thus
 trapping them in human or animal shape.
 
-Blunt Weapon
+#### Blunt Weapon
 Enduring, Progressive, Resist (Resilience)
 
 This spell is a type of curse which is cast at a person, rather than his accoutrements.
 For every point of Magnitude, it reduces the damage dealt from any weapon, wielded
 by the target, by two.
 
-
-Break Charm
+#### Break Charm
 Instant, Progressive
 
 Break Charm is used to dismiss another galdr, rune carving or similar magic. The
@@ -5703,27 +5630,27 @@ targeted spell is nullified if its own Magnitude is equalled or exceed by that o
 Charm. Successfully using this spell against a talisman causes the rune carved object
 to sunder.
 
-Calm Passion
+#### Calm Passion
 Enduring, Magnitude 1, Resist (Persistence)
 
 Removes hatred, fear, worry, loathing or any other form of strong emotion from the
 target. If the target does not wish to be calmed then they are permitted a Resistance roll.
 
-Deflect Arrow
+#### Deflect Arrow
 Enduring, Magnitude 1
 
 Allows the recipient to catch or deflect missile weapons. Catching requires a successful
 parry using their Unarmed skill. Deflecting can be done with any weapon, assuming a
 successful parry using the appropriate Combat Style.
 
-Divine Wisdom
+#### Divine Wisdom
 Enduring, Progressive
 
 Calls upon the wisdom of the Æsir and Alfar to guide the caster, who receives such
 knowledge as a vision or dream. Each point of Magnitude adds a 10% bonus to a single
 Lore or Craft skill. The skill to be affected must be stated at the time of casting.
 
-Dominate Being
+#### Dominate Being
 Enduring, Magnitude Special, Resist (Persistence)
 
 Controls the actions of the target, subverting their free will. The Magnitude of the spell
@@ -5740,14 +5667,14 @@ necessarily of whom the caster was.
 If the spell is cast when standing or immersed in the waters of a sea or lake, then it can
 reach targets that reside in that body of water.
 
-Ease Pain
+#### Ease Pain
 Enduring, Progressive
 
 Eases the debilitating pain-related effects of wounds, poisons or child birth. Each point
 of Magnitude adds a 10% bonus to Resilience tests. A warrior blessed by this charm
 can be a steadfast opponent, continuing to fight until maimed or killed outright.
 
-Entrance Other
+#### Entrance Other
 Enduring, Magnitude Special, Resist (Persistence)
 
 Charms the target to feel feelings of love or loyalty towards the user of this spell. The
@@ -5755,14 +5682,39 @@ effects are subtle leaving the person or creature its free will but always biase
 of the caster and unaware of their enthrallment. The Magnitude of Entrance Other
 depends on the target: 1 for an animal, 2 for a person and 3 for a supernatural being.
 
-Evil Eye
+#### Evil Eye
 Enduring, Progressive, Resist (Resilience)
 
 Produces one or more irritable blights, which haunt the target as if plagued by bad luck.
 The curse includes one effect for each point of Magnitude in the spell. The effects can be
 selected or rolled randomly. Use the following table to generate random consequences.
 
-Fog Mind
+##### Random Curse Table
+
+| D20  | Curse                  | Effect |
+|------|------------------------|--------|
+| 1    | Attract Vermin         | Wasps, lice, ticks, rats gather where he goes. |
+| 2    | Blight Crops           | Cannot grow any form of crops. |
+| 3    | Break Objects          | Always breaks objects such as crockery, chairs, weapons. |
+| 4    | Clumsy Grip            | Always fail rolls to catch objects, climb or resist Disarming attempts. |
+| 5    | Damp Touch             | Cannot light fires and established fires slowly smother in their presence. |
+| 6    | Disfiguring Pox        | No physical effect but looks awful and drives people away from close contact. |
+| 7    | Distracted Attention   | Always fails Perception tests due to something in eye, ringing ears and so on. |
+| 8    | Draw Rain              | The weather always rains wherever they go. |
+| 9    | Enrage Animals         | Horses, cows, dogs and such react aggressively to their presence. |
+| 10   | Frighten Prey          | Drives off all game or fish, preventing hunting or fishing in their presence. |
+| 11   | Heal Badly             | Wounds do not heal naturally. |
+| 12   | Impotency              | Cannot get an erection or fails to conceive children. |
+| 13   | Irritate Others        | Always fail any Commerce, Influence, Oratory, Seduction, or Sing skill. |
+| 14   | Itchy Skin             | Cannot wear armour or heavy clothing. |
+| 15   | Lame Foot              | Always falls over when jumping or attempting to resist Trip or Bash manoeuvres. |
+| 16   | Nightmare Haunted      | Can never sleep the night through, always have at least one level of fatigue. |
+| 17   | Pervasive Stench       | Smells very bad, no matter how often they bathe or wash. |
+| 18   | Rotting Touch          | Equipment, clothing and stored foods quickly rot. |
+| 19   | Sickly Livestock       | All animals owned slowly sicken and die. |
+| 20   | Sour Taste             | Everything eaten or drunk tastes foul, forcing a Resilience roll to keep it down. |
+
+#### Fog Mind
 Enduring, Progressive, Resist (Persistence)
 
 Causes forgetfulness in the target. If the spell is not resisted, the caster can force the
@@ -5772,7 +5724,7 @@ for example, cause him to temporarily forget that a) he is the Jarl, b) he had e
 brother for treachery and c) he was to muster his army to fight a battle that day. Lost
 memories return once the spell ends.
 
-Free Fetter
+#### Free Fetter
 Instant, Magnitude Special
 
 Removes chains, bonds or any form of restraint from the recipient. The Magnitude of the
@@ -5780,57 +5732,21 @@ spell depends on the type of binding used: 1 for leather or rope ties, 2 for met
 for stone prisons and 4 or more for magical fetters – for instance the dwarf forged chain
 Loding may require Magnitude 4, with Dromi 5 and Gleipnir 6 respectfully.
 
-Grant Victory
+#### Grant Victory
 Enduring, Progressive
 
 Calls upon the favour of Tyr and Odin to make the user more fearsome in battle. This
 spell adds +5% per point of Magnitude to the recipient's weapon skills. It does not
 increase damage.
 
-
-Random Curse Table
-D20    Curse                Effect
-1      Attract Vermin       Wasps, lice, ticks, rats gather where he goes.
-2      Blight Crops         Cannot grow any form of crops.
-3      Break Objects        Always breaks objects such as crockery, chairs,
-                         weapons.
-4      Clumsy Grip          Always fail rolls to catch objects, climb or resist
-                         Disarming attempts.
-5      Damp Touch           Cannot light fires and established fires slowly smother
-                         in their presence.
-6      Disfiguring Pox      No physical effect but looks awful and drives people
-                         away from close contact.
-7      Distracted Attention Always fails Perception tests due to something in eye,
-                         ringing ears and so on.
-8      Draw Rain            The weather always rains wherever they go.
-9      Enrage Animals       Horses, cows, dogs and such react aggressively to their
-                         presence.
-10     Frighten Prey        Drives off all game or fish, preventing hunting or
-                         fishing in their presence.
-11     Heal Badly           Wounds do not heal naturally.
-12     Impotency            Cannot get an erection or fails to conceive children.
-13     Irritate Others      Always fail any Commerce, Influence, Oratory,
-                         Seduction, or Sing skill.
-14     Itchy Skin           Cannot wear armour or heavy clothing.
-15     Lame Foot            Always falls over when jumping or attempting to resist
-                         Trip or Bash manoeuvres.
-16     Nightmare Haunted Can never sleep the night through, always have at least
-                         one level of fatigue.
-17     Pervasive Stench     Smells very bad, no matter how often they bathe or wash.
-18     Rotting Touch        Equipment, clothing and stored foods quickly rot.
-19     Sickly Livestock     All animals owned slowly sicken and die.
-20     Sour Taste           Everything eaten or drunk tastes foul, forcing a
-                         Resilience roll to keep it down.
-
-
-Grow Strong
+#### Grow Strong
 Enduring, Progressive
 
 For every point of Magnitude of this spell, the recipient's STR score increases by +2.
 This may have an additional effect on skills and Attributes, such as Damage Modifier.
 The target's STR cannot be raised to more than twice its original value.
 
-Heal Wound
+#### Heal Wound
 Enduring, Progressive
 
 For every point of Magnitude of this spell, the caster can repair one Hit Point of
@@ -5844,7 +5760,7 @@ but only affects Minor or Serious Wounds. Major Wounds such as severed or maimed
 limbs cannot be repaired with this magic; even the gods themselves cannot heal such
 wounds.
 
-Hold Fast
+#### Hold Fast
 Enduring, Progressive
 
 This charm is used to stick things together or bind someone with magical fetters.
@@ -5856,7 +5772,7 @@ This spell can be used to entrap unsuspecting victims, by casting it on a chair 
 example. Loki was once caught by this magic when visiting the hall of the giant Geirrod
 in falcon form, when his claws were held fast to a window ledge.
 
-Inspire Bravery
+#### Inspire Bravery
 Enduring, Magnitude Special, Resist (Persistence)
 
 The target of this spell becomes fearless and unheeding of personal danger. The
@@ -5868,7 +5784,7 @@ Fanaticism may surrender to the spell without resisting it.
 The Magnitude of the spell depends on the target: 1 for an animal, 2 for a person and
 3 for a supernatural being.
 
-Instil Madness
+#### Instil Madness
 Enduring, Magnitude 2, Resist (Persistence)
 
 The target of the spell becomes mentally unstable, undermining their status and
@@ -5878,19 +5794,20 @@ psychopathic or suicidal tendencies but should be viewed as a way of ruining som
 life. The precise type of madness or insanity is up to the Games Master to decide, or a
 roll can be made on the following table.
 
+##### Random Madness Table
 
-Random Madness Table
-1D8       Symptom                Explanation
-1         Hallucinations         Begin to hear and see things which are not there.
-2         Paranoia               Everyone and everything is out to get you.
-3         Anxiety                Panic attacks when faced with stressful situations.
-4         Withdrawal             No longer express any interest in life.
-5         Distracted             Cannot concentrate or complete any task.
-6         Aggressive             Become constantly angry and irritable.
-7         Irrational             Act in a random and contrary manner.
-8         Delusional             Lose touch with reality.
+| 1D8     | Symptom              | Explanation |
+|---------|----------------------|-------------|
+| 1       | Hallucinations       | Begin to hear and see things which are not there. |
+| 2       | Paranoia             | Everyone and everything is out to get you. |
+| 3       | Anxiety              | Panic attacks when faced with stressful situations. |
+| 4       | Withdrawal           | No longer express any interest in life. |
+| 5       | Distracted           | Cannot concentrate or complete any task. |
+| 6       | Aggressive           | Become constantly angry and irritable. |
+| 7       | Irrational           | Act in a random and contrary manner. |
+| 8       | Delusional           | Lose touch with reality. |
 
-Propitiate Gods
+#### Propitiate Gods
 Instant, Magnitude 3
 
 A simple ritual that helps avert any disfavour from supernatural beings. The spell
@@ -5898,13 +5815,13 @@ requires granting a sacrifice to the spirit or deity being propitiated. The resu
 the withdrawal of any hostile feelings from the entity, or a vision in which the being
 shows what is wrong and how it may be fixed.
 
-Quench Flame
+#### Quench Flame
 Enduring, Progressive
 
 A protective charm that protects the recipient from the effects of heat and flames. For
 every point of Magnitude of this spell, the effect of any fire is reduced by one step.
 
-Question Dead
+#### Question Dead
 Enduring, Progressive
 
 Permits the caster to ask a dead body as many questions as points of Magnitude
@@ -5913,21 +5830,21 @@ must respond truthfully. For more abstract knowledge a roll can be made against 
 person's Lore skill. If the corpse does not know the answer, it still uses up one of the
 questions. The spell still works if cast on a severed head.
 
-Reflect Charm
+#### Reflect Charm
 Enduring, Progressive
 
 Any hostile spell of equal or less Magnitude than the Reflect Charm is turned back
 against its caster, who must resist their own magic if applicable. If the hostile spell has a
 greater Magnitude then it affects the recipient of the Reflect Charm as normal.
 
-Remain Unseen
+#### Remain Unseen
 Enduring, Progressive
 
 Known in Norse as the Helmet of Hiding (hulidshjalmr), this spell causes the recipient
 to fade from notice. For every point of Magnitude of this spell, Perception skills used
 to locate the recipient are reduced by 10%.
 
-Second Sight
+#### Second Sight
 Enduring, Magnitude 1
 
 Allows sight of supernatural creatures and the fylgjur (animal soul) of people. Like
@@ -5935,13 +5852,13 @@ normal vision, Second Sight is blocked by interposing objects or cover. The spel
 allows the normally invisible presence of magic to be perceived, allowing the viewer to
 spot enchanted items or curses.
 
-Turn Dead
+#### Turn Dead
 Enduring, Magnitude 1, Resist (Persistence)
 
 Forces a draugr (or some other form of animated dead) to depart a place of haunting or
 sink back into the ground deprived of form, providing it fails to resist the spell.
 
-Ward Injury
+#### Ward Injury
 Enduring, Progressive
 
 For every point of Magnitude of this spell, one Armour Point is added to every Hit
@@ -5954,7 +5871,7 @@ but have no effect against stone tipped arrows or unarmed grappling. This spell 
 be cast several times on the same recipient, each Ward Injury affecting a different
 substance.
 
-Weather Charm
+#### Weather Charm
 Enduring, Progressive
 
 Raises or lowers the strength of the wind and cloud cover by one step per Magnitude
@@ -5963,8 +5880,7 @@ are local (several kilometres) around the caster or the target the weather is se
 If the caster wishes to manipulate weather over water, they must be present in or on
 the same lake or sea.
 
-
-Weave Illusion
+#### Weave Illusion
 Enduring, Progressive
 
 Hides the reality of the target from the senses of all observers. A target of up to 20 SIZ
@@ -5974,7 +5890,7 @@ has ended it cannot be repeated in the same form but must change its nature on t
 casting. The charm of Second Sight can immediately perceive any illusion for what it is.
 
 
-Spa Magic
+## Spa Magic
 Spa is a form of divination. Commonly called spa-craft or spae-craft it allows its user
 to determine 'that which was, is and will be' by using dreams, intuition or mystical
 enlightenment. In effect, spa allows the user to glimpse or know the wyrd or orlog (fate)
@@ -5992,26 +5908,27 @@ Spakona often dress in ritualised clothing to proclaim their abilities. The foll
 excerpt from Egil's Saga describes a seeress in her full regalia. Of note are the blue cloak,
 the colour of death and catskin mantle and gloves, the cat being sacred to Freyja.
 
-'She came in the evening with the man who had been sent to meet her, then she was dressed
-like this, so that she had a blue mantle fastened with straps, and stones were set all in the
-flap above; on her neck she had glass beads, a black lambskin hood on her head with white
-catskin inside; and she had a staff in her hand with a knob on it; it was made with brass
-and stones were set above in the knob; she had a belt of touch-wood, and on it was a large
-skin pouch, and there she kept safe her talismans which she needed to get knowledge. She had
-on her feet shaggy calfskin shoes with long thongs and large knobs on the ends of those. She
-had on her hands catskin gloves, and they were white inside and shaggy.'
+> 'She came in the evening with the man who had been sent to meet her, then she was dressed
+> like this, so that she had a blue mantle fastened with straps, and stones were set all in the
+> flap above; on her neck she had glass beads, a black lambskin hood on her head with white
+> catskin inside; and she had a staff in her hand with a knob on it; it was made with brass
+> and stones were set above in the knob; she had a belt of touch-wood, and on it was a large
+> skin pouch, and there she kept safe her talismans which she needed to get knowledge. She had
+> on her feet shaggy calfskin shoes with long thongs and large knobs on the ends of those. She
+> had on her hands catskin gloves, and they were white inside and shaggy.'
 
 Divination can be a powerful tool to uncover hidden secrets, know what is happening
 elsewhere and foretell forthcoming events.
 
 
-How to Handle Divinations
-'It is time to speak as a thule, on the thule's seat, at the Well of Wyrd;
-I saw and was silent, I saw and thought, I listened to the speech of folk;
-I heard deeming of runes, and they were not silent of redes,
-at the halls of the High One, in the halls of the High One, thus I heard tell'
+### How to Handle Divinations
 
-- Havamal
+> 'It is time to speak as a thule, on the thule's seat, at the Well of Wyrd;
+> I saw and was silent, I saw and thought, I listened to the speech of folk;
+> I heard deeming of runes, and they were not silent of redes,
+> at the halls of the High One, in the halls of the High One, thus I heard tell'
+> 
+> - Havamal
 
 The power to see things which 'have, are and will' happen, can have a profound effect
 on a campaign.
@@ -6038,29 +5955,29 @@ a foretelling in place.
 Once a prophecy has been made, there are several methods of handling its prediction
 in a campaign:
 
-*	 Railroad: Since a person's wryd is fixed within the web of fate, the Norns have
-already decreed what he must do and suffer. Upholding Viking superstition and
-fatalism, a Games Master is fully justified in warping campaign events to fulfil a
-prophecy. Strange quirks of fate are the tools the Norns use to ensure everyone
-abides by their foretold path.
-*	 Self-fulfilling: Perhaps the most difficult type of foretelling to enact, it requires a
-careful game of psychological second guessing and manipulation of player actions.
-In effect the Games Master presents a prophecy that comes true because of what
-the Adventurers do to avoid it. This type of foretelling can be excellent if pulled
-off, the players realising that they caused the outcome themselves.
-*	 Loose Interpretation: Prophecies that are worded very loosely, using kennings to
-further muddy the waters, can be left to their own devices. If done well, a mystical
-foretelling can be so open to interpretation that a Games Master can justify the
-eventual outcome in any way they like!
-*	 Temporary Sidestep: Although even the gods themselves are bound upon the
-web of fate, Adventurers can have their doom or prophecy placed on a hiatus
-whilst they continue their life adventuring. Orvar-Odd's Saga is a case in point.
-Fated to die by his own horse the hero slays it and buries the body seemingly
-avoiding his doom. However, years later he passes back by the grave and disturbs
-the horse skull he finds there. A viper darts out giving him a fatal bite thus finally
-completing his wyrd.
+* Railroad: Since a person's wryd is fixed within the web of fate, the Norns have
+  already decreed what he must do and suffer. Upholding Viking superstition and
+  fatalism, a Games Master is fully justified in warping campaign events to fulfil a
+  prophecy. Strange quirks of fate are the tools the Norns use to ensure everyone
+  abides by their foretold path.
+* Self-fulfilling: Perhaps the most difficult type of foretelling to enact, it requires a
+  careful game of psychological second guessing and manipulation of player actions.
+  In effect the Games Master presents a prophecy that comes true because of what
+  the Adventurers do to avoid it. This type of foretelling can be excellent if pulled
+  off, the players realising that they caused the outcome themselves.
+* Loose Interpretation: Prophecies that are worded very loosely, using kennings to
+  further muddy the waters, can be left to their own devices. If done well, a mystical
+  foretelling can be so open to interpretation that a Games Master can justify the
+  eventual outcome in any way they like!
+* Temporary Sidestep: Although even the gods themselves are bound upon the
+  web of fate, Adventurers can have their doom or prophecy placed on a hiatus
+  whilst they continue their life adventuring. Orvar-Odd's Saga is a case in point.
+  Fated to die by his own horse the hero slays it and buries the body seemingly
+  avoiding his doom. However, years later he passes back by the grave and disturbs
+  the horse skull he finds there. A viper darts out giving him a fatal bite thus finally
+  completing his wyrd.
 
-Spa (Pow+Int)
+### Spa (Pow+Int)
 Spa is an Advanced skill used to divine knowledge. With it an Adventurer can see the
 past, present or future, allowing them to make prophecies or gain insights into the fate
 of a person, family, tribe or nation. Such divinations cannot be resisted by any means
@@ -6068,83 +5985,76 @@ since the orlog of every person is open to those with the power to read it.
 
 The Spa skill is used in the following manner:
 
-*	 The diviner should decide whether they wish to reveal the past, present or future.
-*	 The diviner must know the subjects of the oracular ritual personally, or lacking
-such a relationship must be given or own an item of personal significance to those
-being divined, a blooded shirt or family icon for example. Distance has no effect
-on the divination.
-*	 Preparation for the divination requires an hour of meditation, chanting or sleep
-per Magic Point invested into it.
-*	 However the ritual is performed, the result of a divination usually takes the form
-of a vision or dream.
-*	 It is the Games Master who rolls against the Spa skill to see if the divination
-attempt worked.
+* The diviner should decide whether they wish to reveal the past, present or future.
+* The diviner must know the subjects of the oracular ritual personally, or lacking
+  such a relationship must be given or own an item of personal significance to those
+  being divined, a blooded shirt or family icon for example. Distance has no effect
+  on the divination.
+* Preparation for the divination requires an hour of meditation, chanting or sleep
+  per Magic Point invested into it.
+* However the ritual is performed, the result of a divination usually takes the form
+  of a vision or dream.
+* It is the Games Master who rolls against the Spa skill to see if the divination
+  attempt worked.
 
 The Games Master should never reveal the actual roll, since in some cases the vision
 may turn out to be completely false. The effect of the roll depends on the level of
 success:
 
-*	 A critical success provides a clear vision unequivocally answering the original
-questions or showing what will happen.
-*	 A normal success gives veiled but truthful results, partially answering the questions
-with symbolic allusions or showing a limited version of what will happen.
-*	 A failure results in a clouded vision providing no answers, or the sense that the
-Norns have hidden the wyrd for some reason. If the failure is a foretelling, this may
-undermine the reputation of the diviner.
-*	 A fumble appears to be a critical success but grants false information, which will
-ultimately turn and harm the questioner – not the seer themselves, unless the seer
-was the originator of the enquiry.
+* A critical success provides a clear vision unequivocally answering the original
+  questions or showing what will happen.
+* A normal success gives veiled but truthful results, partially answering the questions
+  with symbolic allusions or showing a limited version of what will happen.
+* A failure results in a clouded vision providing no answers, or the sense that the
+  Norns have hidden the wyrd for some reason. If the failure is a foretelling, this may
+  undermine the reputation of the diviner.
+* A fumble appears to be a critical success but grants false information, which will
+  ultimately turn and harm the questioner – not the seer themselves, unless the seer
+  was the originator of the enquiry.
 
-Divining the Past: The diviner may reveal the past deeds of an individual or group.
+**Divining the Past**: The diviner may reveal the past deeds of an individual or group.
 One question may be asked per Magic Point invested in the ritual.
 
-Seeing the Present: The diviner may determine the current status of a person or group.
+**Seeing the Present**: The diviner may determine the current status of a person or group.
 This ritual costs one Magic Point per piece of information to be revealed, such as the
 location, health, wealth, emotion, fears, loves, hatreds, present activity and so on.
 
-Foretelling the Future: The diviner may predict the fate awaiting the subjects. Quite
+**Foretelling the Future**: The diviner may predict the fate awaiting the subjects. Quite
 literally the player chooses what will happen to the persons so affected by the prophecy.
 The Magic Point cost can vary dramatically depending on the orlog desired. Build up
 the cost by selecting an option from each of the duration, reach and consequence tables
 and multiply the values together.
 
-Time Frame of the Prophecy
-Magic Points      Time Frame
-0                 Prophecy will occur in the lifetime or existence of the subject.
-1                 Prophecy will occur within a year.
-2                 Prophecy will occur within a month.
-3                 Prophecy will occur within a week.
+##### Time Frame of the Prophecy
 
-Reach of the Prophecy
-Magic Points      Reach
-1                 Prophecy will affect a single person.
-2                 Prophecy will affect a family or small group.
-3                 Prophecy will affect an entire clan, town or settlement.
-4                 Prophecy will affect an entire nation or race.
-5                 Prophecy will affect the entire world.
+| Magic Points    | Time Frame |
+|-----------------|------------|
+| 0               | Prophecy will occur in the lifetime or existence of the subject. |
+| 1               | Prophecy will occur within a year. |
+| 2               | Prophecy will occur within a month. |
+| 3               | Prophecy will occur within a week. |
 
-Consequence of the Prophecy
-Magic Points      Effect
-7                 Auspicious Occurrence – Become a jarl or king, inherit great
-             wealth, gain a legendary item, win a major battle, survive combats
-             un-maimed.
-5                 Fortunate Occurrence – Join the household of a jarl or king, make
-             a good marriage, win a minor battle, become the owner of land or
-             ships, ignore a serious wound.
-3                 Beneficial Occurrence – Win a duel, survive next battle, sail the
-             seas without sinking, improve your personal wealth, gain an ally.
-1                 Neutral Occurrence – Gain a contact, see a natural disaster, talk
-             to a hero, travel to a remote place, find a long lost relative.
-3                 Adverse Occurrence – Lose some personal wealth, have weapon
-             break in hand, be beaten by a rival, fall overboard, horse goes
-             lame.
-5                 Baleful Occurrence – Lose land or property, succumb to a serious
-             wound, defeated by an enemy, become sick, ship sinks, mount
-             or livestock dies, family member dies, armour sunders, raided by
-             pillagers.
-7                 Disastrous Occurrence – Lose kingdom, become maimed, suffers
-             a fire and burn down, entire family killed, lose next battle, fleet
-             sinks, declared outlaw, closest ally becomes enemy.
+##### Reach of the Prophecy
+
+| Magic Points    | Reach |
+|-----------------|-------|
+| 1               | Prophecy will affect a single person. |
+| 2               | Prophecy will affect a family or small group. |
+| 3               | Prophecy will affect an entire clan, town or settlement. |
+| 4               | Prophecy will affect an entire nation or race. |
+| 5               | Prophecy will affect the entire world. |
+
+##### Consequence of the Prophecy
+
+| Magic Points | Effect |
+|--------------|--------|
+| 7 | Auspicious Occurrence – Become a jarl or king, inherit great wealth, gain a legendary item, win a major battle, survive combats un-maimed. |
+| 5 | Fortunate Occurrence – Join the household of a jarl or king, make a good marriage, win a minor battle, become the owner of land or ships, ignore a serious wound. |
+| 3 | Beneficial Occurrence – Win a duel, survive next battle, sail the seas without sinking, improve your personal wealth, gain an ally. |
+| 1 | Neutral Occurrence – Gain a contact, see a natural disaster, talk to a hero, travel to a remote place, find a long lost relative. |
+| 3 | Adverse Occurrence – Lose some personal wealth, have weapon break in hand, be beaten by a rival, fall overboard, horse goes lame. |
+| 5 | Baleful Occurrence – Lose land or property, succumb to a serious wound, defeated by an enemy, become sick, ship sinks, mount or livestock dies, family member dies, armour sunders, raided by pillagers. |
+| 7 | Disastrous Occurrence – Lose kingdom, become maimed, suffers a fire and burn down, entire family killed, lose next battle, fleet sinks, declared outlaw, closest ally becomes enemy. |
 
 Once a prophecy has been divined, it can never be overturned or superseded by later
 prophecies. Additionally, until the prophecy has been completed, the Magic Points
@@ -6156,23 +6066,24 @@ A successful prophesy might guarantee a result but the conclusion must still be 
 by the Adventurer's own efforts, else the glory of the climax may fall to another, turn
 out to be a short term boon, or simply be converted into a failed foreseeing.
 
-For example, foretelling that a close friend will become the King of Norway but making
-no attempt to engage in politics or raise an army to support the prophecy, may result in the
-Adventurer receiving the title of King in his absence – only to immediately lose the position
-to an ambitious family rival who was present with his huskarls.
+> For example, foretelling that a close friend will become the King of Norway but making
+> no attempt to engage in politics or raise an army to support the prophecy, may result in the
+> Adventurer receiving the title of King in his absence – only to immediately lose the position
+> to an ambitious family rival who was present with his huskarls.
 
 The Spa skill can never be used by the diviner to influence or enquire about their own
 fate. Attempting to do so always ends in failure.
 
 
-Shamanistic Magic
-'The two brothers had but left the roadstead, when close beside their ship, up rose a walrus.
-Kormak hurled at it a pole-staff, which struck the beast, so that it sank again: but the men
-aboard thought that they knew its eyes for the eyes of Thorveig the witch. That walrus came
-up no more, but of Thorveig it was heard that she lay sick to death; and indeed folk say that
-this was the end of her.'
+## Shamanistic Magic
 
-- Kormaks Saga
+> 'The two brothers had but left the roadstead, when close beside their ship, up rose a walrus.
+> Kormak hurled at it a pole-staff, which struck the beast, so that it sank again: but the men
+> aboard thought that they knew its eyes for the eyes of Thorveig the witch. That walrus came
+> up no more, but of Thorveig it was heard that she lay sick to death; and indeed folk say that
+> this was the end of her.'
+> 
+> - Kormaks Saga
 
 Shamanism is an ancient tradition in the Scandinavian lands. The Lapp people are
 traditionally shamanists and many tales exist of heroes travelling to the north to learn
@@ -6200,7 +6111,7 @@ a forest fire or winter storm. They can never be physically manifested as a supe
 creature or within the shaman themselves.
 
 
-Viking Elemental Spirits
+### Viking Elemental Spirits
 As a general guideline use the following tables to determine the capabilities of an
 Elemental Spirit of that POW. These elementals only exist as a natural event or disaster,
 or the intangible guardian that protects against these occurrences.
@@ -6208,98 +6119,84 @@ or the intangible guardian that protects against these occurrences.
 Elemental spirits are capable of either harm or protection. If facing a natural calamity of its
 own type, an unbound elemental spirit can reduce the severity of the event by its own strength.
 
-Earth Spirits
+
+#### Earth Spirits
 The following effects are cumulative. For instance if a POW 22 earth spirit causes
 three separate effects that victims must resist; falling over, being struck by terror and
 suffering physical damage.
 
-POW          Extent         Manifestation
-1D6+6        1m diameter    Localised ground tremor that requires unopposed
-                       Athletics rolls to remain standing.
-1D6+12       10m diameter Violent ground shakes that require an unopposed
-                       Persistence roll to not suffer terror as per the spell
-                       Battle Fetter.
-1D6+18       100m diameter Earthquake that causes trees to topple, buildings to
-                       collapse and boulders to roll free, requiring an unopposed
-                       Evade roll to avoid 2D6 damage to 1D3 locations.
-1D6+24       1 km diameter Minor landslide or avalanche that requires an
-                       unopposed Brawn roll to escape being trapped.
-1D6+30       10 km diameter Major landslide or avalanche that requires an unopposed
-                       Resilience roll to survive being crushed and buried.
+| POW | Extent | Manifestation |
+|-----|--------|---------------|
+| 1D6+6 | 1m diameter | Localised ground tremor that requires unopposed Athletics rolls to remain standing. |
+| 1D6+12 | 10m diameter | Violent ground shakes that require an unopposed Persistence roll to not suffer terror as per the spell Battle Fetter. |
+| 1D6+18 | 100m diameter | Earthquake that causes trees to topple, buildings to collapse and boulders to roll free, requiring an unopposed Evade roll to avoid 2D6 damage to 1D3 locations. |
+| 1D6+24 | 1 km diameter | Minor landslide or avalanche that requires an unopposed Brawn roll to escape being trapped. |
+| 1D6+30 | 10 km diameter | Major landslide or avalanche that requires an unopposed Resilience roll to survive being crushed and buried. |
 
 
-Fire Spirits
+#### Fire Spirits
 Fire spirits manifest as wild fires, nearby vegetation or wooden surfaces breaking into
 flames. Once a fire has started, it often spreads beyond the control of the spirit that
 started it. Fire spirits are rarely used offensively. Not only are the flames likely to engulf
 the shaman too but will also create devastation to the environment, which will take
 generations to recover.
 
-POW            Extent                    Manifestation
-1D6+6          1m diameter               As per Flame on the 'Fire and Heat' table in the
-                                    Legend Core Rulebook.
-1D6+12         10m diameter              As above but a Large Flame.
-1D6+18         100m diameter             As above but a Small Fire.
-1D6+24         1 km diameter             As above but a Large Fire.
-1D6+30         10 km diameter            As above but an Inferno.
+| POW          | Extent                  | Manifestation |
+|--------------|-------------------------|---------------|
+| 1D6+6        | 1m diameter             | As per Flame on the 'Fire and Heat' table in the Legend Core Rulebook. |
+| 1D6+12       | 10m diameter            | As above but a Large Flame. |
+| 1D6+18       | 100m diameter           | As above but a Small Fire. |
+| 1D6+24       | 1 km diameter           | As above but a Large Fire. |
+| 1D6+30       | 10 km diameter          | As above but an Inferno. |
 
 
-Water Spirits
+#### Water Spirits
 Water spirits can cause flooding or create whirlpools big enough to drag ships under
 the surface.
 
-POW           Extent               Manifestation
-1D6+6         1m diameter          Mild current that prevents swimmers making
-                                headway unless they succeed in an unopposed
-                                Swim roll.
-1D6+12        10m diameter         A riptide or vicious eddy drags swimmers under
-                                the surface unless they succeed in an unopposed
-                                Brawn roll.
-1D6+18        100m diameter        Whirlpools engulf swimmers and drowns them
-                                unless they succeed in an unopposed Resilience roll.
-1D6+24        1 km diameter        Tidal wave or river bore swamps and capsizes
-                                boats unless rower or helmsman succeeds in an
-                                unopposed Boating roll.
-1D6+30        10 km diameter       Maelstrom that drags ships under unless the
-                                captain or helmsman succeeds in an unopposed
-                                Shiphandling roll.
+| POW | Extent | Manifestation |
+|-----|--------|---------------|
+| 1D6+6 | 1m diameter | Mild current that prevents swimmers making headway unless they succeed in an unopposed Swim roll. |
+| 1D6+12 | 10m diameter | A riptide or vicious eddy drags swimmers under the surface unless they succeed in an unopposed Brawn roll. |
+| 1D6+18 | 100m diameter | Whirlpools engulf swimmers and drowns them unless they succeed in an unopposed Resilience roll. |
+| 1D6+24 | 1 km diameter | Tidal wave or river bore swamps and capsizes boats unless rower or helmsman succeeds in an unopposed Boating roll. |
+| 1D6+30 | 10 km diameter | Maelstrom that drags ships under unless the captain or helmsman succeeds in an unopposed Shiphandling roll. |
 
 
-Wind Spirits
+#### Wind Spirits
 Wind spirits bring changes in the weather and can modify wind strength and cloud cover.
 
-POW           Extent                   Manifestation
-1D6+6         1m diameter              Raise or lower local conditions by one step on
-                                    the 'Wind Strength' and 'Cloud Cover' tables in
-                                    the Legend Core Rulebook.
-1D6+12        10m diameter             Raise or lower local conditions by two steps.
-1D6+18        100m diameter            Raise or lower local conditions by three steps.
-1D6+24        1 km diameter            Raise or lower local conditions by four steps.
-1D6+30        10 km diameter           Raise or lower local conditions by five steps.
+| POW         | Extent                 | Manifestation |
+|-------------|------------------------|---------------|
+| 1D6+6       | 1m diameter            | Raise or lower local conditions by one step on the 'Wind Strength' and 'Cloud Cover' tables in the Legend Core Rulebook. |
+| 1D6+12      | 10m diameter           | Raise or lower local conditions by two steps. |
+| 1D6+18      | 100m diameter          | Raise or lower local conditions by three steps. |
+| 1D6+24      | 1 km diameter          | Raise or lower local conditions by four steps. |
+| 1D6+30      | 10 km diameter         | Raise or lower local conditions by five steps. |
 
 Shamanic Fetches are handled in a different way. Scandinavian shamans focus more upon
 the ability to project their own souls as animals, rather than bonding with a powerful
 spirit ally. Upon the spirit plane the shaman always appears in his fylgjur form.
 
-*	 A shaman's fetch is their fylgjur (see Viking Creatures page 171). The fylgjur does not
-have separate Characteristics but uses the shaman's own INT, POW and CHA since
-the fetch is the shaman's own soul. They are not a separate entity and the shaman
-gains no additional Magic Points for awakening their fetch.
-*	 The shaman can fully control the powers of their fylgjur, such as sending it out of
-their body as an incorporeal spirit or in its physical form. Manifesting or sending
-forth their soul requires a successful test of the Shamanism skill and costs a single
-Magic Point.
-*	 Similar to normal fetches, the shaman can use his fylgjur senses to see spirits, souls
-and magical auras, without needing to enter a trance.
-*	 Unlike normal people, a shaman can manipulate his fetch to take on the aspect of
-several different creatures. Each 20%the shaman possesses in the Shamanism skill
-(rounding up) allows mastery of a new form. This costs a number of Improvement
-Rolls (as set by the Games Master); and once chosen this new animal form cannot
-be changed.
-*	 Since the fylgjur is the shaman's soul, it cannot be in two places at once. Thus a
-shaman who sends forth their fetch lays helpless and unprotected. 'His body lay
-then as if sleeping or dead, but he was then a bird or animal, fish or snake, and travelled
-in a moment to faraway lands on his errands or those of other men' – Ynglinga Saga
+* A shaman's fetch is their fylgjur (see Viking Creatures page 171). The fylgjur does not
+  have separate Characteristics but uses the shaman's own INT, POW and CHA since
+  the fetch is the shaman's own soul. They are not a separate entity and the shaman
+  gains no additional Magic Points for awakening their fetch.
+* The shaman can fully control the powers of their fylgjur, such as sending it out of
+  their body as an incorporeal spirit or in its physical form. Manifesting or sending
+  forth their soul requires a successful test of the Shamanism skill and costs a single
+  Magic Point.
+* Similar to normal fetches, the shaman can use his fylgjur senses to see spirits, souls
+  and magical auras, without needing to enter a trance.
+* Unlike normal people, a shaman can manipulate his fetch to take on the aspect of
+  several different creatures. Each 20%the shaman possesses in the Shamanism skill
+  (rounding up) allows mastery of a new form. This costs a number of Improvement
+  Rolls (as set by the Games Master); and once chosen this new animal form cannot
+  be changed.
+* Since the fylgjur is the shaman's soul, it cannot be in two places at once. Thus a
+  shaman who sends forth their fetch lays helpless and unprotected. 'His body lay
+  then as if sleeping or dead, but he was then a bird or animal, fish or snake, and travelled
+  in a moment to faraway lands on his errands or those of other men' – Ynglinga Saga
 
 Shamanism is a very powerful art, almost without peer in the Viking world. Shamans
 are therefore treated with wary respect and the migratory Lapps left well alone for fear
@@ -6311,27 +6208,28 @@ are rarely granted except to tribal members or trusted friends and allies. If us
 non-shaman, the spirit performs a single service before returning to the spirit world.
 
 
-Shamanism (Pow+Cha)
+### Shamanism (Pow+Cha)
 Shamanism is an Advanced skill used to control and communicate with the spirits. It
 works precisely like a combined form of the Spirit Walking and Spirit Binding skills
 found in the Legend Core Rulebook. Thus the skill can be used to:
 
-*	   Enter a trance to observe or communicate with spirits.
-*	   Send forth their fylgjur to the spirit world.
-*	   Manifest their fylgjur as a physical creature.
-*	   Engage in spirit combat to bind or convince spirits into fetishes.
+* Enter a trance to observe or communicate with spirits.
+* Send forth their fylgjur to the spirit world.
+* Manifest their fylgjur as a physical creature.
+* Engage in spirit combat to bind or convince spirits into fetishes.
 
 Unlike Spirit Walking, Shamanism requires a preparatory trance lasting a number of
 hours equal to their species maximum POW minus their Characteristic POW to enter
 or observe the spirit world, or manifest their fylgjur. Magic Point costs remain the same.
 
 
-Shape-shifting Magic
-'A spell had been cast upon them, for which reason wolves' hides hung in the house overt
-them... Sigmundr and Sinfjotli put on the hides and were not able to come out of them, and
-the same power followed as before, and they also howled like wolves.'
+## Shape-shifting Magic
 
-- Volsunga Saga
+> 'A spell had been cast upon them, for which reason wolves' hides hung in the house overt
+> them... Sigmundr and Sinfjotli put on the hides and were not able to come out of them, and
+> the same power followed as before, and they also howled like wolves.'
+> 
+> - Volsunga Saga
 
 
 Shape-shifting differs from an animalistic spirit sending, in that spirit forms are
@@ -6358,7 +6256,7 @@ berserkergang. Such is the strength of their transformation that they are repute
 immune to fire and iron, although not to the teeth or talons of another shape-shifter.
 
 
-Shape-shifting (Pow+Con)
+### Shape-shifting (Pow+Con)
 Shape-shifting is an Advanced skill used to transform into the shape of a specific
 animal. This can be any type of natural creature native to the user's homeland and can
 include birds of prey or even whales!
@@ -6370,11 +6268,10 @@ for each creature.
 To change into the animal form the user must possess the correct animal skin, spend a
 Combat Action and make a successful Skill Test.
 
-*	   A critical success only costs a single Magic Point.
-*	   A normal success costs the normal number of Magic Points.
-*	   A failure also costs the normal number of Magic Points but the transformation fails.
-*	   A fumble costs all of the user's remaining Magic Points and they cannot attempt to
-  shape-shift again for a day and a night.
+* A critical success only costs a single Magic Point.
+* A normal success costs the normal number of Magic Points.
+* A failure also costs the normal number of Magic Points but the transformation fails.
+* A fumble costs all of the user's remaining Magic Points and they cannot attempt to shape-shift again for a day and a night.
 
 The cost of shape-shifting is proportional to the bulk of the form being assumed; 1
 Magic Point per 3 SIZ of the creature. It costs an Adventurer nothing to return to their
@@ -6399,7 +6296,7 @@ a shape-shifter remains an animal, they must roll an unopposed Persistence test.
 means that the shape-shifter loses their mind and will remain an animal.
 
 
-Wondrous Items
+## Wondrous Items
 In Scandinavian mythology, there are many wondrous items crafted by the gods and
 giants. By far the most skilled of all artificers however are the dwarfs. They forge the
 mightiest of weapons, the most beautiful of jewels and the cleverest of devices. Whist
@@ -6415,7 +6312,7 @@ Most of these enchanted weapons are very resilient to breaking; generally ignori
 damage that does not come from another ensorcelled weapon or some mighty
 mythological creature, such as the corrosive blood of a troll or fire of a dragon.
 
-Andvarinaut
+**Andvarinaut**  
 The 'Andvari Gem' is a cursed ring that brings misfortune to all who hold it. Originally
 part of a treasure horde stolen from the dwarf Andvari by Loki as part of a weregild to
 pay for the accidental death of Ottar, the ring was given to Hreidmar, who was then
@@ -6427,55 +6324,13 @@ Gazing upon Andvarinaut forces the observer to immediately make an opposed test 
 their Persistence against the ring's Instil Murderous Greed skill of 100%. Failure forces
 the victim to obtain the ring by any means necessary.
 
-Magical Weapon Traits
-A number of the following weapons have unusual powers or abilities not currently
-covered in the Legend rules. A number of new 'magical' traits have been added to
-represent the mythical abilities these weapons had in the sagas.
-
-Creature Bane: The weapon was forged to kill a specific type of creature. Inflicting
-a wound on that species or race forces the injured creature to make an immediate
-opposed test of their Persistence against the attack roll. Failure results in immediate
-death.
-
-Cunning Stroke: The weapon instinctively sneaks past the defences of an opponent.
-On a successful attack the weapon gains two free levels of the Combat Manoeuvre
-Bypass Parry. Thus it would reduce the size rating of a Viking Shield from Large to
-Small or a Viking Sword from Medium to none.
-
-Enduring Wounds: Injuries inflicted by the weapon cannot heal naturally. The damage
-and any inability caused receiving it (such as unconsciousness or limb incapacitation)
-persists until the wounds are treated magically.
-
-Faithful: The weapon will return to its rightful owner by whatever twisted fate necessary.
-Ownership can only be transferred if the current owner is defeated honourably and the
-sword claimed as spoils, or if he voluntarily passes it on.
-
-Fights of Itself: The weapon can fight by itself, dancing in the air to inflict wounds on
-its owner's enemies. Although not wielded directly by its bearer, it has the same number
-of Combat Actions and uses his weapon skill to attack and defend. If the bearer is
-rendered unconscious or dead, the sword ceases to fight.
-
-Keen Edged: A bladed weapon gifted with this trait can cut through armour or
-weapons with no apparent effort. It automatically cuts straight through any protection
-as if using the Bypass Armour Combat Manoeuvre. If the wielder uses the weapon to
-Sunder armour or weapons, then the blade also ignores the Armour Points of inanimate
-objects.
-
-Never Misses: The weapon almost always hits its target, so that a failed attack roll is
-treated as a normal success instead, as if under the effect of the Divine Magic spell
-Sureshot (see page 125 of the Legend Core Rulebook)
-
-Returning: If thrown or shot, the weapon returns to the hand or quiver of the user,
-ready to be used on his next turn.
-
-
-Ægishjalmarr
+**Ægishjalmarr**  
 The 'Helm of Awe' is the helmet of Odin, which inspires terror in his foes. All who
 gaze upon it must make a single opposed test of their Persistence against the Influence
 of the wearer. Failure results in suffering the effect of Battle Fetter for the remainder of
 their wearer's presence.
 
-Brisingamen
+**Brisingamen**  
 The Brisingamen is the beautiful jewelled necklace of the goddess Freyja, who slept
 with each of its four dwarf creators (the Brisings) in payment for it. Disgusted by her
 acts Odin ordered Loki to steal the necklace and chastised Freyja for her infidelity,
@@ -6484,54 +6339,39 @@ offering only to return it if she caused a war between two great kings.
 Anyone wearing Brisingamen gains a +100% bonus to their Influence and Seduction
 skills.
 
-Dainsleif
+**Dainsleif**  
 'Dain's Heirloom' is a blood thirsty sword that belonged to King Hogni. It is cursed so
 that each time the blade is drawn it kills a man. In combat it twists through defences
 and wounds made by it never heal naturally.
 
-             Damage STR/           Combat        Magical      AP/
-Weapon Handedness Dice   DEX Size Reach Manoeuvres Traits      ENC HP
-Dainleif Single   1D8    9/7 M M        Bleed, Impale Cunning 2    12/20
-                                                 Stroke,
-                                                 Enduring
-                                                 Wounds
+> 'Thou hast made this offer over-late, if thou wouldst make peace: for now I have drawn
+> Dainsleif, which the dwarves made, and which must cause a man's death every time it is
+> bared, nor ever fails in its stroke; moreover the wound heals not if one be scratched with it'
 
-'Thou hast made this offer over-late, if thou wouldst make peace: for now I have drawn
-Dainsleif, which the dwarves made, and which must cause a man's death every time it is
-bared, nor ever fails in its stroke; moreover the wound heals not if one be scratched with it'
-
-Draupnir
+**Draupnir**  
 'The Dripper' is the golden arm-ring of Odin, which produces eight new gold rings of
 equal weight on every ninth night.
 
-Freyja's Feathered Cloak
+**Freyja's Feathered Cloak**  
 A marvellous cloak of feathers belonging to Freyja, anyone donning the garment is
 instantly transformed into a falcon, able to fly great distances at speed.
 
 The cloak grants the wearer the following skill: Shape-shifting (Falcon) 100%.
 
-
-Hringhorni
+**Hringhorni**  
 Balder's mighty ship, the largest ever made, in which he and his wife Nanna were
 cremated after it was pushed out into the waves by the giantess Hyrrokkin.
 
 The magic of Hringhorni is that it can carry an entire army or tribe with sufficient
 space for everyone aboard.
 
-Gambanteinn
+**Gambanteinn**  
 'Rod of Revenge' the dwarf forged sword of Freyr, which fights by itself and is fatal
 against the race of giants. The weapon was foolishly traded by Freyr to the female
 Jotun Gerdr as a sign of his love. Although his marriage made him happy, Freyr was
 eventually killed by the fire giant Surtr with his own blade.
 
-                    Damage STR/          Combat        Magical   AP/
-Weapon      Handedness Dice   DEX SizeReach Manoeuvres Traits ENC HP
-Gambanteinn Single     1D8    9/7 M M       Bleed, Impale Giant 2   18/20
-                                                       Bane,
-                                                       Fights of
-                                                       Itself
-
-Gjall
+**Gjall**  
 'Ringing Horn' is the horn, which Heimdall blows to announce portentous events. It
 is sounded each time the one of the gods crosses Bifrost to arrive in Asgard and winded
 more urgently when danger threatens. At the eve of Ragnarok Heimdall will sound to
@@ -6539,58 +6379,43 @@ horn so loudly that all the nine worlds shall hear its tone. Heimdall normally c
 Gjall under the third root of Yggdrasil to prevent it being stolen by the giants, thus
 enabling them to attack Asgard without warning.
 
-Gleipnir
+**Gleipnir**  
 'Open One' was the third of a series of magical chains used to bind Fenris. The first
 called Loding and the second named Dromi failed to restrain the monstrous wolf. The
 dwarfs forged Gleipnir from the sound of a cat's footfall, the beard of a woman, the
 roots of a mountain, the sinews of a bear, the breath of a fish and the spittle of a bird.
 The resulting binding was as thin as a ribbon but impossible to break.
 
-Golden Hair of Sif
+**Golden Hair of Sif**  
 After Loki cut Sif 's hair as a trick, the dwarf sons of Ivaldi forged new hair from strands
 of fine gold, which when attached to her head grew like real hair. Although lacking any
 significant power, the hair grants its wearer a CHA of 25.
 
-Gram
+**Gram**  
 'Wrath' was the sword of Sigmund, a gift from Odin who thrust it into the tree
 Barnstokk from which Sigmund drew it. Odin later shattered the blade to cause
 Sigmund's downfall and the fragments were later re-forged for his son Sigurd, by the
 dwarf Regin. To prove its worth, the blade cleaved through the anvil upon which it was
 forged and was used to slay the dragon Fafnir.
 
-
-             Damage STR/          Combat        Magical
-Weapon Handedness Dice   DEX SizeReach Manoeuvres Traits ENC AP/HP
-Gram Double       1D10 9/7 L L         Bleed, Impale Dragon 2 15/20
-                                                Bane,
-                                                Keen
-                                                Edged
-
-Gullinbursti
+**Gullinbursti**  
 'Golden Bristles' is Freyr's magical boar made by the sons of Ivaldi. It is a deadly
 opponent in battle.
 
-'Sindri laid a pigskin in the hearth and bade Brokkr blow, and did not cease work until he
-took out of the hearth that which he had laid therein. But when he went out of the smithy,
-while the other dwarf was blowing, straightway a fly settled upon his hand and stung: yet he
-blew on as before, until the smith took the work out of the hearth; and it was a boar, with
-mane and bristles of gold. ... Then Brokkr brought forward his gifts: ... to Freyr he gave the
-boar, saying that it could run through air and water better than any horse, and it could
-never become so dark with night or gloom of the Murky Regions that there should not be
-sufficient light where he went, such was the glow from its mane and bristles'
+> 'Sindri laid a pigskin in the hearth and bade Brokkr blow, and did not cease work until he
+> took out of the hearth that which he had laid therein. But when he went out of the smithy,
+> while the other dwarf was blowing, straightway a fly settled upon his hand and stung: yet he
+> blew on as before, until the smith took the work out of the hearth; and it was a boar, with
+> mane and bristles of gold. ... Then Brokkr brought forward his gifts: ... to Freyr he gave the
+> boar, saying that it could run through air and water better than any horse, and it could
+> never become so dark with night or gloom of the Murky Regions that there should not be
+> sufficient light where he went, such was the glow from its mane and bristles'
 
-Gungnir
+**Gungnir**  
 'Swaying One' is the dwarf fashioned spear of Odin. Its rune carved tip is enchanted so
 that it never misses its mark, no matter how far away that target may be.
 
-             Damage STR/           Combat     Magical
-Weapon Handedness Dice   DEX Size Reach Manoeuvres Traits ENC AP/HP
-Gungir Single     1D8+1 5/5 M L         Impale     Keen 2     18/10
-                                              Edged,
-                                              Never
-                                              Misses
-
-Hlidskjalf
+**Hlidskjalf**  
 The high seat of Odin set up in his hall Valaskjalf. Whomever sits in Hlidskjalf can see
 into all the nine worlds and nothing is hidden from their gaze no matter what shape
 or magic they use to hide.
@@ -6598,7 +6423,7 @@ or magic they use to hide.
 The high seat provides Second Sight (as per the galdr) and adds 100% to the viewer's
 Perception skill.
 
-Jarngreipr
+**Jarngreipr**  
 The iron gauntlets of Thor, which allow him to throw the hammer Mjollnir at his
 enemies and permit him to catch or hold glowing-hot iron – as when Geirrod threw a
 lump at Thor and he threw it back so hard it passed through an iron pillar and lodged
@@ -6607,7 +6432,7 @@ gifts from the friendly giantess, Grid.
 
 The iron gauntlets protect the wearer from any heat or fire damage.
 
-Megingjord
+**Megingjord**  
 Thor's 'Girdle of Might' that make him incredibly strong. It was the blessing of his belt
 that allowed him to drag up the Midgard Serpent during a fishing trip.
 
@@ -6616,52 +6441,38 @@ to muster their full might they can magnify their strength for a single action. 
 round of delay further increments this bonus. Thus one round will triple the wearer's
 strength; two rounds quadruple it and so on.
 
-Mistilteinn
+**Mistilteinn**  
 The sword 'Mistletoe' is a famous man killer. In the hands of King Thrainn it slew 420
 men and was buried with its lord after his death. It was recovered by a hero named
 Hromundr who entered the barrow and defeated the king who had risen as a draugr. The
 sword was later lost at sea due to witchcraft but found again in the belly of a pike fish.
 
-                DamageSTR/         Combat     Magical
-Weapon Handedness Dice DEX Size Reach Manoeuvres Traits ENC AP/HP
-Mistilteinn Single 1D8   9/7 M M      Bleed,     Cunning 2  12/20
-                                   Impale     Stroke,
-                                              Faithful
-
-Mjollnir
+**Mjollnir**  
 The 'Crusher' is Thor's famous hammer, which can slay giants or level mountains with
 a single blow. In addition to being a fearsome weapon, the hammer can grow or shrink
 depending on the desire of the wielder.
 
-               Damage STR/           Combat     Magical         AP/
-Weapon Handedness Dice   DEX Size Reach Manoeuvres Traits      ENC HP
-Gungir Single     3D6    25/15 E M      Stun       Giant Bane, 2   21/20
-                                     Location   Never
-                                                Misses,
-                                                Returning
+> 'If he threw Mjollnir at something, it would never miss and never fly so far from his hand
+> that it would not find its way back, and when he wanted, it would be so small that it could
+> be carried inside his tunic.'
 
-'If he threw Mjollnir at something, it would never miss and never fly so far from his hand
-that it would not find its way back, and when he wanted, it would be so small that it could
-be carried inside his tunic.'
-
-
-Naglfar
+**Naglfar**  
 The 'Nail Ship' is the vessel constructed by the giant Naglfari to carry the giants to the
 final battle at Ragnarok. It is made out of the nails of the deceased, which has led to the
 tradition of trimming the fingernails of the deceased, to delay the eventual completion
 of Nagelfar.
 
-Shoes of Light Steps
+**Shoes of Light Steps**  
 Worn by Loki, these shoes allow him to run over water or through the air as if it were
 solid ground.
 
-Skidbladnir
+**Skidbladnir**  
 'Covered with Pieces of Wood' is Freyr's magic ship. Constructed by the sons of the
 dwarf Ivaldi, the ship is capable of sailing across the seas and the skies, its sail always
 filling with a fair wind. It is large enough to hold all the Æsir and their horses but is
 collapsible and can be folded up to fit in a pocket!
 
-Skofnung
+**Skofnung**  
 'Gnawer' is the sword of King Hrolf Kraki, which imbued with supernatural hardness
 and sharpness, rings loudly whenever it bites bone (inflicts a Serious or Major Wound).
 In addition the injuries it gives cannot be healed until rubbed with the stone that
@@ -6669,17 +6480,11 @@ accompanies it. The sword had two wyrds. Firstly it should not be drawn in the
 presence of women and secondly the sun must never shine on its hilt. Failing either
 will cause the blade to turn on its wielder.
 
-             Damage STR/           Combat        Magical        AP/
-Weapon Handedness Dice   DEX Size Reach Manoeuvres Traits        ENC HP
-Skofnung Single   1D8    9/7 M M        Bleed, Impale Enduring 2     12/20
-                                                 Wounds,
-                                                 Keen Edged
+> 'That's when King Hrolf rushes at him and hacked off both his buttocks, right down to the
+> bone, with the sword Skofnung, the best of all swords to have ever been borne in all the
+> north'.
 
-'That's when King Hrolf rushes at him and hacked off both his buttocks, right down to the
-bone, with the sword Skofnung, the best of all swords to have ever been borne in all the
-north'.
-
-Suttungmjadar
+**Suttungmjadar**  
 The mead of poetry was fermented from the blood of wise Kvasir, who was murdered
 by two dwarfs and his ichor mixed with honey. This magical mead was so potent the
 dwarves exchanged it for their lives to escape being slain by the giant Suttung. Odin
@@ -6691,21 +6496,13 @@ in poetry.
 Drinking a sip of Suttungmjadar either raises one of the imbiber's Lore skills or their
 Poetry skill to 100%.
 
-
-Tyrfing
+**Tyrfing**  
 'Battle Fang' is an infamous blade that never misses a stroke, can cut through stone and
 iron and suffers no damage. Forged under duress by the dwarfs Dvalin and Durin, they
 cursed the blade so that it would kill a man every time it was drawn, perform three
 great evils and slay King Svafrlami who had forced them to make the sword.
 
-               Damage STR/           Combat        Magical   AP/
-Weapon Handedness Dice   DEX Size Reach Manoeuvres Traits ENC HP
-Tyrfing Single    1D8    9/7 M M        Bleed, Impale Keen    2 15/20
-                                                   Edged,
-                                                   Never
-                                                   Misses
-
-Vidar's Invulnerable Shoes
+**Vidar's Invulnerable Shoes**  
 The thick soled shoes of Vidar are formed from all the cast-off leather scraps that
 mortals trim from their own shoes. Invulnerable to damage they will enable Vidar to
 plant one foot on the lower jaw of Fenris enabling him to tear the monstrous wolf 's
@@ -6714,86 +6511,140 @@ mouth apart, thus finally killing him.
 The shoes are stronger than iron and have an infinite number of Armour Points
 protecting the legs of the wearer.
 
+##### Magical Weapons
 
-Minor Magical Items
+| Weapon        | Handedness | Damage Dice  | STR/DEX | Size | Reach | Combat Manoeuvres | Magical Traits                      | ENC | AP/HP |
+|---------------|------------|--------------|---------|------|-------|-------------------|-------------------------------------|-----|-------|
+| Skofnung      | Single     | 1D8          | 9/7     | M    | M     | Bleed, Impale     | Enduring Wounds, Keen Edged         | 2   | 12/20 |
+| Tyrfing       | Single     | 1D8          | 9/7     | M    | M     | Bleed, Impale     | Keen Edged, Never Misses            | 2   | 15/20 |
+| Dainleif      | Single     | 1D8          | 9/7     | M    | M     | Bleed, Impale     | Cunning Stroke, Enduring Wounds     | 2   | 12/20 |
+| Gambanteinn   | Single     | 1D8          | 9/7     | M    | M     | Bleed, Impale     | Giant Bane, Fights of Itself        | 2   | 18/20 |
+| Gram          | Double     | 1D10         | 9/7     | L    | L     | Bleed, Impale     | Dragon Bane, Keen Edged             | 2   | 15/20 |
+| Gungir        | Single     | 1D8+1        | 5/5     | M    | L     | Impale            | Keen Edged, Never Misses            | 2   | 18/10 |
+| Mistilteinn   | Single     | 1D8          | 9/7     | M    | M     | Bleed, Impale     | Cunning Stroke, Faithful            | 2   | 12/20 |
+| Gungir        | Single     | 3D6          | 25/15   | E    | M     | Stun Location     | Giant Bane, Never Misses, Returning | 2   | 21/20 |
+
+> #### Magical Weapon Traits
+> 
+> A number of the following weapons have unusual powers or abilities not currently
+> covered in the Legend rules. A number of new 'magical' traits have been added to
+> represent the mythical abilities these weapons had in the sagas.
+> 
+> **Creature Bane**: The weapon was forged to kill a specific type of creature. Inflicting
+> a wound on that species or race forces the injured creature to make an immediate
+> opposed test of their Persistence against the attack roll. Failure results in immediate
+> death.
+> 
+> **Cunning Stroke**: The weapon instinctively sneaks past the defences of an opponent.
+> On a successful attack the weapon gains two free levels of the Combat Manoeuvre
+> Bypass Parry. Thus it would reduce the size rating of a Viking Shield from Large to
+> Small or a Viking Sword from Medium to none.
+> 
+> **Enduring Wounds**: Injuries inflicted by the weapon cannot heal naturally. The damage
+> and any inability caused receiving it (such as unconsciousness or limb incapacitation)
+> persists until the wounds are treated magically.
+> 
+> **Faithful**: The weapon will return to its rightful owner by whatever twisted fate necessary.
+> Ownership can only be transferred if the current owner is defeated honourably and the
+> sword claimed as spoils, or if he voluntarily passes it on.
+> 
+> **Fights of Itself**: The weapon can fight by itself, dancing in the air to inflict wounds on
+> its owner's enemies. Although not wielded directly by its bearer, it has the same number
+> of Combat Actions and uses his weapon skill to attack and defend. If the bearer is
+> rendered unconscious or dead, the sword ceases to fight.
+> 
+> **Keen Edged**: A bladed weapon gifted with this trait can cut through armour or
+> weapons with no apparent effort. It automatically cuts straight through any protection
+> as if using the Bypass Armour Combat Manoeuvre. If the wielder uses the weapon to
+> Sunder armour or weapons, then the blade also ignores the Armour Points of inanimate
+> objects.
+> 
+> **Never Misses**: The weapon almost always hits its target, so that a failed attack roll is
+> treated as a normal success instead, as if under the effect of the Divine Magic spell
+> Sureshot (see page 125 of the Legend Core Rulebook)
+> 
+> **Returning**: If thrown or shot, the weapon returns to the hand or quiver of the user,
+> ready to be used on his next turn.
+
+
+### Minor Magical Items
 Many minor magical items can be created using the Rune Carving skill. A few of the
 following examples are items mentioned in the sagas, with suggested Galdrastafir to
 give them their potency.
 
-*	 Fire Proof Tunic – A tunic ensorcelled with Quench Flame.
-*	 Gloves of Healing Touch – Gloves enchanted with Heal Wound which affect what
-is touched, rather than who is wearing them.
-*	 Helm of Beserkergang – A helmet engraved with the Ease Pain runes.
-*	 Iron Proof Shirt – A reindeer-skin shirt enchanted with Ward Injury, known as
-gorningstakkr in the sagas.
-*	 Legendary Weapon – A sword, axe or spear ensorcelled with Grant Victory or
-Grow Strong.
-*	 Raven War Banner – A banner woven with many Battle Fetter runes.
-*	 Shield of Warding – A shield graved with Deflect Arrow or Blunt Weapon.
-*	 Wand of Dispelling – A stick or staff carved with a single use of Break Charm,
-which can be recharged with an appropriate investment of Magic Points.
+* Fire Proof Tunic – A tunic ensorcelled with Quench Flame.
+* Gloves of Healing Touch – Gloves enchanted with Heal Wound which affect what
+  is touched, rather than who is wearing them.
+* Helm of Beserkergang – A helmet engraved with the Ease Pain runes.
+* Iron Proof Shirt – A reindeer-skin shirt enchanted with Ward Injury, known as
+  gorningstakkr in the sagas.
+* Legendary Weapon – A sword, axe or spear ensorcelled with Grant Victory or
+  Grow Strong.
+* Raven War Banner – A banner woven with many Battle Fetter runes.
+* Shield of Warding – A shield graved with Deflect Arrow or Blunt Weapon.
+* Wand of Dispelling – A stick or staff carved with a single use of Break Charm,
+  which can be recharged with an appropriate investment of Magic Points.
 
 These items could be heirlooms still in existence long after their creators have died. To
 determine the Magnitude of their effect, roll on the table on page 170.
 
-
-1D100                              Magnitude
-01–20                              1
-21–50                              2
-51–70                              3
-71–80                              4
-81–88                              5
-89–94                              6
-95–98                              7
-99–100                             8
-
-
+| 1D100                            | Magnitude |
+|----------------------------------|-----------|
+| 01–20                            | 1         |
+| 21–50                            | 2         |
+| 51–70                            | 3         |
+| 71–80                            | 4         |
+| 81–88                            | 5         |
+| 89–94                            | 6         |
+| 95–98                            | 7         |
+| 99–100                           | 8         |
 
 
-Raven Banners
+> #### Raven Banners
+> 
+> '...the war-banner which they called “Raven”. It is said that three sisters of Hungar and
+> Habba, the daughters of Lodbrokr, had woven that banner and completely prepared it
+> during one single midday's time. It also is said that in any battle where the signum was
+> borne before them, if they were to obtain the victory one would see in the middle of the
+> signum a living raven flying; but if they were about to be defeated, it hung straight without
+> movement: and this always proved to be true.'
+> 
+> The Raven Banners were prophetic battle standards, which warriors believed in
+> implicitly. Used by the Danes against the Anglo-Saxons, they infused the Vikings with
+> the faith of Odin gazing down on them, ready to pluck up the bravest to be borne back
+> to Valhalla. The Saxons on the other hand, thoroughly converted to Christianity saw
+> the banners as pagan idols to be greatly feared.
+> 
+> It was the reputation of the banner's infallible prophecies of victory, which perhaps won
+> more battles for the Danes than their force of arms. The psychological warfare working
+> precisely like Odin's magical curse of battle fetter on everyone in the enemy army!
 
-'...the war-banner which they called “Raven”. It is said that three sisters of Hungar and
-Habba, the daughters of Lodbrokr, had woven that banner and completely prepared it
-during one single midday's time. It also is said that in any battle where the signum was
-borne before them, if they were to obtain the victory one would see in the middle of the
-signum a living raven flying; but if they were about to be defeated, it hung straight without
-movement: and this always proved to be true.'
 
-The Raven Banners were prophetic battle standards, which warriors believed in
-implicitly. Used by the Danes against the Anglo-Saxons, they infused the Vikings with
-the faith of Odin gazing down on them, ready to pluck up the bravest to be borne back
-to Valhalla. The Saxons on the other hand, thoroughly converted to Christianity saw
-the banners as pagan idols to be greatly feared.
+# Viking Creatures
 
-It was the reputation of the banner's infallible prophecies of victory, which perhaps won
-more battles for the Danes than their force of arms. The psychological warfare working
-precisely like Odin's magical curse of battle fetter on everyone in the enemy army!
-
-
-Viking Creatures
-'We return now to tell of Gest. Towards midnight he heard a loud noise outside, and very
-soon there walked a huge troll-wife into the room. She carried a trough in one hand and
-a rather large cutlass in the other. She looked round the room as she entered, and on seeing
-Gest lying there she rushed at him; he started up and attacked her furiously.
-
-They fought long together; she was the stronger but he evaded her skilfully. Everything near
-them and the panelling of the back wall were broken to pieces. She dragged him through
-the hall door out to the porch, where he resisted vigorously. She wanted to drag him out of
-the house, but before that was done they had broken up all the fittings of the outer door and
-borne them away on their shoulders. Then she strove to get to the river and among the rocks.
-
-Gest was terribly fatigued, but there was no choice but either to brace himself or be dragged
-down to the rocks. All night long they struggled together, and he thought he had never met
-with such a monster for strength. She gripped him so tightly to herself that he could do
-nothing with either hand but cling to her waist.
-
-When at last they reached a rock by the river he swung the monster round and got his right
-hand loose. Then he quickly seized the short sword which he was wearing, drew it and
-struck at the troll's right shoulder, cutting off her right arm and releasing himself. She sprang
-among the rocks and disappeared in the waterfall. Gest, very stiff and tired, lay long by the
-rock. At daylight he went home and lay down on his bed, blue and swollen all over.'
-
-- Grettirs Saga
+> 'We return now to tell of Gest. Towards midnight he heard a loud noise outside, and very
+> soon there walked a huge troll-wife into the room. She carried a trough in one hand and
+> a rather large cutlass in the other. She looked round the room as she entered, and on seeing
+> Gest lying there she rushed at him; he started up and attacked her furiously.
+> 
+> They fought long together; she was the stronger but he evaded her skilfully. Everything near
+> them and the panelling of the back wall were broken to pieces. She dragged him through
+> the hall door out to the porch, where he resisted vigorously. She wanted to drag him out of
+> the house, but before that was done they had broken up all the fittings of the outer door and
+> borne them away on their shoulders. Then she strove to get to the river and among the rocks.
+> 
+> Gest was terribly fatigued, but there was no choice but either to brace himself or be dragged
+> down to the rocks. All night long they struggled together, and he thought he had never met
+> with such a monster for strength. She gripped him so tightly to herself that he could do
+> nothing with either hand but cling to her waist.
+> 
+> When at last they reached a rock by the river he swung the monster round and got his right
+> hand loose. Then he quickly seized the short sword which he was wearing, drew it and
+> struck at the troll's right shoulder, cutting off her right arm and releasing himself. She sprang
+> among the rocks and disappeared in the waterfall. Gest, very stiff and tired, lay long by the
+> rock. At daylight he went home and lay down on his bed, blue and swollen all over.'
+> 
+> - Grettirs Saga
 
 Mighty creatures and terrible monsters are a staple part of Viking tales. A highly
 superstitious people, the Vikings fear the unknown; dreading the spirits of the deep
@@ -6808,12 +6659,12 @@ have much imagination when compared to the chimerical wonders of other cultures.
 
 This chapter is broken into three sections for ease of use.
 
-*	 Animals: Characteristics of normal animals that can be freely encountered in
-historical or 'real world' campaigns.
-*	 Supernatural Creatures: Fantastic beings that haunt the world, believed by all to
-exist but normally only met in fantasy campaigns.
-*	 Unique Monsters: The legendary one-of-a-kind fiends that should only be faced in
-mythological campaigns where players are divine or semi-divine themselves.
+* Animals: Characteristics of normal animals that can be freely encountered in
+  historical or 'real world' campaigns.
+* Supernatural Creatures: Fantastic beings that haunt the world, believed by all to
+  exist but normally only met in fantasy campaigns.
+* Unique Monsters: The legendary one-of-a-kind fiends that should only be faced in
+  mythological campaigns where players are divine or semi-divine themselves.
 
 Most of the following creatures should be used sparingly. Violent beasts do not regularly
 appear in waves to be slaughtered every Odinsday. Such occurrences are rare events.
@@ -6832,15 +6683,16 @@ Adventurers will be rubbing shoulders with giants on a regular basis or going of
 monster hunts, which seems a popular pastime of the Norse gods.
 
 
-Animals
+## Animals
 Living in the bleak northern realms of Europe, the number and diversity of dangerous
 animals available to challenge Viking Adventurers is rather limited. The natural
 elements or men themselves are the most common foe in their sagas.
 
 A few northern animals are described here, either due to the possibility of the creature:
-*	 Attacking Adventurers out of hunger or anger.
-*	 Being hunted for food or sport.
-*	 Being used in animal fights for entertainment.
+
+* Attacking Adventurers out of hunger or anger.
+* Being hunted for food or sport.
+* Being used in animal fights for entertainment.
 
 Smaller Scandinavian animals are not detailed since they pose no real threat to a
 hunter. These include Beavers, Ermine, Foxes, Hares, Lynx, Martins, Mink, Otters
@@ -6854,52 +6706,54 @@ cunning animals may have better skills to reflect their experience. All of the a
 described here use the Monster Coliseum convention of doubling Fixed INT to
 determine their number of Combat Actions and Strike Rank.
 
-Fighting Quadrupeds
-As a rule when four legged animals fight, the creature places its head towards its
-opponent. Given the size of most quadrupeds, it is difficult for a single human
-opponent to strike any location other than the forequarters, front legs or head of the
-beast. For this reason, it is suggested that when an Adventurer attacks such an animal,
-they roll 1D10+10 for the Hit Location. Of course, if the animal is surrounded by
-multiple foes, then the full range of its target locations should be available.
+> #### Fighting Quadrupeds
+> As a rule when four legged animals fight, the creature places its head towards its
+> opponent. Given the size of most quadrupeds, it is difficult for a single human
+> opponent to strike any location other than the forequarters, front legs or head of the
+> beast. For this reason, it is suggested that when an Adventurer attacks such an animal,
+> they roll 1D10+10 for the Hit Location. Of course, if the animal is surrounded by
+> multiple foes, then the full range of its target locations should be available.
 
 
-
-
-Aurochs
+### Aurochs
 Huge forest cattle standing nearly two metres at the shoulder and weighing over a
 metric ton, aurochs are a giant Pleistocene species still common across Scandinavia but
 become rare by the end of the Viking Age. They are famed for their strength, which is
 why the Second Rune in the futhark is named after them. Hunting aurochs is a near
 suicidal pastime but very rewarding in terms of the quantity of meat provided.
 
-         Dice       Average           1D20       Hit Location          AP/HP
-STR         4D6+24     38                1–2        Right Hind Leg        4/12
-CON         3D6+10     21                3–4        Left Hind Leg         4/12
-SIZ         4D6+24     38                5–7        Hindquarters          4/13
-DEX         2D6        7                 8–10       Forequarters          4/14
-INT         4          4                 11–13      Right Front Leg       4/11
-POW         3D6        11                14–16      Left Front Leg        4/11
-                                      17–20      Head                  4/12
+|           | Dice     | Average         | 1D20     | Hit Location        | AP/HP |
+|-----------|----------|-----------------|----------|---------------------|-------|
+| STR       | 4D6+24   | 38              | 1–2      | Right Hind Leg      | 4/12  |
+| CON       | 3D6+10   | 21              | 3–4      | Left Hind Leg       | 4/12  |
+| SIZ       | 4D6+24   | 38              | 5–7      | Hindquarters        | 4/13  |
+| DEX       | 2D6      | 7               | 8–10     | Forequarters        | 4/14  |
+| INT       | 4        | 4               | 11–13    | Right Front Leg     | 4/11  |
+| POW       | 3D6      | 11              | 14–16    | Left Front Leg      | 4/11  |
+|           |          |                 | 17–20    | Head                | 4/12  |
 
+```
 Combat Actions         2                 Typical Armour: Tough Hide. No Armour
-                                      Penalty
-Damage Modifier        +2D8
-Magic Points           11                Traits: Trample
-Movement               12m
-Strike Rank            +8                Skills: Athletics 55%, Brawn 70%,
-                                      Perception 60% Persistence 35%,
-                                      Resilience 85%
+Damage Modifier        +2D8              Penalty
+Magic Points           11
+Movement               12m               Traits: Trample
+Strike Rank            +8
+```
 
-Weapons
-Type		            Size	     Reach	   Damage		           AP/HP
-Trample		         H	        T	       1D6+2D8	           -
-Gore		            L	        M	       1D8+2D8	           As for Head
+**Skills**: Athletics 55%, Brawn 70%, Perception 60% Persistence 35%, Resilience 85%
 
-Combat Styles
+##### Weapons
+
+| Type       | Size | Reach  | Damage        | AP/HP |
+|------------|------|--------|---------------|-------|
+| Trample    | H    | T      | 1D6+2D8       | -     |
+| Gore       | L    | M      | 1D8+2D8       | As for Head |
+
+#### Combat Styles
 Gore 60%, Trample 75%
 
 
-Combat Notes
+#### Combat Notes
 Aurochs prefer to fight by charging threats with their gore attack. If the target is
 knocked prone and continues to move, the aurochs will trample until the victim stops
 responding. A successful charge increases the Damage Bonus to 2D10. If lamed an
@@ -6912,7 +6766,7 @@ Brawn of the bull. If successful, he may land safely on his feet or all fours. I
 or if unconscious, the victim suffers the equivalent to a five metre fall and lands prone.
 
 
-Bear
+### Bear
 Scandinavian bears generally leave men alone, giving settlements a wide berth. However,
 in early spring they awaken ravenous and are therefore dangerously unpredictable.
 Wounded bears often threaten humans (or their livestock) due to pain and desperate
@@ -6922,40 +6776,45 @@ wear the skin with pride.
 A bear can be very fast over short distances, easily capable of running down a man but
 unable to maintain speed for long. Bears are also excellent climbers and can swim well.
 
-      Dice         Average            1D20        Hit Location           AP/HP
-STR        3D6+12       23                 1–3         Right Hind Leg         3/8
-CON        2D6+6        13                 4–6         Left Hind Leg          3/8
-SIZ        3D6+12       23                 7–9         Abdomen                3/9
-DEX        3D6          11                 10–12       Chest                  3/10
-INT        5            5                  13–15       Right Front Leg        3/7
-POW        3D6          11                 16–18       Left Front Leg         3/7
-                                      19–20       Head                   3/8
+|          | Dice       | Average          | 1D20      | Hit Location         | AP/HP |
+|----------|------------|------------------|-----------|----------------------|-------|
+| STR      | 3D6+12     | 23               | 1–3       | Right Hind Leg       | 3/8   |
+| CON      | 2D6+6      | 13               | 4–6       | Left Hind Leg        | 3/8   |
+| SIZ      | 3D6+12     | 23               | 7–9       | Abdomen              | 3/9   |
+| DEX      | 3D6        | 11               | 10–12     | Chest                | 3/10  |
+| INT      | 5          | 5                | 13–15     | Right Front Leg      | 3/7   |
+| POW      | 3D6        | 11               | 16–18     | Left Front Leg       | 3/7   |
+|          |            |                  | 19–20     | Head                 | 3/8   |
 
-Combat Actions          2                  Typical Armour: Thick Fur. No Armour
-                                      Penalty
+```
+Combat Actions          2                  Typical Armour: Thick Fur. No Armour Penalty
 Damage Modifier         +1D10
-Magic Points            11                 Traits: None
-Movement                12m
-Strike Rank             +11                Skills: Athletics 65%, Perception 50%,
-                                      Persistence 50%, Resilience 85%, Stealth
-                                      35%, Swim 45%, Track 35%
+Magic Points            11
+Movement                12m                Traits: None
+Strike Rank             +11
+```
 
-Weapons
-Type		              Size	      Reach	    Damage		             AP/HP
-Bite		              S	         T	        1D8+1D10	            As for Head
-Claw		              M	         S	        1D6+1D10	            As for Leg
+**Skills**: Athletics 65%, Perception 50%, Persistence 50%, Resilience 85%, 
+Stealth 35%, Swim 45%, Track 35%
 
-Combat Styles
+##### Weapons
+
+| Type           | Size   | Reach | Damage          | AP/HP |
+|----------------|--------|-------|-----------------|-------|
+| Bite           | S      | T     | 1D8+1D10        | As for Head |
+| Claw           | M      | S     | 1D6+1D10        | As for Leg |
+
+#### Combat Styles
 Bite 75%, Claw 60%
 
-Combat Notes
+#### Combat Notes
 Bears rely on their fearsome claws first and foremost. Claws are capable of Sundering
 and a bear will try to rip through armour, or bypass it, to inflict the most damage. The
 claws are also used to Grip, thus allowing the creature to pull the opponent close for a
 bite – which can also sunder.
 
 
-Bear, Polar
+### Bear, Polar
 The largest and most aggressive species of bear known to the Vikings, polar bears
 live on the frozen arctic ice flows and coastline of northern Scandinavia, Russia and
 Greenland. It is a strictly carnivorous creature, dining primarily on seals and fish. They
@@ -6964,37 +6823,42 @@ are sometimes hunted for their skins, which are very valuable.
 Polar bears are excellent swimmers. They have little fear of humans and will often treat
 them as prey if they come into the bears' territory.
 
-        Dice         Average         1D20       Hit Location         AP/HP
-STR        3D6+21       32              1–3        Right Hind Leg       4/9
-CON        2D6+6        13              4–6        Left Hind Leg        4/9
-SIZ        3D6+21       32              7–9        Abdomen              4/10
-DEX        3D6          11              10–12      Chest                4/11
-INT        5            5               13–15      Right Front Leg      4/8
-POW        3D6          11              16–18      Left Front Leg       4/8
-                                     19–20      Head                 4/9
+|          | Dice       | Average       | 1D20     | Hit Location       | AP/HP |
+|----------|------------|---------------|----------|--------------------|-------|
+| STR      | 3D6+21     | 32            | 1–3      | Right Hind Leg     | 4/9   |
+| CON      | 2D6+6      | 13            | 4–6      | Left Hind Leg      | 4/9   |
+| SIZ      | 3D6+21     | 32            | 7–9      | Abdomen            | 4/10  |
+| DEX      | 3D6        | 11            | 10–12    | Chest              | 4/11  |
+| INT      | 5          | 5             | 13–15    | Right Front Leg    | 4/8   |
+| POW      | 3D6        | 11            | 16–18    | Left Front Leg     | 4/8   |
+|          |            |               | 19–20    | Head               | 4/9   |
 
+```
 Combat Actions          2               Typical Armour: Thick Fur. No Armour
-                                     Penalty
-Damage Modifier         +2D6
-Magic Points            11              Traits: None
-Movement                15m
-Strike Rank             +11             Skills: Athletics 35%, Brawn 50%, Perception
-                                     60%, Persistence 50%, Resilience 90%, Stealth
-                                     45%, Swim 80%, Track 35%
+Damage Modifier         +2D6            Penalty
+Magic Points            11
+Movement                15m             Traits: None
+Strike Rank             +11
+```
 
-Weapons
-Type		             Size	     Reach	    Damage		           AP/HP
-Bite		             M	        T	        1D8+2D6	           As for Head
-Claw		             L	        S	        1D6+2D6	           As for Leg
+**Skills**: Athletics 35%, Brawn 50%, Perception 60%, Persistence 50%, 
+Resilience 90%, Stealth 45%, Swim 80%, Track 35%
 
-Combat Styles
+##### Weapons
+
+| Type         | Size  | Reach | Damage        | AP/HP |
+|--------------|-------|-------|---------------|-------|
+| Bite         | M     | T     | 1D8+2D6       | As for Head |
+| Claw         | L     | S     | 1D6+2D6       | As for Leg |
+
+#### Combat Styles
 Bite 85%, Claw 70%
 
-Combat Notes
+#### Combat Notes
 As per Bear.
 
 
-Boar
+### Boar
 Boars are wild, feral pigs with wiry coats, long tusks and extremely poor dispositions.
 They generally live in forested areas, foraging on nuts, roots, berries and fungi. Male
 boars are solitary for most of the year but will join herds during mating season. A herd
@@ -7006,71 +6870,79 @@ Boars are ferociously territorial creatures that will attack a much larger creat
 hesitation. They are also incredibly resilient to damage and do not need to make
 Resilience rolls against any wounds save Major Wounds.
 
-      Dice         Average           1D20       Hit Location          AP/HP
-STR        3D6+6        17                1–2        Right Hind Leg        2/5
-CON        2D6+9        16                3–4        Left Hind Leg         2/5
-SIZ        2D6+3        10                5–7        Hindquarters          2/6
-DEX        3D6          11                8–10       Forequarters          2/7
-INT        5            5                 11–13      Right Front Leg       2/4
-POW        3D6          11                14–16      Left Front Leg        2/4
-                                     17–20      Head                  2/5
+|          | Dice       | Average         | 1D20     | Hit Location        | AP/HP |
+|----------|------------|-----------------|----------|---------------------|-------|
+| STR      | 3D6+6      | 17              | 1–2      | Right Hind Leg      | 2/5   |
+| CON      | 2D6+9      | 16              | 3–4      | Left Hind Leg       | 2/5   |
+| SIZ      | 2D6+3      | 10              | 5–7      | Hindquarters        | 2/6   |
+| DEX      | 3D6        | 11              | 8–10     | Forequarters        | 2/7   |
+| INT      | 5          | 5               | 11–13    | Right Front Leg     | 2/4   |
+| POW      | 3D6        | 11              | 14–16    | Left Front Leg      | 2/4   |
+|          |            |                 | 17–20    | Head                | 2/5   |
 
+```
 Combat Actions          2                 Typical Armour: Tough Hide. No Armour
-                                     Penalty
-Damage Modifier         +1D2
-Magic Points            11                Traits: None
-Movement                8m
-Strike Rank             +11               Skills: Athletics 25%, Evade 60%, Perception
-                                     50%, Persistence 35%, Resilience 65%,
-                                     Stealth 55%, Track 25%
+Damage Modifier         +1D2              Penalty
+Magic Points            11
+Movement                8m                Traits: None
+Strike Rank             +11
+```
 
+**Skills**: Athletics 25%, Evade 60%, Perception 50%, Persistence 35%, 
+Resilience 65%, Stealth 55%, Track 25%
 
+##### Weapons
 
-Weapons
-Type		             Size	       Reach	   Damage		           AP/HP
-Bite		             M	          T	       1D4+1D2	           As for Head
-Tusk		             M	          T	       1D6+1D2	           As for Head
+| Type          | Size   | Reach| Damage        | AP/HP |
+|---------------|--------|------|---------------|-------|
+| Bite          | M      | T    | 1D4+1D2       | As for Head |
+| Tusk          | M      | T    | 1D6+1D2       | As for Head |
 
-Combat Styles
+#### Combat Styles
 Boars – Tusk 65%, Sows – Bite 60%
 
-Combat Notes
+#### Combat Notes
 The gore of a boar's tusks is ferocious and it can both Sunder and Impale, although it
 tends to use Bash as its primary Combat Manoeuvre if trying to escape a hunt.
 
 
-Eagle
+### Eagle
 Eagles are the largest predatory birds in Scandinavia and prey upon creatures up to the
 size of full grown reindeer. A number of species are covered by these Characteristics,
 including White Tailed Eagles and Golden Eagles. They can also be used for large
 Ravens and Owls, the later possessing the Night Sight trait.
 
-        Dice           Average         1D20        Hit Location      AP/HP
-STR        1D3+6          8               1–5         Right Wing        –/2
-CON        2D3+3          7               6–10        Left Wing         –/2
-SIZ        1D3+1          3               11–16       Body              –/4
-DEX        3D6+18         29              17–20       Head              –/3
-INT        4              4
-POW        2D6            7
+|          | Dice         | Average       | 1D20      | Hit Location    | AP/HP |
+|----------|--------------|---------------|-----------|-----------------|-------|
+| STR      | 1D3+6        | 8             | 1–5       | Right Wing      | –/2   |
+| CON      | 2D3+3        | 7             | 6–10      | Left Wing       | –/2   |
+| SIZ      | 1D3+1        | 3             | 11–16     | Body            | –/4   |
+| DEX      | 3D6+18       | 29            | 17–20     | Head            | –/3   |
+| INT      | 4            | 4             |           |                 |       |
+| POW      | 2D6          | 7             |           |                 |       |
 
-
+```
 Combat Actions            3               Typical Armour: None
 Damage Modifier           –1D4
 Magic Points              7               Traits: None
 Movement                  16m flying
-Strike Rank               +19             Skills: Evade 90%, Flying 90%, Perception
-                                       110%, Persistence 30%, Resilience 30%,
-                                       Stealth 70% (100% for Owls)
+Strike Rank               +19
+```
 
-Weapons
-Type		             SIZ	       Reach	   Damage		          AP/HP
-Bite		             S	         T	       1D4–1D4	          As for Head
-Claw		             S	         T	       1D6–1D4	          As for Body
+**Skills**: Evade 90%, Flying 90%, Perception 110%, Persistence 30%, Resilience 30%,
+Stealth 70% (100% for Owls)
 
-Combat Styles
+##### Weapons
+
+| Type          | SIZ    | Reach | Damage       | AP/HP |
+|---------------|--------|-------|--------------|-------|
+| Bite          | S      | T     | 1D4–1D4      | As for Head |
+| Claw          | S      | T     | 1D6–1D4      | As for Body |
+
+#### Combat Styles
 Bite 50%, Claw 70%
 
-Combat Notes
+#### Combat Notes
 Large birds of prey make their initial attack by diving out of the sky. Eagles gain a
 tremendous amount of speed when plunging from great height, increasing their
 Damage Bonus by two steps. Owls and Ravens do not usually dive such great distances
@@ -7087,7 +6959,7 @@ distraction. Diving attacks are considered charges, often forcing a target witho
 shield to rely on Evade to avoid being pecked or scratched.
 
 
-Elk
+### Elk
 One of the most common food sources for Scandinavian hunters, as well as a number
 of large carnivores, elk are a wary but dangerous species. Standing over two metres tall
 at the shoulder, a full grown elk generally only weighs half of what an average aurochs
@@ -7099,39 +6971,44 @@ The natural predators of elk are normally wolf packs or bears, from which they w
 run. If cornered they will turn and attack hunters, their hoofs as well as the impressive
 antlers of bull stags proving to be deadly.
 
-       Dice        Average          1D20       Hit Location             AP/HP
-STR         3D6+9       20               1–2        Right Hind Leg           1/8
-CON         3D6         11               3–4        Left Hind Leg            1/8
-SIZ         3D6+15      26               5–7        Hindquarters             1/9
-DEX         2D6+6       13               8–10       Forequarters             1/10
-INT         4           4                11–13      Right Front Leg          1/7
-POW         3D6         11               14–16      Left Front Leg           1/7
-                                    17–20      Head                     6/8
+|           | Dice      | Average        | 1D20     | Hit Location           | AP/HP |
+|-----------|-----------|----------------|----------|------------------------|-------|
+| STR       | 3D6+9     | 20             | 1–2      | Right Hind Leg         | 1/8   |
+| CON       | 3D6       | 11             | 3–4      | Left Hind Leg          | 1/8   |
+| SIZ       | 3D6+15    | 26             | 5–7      | Hindquarters           | 1/9   |
+| DEX       | 2D6+6     | 13             | 8–10     | Forequarters           | 1/10  |
+| INT       | 4         | 4              | 11–13    | Right Front Leg        | 1/7   |
+| POW       | 3D6       | 11             | 14–16    | Left Front Leg         | 1/7   |
+|           |           |                | 17–20    | Head                   | 6/8   |
 
-Combat Actions          2                Typical Armour: Hide and Horns. No
-                                    Armour Penalty
+```
+Combat Actions          2                Typical Armour: Hide and Horns. No Armour Penalty
 Damage Modifier         +1D10
 Magic Points            11               Traits: None
 Movement                12m
-Strike Rank             +11              Skills: Athletics 60%, Evade 50%, Perception
-                                    65%, Persistence 35%, Resilience 65%,
-                                    Stealth 75%
+Strike Rank             +11
+```
 
-Weapons
-Type		             Size	     Reach	   Damage		            AP/HP
-Antlers		          L	        M	       1D8+1D10	           As for Head
-Hoofs		            M	        S	       1D4+1D10	           As for Leg
+**Skills**: Athletics 60%, Evade 50%, Perception 65%, Persistence 35%, 
+Resilience 65%, Stealth 75%
 
-Combat Styles
+##### Weapons
+
+| Type         | Size  | Reach  | Damage         | AP/HP |
+|--------------|-------|--------|----------------|-------|
+| Antlers      | L     | M      | 1D8+1D10       | As for Head |
+| Hoofs        | M     | S      | 1D4+1D10       | As for Leg |
+
+#### Combat Styles
 Butt 70% and Kick 60%
 
-Combat Notes
+#### Combat Notes
 Elk normally use Bash or Stun Location to incapacitate foes, allowing them to flee from
 danger. They rarely try to kill, most deaths happening accidentally due the animal's size
 and strength.
 
 
-Horse
+### Horse
 Scandinavian horses are small and shaggy versions of their European cousins. Vikings
 primarily use horses for transport, as pack animals, hitched to draw sleds or riding
 them. Whilst not as big as normal horses, they are very tough, bred to survive poor
@@ -7145,68 +7022,78 @@ popular, pitting stallions against each other in the presence of a mare in heat.
 would not fight were goaded with horse-crooks. The Sagas often describe such contests
 developing into brawls between the horses'owners, over disputed results and lost bets.
 
-        Dice         Average            1D20       Hit Location             AP/HP
-STR        2D6+12       19                 1–3        Right Hind Leg           2/8
-CON        3D6+6        17                 4–6        Left Hind Leg            2/8
-SIZ        2D6+12       19                 7–9        Abdomen                  2/9
-DEX        2D6+3        10                 10–12      Chest                    2/10
-INT        4            4                  13–15      Right Front Leg          2/7
-POW        2D6          7                  16–18      Left Front Leg           2/7
-                                        19–20      Head                     2/8
+|          | Dice       | Average          | 1D20     | Hit Location           | AP/HP |
+|----------|------------|------------------|----------|------------------------|-------|
+| STR      | 2D6+12     | 19               | 1–3      | Right Hind Leg         | 2/8   |
+| CON      | 3D6+6      | 17               | 4–6      | Left Hind Leg          | 2/8   |
+| SIZ      | 2D6+12     | 19               | 7–9      | Abdomen                | 2/9   |
+| DEX      | 2D6+3      | 10               | 10–12    | Chest                  | 2/10  |
+| INT      | 4          | 4                | 13–15    | Right Front Leg        | 2/7   |
+| POW      | 2D6        | 7                | 16–18    | Left Front Leg         | 2/7   |
+|          |            |                  | 19–20    | Head                   | 2/8   |
 
-Combat Actions          2                  Typical Armour: Shaggy Hide. No Armour
-                                        Penalty
+```
+Combat Actions          2                  Typical Armour: Shaggy Hide. No Armour Penalty
 Damage Modifier         +1D6
 Magic Points            7                  Traits: None
 Movement                12m
-Strike Rank             +9                 Skills: Athletics 75%, Brawn 50%, Evade
-                                        40%, Perception 45%, Persistence 40%,
-                                        Resilience 60%
+Strike Rank             +9
+```
 
-Weapons
-Type		             Size	     Reach	    Damage		            AP/HP
-Hoof		             M	        M	        1D6+1D6	            As for Leg
+**Skills**: Athletics 75%, Brawn 50%, Evade 40%, Perception 45%, Persistence 40%, Resilience 60%
 
-Combat Styles
+##### Weapons
+
+| Type          | Size  | Reach | Damage         | AP/HP |
+|---------------|-------|-------|----------------|-------|
+| Hoof          | M     | M     | 1D6+1D6        | As for Leg |
+
+#### Combat Styles
 Kick 60%
 
-Combat Notes
+#### Combat Notes
 Horses generally Bash their opponents. They can kick with their hind legs or rear and
 strike with their forelegs.
 
 
-Hound
+### Hound
 Scandinavian dogs come in two main breeds. Elghunds are trained for hunting
 large game such as elk or bears, whereas Buhunds are bred as herding dogs. Both are
 descended from wolves, cross-breed for size and strength to perform their jobs and
 survive winter weather conditions. The hearing and sense of smell of these dogs is
 acute, reflected in the Perception and Track rating.
 
-      Dice         Average          1D20       Hit Location          AP/HP
-STR        1D6+3        7                1–2        Right Hind Leg        1/4
-CON        3D6          11               3–4        Left Hind Leg         1/4
-SIZ        1D6+3        7                5–7        Hindquarters          1/5
-DEX        2D6+6        13               8–10       Forequarters          1/6
-INT        5            5                11–13      Right Front Leg       1/3
-POW        2D6          7                14–16      Left Front Leg        1/3
-                                    17–20      Head                  1/4
+|          | Dice       | Average        | 1D20     | Hit Location        | AP/HP |
+|----------|------------|----------------|----------|---------------------|-------|
+| STR      | 1D6+3      | 7              | 1–2      | Right Hind Leg      | 1/4   |
+| CON      | 3D6        | 11             | 3–4      | Left Hind Leg       | 1/4   |
+| SIZ      | 1D6+3      | 7              | 5–7      | Hindquarters        | 1/5   |
+| DEX      | 2D6+6      | 13             | 8–10     | Forequarters        | 1/6   |
+| INT      | 5          | 5              | 11–13    | Right Front Leg     | 1/3   |
+| POW      | 2D6        | 7              | 14–16    | Left Front Leg      | 1/3   |
+|          |            |                | 17–20    | Head                | 1/4   |
 
+```
 Combat Actions          2                Typical Armour: Fur. No Armour Penalty
 Damage Modifier         –1D4
 Magic Points            7                Traits: Night Sight
 Movement                12m
-Strike Rank             +12              Skills: Athletics 65%, Evade 50%, Persistence
-                                    50%, Perception 85%, Resilience 50%,
-                                    Stealth 45%, Track 85%
+Strike Rank             +12
+```
 
-Weapons
-Type		             Size	       Reach	   Damage		         AP/HP
-Bite		             S	          T	       1D6–1D4	         As for Head
+**Skills**: Athletics 65%, Evade 50%, Persistence 50%, Perception 85%, 
+Resilience 50%, Stealth 45%, Track 85%
 
-Combat Styles
+##### Weapons
+
+| Type          | Size    | Reach  | Damage      | AP/HP |
+|---------------|---------|--------|-------------|-------|
+| Bite          | S       | T      | 1D6–1D4     | As for Head |
+
+#### Combat Styles
 Bite 50%
 
-Combat Notes
+#### Combat Notes
 These hunting and warding dogs are not trained to physically attack, rather they
 are supposed to hold quarry at bay and alert their master. If a dog is forced to enter
 combat, once it connects with its bite, it Grips the opponent acting as a –10% penalty
@@ -7215,7 +7102,7 @@ the location, inflicting damage without suffering any effect from possessing a n
 damage modifier as it pulls and rends.
 
 
-Reindeer
+### Reindeer
 The most common species of deer in northern Scandinavia, reindeer are the jealously
 guarded animals of the Lapps, who base their nomadic lifestyle around seasonal reindeer
 migrations. Although noted for their impressive antlers, which grow on both sexes,
@@ -7223,74 +7110,82 @@ hunting reindeer is normally dangerous due to the retribution of their Lapp guar
 rather than the deer themselves. The animals are sometimes semi-domesticated, often
 being used to draw sleds in the winter.
 
-       Dice        Average           1D20       Hit Location         AP/HP
-STR       2D6+6       13                1–2        Right Hind Leg       1/6
-CON       3D6         11                3–4        Left Hind Leg        1/6
-SIZ       3D6+6       17                5–7        Hindquarters         1/7
-DEX       3D6+6       17                8–10       Forequarters         1/8
-INT       4           4                 11–13      Right Front Leg      1/5
-POW       2D6         7                 14–16      Left Front Leg       1/5
-                                     17–20      Head                 6/6
+|         | Dice      | Average         | 1D20     | Hit Location       | AP/HP |
+|---------|-----------|-----------------|----------|--------------------|-------|
+| STR     | 2D6+6     | 13              | 1–2      | Right Hind Leg     | 1/6   |
+| CON     | 3D6       | 11              | 3–4      | Left Hind Leg      | 1/6   |
+| SIZ     | 3D6+6     | 17              | 5–7      | Hindquarters       | 1/7   |
+| DEX     | 3D6+6     | 17              | 8–10     | Forequarters       | 1/8   |
+| INT     | 4         | 4               | 11–13    | Right Front Leg    | 1/5   |
+| POW     | 2D6       | 7               | 14–16    | Left Front Leg     | 1/5   |
+|         |           |                 | 17–20    | Head               | 6/6   |
 
-Combat Actions        2                 Typical Armour: Hide and Antlers. No
-                                     Armour Penalty
+```
+Combat Actions        2                 Typical Armour: Hide and Antlers. No Armour Penalty
 Damage Modifier       +1D2
 Magic Points          7                 Traits: None
 Movement              12m
-Strike Rank           +13               Skills: Athletics 75%, Evade 70%, Perception
-                                     65%, Persistence 30%, Resilience 55%,
-                                     Stealth 45%
+Strike Rank           +13
+```
 
-Weapons
-Type		            Size	      Reach	   Damage		          AP/HP
-Head Butt	        M	         S	       1D6+1D2	          As for Head
+**Skills**: Athletics 75%, Evade 70%, Perception 65%, Persistence 30%, Resilience 55%, Stealth 45%
 
-Combat Styles
+##### Weapons
+
+| Type        | Size   | Reach | Damage       | AP/HP |
+|-------------|--------|-------|--------------|-------|
+| Head Butt   | M      | S     | 1D6+1D2      | As for Head |
+
+#### Combat Styles
 Head Butt 50%
 
-Combat Notes
+#### Combat Notes
 Reindeer prefer to flee from danger, unless overwhelmed by hunger. Bull reindeer
 become aggressive during rut and cow reindeer will fight to protect calves. The antlers
 are capable of causing an Impale.
 
 
-Shark
+### Shark
 There are few dangerous sharks in Scandinavian waters, so attacks are normally a rare
 occurrence. One species, the Greenland shark, can reach up to seven metres in length.
 If brought to the surface caught in nets or attracted by the blood of a sea battle, it could
 be very dangerous to anyone falling into the water.
 
-      Dice             Average      1D20        Hit Location      AP/HP
-STR        3D6+12           23           1–3         Tail              4/8
-CON        2D6+9            16           4–8         Hindbody          4/9
-SIZ        3D6+12           23           9–13        Forebody          4/10
-DEX        2D6+3            10           14          Right Fin         4/5
-INT        2                2            15          Left Fin          4/5
-POW        2D6              7            16–20       Head              4/8
+|          | Dice           | Average    | 1D20      | Hit Location    | AP/HP |
+|----------|----------------|------------|-----------|-----------------|-------|
+| STR      | 3D6+12         | 23         | 1–3       | Tail            | 4/8   |
+| CON      | 2D6+9          | 16         | 4–8       | Hindbody        | 4/9   |
+| SIZ      | 3D6+12         | 23         | 9–13      | Forebody        | 4/10  |
+| DEX      | 2D6+3          | 10         | 14        | Right Fin       | 4/5   |
+| INT      | 2              | 2          | 15        | Left Fin        | 4/5   |
+| POW      | 2D6            | 7          | 16–20     | Head            | 4/8   |
 
-
-Combat Actions              2            Typical Armour: Thick Skin. No Armour
-                                    Penalty.
+```
+Combat Actions              2            Typical Armour: Thick Skin. No Armour Penalty.
 Damage Modifier             +1D10
 Magic Points                7            Traits: None
 Movement                    16m
-Strike Rank                 +7           Skills: Brawn 40%, Perception 75%, Persistence
-                                    40%, Resilience 60%, Swim 100%
+Strike Rank                 +7
+```
 
-Weapons
-Type		              Size	       Reach	   Damage		           AP/HP
-Bite		              H	          T	       1D8+1D10	          As for Head
+**Skills**: Brawn 40%, Perception 75%, Persistence 40%, Resilience 60%, Swim 100%
 
-Combat Styles
+##### Weapons
+
+| Type           | Size   | Reach  | Damage        | AP/HP |
+|----------------|--------|--------|---------------|-------|
+| Bite           | H      | T      | 1D8+1D10      | As for Head |
+
+#### Combat Styles
 Bite 70%
 
-Combat Notes
+#### Combat Notes
 All sharks rely on their bite. Once a bite connects, the shark Grips. On the next Combat
 Action, the shark spins and rends; the Swim skill of the victim is reduced by half as the
 shark bites deeper, rips and attempts to drown its prey.
 
 
-Snake
+### Snake
 Snakes are a common motif in Scandinavian art and legend, being closely associated
 with dragons. When Loki was punished for his evil deeds, he was bound between three
 rocks, with a serpent dripping venom onto his face.
@@ -7299,68 +7194,72 @@ When shipwrecked on the coast of Northumbria, the famous Viking Ragnar Hairy-
 Breeks was captured by King Ælla and sentenced to be thrown into a pit of venomous
 snakes. Whilst being slowly bitten to death he legendarily sung the following song.
 
-'It gladdens me to know that Baldr's father makes ready the benches for a banquet.
-Soon we shall be drinking ale from the curved horns.
-The champion who comes into Odin's dwelling does not lament his death.
-I shall not enter his hall with words of fear upon my lips.
-The Æsir will welcome me. Death comes without lamenting… Eager am I to depart.
-The Dísir summon me home, those whom Odin sends for me from the halls of the Lord of
-Hosts.
-Gladly shall I drink ale in the high-seat with the Æsir.
-The days of my life are ended. I laugh as I die.'
+> 'It gladdens me to know that Baldr's father makes ready the benches for a banquet.
+> Soon we shall be drinking ale from the curved horns.
+> The champion who comes into Odin's dwelling does not lament his death.
+> I shall not enter his hall with words of fear upon my lips.
+> The Æsir will welcome me. Death comes without lamenting… Eager am I to depart.
+> The Dísir summon me home, those whom Odin sends for me from the halls of the Lord of
+> Hosts.
+> Gladly shall I drink ale in the high-seat with the Æsir.
+> The days of my life are ended. I laugh as I die.'
 
 Despite their prevalence in the eddas, the only Scandinavian snake that is dangerous
 to man is the Adder. It can grow up to a metre in length and generally avoids contact,
 only biting if surprised or injured. An adder's bite is superficial unless it injects venom,
 which is rarely fatal but painful and can cause unpleasant sickness.
 
-        Dice         Average                1D20        Hit Location       AP/HP
-STR        1D3          2                      1–6         Tail               –/3
-CON        2D6+3        10                     7–14        Body               –/4
-SIZ        1D3          2                      15–20       Head               –/3
-DEX        3D6+18       29
-INT        3            3
-POW        1D6          4
+|          | Dice       | Average              | 1D20      | Hit Location     | AP/HP |
+|----------|------------|----------------------|-----------|------------------|-------|
+| STR      | 1D3        | 2                    | 1–6       | Tail             | –/3   |
+| CON      | 2D6+3      | 10                   | 7–14      | Body             | –/4   |
+| SIZ      | 1D3        | 2                    | 15–20     | Head             | –/3   |
+| DEX      | 3D6+18     | 29                   |           |                  |       |
+| INT      | 3          | 3                    |           |                  |       |
+| POW      | 1D6        | 4                    |           |                  |       |
 
-
+```
 Combat Actions          3                      Typical Armour: None
 Damage Modifier         –1D8
 Magic Points            4                      Traits: Excellent Swimmer
 Movement                6m
-Strike Rank             +18                    Skills: Athletics 65%, Evade 70%,
-                                            Persistence 45%, Resilience 35%, Stealth
-                                            95%
+Strike Rank             +18
+```
 
-Weapons
-Type		              Size	     Reach	    Damage		            AP/HP
-Bite		              S	        T	        None		              As for Head
+**Skills**: Athletics 65%, Evade 70%, Persistence 45%, Resilience 35%, Stealth 95%
 
-Combat Styles
+##### Weapons
+
+| Type           | Size  | Reach   | Damage         | AP/HP |
+|----------------|-------|---------|----------------|-------|
+| Bite           | S     | T       | None           | As for Head |
+
+#### Combat Styles
 Bite 65%
 
-Combat Notes
+#### Combat Notes
 Adders usually try to escape after they have bitten and do not engage in ongoing
 combat unless left with no choice – being tied inside a sack with a victim for example.
 Adder venom has the following Characteristics:
 
-Application: Injection
-Onset time: Pain immediately, nausea and vomiting after 30 minutes, loss of bowel
-and bladder control after 1 hour.
-Duration: 1D2 days
-Resistance Time: The victim must make a single Resistance roll when first bitten.
-Failure indicates that the series of conditions will take effect at the proper onset time.
-Potency: Snake's CON x 5
-Resistance: Resilience
-Conditions: Pain, Nausea, Diahorrea and Incontinence. The venom initially causes
+**Application**: Injection  
+**Onset time**: Pain immediately, nausea and vomiting after 30 minutes, loss of bowel
+and bladder control after 1 hour.  
+**Duration**: 1D2 days  
+**Resistance Time**: The victim must make a single Resistance roll when first bitten.
+Failure indicates that the series of conditions will take effect at the proper onset time.  
+**Potency**: Snake's CON x 5  
+**Resistance**: Resilience  
+**Conditions**: Pain, Nausea, Diahorrea and Incontinence. The venom initially causes
 location bitten to be afire with pain, which gradually spreads into neighbouring
 regions. The victim then begins to throw up from nausea. The third condition has no
-in-game effect save that of embarrassment.
-Antidote/Cure: A successful Healing roll will allow the victim to make a new Resistance
+in-game effect save that of embarrassment.  
+**Antidote/Cure**: A successful Healing roll will allow the victim to make a new Resistance
 Roll as per the Healing skill in the Legend Core Rulebook. Success prevents any further
-Conditions from taking effect.
+Conditions from taking effect.  
 
 
-Walrus
+### Walrus
 Huge seal-like mammals with prominent tusks and whiskers, a full grown male walrus
 on average weighs one and a half metric tons. Despite its fearsome tusks the creature
 actually feeds on shellfish and the occasional crustacean, using its extended canines for
@@ -7371,30 +7270,35 @@ bone. Found in Greenland and the Svalbard Islands, it is possible for Vikings to
 hunting for walrus, either by stalking them in the summer whilst they bask on beaches
 or during the winter, hunting them in boats.
 
-     Dice          Average               1D20        Hit Location       AP/HP
-STR       2D6+15        22                    1–3         Tail               4/11
-CON       3D6+6         17                    4–8         Hindbody           4/12
-SIZ       4D6+21        35                    9–13        Forebody           4/13
-DEX       2D6+3         10                    14          Right Fin          4/6
-INT       4             4                     15          Left Fin           4/6
-POW       3D6           11                    16–20       Head               4/11
+|         | Dice        | Average             | 1D20      | Hit Location     | AP/HP |
+|---------|-------------|---------------------|-----------|------------------|-------|
+| STR     | 2D6+15      | 22                  | 1–3       | Tail             | 4/11  |
+| CON     | 3D6+6       | 17                  | 4–8       | Hindbody         | 4/12  |
+| SIZ     | 4D6+21      | 35                  | 9–13      | Forebody         | 4/13  |
+| DEX     | 2D6+3       | 10                  | 14        | Right Fin        | 4/6   |
+| INT     | 4           | 4                   | 15        | Left Fin         | 4/6   |
+| POW     | 3D6         | 11                  | 16–20     | Head             | 4/11  |
 
-Combat Actions          2                     Typical Armour: Skin and Blubber. No
-                                         Armour Penalty
+```
+Combat Actions          2                     Typical Armour: Skin and Blubber. No Armour Penalty
 Damage Modifier         +1D12
 Magic Points            11                    Traits: None
 Movement                12m Swim
-Strike Rank             +10                   Skills: Perception 50%, Persistence
-                                         55%, Resilience 75%, Swim 80%
+Strike Rank             +10
+```
 
-Weapons
-Type		             Size	      Reach	   Damage		           AP/HP
-Tusks		            H	         S	       1D6+1D12	          As for Head
+**Skills**: Perception 50%, Persistence 55%, Resilience 75%, Swim 80%
 
-Combat Styles
+##### Weapons
+
+| Type          | Size   | Reach  | Damage        | AP/HP |
+|---------------|--------|--------|---------------|-------|
+| Tusks         | H      | S      | 1D6+1D12      | As for Head |
+
+#### Combat Styles
 Tusks 70%
 
-Combat Notes
+#### Combat Notes
 On land a walrus rears and plunges its tusks into an opponent, sometimes impaling.
 However, the walrus is ungainly and cannot change engagement distance easily, so
 attacking a walrus with longer reach weapons often maintains the hunter's safety but
@@ -7407,7 +7311,7 @@ ramming the swimmer to Stun them or using their tusks to Grip the victim and dra
 them under. Either way the hunter normally drowns.
 
 
-Whale
+### Whale
 In Scandinavian waters can be found Minke whales, Humpback whales, Blue whales,
 Sperm whales, Orcas and Pilot whales. Generally the Vikings leave the bigger whales
 well alone, their ships being unable to withstand the irritation of a wounded leviathan.
@@ -7425,33 +7329,36 @@ who has the legal right to the meat, blubber and bone from the carcass.
 The following Characteristics are for a small whale such as an Orca or Minke. Hunting,
 or being hunted, by such an animal could be an epic adventure in itself.
 
-         Dice           Average           1D20        Hit Location     AP/HP
-STR         4D6+30         44                1–3         Tail             6/19
-CON         2D6+12         19                4–8         Hindbody         6/20
-SIZ         4D6+60         74                9–13        Forebody         6/21
-DEX         2D6+3          10                14          Right Fin        6/10
-INT         6              6                 15          Left Fin         6/10
-POW         3D6            11                16–20       Head             6/19
+|           | Dice         | Average         | 1D20      | Hit Location   | AP/HP |
+|-----------|--------------|-----------------|-----------|----------------|-------|
+| STR       | 4D6+30       | 44              | 1–3       | Tail           | 6/19  |
+| CON       | 2D6+12       | 19              | 4–8       | Hindbody       | 6/20  |
+| SIZ       | 4D6+60       | 74              | 9–13      | Forebody       | 6/21  |
+| DEX       | 2D6+3        | 10              | 14        | Right Fin      | 6/10  |
+| INT       | 6            | 6               | 15        | Left Fin       | 6/10  |
+| POW       | 3D6          | 11              | 16–20     | Head           | 6/19  |
 
-
+```
 Combat Actions             2                 Typical Armour: Thick Skin and
-                                          Blubber. No Armour Penalty
-Damage Modifier            +3D12
-Magic Points               11                Traits: None
-Movement                   14m
-Strike Rank                +11               Skills: Brawn 120%, Perception 75%,
-                                          Persistence 65%, Resilience 100%,
-                                          Stealth 70%, Swim 75%
+Damage Modifier            +3D12             Blubber. No Armour Penalty
+Magic Points               11
+Movement                   14m               Traits: None
+Strike Rank                +11
+```
 
-Weapons
-Type		             Size	     Reach	   Damage			                    AP/HP
-Bite		             E	        T	       1D10+3D12		                  As for Head
-Ram		              E	        T	       Half Damage Bonus	           As for Head
+**Skills**: Brawn 120%, Perception 75%, Persistence 65%, Resilience 100%, Stealth 70%, Swim 75%
 
-Combat Styles
+##### Weapons
+
+| Type          | Size  | Reach | Damage                | AP/HP |
+|---------------|-------|-------|-----------------------|-------|
+| Bite          | E     | T     | 1D10+3D12             | As for Head |
+| Ram           | E     | T     | Half Damage Bonus     | As for Head |
+
+#### Combat Styles
 Bite 70%, Ram 80%
 
-Combat Notes
+#### Combat Notes
 Orcas can potentially attack humans who are travelling across ice flows, using their
 bulk to overturn or break ice sheets. They can also grab targets standing at the water's
 edge on a moderately shelved beach, surging out of the water to bite, before rolling
@@ -7464,7 +7371,7 @@ the whale to turn on the boat, ramming it at speed or breaching next to the vess
 swamp it with water. Survivors of an overturned or sinking boat are left to drown.
 
 
-Wolf
+### Wolf
 Wolves fight as a group. In combat, several of them target a single enemy, raising the
 chances that one of them will be able to get through any defence. Larger wolves of the
 pack will often attempt to throw an enemy off his feet with a Leaping Attack, allowing
@@ -7475,36 +7382,42 @@ livestock, they rarely attack humans. Some wolves could be driven by age or cunn
 to become opportunistic man-killers, giving rise to superstitious fears of the wolf being
 the offspring of Fenrir or the curse of a Lapp wizard.
 
-      Dice            Average        1D20        Hit Location            AP/HP
-STR        3D6             11             1–2         Right Hind Leg          1/5
-CON        3D6+3           14             3–4         Left Hind Leg           1/5
-SIZ        2D6+3           10             5–7         Hindquarters            1/6
-DEX        3D6+3           14             8–10        Forequarters            1/7
-INT        5               5              11–13       Right Front Leg         1/4
-POW        2D6             7              14–16       Left Front Leg          1/4
-                                     17–20       Head                    1/5
+|          | Dice          | Average      | 1D20      | Hit Location          | AP/HP |
+|----------|---------------|--------------|-----------|-----------------------|-------|
+| STR      | 3D6           | 11           | 1–2       | Right Hind Leg        | 1/5   |
+| CON      | 3D6+3         | 14           | 3–4       | Left Hind Leg         | 1/5   |
+| SIZ      | 2D6+3         | 10           | 5–7       | Hindquarters          | 1/6   |
+| DEX      | 3D6+3         | 14           | 8–10      | Forequarters          | 1/7   |
+| INT      | 5             | 5            | 11–13     | Right Front Leg       | 1/4   |
+| POW      | 2D6           | 7            | 14–16     | Left Front Leg        | 1/4   |
+|          |               |              | 17–20     | Head                  | 1/5   |
 
+```
 Combat Actions             2              Typical Armour: Fur. No Armour Penalty
 Damage Modifier            None
 Magic Points               7              Traits: Night Sight
 Movement                   10m
-Strike Rank                +12            Skills: Athletics 80%, Evade 65%, Perception
-                                     60%, Persistence 50%, Resilience 55%,
-                                     Stealth 65%, Tracking 60%
+Strike Rank                +12
+```
 
-Weapons
-Type		             Size	    Reach	    Damage		           AP/HP
-Bite		             M	       T	        1D8		              As for Head
-Claw		             M	       M	        1D3		              As for Leg
+**Skills**: Athletics 80%, Evade 65%, Perception 60%, Persistence 50%, 
+Resilience 55%, Stealth 65%, Tracking 60%
 
-Combat Styles
+##### Weapons
+
+| Type          | Size | Reach | Damage        | AP/HP |
+|---------------|------|-------|---------------|-------|
+| Bite          | M    | T     | 1D8           | As for Head |
+| Claw          | M    | M     | 1D3           | As for Leg |
+
+#### Combat Styles
 Bite 65%, Claw 50%
 
-Combat Notes
+#### Combat Notes
 As per Dog.
 
 
-Supernatual Creatures
+## Supernatual Creatures
 Viking belief of the supernatural coalesced into many strange creatures, some unique
 to Scandinavia, whilst others appear to be memories or legends, which travelled from
 other lands. What emerged from the fireside tales of dark winter nights formed the
@@ -7517,22 +7430,22 @@ and conflicting names that makes it difficult to identify what a creature really
 simplicity's sake, the following creatures have been gathered together under broad
 categories, with a list of their more common names.
 
-*	 Alfar – Confusingly the title is used for the races of elfs and dwarfs. Ljosalfar are
-considered elfs of air and light, whereas Svartalfar are inferred to be dwarfs living
-below the earth. A third branch are the Dokkalfar who reside within Midgard in
-the hills and mounds.
-*	 Dísir – A collective name for female spirits concerned with fate and fortune,
-specifically the Fylgja, Norns and Valkyries.
-*	 Draugr – The restless and hungry dead, including Haugbui and Aptrgangr.
-*	 Dvergar – These are generally thought of as the dwarfs, although some are named
-as, or after, elfs! The dvergar Gandalfr (Magic Elf ) and Vindalfr (Wind Elf ) for
-example.
-*	 Jotnar – Several races of giants exist; frost and rime giants (hrimthursar), fire
-giants (eldjotnar) and mountain giants (bergrisar).
-*	 Vættir – Are the nature spirits or supernatural beings. Technically they include
-the Alfar, Dvergar, Jotnar, Æsir and Vanir each of which are considered specific
-families of Vættir but for the purposes of this book the Landvættir specifically are
-just spirits.
+* **Alfar** – Confusingly the title is used for the races of elfs and dwarfs. Ljosalfar are
+  considered elfs of air and light, whereas Svartalfar are inferred to be dwarfs living
+  below the earth. A third branch are the Dokkalfar who reside within Midgard in
+  the hills and mounds.
+* **Dísir** – A collective name for female spirits concerned with fate and fortune,
+  specifically the Fylgja, Norns and Valkyries.
+* **Draugr** – The restless and hungry dead, including Haugbui and Aptrgangr.
+* **Dvergar** – These are generally thought of as the dwarfs, although some are named
+  as, or after, elfs! The dvergar Gandalfr (Magic Elf ) and Vindalfr (Wind Elf ) for
+  example.
+* **Jotnar** – Several races of giants exist; frost and rime giants (hrimthursar), fire
+  giants (eldjotnar) and mountain giants (bergrisar).
+* **Vættir** – Are the nature spirits or supernatural beings. Technically they include
+  the Alfar, Dvergar, Jotnar, Æsir and Vanir each of which are considered specific
+  families of Vættir but for the purposes of this book the Landvættir specifically are
+  just spirits.
 
 Supernatural creatures will not, of course, be encountered in historical or 'real world'
 campaigns, save for superstitious reference. They can appear in fantasy or mythological
@@ -7548,10 +7461,11 @@ passed onto successive generations. The moral of these tales is not to upset the
 of the world in the first place, or make amends if you do!
 
 
-Alfar
-'The Allfather has power, the alfar have skill, and the vanir knowledge'
+### Alfar
 
-- The Hrafnagaldr
+> 'The Allfather has power, the alfar have skill, and the vanir knowledge'
+> 
+> - The Hrafnagaldr
 
 The Alfar are the light or good elves of Viking mythology. They live in Alfheimr
 ruled by King Alf but occasionally roam Midgard where they sometimes sleep with
@@ -7584,23 +7498,27 @@ wilt be healed.'
 The following Characteristics are for alfar in their physical form. However if they
 spend a Magic Point they can discorporate, their body becoming intangible.
 
-      Dice         Average            1D20        Hit Location              AP/HP
-STR        2D6+3        10                 1–3         Right Leg                 –/5
-CON        3D6          11                 4–6         Left Leg                  –/5
-SIZ        2D6+3        10                 7–9         Abdomen                   –/6
-DEX        2D6+6        13                 10–12       Chest                     –/7
-INT        2D6+6        13                 13–15       Right Arm                 –/4
-POW        2D6+12       19                 16–18       Left Arm                  –/4
-CHA        2D6+12       19                 19–20       Head                      –/5
+|          | Dice       | Average          | 1D20      | Hit Location            | AP/HP |
+|----------|------------|------------------|-----------|-------------------------|-------|
+| STR      | 2D6+3      | 10               | 1–3       | Right Leg               | –/5   |
+| CON      | 3D6        | 11               | 4–6       | Left Leg                | –/5   |
+| SIZ      | 2D6+3      | 10               | 7–9       | Abdomen                 | –/6   |
+| DEX      | 2D6+6      | 13               | 10–12     | Chest                   | –/7   |
+| INT      | 2D6+6      | 13               | 13–15     | Right Arm               | –/4   |
+| POW      | 2D6+12     | 19               | 16–18     | Left Arm                | –/4   |
+| CHA      | 2D6+12     | 19               | 19–20     | Head                    | –/5   |
 
+```
 Combat Actions          3                  Typical Armour: Any
 Damage Modifier         –1D2
 Magic Points            19                 Traits: Life Sense, Night Sight
 Movement                10m
-Strike Rank             +13                Skills: As desired by the Games Master
+Strike Rank             +13
+```
 
-                                      Magic: Alfar command spirits of the
-                                      Landvættir and know some galdrar
+**Skills**: As desired by the Games Master
+
+**Magic**: Alfar command spirits of the Landvættir and know some galdrar
 
 As semi divine beings, alfar are effectively very skilful immortal creatures. In fantasy
 campaigns they rarely interact directly with humans save in response to a sacrifice (or
@@ -7623,7 +7541,7 @@ Landvættir. It is this control of nature spirits and knowledge of the Evil Eye 
 which allows them to bless or curse their supplicants.
 
 
-Disir
+### Disir
 The dísir are female spirits that are tied to fate or fortune. Both the Norns and Valkyries are
 disir but are mentioned separately in the Viking Religion chapter beginning on page 110.
 
@@ -7632,14 +7550,6 @@ fertility or ancestor spirits, which have some power to intercede with nature. W
 propitiated correctly the disir grant good luck. Such sacrificial ceremonies (disablot) are
 held in the autumn by the women of the household; and at the onset of winter too, the
 second with the family and guests attending.
-
-New Trait: Ancestor Sense
-The possessor of this trait can sense whenever a family descendant will face mortal
-danger. The semi-precognitive power gives enough forewarning to allow the ancestor
-to travel to the progeny and intervene if desired. It does not however, reveal the source
-of the danger or what will happen.
-
-
 
 As tutelary beings, the disir act as guardians defending their family against malicious
 spirits or evil magic. They are jealous and judgemental guardians however. In one
@@ -7661,42 +7571,50 @@ may not be mortal and thus not fall under their protection. An angry disir may m
 excellent shield-maiden foe or companions however; perhaps even a possible wife to
 those worthy enough.
 
-            Dice        Average         1D20        Hit Location      AP/HP
-STR            2D6+6       13              1–3         Right Leg         –/6
-CON            2D6+6       13              4–6         Left Leg          –/6
-SIZ            2D6+6       13              7–9         Abdomen           –/7
-DEX            2D6+6       13              10–12       Chest             –/8
-INT            2D6+6       13              13–15       Right Arm         –/5
-POW            1D6+15      19              16–18       Left Arm          –/5
-CHA            2D6+6       13              19–20       Head              –/6
+> #### New Trait: Ancestor Sense
+> The possessor of this trait can sense whenever a family descendant will face mortal
+> danger. The semi-precognitive power gives enough forewarning to allow the ancestor
+> to travel to the progeny and intervene if desired. It does not however, reveal the source
+> of the danger or what will happen.
 
+|              | Dice      | Average       | 1D20      | Hit Location    | AP/HP |
+|--------------|-----------|---------------|-----------|-----------------|-------|
+| STR          | 2D6+6     | 13            | 1–3       | Right Leg       | –/6   |
+| CON          | 2D6+6     | 13            | 4–6       | Left Leg        | –/6   |
+| SIZ          | 2D6+6     | 13            | 7–9       | Abdomen         | –/7   |
+| DEX          | 2D6+6     | 13            | 10–12     | Chest           | –/8   |
+| INT          | 2D6+6     | 13            | 13–15     | Right Arm       | –/5   |
+| POW          | 1D6+15    | 19            | 16–18     | Left Arm        | –/5   |
+| CHA          | 2D6+6     | 13            | 19–20     | Head            | –/6   |
+
+```
 Combat Actions             3               Typical Armour: None
 Damage Modifier            None
 Magic Points               19              Traits: Ancestor Sense, Life Sense, Night Sight
 Movement                   10m
-Strike Rank                +13             Skills: All common skills and sword
-                                        combat at 100%
+Strike Rank                +13
+```
 
-                                        Magic: Can cast the following galdrar with
-                                        no preparation time required: Bar Spirit,
-                                        Battle Fetter, Blunt Weapon, Ease Pain,
-                                        Instil Madness, Reflect Charm, Turn Dead
-                                        and Ward Injury
+**Skills**: All common skills and sword combat at 100%
 
-Dragon
+**Magic**: Can cast the following galdrar with no preparation time required: 
+Bar Spirit, Battle Fetter, Blunt Weapon, Ease Pain, Instil Madness, 
+Reflect Charm, Turn Dead and Ward Injury
+
+### Dragon
 Save for the unique dragon in Beowulf, most dragons in Scandinavian legend are
 actually wingless serpents of great size that vomit poison rather than flame. Such
 creatures are described under Wyrm later in this chapter.
 
+### Draugr
 
-Draugr
-'During the first night, Aran got up from his chair and killed the hawk and hound and
-ate them. On the second night he got up again from his chair, and killed the horse and tore
-it into pieces; then he took great bites at the horse-flesh with his teeth, the blood streaming
-down from his mouth all the while he was eating. The third night Asmund became very
-drowsy, and the first thing he knew, Aran had got him by the ears and torn them off '
-
-- Asmund's vigil within the mound of his sword brother Aran, Gautrek's Saga
+> 'During the first night, Aran got up from his chair and killed the hawk and hound and
+> ate them. On the second night he got up again from his chair, and killed the horse and tore
+> it into pieces; then he took great bites at the horse-flesh with his teeth, the blood streaming
+> down from his mouth all the while he was eating. The third night Asmund became very
+> drowsy, and the first thing he knew, Aran had got him by the ears and torn them off '
+> 
+> - Asmund's vigil within the mound of his sword brother Aran, Gautrek's Saga
 
 Viking undead were known by several names. The haugbui is a dead body, which
 continues to guard its barrow from being plundered or desecrated. A draugr is an
@@ -7712,8 +7630,8 @@ magically through earth and stone to exit their barrows without needing to dig t
 way clear. The draugr Killer-Hrapp uses this power to escape a combat in the Laxdaela
 Saga:
 
-'Then Olaf tried to rush Hrapp, but Hrapp sank into the ground where he had been
-standing and that was the end of their encounter'.
+> 'Then Olaf tried to rush Hrapp, but Hrapp sank into the ground where he had been
+> standing and that was the end of their encounter'.
 
 Draugr come in two colours, the blue-black of mottled bruises (as the goddess of the
 underworld) or the pale white of corpses. They can appear bloated or swollen to great
@@ -7731,33 +7649,32 @@ others can shape-shift into a variety of forms; generally ones with horrible mut
 such as flayed bulls or horses with no ears, tails and a broken back.
 
 
-The Curse of the Walking Dead
-In the Eyrbyggja Saga there is a tale about the village of Frodis-water, which soon after
-a portentous omen of a rain of blood, was cursed with a terrible sickness and the first
-to die arose as a draugr. As each person was killed by the touch of the creature, they
-themselves rose up afterwards as a draugr too. The following passages describe the
-aftermath of the death of the local shepherd...
+> #### The Curse of the Walking Dead
+> In the Eyrbyggja Saga there is a tale about the village of Frodis-water, which soon after
+> a portentous omen of a rain of blood, was cursed with a terrible sickness and the first
+> to die arose as a draugr. As each person was killed by the touch of the creature, they
+> themselves rose up afterwards as a draugr too. The following passages describe the
+> aftermath of the death of the local shepherd...
+> 
+> > 'A little after that great hauntings befell; and on a night as Thorir Wooden-leg went out for
+> > his needs, and turned off aside from the door, when he would go in again, he saw how the
+> > shepherd was come before the door. Then would he go in again, but the shepherd would
+> > nowise have it so; and Thorir was fain to get away, but the shepherd went at him, and
+> > got hold of him, and cast him homeward up against the door. At this he was affrighted
+> > exceedingly; yet he got him to his bed, and he was by then grown coal-blue all over.
+> > 
+> > Now from this he fell sick and died, and was buried there at the church; but ever after were
+> > the twain, the shepherd and Thorir Wooden-leg, seen in company, and there from were folk
+> > full of dread, as was like to be. After Thorir's death a house-carle of Thorod fell sick, and
+> > lay there three nights or ever he died. Then one after another died, till six were dead; and
+> > by then it was hard on the Yule-fast, though at that time there was no fasting in Iceland.'
+> 
+> This story provides the basis for a classic zombie scenario, with a remote village cut off
+> by winter slowly succumbing to the curse of the walking draugr!
 
-'A little after that great hauntings befell; and on a night as Thorir Wooden-leg went out for
-his needs, and turned off aside from the door, when he would go in again, he saw how the
-shepherd was come before the door. Then would he go in again, but the shepherd would
-nowise have it so; and Thorir was fain to get away, but the shepherd went at him, and
-got hold of him, and cast him homeward up against the door. At this he was affrighted
-exceedingly; yet he got him to his bed, and he was by then grown coal-blue all over.
 
-Now from this he fell sick and died, and was buried there at the church; but ever after were
-the twain, the shepherd and Thorir Wooden-leg, seen in company, and there from were folk
-full of dread, as was like to be. After Thorir's death a house-carle of Thorod fell sick, and
-lay there three nights or ever he died. Then one after another died, till six were dead; and
-by then it was hard on the Yule-fast, though at that time there was no fasting in Iceland.'
-
-This story provides the basis for a classic zombie scenario, with a remote village cut off
-by winter slowly succumbing to the curse of the walking draugr!
-
-
-
-'Then Thrain turned himself into a troll, and the barrow was filled with a horrible stench;
-and he stuck his claws into the back of Hromund's neck, tearing the flesh from his bones'
+> 'Then Thrain turned himself into a troll, and the barrow was filled with a horrible stench;
+> and he stuck his claws into the back of Hromund's neck, tearing the flesh from his bones'
 
 Destroying a draugr is often an increadably difficult task achievable only by the strongest
 heroes. If invulnerable to iron the creature must first be subdued in a wrestling match.
@@ -7768,18 +7685,18 @@ must be burned to ashes, which are then cast into the sea or scattered by the wi
 Failure to complete every step means that the draugr will eventually raise again, no
 doubt to hunt down those who tried to destroy it.
 
-'But the next morning he let bring his horse, and called his huskarls to him, and gathered
-men to him from the nearest steads withal; and then they fare out to Haltfoot's-head, and
-come to Thorolf 's howe; and he was even yet unrotten, and as like to a fiend as like could
-be, blue as hell, and big as a bull; and when they went about the raising of him, they could
-in nowise stir him. So Thorod set lever-beams under him, and thereby they brought him up
-from the howe, and rolled him down to the seaside, and cut there a great bale, and set fire to
-it, and rolled Thorolf therein and burned all up to cold coals; yet long it was or ever the fire
-would take on him. There was a stiff breeze, which scattered the ashes wide about as soon
-as the bale began to burn; but such of the ashes as they might, they cast out seaward; and so
-when they had made an end of the business they went home.'
-
-- Eyrbyggja Saga
+> 'But the next morning he let bring his horse, and called his huskarls to him, and gathered
+> men to him from the nearest steads withal; and then they fare out to Haltfoot's-head, and
+> come to Thorolf 's howe; and he was even yet unrotten, and as like to a fiend as like could
+> be, blue as hell, and big as a bull; and when they went about the raising of him, they could
+> in nowise stir him. So Thorod set lever-beams under him, and thereby they brought him up
+> from the howe, and rolled him down to the seaside, and cut there a great bale, and set fire to
+> it, and rolled Thorolf therein and burned all up to cold coals; yet long it was or ever the fire
+> would take on him. There was a stiff breeze, which scattered the ashes wide about as soon
+> as the bale began to burn; but such of the ashes as they might, they cast out seaward; and so
+> when they had made an end of the business they went home.'
+> 
+> - Eyrbyggja Saga
 
 When a man dies and becomes a draugr, their STR and SIZ often increase. Re-roll those
 Characteristics and if higher, take the better result. The draugr loses their POW as they
@@ -7791,68 +7708,71 @@ The following draugr is of moderate strength and size. More powerful examples ex
 Games Masters should be careful to ensure grossly swollen draugr of huge proportions
 are not invulnerable to weapons, else Adventurers will find it impossible to defeat them.
 
-       Dice            Average         1D20        Hit Location         AP/HP
-STR         1D6+15          19              1–3         Right Leg            –/6
-CON         As Before       11              4–6         Left Leg             –/6
-SIZ         1D6+15          19              7–9         Abdomen              –/7
-DEX         As Before       11              10–12       Chest                –/8
-INT         As Before       13              13–15       Right Arm            –/5
-POW         -               -               16–18       Left Arm             –/5
-CHA         1D6             4               19–20       Head                 –/6
+|           | Dice          | Average       | 1D20      | Hit Location       | AP/HP |
+|-----------|---------------|---------------|-----------|--------------------|-------|
+| STR       | 1D6+15        | 19            | 1–3       | Right Leg          | –/6   |
+| CON       | As Before     | 11            | 4–6       | Left Leg           | –/6   |
+| SIZ       | 1D6+15        | 19            | 7–9       | Abdomen            | –/7   |
+| DEX       | As Before     | 11            | 10–12     | Chest              | –/8   |
+| INT       | As Before     | 13            | 13–15     | Right Arm          | –/5   |
+| POW       | -             | -             | 16–18     | Left Arm           | –/5   |
+| CHA       | 1D6           | 4             | 19–20     | Head               | –/6   |
 
+```
 Combat Actions              2               Typical Armour: Either whatever was buried
-                                       in or is invulnerable to weapons (GMs choice)
-Damage Modifier             +1D6
-Magic Points                -               Traits: Dark Sight, Night Sight
-Movement                    6m
-Strike Rank                 +12             Skills: As Before
+Damage Modifier             +1D6            in or is invulnerable to weapons (GMs choice)
+Magic Points                -
+Movement                    6m              Traits: Dark Sight, Night Sight
+Strike Rank                 +12
+```
 
-Weapons
-Type		              Size	       Reach	   Damage		               AP/HP
-Unarmed	            S	          T	       1D3+1D6	               As for Arm
+**Skills**: As Before
 
-Combat Styles
+##### Weapons
+
+| Type           | Size    | Reach | Damage           | AP/HP |
+|----------------|---------|-------|------------------|-------|
+| Unarmed        | S       | T     | 1D3+1D6          | As for Arm |
+
+#### Combat Styles
 Unarmed 80% (or higher if a skilled wrestler before death)
 
-Combat Notes
+#### Combat Notes
 Somewhat slow and seemingly uncaring of weapons, draugr prefer to engage in close
 combat, using Grip to catch hold of their prey before crushing or strangling them. Due
 to their near invulnerability, or perhaps seeking a permanent death, they concentrate
 on attacking rather than defending, so that they never bother to defend themselves.
 
+> #### Grave Robbing
+> The presence of great wealth within the burial mounds of early Vikings attracted the
+> attention of grave-robbers, both historically and in the literary record, such as the tale
+> of Grettirs Saga.
+> 
+> > 'Grettir began to break open the mound, and worked hard without stopping until he reached
+> > the rafters, late in the afternoon. Then he tore them up. Audun did his best to discourage
+> > him from entering the mound. Grettir told him to watch the rope, 'for I am going to find
+> > out what inhabits the barrow.' Then Grettir went inside the mound. Inside it was dark,
+> > and the air not very sweet'
+> 
+> Grave-robbers had to be careful for haugbui were jealous guardians of their treasures,
+> slaying those who would disturb the sanctity of their barrows.
+> 
+> > 'Grettir took all the treasure and carried it towards the rope, but as he was making his way
+> > through the barrow he was seized fast by someone. He let go of the treasure and turned to
+> > attack, and they set on each other mercilessly, so that everything in their way was thrown out
+> > of place. The mound-dweller attacked vigorously, and for a while Grettir had to give way,
+> > but finally he realized that this was not a good time to spare himself. Then they both fought
+> > desperately, and moved towards the horse bones, where they had a fierce struggle for a long
+> > time. Now the one and now the other was forced to his knees, but in the end the mound-
+> > dweller fell backwards, and there was a great crash. Then Audun ran away from the rope,
+> > thinking that Grettir must be dead.'
+> 
+> Beyond their awesome physical strength some haugbui also used magic to help defend
+> their burial place against looters. Agnarr in Gold-Thorir's Saga sends dreams to his
+> potential looter, encouraging him to despoil a different howe. The draugr sorcerer
+> Mithothyn uses foul plagues (disease spirits) to defend his grave house.
 
-Grave Robbing
-The presence of great wealth within the burial mounds of early Vikings attracted the
-attention of grave-robbers, both historically and in the literary record, such as the tale
-of Grettirs Saga.
-
-'Grettir began to break open the mound, and worked hard without stopping until he reached
-the rafters, late in the afternoon. Then he tore them up. Audun did his best to discourage
-him from entering the mound. Grettir told him to watch the rope, 'for I am going to find
-out what inhabits the barrow.' Then Grettir went inside the mound. Inside it was dark,
-and the air not very sweet'
-
-Grave-robbers had to be careful for haugbui were jealous guardians of their treasures,
-slaying those who would disturb the sanctity of their barrows.
-
-'Grettir took all the treasure and carried it towards the rope, but as he was making his way
-through the barrow he was seized fast by someone. He let go of the treasure and turned to
-attack, and they set on each other mercilessly, so that everything in their way was thrown out
-of place. The mound-dweller attacked vigorously, and for a while Grettir had to give way,
-but finally he realized that this was not a good time to spare himself. Then they both fought
-desperately, and moved towards the horse bones, where they had a fierce struggle for a long
-time. Now the one and now the other was forced to his knees, but in the end the mound-
-dweller fell backwards, and there was a great crash. Then Audun ran away from the rope,
-thinking that Grettir must be dead.'
-
-Beyond their awesome physical strength some haugbui also used magic to help defend
-their burial place against looters. Agnarr in Gold-Thorir's Saga sends dreams to his
-potential looter, encouraging him to despoil a different howe. The draugr sorcerer
-Mithothyn uses foul plagues (disease spirits) to defend his grave house.
-
-
-
-Dvergar
+### Dvergar
 The dvergar, also known as svartalfar or dwarfs, are small folk, originally created by
 the gods from the maggots that had crawled through the flesh of slain Ymir. Dvergar
 are smiths and craftsmen without match. Masters of secret knowledge they crafted the
@@ -7873,29 +7793,57 @@ from them, causing great harm to those who later own such treasures.
 Although often grudging, ill tempered and untrustworthy, the dvergar can be loyal
 friends to men who treat them well.
 
-      Dice         Average          1D20        Hit Location    AP/HP
-STR        2D6+9        16               1–3         Right Leg       –/5
-CON        2D6+9        16               4–6         Left Leg        –/5
-SIZ        1D6+3        7                7–9         Abdomen         –/6
-DEX        3D6          11               10–12       Chest           –/7
-INT        2D6+6        13               13–15       Right Arm       –/4
-POW        2D6+6        13               16–18       Left Arm        –/4
-CHA        2D6          7                19–20       Head            –/5
+|          | Dice       | Average        | 1D20      | Hit Location  | AP/HP |
+|----------|------------|----------------|-----------|---------------|-------|
+| STR      | 2D6+9      | 16             | 1–3       | Right Leg     | –/5   |
+| CON      | 2D6+9      | 16             | 4–6       | Left Leg      | –/5   |
+| SIZ      | 1D6+3      | 7              | 7–9       | Abdomen       | –/6   |
+| DEX      | 3D6        | 11             | 10–12     | Chest         | –/7   |
+| INT      | 2D6+6      | 13             | 13–15     | Right Arm     | –/4   |
+| POW      | 2D6+6      | 13             | 16–18     | Left Arm      | –/4   |
+| CHA      | 2D6        | 7              | 19–20     | Head          | –/5   |
 
+```
 Combat Actions          2                Typical Armour: Any
 Damage Modifier         None
 Magic Points            13               Traits: Earth Sense, Dark Sight
 Movement                6m
-Strike Rank             +12              Skills: As desired by the Games Master
+Strike Rank             +12
+```
 
-                                    Magic: Dvergar are masters of Rune Carving
+**Skills**: As desired by the Games Master
+
+**Magic**: Dvergar are masters of Rune Carving
 
 Like their brethren the Alfar, Dvergar vary in skill and magical ability according to the
 style of campaign. As craftsmen however, the dvergar are peerless and should exceed
 well beyond 100%.
 
+#### Famous Dwarfs
+* Alvis: Promised Thor's daughter for his wife in exchange for forging weapons for
+  the Æsir but was tricked by Thor and turned into stone.
+* Andvari: Cursed his treasure hoard stolen by Loki to pay the blood fine for Otr's
+  death.
+* Otr: A shape-shifter who delighted taking the form of an otter but was accidentally
+  slain by Loki.
+* Brokk and Sindri: Two brothers, who fashioned the spear Gungnir, hammer
+  Mjollnir, ship Skidbladnir, ring Draupnir, Sif 's golden Hair and the boar
+  Gullinburs.
+* Durin: Second in command of the dwarfs, who with the aid of Dvalin helped
+  forge the sword Tyrfing.
+* Dvalin: The father of the dwarfs, who taught his descendents the power of runes.
+* Fjalar: With his brother, Galar, he killed Kvasir and made the mead of poetry from
+  his blood.
+* Ivaldi: The sons of Ivaldi 'The Mighty' were Brokk and Sindri.
+* Lit: The misfortunate dvergar cremated with Balder and Nanna.
+* Modsognir: Chief of the dvergar.
+* Nordri, Austri, Sudri and Vestri: the four dwarves, chosen by the gods to protect
+  the four ends of the sky.
+* Althjof : The 'Mighty Thief ' maker and stealer of the sword Naglhring.
+* Dvalin, Alfrig, Berling and Grer were the creators of the necklace Brisingamen.
 
-Fylgjur
+
+### Fylgjur
 The Vikings believe that everyone has a guardian spirit called a fylgjur, to help ward
 that person from harm. The fylgjur is part of the soul, which manifests in the shape of
 an animal. Normally this spirit only becomes visible when the person is asleep and its
@@ -7910,32 +7858,6 @@ an unseen spirit sometimes they bang on a nearby door or wall to draw notice to 
 approaching or hidden threat. At other times, the fylgja takes animal form and ventures
 from the sleeping person, passing on visions of what they see in the form of dreams.
 
-
-Famous Dwarfs
-*	 Alvis: Promised Thor's daughter for his wife in exchange for forging weapons for
-the Æsir but was tricked by Thor and turned into stone.
-*	 Andvari: Cursed his treasure hoard stolen by Loki to pay the blood fine for Otr's
-death.
-*	 Otr: A shape-shifter who delighted taking the form of an otter but was accidentally
-slain by Loki.
-*	 Brokk and Sindri: Two brothers, who fashioned the spear Gungnir, hammer
-Mjollnir, ship Skidbladnir, ring Draupnir, Sif 's golden Hair and the boar
-Gullinburs.
-*	 Durin: Second in command of the dwarfs, who with the aid of Dvalin helped
-forge the sword Tyrfing.
-*	 Dvalin: The father of the dwarfs, who taught his descendents the power of runes.
-*	 Fjalar: With his brother, Galar, he killed Kvasir and made the mead of poetry from
-his blood.
-*	 Ivaldi: The sons of Ivaldi 'The Mighty' were Brokk and Sindri.
-*	 Lit: The misfortunate dvergar cremated with Balder and Nanna.
-*	 Modsognir: Chief of the dvergar.
-*	 Nordri, Austri, Sudri and Vestri: the four dwarves, chosen by the gods to protect
-the four ends of the sky.
-*	 Althjof : The 'Mighty Thief ' maker and stealer of the sword Naglhring.
-*	 Dvalin, Alfrig, Berling and Grer were the creators of the necklace Brisingamen.
-
-
-
 Seeing one's own fylgja is a sign that doom is close at hand, since that part of their soul
 has detached itself in preparation for death.
 
@@ -7944,12 +7866,12 @@ the spirit can interact as that beast, physically harming those it perceives as 
 example from Hrolfr Kraki's Saga is Bodvar Bjarki, who falls asleep under a tree before
 a battle during which his fylgjar manifests in its bear form to aid his king.
 
-'Hjorvardr and his men saw that a great bear went before the men of King Hrolfr, nearest
-to where the king was; he slew more men with his paws than five other warriors of the king;
-hewing- and shot-weapons bounced off him, and he broke under him both men and horses
-of the host of King Hjorvardr and all which neared him he crushed with his teeth, so that
-ill murmuring came into the host of King Hjorvardr... ...then the bear vanished away from
-the host, and the battle grew very heavy.'
+> 'Hjorvardr and his men saw that a great bear went before the men of King Hrolfr, nearest
+> to where the king was; he slew more men with his paws than five other warriors of the king;
+> hewing- and shot-weapons bounced off him, and he broke under him both men and horses
+> of the host of King Hjorvardr and all which neared him he crushed with his teeth, so that
+> ill murmuring came into the host of King Hjorvardr... ...then the bear vanished away from
+> the host, and the battle grew very heavy.'
 
 Fylgjur are, for the purposes of Legend game mechanics, the 'fetch' of every Adventurer,
 whether or not they are shamanists. When viewed with some form of second sight or
@@ -7962,9 +7884,9 @@ they take in spirit combat; and a tool with which a Games Master might allow som
 supernatural intervention to aid the Adventurers.
 
 For the expenditure of a Hero Point, an Adventurer can invoke his fylgjur to either:
-*	 Grant an immediate premonition of imminent peril, hidden or not.
-*	 Whilst sleeping, experience a dream revelation of nearby nefarious deeds.
-*	 Manifest as an animal to physically aid its unconscious ward.
+* Grant an immediate premonition of imminent peril, hidden or not.
+* Whilst sleeping, experience a dream revelation of nearby nefarious deeds.
+* Manifest as an animal to physically aid its unconscious ward.
 
 A shaman, fully awakened to the powers of his fylgjur fetch can command these
 abilities at will.
@@ -7981,32 +7903,33 @@ Adventurer. Fylgjur are normally immune to mundane harm but can be hurt by magic
 or ensorcelled weapons. Any damage inflicted on a physically manifested spirit harms
 the Adventurer also. Thus a critically injured fylgjur can cause the death of its host.
 
-Fylgjur A
-Dice Rolls             1D6
-1D20                   1–3                      4–6
-1                      Aurochs                  Magpie
-2                      Bear                     Martin
-3                      Beaver                   Mink
-4                      Boar                     Mouse
-5                      Bull                     Otter
-6                      Cat                      Owl
-7                      Eagle                    Raven
-8                      Eel                      Reindeer
-9                      Elk                      Salmon
-10                     Ermine                   Sea Gull
-11                     Fox                      Seal
-12                     Frog                     Shark
-13                     Goat                     Sheep
-14                     Hare                     Snake
-15                     Hawk                     Squirrel
-16                     Heron                    Swan
-17                     Horse                    Walrus
-18                     Hound                    Whale
-19                     Lemming                  Wolf
-20                     Lynx                     Wolverine
+##### Fylgjur A
+             
+| Dice Rolls 1D20      | 1D6 1–3                | 1D6 4–6 |
+|----------------------|------------------------|---------|
+| 1                    | Aurochs                | Magpie  |
+| 2                    | Bear                   | Martin  |
+| 3                    | Beaver                 | Mink    |
+| 4                    | Boar                   | Mouse   |
+| 5                    | Bull                   | Otter   |
+| 6                    | Cat                    | Owl     |
+| 7                    | Eagle                  | Raven   |
+| 8                    | Eel                    | Reindeer |
+| 9                    | Elk                    | Salmon  |
+| 10                   | Ermine                 | Sea Gull |
+| 11                   | Fox                    | Seal    |
+| 12                   | Frog                   | Shark   |
+| 13                   | Goat                   | Sheep   |
+| 14                   | Hare                   | Snake   |
+| 15                   | Hawk                   | Squirrel |
+| 16                   | Heron                  | Swan    |
+| 17                   | Horse                  | Walrus  |
+| 18                   | Hound                  | Whale   |
+| 19                   | Lemming                | Wolf    |
+| 20                   | Lynx                   | Wolverine |
 
 
-Jotnar
+### Jotnar
 The jotnar are the giants of Viking mythology. There are many different types of
 jotnar but they share the one simple aspect – they are all big or huge. Many of
 the Æsir are married to giantesses or are the children of them. Odin, Thor, Tyr,
@@ -8047,38 +7970,42 @@ Important or primordial jotun can be given more STR and SIZ to reflect their
 importance. Jotun chieftains should use 2D6+6 for intelligence to reflect their
 cunning.
 
+|          | Dice       | Average        | 1D20      | Hit Location           | AP/HP |
+|----------|------------|----------------|-----------|------------------------|-------|
+| STR      | 3D6+12     | 23             | 1–3       | Right Leg              | 1/8   |
+| CON      | 1D6+12     | 16             | 4–6       | Left Leg               | 1/8   |
+| SIZ      | 3D6+12     | 23             | 7–9       | Abdomen                | 1/9   |
+| DEX      | 3D6        | 11             | 10–12     | Chest                  | 1/10  |
+| INT      | 1D6+6      | 10             | 13–15     | Right Arm              | 1/7   |
+| POW      | 3D6        | 11             | 16–18     | Left Arm               | 1/7   |
+| CHA      | 3D6        | 11             | 19–20     | Head                   | 1/8   |
 
-      Dice         Average          1D20        Hit Location             AP/HP
-STR        3D6+12       23               1–3         Right Leg                1/8
-CON        1D6+12       16               4–6         Left Leg                 1/8
-SIZ        3D6+12       23               7–9         Abdomen                  1/9
-DEX        3D6          11               10–12       Chest                    1/10
-INT        1D6+6        10               13–15       Right Arm                1/7
-POW        3D6          11               16–18       Left Arm                 1/7
-CHA        3D6          11               19–20       Head                     1/8
-
+```
 Combat Actions          2                Typical Armour: Thick Skin
 Damage Modifier         +1D10
 Magic Points            11               Traits: None
 Movement                12m
-Strike Rank             +11              Skills: As desired by the Games Master. Most
-                                    skills are between 50-100%. Resilience is
-                                    always a minimum of CON x 5.
+Strike Rank             +11
+```
 
-                                    Magic: Jotnar rarely use magic save for the
-                                    occasional shape-shifting
+**Skills**: As desired by the Games Master. Most skills are between 50-100%. 
+Resilience is always a minimum of CON x 5.
 
-Weapons
-Type			                      Size	     Reach	    Damage		            AP/HP
-Unarmed		                    L	        M	        1D6+1D10	           As for relevant limb
-Giant 1H Sword		             H	        L	        1D12+1D10	          6/12
-Giant 2H Maul		              E	        VL	       3D6+1D10	           4/15
-Thrown Boulder		             E	        -	        2D6+1D10	           -
+**Magic**: Jotnar rarely use magic save for the occasional shape-shifting.
 
-Combat Styles
+##### Weapons
+
+| Type                  | Size | Reach | Damage         | AP/HP |
+|-----------------------|------|-------|----------------|-------|
+| Unarmed               | L    | M     | 1D6+1D10       | As for relevant limb |
+| Giant 1H Sword        | H    | L     | 1D12+1D10      | 6/12  |
+| Giant 2H Maul         | E    | VL    | 3D6+1D10       | 4/15  |
+| Thrown Boulder        | E    | -     | 2D6+1D10       | -     |
+
+#### Combat Styles
 Weapon 70%, Unarmed 80% – tougher giants are more skilled.
 
-Combat Notes
+#### Combat Notes
 Jotnar weapons are bigger than human versions in terms of Size and Reach, inflicting
 more damage. Giants normally try to use Bypass Parry or Damage Weapon against an
 enemy's shield, to allow their crushing blows to land unimpeded. Another favourite
@@ -8086,7 +8013,7 @@ technique is to use Bash in order to keep from getting swamped by multiple oppon
 When throwing rocks, the missiles tend to Stun Location due to their inherent mass, in
 addition to any manoeuvre chosen by the giant.
 
-Magic Notes
+#### Magic Notes
 Frost giants are immune to cold and can control the weather in their realm to summon
 blizzards, call forth icy winds or invoke a freezing cold. Anyone caught outside shelter
 during these conditions loses a level of fatigue for each hour of exposure unless they can
@@ -8101,49 +8028,47 @@ breathe water without harm. Sea jotnar in particular can control the weather upo
 ocean. The maximum wind strength a giant can raise (or calm) is equal to his or her
 Persistence skill value.
 
+#### Famous Giants
+* Angroboda: Loki's lover and mother of Fenrir, Jormungand and Hel.
+* Baugi: Brother of Sutting. He employed Odin, disguised as Bolverk, to reap his
+  fields.
+* Bergelmir: The only giant to escape the flood of Ymir's blood at the creation.
+* Elli: Old age in the form of an ancient giantess who wrestled with Thor in
+  Utgardloki's court.
+* Farbauti: Loki's father.
+* Fjolsvid: Guardian of Menglad's hall.
+* Geirrod: Attempts to kill Thor in a duel.
+* Gilling: Giant who, with his wife is killed by the dwarfs Fjalar and Galar.
+* Gjalp and Greip: Geirrod's daughters who tried to kill Thor by drowning him in
+  menstrual blood and then by crushing him against the rafters. Killed by Thor.
+* Grid: Odin's mistress who loaned Thor her magic belt, gloves and staff for his fight
+  with Geirrod.
+* Gunnlod: Suttung's daughter who guarded the mead of poetry but was tricked and
+  seduced by Odin.
+* Hraesvelg: Creates the wind whilst disguised as an eagle.
+* Hugi: 'Thought' an illusory giant who defeated Thialfi in a running race.
+* Hymir: Owner of a giant cauldron that was taken from him by Thor.
+* Hyndla: Discloses Ottar's ancestors to him while he is disguised as a boar.
+* Hyrrokin: The puller of Balder's burial boat to the sea.
+* Jarnsaxa: Thor's mistress and mother of Magni and Modi.
+* Logi: Fire in the form of a giant who defeated Loki in an eating contest at
+  Utgardloki's hall.
+* Narvi: Father of night.
+* Surt: Lord of Muspell and the fire giants, who will set the nine worlds alight at
+  Ragnarok.
+* Suttung: Son of Gilling and temporary owner of the mead of poetry.
+* Thiazi: Abducted Idun and her golden apples but was slain by the gods for his
+  deed.
+* Thokk: The bitter giantess who prevented Balder's return from Hel.
+* Thrym: Lord of the frost giants who stole Thor's hammer and was then killed for
+  it.
+* Utgardloki: Ruler of Utgard and a master of illusion, disguised himself as Skrymir
+  to lure Thor and friend to his hall.
+* Vafthrudnir: Was slain after being tricked into a knowledge contest with Odin.
+* Ymir: The first giant whose corpse made the nine worlds.
 
 
-Famous Giants
-*	 Angroboda: Loki's lover and mother of Fenrir, Jormungand and Hel.
-*	 Baugi: Brother of Sutting. He employed Odin, disguised as Bolverk, to reap his
-fields.
-*	 Bergelmir: The only giant to escape the flood of Ymir's blood at the creation.
-*	 Elli: Old age in the form of an ancient giantess who wrestled with Thor in
-Utgardloki's court.
-*	 Farbauti: Loki's father.
-*	 Fjolsvid: Guardian of Menglad's hall.
-*	 Geirrod: Attempts to kill Thor in a duel.
-*	 Gilling: Giant who, with his wife is killed by the dwarfs Fjalar and Galar.
-*	 Gjalp and Greip: Geirrod's daughters who tried to kill Thor by drowning him in
-menstrual blood and then by crushing him against the rafters. Killed by Thor.
-*	 Grid: Odin's mistress who loaned Thor her magic belt, gloves and staff for his fight
-with Geirrod.
-*	 Gunnlod: Suttung's daughter who guarded the mead of poetry but was tricked and
-seduced by Odin.
-*	 Hraesvelg: Creates the wind whilst disguised as an eagle.
-*	 Hugi: 'Thought' an illusory giant who defeated Thialfi in a running race.
-*	 Hymir: Owner of a giant cauldron that was taken from him by Thor.
-*	 Hyndla: Discloses Ottar's ancestors to him while he is disguised as a boar.
-*	 Hyrrokin: The puller of Balder's burial boat to the sea.
-*	 Jarnsaxa: Thor's mistress and mother of Magni and Modi.
-*	 Logi: Fire in the form of a giant who defeated Loki in an eating contest at
-Utgardloki's hall.
-*	 Narvi: Father of night.
-*	 Surt: Lord of Muspell and the fire giants, who will set the nine worlds alight at
-Ragnarok.
-*	 Suttung: Son of Gilling and temporary owner of the mead of poetry.
-*	 Thiazi: Abducted Idun and her golden apples but was slain by the gods for his
-deed.
-*	 Thokk: The bitter giantess who prevented Balder's return from Hel.
-*	 Thrym: Lord of the frost giants who stole Thor's hammer and was then killed for
-it.
-*	 Utgardloki: Ruler of Utgard and a master of illusion, disguised himself as Skrymir
-to lure Thor and friend to his hall.
-*	 Vafthrudnir: Was slain after being tricked into a knowledge contest with Odin.
-*	 Ymir: The first giant whose corpse made the nine worlds.
-
-
-Kraken
+### Kraken
 Although technically never named directly in any of the sagas, save as the sea creatures
 hafgufa and lyngbakr, the Kraken is a Norse monster of the late Viking period. They
 are giant squid, which cause mighty whirlpools that can sink ships. After storms or the
@@ -8156,37 +8081,42 @@ in length. Each limb is lined with suckers inside of which are viciously sharp h
 At the base of the tentacles and arms is the feeding mouth, a large beak capable of
 shredding prey before it is swallowed.
 
-     Dice          Average           1D20        Hit Location      AP/HP
-STR       2D6+12        19                1–3         Body              3/15
-CON       2D6+12        26                4           Head              3/14
-SIZ       4D6+24        38                5           Arm 1             3/7
-DEX       2D6+18        25                6           Arm 2             3/7
-INT       6             6                 7           Arm 3             3/7
-POW       2D6+6         13                8           Arm 4             3/7
-                                     9           Arm 5             3/7
-                                     10          Arm 6             3/7
-                                     11          Arm 7             3/7
-                                     12          Arm 8             3/7
-                                     13–16       Tentacle 1        3/13
-                                     17–20       Tentacle 2        3/13
+|         | Dice        | Average         | 1D20      | Hit Location    | AP/HP |
+|---------|-------------|-----------------|-----------|-----------------|-------|
+| STR     | 2D6+12      | 19              | 1–3       | Body            | 3/15  |
+| CON     | 2D6+12      | 26              | 4         | Head            | 3/14  |
+| SIZ     | 4D6+24      | 38              | 5         | Arm 1           | 3/7   |
+| DEX     | 2D6+18      | 25              | 6         | Arm 2           | 3/7   |
+| INT     | 6           | 6               | 7         | Arm 3           | 3/7   |
+| POW     | 2D6+6       | 13              | 8         | Arm 4           | 3/7   |
+|         |             |                 | 9         | Arm 5           | 3/7   |
+|         |             |                 | 10        | Arm 6           | 3/7   |
+|         |             |                 | 11        | Arm 7           | 3/7   |
+|         |             |                 | 12        | Arm 8           | 3/7   |
+|         |             |                 | 13–16     | Tentacle 1      | 3/13  |
+|         |             |                 | 17–20     | Tentacle 2      | 3/13  |
 
+```
 Combat Actions          4                 Typical Armour: Thick gelatinous skin. No
-                                     Armour Penalty
-Damage Modifier         +1D12
-Magic Points            13                Traits: Dark Sight, Night Sight
-Movement                12m
-Strike Rank             +19               Skills: Perception 65%, Persistence 55%,
-                                     Resilience 80%, Stealth 70%, Swim 100%
+Damage Modifier         +1D12             Armour Penalty
+Magic Points            13
+Movement                12m               Traits: Dark Sight, Night Sight
+Strike Rank             +19
+```
 
-Weapons
-Type		             Size	     Reach	   Damage		            AP/HP
-Tentacle Lash	     L	        VL	      1D6+1D6	            As for Tentacle
-Arm Crush	         H	        VL	      1D3+1D12	           As for Tentacle
+**Skills**: Perception 65%, Persistence 55%, Resilience 80%, Stealth 70%, Swim 100%
 
-Combat Styles
+##### Weapons
+
+| Type          | Size | Reach | Damage        | AP/HP |
+|---------------|------|-------|---------------|-------|
+| Tentacle Lash | L    | VL    | 1D6+1D6       | As for Tentacle |
+| Arm Crush     | H    | VL    | 1D3+1D12      | As for Tentacle |
+
+#### Combat Styles
 Tentacles 75%
 
-Combat Notes
+#### Combat Notes
 Kraken normally attack with their two long tentacles, plucking up small prey, which
 is passed to the eight shorter 'arms' around its beak. Any attack by a tentacle or arm
 automatically gains the Grip manoeuvre in addition to any others won in combat.
@@ -8197,13 +8127,13 @@ is upset with the ship itself, it will grasp the vessel and create a whirlpool t
 entire ship under in 1D6+1 rounds.
 
 
-Landvættir
+## Landvættir
 Landvættir are the spirits of the land who control its fertility and fortune. They can live
 in the wilderness, residing in oddly shaped boulders, pretty pools or waterfalls; or they
 reside on farmsteads, looking after the running and protection of the stead.
 
 
-Huldra
+### Huldra
 Wilderness nature spirits have a myriad of different names and titles. Collectively
 known as the Huldra Folk they encompass many of the stone, water or forest spirits
 such as bergbui (rock dweller), Sjora (water spirit) or skogsfru (forest nymph). A huldra
@@ -8222,30 +8152,36 @@ Although a manifested landvættir may be physically harmed, killing the body doe
 not destroy the spirit, which may reform the following day suitably angered by the
 experience. To defeat or drive off the spirit requires magic or the protection of a shaman.
 
-        Dice         Average            1D20       Hit Location       AP/HP
-STR        2D6+12       19                 1–3        Right Leg          –/4
-CON        2D6+3        10                 4–6        Left Leg           –/4
-SIZ        2D6+3        10                 7–9        Abdomen            –/5
-DEX        2D6+6        13                 10–12      Chest              –/6
-INT        2D6+6        13                 13–15      Right Arm          –/3
-POW        1D6+18       22                 16–18      Left Arm           –/3
-CHA        1D6+18       22                 19–20      Head               –/4
+|          | Dice       | Average          | 1D20     | Hit Location     | AP/HP |
+|----------|------------|------------------|----------|------------------|-------|
+| STR      | 2D6+12     | 19               | 1–3      | Right Leg        | –/4   |
+| CON      | 2D6+3      | 10               | 4–6      | Left Leg         | –/4   |
+| SIZ      | 2D6+3      | 10               | 7–9      | Abdomen          | –/5   |
+| DEX      | 2D6+6      | 13               | 10–12    | Chest            | –/6   |
+| INT      | 2D6+6      | 13               | 13–15    | Right Arm        | –/3   |
+| POW      | 1D6+18     | 22               | 16–18    | Left Arm         | –/3   |
+| CHA      | 1D6+18     | 22               | 19–20    | Head             | –/4   |
 
+```
 Combat Actions          3                  Typical Armour: None
 Damage Modifier         +1D2
 Magic Points            22                 Traits: Dark Sight, Night Sight, Recurring
 Movement                12m
-Strike Rank             +13                Skills: Perception 80%, Persistence 75%,
-                                        Resilience 60%, Seduction 85%, Stealth 90%
+Strike Rank             +13
+```
 
-Weapons
-Type		             Size	     Reach	    Damage		            AP/HP
-Unarmed	           S	        T	        1D3+1D2	            As for Arm
+**Skills**: Perception 80%, Persistence 75%, Resilience 60%, Seduction 85%, Stealth 90%
 
-Combat Styles
+##### Weapons
+
+| Type         | Size | Reach | Damage        | AP/HP |
+|--------------|------|-------|---------------|-------|
+| Unarmed      | S    | T     | 1D3+1D2       | As for Arm |
+
+#### Combat Styles
 Spectral Combat 100%, Unarmed 75%
 
-Combat Notes
+#### Combat Notes
 A huldra is normally tied to a physical location – a rock, tree or pool – which is their
 home. From this place they can command the lesser Nature spirits residing in their
 domain. The physical form of the huldra must emerge from or dissipate into the object
@@ -8262,7 +8198,7 @@ can summon and direct local Nature Spirits, which can be done automatically with
 expenditure of a Magic Point.
 
 
-Tomte or Nisse
+### Tomte or Nisse
 Tomte are spirits that live on steadings, helping to look after the running of the farm.
 When manifested they take the form of diminutive, elderly men with full beards,
 dressed in woollen clothing and wearing a dyed woollen hood or cap. They are rarely
@@ -8275,14 +8211,13 @@ even malicious if not kept appeased. A minor offence might result in the spirit 
 the offender's ears, whereas a catastrophic insult could cause the spirit to burn down a
 barn or kill all the livestock.
 
-The way to insult a tomte could be any of the following:
-*	 Changing the way the farm is run.
-*	 Swearing or urinating in his presence.
-*	 Failing to set a place for the spirit at the table.
-*	 Playing loud music when it wants to sleep.
-*	 Maltreating the animals on the farm.
-*	 Forgetting to sacrifice food to it at the customary blot.
-
+The way to insult a tomte could be any of the following:  
+* Changing the way the farm is run.
+* Swearing or urinating in his presence.
+* Failing to set a place for the spirit at the table.
+* Playing loud music when it wants to sleep.
+* Maltreating the animals on the farm.
+* Forgetting to sacrifice food to it at the customary blot.
 
 Conversely, a tomte will repay acts of kindness and respect, greatly reducing the work
 necessary to run the farmstead. Not only do they engage in physical labour but they
@@ -8293,7 +8228,7 @@ For Characteristics and abilities, treat Tomte as Alfar; save that their STR is 
 and SIZ is 1D6+3. In addition tomte know the galdr magic of Remain Unseen.
 
 
-Mara
+### Mara
 A mara is an evil nightmare that 'rides' a human or animal as they sleep. They are
 considered the ill-intentioned sendings of seid-witches or Lapp shaman, who wish to
 punish or even kill a victim.
@@ -8308,16 +8243,16 @@ Externally the sleeping victim begins to slowly writhe and sweat, groaning from 
 assault but unable to move a limb to escape. The dreamer however, sees some dark
 presence resting upon their chest in a shadowy semblance of some sort of animal.
 
-'Drífa prevailed upon Huld by gifts that she should conjure Vanlandi back to Finland or
-else kill him. At the time when she exercised her seidr, Vanlandi was at Uppsala. Then he
-became eager to go to Finland; but his friends and counsellors prevented him from doing
-so, saying that most likely it was the witchcraft of the Finns which caused his longing.
-Then a drowsiness came over him and he lay down to sleep. But he had hardly gone
-to sleep when he called out, saying that a mara rode him. His men went to him and
-wanted to help him. But when they took hold of his head the mara trod on his legs so they
-nearly broke; and when they seized his feet it pressed down on his head so that he died.'
-
-- Ynglinga Saga
+> 'Drífa prevailed upon Huld by gifts that she should conjure Vanlandi back to Finland or
+> else kill him. At the time when she exercised her seidr, Vanlandi was at Uppsala. Then he
+> became eager to go to Finland; but his friends and counsellors prevented him from doing
+> so, saying that most likely it was the witchcraft of the Finns which caused his longing.
+> Then a drowsiness came over him and he lay down to sleep. But he had hardly gone
+> to sleep when he called out, saying that a mara rode him. His men went to him and
+> wanted to help him. But when they took hold of his head the mara trod on his legs so they
+> nearly broke; and when they seized his feet it pressed down on his head so that he died.'
+> 
+> - Ynglinga Saga
 
 In Vikings of Legend mara are considered to be the fylgjur of sorcerers skilled in
 shamanism, sent to possess the victim. The appearance of the mara depends on the
@@ -8329,7 +8264,7 @@ If possession is successful, the fylgjur can either plague the victim with terri
 thought up by the sorcerer, or it can simply dissipate the soul of the victim, killing them.
 
 
-Nyke
+### Nyke
 Nyke are malevolent spirits that adopt the forms of beautiful horses, which lure riders
 onto their backs. Once mounted the nyke then plunges into the nearby pool or river
 to drown the rider, who remains affixed to the horse. The only chance of survival is to
@@ -8340,7 +8275,8 @@ Nyke usually demand to be propitiated with human sacrifices or they begin to fea
 on those children living nearby. For Characteristics, see Huldra on page 205. Nyke in
 addition know the galdr magic of Hold Fast.
 
-Orm
+
+### Orm
 An orm or wyrm is a serpentine, legless Scandinavian dragon. Although they lack the
 fiery breath of their continental cousins, ormar are possessed of terrible venom, which
 poisons and asphyxiates those who press too close.
@@ -8361,31 +8297,37 @@ points of armour and a +6 bonus to its STR and SIZ.
 The following orm is a modest specimen only 12 metres long, a suitable challenge for
 a great hero.
 
-      Dice         Average       1D20        Hit Location      AP/HP
-STR        2D6+18       25            1–8         Tail              8/10
-CON        2D6+12       19            9           Right Wing        8/5
-SIZ        2D6+18       25            10          Left Wing         8/5
-DEX        2D6+12       19            11–16       Body              8/11
-INT        2D6+6        13            17–20       Head              8/9
-POW        2D6+6        13
-CHA        2D6+6        13
+|          | Dice       | Average     | 1D20      | Hit Location    | AP/HP |
+|----------|------------|-------------|-----------|-----------------|-------|
+| STR      | 2D6+18     | 25          | 1–8       | Tail            | 8/10  |
+| CON      | 2D6+12     | 19          | 9         | Right Wing      | 8/5   |
+| SIZ      | 2D6+18     | 25          | 10        | Left Wing       | 8/5   |
+| DEX      | 2D6+12     | 19          | 11–16     | Body            | 8/11  |
+| INT      | 2D6+6      | 13          | 17–20     | Head            | 8/9   |
+| POW      | 2D6+6      | 13          |           |                 |       |
+| CHA      | 2D6+6      | 13          |           |                 |       |
 
+```
 Combat Actions          3             Typical Armour: Scales
 Damage Modifier         +1D10
 Magic Points            13            Traits: Dark Sight, Night Sight
 Movement                12m
-Strike Rank             +16           Skills: Flying 100%, Perception 100%,
-                                 Persistence 80%, Resilience 80%, Stealth 75%
+Strike Rank             +16
+```
 
-Weapons
-Type		              Size	     Reach	    Damage			                     AP/HP		
-Bite		              H	        L	        1D8+1D10+Poison	              As for Head
-Tail		              H	        VL	       1D6+1D10		                    As for Tail
+**Skills**: Flying 100%, Perception 100%, Persistence 80%, Resilience 80%, Stealth 75%
 
-Combat Styles
+##### Weapons
+
+| Type          | Size  | Reach | Damage                  | AP/HP |
+|---------------|-------|-------|-------------------------|-------|
+| Bite          | H     | L     | 1D8+1D10+Poison         | As for Head |
+| Tail          | H     | VL    | 1D6+1D10                | As for Tail |
+
+#### Combat Styles
 Bite 100%, Tail Bash 80%
 
-Combat Notes
+#### Combat Notes
 A crafty and cunning fighter, wyrms strike from positions of personal advantage. An
 orm in its lair will place itself to prevent being outflanked, such as at the end of the
 narrow entrance tunnel where only one foe can attack at a time. If caught or lured
@@ -8402,27 +8344,27 @@ Ormar use their tails in preference to their heads, trying to knock opponents pr
 before biting them. Unless faced by weapons that can cause it significant damage, the
 creature does not bother to defend itself, only using its Combat Actions to attack.
 
-Orm Venom
-Application: Contact/Inhaled
-Onset time: Asphyxiation immediately, necrosis occurs only if bitten.
-Duration: 1D10 minutes
-Resistance Time: The victim must make a single Resistance roll when first breathed
+#### Orm Venom
+**Application**: Contact/Inhaled  
+**Onset time**: Asphyxiation immediately, necrosis occurs only if bitten.  
+**Duration**: 1D10 minutes  
+**Resistance Time**: The victim must make a single Resistance roll when first breathed
 upon. Failure indicates that the victim starts to suffer asphyxiation. Each bite requires
-an immediate Resistance roll to see if the accumulating necrosis effect is resisted.
-Potency: Orm's CON x 5
-Resistance: Resilience
-Conditions: Asphyxiation, Necrosis. The dripping venom sublimates into a choking
+an immediate Resistance roll to see if the accumulating necrosis effect is resisted.  
+**Potency**: Orm's CON x 5  
+**Resistance**: Resilience  
+**Conditions**: Asphyxiation, Necrosis. The dripping venom sublimates into a choking
 cloud, which gradually asphyxiates those in the Orm's immediate vicinity. Each bite
 however will accumulate necrotic damage to that location – 1 HP of permanent
-damage per failed save.
-Antidote/Cure: A suffocating victim who staggers clear of the poisonous miasma into
+damage per failed save.  
+**Antidote/Cure**: A suffocating victim who staggers clear of the poisonous miasma into
 clean air will recover from the asphyxiation in 1D6 minutes. A victim who collapses
 within the cloud will die if not rescued and resuscitated. A successful Healing roll used
 to treat the necrosis will allow that location to heal naturally. Failure means the flesh is
 permanently destroyed. Only one attempt can be made per location.
 
 
-Troll
+### Troll
 Surprisingly the word Troll and its associated monster concept do not actually exist
 in the Viking period. However, for those who would sorely miss the ubiquitous troll,
 assume that they are a type of man eating ogre which dwell in watery places, such as
@@ -8431,7 +8373,7 @@ breathing and make them immune to weapons unless rendered incapacitated first by
 the use of wrestling – as per Draugr.
 
 
-Were-creatures
+### Were-creatures
 Almost all monstrous were-creatures are either shape-shifters who have forgotten their humanity,
 or poor fools who have donned a cursed shape-shifting skin that they cannot remove. (Willing
 shape-shifters are handled using the Shape-shifting skill in the Magic chapter.)
@@ -8442,12 +8384,12 @@ are either under a cyclical curse of the enchanted skin, every evening or every 
 for example; or they are permanently trapped in the animal shape, only returning to
 human form when killed.
 
-'It was his custom to get up early and go about men's business or where there was smith-
-work...But every day when evening came, then he became peevish, so that few men could
-speak with him; he was prone to sleep in the evenings. That was said among folk, that he was
-greatly hamrammr; he was called Evening Wolf '
-
-- Egils Saga
+> 'It was his custom to get up early and go about men's business or where there was smith-
+> work...But every day when evening came, then he became peevish, so that few men could
+> speak with him; he was prone to sleep in the evenings. That was said among folk, that he was
+> greatly hamrammr; he was called Evening Wolf '
+> 
+> - Egils Saga
 
 Unwillingly trapped within a different form, most folk become semi-sapient monsters,
 driven by impotent rage or a lust for killing, victims of the animalistic passions they
@@ -8461,7 +8403,7 @@ To generate the Characteristics of a were-creature, simply use the average STR, 
 and DEX values for that type of animal and make them immune to mundane damage.
 
 
-Unique Creatures
+## Unique Creatures
 The following creatures are legendary beings from Viking mythology. These include
 some of the terrible monsters destined to kill the gods at Ragnarok. To save space,
 rather than repeating Characteristics for creatures which may never be used, a guideline
@@ -8469,18 +8411,18 @@ is provided to allow Games Masters to quickly stat out each one.
 
 
 Legendary creatures possess these traits:
-*	 Maximum values for their Characteristics.
-*	 An additional 10 AP added to their natural Armour Points.
-*	 A raised intellect, 7 for herbivores, 2D6+6 for carnivores.
-*	 Carnivores can communicate with speech.
-*	 The Size, Reach and Damage Dice of natural weapons, all raised by one step.
+* Maximum values for their Characteristics.
+* An additional 10 AP added to their natural Armour Points.
+* A raised intellect, 7 for herbivores, 2D6+6 for carnivores.
+* Carnivores can communicate with speech.
+* The Size, Reach and Damage Dice of natural weapons, all raised by one step.
 
 Although this list only includes famous creatures from the eddas, there is nothing
 preventing a Games Master from generating his own unique monsters, which can be
 found wondering the nine worlds.
 
 
-Audumla
+### Audumla
 The primeval first cow of gargantuan size, born from the ice of Ginnungagap. Her
 milk fed Ymir, the first of the giants, and his offspring. The great cow fed on the salty
 rime surrounding Ymir, eventually freeing Buri from the ice. Audumla still grazes the
@@ -8488,7 +8430,7 @@ inhospitable places of the nine worlds, licking ice and searching for salt. The 
 Characteristics of Audumla are of an auroch of triple STR and SIZ.
 
 
-Fafnir
+### Fafnir
 Originally a dwarf, the son of Hreidmar and brother to Regin and Ottr. When the
 cursed ring Andvarinaut was used to pay the weregild for his Ottr's death, Fafnir
 killed his father for the ransom and assumed the form of a dragon to better guard
@@ -8498,7 +8440,7 @@ understand the speech of birds and eating his heart grants an increase in streng
 is a traditional Dragon as described on page 64 of the Monsters of Legend.
 
 
-Grendel
+### Grendel
 Grendel was a terrible man eating creature of iron claws and great strength, who
 haunted Heorot, the hall of the Danish king Hrothgar. Grendel kept to the darkness
 and lived in an underwater cave with his mother, an even more fearsome monster.
@@ -8512,8 +8454,7 @@ four men to carry back to Heorot. Grendel and his mother can be modelled as trol
 as described in the previous section.
 
 
-
-Fenrir
+### Fenrir
 One of the three monstrous offspring of Loki and the giantess Angerboda, Fenrir had
 the form of a wolf. He was kept at Asgardr with the Æsir who grew slowly more
 frightened of him as he grew to gigantic proportions. The gods tried to trick Fenrir
@@ -8531,14 +8472,14 @@ more horribly. Fenrir is fated to kill Odin at Ragnarok. The maximised Character
 of Fenrir are of a wolf of triple STR and SIZ.
 
 
-Garm
+### Garm
 The very hound of Hel, Garm is a guard-dog of enormous size and savagery. He was
 chained outside the cave Gnipahellir, guarding the entrance to Niflhel. Whilst the hound
 has no particular enmity against the Æsir, it is fated to break its chain and die whilst slaying
 Tyr. The maximised Characteristics of Garm are of a hound of quadruple STR and SIZ.
 
 
-Jormungand
+### Jormungand
 Another of the three monstrous offspring of Loki and the giantess Angerboda,
 Jormungand was cast out of Asgardr by Odin and the wyrm landed in the ocean where
 it began to grow to titanic proportions. Thereafter it was known as the Midgardormr, or
@@ -8551,7 +8492,7 @@ be overcome by the serpent's venom. The father of all wyrms, large enough to enc
 world, is beyond the scope of even the gods themselves, so no characteristics are provided.
 
 
-Nidhogg
+### Nidhogg
 The dragon that gnawed at the roots of Yggdrasil, Nidhogg laired near the Hvergelmir,
 one of three sacred wells. Nidhogg was also supposed to chew on the bodies of evil doers
 consigned to Nastrond the bleak beach full of serpent skin and awash with venom. The
@@ -8560,58 +8501,47 @@ their insulting banter to one another carried back and forth by the squirrel Rat
 The maximised Characteristics of Nidhogg are of a dragon of double STR and SIZ.
 
 
-Skoll and Hati
+### Skoll and Hati
 The giant wolves that pursued the sun and the moon, Skoll and Hati were among the warg
 descendants of the giantesses known as the Jarnvidur. When Skoll and Hati catch the two
 gods, it will herald in the Fimbulwinter, plunging the nine worlds into frozen misery. The
 maximised Characteristics of Skoll and Hati are of wolves of double STR and SIZ.
 
-Lesser Legendary Creatures
-Name             Description                                     Animal to Use1
-Alsvid and       The horses that pull the sun.                   Double sized horses
-Arvak
-Fjalar           The cockerel who will crow to warn the          Double sized eagle
-            giants that Ragnarok has arrived.
-Gullinbursti     Freyr's golden boar that glows and can fly.     Triple sized boar
-Gullinkambi      Cockerall who wakes the Einherjar and           Double sized eagle
-            warns the gods that Ragnarok has arrived.
-Gullfaxi         The giant Hrungnir's horse.                     Triple sized horse with
-                                                            triple the movement rate
-Heidrun          Goat that supplies mead for the                 Equivalent to a double
-            Einherjar.                                      sized elk
-Himinhrjot       The giant Hymir's giant Ox.                     Double sized aurochs
-Hrimfaxi         Night's horse.                                  Double sized horse
-Huginn and       Odin's ravens.                                  Double sized eagles
-Munin
-Ratatosk         The squirrel that runs up Yggdrasil's           Equivalent to a double
-            trunk and carries insults to the eagle in its   sized hound
-            branches.
-Skinfaxi         Day's horse.                                    Double sized horse
-Sleipnir         Eight legged horse owned by Odin. Sired         Double sized horse with
-            by Svadilfari, the stallion and carried by      five times the movement
-            Loki.                                           rate
-Svardilfari      Stallion that helped to rebuild the walls of    Triple sized horse
-            Asgard. Sired Sleipnir.
-Tanngnost        The two goats that pull Thor's chariot,         Equivalent to double
-and              who can be eaten and are reborn each            sized reindeer
-Tanngrisni       morning.
-Wargs            The numerous wolf offspring of the              Double sized wolves
-            giantesses of Jarnvidur.                        (rolled not maximised)
-1
-The descriptor Double or Triple Sized refers to the STR and SIZ Characteristics. The
+##### Lesser Legendary Creatures
+
+| Name | Description | Animal to Use (1) |
+|------|-------------|-------------------|
+| Alsvid and Arvak | The horses that pull the sun. | Double sized horses |
+| Fjalar | The cockerel who will crow to warn the giants that Ragnarok has arrived. | Double sized eagle |
+| Gullinbursti | Freyr's golden boar that glows and can fly. | Triple sized boar |
+| Gullinkambi | Cockerall who wakes the Einherjar and warns the gods that Ragnarok has arrived. | Double sized eagle |
+| Gullfaxi | The giant Hrungnir's horse. | Triple sized horse with triple the movement rate |
+| Heidrun | Goat that supplies mead for the Einherjar. | Equivalent to a double sized elk |
+| Himinhrjot | The giant Hymir's giant Ox. | Double sized aurochs |
+| Hrimfaxi | Night's horse. | Double sized horse |
+| Huginn and Munin | Odin's ravens. | Double sized eagles |
+| Ratatosk | The squirrel that runs up Yggdrasil's trunk and carries insults to the eagle in its branches. | Equivalent to a double sized hound |
+| Skinfaxi | Day's horse. | Double sized horse |
+| Sleipnir | Eight legged horse owned by Odin. Sired by Svadilfari, the stallion and carried by Loki. | Double sized horse with five times the movement rate |
+| Svardilfari | Stallion that helped to rebuild the walls of Asgard. Sired Sleipnir. | Triple sized horse |
+| Tanngnost and Tanngrisni | The two goats that pull Thor's chariot, who can be eaten and are reborn each morning. | Equivalent to double sized reindeer |
+| Wargs | The numerous wolf offspring of the giantesses of Jarnvidur. | Double sized wolves (rolled not maximised) |
+
+(1) The descriptor Double or Triple Sized refers to the STR and SIZ Characteristics. The
 remainder remain intact save for the guidelines defined for legendary creatures.
 
 
-                    Viking Campaigns
-Cattle die, kindred die, 
-Every man is mortal:
-But I know one thing that never dies, 
-The glory of the great dead 
+# Viking Campaigns
 
-- Havamal
+> Cattle die, kindred die, 
+> Every man is mortal:
+> But I know one thing that never dies, 
+> The glory of the great dead 
+> 
+> - Havamal
 
 
-Designing a Viking Campaign
+## Designing a Viking Campaign
 As illustrated in the earlier chapters, the Viking Age is a blend of tradition,
 superstition, honour and treachery. The fluid mobility of social status, wealth and
 outlawry present fantastic opportunities for a Game Master to raise his Adventurers
@@ -8642,7 +8572,7 @@ cultural roleplaying to Adventurer survivability and thus the enjoyment that pla
 will gain from it.
 
 
-Family
+### Family
 Of the greatest importance to any Viking is their family. Although the father was the
 head of the household, his authority was not absolute; the mother often owning a great
 deal of influence in her own right. Sons and daughters are expected to respect their
@@ -8670,7 +8600,7 @@ lenders, if you need to purchase something or pay off a weregild, then it is you
 who combined their resources to help you out.
 
 
-Wealth
+### Wealth
 Unlike some high fantasy games, the wealth of Adventurers is of considerably less
 importance in the Viking World. Since hospitality is freely given and there are very few
 available sources of equipment or possessions save for what you make for yourself, the
@@ -8695,7 +8625,7 @@ mercenaries to make war.
 Thus wealth is not really an important objective to the average Viking. Land or rank
 is far more valuable.
 
-Retribution and Blood Feud
+### Retribution and Blood Feud
 A famous quote once said 'An armed society is a polite society'. Unfortunately during
 the Viking Age the opposite consequences occur. Since every free man has the right
 to bear weapons and is on the guard for any insult to his honour, fights are all too
@@ -8728,7 +8658,7 @@ Adventurers will find a Viking campaign well suited to the pursuit and indeed co
 uppance, of causal violence.
 
 
-Law and Order
+### Law and Order
 The Vikings lack any form of police force. Social stability is maintained by convention,
 common sense and the law courts at the annual thing. With no dedicated law enforcers,
 most men have to protect their own property against theft, pillage or blood feud. This
@@ -8759,13 +8689,13 @@ professional standing army do not exist throughout the entire Viking Age, men ha
 be called to war from their farms at the request of the local jarl or king.
 
 
-Combat
+### Combat
 Combat in Vikings of Legend is very dangerous. There are few sources of magical healing
 and being permanently maimed is an ever present threat. Most Adventurers have to
 heal naturally, which can take weeks or even months to recover. Several guidelines
 should be used to ensure that players are not rolling up new Adventurers every week.
 
-Frequency: Although most roleplaying games emphasise combat encounters to
+**Frequency**: Although most roleplaying games emphasise combat encounters to
 provide dramatic tension, a Games Master should understand that frequent combat is
 not sustainable. In a historical campaign wounds are persistent, so combat encounters
 should be paced to account for this. A Viking does not actually face combat that
@@ -8777,7 +8707,7 @@ an epic quest away from the relative security of a farmstead, then give the Adve
 plenty of rest between violent encounters. After all, travelling takes a considerable time
 and plenty of other types of challenge can interpose during a scenario.
 
-Intent: Another consideration of portraying realism is that fights need not end
+**Intent**: Another consideration of portraying realism is that fights need not end
 with killing. The Legend rules allow opponents to be defeated without unnecessary
 bloodshed. Defeat should not mean instant death. In many sagas a duel often ends
 with both antagonists becoming great friends, impressed with each other's prowess and
@@ -8788,7 +8718,7 @@ slavery. A live warrior is far more valuable than a dead one. With that in mind,
 Combat Manoeuvres of Disarm, Trip or Damage Weapon can be used in preference to
 more lethal options.
 
-Consequences: Simply slaying everyone who you fight with will eventually end up
+**Consequences**: Simply slaying everyone who you fight with will eventually end up
 with an Adventurer being hunted by a veritable army of kinsfolk seeking revenge.
 Unnecessary killing often earns an Adventurer a less than popular reputation, which
 may cost him friends or allies. Likewise, Adventurers that fight too often may end up
@@ -8797,23 +8727,23 @@ of the Adventurer and Games Masters are encouraged to emphasise the reputations 
 warriors with peg legs, single eyes or one hand – after all Tyr the god of victory only
 had one hand too!
 
-Pragmatism: Adventurers who are facing overwhelming odds are at liberty to disengage
+**Pragmatism**: Adventurers who are facing overwhelming odds are at liberty to disengage
 from a fight. Fleeing from battle often occurs in the sagas with no significant loss of
 reputation. Players should learn to judge their fights carefully and stack odds in their
 favour, rather than blindly leaping into the fire. If they do flee, then let them go. Unless
 they are raging berserks, most folks shy away from needless slaughter.
 
-Opposition: The competence of the opposition in Legend is an important balancing
+**Opposition**: The competence of the opposition in Legend is an important balancing
 act. Comparative skill is more important than the amount of armour worn. Games
 Masters who desire frequent combat should scale their foes' skills at between 20–30%
 lower than the Adventurers. This should provide a reasonably exciting combat in
 favour of the players but still retaining the chance of mishap.
 
-Armour: Wearing armour is important if an Adventurer is planning to fight. Even a
+**Armour**: Wearing armour is important if an Adventurer is planning to fight. Even a
 basic quilted byrnie can save a limb from being severed into 'just' a fracture.
 
 
-Politics
+### Politics
 Viking politics are focussed upon two aspects of society; the thing and personal ambition.
 Both are normally minor aspects of daily life unless a Games Master specifically plans
 his campaign to develop them.
@@ -8844,7 +8774,7 @@ law or their position to remain beyond reach, can be an exquisitely satisfying e
 for those who normally solve their problems with a blade.
 
 
-Religion
+### Religion
 Whilst there are very few game rules in Vikings of Legend to support religion as a source
 of magic, religion itself is still very important. Save for a few fanatics, Scandinavians
 are universally polytheistic and continue to worship pagan deities until after the end
@@ -8873,7 +8803,7 @@ icons of the old gods. Eventually in revenge for his excesses and authoritariani
 chieftains deserted him, giving their allegiance to Cnut and Olaf died in battle against
 his own people.
 
-Magic and Monsters
+### Magic and Monsters
 Throughout the book the terms Historical, Fantasy and Mythic have been used to
 describe different types of campaign.
 
@@ -8903,7 +8833,7 @@ such monsters, with bears, nomad archers and byzantine politics taking over as t
 main points of excitement.
 
 
-Climate and Disasters
+### Climate and Disasters
 Life in the northlands is not easy. A bad summer followed by a worse winter can
 lead to starvation if not properly prepared for. The climate in northern Scandinavia is
 extremely tough, subzero temperatures in the –30's and a metre of snow for most of
@@ -8932,7 +8862,7 @@ used sparingly but when they do occur, they should provide a dangerous challenge
 the Games Master wishes a volcanic eruption, it should be a one off event.
 
 
-Period
+### Period
 The period in which a campaign is set is an important consideration if the Games
 Master is planning to run a historical game. Political events can provide a backdrop
 or even a framework for scenarios. To find a period that will provide inspiration,
@@ -8952,7 +8882,7 @@ ways this can be a very enjoyable option since you can then generate the future 
 desired and keep the more historically knowledgeable players guessing!
 
 
-Using Sagas as Sources
+## Using Sagas as Sources
 One of the best things a Game Master can do before running any Viking campaign is
 to dip into the plethora of Scandinavian eddas and sagas. Most are available free on the
 internet to read, conveniently broken down into their component stories.
@@ -8963,12 +8893,12 @@ Most are highly entertaining reads too, full of insults, treachery, strange magi
 plenty of gruesomely described fighting scenes. Many of the quotes in this book have
 been taken directly from these stories.
 
-'Then ran up a fellow of Thorir's and smote at Uspak, but he thrust forth his axe, and the
-blow took the shaft thereof and struck it asunder, and down fell the axe. Then cried out
-Uspak, and bade his men flee away, and himself fell to running; but as soon as Thorir arose,
-he cast his bill at Uspak and smote him on the thigh, and cut through it on the outer side of
-the bone. Uspak drew the bill from the wound and cast it back, and it smote the man in the
-midst who had erst cut at Uspak, and down he fell dead to the earth.'
+> 'Then ran up a fellow of Thorir's and smote at Uspak, but he thrust forth his axe, and the
+> blow took the shaft thereof and struck it asunder, and down fell the axe. Then cried out
+> Uspak, and bade his men flee away, and himself fell to running; but as soon as Thorir arose,
+> he cast his bill at Uspak and smote him on the thigh, and cut through it on the outer side of
+> the bone. Uspak drew the bill from the wound and cast it back, and it smote the man in the
+> midst who had erst cut at Uspak, and down he fell dead to the earth.'
 
 The benefits of reading a saga or two before running a Viking campaign are priceless.
 Not only do you gain a feel for the atmosphere and culture of their society but the
@@ -8977,50 +8907,50 @@ fact a Games Master could simply take the plot of something like Egil's Saga or 
 Saga and use as is, with no work necessary for Non-Player Characters, locations or
 (where applicable) magic and monsters. An entire campaign written out for you!
 
-Some recommended sagas are:
-*	 Arrow Odd's Saga – A tale full of every type of magic, enchanted items, Lapps,
-giants and battles – even a description of an enemy getting his face ripped off!
-This rip-roaring adventure also has a classic example of wyrd, when Orvar-Odd
-succumbs to his fate he cleverly tries to avoid.
-*	 Beowulf – Although this is an anglo-saxon story, it concerns the Scandinavian
-hero fighting Grendel and its mother in Denmark, followed by Beowulf 's climatic
-battle against the dragon back in Gotaland. An example of heroism and virtues
-important to Viking culture.
-*	 Egil's Saga – The violent struggle between a warrior-poet-rune carver and king
-Eirik Blood-Axe and his witch wife Gunnhild. Full of treachery and atmosphere.
-*	 Gautrek's Saga – A collection of humorous tales concerning the life of king Gautrek
-and the legendary story of Starkad, with lots of mythological insight and a good
-list of divine blessings and curses.
-*	 Gisli's Saga – A story which focuses on family relations and a feud that starts
-with the revelation of past lovers and rapidly descends into murder, outlawry and
-concludes with a heroic battle to the death.
-*	 Grettir's Saga – Grettir is a hero cursed with a violent temper and terrible luck, who
-spends his life outlawed trying to do the right thing and killing many monsters.
-The tragedy is full of evocative descriptions of his fights.
-*	 Havamal – A short poem that describes the important virtues of Viking culture
-and also describes the gaining of the runes by Odin. An insightful work of wisdom.
-*	 Heimskringla – The chronicles of the kings of Norway is a fascinating collection
-of stories concerning men who became rulers of Norway. Although lacking the
-traditional story elements, the accounts are still an enjoyable read and incorporate
-many descriptions of battles and high level politics. A must read for a pure
-historical game.
-*	 Hrafnkel's Saga – The story of a duellist and devoted worshipper of Freyr who loses
-his faith after suffering humiliation in the law courts and the burning of his shrine.
-He travels, learning moderation before returning home to extract a just revenge on
-his enemies and ending his life as a chieftain.
-*	 Hrolfr Kraki's Saga – The life and deeds of the legendary king, full of seidr, berserks,
-shape-shifters, treachery and battle. An exciting and magical tale.
-*	 Laxdaela Saga – A tale involving a five generations long blood feud between the
-families living in an Icelandic valley. Myth, romance and the twisting of fate
-interwoven with bitter disputes over land, marriage, divorce and inheritance.
-*	 Njal's Saga – Another epic tale concerning the inexorable destruction of families
-involved in blood feuds.
-*	 Volsunga Saga – The legendary story of the rise and fall of the Volsung clan, with
-lots of revenge, meddling gods, giants, dwarfs, magic swords and of course Sigurd
-and the dragon Fafnir.
+Some recommended sagas are:  
+* Arrow Odd's Saga – A tale full of every type of magic, enchanted items, Lapps,
+  giants and battles – even a description of an enemy getting his face ripped off!
+  This rip-roaring adventure also has a classic example of wyrd, when Orvar-Odd
+  succumbs to his fate he cleverly tries to avoid.
+* Beowulf – Although this is an anglo-saxon story, it concerns the Scandinavian
+  hero fighting Grendel and its mother in Denmark, followed by Beowulf 's climatic
+  battle against the dragon back in Gotaland. An example of heroism and virtues
+  important to Viking culture.
+* Egil's Saga – The violent struggle between a warrior-poet-rune carver and king
+  Eirik Blood-Axe and his witch wife Gunnhild. Full of treachery and atmosphere.
+* Gautrek's Saga – A collection of humorous tales concerning the life of king Gautrek
+  and the legendary story of Starkad, with lots of mythological insight and a good
+  list of divine blessings and curses.
+* Gisli's Saga – A story which focuses on family relations and a feud that starts
+  with the revelation of past lovers and rapidly descends into murder, outlawry and
+  concludes with a heroic battle to the death.
+* Grettir's Saga – Grettir is a hero cursed with a violent temper and terrible luck, who
+  spends his life outlawed trying to do the right thing and killing many monsters.
+  The tragedy is full of evocative descriptions of his fights.
+* Havamal – A short poem that describes the important virtues of Viking culture
+  and also describes the gaining of the runes by Odin. An insightful work of wisdom.
+* Heimskringla – The chronicles of the kings of Norway is a fascinating collection
+  of stories concerning men who became rulers of Norway. Although lacking the
+  traditional story elements, the accounts are still an enjoyable read and incorporate
+  many descriptions of battles and high level politics. A must read for a pure
+  historical game.
+* Hrafnkel's Saga – The story of a duellist and devoted worshipper of Freyr who loses
+  his faith after suffering humiliation in the law courts and the burning of his shrine.
+  He travels, learning moderation before returning home to extract a just revenge on
+  his enemies and ending his life as a chieftain.
+* Hrolfr Kraki's Saga – The life and deeds of the legendary king, full of seidr, berserks,
+  shape-shifters, treachery and battle. An exciting and magical tale.
+* Laxdaela Saga – A tale involving a five generations long blood feud between the
+  families living in an Icelandic valley. Myth, romance and the twisting of fate
+  interwoven with bitter disputes over land, marriage, divorce and inheritance.
+* Njal's Saga – Another epic tale concerning the inexorable destruction of families
+  involved in blood feuds.
+* Volsunga Saga – The legendary story of the rise and fall of the Volsung clan, with
+  lots of revenge, meddling gods, giants, dwarfs, magic swords and of course Sigurd
+  and the dragon Fafnir.
 
 
-Viking Plot Seeds
+## Viking Plot Seeds
 The following section provides a multitude of plot seeds for a Games Master to use
 whilst first crafting their campaign. These ideas can be combined together to form more
 complex scenarios or can simply be randomly selected for sandbox style campaigns.
@@ -9029,290 +8959,297 @@ To flesh out these scenario seeds a Game Master need only come up with a half do
 Non-Player Characters to use as key figures during the scenario.
 
 
-Hunting Scenarios
-*	 When out hunting in the deep forest several days away from the nearest steading,
-the party discovers a blood splattered hunter's camp. Following tracks leads them
-to a pile of human bones and the tracks of an unusually large man eating wolf. The
-wolf proceeds to stalk them in a series of hit and run attacks in the night but when
-the party finally corner it they discover that there are two of them.
-*	 The party end up in a coastal settlement and are invited to join a walrus hunt
-with one of the locals. After a successful hunt, at sea in a small kayak or skiff,
-an albino killer whale known as the 'White Death' turns up. With no chance of
-killing it they must escape by whatever means possible whilst it toys with them,
-slowly breaking their boat with each attack. Just before they reach shore, the whale
-capsizes the boat and they must all swim for it leaving their guide to be eaten. The
-whale will haunt their voyages for years afterwards.
-*	 Invited to a steading for the Yuletime celebrations, the party are invited to
-participate in a hunt. A bull elk has been caught and a gold arm ring tied to
-its impressive antlers. The elk is released into the wild and the Adventurers, on
-skis, must try to track and hunt it through a gradually worsening snowfall, facing
-dangers from the other hunters as well as the elk itself.
-*	 A deadly bear begins attacking nearby farmsteads killing entire families. The party
-must destroy it but the animal seems to possess near human cunning. After several
-brief encounters during times of darkness and a growing sense of supernatural
-menace, the bear is killed, only to be discovered that it was one of their enemies
-dressed in a full skin and using the claws to kill.
-*	 The party are sent on a traditional boar hunt. Unusually there a several male
-boars in the sounder, one for each Adventurer, making it an exceptionally
-dangerous encounter.
-*	 The party are asked to capture a live polar bear. After facing much danger on
-the voyage and travelling across the pack ice, they find a baby bear. The enraged
-mother soon follows.
+### Hunting Scenarios
+
+* When out hunting in the deep forest several days away from the nearest steading,
+  the party discovers a blood splattered hunter's camp. Following tracks leads them
+  to a pile of human bones and the tracks of an unusually large man eating wolf. The
+  wolf proceeds to stalk them in a series of hit and run attacks in the night but when
+  the party finally corner it they discover that there are two of them.
+* The party end up in a coastal settlement and are invited to join a walrus hunt
+  with one of the locals. After a successful hunt, at sea in a small kayak or skiff,
+  an albino killer whale known as the 'White Death' turns up. With no chance of
+  killing it they must escape by whatever means possible whilst it toys with them,
+  slowly breaking their boat with each attack. Just before they reach shore, the whale
+  capsizes the boat and they must all swim for it leaving their guide to be eaten. The
+  whale will haunt their voyages for years afterwards.
+* Invited to a steading for the Yuletime celebrations, the party are invited to
+  participate in a hunt. A bull elk has been caught and a gold arm ring tied to
+  its impressive antlers. The elk is released into the wild and the Adventurers, on
+  skis, must try to track and hunt it through a gradually worsening snowfall, facing
+  dangers from the other hunters as well as the elk itself.
+* A deadly bear begins attacking nearby farmsteads killing entire families. The party
+  must destroy it but the animal seems to possess near human cunning. After several
+  brief encounters during times of darkness and a growing sense of supernatural
+  menace, the bear is killed, only to be discovered that it was one of their enemies
+  dressed in a full skin and using the claws to kill.
+* The party are sent on a traditional boar hunt. Unusually there a several male
+  boars in the sounder, one for each Adventurer, making it an exceptionally
+  dangerous encounter.
+* The party are asked to capture a live polar bear. After facing much danger on
+  the voyage and travelling across the pack ice, they find a baby bear. The enraged
+  mother soon follows.
 
 
-Sailing Scenarios
-*	 Rumours have been told about an island far to the north where a remote colony of
-monks was set up, with the intention of building a secure church for some mystical
-treasure. The trip is eventful with an incidental encounter with a sea serpent but
-on locating the small island it appears abandoned. Whilst exploring the ruins their
-ship is burned, isolating them with a group of hungry cannibalistic savages, the
-remnants of the original monks.
-*	 Whilst sailing towards Iceland, the hull of the Adventurers' ship is found to be
-infested with worms and the vessel begins to slowly sink. Fortunately there is a
-small boat aboard that can carry off survivors. Unfortunately there are twice the
-number of crew members as there are spaces on the boat.
-*	 During an erstwhile normal voyage the party's ship is attacked by another vessel
-crewed with foreign Vikings, intent on piracy.
-*	 Aboard a trading ship full of cargo (hopefully their own) the party are struck by a
-summer squall, which soon grows into a full blown storm. The Adventurers have
-to struggle to survive against huge waves pounding of the ship's structure.
-*	 Whilst on a fishing trip off the coast of Norway, one Adventurer catches a kraken.
-Enraged, the monster tries to sink the fishing boat by summoning a maelstrom.
-*	 Sailing past an isolated craggy island, the Adventurers' ship strikes an unseen rock
-beneath the water and begins to sink. They must abandon the vessel and swim to
-the rocky outcrop with only whatever they can carry off the ship. The rock has
-a small cave where a hermit once lived, his bones still evident. The party must
-struggle to survive whilst someone with the Craft (Wood) skill builds a new boat
-from the timbers, providing the party can scavenge enough food and clean fresh
-water to survive.
+### Sailing Scenarios
+
+* Rumours have been told about an island far to the north where a remote colony of
+  monks was set up, with the intention of building a secure church for some mystical
+  treasure. The trip is eventful with an incidental encounter with a sea serpent but
+  on locating the small island it appears abandoned. Whilst exploring the ruins their
+  ship is burned, isolating them with a group of hungry cannibalistic savages, the
+  remnants of the original monks.
+* Whilst sailing towards Iceland, the hull of the Adventurers' ship is found to be
+  infested with worms and the vessel begins to slowly sink. Fortunately there is a
+  small boat aboard that can carry off survivors. Unfortunately there are twice the
+  number of crew members as there are spaces on the boat.
+* During an erstwhile normal voyage the party's ship is attacked by another vessel
+  crewed with foreign Vikings, intent on piracy.
+* Aboard a trading ship full of cargo (hopefully their own) the party are struck by a
+  summer squall, which soon grows into a full blown storm. The Adventurers have
+  to struggle to survive against huge waves pounding of the ship's structure.
+* Whilst on a fishing trip off the coast of Norway, one Adventurer catches a kraken.
+  Enraged, the monster tries to sink the fishing boat by summoning a maelstrom.
+* Sailing past an isolated craggy island, the Adventurers' ship strikes an unseen rock
+  beneath the water and begins to sink. They must abandon the vessel and swim to
+  the rocky outcrop with only whatever they can carry off the ship. The rock has
+  a small cave where a hermit once lived, his bones still evident. The party must
+  struggle to survive whilst someone with the Craft (Wood) skill builds a new boat
+  from the timbers, providing the party can scavenge enough food and clean fresh
+  water to survive.
 
 
-Religious Scenarios
-*	 The local Jarl turns up with an obsequious Christian bishop and his entourage in
-tow. He requests that you help clear land and protect the Christians whilst they
-build a stave church.
-*	 After several years of famine the local folk have decided to perform a human
-sacrifice to bring back the favour of the gods. However, the selection of the victim
-is determined by drawn lots and by some dire fate one of the Adventurers is
-chosen. If he decides to run he will be hunted. If he stays, the draw is discovered
-to be rigged by an enemy.
-*	 A frustrated Christian priest who has failed to convert anyone to the White God,
-becomes enraged and calls down a curse against the community. The following
-night the local shrine to Freyr and Thor burns down, provoking a range of opinions
-about the power of the new god or whether the perpetrator should be hunted
-down and killed. The priest however flees to the sanctuary of the local king.
-*	 After a thunderstorm a handsome young man of huge musculature and an inability
-to speak is found lying next to the shrine of Thor, or where it used to be. Over the
-next few days he performs feats of incredible strength, including wrestling a bear
-or shattering a boulder, before mysteriously disappearing in the next thunderstorm
-several weeks later.
-*	 A Christian priest arrives at the stead of a maimed Adventurer and offers to cure
-the wound. If his offer is accepted the priest asks that the Adventurer be baptised
-first else the power of god will not help him.
-*	 After an evening of serious drinking the inebriated Adventurers, the last ones
-awake, hear strange noises outside the hall. Investigating they see beautiful horses,
-saddled and bridled, waiting for them. Mounting the animals will cause them to
-take off through the sky and join Odin and the wild hunt. After killing a giant or
-two and having a rollicking good time with the All-Father, the Adventurers will
-awake back in the hall, with no explanation of why they all shared the same dream.
+### Religious Scenarios
+
+* The local Jarl turns up with an obsequious Christian bishop and his entourage in
+  tow. He requests that you help clear land and protect the Christians whilst they
+  build a stave church.
+* After several years of famine the local folk have decided to perform a human
+  sacrifice to bring back the favour of the gods. However, the selection of the victim
+  is determined by drawn lots and by some dire fate one of the Adventurers is
+  chosen. If he decides to run he will be hunted. If he stays, the draw is discovered
+  to be rigged by an enemy.
+* A frustrated Christian priest who has failed to convert anyone to the White God,
+  becomes enraged and calls down a curse against the community. The following
+  night the local shrine to Freyr and Thor burns down, provoking a range of opinions
+  about the power of the new god or whether the perpetrator should be hunted
+  down and killed. The priest however flees to the sanctuary of the local king.
+* After a thunderstorm a handsome young man of huge musculature and an inability
+  to speak is found lying next to the shrine of Thor, or where it used to be. Over the
+  next few days he performs feats of incredible strength, including wrestling a bear
+  or shattering a boulder, before mysteriously disappearing in the next thunderstorm
+  several weeks later.
+* A Christian priest arrives at the stead of a maimed Adventurer and offers to cure
+  the wound. If his offer is accepted the priest asks that the Adventurer be baptised
+  first else the power of god will not help him.
+* After an evening of serious drinking the inebriated Adventurers, the last ones
+  awake, hear strange noises outside the hall. Investigating they see beautiful horses,
+  saddled and bridled, waiting for them. Mounting the animals will cause them to
+  take off through the sky and join Odin and the wild hunt. After killing a giant or
+  two and having a rollicking good time with the All-Father, the Adventurers will
+  awake back in the hall, with no explanation of why they all shared the same dream.
 
 
-Battle Scenarios
-*	 The Adventurers meet a Danish Viking seeking warriors who will come to Dublin
-and protect it against the Irish. If they agree, they are taken to Ireland and fight in
-a huge battle. If they survive they are given a large quantity of silver looted from
-the fallen warriors and offered land if they wish to settle there.
-*	 The Adventurers are invited to join a raid on a Frankish city. However the
-expedition goes badly and they must fight their way back to the coast in a series of
-increasingly desperate skirmishes.
-*	 The family steads of one or more of the Adventurers are threatened by a raiding
-force of Norwegian Vikings. Joining the levy, the Adventurers fight back the main
-body of the raiders but discover soon after that a scouting force captured their
-wives and children and dragged them off to the ships, which set sail before the
-party arrives...
-*	 The Adventurers are mustered as part of a huge war fleet against another Viking
-nation. Both navies meet at sea, where the ships are bound together to form a huge
-fighting platform. As fate has it, the ship of the opposing king ends up attacking
-their vessel, granting them the opportunity to perform great deeds.
-*	 Hiring on to the Danelaw army based in Northumbria, the army marches to
-do battle with one of the British kings. The night before the battle however, the
-infamous Raven Banner, which grants victory to the wielding side goes missing
-and the Adventurers must find and recover the artefact before battle is joined the
-next morning.
-*	 Sailing on a raid to loot a particularly wealthy monastery, the Adventurers are
-sent to scout out the stone fortifications of the large, fortified complex of religious
-buildings. They discover that the monastery is garrisoned by heavily armed troops
-and that the whole raid has been a cleverly laid trap. Who betrayed them and how
-will the Vikings escape intact?
+### Battle Scenarios
+
+* The Adventurers meet a Danish Viking seeking warriors who will come to Dublin
+  and protect it against the Irish. If they agree, they are taken to Ireland and fight in
+  a huge battle. If they survive they are given a large quantity of silver looted from
+  the fallen warriors and offered land if they wish to settle there.
+* The Adventurers are invited to join a raid on a Frankish city. However the
+  expedition goes badly and they must fight their way back to the coast in a series of
+  increasingly desperate skirmishes.
+* The family steads of one or more of the Adventurers are threatened by a raiding
+  force of Norwegian Vikings. Joining the levy, the Adventurers fight back the main
+  body of the raiders but discover soon after that a scouting force captured their
+  wives and children and dragged them off to the ships, which set sail before the
+  party arrives...
+* The Adventurers are mustered as part of a huge war fleet against another Viking
+  nation. Both navies meet at sea, where the ships are bound together to form a huge
+  fighting platform. As fate has it, the ship of the opposing king ends up attacking
+  their vessel, granting them the opportunity to perform great deeds.
+* Hiring on to the Danelaw army based in Northumbria, the army marches to
+  do battle with one of the British kings. The night before the battle however, the
+  infamous Raven Banner, which grants victory to the wielding side goes missing
+  and the Adventurers must find and recover the artefact before battle is joined the
+  next morning.
+* Sailing on a raid to loot a particularly wealthy monastery, the Adventurers are
+  sent to scout out the stone fortifications of the large, fortified complex of religious
+  buildings. They discover that the monastery is garrisoned by heavily armed troops
+  and that the whole raid has been a cleverly laid trap. Who betrayed them and how
+  will the Vikings escape intact?
 
 
-Law Scenarios
-*	 Somebody steals an Adventurer's best clothes whilst he is performing his weekly
-bath. Since clothing is expensive, this is a serious loss. However, several weeks later
-at the thing the Adventurer spots his clothes being worn by a stranger. Depending
-on what happens next, it turns out that the stranger bartered for the clothes earlier
-that morning and might be inclined to help locate the seller.
-*	 On the way home after a late feast at a neighbouring stead, the Adventurers are
-ambushed by a gang of sword armed men who inflict a number of serious wounds
-before discovering they have attacked the wrong men. Apologising for the mistake
-they try to negotiate a settlement.
-*	 During a fight against a band of outlaws attempting to steal some livestock, a
-mysterious man jumps into the fray to even up the odds, fighting like a madman.
-His evident skill turns the tide and if offered a reward merely asks to take shelter
-for a few days whilst he heals up. If the Adventurers agree, the man proves to be
-honourable and very hard working. A few days later however, a group of hard
-eyed men arrive seeking the stranger. It is evident that they wish to kill him but
-if prevented will arrive at the next thing with an accusation that the Adventurers
-aided an outlawed man.
-*	 A marriage is set up between one of the Adventurers and a wealthy young woman
-of great beauty but dubious reputation. Despite any misgivings on the part of the
-Adventurer, his father thinks it is a good deal and seals the contract. However, just
-before the marriage the woman is found to be pregnant and the father withdraws
-the suit. The woman's family then bring a law suit for breach of contract.
-*	 New tenants move into the neighbouring steading and soon the Adventurers
-notice that some of their livestock is missing. Laying a trap or succeeding in back
-tracking reveals that the new tenants have been steeling them. Accusing them
-outright brings a series of increasingly harmful acts of sabotage. Charging them
-at the thing backfires when it becomes apparent that the dishonest karl is related
-to the local godi.
-*	 A package is delivered to an Adventurer by a man claiming to be an acquaintance
-of an old friend. The package contains the old friend's sword, a famous heirloom
-worth a jarl's ransom, which the friend wished to pass on before he died from
-illness. Soon however, the son of the deceased friend turns up demanding the blade
-as his rightful inheritance.
+### Law Scenarios
+
+* Somebody steals an Adventurer's best clothes whilst he is performing his weekly
+  bath. Since clothing is expensive, this is a serious loss. However, several weeks later
+  at the thing the Adventurer spots his clothes being worn by a stranger. Depending
+  on what happens next, it turns out that the stranger bartered for the clothes earlier
+  that morning and might be inclined to help locate the seller.
+* On the way home after a late feast at a neighbouring stead, the Adventurers are
+  ambushed by a gang of sword armed men who inflict a number of serious wounds
+  before discovering they have attacked the wrong men. Apologising for the mistake
+  they try to negotiate a settlement.
+* During a fight against a band of outlaws attempting to steal some livestock, a
+  mysterious man jumps into the fray to even up the odds, fighting like a madman.
+  His evident skill turns the tide and if offered a reward merely asks to take shelter
+  for a few days whilst he heals up. If the Adventurers agree, the man proves to be
+  honourable and very hard working. A few days later however, a group of hard
+  eyed men arrive seeking the stranger. It is evident that they wish to kill him but
+  if prevented will arrive at the next thing with an accusation that the Adventurers
+  aided an outlawed man.
+* A marriage is set up between one of the Adventurers and a wealthy young woman
+  of great beauty but dubious reputation. Despite any misgivings on the part of the
+  Adventurer, his father thinks it is a good deal and seals the contract. However, just
+  before the marriage the woman is found to be pregnant and the father withdraws
+  the suit. The woman's family then bring a law suit for breach of contract.
+* New tenants move into the neighbouring steading and soon the Adventurers
+  notice that some of their livestock is missing. Laying a trap or succeeding in back
+  tracking reveals that the new tenants have been steeling them. Accusing them
+  outright brings a series of increasingly harmful acts of sabotage. Charging them
+  at the thing backfires when it becomes apparent that the dishonest karl is related
+  to the local godi.
+* A package is delivered to an Adventurer by a man claiming to be an acquaintance
+  of an old friend. The package contains the old friend's sword, a famous heirloom
+  worth a jarl's ransom, which the friend wished to pass on before he died from
+  illness. Soon however, the son of the deceased friend turns up demanding the blade
+  as his rightful inheritance.
 
 
-Monster Scenarios
-*	 The father of the wealthiest Adventurer dies and is given a full ship burial, complete
-with grave goods. The ceremony goes well but several weeks later livestock begins
-to be found with their necks broken and throats torn out. Further investigation
-uncovers rumours that the dead father has been seen wondering about. Checking
-the barrow reveals that it has been plundered and his sword stolen. The Adventurers
-must either find the thief or deal with the draugr themselves.
-*	 A number of children from the local steadings go missing. Each has vanished
-on the night of a full moon, their tracks leading to a mound reputed to be and
-entrance to Alfheimr. The Adventurers must enter the mound on the following
-full moon and challenge the elf who has kidnapped them to singing, dancing and
-poetry tests to recover each child. To aid them a wise woman skilled in seidr should
-be consulted for knowledge or galdr to win the challenges
-*	 An Adventurer is jokingly challenged to prove his manhood by slaying the troll,
-which local legend says lives under the nearby waterfall. A difficult swim gains
-entry into a dark grotto filled with ancient treasure but disturbs a real troll who
-has slept there undisturbed for decades. The monster is enchanted against iron and
-huge to boot, thus its awakening promulgates a reign of terror over the region until
-the Adventurers think to search its hoard to find a weapon capable of harming it
-(which melts in the troll's blood afterwards).
-*	 One of the Adventurers forgets to propitiate a long forgotten spirit. The tomte or
-nisse begins to play increasingly deadly pranks on them. At first his drinking horn
-spills over him, then the door slams on his fingers, a poisonous snake is left in his
-bed and so on. This continues until the spirit receives a proper sacrifice or it gives
-up in disgust and eventually attacks the Adventurer as an insanely strong midget.
-*	 A jotun arrives at an Adventurer's stead and requests shelter. If invited in the giant
-begins making a pig of itself, eating all the food in the longhouse, followed by
-drinking all the beer and mead. If stopped the giant rebukes the host for his lack
-of hospitality and proceeds to smash all the posts holding up the roof trying to
-provoke a fight. If the Adventurer grits his teeth and fetes the giant to the best
-of his ability, when he awakes the following morning he will discover the giant
-has done him a good deed; ploughed his fields, removed all the stones from the
-ground, built a new longhouse or something similar.
-*	 One of the Adventurers finds an Orm in his well. The beast will consume one of
-his livestock every evening and unless stopped will eat the people next if it runs
-out of animals.
+### Monster Scenarios
+
+* The father of the wealthiest Adventurer dies and is given a full ship burial, complete
+  with grave goods. The ceremony goes well but several weeks later livestock begins
+  to be found with their necks broken and throats torn out. Further investigation
+  uncovers rumours that the dead father has been seen wondering about. Checking
+  the barrow reveals that it has been plundered and his sword stolen. The Adventurers
+  must either find the thief or deal with the draugr themselves.
+* A number of children from the local steadings go missing. Each has vanished
+  on the night of a full moon, their tracks leading to a mound reputed to be and
+  entrance to Alfheimr. The Adventurers must enter the mound on the following
+  full moon and challenge the elf who has kidnapped them to singing, dancing and
+  poetry tests to recover each child. To aid them a wise woman skilled in seidr should
+  be consulted for knowledge or galdr to win the challenges
+* An Adventurer is jokingly challenged to prove his manhood by slaying the troll,
+  which local legend says lives under the nearby waterfall. A difficult swim gains
+  entry into a dark grotto filled with ancient treasure but disturbs a real troll who
+  has slept there undisturbed for decades. The monster is enchanted against iron and
+  huge to boot, thus its awakening promulgates a reign of terror over the region until
+  the Adventurers think to search its hoard to find a weapon capable of harming it
+  (which melts in the troll's blood afterwards).
+* One of the Adventurers forgets to propitiate a long forgotten spirit. The tomte or
+  nisse begins to play increasingly deadly pranks on them. At first his drinking horn
+  spills over him, then the door slams on his fingers, a poisonous snake is left in his
+  bed and so on. This continues until the spirit receives a proper sacrifice or it gives
+  up in disgust and eventually attacks the Adventurer as an insanely strong midget.
+* A jotun arrives at an Adventurer's stead and requests shelter. If invited in the giant
+  begins making a pig of itself, eating all the food in the longhouse, followed by
+  drinking all the beer and mead. If stopped the giant rebukes the host for his lack
+  of hospitality and proceeds to smash all the posts holding up the roof trying to
+  provoke a fight. If the Adventurer grits his teeth and fetes the giant to the best
+  of his ability, when he awakes the following morning he will discover the giant
+  has done him a good deed; ploughed his fields, removed all the stones from the
+  ground, built a new longhouse or something similar.
+* One of the Adventurers finds an Orm in his well. The beast will consume one of
+  his livestock every evening and unless stopped will eat the people next if it runs
+  out of animals.
 
 
-Blood Feud Scenarios
-*	 One of the Adventurers accidentally kills another man in a wrestling match. The
-man's relatives are unhappy that no weregild will be forthcoming since sporting
-accidents are exempt from compensation. So at every opportunity the dead man's
-family insult the Adventurer with increasingly provocative slander, hoping to spur
-him into an assault.
-*	 The stupid brother of an Adventurer is unable to repay a debt and asks for financial
-support. The amount required is exactly the amount of wealth the Adventurer
-owns, so it is likely he will refuse. If he does not help, the brother loses his freedom
-and is sold as a slave to a wandering merchant, an Arab who sails away before the
-brother can be bought back. The seller has no compassion for his deed and gloats
-around the market about the unspeakable acts the Arab will use the brother for.
-*	 On his deathbed the father of an Adventurer tells his son that he is the last member
-of a family who were once jarls in another country but they had all been killed
-when a rival burnt them alive in their longhouse, women and children too. Only
-he had escaped. He urges his son to not be the coward he was and return to their
-original home to extract just revenge.
-*	 An Adventurer's uncle dies, leaving a large steading with no clear inheritor. Both
-the Adventurer and another cousin have a legitimate claim and the case goes to
-court. Unless the Adventurer does exceptionally well in some skill such as Oratory
-or Lore (Law) the cousin wins. Later on he boasts that he bribed the Godi to skew
-the case in his favour.
-*	 One of the leading men in the region fancies himself as a ladies' man and forces
-himself on an Adventurer's wife, sister or daughter. When the case goes to the law
-court however, the man brings a veritable army of supporters with him to win the
-vote. The only option remaining, save to cowardly give up, is to invoke the right
-to settle the case by combat in a holmganga.
-*	 An Adventurer with no remaining male relatives is approached one morning
-by several cold strangers. They ask his name and declare he is the last member
-of an extended family that their family has been feuding with for the last three
-generations. They also state that they intend to kill him and if they fail their
-remaining relatives will come to finish the job. After which they ride away to give
-the Adventurer time to prepare himself for being murdered. The Adventurer must
-find some way to prevent the fatalistic men from continuing the generations-old
-feud or kill all of them instead.
+### Blood Feud Scenarios
+
+* One of the Adventurers accidentally kills another man in a wrestling match. The
+  man's relatives are unhappy that no weregild will be forthcoming since sporting
+  accidents are exempt from compensation. So at every opportunity the dead man's
+  family insult the Adventurer with increasingly provocative slander, hoping to spur
+  him into an assault.
+* The stupid brother of an Adventurer is unable to repay a debt and asks for financial
+  support. The amount required is exactly the amount of wealth the Adventurer
+  owns, so it is likely he will refuse. If he does not help, the brother loses his freedom
+  and is sold as a slave to a wandering merchant, an Arab who sails away before the
+  brother can be bought back. The seller has no compassion for his deed and gloats
+  around the market about the unspeakable acts the Arab will use the brother for.
+* On his deathbed the father of an Adventurer tells his son that he is the last member
+  of a family who were once jarls in another country but they had all been killed
+  when a rival burnt them alive in their longhouse, women and children too. Only
+  he had escaped. He urges his son to not be the coward he was and return to their
+  original home to extract just revenge.
+* An Adventurer's uncle dies, leaving a large steading with no clear inheritor. Both
+  the Adventurer and another cousin have a legitimate claim and the case goes to
+  court. Unless the Adventurer does exceptionally well in some skill such as Oratory
+  or Lore (Law) the cousin wins. Later on he boasts that he bribed the Godi to skew
+  the case in his favour.
+* One of the leading men in the region fancies himself as a ladies' man and forces
+  himself on an Adventurer's wife, sister or daughter. When the case goes to the law
+  court however, the man brings a veritable army of supporters with him to win the
+  vote. The only option remaining, save to cowardly give up, is to invoke the right
+  to settle the case by combat in a holmganga.
+* An Adventurer with no remaining male relatives is approached one morning
+  by several cold strangers. They ask his name and declare he is the last member
+  of an extended family that their family has been feuding with for the last three
+  generations. They also state that they intend to kill him and if they fail their
+  remaining relatives will come to finish the job. After which they ride away to give
+  the Adventurer time to prepare himself for being murdered. The Adventurer must
+  find some way to prevent the fatalistic men from continuing the generations-old
+  feud or kill all of them instead.
 
 
-Political Scenarios
-*	 Fed up with their corrupt chieftain, local karls approach the Adventurer with the
-best reputation and ask him to stand for the position of godi at the next thing. The
-current godi gets wind of the plan and begins to pressure the Adventurer and his
-friends.
-*	 The Adventurers learn that the local ruler secretly murdered his rival in order
-to win the election to Jarl. Unfortunately up until now the Jarl has treated the
-Adventurers well and he is a level headed and wise leader. If they do not use the
-information to have him removed from office, the informant threatens to bring a
-charge against them at the next thing instead.
-*	 After the locals legitimately refuse a call to muster, for an army destined to fight
-overseas against a hitherto allied region, the king turns up enraged that his orders
-have been ignored and pillages the region in petty revenge. The act of tyranny kills
-several of the Adventurers' family members. Since the king has an army, he cannot
-be stopped directly but the Allthing is scheduled for the following month and he
-can be legally charged with murder if enough supporters can be gathered.
-*	 The king or jarl of a neighbouring region approaches the Adventurers to see if
-they would be interested in helping to overthrow their current ruler who is a petty,
-ignorant man.
-*	 The poorest Adventurer in the party is tracked down by a group of Danish warriors
-and told that he is the closest surviving relative of their last king and that he has
-been elected as the new ruler. The amazing stroke of luck turns out to be less clear
-cut since the Adventurer is intended to be a puppet for one of the current jarls
-seeking power for himself.
+### Political Scenarios
+
+* Fed up with their corrupt chieftain, local karls approach the Adventurer with the
+  best reputation and ask him to stand for the position of godi at the next thing. The
+  current godi gets wind of the plan and begins to pressure the Adventurer and his
+  friends.
+* The Adventurers learn that the local ruler secretly murdered his rival in order
+  to win the election to Jarl. Unfortunately up until now the Jarl has treated the
+  Adventurers well and he is a level headed and wise leader. If they do not use the
+  information to have him removed from office, the informant threatens to bring a
+  charge against them at the next thing instead.
+* After the locals legitimately refuse a call to muster, for an army destined to fight
+  overseas against a hitherto allied region, the king turns up enraged that his orders
+  have been ignored and pillages the region in petty revenge. The act of tyranny kills
+  several of the Adventurers' family members. Since the king has an army, he cannot
+  be stopped directly but the Allthing is scheduled for the following month and he
+  can be legally charged with murder if enough supporters can be gathered.
+* The king or jarl of a neighbouring region approaches the Adventurers to see if
+  they would be interested in helping to overthrow their current ruler who is a petty,
+  ignorant man.
+* The poorest Adventurer in the party is tracked down by a group of Danish warriors
+  and told that he is the closest surviving relative of their last king and that he has
+  been elected as the new ruler. The amazing stroke of luck turns out to be less clear
+  cut since the Adventurer is intended to be a puppet for one of the current jarls
+  seeking power for himself.
 
 
-Supernatural Scenarios
-*	 After slaying her son, the Adventurers are cursed by a rune carving witch who
-sets up niding poles (curse poles) in a hidden location. They must try to trick the
-woman into revealing the location of the poles, since killing her will not stop the
-magic, or flee overseas where the curse cannot follow.
-*	 At a feast hosted by the local Jarl, a volva with the power of prophesy makes
-an ominous foretelling that the Adventurers will cause the death of the lord.
-Obviously taken aback by the wyrd the jarl is stunned but his son leaps to his feet
-and orders the huskarls to kill the Adventurers, so precipitating a full blown feud.
-Wherever they go or no matter what they do the party will ultimately cause his
-death, even though the jarl wishes to have peace between them.
-*	 Whilst travelling away from home, the Adventurers are invited into the hall of a
-tall man and fed a huge feast. During the night however, one of the Adventurer's
-fylgja manifests in its animal form and discovers that the host is a man eating giant
-who has hundreds of skeletons in his storehouse. When the Adventurer awakes he
-remembers his dream with crystal clarity.
-*	 Travelling north to the land of the Lapps the Adventurers are offered magical
-fetishes of exquisite craftsmanship and some power in return for accompanying a
-shaman on his spirit quest to recover the soul of a young girl ensnared by a terrible
-raven spirit. During the quest the Adventurers must throw themselves in the path
-of the flocks of bird spirits that try to stop the shaman.
-*	 Asked to travel into the deep forests to slay some awful wolf creature, the
-Adventurers must face and defeat a shape-shifter who has become trapped in
-his animal form. If lacking the magic needed to harm the creature a rune carved
-weapon can be found in the cave the wolf once used as its lair.
-*	 Suffering an unusual string of bad luck, one of the Adventurers is told by a
-mysterious old woman that his family Dis has been captured by an evil seidkona.
-They must travel to her lair and break the binding that holds the spirit, which
-will then protect the Adventurers from the evil eye and foul magic whilst they
-slay the witch.
+### Supernatural Scenarios
 
-
+* After slaying her son, the Adventurers are cursed by a rune carving witch who
+  sets up niding poles (curse poles) in a hidden location. They must try to trick the
+  woman into revealing the location of the poles, since killing her will not stop the
+  magic, or flee overseas where the curse cannot follow.
+* At a feast hosted by the local Jarl, a volva with the power of prophesy makes
+  an ominous foretelling that the Adventurers will cause the death of the lord.
+  Obviously taken aback by the wyrd the jarl is stunned but his son leaps to his feet
+  and orders the huskarls to kill the Adventurers, so precipitating a full blown feud.
+  Wherever they go or no matter what they do the party will ultimately cause his
+  death, even though the jarl wishes to have peace between them.
+* Whilst travelling away from home, the Adventurers are invited into the hall of a
+  tall man and fed a huge feast. During the night however, one of the Adventurer's
+  fylgja manifests in its animal form and discovers that the host is a man eating giant
+  who has hundreds of skeletons in his storehouse. When the Adventurer awakes he
+  remembers his dream with crystal clarity.
+* Travelling north to the land of the Lapps the Adventurers are offered magical
+  fetishes of exquisite craftsmanship and some power in return for accompanying a
+  shaman on his spirit quest to recover the soul of a young girl ensnared by a terrible
+  raven spirit. During the quest the Adventurers must throw themselves in the path
+  of the flocks of bird spirits that try to stop the shaman.
+* Asked to travel into the deep forests to slay some awful wolf creature, the
+  Adventurers must face and defeat a shape-shifter who has become trapped in
+  his animal form. If lacking the magic needed to harm the creature a rune carved
+  weapon can be found in the cave the wolf once used as its lair.
+* Suffering an unusual string of bad luck, one of the Adventurers is told by a
+  mysterious old woman that his family Dis has been captured by an evil seidkona.
+  They must travel to her lair and break the binding that holds the spirit, which
+  will then protect the Adventurers from the evil eye and foul magic whilst they
+  slay the witch.
 
