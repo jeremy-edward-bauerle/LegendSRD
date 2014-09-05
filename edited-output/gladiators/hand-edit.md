@@ -3326,53 +3326,56 @@ All the gladiators listed here may be armed and armoured as the Games Master wis
 Just remember to change the Combat Style to match the new weapon.
 
 
-Alaric 'Bloodsong' (human)
-     Dice              Average            1D20      Hit Location     AP/HP
-STR       3D6               12                 1-3       Right Leg        ----/5
-CON       3D6               7                  4-6       Left Leg         ----/5
-SIZ       2D6+6             14                 7-9       Abdomen            2/6
-INT       2D6+6             16                 10-12     Chest              2/7
-POW       3D6               14                 13-15     Right Arm        ----/4
-DEX       3D6               13                 16-18     Left Arm         ----/4
-CHA       3D6               10                 19-20     Head             ----/5
+### Alaric 'Bloodsong' (human)
 
+|         | Dice            | Average          | 1D20    | Hit Location   | AP/HP |
+|---------|-----------------|------------------|---------|----------------|-------|
+| STR     | 3D6             | 12               | 1-3     | Right Leg      | -/5   |
+| CON     | 3D6             | 7                | 4-6     | Left Leg       | -/5   |
+| SIZ     | 2D6+6           | 14               | 7-9     | Abdomen        | 2/6   |
+| INT     | 2D6+6           | 16               | 10-12   | Chest          | 2/7   |
+| POW     | 3D6             | 14               | 13-15   | Right Arm      | -/4   |
+| DEX     | 3D6             | 13               | 16-18   | Left Arm       | -/4   |
+| CHA     | 3D6             | 10               | 19-20   | Head           | -/5   |
+
+```
 Combat Actions 3                               Armour: Leather Jerkin, -1 Strike Rank
-                                          penalty
-Damage Modifier
-+1D2
-Magic Points 14                                Traits: None
-Movement 8m
-Strike Rank +15 (+14                           Skills: Athletics 50%, Brawn 31%,
-if armoured)                                   Culture (Own) 62%, Dance 23%, Drive
-                                          27%, Evade 46%, Evaluate 26%, First
-                                          Aid 49%, Influence 20%, Insight 55%,
-                                          Lore (Regional) 62%, Perception 55%,
-                                          Persistence 43%, Resilience 39%, Ride
-                                          32%, Sing 24%, Sleight 23%, Stealth
-                                          34%, Swim 19%, Unarmed 25%
-                                          Advanced: Common Magic 34%,
-                                          Language (own) 76%, Lore (The
-                                          Thunderer) 52%, Lore (Tactics) 32%,
-                                          Survival 31%, Pact (The Thunderer) 14%
+Damage Modifier +1D2                           penalty
+Magic Points 14
+Movement 8m                                    Traits: None
+Strike Rank +15 (+14 if armoured)
+```
 
-Weapons
-Type 		            Range	    Size	    Reach	     Damage			                  AP/HP
-Shortsword	        --	       M	       S	         1D6 Bleed, Impale	          6/8	
-Dagger		           --	       S	       S	         1D4+1 Bleed, Impale	        6/8
-Heater (Shield)	   --	       L	       S	         1D4 			                     6/12
-Sling		            200m	     L	       --	        1D8 Stun Location	          1/2	
+**Skills**: Athletics 50%, Brawn 31%, Culture (Own) 62%, Dance 23%, Drive 27%, 
+Evade 46%, Evaluate 26%, First Aid 49%, Influence 20%, Insight 55%,
+Lore (Regional) 62%, Perception 55%, Persistence 43%, Resilience 39%, Ride 32%, 
+Sing 24%, Sleight 23%, Stealth 34%, Swim 19%, Unarmed 25%
 
-Combat Styles
+**Advanced**: Common Magic 34%, Language (own) 76%, Lore (The Thunderer) 52%, 
+Lore (Tactics) 32%, Survival 31%, Pact (The Thunderer) 14%
+
+##### Weapons
+
+| Type                  | Range    | Size  | Reach   | Damage                 | AP/HP |
+|-----------------------|----------|-------|---------|------------------------|-------|
+| Shortsword            | --       | M     | S       | 1D6 Bleed, Impale      | 6/8   |
+| Dagger                | --       | S     | S       | 1D4+1 Bleed, Impale    | 6/8   |
+| Heater (Shield)       | --       | L     | S       | 1D4                    | 6/12  |
+| Sling                 | 200m     | L     | --      | 1D8 Stun Location      | 1/2   |
+
+
+#### Combat Styles
 Sword & Shield 80%, Dagger 45%, Sling 61%
 
-Special Rules
-Common Magic: Bladesharp 2, Thunder's Voice 1, Heal 2, Vigour 1
-Divine Magic (Magnitude 2): Crash of Thunder, Lightning Strike, Bless (Sword &
+#### Special Rules
+**Common Magic**: Bladesharp 2, Thunder's Voice 1, Heal 2, Vigour 1  
+**Divine Magic (Magnitude 2)**: Crash of Thunder, Lightning Strike, Bless (Sword &
 Shield)
 
 
-Shanti 'The Reaver' Nightingale (elf)
-            Dice        Average        1D20       Hit Location           AP/HP
+### Shanti 'The Reaver' Nightingale (elf)
+
+               Dice        Average        1D20       Hit Location           AP/HP
 STR            2D6+3       10             1-3        Right Leg               2/5
 CON            3D6         11             4-6        Left Leg                2/5
 SIZ            2D6+6       13             7-9        Abdomen                 2/6
@@ -3381,174 +3384,182 @@ POW            2D6+6       13             13-15      Right Arm               2/4
 DEX            3D6+6       17             16-18      Left Arm                2/4
 CHA            3D6         11             19-20      Head                    3/5
 
-
-
-
+```
 Combat Actions 3                          Armour: Leather, -3 Strike Rank penalty
 Damage Modifier +0
 Magic Points 13                           Traits: Life Sense, Night Sight
 Movement 10m
-Strike Rank +17 (+14                      Skills: Acrobatics: 56%, Athletics 46%,
-if armoured)                              Evade 56%, First Aid 40%, Insight 45%,
-                                       Lore (Regional) 80%, Perception 50%,
-                                       Persistence 49%, Resilience 43%, Stealth
-                                       56%, Survival 55%, Track 30%
-                                       Advanced: Common Magic 54%: Clear
-                                       Path 2, Co-Ordination 2, Multi-Missile 2,
-                                       Pact (Grower) 60% - 3 Points of Dedicated
-                                       POW, Lore (Grower) 60%: Alter Target,
-                                       Behold, Evergreen
+Strike Rank +17 (+14 if armoured)
+``` 
 
-Weapons
-Type 		           Range	    Size	    Reach	   Damage			                     AP/HP
-Longbow	          175m	     H	       ---	     1D8 Impale		                   4/7	
-Longspear	        ---	      L	       VL	      1D10+1 Impale		                4/10
+**Skills**: Acrobatics: 56%, Athletics 46%, Evade 56%, First Aid 40%, Insight 45%,
+Lore (Regional) 80%, Perception 50%, Persistence 49%, Resilience 43%, Stealth 56%, 
+Survival 55%, Track 30%
 
-Combat Styles
+**Advanced**: Common Magic 54%: Clear Path 2, Co-Ordination 2, Multi-Missile 2,
+Pact (Grower) 60% - 3 Points of Dedicated POW, **Lore (Grower) 60%**: Alter Target, 
+Behold, Evergreen
+
+##### Weapons
+
+| Type        | Range  | Size  | Reach  | Damage             | AP/HP |
+|-------------|--------|-------|--------|--------------------|-------|
+| Longbow     | 175m   | H     | --     | 1D8 Impale         | 4/7   |
+| Longspear   | --     | L     | VL     | 1D10+1 Impale      | 4/10  |
+
+#### Combat Styles
 Longbow 80%, Spear 60%
 
 
-Grime 'Traitor' Blacktooth (goblin)
-         Dice         Average            1D20      Hit Location    AP/HP
-STR           2D6+3        10                 1-3       Right Leg        1/4
-CON           2D6+3        10                 4-6       Left Leg         1/4
-SIZ           2D6          7                  7-9       Abdomen          1/5
-INT           3D6          11                 10-12     Chest            1/6
-POW           2D6+3        10                 13-15     Right Arm        1/3
-DEX           2D6+3        10                 16-18     Left Arm         1/3
-CHA           2D6          7                  19-20     Head             1/4
+### Grime 'Traitor' Blacktooth (goblin)
 
+|             | Dice       | Average          | 1D20    | Hit Location  | AP/HP |
+|-------------|------------|------------------|---------|---------------|-------|
+| STR         | 2D6+3      | 10               | 1-3     | Right Leg     |  1/4  |
+| CON         | 2D6+3      | 10               | 4-6     | Left Leg      |  1/4  |
+| SIZ         | 2D6        | 7                | 7-9     | Abdomen       |  1/5  |
+| INT         | 3D6        | 11               | 10-12   | Chest         |  1/6  |
+| POW         | 2D6+3      | 10               | 13-15   | Right Arm     |  1/3  |
+| DEX         | 2D6+3      | 10               | 16-18   | Left Arm      |  1/3  |
+| CHA         | 2D6        | 7                | 19-20   | Head          |  1/4  |
 
-
-
-Combat Actions 2                              Armour: Tough Hide, No Armour
-                                         Penalty.
+```
+Combat Actions 2                              Armour: Tough Hide, No Armour Penalty.
 Damage Modifier -1D2
 Magic Points 10                               Traits: Night Sight
 Movement 6m
-Strike Rank +11                               Skills: Athletics 75%, Brawn 45%,
-                                         Lore (Regional) 50%, Perception 70%,
-                                         Persistence 40%, Resilience 40%,
-                                         Sleight 70%, Stealth 75%, Survival
-                                         30%
-                                         Common Magic: 50%: Bandit's Cloak
-                                         2, Bladesharp 2, Pierce 2
+Strike Rank +11
+```
 
-Weapons
-Type 		           Range	   Size	     Reach	    Damage			                AP/HP
-Shortspear	       --	      M	        L	        1D8+1 Impale		            4/5
-Buckler		         --	      M	        S	        1D3 			                   4/10
-Sling		           200m	    L	        --	       1D8 Stun Location	        1/2
+**Skills**: Athletics 75%, Brawn 45%, Lore (Regional) 50%, Perception 70%,
+Persistence 40%, Resilience 40%, Sleight 70%, Stealth 75%, Survival 30%
 
-Combat Styles
+**Common Magic**: 50%: Bandit's Cloak 2, Bladesharp 2, Pierce 2
+
+##### Weapons
+
+| Type        | Range  | Size  | Reach  | Damage              | AP/HP |
+|-------------|--------|-------|--------|---------------------|-------|
+| Shortspear  | --     | M     | L      | 1D8+1 Impale        | 4/5   |
+| Buckler     | --     | M     | S      | 1D3                 | 4/10  |
+| Sling       | 200m   | L     | --     | 1D8 Stun Location   | 1/2   |
+
+#### Combat Styles
 Spear & Shield 45%, Sling 50%
 
 
-Agaman 'The Axe' Stonebreaker (dwarf)
-            Dice        Average        1D20       Hit Location      AP/HP
-STR            4D6         14             1-3        Right Leg          5/6
-CON            2D6+12      19             4-6        Left Leg           5/6
-SIZ            1D6+6       10             7-9        Abdomen            5/7
-INT            2D6+6       13             10-12      Chest              5/8
-POW            3D6         11             13-15      Right Arm          5/5
-DEX            2D6         7              16-18      Left Arm           5/5
-CHA            3D6         11             19-20      Head               5/6
+### Agaman 'The Axe' Stonebreaker (dwarf)
 
+|              | Dice      | Average      | 1D20     | Hit Location    | AP/HP |
+|--------------|-----------|--------------|----------|-----------------|-------|
+| STR          | 4D6       | 14           | 1-3      | Right Leg       |  5/6  |
+| CON          | 2D6+12    | 19           | 4-6      | Left Leg        |  5/6  |
+| SIZ          | 1D6+6     | 10           | 7-9      | Abdomen         |  5/7  |
+| INT          | 2D6+6     | 13           | 10-12    | Chest           |  5/8  |
+| POW          | 3D6       | 11           | 13-15    | Right Arm       |  5/5  |
+| DEX          | 2D6       | 7            | 16-18    | Left Arm        |  5/5  |
+| CHA          | 3D6       | 11           | 19-20    | Head            |  5/6  |
 
-
-
-Combat Actions 2                          Armour: Chainmail, -7 Strike Rank
-                                       penalty
+```
+Combat Actions 2                          Armour: Chainmail, -7 Strike Rank penalty
 Damage Modifier +0
 Magic Points 11                           Traits: Earth Sense, Dark Sight
 Movement 6m
-Strike Rank +10 (+3 if                    Skills: Athletics 50%, Brawn 53%,
-armoured)                                 Craft (stone or metal working) 70%,
-                                       Engineering 35%, Evaluate 60%, Lore
-                                       (Mineral) 80%, Mechanisms 40%,
-                                       Persistence 43%, Resilience 67%
-                                       Magic: Sorcery (Dwarf Grimoire) 56%,
-                                       Manipulation 45%: Animate (Rock or
-                                       Metal), Damage Resistance, Form/Set
-                                       (Rock or Metal), Holdfast
+Strike Rank +10 (+3 if armoured)
+```
 
-Weapons
-Type 		           Range	    Size	    Reach	   Damage			                 AP/HP
-Mace		            --	       M	       S	       1D8 Stun Location	         6/6
-Target Shield	    --	       L	       S	       1D6 Impale		               4/12
-Battleaxe - 2H	   --	       M	       M	       1D8+1 Bleed, Sunder	       4/8
-Light Crossbow	   100m	     L	       --	      1D8 Impale		               4/5
+**Skills**: Athletics 50%, Brawn 53%, Craft (stone or metal working) 70%,
+Engineering 35%, Evaluate 60%, Lore (Mineral) 80%, Mechanisms 40%,
+Persistence 43%, Resilience 67%
+                                       
+**Magic**: Sorcery (Dwarf Grimoire) 56%, Manipulation 45%: Animate (Rock or Metal), 
+Damage Resistance, Form/Set (Rock or Metal), Holdfast
 
-Combat Styles
+##### Weapons
+
+| Type            | Range  | Size  | Reach  | Damage               | AP/HP |
+|-----------------|--------|-------|--------|----------------------|-------|
+| Mace            | --     | M     | S      | 1D8 Stun Location    | 6/6   |
+| Target Shield   | --     | L     | S      | 1D6 Impale           | 4/12  |
+| Battleaxe - 2H  | --     | M     | M      | 1D8+1 Bleed, Sunder  | 4/8   |
+| Light Crossbow  | 100m   | L     | --     | 1D8 Impale           | 4/5   |
+
+#### Combat Styles
 Mace & Shield 75%, Battleaxe (two handed) 65%, Crossbow 45%
 
 
-Jane 'Scaleblade' McGarin (Halfling)
-         Dice         Average            1D20      Hit Location       AP/HP
-STR           2D6          7                  1-3       Right Leg           2/5
-CON           2D6+9        16                 4-6       Left Leg            2/5
-SIZ           1D6+3        7                  7-9       Abdomen             2/6
-INT           2D6+6        13                 10-12     Chest               2/7
-POW           3D6          11                 13-15     Right Arm           2/4
-DEX           2D6+9        16                 16-18     Left Arm            2/4
-CHA           3D6          11                 19-20     Head                3/5
+### Jane 'Scaleblade' McGarin (Halfling)
 
+|             | Dice       | Average          | 1D20    | Hit Location     | AP/HP |
+|-------------|------------|------------------|---------|------------------|-------|
+| STR         | 2D6        | 7                | 1-3     | Right Leg        |  2/5  |
+| CON         | 2D6+9      | 16               | 4-6     | Left Leg         |  2/5  |
+| SIZ         | 1D6+3      | 7                | 7-9     | Abdomen          |  2/6  |
+| INT         | 2D6+6      | 13               | 10-12   | Chest            |  2/7  |
+| POW         | 3D6        | 11               | 13-15   | Right Arm        |  2/4  |
+| DEX         | 2D6+9      | 16               | 16-18   | Left Arm         |  2/4  |
+| CHA         | 3D6        | 11               | 19-20   | Head             |  3/5  |
 
-
-
+```
 Combat Actions 3                              Armour: Leather, -3 Strike Rank Penalty.
 Damage Modifier -1D4
 Magic Points 11                               Traits: None
 Movement 6m
-Strike Rank +15 (+12 if                       Skills: Athletics 30%, Evade 35%, First
-armoured)                                     Aid 25%, Influence 25%, Perception
-                                         30%, Persistence 43%, Resilience 58%,
-                                         Sleight 50%, Stealth 40%
-                                         Common Magic 30%: Abacus, Becalm,
-                                         Detect Food, Entertainer's Smile 2
+Strike Rank +15 (+12 if armoured)
+```
 
-Weapons
-Type 		           Range	   Size	     Reach	     Damage			                  AP/HP
-Dagger		          --	      S	        S	         1D4+1 Bleed, Impale	        6/8
-Shortsword	       --	      M	        S	         1D6 Bleed, Impale	          6/8	
-Sling		           200m	    L	        --	        1D8 Stun Location	          1/2
+**Skills**: Athletics 30%, Evade 35%, First Aid 25%, Influence 25%, Perception 30%, 
+Persistence 43%, Resilience 58%, Sleight 50%, Stealth 40%
+                                         
+**Common Magic 30%**: Abacus, Becalm, Detect Food, Entertainer's Smile 2
 
-Combat Styles
+##### Weapons
+
+| Type        | Range  | Size  | Reach  | Damage                | AP/HP |
+|-------------|--------|-------|--------|-----------------------|-------|
+| Dagger      | --     | S     | S      | 1D4+1 Bleed, Impale   | 6/8   |
+| Shortsword  | --     | M     | S      | 1D6 Bleed, Impale     | 6/8   |
+| Sling       | 200m   |L      | --     | 1D8 Stun Location     | 1/2   |
+
+#### Combat Styles
 Shortsword 70%, Dagger 45%, Sling 60%
 
 
-Thrakush 'Stormbringer' Guldar (orc)
-            Dice       Average            1D20      Hit Location      AP/HP
-STR              4D6        14                 1-3       Right Leg          -/5
-CON              3D6        11                 4-6       Left Leg           -/5
-SIZ              2D6+3      10                 7-9       Abdomen            -/6
-INT              3D6        11                 10-12     Chest              -/7
-POW              2D6+3      10                 13-15     Right Arm          -/4
-DEX              4D6        14                 16-18     Left Arm           -/4
-CHA              2D6        7                  19-20     Head               -/5
+### Thrakush 'Stormbringer' Guldar (orc)
 
+|                | Dice     | Average          | 1D20    | Hit Location    | AP/HP |
+|----------------|----------|------------------|---------|-----------------|-------|
+| STR            | 4D6      | 14               | 1-3     | Right Leg       |  -/5  |
+| CON            | 3D6      | 11               | 4-6     | Left Leg        |  -/5  |
+| SIZ            | 2D6+3    | 10               | 7-9     | Abdomen         |  -/6  |
+| INT            | 3D6      | 11               | 10-12   | Chest           |  -/7  |
+| POW            | 2D6+3    | 10               | 13-15   | Right Arm       |  -/4  |
+| DEX            | 4D6      | 14               | 16-18   | Left Arm        |  -/4  |
+| CHA            | 2D6      | 7                | 19-20   | Head            |  -/5  |
 
-
-
+```
 Combat Actions 3                               Armour: None, No Armour Penalty.
 Damage Modifier +0
 Magic Points 10                                Traits: Night Sight
 Movement 8m
-Strike Rank +13                                Skills: Athletics 30%, Brawn 35%, Evade
-                                          40%, Perception 35%, Persistence 43%,
-                                          Resilience 55%, Stealth 35%, Unarmed
-                                          40%
-                                          Common Magic 20%: Bladesharp 2,
-                                          Pierce 2
+Strike Rank +13
+```
 
-Weapons
-Type 		            Range	    Size	    Reach	     Damage			                  AP/HP
-Short Spear	       --	       M	       L	         1D8+1 Impale		              4/5
-Scimitar		         --	       M	       M	         Bleed			                    6/10
-Target Shield	     --	       L	       S	         1D6 Impale		                4/12
-Short Bow	         80m	      L	       --	        1D6 Impale		                4/4
+**Skills**: Athletics 30%, Brawn 35%, Evade 40%, Perception 35%, Persistence 43%,
+Resilience 55%, Stealth 35%, Unarmed 40%
 
-Combat Styles
+**Common Magic 20%**: Bladesharp 2, Pierce 2
+
+##### Weapons
+
+| Type           | Range | Size | Reach | Damage              | AP/HP |
+|----------------|-------|------|-------|---------------------|-------|
+| Short Spear    | --    | M    | L     | 1D8+1 Impale        | 4/5   |
+| Scimitar       | --    | M    | M     | Bleed               | 6/10  |
+| Target Shield  | --    | L    | S     | 1D6 Impale          | 4/12  |
+| Short Bow      | 80m   | L    | --    | 1D6 Impale          | 4/4   |
+
+### Combat Styles
 Spear & Shield 45%, Sword & Shield 45%, Bow 40%, Unarmed 40%
 
 
