@@ -20,7 +20,7 @@ from the standpoint of a certain degree of roleplaying familiarity and experienc
 
 ## New to Legend?
 The Legend rules are part of a family of popular percentile-based systems that are renowned
-for their ease of use and adaptability. Legend’s concepts and rules are easy to understand and
+for their ease of use and adaptability. Legend's concepts and rules are easy to understand and
 implement with a series of unified mechanics underpinning the separate elements of character
 creation, combat and magic. Most character actions are based around a percentile skill or
 ability with a roll equal to, or below, the value indicating success. Of course different rules and
@@ -28,7 +28,7 @@ circumstances add a certain degree of sophistication and complexity but at its h
 very simple, logical system that can be grasped from a glance at the character sheet and a scan
 through these rules.
 
-The game’s design also incorporates new thinking that complements many tried and tested
+The game's design also incorporates new thinking that complements many tried and tested
 mechanics. This approach offers players a vast degree of control over what their characters do and
 how they do it. Many of the choices and possibilities are subtle: players and Games Masters will find
 that, with a little thought and creativity, all manner of wonderful opportunities and complexities
@@ -96,7 +96,7 @@ more detail later in this chapter but the attributes are: Combat Actions, Damage
 Improvement Roll Modifiers, Hit Points, Magic Points, Strike Rank and Movement.
 
 **Skills** - Skills are the engine room of a Legend Adventurer. Skills are particular talents, abilities,
-capabilities and professional skills that are shaped by an Adventurer’s culture, the profession he
+capabilities and professional skills that are shaped by an Adventurer's culture, the profession he
 has chosen for himself and the way he has chosen to develop his interests and competencies.
 Skills are divided into Common and Advanced; Common skills are common to all Adventurers.
 Advanced skills differ from one Adventurer to another, reflecting culture, profession and
@@ -105,7 +105,7 @@ from a combination, or multiple, of the seven Characteristics.
 
 **Community** - No man is an island. Even before your Adventurer has set forth on his career
 as a potential hero, he has been supported by family, friends and allies. He may also have
-made valuable contacts, gained a few rivals and perhaps even some enemies. An Adventurer’s
+made valuable contacts, gained a few rivals and perhaps even some enemies. An Adventurer's
 Community is a summary of those people he knows and may be able to call upon in the future
 - or who may call upon him.
 
@@ -116,7 +116,7 @@ Adventurer in the here and now. These elements are introduced at the appropriate
 Adventurer Creation process and later in this book.
 
 There is a sample Legend Adventurer sheet on page 36. It has sections for all the information
-described here, and more, and is used during play as a record of your Adventurer’s current
+described here, and more, and is used during play as a record of your Adventurer's current
 status. Various statistics - skills, for example, and Hit Points - will change frequently during
 the game, so complete the Adventurer sheet in pencil and keep an eraser handy to make
 changes as they occur.
@@ -144,7 +144,7 @@ although the upper limit for a starting Adventurer is likely to be 18.
 The Characteristics, and their abbreviations, are as follows:
 
 #### Strength (STR)
-Strength is a measure of an Adventurer’s raw muscle power. It acts as an indicator of how much
+Strength is a measure of an Adventurer's raw muscle power. It acts as an indicator of how much
 someone can lift, push or pull, or how tightly he grasps something. Strength determines if
 an Adventurer can wield the heaviest hand weapons at full ability. It is also a component in
 calculating the Damage Modifier, which may increase the effect of physical attacks. Human STR
@@ -160,13 +160,13 @@ long it takes before an Adventurer starts to feel the effects of fatigue and wea
 cannot naturally exceed 21. If CON is reduced to zero the Adventurer dies.
 
 #### Size (SIZ)
-Size represents the average of an Adventurer’s mass. SIZ determines if an Adventurer can see over
-something, or fit through a small opening. SIZ also helps calculate the Adventurer’s Hit Points
+Size represents the average of an Adventurer's mass. SIZ determines if an Adventurer can see over
+something, or fit through a small opening. SIZ also helps calculate the Adventurer's Hit Points
 and damage bonus. Human SIZ cannot naturally be higher than 21. If SIZ is reduced to zero it
 results in death.
 
 #### Intelligence (INT)
-INT represents an Adventurer’s capacity for learning, rationalising and analysis. It is less a
+INT represents an Adventurer's capacity for learning, rationalising and analysis. It is less a
 measure of cleverness and more how the Adventurer applies what he knows either practically or
 analytically. INT affects many other game statistics and is important if the Adventurer is to be a
 competent magician. Human INT cannot naturally exceed 21. If, somehow, INT reaches zero,
@@ -176,12 +176,12 @@ INT is also used as a bonus when rolling to improve skills. See the Skills chapt
 information.
 
 #### Power (POW)
-A somewhat abstract Characteristic, POW represents the force of both an Adventurer’s soul and
+A somewhat abstract Characteristic, POW represents the force of both an Adventurer's soul and
 his innate magical and spiritual presence. The more Power an Adventurer has, the greater their
 force of will, confidence and capacity for magic. Human POW cannot naturally exceed 21.
 POW can also be pledged to show devotion to the gods and in exchange for certain divine gifts
 or benefits. If POW is reduced to zero, the Adventurer usually dies - either completely sapped of
-his soul or his spirit has been taken into the gods’ care. However, depending on circumstances,
+his soul or his spirit has been taken into the gods' care. However, depending on circumstances,
 Adventurer can exist with zero POW - but may have ceased to be human altogether.
 
 #### Dexterity (DEX)
@@ -199,7 +199,7 @@ make friends easily, find themselves the focus of attention when it is needed (a
 when not) and persuade others to do things. Adventurers with a low CHA tend not to be noticed
 so readily or have a hard time making themselves heard. Charisma is not a measure of how
 beautiful or handsome an Adventurer is; it is, instead, an indicator of confidence and the ability
-to express one’s self. Human CHA has no upper limit although it is rare for it to exceed 21. If
+to express one's self. Human CHA has no upper limit although it is rare for it to exceed 21. If
 reduced to zero in any way, then the Adventurer has become completely uncommunicative and
 emotionless - a shell of a person.
 
@@ -208,7 +208,7 @@ for skill and Characteristic improvements come around.
 
 
 ### Determining Characteristics
-An Adventurer’s Characteristics can be determined in one of several ways. The Games Master
+An Adventurer's Characteristics can be determined in one of several ways. The Games Master
 will decide which method is to be used.
 
 #### Random Roll, In Order
@@ -250,7 +250,7 @@ points for STR 18 and then a further 4 points to raise STR 18 to STR 20.
 
 
 ## Attributes
-Attributes are a series of game statistics that are derived from the Adventurer’s Characteristic
+Attributes are a series of game statistics that are derived from the Adventurer's Characteristic
 scores. Attributes represent capabilities that the Adventurer draws upon during the game to help
 resolve certain actions and outcomes. The attributes are as follows:
 
@@ -260,12 +260,12 @@ resolve certain actions and outcomes. The attributes are as follows:
 > and some dice.
 > 
 > The Games Master has decided that Adventurers in his campaign will be rolled using the Random
-> Assign method. Alaric’s player must therefore roll 3D6 five times, noting the results, and 2D6+6 twice,
+> Assign method. Alaric's player must therefore roll 3D6 five times, noting the results, and 2D6+6 twice,
 > again, noting the outcomes.
 > 
 > For the 3D6 rolls he gets the following: 10, 12, 13, 7 and 14. For the two 2D6+6 rolls he gets 16 and 14.
 > 
-> Alaric’s player decides to allocate the results as follows: STR 12, CON 7, SIZ 14, INT 16, POW 14, DEX 13, CHA 10.
+> Alaric's player decides to allocate the results as follows: STR 12, CON 7, SIZ 14, INT 16, POW 14, DEX 13, CHA 10.
 > 
 > Alaric is around the human average for Strength. He is no weight-lifter but neither is he a weakling.
 > With CON 7, Alaric most likely suffers from coughs, sneezes and winter chills. He might have suffered
@@ -274,7 +274,7 @@ resolve certain actions and outcomes. The attributes are as follows:
 > boys in his village and is stockier maybe. With INT 16 - Alaric is smart. He is observant, good at
 > committing things to memory and has the ability to analyse problems and solve them quickly. His
 > POW of 14 means his spirit is strong; with an above average Power score he will find working magic
-> easier and will be noticeable to the gods who watch over his village. Alaric’s DEX 13 is above average,
+> easier and will be noticeable to the gods who watch over his village. Alaric's DEX 13 is above average,
 > so he is pretty agile and fast. He is noted for accuracy in various village games, such as horseshoe
 > throwing. Finally, CHA 10 is about average: Alaric is personable but not especially so. People know
 > who Alaric is but he does not stand out from the crowd.
@@ -290,7 +290,7 @@ Experienced Adventurers are given on page 25 towards the end of this chapter. It
 Games Master to decide if players start the game with more experienced Adventurers or not.
 
 
-> Alaric’s Tale
+> Alaric's Tale
 > Rolling 1D4 and adding the result to 16 we find that Alaric begins the game at 20 years of age.
 
 
@@ -316,8 +316,8 @@ result by 2 (rounding up); then consult the Combat Actions table.
 | For every additional 6 points                                    | +1             |
 
 
-> Alaric’s Tale
-> Alaric’s DEX of 13 and INT of 16, added together and divided by 2, gives him 3 CA. In a fight, Alaric
+> Alaric's Tale
+> Alaric's DEX of 13 and INT of 16, added together and divided by 2, gives him 3 CA. In a fight, Alaric
 > is going to be confident and fast enough to act several times - an advantage over slower opponents.
 
 
@@ -327,7 +327,7 @@ Modifier is a dice roll that is made in addition to the damage rolled for a weap
 an Adventurer with a Damage Modifier of +1D4 rolls a four-sided dice alongside the damage for the
 sword he is using and adds it to the total.
 
-To calculate the Adventurer’s Damage Modifier, add together the scores for STR and SIZ and
+To calculate the Adventurer's Damage Modifier, add together the scores for STR and SIZ and
 look up the result on the Damage Modifier table.
 
 ##### Damage Modifier
@@ -353,12 +353,12 @@ look up the result on the Damage Modifier table.
 Note that the Damage Modifier can be negative. If an Adventurer is physically small and weak
 he may not have the strength, leverage and reach to swing a weapon and strike to its full damage
 potential. Hence, a negative Damage Modifier is still rolled but the result is subtracted from the
-weapon’s damage total. If the Damage Modifier reduces a weapon’s damage to zero or a negative
+weapon's damage total. If the Damage Modifier reduces a weapon's damage to zero or a negative
 number, then no damage has been inflicted on that occasion.
 
 
-> Alaric’s Tale
-> Alaric’s STR 12 and SIZ 14 equal 26, which gives him +1D2 as a Damage Modifier. His above-
+> Alaric's Tale
+> Alaric's STR 12 and SIZ 14 equal 26, which gives him +1D2 as a Damage Modifier. His above-
 > average SIZ means that Alaric can gain more leverage when swinging with a weapon, or place more
 > weight behind it when thrusting, which improves its damage.
 
@@ -371,7 +371,7 @@ applied to the Hit Points for that location.
 
 Humans have seven Hit Locations: Head, Chest, Abdomen, Right Arm, Left Arm, Right Leg
 and Left Leg. The number of Hit Points each Hit Location has is based on CON and SIZ. Add
-the Adventurer’s CON and SIZ scores together and cross reference the result on the Hit Points
+the Adventurer's CON and SIZ scores together and cross reference the result on the Hit Points
 per Location table.
 
 ##### Hit Points per Location
@@ -387,24 +387,24 @@ per Location table.
 | Head        | 1    | 2     | 3       | 4       | 5        | 6        | 7        | 8       | +1 |
 
 
-> Alaric’s Tale
+> Alaric's Tale
 > With a CON of 7 and SIZ of 14 we know that Alaric is big but not necessarily in the best of shape.
 > CON+SIZ gives a result of 21 which, cross referenced on the Hit Points per Location table gives the
 > following Hit Points per location: Right and Left Leg: 5; Abdomen: 6; Chest: 7; Right and Left Arm:
 > 4; and Head: 5
 > 
-> Alaric’s bulk and body mass helps compensate for his somewhat flimsy constitution and Alaric has
+> Alaric's bulk and body mass helps compensate for his somewhat flimsy constitution and Alaric has
 > reasonable Hit Point scores in each location.
 
 
 ### Improvement Roll Modifier
-At the end of a Legend story, Adventurers are given the opportunity to improve their Adventurer’s
+At the end of a Legend story, Adventurers are given the opportunity to improve their Adventurer's
 skills and Characteristics.
 
 The CHA score provides either a penalty or a bonus to the number of Improvement Rolls an
 Adventurer has (see Adventurer Advancement starting on page 68); this reflects the relationship
 that the Adventurer has with his community, peers and colleagues, or, if CHA is particularly
-low, the difficulty of attempting to improve one’s capabilities without the assistance of others.
+low, the difficulty of attempting to improve one's capabilities without the assistance of others.
 
 ##### Improvement Roll Modifier
 
@@ -416,8 +416,8 @@ low, the difficulty of attempting to improve one’s capabilities without the as
 | For every additional 6 points of CHA                   | +1                        |
 
 
-> Alaric’s Tale
-> Alaric’s CHA of 10 means that he gains no Improvement Roll modifier when it comes to improving
+> Alaric's Tale
+> Alaric's CHA of 10 means that he gains no Improvement Roll modifier when it comes to improving
 > his skills and Characteristics; thus, if the Games Master allocates three Improvement Rolls to the
 > Adventurers, Alaric takes advantage of all three. Had his CHA been higher though - say 15 - he
 > would gain an additional Improvement Roll. Conversely, if his CHA was 6 or less, he would have one
@@ -426,14 +426,14 @@ low, the difficulty of attempting to improve one’s capabilities without the as
 
 ### Magic Points
 Magic Points represent a pool of points that are used to fuel spells and other magical effects.
-Usually the Magic Point total is equal to the Adventurer’s POW but this can change depending
+Usually the Magic Point total is equal to the Adventurer's POW but this can change depending
 on whether or not an Adventurer has dedicated any of his POW to the worship of a god. This is
-explained in more detail later in the book, so, for now, Magic Points are equal to the Adventurer’s
+explained in more detail later in the book, so, for now, Magic Points are equal to the Adventurer's
 POW Characteristic.
 
 Expended Magic Points normally recover after a sufficient period of rest.
 
-> Alaric’s Tale
+> Alaric's Tale
 > With POW 14 Alaric has 14 Magic Points. Alaric is interested in becoming active in one of the
 > religions of his community and will, in the future, dedicate some of his POW to his god to show his
 > devotion and this will reduce his available Magic Points but, for now, his Magic Points are the same
@@ -448,11 +448,11 @@ is described in more detail in the Game System chapter.
 ### Strike Rank
 How frequently an Adventurer acts in combat is defined by Combat Actions. How quickly he
 acts is defined by Strike Rank. Strike Rank is described in more detail in the Combat chapter
-but essentially, the higher an Adventurer’s Strike Rank the quicker he acts in a Combat Round.
+but essentially, the higher an Adventurer's Strike Rank the quicker he acts in a Combat Round.
 
 Strike Rank is based on two components and is calculated as follows:
 
-* Add together INT and DEX and divide the result by two (rounding up). An Adventurer’s
+* Add together INT and DEX and divide the result by two (rounding up). An Adventurer's
   speed of action is a combination ability to weigh-up his opponents and spot potential
   openings and opportunities, and his overall speed and quickness of action.
 
@@ -462,18 +462,18 @@ Strike Rank is based on two components and is calculated as follows:
   slows down the ability to react in a combat situation. The Strike Rank penalty for armour is
   the total amount of Armour Points the Adventurer is carrying, divided by 5 (rounded up).
 
-Natural armour - such as a dragon’s scales - does not inflict a Strike Rank penalty. Similarly,
+Natural armour - such as a dragon's scales - does not inflict a Strike Rank penalty. Similarly,
 armour provided by some magic spells does not inflict a Strike Rank penalty either.
 
 
-> Alaric’s Tale
-> Taking Alaric’s INT of 16 and DEX of 13, adding them together and dividing by two gives him a
+> Alaric's Tale
+> Taking Alaric's INT of 16 and DEX of 13, adding them together and dividing by two gives him a
 > Strike Rank of 15 (16+13 = 29/2 = 14.5, rounded up to 15).
 > 
-> Alaric has also inherited his grandfather’s leather jerkin, which covers his chest and abdomen and
+> Alaric has also inherited his grandfather's leather jerkin, which covers his chest and abdomen and
 > gives 2 Armour Points of protection to both Hit Locations. This means Alaric is carrying 4 points of
 > armour and suffers a Strike Rank penalty because of it. 4 divided by 5 gives a result of 0.8 which is
-> rounded up to 1. Alaric’s Strike Rank of 15 is therefore reduced to 14, reflecting the encumbrance of
+> rounded up to 1. Alaric's Strike Rank of 15 is therefore reduced to 14, reflecting the encumbrance of
 > the leather armour.
 
 
@@ -483,12 +483,12 @@ with varying degrees of expertise. These are detailed more fully in the Skills c
 of Adventurer creation, players will only need to know the base values of each Common skill.
 
 The basic score of each Common skill is determined by the sum of two Characteristics or a
-multiple of a single Characteristic. The value represents the Adventurer’s innate competence in a
+multiple of a single Characteristic. The value represents the Adventurer's innate competence in a
 given area, along with any training he has received as part of his formative years.
 
 The Common Skills table shows how the basic values are calculated. The score represents the
 percentage chance of success for a skill; so, an Athletics score of 25 is expressed as 25%. How
-skill percentages work, and each Common Skill’s full description, is given in the Skills chapter.
+skill percentages work, and each Common Skill's full description, is given in the Skills chapter.
 
 Every Adventurer possesses the skills listed in the Common Skills table; however there are three
 other categories of skills that, whilst considered to be Common, are not automatically listed.
@@ -539,28 +539,28 @@ Magic is available in your game; if it is, it starts at the basic percentage lis
 | Common Magic                                            | POW+CHA          |
 
 
-> Alaric’s Tale
-> Alaric’s player checks with the Games Master and learns that Common Magic is available to everyone
-> in the setting. Alaric’s basic scores in each of the Common skills are therefore as follows:
+> Alaric's Tale
+> Alaric's player checks with the Games Master and learns that Common Magic is available to everyone
+> in the setting. Alaric's basic scores in each of the Common skills are therefore as follows:
 > 
 > Athletics 25%,Brawn 26%, Common Magic 24%, Culture (Own) 32%, Dance 23%, Driving
 > 27%, Evade 26%, Evaluate 26%, First Aid 29%, Influence 20%, Insight 30%, Lore (Regional)
 > 32%, Perception 30%, Persistence 28%, Ranged Combat 26%, Resilience 14%, Ride 27%, Sing
 > 24%, Sleight 23%, Stealth 29%, Swim 19%, Unarmed 25%.
 > 
-> Bear in mind that these are Alaric’s starting skill values reflecting his natural abilities and competencies:
+> Bear in mind that these are Alaric's starting skill values reflecting his natural abilities and competencies:
 > many of these areas will improve as the Adventurer Creation process continues.
 
 
 ## Previous Experience
-The next stage of creating an Adventurer is to determine their Adventurer’s previous
+The next stage of creating an Adventurer is to determine their Adventurer's previous
 experience. Each Adventurer starts the game between the ages of 17 and 20, and were most
 likely considered an adult at age 14 or 15, depending on the culture. Therefore the Adventurer
 has already had many years-worth of learning and experience that needs to be reflected in his
-skills: this includes skills developed within the Adventurer’s culture and those skills developed
+skills: this includes skills developed within the Adventurer's culture and those skills developed
 as part of professional training.
 
-Previous experience therefore has three steps. First the player must pick the Adventurer’s Cultural
+Previous experience therefore has three steps. First the player must pick the Adventurer's Cultural
 Background, which is a reflection of the kind of cultural upbringing the Adventurer has had.
 This provides certain starting skill bonuses reflecting this upbringing.
 
@@ -570,8 +570,8 @@ however, it is entirely possible that an Adventurer might be a tailor, rather th
 appropriate skills for that kind of profession will have to be determined between the player and
 Games Master.
 
-Third, the player determines and allocates the Adventurer’s Free Skill Points. These represent
-the remainder of the Adventurer’s experience outside of his upbringing and profession.
+Third, the player determines and allocates the Adventurer's Free Skill Points. These represent
+the remainder of the Adventurer's experience outside of his upbringing and profession.
 
 
 ### Cultural Background
@@ -647,15 +647,15 @@ skilled at the basic knowledge needed for survival in the wild.
 | All primitive Adventurers gain the following bonuses: +15% to Athletics, Perception, Resilience and Stealth +30% to Culture (Own) and Lore (Regional) | Primitive Adventurers choose one Combat Style from the following and gain a +10% bonus. 1H Axe, 1H Hammer, 1H Spear, 2H Hammer, Blowgun, Bow, Dagger, Sling, Spear and Shield | All primitive Adventurers gain the following Advanced Skills: Language (Native) +50% Survival Track | Primitive Adventurers begin the game with 4D6 x10 Silver Pieces. |
 
 
-> Alaric’s Tale
-> The campaign Alaric will be joining is set in a fantasy setting of the Game Master’s creation, called the
+> Alaric's Tale
+> The campaign Alaric will be joining is set in a fantasy setting of the Game Master's creation, called the
 > Bleak Isle. The Games Master advises the players that he would like all the Adventurers to come from
 > the same Cultural Background but that they can choose which background that will be. After some
 > discussion the players decide that they will all play members of the same clan living in the area of the
 > Bleak Isle known as the Gloamwood. This means that either Barbarian or Nomad would be a good
-> fit for the region and the players settle on Barbarian. Alaric’s player enters this on his Adventurer sheet.
+> fit for the region and the players settle on Barbarian. Alaric's player enters this on his Adventurer sheet.
 > 
-> Running through the skill bonuses and options, Alaric’s adjusted Common skills now look like this:
+> Running through the skill bonuses and options, Alaric's adjusted Common skills now look like this:
 > 
 > Athletics 35% Brawn 31% Culture (Own) 62%, Lore (Regional) 62%, Perception 35%, Resilience
 > 24%, Ride 32%, Stealth 34%.
@@ -663,7 +663,7 @@ skilled at the basic knowledge needed for survival in the wild.
 > Alaric also gets to choose three Combat Styles gaining a +10% bonus to each. He chooses Spear and
 > Shield, Dagger and Sling. Spear and Shield, and Dagger, are both Close Combat styles, whilst Sling
 > is a Ranged Combat style. His Close Combat skills start at STR+DEX, which for Alaric is 25%,
-> and Ranged Combat skills start at DEX x2, which is 26%. With his barbarian 10% bonus Alaric’s
+> and Ranged Combat skills start at DEX x2, which is 26%. With his barbarian 10% bonus Alaric's
 > weapon skills are therefore Spear and Shield 35%, Dagger 35%, Sling 36%.
 > 
 > Alaric also gains three Advanced Skills. These need to be written onto his Adventurer Sheet as Advanced
@@ -703,187 +703,41 @@ a +10% bonus to it.
 
 ##### Professions
 
-                Cultural
-Profession      Background        Common Skill Bonuses           Advanced Skills      Magic
-
-Acrobat         Barbarian,        Athletics +15%, Evade          Acrobatics
-                Civilised         +15%, Sleight +10%
-
-Alchemist       Civilised         Evaluate +10%, First Aid       Lore (Alchemy)       Manipulate,
-                                  +10%                                                Sorcery
-                                                                                      (Grimoire)
-
-Animal          All               Driving +5%, First Aid
-Trainer                           +5%, Lore (Regional) +20%,
-                                  Persistence +10%, Resilience
-                                  +5%, Riding +5%
-
-Bard            All               Influence +5%, Lore            Select Two
-                                  (Regional) +5%, Perception     Language, Lore,
-                                  +5%, Sing +10%, Sleight        Play Instrument
-                                  +5%
-
-Blacksmith      Barbarian,        Brawn +15%, Evaluate +5%,      Craft
-                Civilised         Hammer +10%, Resilience        (Blacksmith)
-                                  +10%
-
-Champion/       All               Influence +5%, Athletics       Select Two
-Knight/                           OR Brawn OR Riding +5%         Courtesy, Culture
-Noble                                                            (Other), Oratory,
-Warrior                           Pick any two Combat Styles     Play Instrument
-                                  appropriate to your culture,
-                                  receiving both at a +10%
-                                  bonus.
-
-Courtier        Civilised         Influence +15%, Lore           Select Two
-                                  (Regional) +5%, Perception     Courtesy, Lore
-                                  +5%, Sleight OR Dance          (Art), Lore
-                                  +5%                            (Heraldry), Lore
-                                                                 (Philosophy), Play
-                                                                 Instrument
-
-Craftsman       All               Evaluate +20%, Influence       Craft (Any)
-                                  +5%, Persistence +5%
-                                                                 Select One
-                                                                 Craft (Other),
-                                                                 Engineering,
-                                                                 Mechanisms
-
-Diplomat        Civilised         Culture (Own) +10%,            Select Two
-                                  Influence +10%, Perception     Courtesy,
-                                  +10%                           Culture (Other),
-                                                                 Language (Other),
-                                                                 Lore (Any), Play
-                                                                 Instrument
-
-Explorer        Barbarian,        Lore (Regional) +20%,          Select Two
-                Civilised         Perception +5%, Resilience     Language
-                                  +5%                            (Other), Lore
-                                                                 (Astronomy),
-                                                                 Lore (Geography),
-                                                                 Shiphandling,
-                                                                 Survival
-
-Farmer          Barbarian,        Athletics +5%, Brawn           Craft (Farming)
-                Civilised,        +10%, Driving +5%, Lore
-                Primitive         (Regional) +10%, Resilience
-                                  +10%
-
-Fisherman       All               Athletics +5%, Lore            Select Two
-                                  (Regional) +5%, Resilience     Boating,
-                                  +10%, Swim +10%                Craft (Any),
-                                                                 Shiphandling,
-                                                                 Survival
-
-Herdsman    Barbarian,   First Aid +5%, Lore          Survival
-         Nomad,       (Regional) +10%, Resilience
-         Primitive    +15%, Sling +10%
-Hunter      All          Lore (Regional) +10%,        Track
-                      Resilience +10%, Stealth
-                      +10%, One missile weapon
-                      style appropriate to your
-                      culture +10%
-Mercenary   Barbarian,   Pick any two Combat Styles Lore (Tactics)
-         Nomad,       appropriate to your culture,
-         Civilised    receiving both at a +10%
-                      bonus.
-
-                      Select Two
-                      Athletics +10%, Driving
-                      +10%, Evade +10%,
-                      Evaluate +10%, Resilience
-                      +10%, Riding +10%,
-                      Unarmed +10%
-Merchant    Civilised,   Evaluate +20%, Influence     Select Two
-         Barbarian    +5%, Lore (Regional) +5%     Commerce,
-                                                   Language (Other),
-                                                   Lore (Logistics),
-                                                   Shiphandling
+| Profession | Cultural Background | Common Skill Bonuses | Advanced Skills | Magic |
+|------------|---------------------|----------------------|-----------------|-------|
+| Acrobat | Barbarian, Civilised | Athletics +15%, Evade +15%, Sleight +10% | Acrobatics | |
+| Alchemist | Civilised | Evaluate +10%, First Aid +10% | Lore (Alchemy) | Manipulate, Sorcery (Grimoire) |
+| Animal Trainer | All | Driving +5%, First Aid +5%, Lore (Regional) +20%, Persistence +10%, Resilience +5%, Riding +5% | | |
+| Bard | All | Influence +5%, Lore (Regional) +5%, Perception +5%, Sing +10%, Sleight +5% | Select Two Language, Lore, Play Instrument | |
+| Blacksmith | Barbarian, Civilised | Brawn +15%, Evaluate +5%, Hammer +10%, Resilience +10% | Craft (Blacksmith) | |
+| Champion/ Knight/ Noble Warrior | All | Influence +5%, Athletics OR Brawn OR Riding +5% Pick any two Combat Styles appropriate to your culture, receiving both at a +10% bonus. | Select Two Courtesy, Culture (Other), Oratory, Play Instrument | |
+| Courtier | Civilised | Influence +15%, Lore (Regional) +5%, Perception +5%, Sleight OR Dance +5% | Select Two Courtesy, Lore (Art), Lore (Heraldry), Lore (Philosophy), Play Instrument | |
+| Craftsman | All | Evaluate +20%, Influence +5%, Persistence +5% | Craft (Any) Select One Craft (Other), Engineering, Mechanisms | |
+| Diplomat | Civilised | Culture (Own) +10%, Influence +10%, Perception +10% | Select Two Courtesy, Culture (Other), Language (Other), Lore (Any), Play Instrument | |
+| Explorer | Barbarian, Civilised | Lore (Regional) +20%, Perception +5%, Resilience +5% | Select Two Language (Other), Lore (Astronomy), Lore (Geography), Shiphandling, Survival | |
+| Farmer | Barbarian, Civilised, Primitive | Athletics +5%, Brawn +10%, Driving +5%, Lore (Regional) +10%, Resilience +10% | Craft (Farming) | |
+| Fisherman | All | Athletics +5%, Lore (Regional) +5%, Resilience +10%, Swim +10% | Select Two Boating, Craft (Any), Shiphandling, Survival | |
+| Herdsman | Barbarian, Nomad, Primitive | First Aid +5%, Lore (Regional) +10%, Resilience +15%, Sling +10% | Survival | |
+| Hunter | All | Lore (Regional) +10%, Resilience +10%, Stealth +10%, One missile weapon style appropriate to your culture +10% | Track | |
+| Mercenary | Barbarian, Nomad, Civilised | Pick any two Combat Styles appropriate to your culture, receiving both at a +10% bonus. Select Two Athletics +10%, Driving +10%, Evade +10%, Evaluate +10%, Resilience +10%, Riding +10%, Unarmed +10% | Lore (Tactics) | |
+| Merchant | Civilised, Barbarian | Evaluate +20%, Influence +5%, Lore (Regional) +5% | Select Two Commerce, Language (Other), Lore (Logistics), Shiphandling | |
+| Miner | Barbarian, Civilised | Athletics +10%, Brawn+10%, Hammer +10%, Resilience +10% | Lore (Mineral) | |
+| Noble | Civilised | Sword +10%, Influence +10%, Persistence +5%, Riding +5% | Select Two Courtesy, Culture (Other), Language, Lore (Any), Play Instrument | |
+| Physician | Civilised | Evaluate +5%, First Aid +20%, Lore (Regional) +5%, Perception +10%, | Healing | |
+| Priest | Barbarian, Civilised, Nomad | Influence +15%, Lore (Regional) +5%, Persistence +10% | | Lore (Specific Theology), Pact (Cult or God) |
+| Sailor | Civilised, Primitive | Athletics +10%, Lore (Regional) +5%, Resilience +5%, Swim +10% | Select Two Boating, Culture (Other), Language (Other), Shiphandling | |
+| Scholar | Civilised | Culture (Own) +10%, Evaluate +5%, Lore (Regional) +5%, Persistence +10% | 2 x Lore (Any) | |
+| Shaman | Barbarian, Nomad, Primitive | First Aid +5%, Influence +5%, Lore (Regional) +5%, Persistence +5% | Select One Healing, Lore (Any), Survival | Lore (Specific Theology), Pact (Cult or God) |
+| Soldier, Warrior | All | Athletics +5%, Brawn +5%, Evade +5%, Resilience +5% Pick any two Combat Styles appropriate to your culture, receiving both at a +10%. | Lore (Tactics) | |
+| Spy | Civilised | Evade +5%, Insight +5%, Lore (Regional) +5%, Perception +5%, Persistence +5%, Sleight OR Stealth +5% | Select Two Culture (Other), Disguise, Language (Other), Track | |
+| Thief | All | Evaluate +10%, Perception +10%, Sleight +10%, Stealth +10% | Select One Disguise, Mechanisms, Streetwise | |
+| Tracker        B N P | arbarian, omad, rimitive | Athletics +10%, Perception +10%, One weapon style appropriate to your culture +10% | Survival, Track | |
+| Witch          A | ll | First Aid +10%, Insight +5%, Lore (Regional) +5% | Select One Healing, Lore (Any), Survival | Choose from: Lore (Specific Theology) and Pact (Cult or God) OR Manipulate and Sorcery (Grimoire) |
+| Sorcerer       C | ivilised | Insight +5%, Lore (Regional) +5%, Persistence +10% | Select One Language, Lore (Any) | Manipulate, Sorcery (Grimoire) |
+| Woodsman       B P | arbarian, rimitive | Athletics +10%, Axe +10%, Brawn +10%, Lore (Regional) +5%, Resilience +5% | Survival | |
 
 
-
-
-                                                                           21
-
-                  Cultural
-Profession Background    Common Skill Bonuses           Advanced Skills     Magic
-Miner      Barbarian,    Athletics +10%,                Lore (Mineral)
-      Civilised     Brawn+10%, Hammer
-                    +10%, Resilience +10%
-Noble       Civilised    Sword +10%, Influence          Select Two
-                    +10%, Persistence +5%,         Courtesy,
-                    Riding +5%                     Culture (Other),
-                                                   Language, Lore
-                                                   (Any), Play
-                                                   Instrument
-Physician   Civilised    Evaluate +5%, First Aid        Healing
-                    +20%, Lore (Regional) +5%,
-                    Perception +10%,
-Priest      Barbarian,   Influence +15%, Lore                                Lore
-       Civilised,   (Regional) +5%, Persistence                        (Specific
-       Nomad        +10%                                               Theology),
-                                                                        Pact (Cult or
-                                                                       God)
-Sailor      Civilised,   Athletics +10%, Lore           Select Two
-       Primitive    (Regional) +5%, Resilience     Boating,
-                    +5%, Swim +10%                 Culture (Other),
-                                                   Language (Other),
-                                                   Shiphandling
-Scholar     Civilised    Culture (Own) +10%,            2 x Lore (Any)
-                    Evaluate +5%, Lore
-                    (Regional) +5%, Persistence
-                    +10%
-Shaman      Barbarian,   First Aid +5%, Influence       Select One          Lore (Specific
-       Nomad,       +5%, Lore (Regional) +5%,      Healing, Lore       Theology),
-       Primitive    Persistence +5%                (Any), Survival     Pact (Cult or
-                                                                       God)
-Soldier/    All          Athletics +5%, Brawn +5%,      Lore (Tactics)
-Warrior                  Evade +5%, Resilience +5%
-
-                    Pick any two Combat Styles
-                    appropriate to your culture,
-                    receiving both at a +10%.
-Spy         Civilised    Evade +5%, Insight +5%,        Select Two
-                    Lore (Regional) +5%,           Culture (Other),
-                    Perception +5%, Persistence    Disguise,
-                    +5%, Sleight OR Stealth        Language
-                    +5%                            (Other), Track
-Thief       All          Evaluate +10%, Perception      Select One
-                    +10%, Sleight +10%, Stealth    Disguise,
-                    +10%                           Mechanisms,
-                                                   Streetwise
-
-
-
-
-22
-
-                    Cultural
-Profession Background            Common Skill Bonuses             Advanced Skills        Magic
-Tracker        Barbarian,        Athletics +10%, Perception       Survival, Track
-            Nomad,            +10%, One weapon style
-            Primitive         appropriate to your culture
-                              +10%
-Witch          All               First Aid +10%, Insight          Select One             Choose
-                              +5%, Lore (Regional) +5%         Healing, Lore          from:
-                                                               (Any), Survival        Lore (Specific
-                                                                                      Theology)
-                                                                                      and Pact
-                                                                                      (Cult or
-                                                                                      God) OR
-                                                                                      Manipulate
-                                                                                      and Sorcery
-                                                                                      (Grimoire)
-Sorcerer       Civilised         Insight +5%, Lore                Select One             Manipulate,
-                              (Regional) +5%, Persistence      Language, Lore         Sorcery
-                              +10%                             (Any)                  (Grimoire)
-Woodsman Barbarian,              Athletics +10%, Axe              Survival
-      Primitive               +10%, Brawn +10%, Lore
-                              (Regional) +5%, Resilience
-                              +5%
-
-
-Free Skill Points
+## Free Skill Points
 Every Legend Adventurer receives an additional 250 Skill Points to spend on their Adventurer.
 The player can add these Free Skill Points to his skills in the following ways:
 
@@ -897,20 +751,20 @@ The player can add these Free Skill Points to his skills in the following ways:
   (Specific Theology) - for Divine cult members or Manipulation and Sorcery (Grimoire)
   for Sorcerers.
 
-Important Note: No single skill can benefit from more than 30 Free Skill Points. This means
+**Important Note**: No single skill can benefit from more than 30 Free Skill Points. This means
 that an Advanced skill purchased with Free Skill Points cannot be increased by more than 20
 points.
 
 > For example, if Alaric, as part of his Free Skill Points, chose to buy Tracking (an Advanced Skill),
-> it would cost 10 Skill Points to buy the skill at its basic, Characteristic value - in this case Alaric’s
+> it would cost 10 Skill Points to buy the skill at its basic, Characteristic value - in this case Alaric's
 > INT+CON, making it 23% - and Alaric would not be able to spend more than an additional 20
 > points on it meaning that, if he chose to raise it, the maximum it could be would be 43%.
 > 
-> Alaric’s Tale
+> Alaric's Tale
 > 
 > Coming from a barbarian culture, Alaric has a whole range of professions
 > to choose from. Running through the list the one that appeals most is Warrior.
-> Alaric’s player reasons that because Alaric is big and reasonably clever, his size and
+> Alaric's player reasons that because Alaric is big and reasonably clever, his size and
 > smarts will give him an advantage in combat. He also decides that his father
 > was a warrior too and, in a barbarian culture, it is a case of Like Father,
 > Like Son.
@@ -921,7 +775,7 @@ points.
 > Dagger, he decides that he will improve these two Combat Styles.
 > For his Advanced Skill, Alaric gains Lore (Tactics) - useful in cattle raids.
 > 
-> So, having determined cultural background and profession, Alaric’s skills are now:
+> So, having determined cultural background and profession, Alaric's skills are now:
 > 
 > Common: Athletics 40%, Brawn 36%, Culture (Own) 62%, Dance 23%, Drive 27%, Evade
 > 31%, Evaluate 26%, First Aid 29%, Influence 20%, Insight 30%, Lore
@@ -936,7 +790,7 @@ points.
 > Alaric is now ready to move onto the third stage of Previous Experience.
 > 
 > 
-> Alaric’s Tale
+> Alaric's Tale
 > Alaric chooses to spend his 250 Free Skill Points in the following way:
 > 
 > |                             | Spend              | New Skill Value |
@@ -958,7 +812,7 @@ points.
 > 30 points in any one skill.
 
 
-Advanced Adventurers
+### Advanced Adventurers
 It is perfectly acceptable for Adventurers to begin the game at a higher level than that used for
 creating basic, young adult Adventurers.
  
@@ -969,15 +823,26 @@ All advanced Adventurers are created normally, including choosing cultural backg
 profession, until the time comes to spend Free Skill Points, which they can distribute freely
 without limitation.
 
+##### Advanced Adventurers Table
 
-Community
-The final stage of Adventurer Creation is to discover something of the Adventurer’s back-story.
+| | Seasoned | Veteran | Master | Hero |
+|-|----------|---------|--------|------|
+| Minimum Age | 21 | 28 | 35 | 42 |
+| Free Skill Points | 350 | 450 | 550 | 650 |
+| Money | Double that for Cultural Background | Fives times that for Cultural Background | 10 times that for Cultural Background | 20 times that for Cultural Background |
+| Characteristics | 1D3 additional Characteristic points, which may be split between Characteristics as desired. | 1D4+1 additional Characteristic points, which may be split between Characteristics as desired. | 1D6+2 additional Characteristic points, which may be split between Characteristics as desired. | 1D8+4 additional Characteristic points, which may be split between Characteristics as desired. |
+| Status | Level 1: May be an apprentice member of a guild, an initiate in a church, an in apprentice in a sorcery order or an initiate or squire in a martial order, if appropriate. | Level 2: May be an journeyman member of a guild, an acolyte a church, an adept in a sorcery order or a knight or brother in a martial order, if appropriate. | Level 3: May be either a master of a guild, a Priest of a church, a Mage in a sorcery order, or a knight captain or elder brother in a martial order if appropriate. | Level 4: May be either a Lord of a guild, or a Priest of a church, an Archmage in a sorcery order, or a grand master or abbot in a martial order, if appropriate. |
+| Hero Points | 3 | 6 | 9 | 12 |
+| Heroic Abilities | None | One, if requirements are met | Two, if requirements are met | Three, if requirements are met |
+
+
+## Community
+The final stage of Adventurer Creation is to discover something of the Adventurer's back-story.
 What has happened in the formative years of their life? Who are their family and friends? Has the
 Adventurer made any rivals or enemies? How well known is he or she? This section of Adventurer
 generation aims to answer these questions.
 
-
-Families
+### Families
 All Adventurers have families. Family ties might still be close or severed long ago. The family
 might be large and rambling or small and close-knit. The family might have a reputation that
 has been a help or hindrance to the Adventurer, or its connections might be useful for all sorts
@@ -985,55 +850,7 @@ of reasons now or in the future.
 
 Roll 1D100 on each column of the Family Ties Table to determine the parental status, number
 of siblings and what the general, extended family structure is like.
-
-
-Advanced Adventurers Table
-               Seasoned           Veteran               Master             Hero
-Minimum Age         21                 28                    35                 42
-Free Skill Points   350                450                   550                650
-Money               Double that        Fives times that      10 times that      20 times that
-               for Cultural       for Cultural          for Cultural       for Cultural
-               Background         Background            Background         Background
-Characteristics     1D3 additional     1D4+1                 1D6+2              1D8+4
-               Characteristic     additional            additional         additional
-               points, which      Characteristic        Characteristic     Characteristic
-               may be split       points, which         points, which      points, which
-               between            may be split          may be split       may be split
-               Characteristics as between               between            between
-               desired.           Characteristics as    Characteristics    Characteristics as
-                                  desired.              as desired.        desired.
-Status              Level 1:           Level 2:              Level 3:           Level 4:
-               May be an          May be an             May be either      May be either a
-               apprentice         journeyman            a master of a      Lord of a guild,
-               member of a        member of a           guild, a Priest    or a Priest of
-               guild, an initiate guild, an acolyte     of a church,       a church, an
-               in a church, an in a church, an          a Mage in a        Archmage in a
-               apprentice in      adept in a sorcery    sorcery order,     sorcery order, or
-               a sorcery order    order or a knight     or a knight        a grand master
-               or an initiate     or brother in a       captain or elder   or abbot in a
-               or squire in a     martial order, if     brother in a       martial order, if
-               martial order, if appropriate.           martial order if   appropriate.
-               appropriate.                             appropriate.
-Hero Points         3                  6                     9                  12
-Heroic Abilities    None               One, if               Two, if            Three, if
-                                  requirements are      requirements       requirements are
-                                  met                   are met            met
-
-
-
-Family Ties Table
-1D100         Parents/Guardians             Siblings        Family Size
-01-20         Both Parents present          None            Self Contained
-21-40         No Living Parents             1D4             1D4 Aunts and Uncles on each
-                                                       parent’s side
-41-60         One birth parent plus step- 1D6               1D6 Aunts and Uncles on each
-         parent                                        parent’s side
-61-80         Single Parent - Father      1D8               1D8 Aunts and Uncles on each
-                                                       parent’s side
-81-00         Single Parent - Mother        2D6             1D10 Aunts and Uncles on each
-                                                       parent’s side
-
-
+                                                       
 For large families it is recommended that details be left deliberately vague. Part of the fun is
 introducing that roguish or well-connected uncle or cousin at strategic points in a campaign or
 scenario, and keeping family details at a high level allows for considerable flexibility in developing
@@ -1043,33 +860,39 @@ How well is the family connected? Is it important or run-of-the-mill? Is it well
 family name carry with it a stigma? The following tables help decide how well known the family
 is and what kind of weight it carries at local, regional and national levels.
 
-Family Reputation
-1D100        Reputation                                          Contacts, Enemies and Rivals
-01-20        Poor reputation                                     1D3 Enemies or Rivals
-21-50        Average reputation but a few skeletons and          1 Enemy or Rival
-          secrets in the background
-51-65        Average reputation                                  —
-66-85        Good reputation but a few skeletons and             1 Contact or Ally
-          secrets in the background
-86-00        Reputation of excellent standing                    1D3 Contacts or Allies
+##### Family Ties Table
 
-Family Connections
-1D100        Connections                                        Contacts, Enemies and Rivals
-01-20        No connections worth mentioning                    —
-21-80        Family has reasonable connections within the       —
-          community
-81-90        Family is considered well connected with           1 Contact and 1 Rival
-          other families and persons holding local
-          power
-91-95        Family is considered well connected with           2 Contacts, 1 Rival and 1 Enemy
-          other families and persons holding local and
-          regional power
-96-00        Family is considered well connected with           2 Contacts, 2 Rivals and 2
-          other families and persons holding local,          Enemies
-          regional and national power
+| 1D100       | Parents/Guardians                   | Siblings      | Family Size |
+|-------------|-------------------------------------|---------------|-------------|
+| 01-20       | Both Parents present                | None          | Self Contained |
+| 21-40       | No Living Parents                   | 1D4           | 1D4 Aunts and Uncles on each parent's side |
+| 41-60       | One birth parent plus step-parent   | 1D6           | 1D6 Aunts and Uncles on each parent's side |
+| 61-80       | Single Parent - Father              | 1D8           | 1D8 Aunts and Uncles on each parent's side |
+| 81-00       | Single Parent - Mother              | 2D6           | 1D10 Aunts and Uncles on each parent's side |
 
-As an optional stage for the Adventurer’s background, are they married? Roll 1D100 and
-compare it with the Adventurer’s Influence skill. If the result is equal to, or less than, Influence
+##### Family Reputation
+
+| 1D100      | Reputation                                                           | Contacts, Enemies and Rivals |
+|------------|----------------------------------------------------------------------|------------------------------|
+| 01-20      | Poor reputation                                                      | 1D3 Enemies or Rivals        |
+| 21-50      | Average reputation but a few skeletons and secrets in the background | 1 Enemy or Rival             |
+| 51-65      | Average reputation                                                   | --                           |
+| 66-85      | Good reputation but a few skeletons and secrets in the background    | 1 Contact or Ally            |
+| 86-00      | Reputation of excellent standing                                     | 1D3 Contacts or Allies       |
+
+##### Family Connections
+
+| 1D100      | Connections                                                                                                    | Contacts, Enemies and Rivals |
+|------------|----------------------------------------------------------------------------------------------------------------|------------------------------|
+| 01-20      | No connections worth mentioning                                                                                | --                           |
+| 21-80      | Family has reasonable connections within the community                                                         | --                           |
+| 81-90      | Family is considered well connected with other families and persons holding local power                        | 1 Contact and 1 Rival        |
+| 91-95      | Family is considered well connected with other families and persons holding local and regional power           | 2 Contacts, 1 Rival and 1 Enemy |
+| 96-00      | Family is considered well connected with other families and persons holding local, regional and national power | 2 Contacts, 2 Rivals and 2 Enemies |
+
+
+As an optional stage for the Adventurer's background, are they married? Roll 1D100 and
+compare it with the Adventurer's Influence skill. If the result is equal to, or less than, Influence
 then the Adventurer is married, should the player wish it. If the result is higher than the
 Influence skill he is unmarried. How happily the Adventurer is married is up to the player to
 decide - similarly, children. If the Adventurer wants to have children by his spouse then he
@@ -1078,26 +901,26 @@ these kinds of cultures and starting ages. The age of any children will be, agai
 a result of 0 indicating a new-born.
 
 
-> Alaric’s Tale
-> On the Family Ties table, Alaric’s rolls are 96 (Single Mother), 59 (1D6 Siblings - result of 4; he has
-> two brothers and two sisters, Alaric’s player decides) and 68 (1D8 relatives on each parent’s side - a
-> total of 9 in all). It is decided that Alaric’s father died several years ago, when Alaric was no more
+> Alaric's Tale
+> On the Family Ties table, Alaric's rolls are 96 (Single Mother), 59 (1D6 Siblings - result of 4; he has
+> two brothers and two sisters, Alaric's player decides) and 68 (1D8 relatives on each parent's side - a
+> total of 9 in all). It is decided that Alaric's father died several years ago, when Alaric was no more
 > than 10 years old, leaving his mother to raise him and his two brothers and two sisters with the help of
 > their extensive family. Despite having lost his father, Alaric had plenty of male role-models in his life.
 > 
-> For Family Reputation the roll is 91 - Alaric’s extended family has an Excellent Reputation and this
+> For Family Reputation the roll is 91 - Alaric's extended family has an Excellent Reputation and this
 > grants 1D3 (result 2) Allies or Contacts. Alaric chooses one of each and decides to detail them later.
-> For Family Connections, the 1D100 roll is 33 - so Alaric’s family has reasonable connections within
+> For Family Connections, the 1D100 roll is 33 - so Alaric's family has reasonable connections within
 > the community.
 > 
-> Alaric’s player decides that Alaric is unmarried - but has designs, to be explored further along in this
+> Alaric's player decides that Alaric is unmarried - but has designs, to be explored further along in this
 > part of Adventurer Creation.
 
 
-Allies, Contacts, Enemies and Rivals
+### Allies, Contacts, Enemies and Rivals
 Through both his family and his personal dealings, an Adventurer may make acquaintances that
 will help or hinder him in the future. The Family Reputation and Family Connections tables will
-have determined if Allies, Contacts, Enemies or Rivals are present in the Adventurer’s life and,
+have determined if Allies, Contacts, Enemies or Rivals are present in the Adventurer's life and,
 if so, how many are out there.
 
 * Contacts are individuals that the Adventurer knows and has had friendly dealings with
@@ -1113,49 +936,50 @@ Note any Allies, Contacts, Enemies or Rivals on the Adventurer sheet along with 
 on why they have this relationship with the Adventurer. Players can give as much detail as they
 wish, from the sketchy (Rival in the Clan) to the detailed (Harrick the Hairy is my Rival, because I
 disobeyed his orders while out hunting. He had me embarrassed in front of the clan elders, damn him!
-I’ll have my revenge on him one day!).
+I'll have my revenge on him one day!).
 
 Other Adventurers can be Contacts, Allies or even Rivals for the purposes of the Connections
 rule (opposite) and may be implicated in Background Events, which follow.
 
 
-Background Events
+### Background Events
 When an Adventurer is created he usually begins life as a young man but this does not mean
 his previous childhood and adolescence was lived in an uneventful bubble. We all undergo
 life-shaping experiences that define who we are, what we do and what approach we have to
 life. Games Masters are strongly recommended to spend time with their players developing the
 previous lives of the Adventurers. This does not need to be especially detailed and neither does it
 need to be too specific. Past experiences can be fleshed-out during the course of play or even be
-ignored all together. Establishing the background events to an Adventurer’s life can be extremely
+ignored all together. Establishing the background events to an Adventurer's life can be extremely
 rewarding and provide the fuel for countless future adventures, if the Games Master desires it.
 
 
-> Alaric’s Tale
-> It was determined that Alaric has an Ally and a Contact. He decides to make the Ally his father’s
-> brother (so Alaric’s uncle), Marius who is the chieftain of Alaric’s clan. The Contact is Selena, Marius’s
-> daughter. The two were childhood friends and Alaric’s player decides that Alaric is in love with Selena
+> Alaric's Tale
+> It was determined that Alaric has an Ally and a Contact. He decides to make the Ally his father's
+> brother (so Alaric's uncle), Marius who is the chieftain of Alaric's clan. The Contact is Selena, Marius's
+> daughter. The two were childhood friends and Alaric's player decides that Alaric is in love with Selena
 > but dare not admit his feelings until he has proven himself worthy.
-> 
-> Of course the Cultural Background of the Adventurer will have some say in what these previous
-> experiences were, or, at the very least, determine where they took place. But the general nature
-> of life experiences tends to be universal. The following table offers a wide selection of possible
-> background events and some suggested game effects that the players and Games Master may
-> wish to apply to the Adventurers during Adventurer Creation. Every Adventurer should roll
-> once on the Background Events table; if the player is feeling very adventurous, then he may roll
-> twice. If an event is thought to be restrictive or inappropriate for either the Adventurer or the
-> campaign, it can either be ignore, or re-rolled.
 
 
-Alaric’s Tale
-For his Background Event Alaric’s 1D100 roll is 76 - Raised by a Guild or Military Order. The
-Games Master knows this is not appropriate given what we know of Alaric already and suggests a
-re-roll. The result this time is 56 - Major Wound; Alaric suffered a major wound as a child that left
-him with a scar across his left leg. Alaric’s player decides the wound was caused by a troll - the same
-troll that killed his father on a hunting expedition - and so now Alaric both fears and hates trolls: he
-wants revenge on the troll who murdered his father some day.
+Of course the Cultural Background of the Adventurer will have some say in what these previous
+experiences were, or, at the very least, determine where they took place. But the general nature
+of life experiences tends to be universal. The following table offers a wide selection of possible
+background events and some suggested game effects that the players and Games Master may
+wish to apply to the Adventurers during Adventurer Creation. Every Adventurer should roll
+once on the Background Events table; if the player is feeling very adventurous, then he may roll
+twice. If an event is thought to be restrictive or inappropriate for either the Adventurer or the
+campaign, it can either be ignore, or re-rolled.
 
 
-Connections
+> Alaric's Tale
+> For his Background Event Alaric's 1D100 roll is 76 - Raised by a Guild or Military Order. The
+> Games Master knows this is not appropriate given what we know of Alaric already and suggests a
+> re-roll. The result this time is 56 - Major Wound; Alaric suffered a major wound as a child that left
+> him with a scar across his left leg. Alaric's player decides the wound was caused by a troll - the same
+> troll that killed his father on a hunting expedition - and so now Alaric both fears and hates trolls: he
+> wants revenge on the troll who murdered his father some day.
+
+
+### Connections
 Why do parties of Adventurers come together? This is always an interesting question to answer
 when beginning a Legend campaign. Sometimes the Adventurers have a reason for being together
 - coming from the same clan, village or town; drinking in the same tavern when monsters
@@ -1164,14 +988,14 @@ significant history together, before play begins. This is where the Connections 
 Adventurer Creation and it involves at least two players and their Adventurers.
 
 
-Alaric’s Tale
-Two other Adventurers are being created alongside Alaric: Lilina and Thrace. All are from the same
-cultural background and from the same clan, living in the Gloamwood. The three players agree that
-Lilina and Thrace were all with Alaric when the troll attacked and murdered his father and gave
-Alaric the scar across his leg. The three of them have sworn an oath to find and kill the troll some day.
-
-As this forms a connection with two other Adventurers, Alaric receives +10% to any two skills. He
-decides to improve Spear and Shield and Survival.
+> Alaric's Tale
+> Two other Adventurers are being created alongside Alaric: Lilina and Thrace. All are from the same
+> cultural background and from the same clan, living in the Gloamwood. The three players agree that
+> Lilina and Thrace were all with Alaric when the troll attacked and murdered his father and gave
+> Alaric the scar across his leg. The three of them have sworn an oath to find and kill the troll some day.
+> 
+> As this forms a connection with two other Adventurers, Alaric receives +10% to any two skills. He
+> decides to improve Spear and Shield and Survival.
 
 
 If both players agree, then any Background Event can involve another suitable Adventurer. Only
@@ -1180,162 +1004,129 @@ a +10% bonus to any skill, Common, Advanced, Combat or Magical, gained so far. A
 may gain a maximum of two such bonuses from this rule and each connection must be with a
 different Adventurer.
 
-                                                                                                          29
+##### Background Events Table
 
-      Background Events Table
-1D100     Event
-01        Accidentally injured or killed a childhood friend.
-02        Afflicted by visions of a God or Goddess.
-03        Afflicted by visions of the future.
-04        Amnesia. No memory of life before age of 18. Unsure if current family is real or
-     bogus.
-05-06     Attacked or chased by a creature or monster - harbour a deep fear of the creatures
-     as a result.
-07-08     Battle - Adventurer witnessed a great battle or other conflict.
-09        Birth Mark. Adventurer has a prominent and unusual birth-mark that has been
-     mistaken for the holy sign of a particular god.
-10        Blind. Adventurer either born blind or struck by blindness later. Other senses have
-     compensated.
-11        Body Double. The Adventurer is either a very close likeness or almost identical
-     double of someone famous (or infamous).
-12        Born under a significant conjunction of the stars and thus marked for greatness.
-13-15     Brother or Sister died or killed.
-16-18     Bullied viciously by one or more youths.
-19-20     Childhood sweetheart - Adventurer was once married to childhood sweetheart.
-21-22     Childhood sweetheart lost - Adventurer’s childhood sweetheart married a friend or
-     rival.
-23        Deaf. Adventurer either born deaf or struck by deafness later. Other senses have
-     compensated.
-24        Destitution - the Adventurer’s family fell into destitution.
-25        Disappearance. A family member disappeared 1D10 years ago and Adventurer is
-     on a quest to find them.
-26        Discovery - Adventurer discovered, by accident, some long-lost lore, formula or
-     piece of knowledge that various agencies are now hunting.
-27-29     Disease or Plague - Adventurer suffered disease or grave illness as a child.
-30        Family Secret - the Adventurer’s family harbours a great secret.
-31        Family Treasure - the Adventurer’s family are the custodians of a great treasure.
-32-35     Father died or killed.
-36        Feud and Romance. Adventurer’s family has a long-standing feud with religious/
-     trade/political rivals. Adventurer has fallen in love with son/daughter of the rival
-     family/organisation - something which must be kept secret.
-37        Feud. Adventurer’s family has a long-standing feud with religious/trade/political
-     rivals that has recently turned to bloodshed.
-38        Foundling - Adventurer was abandoned by birth parents and brought up by
-     adoptive guardians.
-
-
-
-
-30
-
-         1D100 Event
-39-40   Fraud - The Adventurer has been part of a fraud or scam: or the victim of one.
-41      Fugitive - Adventurer gave secret help to a known fugitive.
-42      Gender Change - Adventurer was once a member of the opposite sex but changed
-     to current gender through a curse or powerful magic.
-43      Identity change - The Adventurer has adopted a new identity for some reason.
-44      Inadvertent Comments. Something the Adventurer did or said resulted in a fight,
-     battle or war. The remark or action was innocent but the repercussions tragic.
-45-46   Inheritance or Legacy Denied. Adventurer has been cheated out of a huge legacy
-     left by a parent or relative.
-47-48   Inheritance or Legacy. Adventurer is set to inherit a huge legacy from a parent or
-     relative.
-49      Kidnapped and/or indentured by a powerful sorcerer who needed an apprentice.
-50      Kidnapped or press-ganged into military service.
-51      Last Will. Adventurer is on a quest to fulfil the dying wish of a relative or loved
-     one.
-52      Local Coward. Well-known in local community for a particularly unheroic deed.
-53-54   Local Hero. Well-known in local community for a particularly heroic deed.
-55-56   Major Wound - Adventurer suffered a major wound as a child that leaves a
-     permanent scar or other sign of injury.
-57      Merchant Dynasty. Adventurer is born into a powerful mercantile family or
-     dynasty.
-58      Met a great hero at a time when he or she was relatively unknown.
-59      Met a villain at a time when he or she was relatively unknown.
-60      Mistaken Identity - Case of mistaken identity resulted in a period of
-     imprisonment or some other punishment.
-61-63   Mother died or killed.
-64      Mute. Adventurer either born mute or struck mute later. Fluent sign language
-     communicator.
-65      Orphaned. The Adventurer lost both parents either through illness, an accident or
-     some other tragedy.
-66-67   Ostracised from family.
-68      Penance. Adventurer is undergoing penance for some insult or slight committed
-     against someone in power or authority.
-69      Personal Treasure - Found a great treasure and hid it for safekeeping.
-70      Physical deformity of a random location. No ill effects, as Adventurer has learned
-     to adapt.
-71-72   Pioneers. Family moved to a new country as settlers, refugees or pioneers.
+| 1D100   | Event |
+|---------|-------|
+| 01      | Accidentally injured or killed a childhood friend. |
+| 02      | Afflicted by visions of a God or Goddess. |
+| 03      | Afflicted by visions of the future. |
+| 04      | Amnesia. No memory of life before age of 18. Unsure if current family is real or bogus. |
+| 05-06   | Attacked or chased by a creature or monster - harbour a deep fear of the creatures as a result. |
+| 07-08   | Battle - Adventurer witnessed a great battle or other conflict. |
+| 09      | Birth Mark. Adventurer has a prominent and unusual birth-mark that has been mistaken for the holy sign of a particular god. |
+| 10      | Blind. Adventurer either born blind or struck by blindness later. Other senses have compensated. |
+| 11      | Body Double. The Adventurer is either a very close likeness or almost identical double of someone famous (or infamous). |
+| 12      | Born under a significant conjunction of the stars and thus marked for greatness. |
+| 13-15   | Brother or Sister died or killed. |
+| 16-18   | Bullied viciously by one or more youths. |
+| 19-20   | Childhood sweetheart - Adventurer was once married to childhood sweetheart. |
+| 21-22   | Childhood sweetheart lost - Adventurer's childhood sweetheart married a friend or rival. |
+| 23      | Deaf. Adventurer either born deaf or struck by deafness later. Other senses have compensated. |
+| 24      | Destitution - the Adventurer's family fell into destitution. |
+| 25      | Disappearance. A family member disappeared 1D10 years ago and Adventurer is on a quest to find them. |
+| 26      | Discovery - Adventurer discovered, by accident, some long-lost lore, formula or piece of knowledge that various agencies are now hunting. |
+| 27-29   | Disease or Plague - Adventurer suffered disease or grave illness as a child. |
+| 30      | Family Secret - the Adventurer's family harbours a great secret. |
+| 31      | Family Treasure - the Adventurer's family are the custodians of a great treasure. |
+| 32-35   | Father died or killed. |
+| 36      | Feud and Romance. Adventurer's family has a long-standing feud with religious/trade/political rivals. Adventurer has fallen in love with son/daughter of the rival family/organisation - something which must be kept secret. |
+| 37      | Feud. Adventurer's family has a long-standing feud with religious/trade/political rivals that has recently turned to bloodshed. |
+| 38      | Foundling - Adventurer was abandoned by birth parents and brought up by adoptive guardians. |
+| 39-40   | Fraud - The Adventurer has been part of a fraud or scam: or the victim of one. |
+| 41      | Fugitive - Adventurer gave secret help to a known fugitive. |
+| 42      | Gender Change - Adventurer was once a member of the opposite sex but changed to current gender through a curse or powerful magic. |
+| 43      | Identity change - The Adventurer has adopted a new identity for some reason. |
+| 44      | Inadvertent Comments. Something the Adventurer did or said resulted in a fight, battle or war. The remark or action was innocent but the repercussions tragic. |
+| 45-46   | Inheritance or Legacy Denied. Adventurer has been cheated out of a huge legacy left by a parent or relative. |
+| 47-48   | Inheritance or Legacy. Adventurer is set to inherit a huge legacy from a parent or relative. |
+| 49      | Kidnapped and/or indentured by a powerful sorcerer who needed an apprentice. |
+| 50      | Kidnapped or press-ganged into military service. |
+| 51      | Last Will. Adventurer is on a quest to fulfil the dying wish of a relative or loved one. |
+| 52      | Local Coward. Well-known in local community for a particularly unheroic deed. |
+| 53-54   | Local Hero. Well-known in local community for a particularly heroic deed. |
+| 55-56   | Major Wound - Adventurer suffered a major wound as a child that leaves a permanent scar or other sign of injury. |
+| 57      | Merchant Dynasty. Adventurer is born into a powerful mercantile family or dynasty. |
+| 58      | Met a great hero at a time when he or she was relatively unknown. |
+| 59      | Met a villain at a time when he or she was relatively unknown. |
+| 60      | Mistaken Identity - Case of mistaken identity resulted in a period of imprisonment or some other punishment. |
+| 61-63   | Mother died or killed. |
+| 64      | Mute. Adventurer either born mute or struck mute later. Fluent sign language communicator. |
+| 65      | Orphaned. The Adventurer lost both parents either through illness, an accident or some other tragedy. |
+| 66-67   | Ostracised from family. |
+| 68      | Penance. Adventurer is undergoing penance for some insult or slight committed against someone in power or authority. |
+| 69      | Personal Treasure - Found a great treasure and hid it for safekeeping. |
+| 70      | Physical deformity of a random location. No ill effects, as Adventurer has learned to adapt. |
+| 71-72   | Pioneers. Family moved to a new country as settlers, refugees or pioneers. |
+| 73      | Political Family. One parent is a high-ranking political official. |
+| 74      | Prosperity - The Adventurer rises from destitution to great wealth. |
+| 75      | Raised by a cult or monastic Order. |
+| 76      | Raised by a Guild or Military Order. |
+| 77      | Raised by distant relatives. |
+| 78      | Raised by inhumans (trolls, for example, or dwarves). |
+| 79      | Ran away to sea or to join a travelling troupe. |
+| 80      | Religious Family. One parent is a high-ranking religious official. |
+| 81      | Sect or Cult. Discovered that family is part of a secret sect or cult and disagrees with their views. Trying to escape both family and those who hunt them. |
+| 82      | Shipwrecked or stranded as a youth and lived alone for several years before rescued or found. |
+| 83      | Sidekick. Somehow the Adventurer has picked up a loyal companion or retainer. This does not make the companion a welcome presence, necessarily, but the relationship has somehow endured over the years. |
+| 84      | Slavery. Spent childhood and young adulthood as a slave before escaping or being freed. |
+| 85      | Sole Survivor - Family wiped out by some tragedy. |
+| 86      | Sole survivor of a tragedy that wiped out the Adventurer's entire settlement/ community. |
+| 87-88   | Squire - Adventurer indentured as a vassal or squire to a famous knight or warrior. |
+| 89-90   | Twin. Adventurer has a twin brother. |
+| 91-92   | Twin. Adventurer has a twin sister. |
+| 93      | Visited by ghosts or spirits. |
+| 94-95   | Well-travelled. The Adventurer either singly or with family/friends, has travelled widely. |
+| 96      | Wicked Step-Parent. One parent died and the other remarried. The step-parent is cold, calculating and brutal towards the Adventurer. A typical evil step-parent. |
+| 97-98   | Roll again and take both events. |
+| 99-00   | Roll twice more and take all events. |
 
 
-
-
-                                                                                           31
-
-       1D100 Event
-73        Political Family. One parent is a high-ranking political official.
-74        Prosperity - The Adventurer rises from destitution to great wealth.
-75        Raised by a cult or monastic Order.
-76        Raised by a Guild or Military Order.
-77        Raised by distant relatives.
-78        Raised by inhumans (trolls, for example, or dwarves).
-79        Ran away to sea or to join a travelling troupe.
-80        Religious Family. One parent is a high-ranking religious official.
-81        Sect or Cult. Discovered that family is part of a secret sect or cult and disagrees
-     with their views. Trying to escape both family and those who hunt them.
-82        Shipwrecked or stranded as a youth and lived alone for several years before rescued
-     or found.
-83        Sidekick. Somehow the Adventurer has picked up a loyal companion or retainer.
-     This does not make the companion a welcome presence, necessarily, but the
-     relationship has somehow endured over the years.
-84        Slavery. Spent childhood and young adulthood as a slave before escaping or being
-     freed.
-85        Sole Survivor - Family wiped out by some tragedy.
-86        Sole survivor of a tragedy that wiped out the Adventurer’s entire settlement/
-     community.
-87-88     Squire - Adventurer indentured as a vassal or squire to a famous knight or warrior.
-89-90     Twin. Adventurer has a twin brother.
-91-92     Twin. Adventurer has a twin sister.
-93        Visited by ghosts or spirits.
-94-95     Well-travelled. The Adventurer either singly or with family/friends, has travelled
-     widely.
-96        Wicked Step-Parent. One parent died and the other remarried. The step-parent is
-     cold, calculating and brutal towards the Adventurer. A typical evil step-parent.
-97-98     Roll again and take both events.
-99-00     Roll twice more and take all events.
-
-
-
-
-32
-
-         Players are encouraged to explore and embellish upon a rolled event. For example, how could
-two different Adventurers both have a connection through the ‘Mute’ event? In this case, one
-Adventurer might act as the other’s interpreter, the two having grown up together and developed
+Players are encouraged to explore and embellish upon a rolled event. For example, how could
+two different Adventurers both have a connection through the 'Mute' event? In this case, one
+Adventurer might act as the other's interpreter, the two having grown up together and developed
 a form of sign language known only to them.
 
 
-Final Stages
+## Final Stages
 Adventurer Creation is nearly complete. All that remains is to name the Adventurer, if this has
 not already been done, determine what, if any, starting magic is available to him and buy the
-Adventurer’s beginning equipment using the money determined by Cultural Background.
+Adventurer's beginning equipment using the money determined by Cultural Background.
 
-
-Names
+### Names
 Legend is a fantasy game and so names reflecting ancient cultures, popular fantasy fiction, TV
 and movies are more appropriate than contemporary names. The Cultural Background and
 Profession can be of help in naming an Adventurer; a civilised craftsman for example, might be
 Urwin the Potter; or a barbarian warrior might be Harrick Swiftaxe, son of Hendrick Redbeard.
-Give some thought to the Adventurer’s name - it will be important!
+Give some thought to the Adventurer's name - it will be important!
 
-
-Hero Points
+### Hero Points
 Adventurers begin with 2 Hero Points.
 
+### Equipment
+The Equipment chapter has an extensive list of items Adventurers can purchase but all
+Adventurers are assumed to begin the game with the following:
 
-Magic
+* Clothes they wear and a set of spares.
+* Some personal mementoes, good-luck charms, talismans or similar.
+* A week's worth of food, either fresh or preserved.
+* One weapon relevant to their weapon skills and culture.
+
+If the Adventurer is a Noble by Profession then he also has one of the following:
+
+* A set of armour with a maximum protection of 1D6 Armour Points.
+* An additional weapon that is considered an heirloom.
+* A mount appropriate to the culture (horse, camel, mule and so forth).
+* A flask of very good wine.
+* A piece of flashy-looking jewellery worth 1D6 x100 Silver Pieces.
+* A set of very fine and expensive spare clothes suitable for a ball or banquet.
+
+Note down the Size, Reach, Damage, attack skill, AP and HP of any weapons the Adventurer
+possesses. Also note down Unarmed Combat damage (1D3).
+
+### Magic
 There are several different types of magic available to Legend Adventurers and the types available
-from the start of play depend on the Cultural Background, the Adventurer’s Profession and
+from the start of play depend on the Cultural Background, the Adventurer's Profession and
 the availability of magic in the setting. Is magic commonplace, with every Adventurer having a
 smattering of spells learned as part of growing up, or is magic rare and strange, and only those
 Adventurers who studied under some arcane tutor possess spells?
@@ -1345,9 +1136,9 @@ game depend on his Cultural Background. In such games every Adventurer begins wi
 to spend on Common Magic spells, as described in the Common Magic chapter. The following
 limits apply to all Adventurers:
 
-*	   1 point is equal to 1 point of Magnitude (thus Bladesharp 2 would cost 2 points)
-*	   No spell can exceed Magnitude 3
-*	   Spells must be chosen from the Cultural Background Magic table
+* 1 point is equal to 1 point of Magnitude (thus Bladesharp 2 would cost 2 points)
+* No spell can exceed Magnitude 3
+* Spells must be chosen from the Cultural Background Magic table
 
 Thus, Alaric could begin with up to six Magnitude 1 spells, three Magnitude 2 spells or two
 Magnitude 3 spells.
@@ -1356,238 +1147,83 @@ The skills used for Divine Magic and Sorcery, and the way each works, are detail
 appropriate magical chapter and the Skills chapter
 
 
+##### Cultural Background Magic
+
+| All Cultures    | Barbarian         | Civilised        | Nomad           | Primitive |
+|-----------------|-------------------|------------------|-----------------|-----------|
+| Bandit's Cloak, | Armoursmith's     | Abacus,          | Bestial         | Bestial   |
+| Bearing         | Boon,             | Armoursmith's    | Enhancement,    | Enhancement, |
+| Witness,        | Bestial           | Boon,            | Clear Path,     | Clear Path, |
+| Becalm,         | Enhancement,      | Babel,           | Darkwall,       | Darkwall, |
+| Befuddle,       | Clear Path,       | Countermagic,    | Demoralise,     | Endurance, |
+| Bladesharp,     | Darkwall,         | Demoralise,      | Endurance,      | Fanaticism, |
+| Bludgeon,       | Demoralise,       | Dragon's Breath, | Fanaticism,     | Frostbite, |
+| Cauterise,      | Dragon's Breath,  | Entertainer's    | Frostbite,      | Thunder's Voice |
+| Chill,          | Endurance,        | Smile,           | Thunder's Voice |           |
+| Co-ordination,  | Fanaticism,       | Glamour,         |                 |           |
+| Detect X,       | Frostbite,        | Golden Tongue,   |                 |           |
+| Disruption,     | Thunder's Voice   | Mason's Boon     |                 |           |
+| Dullblade,      |                   | Repair,          |                 |           |
+| Extinguish,     |                   | Understanding    |                 |           |
+| Fate,           |                   |                  |                 |           |
+| Firearrow,      |                   |                  |                 |           |
+| Heal,           |                   |                  |                 |           |
+| Ignite,         |                   |                  |                 |           |
+| Light,          |                   |                  |                 |           |
+| Lucky,          |                   |                  |                 |           |
+| Mindspeech,     |                   |                  |                 |           |
+| Mobility,       |                   |                  |                 |           |
+| Multimissile,   |                   |                  |                 |           |
+| Parry,          |                   |                  |                 |           |
+| Pierce,         |                   |                  |                 |           |
+| Protection,     |                   |                  |                 |           |
+| Push/Pull,      |                   |                  |                 |           |
+| Second Sight,   |                   |                  |                 |           |
+| Slow,           |                   |                  |                 |           |
+| Speedart,       |                   |                  |                 |           |
+| Strength,       |                   |                  |                 |           |
+| Spirit Bane,    |                   |                  |                 |           |
+| Vigour,         |                   |                  |                 |           |
+| Warmth,         |                   |                  |                 |           |
+| Water Breath    |                   |                  |                 |           |
 
 
-                                                                                                  33
-
-      Cultural Background Magic
-All Cultures      Barbarian           Civilised          Nomad             Primitive
-Bandit’s Cloak,   Armoursmith’s       Abacus,            Bestial           Bestial
-Bearing           Boon,               Armoursmith’s      Enhancement,      Enhancement,
-Witness,          Bestial             Boon,              Clear Path,       Clear Path,
-Becalm,           Enhancement,        Babel,             Darkwall,         Darkwall,
-Befuddle,         Clear Path,         Countermagic,      Demoralise,       Endurance,
-Bladesharp,       Darkwall,           Demoralise,        Endurance,        Fanaticism,
-Bludgeon,         Demoralise,         Dragon’s Breath,   Fanaticism,       Frostbite,
-Cauterise,        Dragon’s Breath,    Entertainer’s      Frostbite,        Thunder’s Voice
-Chill,            Endurance,          Smile,             Thunder’s Voice
-Co-ordination,    Fanaticism,         Glamour,
-Detect X,         Frostbite,          Golden Tongue,
-Disruption,       Thunder’s Voice     Mason’s Boon
-Dullblade,                            Repair,
-Extinguish,                           Understanding
-Fate,
-Firearrow,
-Heal,
-Ignite,
-Light,
-Lucky,
-Mindspeech,
-Mobility,
-Multimissile,
-Parry,
-Pierce,
-Protection,
-Push/Pull,
-Second Sight,
-Slow,
-Speedart,
-Strength,
-Spirit Bane,
-Vigour,
-Warmth,
-Water Breath
-
-
-
-Magic Using Characters
+### Magic Using Characters
 Various professions - Sorcerer, Priest, Shaman and Witch - begin the game with additional
 magic to Common Magic, as noted in the Magic column. The skills in this column reflect the
 higher types of magic these Professions use, such as Sorcery in the case of the Sorcerer.
 
 Usually access to these forms of higher magic are granted through cult membership, as discussed
 in the Cults chapter. Players choosing these Professions may therefore be considered Pious
-Members of a divine cult or sorcery order, appropriate to the Adventurer’s background.
+Members of a divine cult or sorcery order, appropriate to the Adventurer's background.
 
-
-
-
-34
-
-         Equipment
-The Equipment chapter has an extensive list of items Adventurers can purchase but all
-Adventurers are assumed to begin the game with the following:
-
-*	   Clothes they wear and a set of spares.
-*	   Some personal mementoes, good-luck charms, talismans or similar.
-*	   A week’s worth of food, either fresh or preserved.
-*	   One weapon relevant to their weapon skills and culture.
-
-If the Adventurer is a Noble by Profession then he also has one of the following:
-
-*	   A set of armour with a maximum protection of 1D6 Armour Points.
-*	   An additional weapon that is considered an heirloom.
-*	   A mount appropriate to the culture (horse, camel, mule and so forth).
-*	   A flask of very good wine.
-*	   A piece of flashy-looking jewellery worth 1D6 x100 Silver Pieces.
-*	   A set of very fine and expensive spare clothes suitable for a ball or banquet.
-
-Note down the Size, Reach, Damage, attack skill, AP and HP of any weapons the Adventurer
-possesses. Also note down Unarmed Combat damage (1D3).
-
-
-
-Priests and Shamen: Gain Divine spells appropriate to their cult as defined in the Divine Magic
+**Priests and Shamen**: Gain Divine spells appropriate to their cult as defined in the Divine Magic
 chapter and based on how much POW is dedicated to the Pact with the god.
 
-Sorcerers and Witches: Gain a Grimoire appropriate to their cult. If a pre-defined cult is being
+**Sorcerers and Witches**: Gain a Grimoire appropriate to their cult. If a pre-defined cult is being
 used then the spells contained in the Grimoire will be already determined. If a Grimoire needs
 to be developed from scratch, it will contain up to four Sorcery spells appropriate to the sorcery
-order’s nature and teachings.
+order's nature and teachings.
 
 Greater detail on these types of magic is found in the respective magic chapters.
 
 
-
-Alaric’s Tale
-Alaric is nearly complete. All that is left to do is decide his Common Magic. Alaric has 6 points
-to spend on Common Magic spells. He can only choose spells common to all cultures and those
-from the Barbarian column of the Cultural Background Magic table.
-
-Alaric chooses Bladesharp 2 (meaning he can cast it at Magnitude 2), Thunder’s Voice (Magnitude 1),
-Heal 2 (Magnitude 2) and Vigour (Magnitude 1).
-
-He casts all four of these spells at his Common Magic skill of 34%.
-
-Equipment he will decide upon later but all the essential components for Alaric are in place. His
-completed Adventurer sheet is shown overleaf.
-
+> Alaric's Tale
+> Alaric is nearly complete. All that is left to do is decide his Common Magic. Alaric has 6 points
+> to spend on Common Magic spells. He can only choose spells common to all cultures and those
+> from the Barbarian column of the Cultural Background Magic table.
+> 
+> Alaric chooses Bladesharp 2 (meaning he can cast it at Magnitude 2), Thunder's Voice (Magnitude 1),
+> Heal 2 (Magnitude 2) and Vigour (Magnitude 1).
+> 
+> He casts all four of these spells at his Common Magic skill of 34%.
+> 
+> Equipment he will decide upon later but all the essential components for Alaric are in place. His
+> completed Adventurer sheet is shown overleaf.
 
 
 
-                                                                                                   35
-
-                                                          player               Gareth
-LEGEND                                                 character             Alaric
-
-race     Human           age 20                                                                      HERO POINTS
-homeland   The Gloomwood gender Male
-culture Barbarian        family Mother, 2
-profession Warrior       brothers & 2 sisters
-                                                                                             ARMOUR TYPES
-CHARACTERISTICS & ATTRIBUTES                                                       19-20: Head
-                                                                             AP / HP
-                                                                            0/5             Hard leather
-                   combat actions
-STR         12                        3                         10-12:Chest                         Jerkin
-                                                         AP / HP
-                  damage modifier
-CON 7                                                               2/7
-                         + 1d2                                        16-18: L.Arm
-               improvement modifier            13-15: R.Arm             AP / HP               armour penalty:   -1
-SIZ         14                        0                  AP / HP
-                                                           7-9: Abdomen 0/4
-                         movement                0/4          AP / HP
-                                                                                                GRIMOIRES
-INT         16                       8 m                                    2/6
-                  dedicated POW                                                            Common Magic Spells
-POW 14                                0                       1-3: R.Leg
-                                                       AP / HP
-                     magic points                                          4-6: L.Leg
-DEX         13                                                0/5                   AP / HP        Bladesharp 2
-                             14                                            0/5
-                      strike rank                                                          Thunder's Voice 1
-CHA         10                       15                                                            Heal 2
-                                                                                           Vigour 1
-COMMON SKILLS                               ADVANCED & MAGICAL SKILLS
-Skill             Basic Percentage      %     Advanced Skill  Basic Percentage       %
-Athletics         STR+DEX              50     Common Magic POW+CHA                    34           Divine Magic Spells
-Brawn             STR+SIZ              31     Language (own) INT x2                   76
-Culture (Own)     INT x2               62     Lore (The Thunderer)     INT x2         52
-                                                                                           (Magnitude 2)
-Dance             DEX+CHA              23     Lore (Tactics)    INT x2                32
-Drive             DEX+POW              27     Survival         POW+CON                 31
-Evade
-Evaluate
-          DEX x2
-          INT+CHA
-                               46                                                          Crash of Thunder,
-                               26     Pact (The Thunderer)                       14
-First Aid
-Influence
-          INT+DEX
-          CHA x2
-                               49                                                          Lightning Strike,
-                               20
-Insight           INT+POW              55                                                          Bless (Spear &
-Lore (Regional)   INT x2
-                               62
-Perception        INT+POW              55                                                          Shield)
-Persistence       POW x2               43
-Resilience        CON x2               39
-                                             COMBAT STYLES
-Ride              DEX+POW              32
-Sing              CHA+POW              24    Combat Style       Basic Percentage    %
-Sleight           DEX+CHA              23    Spear & Shield     STR+DEX                 80
-Stealth           DEX+INT              34    Dagger             STR+DEX                 45
-Swim              STR+CON              19    Sling               DEX x2                 61
-Unarmed           STR+DEX              25
-
-WEAPONS
-Weapon                   Size        Reach   Damage            AP     HP      Combat Manoeuvres      Range   Load       ENC
-Short Spear                  M         L      1 d8 + 1          4      5         Impale                                       2
-Dagger                      S          S      1 d4 + 1         6        8        Bleed, Impale
-Heater (Shield)              L        S        1 d4            6       12                                                 2
-Sling                      L                    1 d8           1       2           Stun Location      200m     1
-
-                                                       player        Gareth
-LEGEND                                              character     Alaric
-
-FATIGUE                                                                          DISEASES,
-                                                                                 POISONS
-Level                Skills Effect        Movement    Strike Rank    CA
-                                                                                 &HEALTH
-Fresh                -
-Winded               -10% to all skills
-Tired                -20% to all skills   -1m
-Weary                -30% to all skills   -1m         -2
-Exhausted            -40% to all skills   Halved      -4             -1
-Debilitated          -50% to all skills   Halved      -6             -2
-
-
-
-EQUIPMENT                                                          MONEY, WEALTH & POSSESSION
-Equipment                                 Enc
-
-
-
-
-                                                              CONTACTS, FRIENDS & ENEMIES
-
-                                                       Marius (Clan Chief),
-                                                       Selena (Marius’s daughter and
-                                                       secret love), Thrace, Lilina &
-                                                       Owain - rival for Selena
-
-                                                                         NOTES
-
-
-
-
- CULTS
-
-Cult Name:   The Thunderer                              Specific Duties:
-
-Rank:     Initiate
-                                                    Gifts/Compulsions:
-Dedicated POW:       4
-Pact      14%                                            Lightning Strike, Bless (Spear
-                                                    Divine Spells:
-Lore      52 %                                              & Shield), Shield, Channel
-Cult Skills:   Spear fighting, Lore (The Thunderer), Evade,                    Strength
-           Perception and Common Magic
-
-                                                                                skills
+# Skills
 Characteristics and Attributes define an Adventurer in terms of what he is - how strong, how fast,
 how much damage he deals with a well-aimed blow and so on. Skills define what an Adventurer
 can actually do. Ranging from how well an Adventurer can sneak past a guard and how well he
@@ -1596,7 +1232,7 @@ specific tasks. The Adventurer Creation process has already introduced Common an
 skills; this chapter explores how skills, in general, work and how each skill works specifically.
 
 
-Skill Tests
+## Skill Tests
 All skills have a starting value based on the sum of two Characteristics or a single Characteristic
 multiplied. Cultural Background, Profession and Free Skill Points raise the value of these
 skills. There is no upper limit to a skill; it can rise over 100% and even higher, indicating truly
@@ -1604,22 +1240,22 @@ superhuman capabilities. How skills increase is detailed in Adventurer Advanceme
 on page 68.
 
 When an Adventurer is called on to roll against a skill, he uses 1D100 and is attempting to roll
-equal to, or less than, his skill’s value. Achieving this means the skill is used successfully; if the
-1D100 roll is above the skill’s value, then the attempt has failed.
+equal to, or less than, his skill's value. Achieving this means the skill is used successfully; if the
+1D100 roll is above the skill's value, then the attempt has failed.
 
 
-Levels of Success and Failure
+### Levels of Success and Failure
 Whether or not an Adventurer succeeds or fails is important in Legend but it is also very
 important to see how well he succeeded or failed. For this reason levels of success are crucial to
 the game. The levels of success are (from best to worst):
 
-*	   Critical Success
-*	   Success (sometimes referred to as a Normal Success)
-*	   Failure
-*	   Fumble
+* Critical Success
+* Success (sometimes referred to as a Normal Success)
+* Failure
+* Fumble
 
 
-When and When Not to Roll
+### When and When Not to Roll
 Routine activities; those an Adventurer conducts time and again, under normal circumstances
 and expected pressures, do not require a roll for success. For example, riding a horse at a trot or
 gentle gallop across an open field, on a fine day, does not need a Ride test. Similarly a blacksmith
@@ -1631,9 +1267,7 @@ degree of stress, urgency or difficulty to the situation. Riding a horse at a ga
 field whilst being pursued by bandits is an instance where a Ride roll is called for. Attempting to
 make horseshoes with poor quality implements or a Skill Tests of resources is another.
 
-38
-
-         The watchword is circumstance. The Games Master is the best judge as to whether the conditions
+The watchword is circumstance. The Games Master is the best judge as to whether the conditions
 and circumstances warrant a Skill Test. An Adventurer might not need to make a Perception test
 to hear a neighbouring conversation if the surroundings are relatively quiet. However, if there is
 a degree of background noise it will be necessary to roll to overhear accurately. If the people the
@@ -1641,31 +1275,33 @@ Adventurer is eavesdropping on are whispering, then the Skill Test should incur 
 circumstances, as outlined in Difficult and Haste.
 
 
-Difficulty and Haste
+### Difficulty and Haste
 Sometimes it will be necessary to make a Skill Test because success or failure needs to be
 measured but the circumstances in which the skill is being used need to be taken into account.
 Circumstances can make a skill easier or harder to accomplish. For example, running up a
-steep hill to out-pace a murderous troll requires an Athletics Skill Test but the hill’s gradient
-means that the circumstances are harder than normal: the skill’s value is therefore modified to
+steep hill to out-pace a murderous troll requires an Athletics Skill Test but the hill's gradient
+means that the circumstances are harder than normal: the skill's value is therefore modified to
 reflect this. Conversely hiding from a troll in a dark wood as night sets in, requires a Stealth
-Skill Test but the darkness makes hiding easier and so the skill’s value is modified accordingly.
+Skill Test but the darkness makes hiding easier and so the skill's value is modified accordingly.
 Similarly the amount of time invested in using a skill can have a bearing on its outcome.
-Rushing a job leads to errors whereas paying attention to detail and taking one’s time improves
+Rushing a job leads to errors whereas paying attention to detail and taking one's time improves
 the chance of success.
 
 Circumstances are graded in the Difficulty and Haste Modifiers table. These modifiers are
-applied temporarily to the skill’s value until the circumstances change.
+applied temporarily to the skill's value until the circumstances change.
 
-Difficulty and Haste Modifiers
-Difficulty              Time Taken                            Skill Test Modifier
-Very Easy               Ten times normal time                 +60%
-Easy                    Five times normal time                +40%
-Simple                  Double normal time                    +20%
-Routine                 Normal time                           +0%
-Difficult               —                                     -20%
-Hard                    Half normal time                      -40%
-Very Hard               —                                     -60%
-Formidable              Almost instantly                      -80%
+##### Difficulty and Haste Modifiers
+
+| Difficulty            | Time Taken                          | Skill Test Modifier |
+|-----------------------|-------------------------------------|---------------------|
+| Very Easy             | Ten times normal time               | +60%                |
+| Easy                  | Five times normal time              | +40%                |
+| Simple                | Double normal time                  | +20%                |
+| Routine               | Normal time                         | +0%                 |
+| Difficult             | -                                   | -20%                |
+| Hard                  | Half normal time                    | -40%                |
+| Very Hard             | -                                   | -60%                |
+| Formidable            | Almost instantly                    | -80%                |
 
 The Difficulty Examples table on page 40 lists a few examples of Skill Tests that may occur
 in a Legend game, which skills would be used and what difficulty should be assigned to
@@ -1673,49 +1309,44 @@ them. Games Masters can use this table as a reference when creating their own Sk
 for the Adventurers.
 
 
-Rolling in Secret
+### Rolling in Secret
 It is a great deal of fun rolling dice and seeing the outcome. Yet there are going to be
 occasions where the game is better served by the Games Master making the dice roll on
 behalf of the Adventurers and in secret, only revealing the result through game-play. For
-example, an Adventurer might be attempting to disguise himself to gain access to a thieves’
+example, an Adventurer might be attempting to disguise himself to gain access to a thieves'
 guild. The Adventurer is not aware of how convincing the disguise attempt has been until
 it is put into practical use, infiltrating the guild headquarters. If the Disguise Skill Test is
 made secretly by the Games Master then it becomes easier to build an air of suspense and
-tension as the Adventurer makes his attempts to bypass the guild’s members as he wanders
+tension as the Adventurer makes his attempts to bypass the guild's members as he wanders
 into the guild buildings.
 
 
-                                                                                                   39
+##### Difficulty Examples
 
-      Difficulty Examples
-Situation                                                    Skill Used        Difficulty
-Climbing a cliff face near a large waterfall.                Athletics         Difficult (-20%)
-Travelling by rowboat across a stormy sea.                   Boating           Very Hard (-60%)
-Accurately steering a rowboat in a swift-flowing but         Boating           Simple (+20%)
-broad river.
-Recalling which plants are edible in farmland.               Lore (Regional) Easy (+40%)
-Recalling which plants are edible in an uncharted            Lore (Plant)    Difficult (-20%)
-jungle.
-Spotting a shiny gold coin on the floor in a well-lit and    Perception        Simple (+20%)
-uncluttered room.
-Finding a gold coin in a large refuse dump.                  Perception        Hard (-40%)
-Finding food and water in a bleak desert.                    Survival          Hard (-40%)
-Finding food and water in a forest.                          Survival          Simple (+20%)
-Locating tracks in the snow.                                 Tracking          Very Easy (+60%)
-Locating tracks on a busy city street.                       Tracking          Hard (-40%)
-Fixing a complicated lock of foreign design, with            Mechanisms        Formidable
-nothing more than a knife, while being shot at by                              (-80%)
-archers.
+| Situation                                                                                                     | Skill Used      | Difficulty |
+|---------------------------------------------------------------------------------------------------------------|-----------------|------------|
+| Climbing a cliff face near a large waterfall.                                                                 | Athletics       | Difficult (-20%) |
+| Travelling by rowboat across a stormy sea.                                                                    | Boating         | Very Hard (-60%) |
+| Accurately steering a rowboat in a swift-flowing but broad river.                                             | Boating         | Simple (+20%) |
+| Recalling which plants are edible in farmland.                                                                | Lore (Regional) | Easy (+40%) |
+| Recalling which plants are edible in an uncharted jungle.                                                     | Lore (Plant)    |ifficult (-20%) |
+| Spotting a shiny gold coin on the floor in a well-lit and uncluttered room.                                   | Perception      | Simple (+20%) |
+| Finding a gold coin in a large refuse dump.                                                                   | Perception      | Hard (-40%) |
+| Finding food and water in a bleak desert.                                                                     | Survival        | Hard (-40%) |
+| Finding food and water in a forest.                                                                           | Survival        | Simple (+20%) |
+| Locating tracks in the snow.                                                                                  | Tracking        | Very Easy (+60%) |
+| Locating tracks on a busy city street.                                                                        | Tracking        | Hard (-40%) |
+| Fixing a complicated lock of foreign design, with nothing more than a knife, while being shot at by archers.  | Mechanisms      | Formidable (-80%) |
 
 
 Not all tests should be made secretly by the Games Master. The best times to use secret rolls are
 in the following conditions:
 
-*	    The Adventurer using the skill would have little or no way of knowing how successful
-     his skill attempt has been until it is put to a practical test.
-*	    The skill’s outcome is not immediate.
-*	    Revealing the outcome of the Skill Test incrementally will create a better sense of
-     tension.
+* The Adventurer using the skill would have little or no way of knowing how successful
+  his skill attempt has been until it is put to a practical test.
+* The skill's outcome is not immediate.
+* Revealing the outcome of the Skill Test incrementally will create a better sense of
+  tension.
 
 Games Master dice rolls are, like all game tools, there to increase the enjoyment of the game for
 all, not to remove fun and enjoyment from the players. Used with discretion and at times where
@@ -1723,7 +1354,7 @@ the outcome may not be immediate, certain or clear-cut, it can be a great way of
 drama to a situation.
 
 
-Critical Success
+## Critical Success
 For many Skill Tests it is only necessary to determine whether one is successful or not. However,
 there may be certain cases where it is important to know how successful an Adventurer was - did
 he just skim by or did he achieve an incredible feat? This is determined by critical successes.
@@ -1732,22 +1363,19 @@ A roll of 01 is always a critical success.
 
 If the Skill Test is equal to or less than 10% of the modified skill (rounded up), then the
 Adventurer has scored a critical success. Note that the chance of a critical success relates to the
-modified skill total being used in the test, not the original ‘normal’ skill level. If an Adventurer
-is suffering a penalty to the Skill Test, it will reduce the Adventurer’s chance of scoring a critical
-success. Likewise if an Adventurer has a bonus to the Skill Test, it will increase the Adventurer’s
+modified skill total being used in the test, not the original 'normal' skill level. If an Adventurer
+is suffering a penalty to the Skill Test, it will reduce the Adventurer's chance of scoring a critical
+success. Likewise if an Adventurer has a bonus to the Skill Test, it will increase the Adventurer's
 critical success chance.
 
-
-40
-
-         The actual result of a critical success varies from skill-to-skill and the skill descriptions note the
+The actual result of a critical success varies from skill-to-skill and the skill descriptions note the
 effects for a critical success. However Games Masters are quite at liberty to apply additional
 results to fit the circumstances; for example:
 
-*	   The task is completed sooner.
-*	   The task is completed to a higher degree of expertise than normal.
-*	   The task is completed with élan and style, generally impressing witnesses.
-*	   The Adventurer gains additional information or insight into the task thanks to their
+* The task is completed sooner.
+* The task is completed to a higher degree of expertise than normal.
+* The task is completed with élan and style, generally impressing witnesses.
+* The Adventurer gains additional information or insight into the task thanks to their
   brilliance.
 
 If a critical success is achieved while crafting jewellery, for instance, the Games Master may
@@ -1755,11 +1383,11 @@ decide that the finished article is of unusually high quality or that the item w
 than usual.
 
 
-Fumbles
+## Fumbles
 If one can succeed critically, one can also fail critically: a situation known as a fumble. A fumble
 occurs when:
 
-*	   The modified skill being used is less than 100%, the result is 99 or 00.The modified skill
+* The modified skill being used is less than 100%, the result is 99 or 00.The modified skill
   being used is equal to, or more than 100%, 00 is rolled.
 
 Very highly skilled Adventurers, or those in circumstances that make using a skill easier, fail less
@@ -1773,30 +1401,25 @@ The precise effects of a fumble depend on the skill and the skill descriptions o
 what effects a fumbling Adventurer experiences. However, as a rule, fumbles normally result in
 one of the following mishaps:
 
-*	   The task takes twice as long to finish and is still a failure.
-*	   The task produces a useless result that actually makes further actions more difficult.
-*	   The task is failed spectacularly, opening the Adventurer up to derision and scorn from
-  witnesses.
-*	   The Adventurer becomes impeded or even harmed by his failure.
+* The task takes twice as long to finish and is still a failure.
+* The task produces a useless result that actually makes further actions more difficult.
+* The task is failed spectacularly, opening the Adventurer up to derision and scorn from witnesses.
+* The Adventurer becomes impeded or even harmed by his failure.
 
-For Example, Alaric is using his Dance skill to impress Selena, the chieftain’s daughter. Rolling 99
-when making his Dance skill roll, Alaric trips, stumbles and crashes into the musicians. The gathered
-clan hoots and jeers in derision and Selena’s father, Marius, glares angrily at the red-faced Alaric,
-upset that such a prize klutz would attempt such a complicated ritual dance in the first place. Alaric’s
-chances of impressing Selena have evaporated and, with it, he has angered her father…
-
-Later, Alaric’s rival for Selena’s affections, Owain, attempts the same dance intending to capitalise
-on Alaric’s spectacular failure. Owain’s Dance skill is 92% but the Games Master decides to apply a
-+10% bonus reflecting the fact that the crowd is behind Owain’s attempt following Alaric’s fumble.
-Owain is therefore rolling against a modified skill of 102%. The dice roll is 00 - Owain also fumbles!
-The Games Master explains that Owain, swaggering around the great hall, fails to spot a spilled mug
-
-
-                                                                                                        41
-
-      of mead, slips on it and executes a stumble every bit as bad as Alaric’s. At the high table Marius shakes
-his head sadly and Selena, trying to remain calm as the arrogant Owain climbs to his feet, winks a
-smile at Alaric. Alaric’s heart soars.
+> For Example, Alaric is using his Dance skill to impress Selena, the chieftain's daughter. Rolling 99
+> when making his Dance skill roll, Alaric trips, stumbles and crashes into the musicians. The gathered
+> clan hoots and jeers in derision and Selena's father, Marius, glares angrily at the red-faced Alaric,
+> upset that such a prize klutz would attempt such a complicated ritual dance in the first place. Alaric's
+> chances of impressing Selena have evaporated and, with it, he has angered her father...
+> 
+> Later, Alaric's rival for Selena's affections, Owain, attempts the same dance intending to capitalise
+> on Alaric's spectacular failure. Owain's Dance skill is 92% but the Games Master decides to apply a
+> +10% bonus reflecting the fact that the crowd is behind Owain's attempt following Alaric's fumble.
+> Owain is therefore rolling against a modified skill of 102%. The dice roll is 00 - Owain also fumbles!
+> The Games Master explains that Owain, swaggering around the great hall, fails to spot a spilled mug
+> of mead, slips on it and executes a stumble every bit as bad as Alaric's. At the high table Marius shakes
+> his head sadly and Selena, trying to remain calm as the arrogant Owain climbs to his feet, winks a
+> smile at Alaric. Alaric's heart soars.
 
 Weapon Skill Tests are as vulnerable to fumbles as any other test. A fumbled roll on a Bow Skill
 Test could result in a snapped bowstring, whilst fumbling a melee weapon attack test could mean
@@ -1804,21 +1427,21 @@ the weapon has been clumsily broken. The Combat chapter provides more detailed g
 combat fumble results.
 
 
-Automatic Success and Failure
+### Automatic Success and Failure
 Whenever an Adventurer attempts to use a skill, there is always a chance he will succeed or fail,
 regardless of the level of his skill. Even a master swordsman with a sword skill of 190% can have
 a rock slip under his foot or have the sun hit his eyes at just the wrong moment. Likewise, the
 most unfit Adventurer might be able to climb a cliff in a lashing rainstorm at night, even if the
 modifiers would reduce his Athletics skill to below 0%.
 
-*	   Any test result of 01 to 05 is an automatic success.
-*	   Any test result of 96 to 00 is an automatic failure.
+* Any test result of 01 to 05 is an automatic success.
+* Any test result of 96 to 00 is an automatic failure.
 
 Note that the automatic success and failure rules do not apply if the Games Master has ruled that
 no test is required or possible.
 
 
-Defaulting from an Advanced Skill
+## Defaulting from an Advanced Skill
 Note that while everyone has some facility with Common skills, Advanced skills are generally
 only possessed by specialists. Nevertheless, there will be times when an untrained Adventurer
 attempts to use an Advanced skill, even though they do not possess it.
@@ -1832,62 +1455,44 @@ substitute Common skill. However, such substituted Skill Tests normally suffer a
 penalty, often more.
 
 
-Levels of Skill
+## Levels of Skill
 What is considered routine for an Adventurer with a skill of 60% may well be considered difficult
 for an Adventurer with only 25% in the same skill. So, the value of the skill forms one of the
 circumstances to take into consideration. The following table gathers skill values into a range of
 Competencies along with some guidance on what constitutes a routine task.
 
 
-Augmenting Skills with Other Skills
+### Augmenting Skills with Other Skills
 There are occasions where one skill can help with another. For example, a merchant trying to
 get a good price on a rare vase might want to use his Lore (Pottery) skill to help his Influence
 or Commerce skill and thus get a good deal. In such situations it is permissible to allow the
 secondary skill to provide a bonus equal to its critical score to the primary skill. Thus, in the
 previous example, the merchant has Influence at 70% and Lore (Eastern Pottery) at 63%. The
-critical score for Lore (Eastern Pottery) is 7% making the merchant’s Influence 77% in total.
+critical score for Lore (Eastern Pottery) is 7% making the merchant's Influence 77% in total.
 
-42
+##### Skill Competencies Table
 
-         Skill Competencies Table
-Skill Range Competency       Description
-01-25       Novice           Basic techniques and principles are usually completed without
-                          the need for a Skill Test, if enough time is available and necessary
-                          equipment is at hand. Advanced techniques require a Skill Test
-                          and may suffer a penalty depending on the nature of the task.
-26-50           Competent    All basic and some advanced techniques are possible without
-                          a Skill Test if enough time is available and the necessary
-                          equipment is at hand. Some advanced techniques require a Skill
-                          Test and may suffer a penalty depending on the nature of the
-                          task.
-51-75           Professional Advanced tasks can be tackled even in the absence of one or two
-                          components necessary for success but, again, at a penalty.
-76-100          Expert       Almost all techniques are known and can be undertaken
-                          with confidence even when the right components have been
-                          compromised.
-101-125         Master       The Adventurer is supremely confident in their execution of the
-                          skill and can readily improvise or resolve problems easily using
-                          effective shortcuts.
-126+            Grand Master At this level the Adventurer is an absolute virtuoso of the skill
-                          and able to tackle, with confidence, any problem involving the
-                          skill’s use. The duration taken for most tasks can be halved,
-                          if necessary (although a Grand Master knows that time and
-                          patience are always key).
-
+| Skill Range 01-25 | Competency Novice | Description Basic techniques and principles are usually completed without the need for a Skill Test, if enough time is available and necessary equipment is at hand. Advanced techniques require a Skill Test and may suffer a penalty depending on the nature of the task. |
+|-------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 26-50 | Competent | All basic and some advanced techniques are possible without a Skill Test if enough time is available and the necessary equipment is at hand. Some advanced techniques require a Skill Test and may suffer a penalty depending on the nature of the task. |
+| 51-75 | Professional | Advanced tasks can be tackled even in the absence of one or two components necessary for success but, again, at a penalty. |
+| 76-100 | Expert | Almost all techniques are known and can be undertaken with confidence even when the right components have been compromised. |
+| 101-125 | Master | The Adventurer is supremely confident in their execution of the skill and can readily improvise or resolve problems easily using effective shortcuts. |
+| 126+ | Grand Master | At this level the Adventurer is an absolute virtuoso of the skill and able to tackle, with confidence, any problem involving the skill's use. The duration taken for most tasks can be halved, if necessary (although a Grand Master knows that time and patience are always key). |
 
 Only one skill at a time can be used to boost another skill and the skills must be complementary
 to each other for the given situation. The Games Master should also stipulate when an
 augmentation like this can be applied; it is never an automatic right.
 
 
-Group Tests
+## Group Tests
 In essence, this is a time-saving device for the Games Master. With a group test, the Games
 Master may make a single percentile roll to determine the success of a group of individuals all
 performing the same task, rather than rolling dozens or hundreds of individual die rolls. There
 are two kinds of group tests: team tests and sorting tests.
 
 
-Team Tests
+### Team Tests
 In a team test, success is cooperative; everyone reaps the benefit from a single success. If a squad
 of temple guards are all trying to search for an intruder in a crypt, then any successful Perception
 test will reveal him to all of them. If each guard rolls a Perception test, not only will things take
@@ -1896,14 +1501,13 @@ Master rolls once for the highest skill in the team (the highest Perception skil
 guards, for example) and if the roll is a success, everybody succeeds. If the roll is a failure,
 everybody fails.
 
-The Games Master may also use a ‘reverse team test’ in a situation where one failure can spell
+The Games Master may also use a 'reverse team test' in a situation where one failure can spell
 disaster. For example, if a gang of hunters are attempting to sneak up on a deer, any failed Stealth
 test will startle the quarry. In this case, the hunter with the lowest Stealth skill rolls a Stealth test.
 If he succeeds, everyone succeeds. If the roll is a failure, everybody fails.
 
-                                                                                                          43
 
-      Sorting Tests
+### Sorting Tests
 In a sorting test, success is individual. For example, a group of bandits are attempting to outrun
 the local constabulary, which calls for opposed Athletics tests. Some of the bandits have an
 Athletics skill of 40%, some of 50% and some of 60%. The Games Master rolls a group test for
@@ -1917,48 +1521,45 @@ the test, the longer it will take (and the more it will break up the flow of the
 separately for each.
 
 
-Large Groups and Percentile Success
+### Large Groups and Percentile Success
 From time-to-time, the Games Master may need to determine the success of a large group of people
 performing the same task, in a situation in which there is no room for error. In this case, he may
 simply take the skill or Characteristic being employed and use that as the percentage of success.
 
-For Example: A group of 100 brigands is attempting to swim across a fast-flowing river a scant
-distance upstream from a 200 metre waterfall, an activity which calls for an Athletics Skill Test.
-Because of the speed of the current and the nearby waterfall, a failed Skill Test for an individual will
-result in their being swept away by the current. Rather than rolling 100 Skill Tests, or rolling only one
-to determine whether all 100 brigands made it across, the Games Master may simply take the Athletics
-skill as the percentage of success. If the Games Master rules that all the brigands have an Athletics skill
-of 75, then 75 of them will make it to the other side of the river. The remaining 25 will be swept away
-over the falls, presumably wondering why none of them had the presence of mind to find a safer place
-to cross the river.
+> For Example: A group of 100 brigands is attempting to swim across a fast-flowing river a scant
+> distance upstream from a 200 metre waterfall, an activity which calls for an Athletics Skill Test.
+> Because of the speed of the current and the nearby waterfall, a failed Skill Test for an individual will
+> result in their being swept away by the current. Rather than rolling 100 Skill Tests, or rolling only one
+> to determine whether all 100 brigands made it across, the Games Master may simply take the Athletics
+> skill as the percentage of success. If the Games Master rules that all the brigands have an Athletics skill
+> of 75, then 75 of them will make it to the other side of the river. The remaining 25 will be swept away
+> over the falls, presumably wondering why none of them had the presence of mind to find a safer place
+> to cross the river.
 
 
-Assistance
+### Assistance
 Adventurers often have the opportunity to help one another during various tests. The Games
 Master is the final judge as to which tests can be helped with assistance and which require an
 Adventurer to make the test alone. For instance, if an Adventurer is attempting to lift a huge log
 out of a road, then clearly several others can help him in the Athletics test required. However, an
 Adventurer trying to break down a barred door may jam up the doorway too much for anyone
-else’s shoulder to fit. An Adventurer trying to recall the details of the local history of his own
+else's shoulder to fit. An Adventurer trying to recall the details of the local history of his own
 village cannot have strangers help him but several sages can piece together the history of the
 kingdom from their own memories.
 
-Every assisting Adventurer adds his critical score to the primary Adventurer’s skill. Remember to
-apply any relative modifiers to the assisting Adventurer’s skill before determining the critical score.
+Every assisting Adventurer adds his critical score to the primary Adventurer's skill. Remember to
+apply any relative modifiers to the assisting Adventurer's skill before determining the critical score.
 
 The Games Master is the final arbiter of how many Adventurers may assist in any given test and
 how many attempts may be made in what period of time.
 
 
-Opposed Skills
+## Opposed Skills
 An opposed Skill Test occurs when one skill is actively resisted by another. For example a thief
 attempts to sneak past a wily palace guard who, being vigilant, is on the look-out for potential
 crooks.
 
-
-44
-
-         In an opposed test both participants roll their respective skills. The winner of the test is the
+In an opposed test both participants roll their respective skills. The winner of the test is the
 one who gains the higher level of success; if both participants have the same level of success,
 then the winner is the one with the higher dice roll within his skill range. (In the extremely
 unlikely situation that both Adventurers have exactly the same dice result and the same Level
@@ -1968,52 +1569,50 @@ determine the winner!)
 If both fail then a stalemate has occurred, forcing the opposed test to be rolled again at a later
 point.
 
-For example: The cunning thief is attempting to sneak past the vigilant palace guard. The thief uses
-his Stealth skill, which is at 75%. The guard is opposing with his Perception skill of 60%. Dice are
-rolled. The thief rolls 71% and the guard rolls 59%. Both have succeeded but the thief has the higher
-roll within his skill range and sneaks past. Conversely, if the guard has rolled 59% and the thief had
-rolled 54%, again, both have succeeded but the guard has the higher roll and so spots the thief as he
-emerges from the shadows.
+> For example: The cunning thief is attempting to sneak past the vigilant palace guard. The thief uses
+> his Stealth skill, which is at 75%. The guard is opposing with his Perception skill of 60%. Dice are
+> rolled. The thief rolls 71% and the guard rolls 59%. Both have succeeded but the thief has the higher
+> roll within his skill range and sneaks past. Conversely, if the guard has rolled 59% and the thief had
+> rolled 54%, again, both have succeeded but the guard has the higher roll and so spots the thief as he
+> emerges from the shadows.
 
 If both had failed then other circumstances would have intervened. In the previous example, for
 instance, a chambermaid might have entered the courtyard distracting the guard but interrupting
 the thief. Once she has passed, the opposed test can be attempted again.
 
-Example: Alaric and Owain are engaged in a race. This calls for Athletics opposed skills. Alaric’s
-Athletics is 35% and Owain’s is 95%. The dice are rolled and Owain scores 94 - a very good roll since
-it is a high roll and less than his skill percentage. Alaric’s roll is 02 - a critical success and this beats
-Owain’s standard success. Alaric’s lucky burst of speed clearly overwhelmed Owain’s energy-conserving
-pace. Had Alaric rolled between 05 and 24, Owain would have won because whilst both Adventurers
-succeed, Owain’s is the higher roll whilst still being a normal success.
+> Example: Alaric and Owain are engaged in a race. This calls for Athletics opposed skills. Alaric's
+> Athletics is 35% and Owain's is 95%. The dice are rolled and Owain scores 94 - a very good roll since
+> it is a high roll and less than his skill percentage. Alaric's roll is 02 - a critical success and this beats
+> Owain's standard success. Alaric's lucky burst of speed clearly overwhelmed Owain's energy-conserving
+> pace. Had Alaric rolled between 05 and 24, Owain would have won because whilst both Adventurers
+> succeed, Owain's is the higher roll whilst still being a normal success.
 
 Opposed Skill Tests are extremely useful for many situations where the skills of one party need
 to be weighed directly against the skills of another.
 
-*	   Bargaining (Adventurers match Commerce and Commerce, or Commerce and Influence)
-*	   Evading detection (Adventurer matches Stealth against the opponent’s Perception)
-*	   Persuading (Adventurer matches Influence against Persistence)
-*	   Pursuits (participants match Athletics skills, or Evade against Athletics)
-*	   Withstanding torture (Adventurer matches Resilience against Lore (Torture))
-*	   Hiding or palming an object (Sleight against Perception)
+* Bargaining (Adventurers match Commerce and Commerce, or Commerce and Influence)
+* Evading detection (Adventurer matches Stealth against the opponent's Perception)
+* Persuading (Adventurer matches Influence against Persistence)
+* Pursuits (participants match Athletics skills, or Evade against Athletics)
+* Withstanding torture (Adventurer matches Resilience against Lore (Torture))
+* Hiding or palming an object (Sleight against Perception)
 
 
-Opposed Skills Over 100%
+### Opposed Skills Over 100%
 During opposed tests, whichever participant has the highest mastered skill subtracts 100% from
 it and uses the remainder as a penalty to everyone in the contest. Thus the most skilled participant
 has a skill of 100% and everyone else is less than this. This has the benefit of introducing an
 increased chance of failure for the lesser skilled opponents in the contest; thus improving the
 chance of a better victory level.
 
-For example, Mikhail the mercenary possesses a Stealth skill of 120%. Since he is the most experienced
-character he reduces all his opponents’ Perception skills by 20% and he himself is lowered to 100%.
+> For example, Mikhail the mercenary possesses a Stealth skill of 120%. Since he is the most experienced
+> character he reduces all his opponents' Perception skills by 20% and he himself is lowered to 100%.
 
 The identification of who has the highest skill must be calculated after any other modifiers for
 circumstances have been applied.
 
 
-                                                                                                             45
-
-      Using Non-Combat Skills in Combat
+### Using Non-Combat Skills in Combat
 The Skill Use Combat Action allows Adventurers to use their skills in combat situations whenever
 they deem it appropriate. For example, an Adventurer may be desperately trying to open a locked
 door to escape an oncoming enemy who is currently fighting his comrades.
@@ -2033,14 +1632,14 @@ Normally, an interruption to the skill user will result in either a penalty to t
 test automatically failing.
 
 
-Common Skill Descriptions
+## Common Skill Descriptions
 Every Adventurer has access to all the Common skills during Adventurer Creation. These skills
 detail the most common actions every person in the world can succeed in to one degree or
 another. Each skill is derived from a combination of two Characteristics or a single Characteristic
 multiplied.
 
 
-Athletics (STR+DEX)
+### Athletics (STR+DEX)
 This broad skill covers a range of athletic activities useful to Adventurers, including climbing,
 jumping and running.
 
@@ -2053,21 +1652,14 @@ Climbing: Given enough hand and footholds, the right equipment and enough time, 
 Adventurer can climb any surface without the need for a test. Under normal circumstances, an
 Adventurer can climb or descend one quarter of his Movement as a Combat Action.
 
-*	   Climbing a rough surface (trees, steep hills and so on): The Armour Penalty is subtracted
-from three quarters of the base Movement (6 metres per Combat Action for human
-Adventurers). If the result is zero or less, they are too burdened by their armour to climb.
-Thus, our hero in his plate armour cannot climb as his Climbing Movement is 6-9 = -3.
-
-*	   Climbing a sheer surface (walls, cliff faces and so on): The Armour Penalty is subtracted
-from the base Movement divided by two. As with climbing a rough surface, if the result is
-zero or less, the Adventurer cannot climb.
-
-
-
-
-46
-
-         *	   Tests should be made for treacherous surfaces (such as sheer cliffs or wet surfaces) and if an
+* Climbing a rough surface (trees, steep hills and so on): The Armour Penalty is subtracted
+  from three quarters of the base Movement (6 metres per Combat Action for human
+  Adventurers). If the result is zero or less, they are too burdened by their armour to climb.
+  Thus, our hero in his plate armour cannot climb as his Climbing Movement is 6-9 = -3.
+* Climbing a sheer surface (walls, cliff faces and so on): The Armour Penalty is subtracted
+  from the base Movement divided by two. As with climbing a rough surface, if the result is
+  zero or less, the Adventurer cannot climb.
+* Tests should be made for treacherous surfaces (such as sheer cliffs or wet surfaces) and if an
   Adventurer is trying to increase the rate of his ascent or descent. An Adventurer can double
   the rate of his modified Movement by taking a -20% penalty on his Athletics test.
 
@@ -2078,16 +1670,14 @@ has the skill) to attempt to reduce the falling damage.
 
 Jumping: In general, a successful Athletics test allows an Adventurer to jump up to twice his own
 height horizontally or up to half his own height vertically, if he has at least five metres to run first.
-If he is making a standing jump, these distances are halved. Leaps of over half an Adventurer’s
+If he is making a standing jump, these distances are halved. Leaps of over half an Adventurer's
 maximum distance result in him falling prone on landing.
 
-*	   If armoured, reduce the distance in metres the Adventurer can jump by the Armour Penalty
+* If armoured, reduce the distance in metres the Adventurer can jump by the Armour Penalty
   divided by two.
-
-*	   For every full 20% he possesses in this skill, the Adventurer may add an extra metre to a
+* For every full 20% he possesses in this skill, the Adventurer may add an extra metre to a
   horizontal jump, or 20 centimetres to a vertical jump, if he has space to perform a run up.
-
-*	   For a critical success the Adventurer adds a further metre to his total distance and remains
+* For a critical success the Adventurer adds a further metre to his total distance and remains
   upright on landing.
 
 A fumbled Jump roll indicates the Adventurer has landed awkwardly. He must immediately
@@ -2098,13 +1688,13 @@ Throwing: Athletics is also used for throwing items and is used to judge the acc
 Adventurer when throwing improvised objects, from small stones to bar stools. Weapons that are
 thrown use their own specific skill, such as Spear for javelins.
 
-A thrown object has a maximum range of one metre for every point the Adventurer’s STR
-exceeds the object’s ENC. The Athletics roll measures the Adventurer’s accuracy during the
+A thrown object has a maximum range of one metre for every point the Adventurer's STR
+exceeds the object's ENC. The Athletics roll measures the Adventurer's accuracy during the
 throw and the Games Master may choose to treat this as a Ranged Combat attack, as described
 on page 140, if the situation warrants it.
 
 
-Brawn (STR+SIZ)
+### Brawn (STR+SIZ)
 Brawn is used where physical force (pushing, pulling and lifting) needs to be implemented;
 forcing a jammed door, for instance, or pulling a cart free of a rut in the road.
 
@@ -2120,10 +1710,8 @@ roll or sustain 1D3 points of damage to the Chest Hit Location (armour does not 
 this damage).
 
 
-                                                                                                         47
-
-      Common Magic (POW+CHA)
-This skill relates to the magic commonly used by the Adventurer’s community and to which he will
+### Common Magic (POW+CHA)
+This skill relates to the magic commonly used by the Adventurer's community and to which he will
 have had daily exposure whilst growing up, becoming familiar with a variety of spells and magical
 effects that are used in the daily tasks of his society. The spells of Common Magic are described in
 the Common Magic chapter and cover a wide variety of different effects, situations and scenarios.
@@ -2131,17 +1719,17 @@ the Common Magic chapter and cover a wide variety of different effects, situatio
 If a Common Magic roll is a critical success, then the spell costs 1 less Magic Point (to a minimum
 of 1) to cast.
 
-If the roll fumbles, then the Adventurer expends all the Magic Points for the spell’s Magnitude
+If the roll fumbles, then the Adventurer expends all the Magic Points for the spell's Magnitude
 but the spell still fails.
 
 
-Culture (Own) (INT x2)
+### Culture (Own) (INT x2)
 The Culture skill is actually several separate skills, each dealing with a specific culture. The
-Culture skill is distinct from Lore and Language skills, as it represents a person’s understanding
+Culture skill is distinct from Lore and Language skills, as it represents a person's understanding
 of, and ability to heed, the behaviours, habits, customs and everyday rituals of a specific cultural
 group. For example, someone making a successful test in Culture (Nomads of the Wastes)
 understands that it is considered good manners to remove all head-gear and footwear whenever
-entering a person’s tent; or knows that it is considered polite to pass the bread from left to right
+entering a person's tent; or knows that it is considered polite to pass the bread from left to right
 at a Waste-Nomad feast, whilst the fermented milk is always passed from right to left.
 
 A critical success grants the Adventurer a unique understanding or insight into the workings of
@@ -2158,10 +1746,10 @@ Culture (Specific Culture) can also be learned as an Advanced skill when the Adv
 a different culture to his own.
 
 
-Dance (DEX+CHA)
+### Dance (DEX+CHA)
 An Adventurer with this skill is accomplished at moving gracefully in time with music or other
 rhythm, using standardised and often intricate steps and movements. A successful test with
-Dance results in the audience or partner being pleased by the Adventurer’s performance.
+Dance results in the audience or partner being pleased by the Adventurer's performance.
 
 On a critical success the dance is expressive, fluid and deeply affecting for all who witness it.
 Music is accompanied by perfect movement and emotion. The dance is as persuasive as any
@@ -2175,32 +1763,30 @@ music in any shape or form. Any skills resting on communication and personal cre
 suffer a penalty at the discretssion of the Games Master.
 
 
-48
-
-         Drive (DEX+POW)
+### Drive (DEX+POW)
 If an Adventurer is driving a wagon, chariot or similar vehicle at not more than a walking pace
 across flat terrain, a Drive roll is not required. Rolls are needed when an Adventurer wants to
 do something out of the ordinary with a vehicle - traverse treacherous terrain, jump obstacles
 and so on.
 
-A critical result either increases the vehicle’s movement by half again, if the skill is being used
+A critical result either increases the vehicle's movement by half again, if the skill is being used
 in a straightforward manner. If being used to perform a special manoeuvre, such as evading an
-enemy, a critical success allows half the Adventurer’s normal Drive skill to be used as a negative
+enemy, a critical success allows half the Adventurer's normal Drive skill to be used as a negative
 modifier against any applicable skills being used by pursuers for the rest of the Combat Round.
 
-For example: Vadrus the Charioteer is being pursued by the war chariot of his enemy, Kortek. Kortek
-is hurling javelins with abandon and Vadrus declares he’s going to try to wheel his horses in a bid to
-evade the javelins. The Games Master calls for a Drive Skill Test from Vadrus’s player. Vadrus’s Drive
-skill is 70% and the dice roll is 06. This means that a -35% penalty is now applied to Kortek’s attack
-rolls as Vadrus’s chariot weaves and swerves.
+> For example: Vadrus the Charioteer is being pursued by the war chariot of his enemy, Kortek. Kortek
+> is hurling javelins with abandon and Vadrus declares he's going to try to wheel his horses in a bid to
+> evade the javelins. The Games Master calls for a Drive Skill Test from Vadrus's player. Vadrus's Drive
+> skill is 70% and the dice roll is 06. This means that a -35% penalty is now applied to Kortek's attack
+> rolls as Vadrus's chariot weaves and swerves.
 
-A fumbled Drive roll indicates either a reduction in the vehicle’s speed by half or, if the vehicle
+A fumbled Drive roll indicates either a reduction in the vehicle's speed by half or, if the vehicle
 is trying to perform a special manoeuvre, it becomes unstable and overturns. If the vehicle
 overturns all occupants need to make a successful Athletics test to leap clear of the wreckage or
 sustain 1D6 points of damage to a random location as the vehicle crashes.
 
 
-Evade (DEX x 2)
+### Evade (DEX x 2)
 Evade is used to escape from impending danger and can be used against ranged weapons (by
 dodging or diving out of the way), avoiding traps (triggered, sprung or otherwise), changing
 the engagement distance in combat and generally getting out of the way of a potential physical
@@ -2211,13 +1797,13 @@ For most tasks such as dodging traps or spells, the skill is opposed by the dead
 the user to completely escape harm. On the other hand, if they lose they suffer the normal
 consequences.
 
-For example, Alaric, investigating a murky old burial mound of (perhaps) Jade Throne Kingdom
-origin comes across a sarcophagus. He tries to open it and triggers the dart trap set 500 years ago, by
-the sarcophagus’s designers. The trap-setter’s skill at the time was 65%; Alaric’s Evade is 46% - he
-must pit this against the trap in an opposed roll. Alaric scores 45 and the Games Master rolls 31. Both
-are successful but Alaric wins the contest with the higher roll. The trap is sprung as Alaric lifts the
-sarcophagus lid and a hail of darts whirr towards his face: Alaric, prepared for such an eventuality,
-ducks deftly to one side and the darts strike the wall behind.
+> For example, Alaric, investigating a murky old burial mound of (perhaps) Jade Throne Kingdom
+> origin comes across a sarcophagus. He tries to open it and triggers the dart trap set 500 years ago, by
+> the sarcophagus's designers. The trap-setter's skill at the time was 65%; Alaric's Evade is 46% - he
+> must pit this against the trap in an opposed roll. Alaric scores 45 and the Games Master rolls 31. Both
+> are successful but Alaric wins the contest with the higher roll. The trap is sprung as Alaric lifts the
+> sarcophagus lid and a hail of darts whirr towards his face: Alaric, prepared for such an eventuality,
+> ducks deftly to one side and the darts strike the wall behind.
 
 Since most quadruped or swimming creatures lack the Evade skill, they may substitute their
 Athletics skill for these situations instead. In a the same way, flying creatures can substitute their
@@ -2227,11 +1813,7 @@ If the Evade roll is fumbled, then the Adventurer has left himself open to the h
 its maximum damage.
 
 
-
-
-                                                                                                       49
-
-      Evaluate (INT+CHA)
+### Evaluate (INT+CHA)
 Every Adventurer places a sense of worth on valuables, trades or propositions. The Evaluate skill enables
 the Adventurer to determine the value placed on something by others, effectively guessing its market
 value. With the Evaluate skill, the Adventurer can try to determine the value of specific objects.
@@ -2240,21 +1822,21 @@ Particularly common or obscure objects might give a bonus or penalty to the test
 will allow an Adventurer to guess the average monetary value of the object (normally guessing
 accurately to within 10% of its actual value).
 
-For a critical success the Adventurer not only estimates the item’s value precisely, he also
-determines a secret or hitherto unknown fact about it that can be used to increase the item’s
+For a critical success the Adventurer not only estimates the item's value precisely, he also
+determines a secret or hitherto unknown fact about it that can be used to increase the item's
 value by half again.
 
-For example, examining a rare alabaster vase, Matvalk the Merchant scores a critical Evaluate and
-correctly values the vase at 500 SP. He also notices a minute signature on the base meaning that the
-vase came from the Shah of Ashan’s renowned slave potter, Gustubus. This means the vase is highly
-sought after and could be sold for up to 750 SP.
+> For example, examining a rare alabaster vase, Matvalk the Merchant scores a critical Evaluate and
+> correctly values the vase at 500 SP. He also notices a minute signature on the base meaning that the
+> vase came from the Shah of Ashan's renowned slave potter, Gustubus. This means the vase is highly
+> sought after and could be sold for up to 750 SP.
 
 If the Evaluate fumbles, not only does the Adventurer completely misjudge the value of the
 object, he devalues it by half again. Thus, if Matvalk in the previous example had fumbled his
 Evaluate roll, he would have valued the vase at only 250 SP.
 
 
-First Aid (DEX+INT)
+### First Aid (DEX+INT)
 Living in a dangerous world, most Adventurers are adept at First Aid to one degree or another.
 First Aid is always applied to a specific location. See the First Aid Actions table. An Adventurer
 may apply First Aid to himself, though there is usually at least a -10% penalty owing to the
@@ -2270,49 +1852,41 @@ The use of First Aid requires suitable medical equipment such as bandages or sal
 medical equipment (such as bandages made from strips of cloth hastily torn from a dirty tunic)
 will bestow a -20% penalty on the test.
 
-First Aid Actions
-Injury                 Treatment
-Impalement             A successful First Aid test removes the impaling item without causing
-                  more damage to the victim.
-Unconsciousness        A successful First Aid test can revive an Adventurer from unconsciousness,
-                  though drugged patients may inflict a penalty on the First Aid test.
-Injured location       A successful First Aid test on an injured location (but not one of 0 or less
-                  Hit Points) heals 1D3 Hit Points to that location.
-Serious Injury         A successful First Aid test on a location suffering from a Serious Injury
-                  heals one Hit Point to a location and restores it to functionality (in the case
-                  of a limb) or consciousness (in the case of the Abdomen, Chest or Head).
-Major Injury           A successful First Aid test on a location suffering from a Major Injury does
-                  not restore the location’s Hit Points. This First Aid merely stabilises the
-                  patient so that they will not die from the injury.
+##### First Aid Actions
 
-50
+| Injury Impalement | Treatment A successful First Aid test removes the impaling item without causing more damage to the victim. |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Unconsciousness | A successful First Aid test can revive an Adventurer from unconsciousness, though drugged patients may inflict a penalty on the First Aid test. |
+| Injured location | A successful First Aid test on an injured location (but not one of 0 or less Hit Points) heals 1D3 Hit Points to that location. |
+| Serious Injury | A successful First Aid test on a location suffering from a Serious Injury heals one Hit Point to a location and restores it to functionality (in the case of a limb) or consciousness (in the case of the Abdomen, Chest or Head). |
+| Major Injury | A successful First Aid test on a location suffering from a Major Injury does not restore the location's Hit Points. This First Aid merely stabilises the patient so that they will not die from the injury. |
 
-         A critical success in First Aid reduces the treatment time by half. If being used to treat an Injured
+A critical success in First Aid reduces the treatment time by half. If being used to treat an Injured
 location (see the First Aid Actions table), then 1D3+1 Hit Points are restored to the hurt location.
 
 A fumbled First Aid attempt causes more harm than good: the Hit Location being treated suffers
 a further 1 point of damage.
 
 
-Influence (CHA x 2)
+### Influence (CHA x 2)
 Adventurers skilled in Influence find it easy to persuade others to their way of thinking, whether
 they are trying to persuade a king to send armies to fight a distant enemy, bribe a guard or merely
 get a merchant to sell them something at a reduced price.
 
 Influence tests are normally opposed by the Perception, Persistence or Influence skill and are
-modified by how much an Adventurer is trying to change an opponent’s mind. For instance,
+modified by how much an Adventurer is trying to change an opponent's mind. For instance,
 getting a merchant to accept gems instead of coinage as payment is relatively easy, whilst trying
 to buy a sword for a 50% discount is not.
 
-For a critical success the Adventurer’s efforts are incredibly persuasive, so much so that not only
+For a critical success the Adventurer's efforts are incredibly persuasive, so much so that not only
 is the Adventurer successful in what he is trying to attain with his Influence skill but his next
 Influence test with the same person, no matter when it takes place, is at a bonus equal to the
-Adventurer’s CHA.
+Adventurer's CHA.
 
-For example, Matvalk the Merchant, having now determined the vase he is studying is worth 750
-SP tries to convince the seller that it is a worthless piece of tat. His Influence test is a critical success
-and Matvalk walks away with the vase for a trifling 200 SP. In his next Influence test with the same
-merchant, Matvalk’s Influence will be at a +14% bonus, for Matvalk’s CHA value.
+> For example, Matvalk the Merchant, having now determined the vase he is studying is worth 750
+> SP tries to convince the seller that it is a worthless piece of tat. His Influence test is a critical success
+> and Matvalk walks away with the vase for a trifling 200 SP. In his next Influence test with the same
+> merchant, Matvalk's Influence will be at a +14% bonus, for Matvalk's CHA value.
 
 A fumbled Influence roll indicates that not only does the Influence attempt fail; it also insults or
 offends the person being influenced. The reaction depends on the individual and the situation
@@ -2320,50 +1894,47 @@ but at the very least it means that all future Influence tests against the same 
 -40% penalty.
 
 
-Insight (INT+POW)
-Insight is the ability to read a person’s verbal and non-verbal behaviours and signals to determine
+### Insight (INT+POW)
+Insight is the ability to read a person's verbal and non-verbal behaviours and signals to determine
 their motives and state of mind. Insight is used to decide if someone is telling a lie, or to predict
 how someone feels about a particular situation. It is distinct from the Perception skill, since it is
 used to detect subtle expressions of character and attitude, rather than tangible effects that can
 be assessed through general observation alone.
 
-Sometimes it may be more effective for the Games Master to roll the outcome of an Adventurer’s
+Sometimes it may be more effective for the Games Master to roll the outcome of an Adventurer's
 Insight attempt, keeping the result of the roll secret and revealing information according to the
 degree of success (or failure) - as the results for a critical success or a fumble suggest.
 
 For a critical success the Adventurer gains the ability to second guess how the person under
 analysis will react to a given situation. The Games Master should offer private hints to the
-Adventurer regarding the person’s motivations and likely actions.
+Adventurer regarding the person's motivations and likely actions.
 
-For a fumble, the Adventurer completely misjudges the analysed person’s motives and actions.
+For a fumble, the Adventurer completely misjudges the analysed person's motives and actions.
 The Games Master should offer the Adventurer a series of private, deliberately misleading hints
-regarding the person’s motivations and likely actions.
+regarding the person's motivations and likely actions.
 
 
-                                                                                                             51
-
-      Alaric’s Tale
-Matvalk the merchant has come to Alaric’s village to sell his collection of rare pottery. Alaric is
-suspicious of the merchant’s intentions, sensing that Matvalk believes the barbarians of the village to
-be unsophisticated half-wits. The Games Master makes an Insight roll for Alaric, concealing the result
-from Alaric’s player: the result is 03 - a critical success against Alaric’s Insight 45%. Taking Alaric’s
-player to one side the Games Master tells him that Matvalk, whilst making a convincing and sincere
-pretence of being an honest trader has all the hallmarks of worshipping the Trickster god - never
-a good sign in a barbarian settlement. From now on Alaric will be on the look out for Matvalk’s
-cunning plans and schemes to make trouble. However, the Games Master does not tell Alaric’s player
-what the degree of success actually was for the Insight roll: Alaric will find this out for himself in the
-course of play but the Games Master will ensure that Alaric notices anything Matvalk does that reeks
-of Trickster worship.
+> Alaric's Tale
+> Matvalk the merchant has come to Alaric's village to sell his collection of rare pottery. Alaric is
+> suspicious of the merchant's intentions, sensing that Matvalk believes the barbarians of the village to
+> be unsophisticated half-wits. The Games Master makes an Insight roll for Alaric, concealing the result
+> from Alaric's player: the result is 03 - a critical success against Alaric's Insight 45%. Taking Alaric's
+> player to one side the Games Master tells him that Matvalk, whilst making a convincing and sincere
+> pretence of being an honest trader has all the hallmarks of worshipping the Trickster god - never
+> a good sign in a barbarian settlement. From now on Alaric will be on the look out for Matvalk's
+> cunning plans and schemes to make trouble. However, the Games Master does not tell Alaric's player
+> what the degree of success actually was for the Insight roll: Alaric will find this out for himself in the
+> course of play but the Games Master will ensure that Alaric notices anything Matvalk does that reeks
+> of Trickster worship.
 
 
-
-Lore (INT x 2)
+### Lore (INT x 2)
 The Lore skill is actually many different skills, each of which must be improved separately. Each
 Lore skill defines an area of knowledge for the Adventurer and tests are made whenever a player
 wants to see if his Adventurer knows something about the subject at hand. This effectively allows
 the player to ask the Games Master direct questions if the test is successful.
 
-Every Adventurer has, as a Common Skill, Lore (Regional). This is a measure of the Adventurer’s
+Every Adventurer has, as a Common Skill, Lore (Regional). This is a measure of the Adventurer's
 familiarity with the geography, flora and fauna of the area where he has grown up or spent the
 most significant amount of time prior to his adventuring career. Attempting to use this skill in
 unfamiliar circumstances will be at a disadvantage. For instance, an Adventurer raised in an arctic
@@ -2378,7 +1949,7 @@ In the case of Lore (Regional), for instance, this might mean mistaking a poison
 an edible one or placing the capital of a country 1,000 miles from its true position.
 
 
-Perception (INT+POW)
+### Perception (INT+POW)
 The Perception skill is used to represent the senses of the Adventurer when detecting objects or
 other persons. It covers listening for sounds, searching a room, hunting for a specific clue and so on.
 
@@ -2393,16 +1964,13 @@ the Adventurer is likely to face some threat, such as an attack, provides a bonu
 attacks of the opposing side when it launches its schemes.
 
 
-
-52
-
-         Persistence (POW x 2)
+### Persistence (POW x 2)
 Persistence is used whenever an Adventurer has his mental willpower called into question. This
 may be for anything as simple as concentrating on a task at hand amidst distraction, or it may be
 to resist the baleful effects of a mind-controlling spell.
 
 A critical success in resisting magic means that no further spells cast by the opponent have any
-affect on the Adventurer for a number of Combat Actions equal to the Adventurer’s current
+affect on the Adventurer for a number of Combat Actions equal to the Adventurer's current
 Magic Points.
 
 In the case of utilising willpower or mental fortitude, a critical Persistence roll enables the
@@ -2417,18 +1985,16 @@ under the pressure of the experience but becomes unable to conduct any other act
 minutes due to the sheer mental strain.
 
 
-Alaric’s Tale
-During a banquet the boastful Owain is clearly attempting to woo the dazzling Selena. Alaric,
-having consumed a few mugs of mead, watches the flirting with barely concealed jealousy. The Games
-Master calls for a Persistence roll, applying a -20% penalty for the mead Alaric has drunk. Alaric
-has Persistence 58% and rolls 52 - a failure with the penalty taken into account. Alaric can keep his
-jealousy under control no longer and decides to confront his rival.
+> Alaric's Tale
+> During a banquet the boastful Owain is clearly attempting to woo the dazzling Selena. Alaric,
+> having consumed a few mugs of mead, watches the flirting with barely concealed jealousy. The Games
+> Master calls for a Persistence roll, applying a -20% penalty for the mead Alaric has drunk. Alaric
+> has Persistence 58% and rolls 52 - a failure with the penalty taken into account. Alaric can keep his
+> jealousy under control no longer and decides to confront his rival.
 
 
-
-
-Resilience (CON x 2)
-Resilience is the physical counterpart to Persistence. The higher an Adventurer’s Resilience, the
+### Resilience (CON x 2)
+Resilience is the physical counterpart to Persistence. The higher an Adventurer's Resilience, the
 more likely he is to handle adverse physical conditions, such as weathering a vicious sandstorm,
 surviving in a drought or overcoming the effects of poison or disease. It is an important skill for
 assessing the reaction to injury, as outlined on page 11.
@@ -2439,29 +2005,25 @@ further Resistance rolls against that specific dose or infection.
 Fumbling when resisting means that the poison or disease has overwhelmed the Adventurer and
 that they automatically fail any further Resistance rolls against it.
 
-Persistence and Resilience as Skills
+#### Persistence and Resilience as Skills
 Whilst described as skills, both Persistence and Resilience are a combination of natural
 capability, personal fortitude and training to deal with situations involving mental and
 physical stress, including pain. All of us have untapped reserves of Persistence and Resilience;
-these skills measure the Adventurer’s ability to draw upon them to resist a variety of different
+these skills measure the Adventurer's ability to draw upon them to resist a variety of different
 pressures and conditions.
 
 
-
-
-                                                                                                    53
-
-      Optional Rule - Limits to Persistence and Resilience
+#### Optional Rule - Limits to Persistence and Resilience
 There are limits to mental and physical endurance; barriers beyond which the mind and body
 cannot be pushed and surrender becomes inevitable. To represent this, Games Masters may wish
 to rule in their campaign that Persistence cannot exceed the value of the POW Characteristic
 multiplied by 5 and Resilience cannot exceed the CON Characteristic multiplied by five. The
-starting values for each skill are both calculated as normal but they are now no longer ‘limitless’
+starting values for each skill are both calculated as normal but they are now no longer 'limitless'
 skills. Of course, their limits can be extended through the improvement of their respective
 Characteristic scores.
 
 
-Ride (DEX+POW)
+### Ride (DEX+POW)
 If an Adventurer is riding a creature (with the help of whatever riding equipment is common
 to his Cultural Background) at not more than a walking pace across flat terrain, a Riding test
 will never be required. Tests are required when an Adventurer wants to do something out of the
@@ -2470,31 +2032,31 @@ ordinary with a mount - traverse treacherous terrain, jump obstacles, ride bareb
 Riding an unfamiliar species is at least a Difficult (-20%) test; riding a species in a different
 medium (a horseman riding a dolphin or a griffin, for example) is at least a Hard (-40%) test.
 
-A critical Ride test allows the Adventurer to double the mount’s Movement for a number of
-Combat Rounds equal to the rider’s critical range for the Ride skill. Thus, an Adventurer with a
+A critical Ride test allows the Adventurer to double the mount's Movement for a number of
+Combat Rounds equal to the rider's critical range for the Ride skill. Thus, an Adventurer with a
 Ride skill of 50% would double the movement rate for five Combat Rounds.
 
 Fumbling a Ride test means the Adventurer must make an Athletics test to avoid losing control
 and being thrown from the mount (sustaining any falling damage as appropriate).
 
 
-Sing (POW+CHA)
+### Sing (POW+CHA)
 All Adventurers are gifted with the tools for singing (unless mute), unlike those who play other
 musical instruments. Few, however, develop the skill beyond their innate talent (or lack of ). A
 successful test with this skill results in the audience being pleased - or even pleasantly surprised
-- by the Adventurer’s performance.
+- by the Adventurer's performance.
 
 A critical Sing success can have one of several effects. If singing to earn money, increase by half
-again the amount earned due to the audience’s appreciation of the performance. If being used
-to impress someone, add the Sing’s critical score to the Adventurer’s Influence skill. Thus, an
+again the amount earned due to the audience's appreciation of the performance. If being used
+to impress someone, add the Sing's critical score to the Adventurer's Influence skill. Thus, an
 Adventurer with a Sing skill of 70% would add +7 to his Influence test.
 
 If fumbled, then the song was truly terrible; off-key, out of tune and poorly performed. Halve the
-earnings and the singer suffers a penalty to future Influence rolls at the Games Master’s discretion
+earnings and the singer suffers a penalty to future Influence rolls at the Games Master's discretion
 and the circumstances of the fumble.
 
 
-Sleight (DEX+CHA)
+### Sleight (DEX+CHA)
 This skill is used to hide or take objects, without drawing undue attention. It is usually opposed
 by a Perception test if trying to avoid getting caught.
 
@@ -2502,12 +2064,7 @@ The object being manipulated can be of any size but particularly small or large 
 bonuses or penalties to the test. For instance, hiding a dagger on a well-clothed person is relatively
 easy (+20%) but attempting to hide a war sword on the same person is far harder (-20%).
 
-
-
-
-54
-
-         If the Sleight attempt is being made whilst others are around, perhaps with some vigilance, then
+If the Sleight attempt is being made whilst others are around, perhaps with some vigilance, then
 the attempt is an opposed roll against the Perception of likely observers.
 
 On a critical success the Adventurer has concealed or palmed the object so successfully that any
@@ -2519,7 +2076,7 @@ of whoever is watching. If no one is actively watching for the deception, the so
 falling, or some other commotion immediately attracts their attention.
 
 
-Stealth (DEX+INT)
+### Stealth (DEX+INT)
 The Stealth skill is used whenever an Adventurer attempts to personally evade detection by
 another Adventurer. This usually happens when an Adventurer either tries to move quietly past
 an enemy, hide from one or perform a combination of both. Stealth tests are typically opposed
@@ -2530,11 +2087,11 @@ so on) are at a penalty plus the critical score of the Stealth skill.
 
 For a fumble the Adventurer stumbles and causes some form of commotion that immediately
 attracts the attention of anyone in the vicinity. Furthermore, if any other Adventurers are
-attempting a Stealth test in the fumbling Adventurer’s company, they suffer a penalty to future
-Stealth rolls at the Games Master’s discretion and the circumstances of the fumble.
+attempting a Stealth test in the fumbling Adventurer's company, they suffer a penalty to future
+Stealth rolls at the Games Master's discretion and the circumstances of the fumble.
 
 
-Swim (STR+CON)
+### Swim (STR+CON)
 Adventurers normally swim at half their usual Movement. Swim rolls are only required when
 conditions are less than ideal - swimming while heavily encumbered or in strong currents, for
 example. Failure of a Swim test while swimming will usually result in the Adventurer not moving
@@ -2547,7 +2104,7 @@ On a fumble the Adventurer gets into difficulties due to the water conditions. H
 successful Resilience test or sustain Suffocation damage as described on pages 76-78.
 
 
-Unarmed (STR+DEX)
+### Unarmed (STR+DEX)
 The Unarmed skill covers all trained and untrained unarmed combat from simple brawling to
 esoteric martial arts. Punches, kicks, head-butts and all other Unarmed attacks do 1D3 points
 of damage.
@@ -2556,18 +2113,14 @@ If using Unarmed the Adventurer may choose to either strike to cause damage or i
 break) a grapple.
 
 
-
-
-                                                                                                55
-
-      Advanced Skill Descriptions
+## Advanced Skill Descriptions
 Advanced skills are those that Adventurers are not expected to have automatically. These skills
 often require long and difficult training and Adventurers who possess any level of expertise in
 them often identify themselves according to their expertise. An Adventurer will not have access
 to many of these skills during Adventurer Creation but others can be learnt through experience.
 
 
-Acrobatics (STR+DEX)
+### Acrobatics (STR+DEX)
 Acrobatics covers a range of entertainments, for things such as juggling or tightrope walking. It
 also includes gymnastics such as tumbling and recovering from falls. Acrobatics can be used in
 its own right as a performance to impress an audience; but can also provide a bonus to Athletics
@@ -2585,7 +2138,7 @@ A fumbled Acrobatics roll means that balance and agility has been lost catastrop
 does the Adventurer fall, he falls awkwardly, sustaining the full damage from the fall!
 
 
-Art (POW+CHA)
+### Art (POW+CHA)
 This skill allows an Adventurer to create works of art. Like the Lore and Craft skills, it is actually a
 large number of skills grouped together under one heading. There are literally dozens of different
 artistic endeavours an Adventurer may pursue and each of them is its own individual skill. For
@@ -2601,7 +2154,7 @@ materials were used in its creation. Such artwork cannot be used to influence an
 without causing insult.
 
 
-Boating (STR+CON)
+### Boating (STR+CON)
 This covers small waterborne craft propelled manually by oars or paddles (sail-driven craft are
 used with the Shiphandling Advanced skill). Travelling across calm water does not usually require
 a test but adverse conditions such as currents and weather can bestow penalties.
@@ -2610,17 +2163,12 @@ A critical Boating success increases the Movement rate for the craft by half aga
 
 If a Boating test is fumbled, the Adventurer should make an Athletics test. If the Athletics test
 succeeds then the Adventurer has lost an oar or the controlling device for the boat has been
-
-
-
-56
-
-         broken. Reduce the craft’s movement by half. If the Athletics test is a failure or fumble, then the
+broken. Reduce the craft's movement by half. If the Athletics test is a failure or fumble, then the
 boat is in danger of capsizing. All on board need to make either an Acrobatics or Athletics test
 (whichever is higher) to remain in the boat. Those that fail fall into the water.
 
 
-Commerce (INT+CHA)
+### Commerce (INT+CHA)
 This skill is used to secure the best price for goods being either bought or sold and it can
 be opposed by another Commerce roll, with the victor securing the advantage. Commerce is
 more than just haggling or simple bargaining; it is concerned with negotiation, compromise,
@@ -2637,7 +2185,7 @@ A fumble indicates that the commodity or service is secured at twice the price o
 half the value.
 
 
-Courtesy (INT+CHA)
+### Courtesy (INT+CHA)
 A noble court, from that of a minor lord to the grand palace of an emperor usually conducts
 its business, or communicates, in ways that would seem utterly alien to a commoner. With this
 skill, the Adventurer knows how to navigate the murky and treacherous waters of life amongst
@@ -2653,7 +2201,7 @@ subsequent Skill Tests involving communication or personal credibility, until re
 been made.
 
 
-Craft (DEX+INT)
+### Craft (DEX+INT)
 Like the Lore skill, the Craft skill is actually several separate skills grouped under a single
 heading. For example, Craft (Armourer), Craft (Carpenter), Craft (Torturer) and Craft (Potter)
 are all individual skills.
@@ -2661,33 +2209,28 @@ are all individual skills.
 Craft skills are used to fashion and create various items and there are literally hundreds of different
 crafts in the world, from the mundane to the exotic. The following list is by no means exhaustive:
 
-Armourer, baker, basketweaver, blacksmith, bowyer, brewer, butcher, candlemaker, carpenter,
-cartographer, cobbler, cook, cooper, fletcher, joiner, leatherworker, mason, painter, potter, sculptor,
-smith, tailor, torturer, weaver.
+> Armourer, baker, basketweaver, blacksmith, bowyer, brewer, butcher, candlemaker, carpenter,
+> cartographer, cobbler, cook, cooper, fletcher, joiner, leatherworker, mason, painter, potter, sculptor,
+> smith, tailor, torturer, weaver.
 
-
-
-
-                                                                                                       57
-
-      A critical success allows the item being crafted to be of superior quality, in terms of durability,
+A critical success allows the item being crafted to be of superior quality, in terms of durability,
 value or utility (choose one area of excellence). In terms of durability, it has additional AP and
 HP, distributed as the Adventurer sees fit, equal to the critical score of the skill. For example,
 a weaponsmith who crafts an especially fine longsword using his skill of 81% can distribute 8
-additional points between the sword’s AP and HP. In terms of value, increase the item’s value
-by half again. In terms of utility, the item provides a bonus equal to its maker’s critical score to
+additional points between the sword's AP and HP. In terms of value, increase the item's value
+by half again. In terms of utility, the item provides a bonus equal to its maker's critical score to
 whichever skill the item is used for.
 
 A fumbled roll halves the Armour and Hit Points of the item and reduces its value by half.
 
 
-Culture (Specific Culture) (INT x2)
-Learning the ways of a Culture other than one’s own is an Advanced skill. However it works in
+### Culture (Specific Culture) (INT x2)
+Learning the ways of a Culture other than one's own is an Advanced skill. However it works in
 precisely the same way as for the Culture (Own) Common Skill. See page 48.
 
 
-Disguise (INT+CHA)
-This skill is used to change an Adventurer’s appearance, imitate cultural accents and mannerisms,
+### Disguise (INT+CHA)
+This skill is used to change an Adventurer's appearance, imitate cultural accents and mannerisms,
 or assume a different persona. It is usually opposed by an Insight or Perception test if the
 Adventurer is trying to avoid being identified.
 
@@ -2704,7 +2247,7 @@ A fumble means the disguise is so unconvincingly executed as to be obvious. Even
 room, it fools no one.
 
 
-Engineering (INT x2)
+### Engineering (INT x2)
 This skill is used to design, build, activate, repair, sabotage or disassemble large mechanisms,
 traps or constructs such as siege machines, city gates, drawbridges, mineshafts, sailing ships and
 so forth.
@@ -2717,18 +2260,12 @@ Indeed, the initial attempts have failed so badly that it takes double the time 
 whereupon it fails or collapses!
 
 
-Gambling (INT+POW)
-The ability to understand and play games of chance, including calculating odds, keeping one’s
+### Gambling (INT+POW)
+The ability to understand and play games of chance, including calculating odds, keeping one's
 composure under high stakes and noticing when someone is cheating or when a game has
 been rigged.
 
-
-
-
-58
-
-
-      A critical success with gambling allows the Adventurer to win a game even if it has been rigged
+A critical success with gambling allows the Adventurer to win a game even if it has been rigged
 to the highest degree. In terms of calculating or assessing odds of success, the Adventurer will be
 infallibly accurate in his assessment.
 
@@ -2737,26 +2274,26 @@ other indicators surrounding the game. He loses everything save the shirt on his
 was stupid enough to stake that too).
 
 
-Healing (INT+POW)
+### Healing (INT+POW)
 This includes a number of advanced cures and restorative abilities, including surgery, developing
-antidotes to poisons and remedying diseases. Use of this skill will always require a healer’s kit (see
+antidotes to poisons and remedying diseases. Use of this skill will always require a healer's kit (see
 page 114). Each use of the Healing skill generally takes 1D3x10 minutes to perform.
 
-Curing Diseases: A successful Healing test allows a patient under the effect of a disease to add a
+**Curing Diseases**: A successful Healing test allows a patient under the effect of a disease to add a
 bonus to his next opposed Resilience versus Potency test to resist the disease, equal to the critical
 value of the skill.
 
-Curing Poisons: A successful Healing test allows a patient under the effect of a poison to attempt a
+**Curing Poisons**: A successful Healing test allows a patient under the effect of a poison to attempt a
 second opposed Resilience versus Potency test, with the patient gaining a bonus to his Resilience
 test equal to the critical value of the skill.
 
 For a critical success in treating diseases and poisons, the patient gains a bonus to his Resilience
-test equal to the healer’s Healing skill divided by 5.
+test equal to the healer's Healing skill divided by 5.
 
-If the roll is fumbled, the remedy weakens the patient’s ability to fight the cause of the affliction;
+If the roll is fumbled, the remedy weakens the patient's ability to fight the cause of the affliction;
 all Resilience tests are at -10% penalty.
 
-Surgery: Surgery is the only way, other than magical healing, that an Adventurer may recover
+**Surgery**: Surgery is the only way, other than magical healing, that an Adventurer may recover
 from a Major Wound. Once a successful First Aid test has been made to stabilise a Major Wound
 (see page 50), a successful Healing test can attempt to set broken bones, stitch flesh together and
 restore the location so that it is on the road to recovery. As long as the Healing test is a success,
@@ -2772,24 +2309,19 @@ If the roll is fumbled the affected location remains permanently maimed and neve
 Hit Points.
 
 
-Language (INT+CHA)
+### Language (INT+CHA)
 Like the Lore skill, the Language skill is actually several separate skills grouped under a single
 heading. Language (English), Language (German) and Language (French) are all individual
 skills.
 
-
-
-
-60
-
-         Every Adventurer with a Language skill of 50% or more is fluent in that language, though they
+Every Adventurer with a Language skill of 50% or more is fluent in that language, though they
 will likely bear an accent if it is not their native tongue.
 
 Civilised cultures are more likely than other cultures to have developed literacy although this
 does not mean that every barbarian or nomad culture, for example, has no written form of its
 language. It is therefore up to the Games Master to decide if fluency in a language also includes
 the ability to read and write it, depending on the nature and circumstances of the campaign. If
-the Games Master wishes the literacy percentage of the Adventurer’s language may be higher or
+the Games Master wishes the literacy percentage of the Adventurer's language may be higher or
 lower than the spoken skill, in which case an appropriate bonus or penalty can be applied to the
 base Language skill.
 
@@ -2802,17 +2334,17 @@ language. All immediate Skill Tests involving communication and personal credibi
 penalty.
 
 
-Lore (INT x2)
+### Lore (INT x2)
 This skill is used in the same way as the Lore skill described on page 52. The Advanced range of
-possibilities for this skill is limited only by a player’s imagination but a list of potential areas of
+possibilities for this skill is limited only by a player's imagination but a list of potential areas of
 Lore study are listed here:
 
 Alchemy, art, astronomy, gambling, geography, heraldry, law, logistics, military tactics, mineral,
 philosophy, poisons, theology.
 
 
-Mechanisms (DEX+INT)
-This covers an Adventurer’s ability to both assemble and disassemble mechanical devices,
+### Mechanisms (DEX+INT)
+This covers an Adventurer's ability to both assemble and disassemble mechanical devices,
 including traps and locks. Mechanisms generally involve delicate contraptions with small
 working parts, as opposed to Engineering, which deals with massive constructions.
 
@@ -2830,11 +2362,7 @@ results.
 On a fumble the mechanism is broken and requires the attention of its maker to fix properly.
 
 
-
-
-                                                                                                       61
-
-      Meditation (POW x2)
+### Meditation (POW x2)
 The use of Meditation helps to focus concentration and is psychically soothing. Meditation is a
 skill that must be learned either by study or practice. A successfully meditating Adventurer may
 recover lost Magic Points at twice the normal rate. Meditating Adventurers retain full awareness
@@ -2842,11 +2370,11 @@ of their surroundings and may make Perception tests at no penalty.
 
 On a critical success the Adventurer triples the rate of Magic Point recovery.
 
-Fumbling increases the Adventurer’s Fatigue by one level as unwanted thoughts intrude on the
+Fumbling increases the Adventurer's Fatigue by one level as unwanted thoughts intrude on the
 psyche.
 
 
-Oratory (POW+CHA)
+### Oratory (POW+CHA)
 This skill is used when addressing large groups of people, such as a priest addressing the faithful
 or a general exhorting his troops to victory on the eve of a battle. In effect, it is much like
 Influence, save that it relies more upon emotional appeal than intellectual stimulation and is
@@ -2856,16 +2384,16 @@ On a critical success the Adventurer wins over the audience completely and utter
 vociferous agreement. He gains a bonus equal to the critical score of his Oratory skill for all
 immediate tests concerning communication and personal credibility.
 
-If fumbled the Adventurer’s arguments come across as shallow and ill-communicated - even
+If fumbled the Adventurer's arguments come across as shallow and ill-communicated - even
 insulting. He gains a penalty equal to the critical score of his Oratory skill for all immediate tests
 concerning communication and personal credibility.
 
 
-Play Instrument (DEX+CHA)
+### Play Instrument (DEX+CHA)
 Like the Lore skill, the Play Instrument skill is actually several separate skills grouped under
 a single heading. Play Instrument (Dulcimer), Play Instrument (Flute) and Play Instrument
 (Spoons) are all individual skills. A successful test with this skill will result in the audience being
-pleased by the Adventurer’s performance.
+pleased by the Adventurer's performance.
 
 On a critical success the music produced is of stunning emotional quality. If being used as part of
 an Influence test, to impress a prospective client or ally perhaps, then the Influence test receives
@@ -2876,7 +2404,7 @@ Influence test, to impress a prospective client or ally perhaps, then the Influe
 penalty appropriate to the circumstances.
 
 
-Seduction (INT+CHA)
+### Seduction (INT+CHA)
 Seduction combines charm, flirtatiousness, tenacity and cunning. This skill allows the Adventurer
 to completely win-over the target of the seduction attempt using overt romantic or sexual signals,
 leading to the target becoming deeply enthralled to the Adventurer and willing to perform one
@@ -2884,20 +2412,16 @@ suggested service or command. The target may try to resist a seduction attempt w
 Persistence test.
 
 
-
-
-62
-
-         Shiphandling (INT+CON)
+### Shiphandling (INT+CON)
 This skill is used in the same way as Boating but is instead applied to waterborne craft that are
 driven by sail or rows of oars.
 
 A critical Shiphandling success increases the Movement rate for the craft by half again.
 
-If the test is fumbled, reduce the craft’s Movement by half
+If the test is fumbled, reduce the craft's Movement by half
 
 
-Streetwise (POW+CHA)
+### Streetwise (POW+CHA)
 In some ways, this skill could be considered the urban version of Survival. Rather than helping
 the Adventurer find food and water, however, this skill allows him to find other things he might
 need in an urban setting. Streetwise allows an Adventurer to find fences for stolen goods, black
@@ -2912,7 +2436,7 @@ attracting the attention of undesirables who may wish to cause him harm. The Gam
 should decide on the specifics according to the circumstances.
 
 
-Survival (POW+CON)
+### Survival (POW+CON)
 This is a broad skill, used whenever the Adventurer has to rely on his own wits to survive outside
 the comforts of civilisation.
 
@@ -2935,17 +2459,14 @@ location and the Games Master should adjudicate the specifics according to the c
 of the environment.
 
 
-Teaching (INT+CHA)
+### Teaching (INT+CHA)
 The Adventurer is skilled in the instruction, coaching and tutoring of others. The skill does
-not work in the same way as other skills. When teaching someone else the teacher’s skill acts
+not work in the same way as other skills. When teaching someone else the teacher's skill acts
 as a bonus to the Improvement Roll for his pupil, as described in the section on Adventurer
 Advancement beginning on page 68.
 
 
-
-                                                                                                   63
-
-      Track (INT+CON)
+### Track (INT+CON)
 With this skill an Adventurer can locate the tracks (footprints, disturbed vegetation and so on) of
 a specific creature and follow them. A test must be made to locate the trail and then again once
 every hour they are being followed. Modifiers will be imposed depending on what terrain the
@@ -2959,15 +2480,15 @@ of the quarry and is able to anticipate and follow the trail without difficulty.
 For a fumble the trail is completely lost and cannot be recovered.
 
 
-Magical Skills
+## Magical Skills
 The magical skills here are distinct from Common Magic and apply to the specific magical paths
 of Divine Magic and Sorcery. These styles use a combination of two skills to govern how magic
 works - both the power of spells and their casting. A more thorough explanation of how the
 skills work can be found in the respective magic chapters but a summary of each skill follows:
 
 
-Lore (Specific Theology) (INT+POW)
-This is the knowledge and understanding of one’s cult or religion; its history, myths and context
+### Lore (Specific Theology) (INT+POW)
+This is the knowledge and understanding of one's cult or religion; its history, myths and context
 in the world. The skill allows the Adventurer to call upon miracles or magic from his deity and
 is used in casting Divine Spells (see the Divine Magic chapter).
 
@@ -2977,8 +2498,8 @@ Fumble - The spell does not work but is also lost and must be regained as if it 
 successfully cast.
 
 
-Pact (Specific Cult or Deity) (CHA + Dedicated POW)
-This is a measure of one’s devotion to a Divine cult (see the Divine Magic chapter) and its object
+### Pact (Specific Cult or Deity) (CHA + Dedicated POW)
+This is a measure of one's devotion to a Divine cult (see the Divine Magic chapter) and its object
 of veneration. The higher the Pact skill, the more dedicated the follower. Dedicating POW to
 a Divine cult automatically creates the Pact at a base percentage equal to: CHA+Dedicated
 POW. It is not a measure of how much an Adventurer knows about the cult or god; that is still
@@ -2993,14 +2514,10 @@ irrespective of his standing in the cult or church, must return to a shrine or t
 their return.
 
 
-Sorcery (Grimoire) (INT x2)
-Sorcery (Grimoire) is a measure of a sorcerer’s knowledge and intimacy with a particular group
+### Sorcery (Grimoire) (INT x2)
+Sorcery (Grimoire) is a measure of a sorcerer's knowledge and intimacy with a particular group
 of spells, collectively known as a Grimoire. This skill is the ability of the sorcerer to cast all spells
-
-
-64
-
-         known to a particular school or church of sorcery; i.e. those held within its Grimoire but also
+known to a particular school or church of sorcery; i.e. those held within its Grimoire but also
 measures the depth of relationship and arcane standing the sorcerer has achieved within the order.
 
 The sorcerer must have studied and memorised the spell to be cast; he cannot use the Sorcery
@@ -3019,7 +2536,7 @@ If the spellcasting attempt is fumbled, then the spell does not work and the sor
 Magic Point cost of the spell.
 
 
-Manipulation (INT+POW)
+### Manipulation (INT+POW)
 The Manipulation skill is used to manipulate the components of Magnitude, Combine,
 Duration, Range and Target. When manipulating a spell, the Adventurer must choose which of
 these components he is manipulating.
@@ -3036,40 +2553,37 @@ number of manipulation components applied to it; with a minimum cost of 1.
 
 
 
-
-                                                                                                         65
-
-                                                  game system
+# Game System
 
 This chapter provides a series of rules for different in-game circumstances that will face Legend
 Adventurers and Games Masters from time-to-time. Some circumstances might be one-offs;
 others will be more frequent.
 
 
-Action and Time
+## Action and Time
 Action takes place in several different timescales, according to the stage of the story and the
 nature of the action. A fight, for instance, takes place in Combat Rounds, a detailed timescale
 that allows the anatomy of the combat to be played through and its effects applied appropriately.
 However, other actions and activities not need to be measured in such a detailed way; searching
 a room, for example, might take several minutes and travelling between two towns might take
-days. Time is typically abstracted into useful scales that advance the Adventurers’ story, keep
+days. Time is typically abstracted into useful scales that advance the Adventurers' story, keep
 things moving and focus the attention on what is most important. In a fight, for instance, it
 is important to know who is hurt, where and how badly, so tracking time at a detailed level is
 crucial. However, for travelling between two towns, along a known road with few hazards it is
-simply enough to state ‘It takes you three days to get from A to B’.
+simply enough to state 'It takes you three days to get from A to B'.
 
 
-Time Scales
+### Time Scales
 The key timescales, and what actions and motion can be accomplished, are as follows: Combat
 Rounds, Local Time and Strategic Time.
 
-Combat Rounds
+#### Combat Rounds
 Dealt with in more detail in the Combat chapter, a Combat Round represents five seconds of
 game time. In a Combat Round an Adventurer can:
 
-1.	   Act a number of times depending on his Combat Actions available.
-2.	   Move a distance, usually a number of metres, equal to his Movement score (see page
-     92).
+1. Act a number of times depending on his Combat Actions available.
+2. Move a distance, usually a number of metres, equal to his Movement score (see page
+   92).
 
 Once a Combat Round finishes another might start depending on the state of the combatants,
 or time might shift to Local Time (see the following section) to handle things such as first aid
@@ -3083,22 +2597,19 @@ circumstances and tension required will determine when Combat Rounds are used an
 action and movement within the Combat Round, as found on pages 125 to 152, should be used.
 
 
-
-66
-
-         Local Time
+#### Local Time
 Local Time is anything from a few minutes to a few hours (but not more than about six hours)
 and is used to generally measure specific activities, such as skill usage, that do not require the
 detailed attention of a Combat Round but require a specific concentration of effort with a
 definite end result. Picking a lock might take five minutes and this is a measure of Local Time.
-Observing the patrols made by teams of guards around a castle’s walls might require several hours
+Observing the patrols made by teams of guards around a castle's walls might require several hours
 but is still a measure of Local Time. Usually, in Local Time, the following occurs:
 
-  1.	   The Adventurer states his intention (Local Time starts).
-  2.	   The Games Master assigns how long this takes to accomplish.
-  3.	   Any appropriate Skill Tests are made and the results noted.
-  4.	   The Games Master communicates the results and the time taken in step 2 passes
-        (Local Time ends).
+1. The Adventurer states his intention (Local Time starts).
+2. The Games Master assigns how long this takes to accomplish.
+3. Any appropriate Skill Tests are made and the results noted.
+4. The Games Master communicates the results and the time taken in step 2 passes
+   (Local Time ends).
 
 The sequence may then either continue in Local Time, move into Combat Rounds or even go
 into Strategic Time (see the following section).
@@ -3106,51 +2617,49 @@ into Strategic Time (see the following section).
 Some examples of Local Time tasks and the typical time required are in given in the Local Time
 Table.
 
-Local Time Table
-Example Task                                        Time
-Attempt a Craft or Lore skill.                      5 minutes to 10 days, depending on
-                                                 complexity, tools available and so forth.
-Attempt to influence, persuade, or seduce           5 minutes to 6 hours, depending on the
-someone.                                            nature of the person being worked on.
-Attempt to sway a crowd through oratory.            20 minutes to 6 hours, depending on the
-                                                 mood of the crowd.
-Pick a lock.                                        1 minute to 1 hour, depending on the
-                                                 complexity of the lock.
-Search a room thoroughly.                           5 minutes to 2 hours, depending on the
-                                                 room’s size.
-Observe, note and understand a person or            1 hour to 6 hours.
-group of people’s habits (through following
-them or observing from a distance).
-Effect a functional repair on a piece of broken     1 hour to 6 hours, depending on the
-equipment, given the right tools and resources.     circumstances.
-Read a scroll, parchment or several chapters of     10 minutes to 3 hours, depending on the
-a book.                                             complexity of the language and subject
-                                                 matter.
-Pick up a trail and follow it using Tracking.       2 minutes to 2 hours, depending on local
-                                                 conditions.
-Build a makeshift shelter, raft or similar.         3 to 6 hours.
-Forage for food, set snares and so forth.           2 to 4 hours.
-Prepare and cook a carcass for eating.              1 to 12 hours, depending on the SIZ of the
-                                                 carcass.
+##### Local Time Table
+
+| Example Task                                      | Time |
+|---------------------------------------------------|------|
+| Attempt a Craft or Lore skill.                    | 5 minutes to 10 days, depending on |
+|                                                   | complexity, tools available and so forth. |
+| Attempt to influence, persuade, or seduce         | 5 minutes to 6 hours, depending on the |
+| someone.                                          | nature of the person being worked on. |
+| Attempt to sway a crowd through oratory.          | 20 minutes to 6 hours, depending on the |
+|                                                   | mood of the crowd. |
+| Pick a lock.                                      | 1 minute to 1 hour, depending on the |
+|                                                   | complexity of the lock. |
+| Search a room thoroughly.                         | 5 minutes to 2 hours, depending on the |
+|                                                   | room's size. |
+| Observe, note and understand a person or          | 1 hour to 6 hours. |
+| group of people's habits (through following       |      |
+| them or observing from a distance).               |      |
+| Effect a functional repair on a piece of broken   | 1 hour to 6 hours, depending on the |
+| equipment, given the right tools and resources.   | circumstances. |
+| Read a scroll, parchment or several chapters of   | 10 minutes to 3 hours, depending on the |
+| a book.                                           | complexity of the language and subject |
+|                                                   | matter. |
+| Pick up a trail and follow it using Tracking.     | 2 minutes to 2 hours, depending on local |
+|                                                   | conditions. |
+| Build a makeshift shelter, raft or similar.       | 3 to 6 hours. |
+| Forage for food, set snares and so forth.         | 2 to 4 hours. |
+| Prepare and cook a carcass for eating.            | 1 to 12 hours, depending on the SIZ of the |
+|                                                   | carcass. |
 
 
-
-
-                                                                                                  67
-
-      Strategic Time
+#### Strategic Time
 Strategic Time is measured in days, weeks, months or even years. Detailed events within Strategic
 Time do not necessarily need to be described and routine tasks and activities that are generally
 covered using Local Time are abstracted and presumed to happen automatically and successfully
 (although this, again, depends on the circumstances).
 
-Use Strategic Time for those periods where it is not necessary to know the detail, just the outcome
-- ‘You sail for 10 days and reach the port by dawn on the 11th day’. ‘You travel the moors for two
-days and spot the village in the distance on the third.’ ‘You spend a week studying the grimoire
-but are none the wiser at the end of it.’
+Use Strategic Time for those periods where it is not necessary to know the detail, just the outcome - 
+'You sail for 10 days and reach the port by dawn on the 11th day'. 'You travel the moors for two
+days and spot the village in the distance on the third.' 'You spend a week studying the grimoire
+but are none the wiser at the end of it.'
 
 Long distances and environmental factors may be important to Strategic Time and may also
-have an effect on Local Time and Combat Rounds. The Games Masters’ Chapter offers some
+have an effect on Local Time and Combat Rounds. The Games Masters' Chapter offers some
 additional guidance on weather conditions and their effects.
 
 Most of the time, Strategic Time will be concerned with how far Adventurers can travel
@@ -3163,25 +2672,27 @@ successfully made. Naturally an appropriate Skill Test (Drive, Ride, Athletics a
 needs to be made to double the distance covered, along with dealing with any hazards that might
 need to be resolved in Combat Rounds or Local Time.
 
-Strategic Time Travel Table
-Travel Example                                         Distance Covered (kilometres)
-Walking                                                30 per Day (10 hours)
-Horseback at casual speed                              60 per Day (10 hours)
-Wagon at casual speed                                  15 per Day (10 hours)
-Open Sea, favourable conditions                        300 (in a 24 hour period)
-Open Sea, unfavourable conditions                      36 (in a 24 hour period)
-Coast or River, favourable conditions                  60 per Day (10 hours)
-Coast or River, unfavourable conditions                32 per Day (10 Hours)
+##### Strategic Time Travel Table
+
+| Travel Example                                       | Distance Covered (kilometres) |
+|------------------------------------------------------|-------------------------------|
+| Walking                                              | 30 per Day (10 hours)         |
+| Horseback at casual speed                            | 60 per Day (10 hours)         |
+| Wagon at casual speed                                | 15 per Day (10 hours)         |
+| Open Sea, favourable conditions                      | 300 (in a 24 hour period)     |
+| Open Sea, unfavourable conditions                    | 36 (in a 24 hour period)      |
+| Coast or River, favourable conditions                | 60 per Day (10 hours)         |
+| Coast or River, unfavourable conditions              | 32 per Day (10 Hours)         |
 
 
-Adventurer Advancement
+## Adventurer Advancement
 Legend Adventurers begin the game as callow youths and, through time and game play, may
 develop into heroes. They do this by improving the Common and Advanced skills they have,
 learning new skills, studying magic, seeking the secrets of Heroic Abilities and by improving
 their Characteristics which, in turn, help other Attributes to improve.
 
 
-Improvement Rolls
+### Improvement Rolls
 Skills and Characteristics are increased through the use of Improvement Rolls, which the Games
 Master awards at the close of a particular game session or point in a story. Improvement Rolls
 are not given at the end of every game session but are awarded when the action reaches a natural
@@ -3189,25 +2700,20 @@ close and the Adventurers have time to rest, reflect and consolidate what they m
 in the time just past.
 
 
-
-68
-
-        Alaric’s Tale
-Alaric, Lilina and Thrace have just completed an adventure that saw them sneak into the troll’s lair
-in search of evidence for the whereabouts of the troll who killed Alaric’s father. During play all three
-Adventurers acted heroically and cleverly to the challenges set before them and so, when they return
-to the village, cut, bruised and bloodied, but with important information, the Games Master awards
-each Adventurer four Improvement Rolls.
-
-Later…
-
-The game session included a debate held in the Chieftain’s hall that concerned the welfare of the entire
-clan. Throughout this important council Alaric, Lilina and Thrace were completely disinterested and
-contribute nothing to the proceedings. At the end of the session, the Games Master makes an award of
-only two Improvement Rolls explaining that the award would have been higher if the Adventurers had
-participated more and learned from their experience.
-
-
+> Alaric's Tale
+> Alaric, Lilina and Thrace have just completed an adventure that saw them sneak into the troll's lair
+> in search of evidence for the whereabouts of the troll who killed Alaric's father. During play all three
+> Adventurers acted heroically and cleverly to the challenges set before them and so, when they return
+> to the village, cut, bruised and bloodied, but with important information, the Games Master awards
+> each Adventurer four Improvement Rolls.
+> 
+> Later...
+> 
+> The game session included a debate held in the Chieftain's hall that concerned the welfare of the entire
+> clan. Throughout this important council Alaric, Lilina and Thrace were completely disinterested and
+> contribute nothing to the proceedings. At the end of the session, the Games Master makes an award of
+> only two Improvement Rolls explaining that the award would have been higher if the Adventurers had
+> participated more and learned from their experience.
 
 
 As a base, each Adventurer should receive three Improvement Rolls when the time comes for
@@ -3216,11 +2722,11 @@ heroically and the Games Master should judge how the award should be made: a min
 one and a maximum of five Improvement Rolls depending on how the Adventurers acquitted
 themselves.
 
-Improvement Roll Modifier
+#### Improvement Roll Modifier
 Every Adventurer has an Improvement Roll Modifier, based on the CHA Characteristic, of
 between -1 and +1, or more. This represents the relationship an Adventurer has with his
 community, peers and colleagues, who offer their services or advice, or, if CHA is particularly
-low, the difficulty of attempting to improve one’s capabilities without the assistance of others.
+low, the difficulty of attempting to improve one's capabilities without the assistance of others.
 
 The number of Improvement Rolls an Adventurer has to spend is modified by the value of the
 Improvement Roll Modifier. So, in the case of Alaric, his Improvement Roll Modifier is zero. In
@@ -3239,126 +2745,110 @@ anti-social. This places him at a disadvantage in his development and his Improv
 Roll Modifier of -1means that, in the examples from earlier, he gains only three and one
 Improvement Rolls respectively.
 
-Using Improvement Rolls
+#### Using Improvement Rolls
 A player can choose to spend one Improvement Roll to attempt to increase one known skill.
 
+* Select the skill to be increased and roll 1D100. Add the Adventurer's INT Characteristic to
+  the result of the 1D100 roll.
+* If this 1D100 result is greater than the skill's current score, the skill increases by 1D4+1
+  points.
+* If this 1D100 result is equal to or less than the skill's current score, the skill only increases
+  by one point.
 
 
-                                                                                                       69
-
-      *	   Select the skill to be increased and roll 1D100. Add the Adventurer’s INT Characteristic to
-the result of the 1D100 roll.
-*	   If this 1D100 result is greater than the skill’s current score, the skill increases by 1D4+1
-points.
-*	   If this 1D100 result is equal to or less than the skill’s current score, the skill only increases
-by one point.
-
-
-
-Alaric’s Tale
-Alaric wishes to increase his Athletics, which is currently at 35%. He practises the skill in earnest
-and then spends one Improvement Roll.
-
-He rolls 1D100 and results in 29. However, he also adds his INT of 16 and this makes a result
-of 45. Since this is greater than the 35% of his current Athletics skill, it is improved by 1D4+1
-points. If the result of the 1D100 roll and the addition of his INT had been less than or equal to
-35, his Athletics skill would have increased by only one point.
+> Alaric's Tale
+> Alaric wishes to increase his Athletics, which is currently at 35%. He practises the skill in earnest
+> and then spends one Improvement Roll.
+> 
+> He rolls 1D100 and results in 29. However, he also adds his INT of 16 and this makes a result
+> of 45. Since this is greater than the 35% of his current Athletics skill, it is improved by 1D4+1
+> points. If the result of the 1D100 roll and the addition of his INT had been less than or equal to
+> 35, his Athletics skill would have increased by only one point.
 
 
-
-Skills Above 100%
+#### Skills Above 100%
 There is no limit to the score a skill can reach; a skill can reach 100% and exceed it. However,
 the more adept an Adventurer becomes at any particular skill, the more difficult it becomes for
-him to learn something about that skill he did not already know. Thus, as an Adventurer’s skill
+him to learn something about that skill he did not already know. Thus, as an Adventurer's skill
 percentage climbs, it will become more difficult and time consuming for him to raise that skill.
 
-*	   When an Adventurer wants to improve a skill that exceeds 100%, he only needs to roll
-against a target value of 100. However, if his current skill is between 101-200% he only
-adds half his INT to the roll.
-*	   If the skill is 201-300% he only adds one quarter of his INT to the roll; and, between
-301-400% an eighth (and so forth).
-*	   If the Adventurer manages to roll over 100, with his INT bonus as outlined above, then
-the skill improves by 1d4+1 points. If the result is less than 100 then the Adventurer only
-gains 1 point, as usual.
+* When an Adventurer wants to improve a skill that exceeds 100%, he only needs to roll
+  against a target value of 100. However, if his current skill is between 101-200% he only
+  adds half his INT to the roll.
+* If the skill is 201-300% he only adds one quarter of his INT to the roll; and, between
+  301-400% an eighth (and so forth).
+* If the Adventurer manages to roll over 100, with his INT bonus as outlined above, then
+  the skill improves by 1d4+1 points. If the result is less than 100 then the Adventurer only
+  gains 1 point, as usual.
 
-For example Jurgen, a master swordsman, has Sword and Shield at 153% and INT 16. To improve
-his Sword and Shield he rolls 1D100 and adds 8 (half his INT) to the result. The roll is 94 and
-Jurgen’s INT bonus takes the result to 102 meaning that Jurgen gains a 1D4+1 increase.
+> For example Jurgen, a master swordsman, has Sword and Shield at 153% and INT 16. To improve
+> his Sword and Shield he rolls 1D100 and adds 8 (half his INT) to the result. The roll is 94 and
+> Jurgen's INT bonus takes the result to 102 meaning that Jurgen gains a 1D4+1 increase.
+> 
+> Years later, Jurgen's Sword and Shield has reached a dizzying 203%. To increase it, Jurgen must roll
+> 1D100 and score 100 or more, adding only a quarter of his INT (4) to the roll. The 1D100 roll is 43
+> and Jurgen's INT bonus of 4 takes it 47 - nowhere near enough for the skill to increase by 1D4+1%
+> and so it climbs to just 204%.
 
-Years later, Jurgen’s Sword and Shield has reached a dizzying 203%. To increase it, Jurgen must roll
-1D100 and score 100 or more, adding only a quarter of his INT (4) to the roll. The 1D100 roll is 43
-and Jurgen’s INT bonus of 4 takes it 47 - nowhere near enough for the skill to increase by 1D4+1%
-and so it climbs to just 204%.
-
-Learning New Skills through Improvement Rolls
+#### Learning New Skills through Improvement Rolls
 An Adventurer can learn a new Advanced Skill through spending Improvement Rolls. Two
 Improvement Rolls give the Adventurer the Advanced skill at its basic Characteristic-derived score.
 
 Some Advanced skills however, cannot be learned through simply spending Improvement Rolls.
 The following Advanced Skills can only be gained through training (see page 72).
 
-
-
-
-70
-
-              *	   Craft
-  *	   Culture - if studying a culture completely alien to one’s own.
-  *	   Engineering
-  *	   Healing
-  *	   Language
-  *	   Lore (with the exception of Lore (Regional))
-  *	   Teaching
-  *	   Sorcery and Manipulation
+* Craft
+* Culture - if studying a culture completely alien to one's own.
+* Engineering
+* Healing
+* Language
+* Lore (with the exception of Lore (Regional))
+* Teaching
+* Sorcery and Manipulation
 
 Once learned with the assistance of a teacher, these skills then become improvable using
 Improvement Rolls.
 
 
-Improving Characteristics
+### Improving Characteristics
 Adventurers can gradually improve their Characteristics, becoming more intelligent, stronger
 or dextrous over time. Characteristics improve at a much slower rate than skills but can have
 more of an effect on an Adventurer. The process of increasing a Characteristic through exercise is
 abstracted through spending Improvement Rolls in a similar way to improving a skill - however
 the cost to do so is far higher. Improving a Characteristic by one point costs a number of
-Improvement Rolls equal to the Characteristic’s current value; hence, improving a Characteristic
+Improvement Rolls equal to the Characteristic's current value; hence, improving a Characteristic
 from 10 to 11 would cost 10 Improvement Rolls.
 
 Improvement Rolls, when used to improve Characteristics can be stockpiled from one allocation
 to the next but the player must state that his Adventurer is using these stockpiled Improvement
 Rolls towards a Characteristic increase - and stipulate which Characteristic is to benefit.
 
-For example, Thrace’s player, at the end of a story when the Games Master allocates Improvement
-Rolls says that he wants to increase his CHA 5 to CHA 6. It will cost him five Improvement Rolls
-to do this and he knows it will take time. Instead of using the two rolls he gains from the story to
-enhance skills, he puts them towards his CHA improvement instead. In the next Improvement Roll
-allocation he can again choose to put his Improvement Rolls towards increasing his CHA or use
-them for skill improvement.
+> For example, Thrace's player, at the end of a story when the Games Master allocates Improvement
+> Rolls says that he wants to increase his CHA 5 to CHA 6. It will cost him five Improvement Rolls
+> to do this and he knows it will take time. Instead of using the two rolls he gains from the story to
+> enhance skills, he puts them towards his CHA improvement instead. In the next Improvement Roll
+> allocation he can again choose to put his Improvement Rolls towards increasing his CHA or use
+> them for skill improvement.
 
 Adventurers can contribute some or all of their Improvement Rolls towards Characteristic
-improvement. In Thrace’s example he could contribute one Improvement Roll towards increasing
+improvement. In Thrace's example he could contribute one Improvement Roll towards increasing
 his CHA and spend another on improving a skill. The choice is his.
 
 When a Characteristic increases, all skills that derive their base scores from it will change
-accordingly, as will the Adventurer’s Attributes such as Combat Actions, Strike Ranks and
+accordingly, as will the Adventurer's Attributes such as Combat Actions, Strike Ranks and
 Damage Modifier. See the summary of Characteristic Changes on pages 11-12.
 
 
-Improving Skills Through Training
+### Improving Skills Through Training
 As well as using Improvement Rolls to increase skills, skills can also increase through dedicated
 training. For this to occur, the following conditions need to be met:
 
-*	   The Adventurer has sufficient time to dedicate to training - usually a period of Downtime
+* The Adventurer has sufficient time to dedicate to training - usually a period of Downtime
   (see page 84).
-*	   Access to a teacher or mentor, either one-to-one or via a school, academy or cult.
-*	   Funds to pay for training.
+* Access to a teacher or mentor, either one-to-one or via a school, academy or cult.
+* Funds to pay for training.
 
-
-
-
-                                                                                                    71
-
-      An Adventurer cannot continually improve a skill through training: after increasing a skill
+An Adventurer cannot continually improve a skill through training: after increasing a skill
 by training his next improvement needs to be through an Improvement Roll. Once that
 is accomplished, he can then improve that skill through training once more, if he meets the
 training conditions.
@@ -3366,9 +2856,9 @@ training conditions.
 To achieve any skill increase the Adventurer must spend a week in training and not undertaking
 any other activities. At the end of the training period a 1D100 roll is made to see if the Adventurer
 has made any headway and, if so, the skill improves. The amount of the improvement depends
-on the Adventurer’s ability to learn and the teacher’s ability to teach. Both are explained here.
+on the Adventurer's ability to learn and the teacher's ability to teach. Both are explained here.
 
-Teachers and Mentors
+#### Teachers and Mentors
 Two names for the same thing, anyone can act as a teacher or mentor as long as they have at least
 20% more in the skill being taught than the Adventurer.
 
@@ -3376,66 +2866,57 @@ Teachers also benefit from the Teaching Advanced Skill. Teaching is the ability 
 mentor to best effect, ensuring the right conditions for learning and cementing the knowledge
 conveyed. The value of the Teaching skill provides a bonus to the skill increase for the student.
 If the teacher has Teaching, he adds the critical range of the Teaching skill (i.e., one 10th of the
-skill’s score) to the Adventurer’s increase - if the Adventurer successfully learns anything from
+skill's score) to the Adventurer's increase - if the Adventurer successfully learns anything from
 the time in study.
 
 The Teaching skill also confers two other benefits, as follows:
 
-*	   The teacher can instruct an additional student for every 20% he has in Teaching. Thus, a
-teacher with Teaching 60% could teach four students simultaneously.
-
-*	   The teacher can add one silver piece per 1% of Training skill to the standard training cost.
+* The teacher can instruct an additional student for every 20% he has in Teaching. Thus, a
+  teacher with Teaching 60% could teach four students simultaneously.
+* The teacher can add one silver piece per 1% of Training skill to the standard training cost.
 
 It is not necessary for a teacher to have the Teaching skill but it is clearly an advantage to the
 student if it is present.
 
-Training Procedure
+#### Training Procedure
 To attempt a skill improvement through training the Adventurer spends a week in full time study
 with his teacher or mentor. At the end of the week he makes a 1D100 roll and compares it to his
 current score in the skill. Only one skill at a time can be increased through training.
 
-*	   If the roll is less than the skill’s current score, the skill increases by 1%. The Adventurer has
-not made significant progress through study.
+* If the roll is less than the skill's current score, the skill increases by 1%. The Adventurer has
+  not made significant progress through study.
+* If the roll is equal to, or greater than, the skill's current score, the skill increases by a number
+  of points equal to the Adventurer's INT divided by five (rounded up), plus the teacher's
+  Teaching critical range (if the teacher has the Teaching skill).
 
-*	   If the roll is equal to, or greater than, the skill’s current score, the skill increases by a number
-of points equal to the Adventurer’s INT divided by five (rounded up), plus the teacher’s
-Teaching critical range (if the teacher has the Teaching skill).
-
-Learning New Advanced Skills Through Training
+#### Learning New Advanced Skills Through Training
 The following Advanced Skills can only be learned by an Adventurer if he has a teacher or
 mentor to teach him:
 
+> Alaric's Tale
+> Alaric is keen to improve his Dance skill in order to impress Selina, the Chieftain's daughter, at a
+> forthcoming banquet. His Dance is 23%. Alaric approaches one of his aunts who has Dance 65%
+> and Teaching at 50%. It will take a week to train Alaric how to dance without looking ungainly
+> or awkward.
+> 
+> At the end of the week Alaric rolls 1D100 and scores 92. His Dance skill therefore increases by the
+> following:
+> 
+> Alaric's INT 16 divided by 5 = 4, plus;
+> His aunt's Teaching critical range of 5 (50%/10)
+> 
+> Thus, after a week of hard effort and several crushed toes, Alaric has increased his Dance by a total of
+> 9% taking it to 32%. He is still no expert but is far less clumsy than he was. His aunt suggests that, in
+> return for her time, Alaric should donate 50 Silver Pieces to the local temple, to show his appreciation.
 
-
-
-72
-
-        Alaric’s Tale
-Alaric is keen to improve his Dance skill in order to impress Selina, the Chieftain’s daughter, at a
-forthcoming banquet. His Dance is 23%. Alaric approaches one of his aunts who has Dance 65%
-and Teaching at 50%. It will take a week to train Alaric how to dance without looking ungainly
-or awkward.
-
-At the end of the week Alaric rolls 1D100 and scores 92. His Dance skill therefore increases by the
-following:
-
-Alaric’s INT 16 divided by 5 = 4, plus;
-His aunt’s Teaching critical range of 5 (50%/10)
-
-Thus, after a week of hard effort and several crushed toes, Alaric has increased his Dance by a total of
-9% taking it to 32%. He is still no expert but is far less clumsy than he was. His aunt suggests that, in
-return for her time, Alaric should donate 50 Silver Pieces to the local temple, to show his appreciation.
-
-
-
-*	   Craft
-*	   Culture - if studying a culture completely alien to one’s own.
-*	   Engineering
-*	   Healing
-*	   Language
-*	   Lore (with the exception of Lore (Regional))
-*	   Teaching
-*	   Sorcery and Manipulation
+* Craft
+* Culture - if studying a culture completely alien to one's own.
+* Engineering
+* Healing
+* Language
+* Lore (with the exception of Lore (Regional))
+* Teaching
+* Sorcery and Manipulation
 
 It takes one month for the Adventurer to emerge with the Advanced Skill at its basic, Characteristic
 derived score. From that point on, the skill can then be improved through either Improvement
@@ -3446,47 +2927,39 @@ The teacher of the skill must be a professional, i.e. know the skill at 50% or h
 Learning a new Advanced Skill does not require a 1D100 roll to be successfully made; all that
 is necessary is the time and money needed for training. However, if the trainer has the Teaching
 skill, the time it takes to learn the new Advanced Skill is reduced by one day for every 10% he
-has in Teaching. Thus, in Alaric’s example, if his mentor in Lore (The Thunderer) has Teaching
+has in Teaching. Thus, in Alaric's example, if his mentor in Lore (The Thunderer) has Teaching
 70%, Alaric would need only 21 days - three weeks - rather than 28 to learn the skill to its
 starting level.
 
-Training Costs
-The standard costs for training are based on the Adventurer’s current level in the skill and the trainer’s
+#### Training Costs
+The standard costs for training are based on the Adventurer's current level in the skill and the trainer's
 Teaching skill. The table of costs that follows is a guide only and assumes that the Adventurer
 is finding an independent teacher who will offer one-to-one training. Dedicated academies may
 charge more or less, depending on reputation and a discount might be offered (5% per additional
 student, as a guideline) if a teacher is able to train multiple students at the same time. Remember
 that the teacher can add an additional Silver Piece for every 1% of his Teaching skill:
 
+##### Training Costs Table
 
-
-
-                                                                                                          73
-
-      Training Costs Table
-                                   Adventurer’s Current Skill %
-            Learning a New
-            Advanced Skill to                                        71% -
-            Base Score             Up to 50%        51% - 70%        100%          101%+
-Magic Skill      500 SP                 500 SP           600 SP           800 SP        1,000 SP
-Lore Skill       400 SP                 400 SP           500 SP           700 SP        900 SP
-Common           —                      0 SP             50 SP            100 SP        300 SP
-Skill
-Advanced         300 SP                 150 SP           200 SP           400 SP        700 SP
-Skill
-Combat Skill     150 SP                  150 SP          300 SP           600 SP        900 SP
+|                | Adv. to Base Score   | Up to 50%      | 51% - 70%      | 71% - 100%  | 101%+ |
+|----------------|----------------------|----------------|----------------|-------------|-------|
+| Magic Skill    | 500 SP               | 500 SP         | 600 SP         | 800 SP      | 1,000 SP |
+| Lore Skill     | 400 SP               | 400 SP         | 500 SP         | 700 SP      | 900 SP |
+| Common Skill   | --                   | 0 SP           | 50 SP          | 100 SP      | 300 SP |
+| Advanced Skill | 300 SP               | 150 SP         | 200 SP         | 400 SP      | 700 SP |
+| Combat Skill   | 150 SP               | 150 SP         | 300 SP         | 600 SP      | 900 SP |
 
 Therefore, an Adventurer wanting to train in his Sorcery (Grimoire) skill, currently at 74%, with
-a teacher who has Teach 85%, would spend 885 Silver Pieces for a week’s training.
+a teacher who has Teach 85%, would spend 885 Silver Pieces for a week's training.
 
 If an Adventurer is a member of a cult or guild that offers training in certain skills related to
-its membership, then he often benefits from a discount on training costs. The cult or guild’s
+its membership, then he often benefits from a discount on training costs. The cult or guild's
 description will specify what skills it trains in, what teachers it has available and what discount
 is offered to members. The Training Costs Table is used as the base cost for the training, unless
-otherwise specified in the cult or guild’s description.
+otherwise specified in the cult or guild's description.
 
 
-Ageing
+## Ageing
 The march of Time is inevitable. Unless an Adventurer is the lucky beneficiary of age-halting
 magic, he will get older and the effects of age will tell upon the frame. In Legend the signs of ageing
 do not begin until the Adventurer reaches the age of 40. At that point, and for each year thereafter
@@ -3494,26 +2967,22 @@ do not begin until the Adventurer reaches the age of 40. At that point, and for 
 Adventurer should make two Skill Tests: one for Resilience and one for Persistence. Each test is at
 a penalty equal to the number of years over 40 the Adventurer has attained. Thus, a 50 year old
 Adventurer suffers a -10% penalty to the Resilience and Persistence tests. The tests are also further
-modified according to the Adventurer’s life experiences, as noted in the following table.
+modified according to the Adventurer's life experiences, as noted in the following table.
 
-Life Experiences
-Life Experience                            Persistence and Resilience Modifiers
-Disease or Poisoning                       -10% (Resilience)
-Emotional trauma                           -5% (Persistence)
-Insanity                                   -10% (Persistence)
-Major Wound                                -10% (Resilience)
-Resurrected from Death                     -15% (Persistence and Resilience)
-Serious Wound                              -5% (Resilience)
+##### Life Experiences
+
+| Life Experience                          | Persistence and Resilience Modifiers |
+|------------------------------------------|--------------------------------------|
+| Disease or Poisoning                     | -10% (Resilience)                    |
+| Emotional trauma                         | -5% (Persistence)                    |
+| Insanity                                 | -10% (Persistence)                   |
+| Major Wound                              | -10% (Resilience)                    |
+| Resurrected from Death                   | -15% (Persistence and Resilience)    |
+| Serious Wound                            | -5% (Resilience)                     |
 
 Each different life experience is cumulative; so an Adventurer who has been poisoned and
 suffered a Major Wound incurs a -20% penalty to his Resilience and Persistence tests. However,
-
-
-
-
-74
-
-         the Adventurer does not suffer from accumulated penalties for the multiple occurrences of the
+the Adventurer does not suffer from accumulated penalties for the multiple occurrences of the
 same experience. Thus, even though an Adventurer may have suffered several Major Wounds, he
 only incurs a single -10% penalty.
 
@@ -3522,12 +2991,13 @@ ageing effects that year. If either test fails, the Adventurer must roll on the 
 columns of the Adventurer Ageing Table to determine which Characteristics suffer from the
 effects of ageing that year.
 
-Adventurer Ageing Table
-       Physical Ageing (Failed                         Mental Ageing (Failed
-1D6       Resilience)                                     Persistence)
-1-2       STR                                             INT
-3-4       CON                                             POW
-5-6       DEX                                             CHA
+##### Adventurer Ageing Table
+
+| 1D6     | Physical Ageing (Failed Resilience)           | Mental Ageing (Failed Persistence) |
+|---------|-----------------------------------------------|------------------------------------|
+| 1-2     | STR                                           | INT                                |
+| 3-4     | CON                                           | POW                                |
+| 5-6     | DEX                                           | CHA                                |
 
 Each Characteristic affected by ageing reduces by 1D2 points. These points can be recovered
 through normal Characteristic improvement, as described on page 71, representing efforts
@@ -3539,16 +3009,12 @@ to play tricks on the mind and memory, whilst reducing CHA indicates that the Ad
 getting craggier and more short-tempered, perhaps, as they get older.
 
 
-Damage
+## Damage
 Damage comes from a multitude of sources and the following rules account for the most
 common forms that Adventurers will face.
 
 
-
-
-                                                                                                     75
-
-      Acid
+### Acid
 What is important here is the dilution of the acid more than its type or source. Acids are
 therefore classified as being Weak, Strong or Concentrated. For game purposes Legend assumes
 that contact with the acid is significant or sustained, rather than just a droplet or two.
@@ -3557,37 +3023,19 @@ A splash or spray of acid lasts only for a single round before it ceases working
 considerable volume of acid however, inflicts the damage every round until the victim or location
 is removed and treated.
 
-            Damage
-            per Combat
-Acid Type        Round           Treatable With…
-Weak             1D2             Water - the residual acid can be washed away by the victim
-                            if a source of water, or similar fluid, is available. It takes
-                            a minute of washing to remove the acid: whilst being
-                            washed away the acid does not inflict any further damage
-                            but the victim must focus on treating the affected location
-                            with water and cannot undertake any further actions. If
-                            he interrupts the washing process he continues to suffer 1
-                            point of damage per round until it can be completed.
-Strong           1D4             First Aid skill - a successful First Aid roll is required to
-                            reduce the acid’s type from Strong to Weak; the victim
-                            continues to sustain damage from the acid whilst the First
-                            Aid treatment is being made. Thereafter the weak acid
-                            can be treated as noted previously. If the First Aid roll is a
-                            critical success, then the acid is neutralised without needing
-                            further attention.
-Concentrated     1D6             Healing skill - a successful Healing roll is needed to reduce
-                            the acid’s type from Concentrated to Weak. Thereafter the
-                            weak acid can be treated as noted previously. If the Healing
-                            roll is a critical success, then the acid is neutralised without
-                            needing further attention.
+| Acid Type | Damage per Combat Round | Treatable With... |
+|-----------|-------------------------|-------------------|
+| Weak | 1D2 | Water - the residual acid can be washed away by the victim if a source of water, or similar fluid, is available. It takes a minute of washing to remove the acid: whilst being washed away the acid does not inflict any further damage but the victim must focus on treating the affected location with water and cannot undertake any further actions. If he interrupts the washing process he continues to suffer 1 point of damage per round until it can be completed. |
+| Strong | 1D4 | First Aid skill - a successful First Aid roll is required to reduce the acid's type from Strong to Weak; the victim continues to sustain damage from the acid whilst the First Aid treatment is being made. Thereafter the weak acid can be treated as noted previously. If the First Aid roll is a critical success, then the acid is neutralised without needing further attention. |
+| Concentrated | 1D6 | Healing skill - a successful Healing roll is needed to reduce the acid's type from Concentrated to Weak. Thereafter the weak acid can be treated as noted previously. If the Healing roll is a critical success, then the acid is neutralised without needing further attention. |
 
 Armour slows the effects of acid but does not stop it. An armoured location has its APs reduced by
-the acid’s damage until it reaches zero Hit Points, at which point the damage is then transferred
+the acid's damage until it reaches zero Hit Points, at which point the damage is then transferred
 to the Hit Location that it had been protecting. Armour reduced to zero AP is rendered useless
 as the acid burns through bindings, straps and joints.
 
 
-Asphyxiation/Suffocation/Drowning
+### Asphyxiation/Suffocation/Drowning
 If prepared, Adventurers are able to hold their breath for a number of seconds equal to CON x5.
 
 If unprepared (and as the circumstances are too varied to summarise, Games Masters must
@@ -3598,19 +3046,14 @@ where he must struggle to breathe, then damage sustained through asphyxiation/su
 drowning is as follows:
 
 
-
-
-76
-
-
-      Make a (further) Resilience roll.
-*	 If the roll is a critical success, the Adventurer takes no damage that round.
-*	 If the roll is successful, the Adventurer sustains 1D3 points of damage to the Chest that
-round.
-*	 If the roll fails, the Adventurer sustains 1D3 points of damage to the Chest and Head that
-round.
-*	 If the roll is fumbled, the Adventurer sustains 1D6 points of damage to the Chest and Head
-that round.
+Make a (further) Resilience roll.  
+* If the roll is a critical success, the Adventurer takes no damage that round.
+* If the roll is successful, the Adventurer sustains 1D3 points of damage to the Chest that
+  round.
+* If the roll fails, the Adventurer sustains 1D3 points of damage to the Chest and Head that
+  round.
+* If the roll is fumbled, the Adventurer sustains 1D6 points of damage to the Chest and Head
+  that round.
 
 The process continues until the Adventurer is able to breathe normally again or they die.
 
@@ -3619,110 +3062,75 @@ permit: Swim, for instance, or grapple with a foe holding them in a position whe
 is occurring. However all such skill attempts are considered to be Hard (-40%).
 
 
-Disease and Poison
+### Disease and Poison
 Diseases and poisons take many different forms but for game purposes function in a similar
 way. First, the Potency of the disease or poison must be calculated. All diseases and poisons are
 rated for Potency between 10 and 100 (or higher). The Potency is then matched against the
 appropriate resisting skill (usually Resilience or Persistence) in an opposed test.
 
-*	   If the resisting skill is a success then the effects of the disease or poison are avoided.
-*	   If the resisting skill is a failure then the effects of the disease or poison are felt for the
-Duration.
+* If the resisting skill is a success then the effects of the disease or poison are avoided.
+* If the resisting skill is a failure then the effects of the disease or poison are felt for the
+  Duration.
 
-Characteristics of Poisons and Diseases
+#### Characteristics of Poisons and Diseases
 Every disease or poison has a series of Characteristics that govern how it affects the target. The
 Characteristics are:
 
-Application: How the poison or disease is administered:
+**Application**: How the poison or disease is administered:
 
-*	   Ingested - The disease or poison is ingested through either eating or drinking.
-*	   Inhaled - The disease or poison is inhaled through breathing or snorting.
-*	   Contact - The disease or poison is absorbed through skin contact.
-*	   Injected - The disease or poison must be injected directly into the body (via a needle, sting
-or some other direct means).
+* Ingested - The disease or poison is ingested through either eating or drinking.
+* Inhaled - The disease or poison is inhaled through breathing or snorting.
+* Contact - The disease or poison is absorbed through skin contact.
+* Injected - The disease or poison must be injected directly into the body (via a needle, sting
+  or some other direct means).
 
-Onset time: The time prior to the effects taking hold. Poisons or diseases possessing multiple
+**Onset time**: The time prior to the effects taking hold. Poisons or diseases possessing multiple
 Conditions may have different onset times for each one.
 
-Duration: The duration of the poison or disease’s Conditions
+**Duration**: The duration of the poison or disease's Conditions
 
-Resistance Time: When or how frequently the Adventurer needs to make a Resistance roll to
-counter the disease or poison’s effects.
+**Resistance Time**: When or how frequently the Adventurer needs to make a Resistance roll to
+counter the disease or poison's effects.
 
-Potency: The disease or poison’s Potency, rated between 10 and 100 (or higher).
+**Potency**: The disease or poison's Potency, rated between 10 and 100 (or higher).
 
-Resistance: How the disease or poison is resisted - either Persistence or Resilience, usually, but
+**Resistance**: How the disease or poison is resisted - either Persistence or Resilience, usually, but
 another roll may be called for.
 
-Conditions: Every poison or disease has one or more Conditions. These have specific effects as
+**Conditions**: Every poison or disease has one or more Conditions. These have specific effects as
 described in the Conditions table and if a victim fails to resist the poison or disease, he suffers all
 the Conditions described. See the Conditions table, following.
 
-
-78
-
-         Antidote/Cure: If the Adventurer succumbs to the poison or disease’s Conditions, there is still
+**Antidote/Cure**: If the Adventurer succumbs to the poison or disease's Conditions, there is still
 a chance that an appropriate cure will mitigate the effects. If so, then the remedy will be noted
 here. Otherwise all non magical diseases and poisons can be alleviated by specific healing magic,
 such as the Cure Disease or Cure Poison spells.
  
-Conditions Table
-Condition         Effects
-               The victim is incapacitated with pain. The affected area, if a location, cannot
-Agony             be used for the poison’s duration. If the poison affects the whole body, the
-               Adventurer cannot move save to crawl slowly and scream.
-               Victim suffers asphyxiation - he collapses, unable to breathe and is
-Asphyxiation
-               incapacitated. The rules for Asphyxiation, found on page 76, are used.
-               Victim suffers a further Hit Point of damage every hour, from each location
-Bleeding          currently wounded, or from internal bleeding. Internal bleeding generally
-               applies damage to all Hit Locations simultaneously.
-Blindness         Victim becomes blind.
-Confusion         Victim cannot use any knowledge, communication or magic skill.
-Contagious        Victim can transfer the poison or disease by touch.
-Deafness          Victim loses his hearing.
-               Victim must make a Resistance roll. If the Resistance roll fails then the victim
-               dies immediately. If the Resistance roll is successful then all Hit Locations are
-               reduced to a negative equivalent of their starting value: the victim then has a
-Death
-               number of minutes to live equal to his CON Characteristic. It requires either
-               the Healing skill or appropriate disease or poison healing magic to stabilise
-               the victim.
-               Victim’s vocal chords are paralysed, preventing verbal communication or the
-Dumbness
-               casting of spells.
-               Victim gains an extra level of Fatigue, on top of any they are currently
-Exhaustion
-               suffering from.
-               The victim’s body temperature fluctuates wildly - from hot to cold - and
-Fever             muscles ache. All skills are halved and the victim also suffers from nausea (see
-               the Nausea entry).
-               Victim experiences delusions and cannot differentiate between real and
-               imaginary experiences. His skills and abilities are unaffected but his ability to
-Hallucination
-               relate to the real world is seriously impaired and characterised by fear, panic,
-               hatred and, in extreme circumstances, irrational violence.
-               Victim suffers a permanent loss of one Hit Point in the location(s) affected,
-Maiming
-               due to necrosis of the injured tissue.
-               Victim is driven to follow some compulsion; such as avoid water, paranoia,
-Mania             attack companions and so forth. The mania induced by the disease or poison
-               will be noted in its description.
-               Victim cannot eat and must roll against his Resilience every time he performs
-               a stressful physical action to avoid being physically sick. The sickness lasts for
-Nausea
-               1D3 rounds during which he cannot act and, once it has ended, he suffers a
-               level of Fatigue until rested.
-Paralysis         Victim is unable to physically move.
-Sapping           Victim loses Magic Points based on its potency.
-               Victim loses consciousness for a period specified in the disease or poison’s
-Unconscious       description. When consciousness is regained the victim suffers a level of
-               Fatigue.
+##### Conditions Table
+
+| Condition | Effects |
+|-----------|---------|
+| Agony | The victim is incapacitated with pain. The affected area, if a location, cannot be used for the poison's duration. If the poison affects the whole body, the Adventurer cannot move save to crawl slowly and scream. |
+| Asphyxiation | Victim suffers asphyxiation - he collapses, unable to breathe and is incapacitated. The rules for Asphyxiation, found on page 76, are used. |
+| Bleeding | Victim suffers a further Hit Point of damage every hour, from each location currently wounded, or from internal bleeding. Internal bleeding generally applies damage to all Hit Locations simultaneously. |
+| Blindness | Victim becomes blind. |
+| Confusion | Victim cannot use any knowledge, communication or magic skill. |
+| Contagious | Victim can transfer the poison or disease by touch. |
+| Deafness | Victim loses his hearing. |
+| Death | Victim must make a Resistance roll. If the Resistance roll fails then the victim dies immediately. If the Resistance roll is successful then all Hit Locations are reduced to a negative equivalent of their starting value: the victim then has a number of minutes to live equal to his CON Characteristic. It requires either the Healing skill or appropriate disease or poison healing magic to stabilise the victim. |
+| Dumbness | Victim's vocal chords are paralysed, preventing verbal communication or the casting of spells. |
+| Exhaustion | Victim gains an extra level of Fatigue, on top of any they are currently suffering from. |
+| Fever | The victim's body temperature fluctuates wildly - from hot to cold - and muscles ache. All skills are halved and the victim also suffers from nausea (see the Nausea entry). |
+| Hallucination | Victim experiences delusions and cannot differentiate between real and imaginary experiences. His skills and abilities are unaffected but his ability to relate to the real world is seriously impaired and characterised by fear, panic, hatred and, in extreme circumstances, irrational violence. |
+| Maiming | Victim suffers a permanent loss of one Hit Point in the location(s) affected, due to necrosis of the injured tissue. |
+| Mania | Victim is driven to follow some compulsion; such as avoid water, paranoia, attack companions and so forth. The mania induced by the disease or poison will be noted in its description. |
+| Nausea | Victim cannot eat and must roll against his Resilience every time he performs a stressful physical action to avoid being physically sick. The sickness lasts for 1D3 rounds during which he cannot act and, once it has ended, he suffers a level of Fatigue until rested. |
+| Paralysis | Victim is unable to physically move. |
+| Sapping | Victim loses Magic Points based on its potency. |
+| Unconscious | Victim loses consciousness for a period specified in the disease or poison's description. When consciousness is regained the victim suffers a level of Fatigue. |
 
 
-                                                                                                    79
-
-      Sample Diseases
+### Sample Diseases
 These are samples of various diseases encountered during Legend play, to be used as they stand or
 as a template for Games Master designed infections.
 
@@ -3763,7 +3171,7 @@ Potency: 80
 Resistance: Resilience.
 Conditions: Hallucination, Mania (hydrophobia), Death. If the disease takes hold, the victim
 suffers increasingly acute and debilitating hallucinations. Halfway through the Duration, manic
-hydrophobia automatically sets-in as the victim’s throat swells, the body dehydrates and it
+hydrophobia automatically sets-in as the victim's throat swells, the body dehydrates and it
 becomes physically painful to swallow water. At the end of the Duration, the victim mercifully
 slips into a coma and dies.
 Antidote/Cure: Cure Disease spell. Rabies is not a magical disease but its severity means there
@@ -3776,7 +3184,7 @@ the conclusion of the disease.
 80
 
          Soul Palsy
-Carried by certain supernatural creatures, Soul Palsy deliberately targets the victim’s soul, eroding
+Carried by certain supernatural creatures, Soul Palsy deliberately targets the victim's soul, eroding
 Magic Points. The disease is usually contracted through inhaling the demonic breath of the
 supernatural monster carrying it.
 
@@ -3790,7 +3198,7 @@ Resistance: Persistence.
 Conditions: Sapping. The Sapping condition saps 1D6 Magic Points if the daily Resistance roll
 is failed.
 Antidote/Cure: Either the Cure Disease spell, or by drinking water specially Sanctified by
-a Priest of the victim’s cult. The Sanctified water has a Potency of the Priest’s Magic Points
+a Priest of the victim's cult. The Sanctified water has a Potency of the Priest's Magic Points
 multiplied by five and it reduces the Potency of the Soul Palsy by this amount, either completely
 curing the disease or enabling the victim to better resist it.
 
@@ -3841,7 +3249,7 @@ the second Resistance roll is failed. At the end of the Duration the victim must
 Resistance roll or suffer respiratory failure.
 Antidote/Cure: Anti-venom. Some cultures have perfected anti-venom remedies which have a
 Potency of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing
-roll and add their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout
+roll and add their Potency as a bonus to the victim's Resilience roll to fight the venom throughout
 its duration.
 
 Sleeping Draught
@@ -3982,9 +3390,9 @@ entirely on what they have available to spend. Living luxuriously to one Adventu
 like border-line poverty to another, depending on what Adventurers are used to.
 
 Use the following table as a general guide to living expenses. The terms used are relative to the
-amount of money the Adventurer has available: ‘luxury’ to someone with only a few silvers in
+amount of money the Adventurer has available: 'luxury' to someone with only a few silvers in
 their purse might be taking a bath once a week. To someone with several thousand, it might be
-taking a bath in ass’s milk every day.
+taking a bath in ass's milk every day.
 
 
 
@@ -4028,7 +3436,7 @@ exclusive of training costs. Neither are the costs of specific weapons, armour o
 goods used in adventuring included. As a period of Down Time begins, Adventurers should
 declare what standard of living they intend to pursue after having decided on training and
 personal improvement activities and paid any dues to cults or other patrons. These costs should
-be deducted from each Adventurer’s personal wealth and the remainder used to determine the
+be deducted from each Adventurer's personal wealth and the remainder used to determine the
 standard of living enjoyed for the remainder of the Down Time.
 
 
@@ -4064,7 +3472,7 @@ Healing
 Healing can come from a variety of sources: First Aid and Healing skills are obvious, as is magical
 healing in the form of spells: these healing forms are dealt with in their respective descriptions.
 However, Adventurers also heal naturally and the rate of natural healing is dependent on the
-Adventurer’s Resilience.
+Adventurer's Resilience.
 
 
 Natural Healing
@@ -4091,7 +3499,7 @@ Resilience Value                            Healing Rate
  Natural Healing Table thus, an injured Adventurer with Resilience 44% heals at a rate of 1
  Hit Point every 36 hours. If he decided to assist his colleagues in defending the village from
  attack, his Healing Rate would drop to 1 Hit Point every 48 hours, for the duration of the
- time he engages in work related to the village’s defence.
+ time he engages in work related to the village's defence.
 
 *	   Natural healing will not heal a Major Wound until that location has either been treated
   with a successful Healing test (see page 60) or significant magical healing has been applied.
@@ -4102,13 +3510,13 @@ However magical healing is achieved, whether from a spell, prayer or potion, it 
 instantaneous effect.
 
 In addition to the restoration of Hit Points, any location suffering a Major Wound that
-receives even a single Hit Point’s restorations through magical healing of commensurate power
+receives even a single Hit Point's restorations through magical healing of commensurate power
 immediately stops bleeding and can benefit from natural healing.
 
 If an Adventurer has been knocked unconscious due to a Serious or Major Wound, the restoration
 of a single Hit Point to the wounded location that caused the unconsciousness will revive them.
 
-Unless specifically stated in the magic’s description, magical healing cannot re-attach severed
+Unless specifically stated in the magic's description, magical healing cannot re-attach severed
 limbs or revive the dead.
 
 
@@ -4116,7 +3524,7 @@ Hero Points
 Hero Points are part of the currency of Legend. Hero Points allow Adventurers to differentiate
 themselves from the rank and file, using Hero Points earned to gain an advantage over opponents,
 find a way through tricky situations, or mitigate that killing blow that gets through even the best
-Adventurer’s defence.
+Adventurer's defence.
 
 Every Adventurer starts with a fixed number of Hero Points that are used throughout his
 adventures and Quests. New Adventurers start the game with two Hero Points and more can be
@@ -4128,7 +3536,7 @@ zero and four Hero Points awarded. However Hero Points need not be reserved for 
 a story: if an Adventurer performs some action or deed that the Games Master deems especially
 heroic, or which significantly adds to the atmosphere or progression of the story, then he can
 make an immediate award, at his discretion. Such awards are never a right and cannot be
-demanded by players for their Adventurers; they are always the Games Master’s decision. In
+demanded by players for their Adventurers; they are always the Games Master's decision. In
 these cases ad-hoc awards should be of a single Hero Point and no Adventurer should benefit
 from more than one such award per story.
 
@@ -4137,11 +3545,11 @@ from more than one such award per story.
 
                                                                                                    87
 
-      Alaric’s Tale
+      Alaric's Tale
 In a battle with a group of trolls, Thrace saves the day through a mixture of quick thinking, deft tactics
 and mighty thrusts with his long spear. As his initiative saves the lives of Alaric and Lilina, the Games
 Master makes him an immediate award of one Hero Point at the end of the combat. At the end of the
-story’s session and following more heroics from all three Adventurers, the Games Master awards each
+story's session and following more heroics from all three Adventurers, the Games Master awards each
 of them two Hero Points.
 
 
@@ -4161,9 +3569,9 @@ to re-roll an attack or damage roll made against him.
 
 For example Alaric is engaged in an opposed Skill Test with his great rival, Owain. Both are attempting
 to impress the fair Selena with their storytelling skills (using Influence). Owain has rolled a critical
-success, beating Alaric’s normal success. Alaric thus spends a Hero Point forcing Owain to re-roll his
+success, beating Alaric's normal success. Alaric thus spends a Hero Point forcing Owain to re-roll his
 Influence skill: the re-roll results in a failure for Owain and so Alaric wins the contest and impresses
-the giggling Selena through a last minute recollection of the heroic fight against the trolls…
+the giggling Selena through a last minute recollection of the heroic fight against the trolls...
 
 Glancing Blow: An Adventurer who suffers a Major Injury may spend a Hero Point to
 downgrade the wound to a Serious Injury. This reduces the damage taken to one Hit Point less
@@ -4172,9 +3580,9 @@ than what would be required to inflict a Major Wound.
 Heroic Insight: A Hero Point may be spent to gain a hint or clue from the Games Master that
 helps the Adventurer resolve a situation that has him at an impasse.
 
-For example, Alaric is trapped within the troll’s lair and can hear troll guards bearing down on him.
+For example, Alaric is trapped within the troll's lair and can hear troll guards bearing down on him.
 Panicked by the situation, he is truly stuck for what to do next. Alaric spends a Hero Point for a Heroic
-Insight: the Games Master smiles and informs Alaric’s player that, suddenly, he feels a vague draft of
+Insight: the Games Master smiles and informs Alaric's player that, suddenly, he feels a vague draft of
 air against his cheek that could only have come from the crack of a concealed doorway. This prompts
 Alaric to search and he finds the exit just in time. The Heroic Insight has saved his life.
 
@@ -4208,13 +3616,13 @@ of exhaustion.
   before risking Fatigue. Once this time has elapsed, the Adventurer must immediately make
   a Simple (+20%) Athletics test or begin suffering the effects of Fatigue. So long as the
   activity continues, he must make another Simple (+20%) Athletics test every time a number
-  of minutes equal to the Adventurer’s CON elapse.
+  of minutes equal to the Adventurer's CON elapse.
 *	   Heavy Activity: Includes fighting in combat, sprinting, swimming and climbing
   at top speed. An Adventurer can engage in heavy activity for a number of Combat
   Actions equal to his CON score before risking Fatigue. Once this time has elapsed, the
   Adventurer must immediately make a Normal (+0%) Athletics test or begin suffering
   the effects of Fatigue. So long as the activity continues, he must make another Normal
-  (+0%) Athletics test every time a number of Combat Actions equal to the Adventurer’s
+  (+0%) Athletics test every time a number of Combat Actions equal to the Adventurer's
   CON elapse.
 
 Note that some versions of medium or heavy activity may not require Athletics tests. The Games
@@ -4294,7 +3702,7 @@ and allow natural or magical healing to take place.
 
 Abstract Fatigue
 The standard Fatigue rules aim for a balance between realism and ease of play. However, at the
-Games Master’s discretion, they can be still further simplified for players who find keeping track
+Games Master's discretion, they can be still further simplified for players who find keeping track
 of elapsed rounds almost as tiresome as armed combat.
 
 90
@@ -4306,7 +3714,7 @@ a rapid river, climbing a castle wall and so on. He should feel free to adjust t
 and the players are comfortable - some groups may agree that it takes three kills (or major duels)
 to induce a Fatigue test. Other groups may decide that the first kill merits a Simple (+20%)
 Athletics test, the second and third a Normal (+0%) Athletics test, the fourth and fifth a Difficult
-(-20%) Athletics test and so forth. A rest between combats might ‘reset’ this clock.
+(-20%) Athletics test and so forth. A rest between combats might 'reset' this clock.
 
 The effects of abstract Fatigue are the same as those given in the regular rules.
 
@@ -4318,15 +3726,15 @@ All inanimate objects have Armour Points and Hit Points. Except for the most unu
 circumstances, attacks on inanimate objects will automatically hit - Adventurers simply need to
 work out how much damage they deal.
 
-The object’s Armour Points will be deducted from any damage dealt as normal, with the
-remainder being applied to its Hit Points. Once an object’s Hit Points have been reduced to
+The object's Armour Points will be deducted from any damage dealt as normal, with the
+remainder being applied to its Hit Points. Once an object's Hit Points have been reduced to
 zero, it is smashed and useless.
 
 Inanimate objects likely to block or restrain Adventurers, such as doors or ropes, have Armour
-and Hit Point scores. To break down a door, or burst one’s bonds, an Adventurer must succeed
+and Hit Point scores. To break down a door, or burst one's bonds, an Adventurer must succeed
 with either a Brawn, Unarmed or weapon attack roll, as appropriate. A successful roll deals
 damage to the item as per the weapon type; a failed roll has simply failed to apply enough force
-or damage to the item to deteriorate its condition. Once the object’s Hit Points reach zero, the
+or damage to the item to deteriorate its condition. Once the object's Hit Points reach zero, the
 item is broken or sundered. In the cases where Brawn is used (to break a rope, for example), a
 successful roll inflicts the same damage as an Unarmed attack.
 
@@ -4380,7 +3788,7 @@ such as swimming or climbing.
 Armour Penalty = Total Locations Armoured, divided by five and rounded up. Thus, a full suit of
 plate armour (6 AP on seven locations gives an Armour Penalty of 42/5 = -9)
 
-The effects of Armour Penalty on an Adventurer’s Movement are as follows:
+The effects of Armour Penalty on an Adventurer's Movement are as follows:
 
 *	   Walking or gentle jogging: Armour does not interfere with such movement, although it
 can increase the Fatigue level (see page 90).
@@ -4460,7 +3868,7 @@ standard, as follows:
 
 
 Armour
-Armour absorbs weapon damage. Any successful attack must first penetrate an Adventurer’s
+Armour absorbs weapon damage. Any successful attack must first penetrate an Adventurer's
 armour before it starts reducing Hit Points. This simple fact alone makes armour an essential
 for any Adventurer intending to face great peril or deliberately seek out dangerous challenges.
 However, armour is not infallible: every piece of armour has certain limitations and weak-spots
@@ -4490,7 +3898,7 @@ Cost: The average cost in Silver Pieces to purchase this armour.
 Armour Effects on Strike Rank and Movement
 The more and/or heavier, the armour worn, the more restricted and slower an Adventurer is
 likely to be in combat. Total the APs for each armoured location and divide the result by five,
-rounding up. The result is the Armour Penalty applied to the Adventurer’s Strike Rank.
+rounding up. The result is the Armour Penalty applied to the Adventurer's Strike Rank.
 
 For example a chainmail shirt covers three locations for 5 AP per location. This gives a total of 15
 AP which, divided by five, gives an Armour Penalty of -3. A full suit of plate mail, covering seven
@@ -4585,10 +3993,10 @@ trying to convince poorer folk, or may bring a penalty when negotiating your way
 
 Article of
 Clothing              Description                                                        Cost
-Apron, crafter’s      This is a heavy leather apron worn by smiths, glass blowers 4 SP
+Apron, crafter's      This is a heavy leather apron worn by smiths, glass blowers 4 SP
                  and other professionals who must withstand direct and
                  oppressive heat. Its special design makes it heavy (2 ENC)
-                 but it can shield the wearer’s chest, abdomen and upper legs
+                 but it can shield the wearer's chest, abdomen and upper legs
                  from up to 10 points of heat-based damage per minute. It
                  is awkward to move around in and imposes a -10% Evade
                  penalty because of its stiffness.
@@ -4609,7 +4017,7 @@ Breeches, common Common, full or three-quarter length trousers in a variety     
 Breeches, fancy       As for common breeches but cut or decorated to the latest          3 SP
                  fashion.
 Cape                  A sleeveless, hoodless garment worn around the shoulders.          3 SP
-                 A cape usually covers just the wearer’s back.
+                 A cape usually covers just the wearer's back.
 Coat, common          Any standard cut of coat used for warmth and in inclement 2 SP
                  weather. May be made from a variety of fabrics but most
                  commonly wool.
@@ -4638,7 +4046,7 @@ Cloak, winter     A large fur and leather cloak with an extra flap to close 12 S
                or Resilience Skill Tests to avoid the effects of natural
                cold. A winter cloak may also be used as a warm blanket/
                bedroll combination.
-Dress, common     A woman’s garment, usually of ankle length.                     2 SP
+Dress, common     A woman's garment, usually of ankle length.                     2 SP
 Dress, fancy      As for common dress but cut and decorated to the fashion        5 SP
                of the day.
 Dress, noble      Ceremonial or symbolic robes worn by nobles and official        150 SP
@@ -4704,7 +4112,7 @@ Toga, noble      As for common and fancy but made from the finest linen         
             and tastefully decorated.
 Tunic, common    A sleeveless jacket of sheepskin, wool or thin leather that is   6 CP
             secured with buttons, toggles or ties.
-Tunic, fancy     As for common but cut and decorated in the day’s fashions. 2 SP
+Tunic, fancy     As for common but cut and decorated in the day's fashions. 2 SP
 
 
 
@@ -4729,14 +4137,14 @@ Category: The type of weapon this is.
 Damage Dice: The damage the weapon deals on a successful attack.
 
 STR/DEX: The minimum STR and DEX scores needed to easily wield this weapon. For every
-point a Characteristic is below these minimums, a -5% penalty is applied to a Adventurer’s skill
+point a Characteristic is below these minimums, a -5% penalty is applied to a Adventurer's skill
 when attacking and parrying with this weapon.
 
 Size: Each weapon possesses a size rating. This is related to its mass, leverage and stability.
-The value is used to determine both the weapon’s ability to inflict and parry damage. The size
+The value is used to determine both the weapon's ability to inflict and parry damage. The size
 categories are Small (S), Medium (M), Large (L), Huge (H) and Enormous (E).
 
-Reach: The weapon’s length, how far it can reach in combat (see page 139). The size categories
+Reach: The weapon's length, how far it can reach in combat (see page 139). The size categories
 are Touch (T), Short (S), Medium (M), Long (L) and Very Long (VL).
 
 Combat Manoeuvres: The Combat Manoeuvres (see the Combat chapter) a weapon can inflict
@@ -4758,7 +4166,7 @@ one step smaller for the purposes of blocking damage. However, the wielder also 
 penalty when trying to Parry with the ball and chain.
 
 Battleaxe: A single-bladed weapon with a sturdy haft, the battleaxe may be used with one or two
-hands, depending on the wielder’s preference. A battleaxe can be used to bash through doors and
+hands, depending on the wielder's preference. A battleaxe can be used to bash through doors and
 obstacles rather quickly. It suffers no damage when attacking inanimate wooden objects.
 
 
@@ -4766,7 +4174,7 @@ obstacles rather quickly. It suffers no damage when attacking inanimate wooden o
 
                                                                                                   101
 
-       Buckler: This small, round shield is held in the hand and used to ‘punch block’ incoming blows.
+       Buckler: This small, round shield is held in the hand and used to 'punch block' incoming blows.
 Bucklers are often used to attack with the off-hand, when the main weapon is tied up. Its small
 size however, provides little protection against larger weapons or missile fire.
 
@@ -4778,7 +4186,7 @@ with this weapon. If an opponent is caught by surprise, it can also be used as a
 Club: Perhaps the simplest of all weapons and almost certainly the oldest, the club is simply a
 long, stout piece of wood used to bludgeon others. However, there are several cultures that have
 carved clubs made of stone, or bone - all of which can be sculpted or decorated according to the
-wielder’s preference.
+wielder's preference.
 
 Dagger: Essentially a large knife attached to a short handle, the dagger is often carried as a backup
 or parrying weapon. Thieves, assassins and bandits often enjoy the use of daggers because they can
@@ -4791,10 +4199,10 @@ as a Medium weapon when parrying).
 
 Falchion: A single edged, cleaver-like sword that delivers heavy, chopping blows.
 
-Garrotte: An assassin’s weapon, the garrotte is a cord, chain or thin braided metal wire used to
-loop around a target’s neck and strangle him. Only usable during a grapple or from behind on an
+Garrotte: An assassin's weapon, the garrotte is a cord, chain or thin braided metal wire used to
+loop around a target's neck and strangle him. Only usable during a grapple or from behind on an
 unsuspecting victim, the garrotte inflicts its damage each and every Combat Action the wielder
-continues to actively crush his victim’s throat. Whilst being strangled, the victim can attempt to
+continues to actively crush his victim's throat. Whilst being strangled, the victim can attempt to
 wrestle free, or damage his opponent so badly they are forced to let go - but acts at a penalty due
 to the strangler being directly behind him.
 
@@ -4814,7 +4222,7 @@ without being destroyed.
 
 Great Sword: This group nomenclature pertains to a number of massive blades that can be
 found as much as two metres in length. They are used by those warriors who want the enemy
-at more than arm’s length, or cleaved beneath the sheering power of the weapon’s strike. Part of
+at more than arm's length, or cleaved beneath the sheering power of the weapon's strike. Part of
 the blade is unsharpened and leather-bound on many great swords, allowing the wielder to grip
 them for more effective parries.
 
@@ -4823,12 +4231,12 @@ them for more effective parries.
 
          Halberd: An axe head combined with a thrusting tip and a hook, mounted on a spear shaft,
 the halberd is a multi-purpose weapon. Halberdiers are versatile opponents that can bring any
-version of the weapon’s attack to bear in an instant.
+version of the weapon's attack to bear in an instant.
 
 Hatchet: A simple and cheap one-handed cleaving tool, the hatchet is essentially a smaller
 version of an axe. It can be used to cut through wooden inanimate objects with no risk to its
 edge. A hatchet is usually well-balanced enough to throw effectively and many users prefer to
-call these items ‘throwing axes’.
+call these items 'throwing axes'.
 
 Heater Shield: A medium sized shield designed for both mounted and foot use. Most are
 reinforced with metal edging and commonly have some form of symbol or insignia painted on
@@ -4844,11 +4252,11 @@ both types of combats. Kite shields are also effective against ranged weapons.
 
 Knife: Knives can be made from a sharp piece of metal, stone, bone or even glass. They almost
 always have a short hilt carved from wood. More commonly a tool than a weapon, the knife is a
-multi-purpose item that should be found in every Adventurer’s backpack.
+multi-purpose item that should be found in every Adventurer's backpack.
 
 Lance: An oversized spear designed to be used from the back of a mount, a lance can be a
 devastating weapon when charging. A mounted character who uses a lance during a charge may
-add his mount’s Damage Modifier instead of his own to the damage.
+add his mount's Damage Modifier instead of his own to the damage.
 
 Long Spear: The long spear is a lengthy piercing weapon with a wide bladed head, often used in
 ranked units to defeat charging cavalry.
@@ -4861,7 +4269,7 @@ Mace: The mace is comprised of a large flanged or knobbed weight mounted on one 
 a haft, which is often reinforced with metal. Its ability to incapacitate, even heavily armoured
 opponents, makes this a popular weapon in civilised cultures.
 
-Main Gauche: Also called a ‘parrying dagger’, the main gauche is a long-bladed dagger with two
+Main Gauche: Also called a 'parrying dagger', the main gauche is a long-bladed dagger with two
 extremely long and strong quillions. It is normally used in the off-hand in conjunction with a
 longsword, rapier or sabre. Parrying with a main gauche increases the damage blocked by one
 step (i.e. it is treated as a Medium weapon when parrying).
@@ -4885,7 +4293,7 @@ Morningstar: Carved from a length of wood nearly a metre long, the morningstar i
 or spiked cudgel.
 
 Net: Used by gladiators, huntsmen and watchmen, the net is more than a mere fishing net to be
-tossed at a target. A fighter’s net is made of thick cord and leather, tipped with numerous hooks
+tossed at a target. A fighter's net is made of thick cord and leather, tipped with numerous hooks
 and heavy weights. It can be swung like a flail, the weights lashing out to batter an opponent,
 inflicting the damage listed.
 
@@ -4893,11 +4301,11 @@ Poleaxe: A polearm about the height of a man, it is has a hammer head backed wit
 spike and a spear tip for thrusting. This style of two handed war hammer, is very popular against
 heavy armour types.
 
-Poniard: This duellist’s weapon is a long dagger, designed to be thrust into a target.
+Poniard: This duellist's weapon is a long dagger, designed to be thrust into a target.
 
 Quarterstaff: A simple staff, sometimes banded with metal at either end. In the hands of a
 skilled user, it is a fast and effective weapon for both offence and defence and can be hidden in
-plain sight as a shepherd’s hook or simple traveller’s walking staff.
+plain sight as a shepherd's hook or simple traveller's walking staff.
 
 Rapier: Fast and light, the rapier relies more on the thrust than the slash. It is a particularly
 effective weapon, especially considering its reach.
@@ -4944,11 +4352,11 @@ thrown is twice this score.
 Load: This shows how many Combat Actions are required to load or reload the weapon.
 
 STR/DEX: The minimum STR and DEX scores needed to easily wield this weapon. For every
-point a Characteristic is below these minimums, a -5% penalty is applied to an Adventurer’s skill
+point a Characteristic is below these minimums, a -5% penalty is applied to an Adventurer's skill
 when attacking with this weapon.
 
 Size: Each ranged weapon possesses a size rating. In the case of projectile weapons, this does
-not relate to the firing weapon itself but rather to how ‘forceful’ its ammunition is. The value is
+not relate to the firing weapon itself but rather to how 'forceful' its ammunition is. The value is
 used to determine whether the weapon can overcome any shield which may parry it. The size
 categories are Small (S), Medium (M), Large (L), Huge (H) and Enormous (E).
 
@@ -4966,14 +4374,14 @@ Cost: The average cost in Silver Pieces to purchase this weapon.
 Ranged Combat Weapon Descriptions
 Arbalest: This is a metal-armed crossbow that when stood on its end is as tall as a man. It fires
 specially crafted arbalest bolts that have been reinforced in order to withstand the sheer force
-that its braided cord propels them at. Able to drive a finger-thick bolt a full hand’s depth into an
+that its braided cord propels them at. Able to drive a finger-thick bolt a full hand's depth into an
 oak tree, the arbalest hits with force enough to punch through armour as if it were thin cloth but
-requires the use of a windlass to re-cock it. An Adventurer’s Damage Modifier is never applied
+requires the use of a windlass to re-cock it. An Adventurer's Damage Modifier is never applied
 when he is using an arbalest.
 
 Blowgun: This is a hollow tube or pipe, usually made of wood or bone, which expels a tiny dart
 when its user blows on one end. As the dart itself is capable of negligible damage, blowguns are
-seldom used without some kind of poison. An Adventurer’s Damage Modifier is never applied
+seldom used without some kind of poison. An Adventurer's Damage Modifier is never applied
 when he is using a blowgun. If fired at someone wearing more protection than normal clothing,
 it requires the Combat Manoeuvre of either Bypass Armour or Choose Location to strike flesh.
 
@@ -4992,13 +4400,13 @@ Ball & chain 1D6+1      9/11    M      M     Entangle,     2    6/8    250 SP
                                         Stun Location
 Battleaxe      1D6+1    11/9    M      M     Bleed, Sunder 1    4/8    100 SP
           1D8+1    9/9                  (2H only)
-Buckler        1D3      -/5     M      S     —             1    6/8    50 SP
+Buckler        1D3      -/5     M      S     -             1    6/8    50 SP
 Chain          1D4      7/12    M      M     Entangle      1    8/6    10 SP
 Club           1D6      7/-     M      S     Stun Location 1    4/4    5 SP
-Dagger2        1D4+1    -/-     S      S     Bleed, Impale —    6/8    30 SP
-Dirk           1D3+2    -/-     S      S     Bleed, Impale —    6/6    50 SP
+Dagger2        1D4+1    -/-     S      S     Bleed, Impale -    6/8    30 SP
+Dirk           1D3+2    -/-     S      S     Bleed, Impale -    6/6    50 SP
 Falchion       1D6+2    7/9     M      M     Bleed         1    6/10   200 SP
-Garrotte       1D2      -/9     S      T     —             —    1/2    15 SP
+Garrotte       1D2      -/9     S      T     -             -    1/2    15 SP
 Great axe      1D12+2   13/9    H      L     Bleed, Sunder 2    4/10   125 SP
 Great club     2D6      12/9    H      L     Stun Location 3    4/10   50 SP
 Great          1D10+3   11/9    H      L     Stun          3    4/10   250 SP
@@ -5010,12 +4418,12 @@ Halberd1       1D8+2    7/7     L      VL    Entangle,     4    4/10   250 SP
                                         Impale,
                                         Sunder
 Hatchet2       1D6      -/9     S      S     Bleed         1    3/6    25 SP
-Heater         1D4      9/-     L      S     —             2    6/12   150 SP
+Heater         1D4      9/-     L      S     -             2    6/12   150 SP
 shield3
-Hoplite        1D4      11/-    H      S     —             3    6/18   300 SP
+Hoplite        1D4      11/-    H      S     -             3    6/18   300 SP
 shield3
-Kite shield3   1D4      13/-    H      S     —             3    4/18   300 SP
-Knife2         1D3      -/-     S      S     Bleed, Impale —    5/4    10 SP
+Kite shield3   1D4      13/-    H      S     -             3    4/18   300 SP
+Knife2         1D3      -/-     S      S     Bleed, Impale -    5/4    10 SP
 Lance  1
           1D10+2   9/9     H      VL    Impale,       3    4/10   150 SP
                                         Sunder
@@ -5033,7 +4441,7 @@ Lance  1
                  1D10     9/9     L      L     Sunder (2H
                                                only)
  Mace            1D8      7/7     M      S     Stun Location 1    6/6    100 SP
- Main            1D4      -/11    S      S     Bleed          —   6/7    180 SP
+ Main            1D4      -/11    S      S     Bleed          -   6/7    180 SP
  Gauche
  Military flail 1D10      13/11   L      L     Stun Location 3    4/10   250 SP
  Military pick 1D6+1      11/5    M      M     Stun           3   6/10   180 SP
@@ -5045,7 +4453,7 @@ Lance  1
  Poleaxe         1D8+2    11/9    L      L     Impale, Stun   2   6/10   150 SP
                                                Location,
                                                Sunder
- Poniard2        1D4      -/7     S      S     Bleed, Impale —    4/5    60 SP
+ Poniard2        1D4      -/7     S      S     Bleed, Impale -    4/5    60 SP
  Quarter staff 1D8        7/7     M      L     Stun Location 2    4/8    20 SP
  Rapier          1D8      7/13    M      L     Impale         1   5/8    100 SP
  Sabre           1D6+1    7/7     M      M     Bleed, Impale 1    6/8    225 SP
@@ -5073,7 +4481,7 @@ This weapon may Parry Ranged weapons.
                                                                                   107
 
        Dart: A dart resembles an arrow with a longer head and shorter shaft (usually slightly less than
-half a metre in length). Darts are rarely a warrior’s weapon and are found in the hands of small
+half a metre in length). Darts are rarely a warrior's weapon and are found in the hands of small
 game huntsmen and roguish Adventurers.
 
 Discus: A discus is a flat disc made of stone or metal. Hurling the discus is an old sport and show
@@ -5083,7 +4491,7 @@ and shatter bone with a forceful throw.
 Heavy Crossbow: Similar in concept to the light crossbow, this version is larger and reinforced
 with metal bands to handle the immense pull of the string. Many heavy crossbows come with a
 metal stirrup so the firer can use his foot for leverage, or a crank to pull back the thick string. An
-Adventurer’s Damage Modifier is never applied when he is using a heavy crossbow.
+Adventurer's Damage Modifier is never applied when he is using a heavy crossbow.
 
 Javelin: The javelin is a spear-like weapon with a narrow, pointed head designed for throwing
 short distances. The thrower of a javelin may use Pin Weapon as a Combat Manoeuvre, against a
@@ -5092,7 +4500,7 @@ removed (which takes one round).
 
 Light Crossbow: A simple mechanical bow, the light crossbow often sees service in small armies
 that lack training in other types of Ranged weapons. It can be clutched in one hand and reloaded
-with the other, making it a good infantryman’s weapon. An Adventurer’s Damage Modifier is
+with the other, making it a good infantryman's weapon. An Adventurer's Damage Modifier is
 never applied when he is using a light crossbow.
 
 Long Bow: A long bow has a shaft as much as two metres in length and is designed to be fired
@@ -5102,18 +4510,18 @@ Net: A net can be hurled at an opponent within five metres. Due to its engulfing
 net may only be evaded, not parried.
 
 Recurve Bow: A recurve, or composite bow is made from a laminated combination of wood,
-sinew, horn and sometimes even bone. When strung the bow’s forward-angled arms give it a
+sinew, horn and sometimes even bone. When strung the bow's forward-angled arms give it a
 distinctive shape, allowing it to be as strong as a long bow but without the length. Recurve bows
 are mainly used by mounted archers and nomads, since the reduced size means that it does not
 catch on the mount that it is fired from.
 
 Short Bow: Designed to be fired from horseback, the short bow is equally useful as a foot
-soldier’s weapon. It is a good hunting tool as well as a weapon of war and when used to hunt deer
+soldier's weapon. It is a good hunting tool as well as a weapon of war and when used to hunt deer
 and smaller game animals it can make all the difference.
 
 Sling: A sling is a long strip of cloth or leather used to fling a stone or bullet at a target. It is as
 lethal as a bow, able to injure or kill those wearing heavy armour. Many slings also have a sewn-in
-leather cup or pad in which to hold the projectile while gathering velocity. A sling’s range makes
+leather cup or pad in which to hold the projectile while gathering velocity. A sling's range makes
 it useful against archers.
 
 Staff Sling: A simple sling mounted on the end of a wooden haft, the staff sling is used by
@@ -5132,33 +4540,33 @@ Trident: See entry in Close Combat Weapons.
 Weapon Damage Modifier Range Load DEX SIZ Manoeuvres                      ENC AP/ HP Cost
 Arbalest 1D12 N        180m 4     10/9 E Impale,                          3   6/10   500
                                        Sunder                                     SP
-Blowgun —     N        15m   1    -/9   — Impale                          —   1/4    30 SP
-Bolas    1D4  Y        15m   —    -/9   — Entangle                        —   2/2    10 SP
-Dagger 1D4    Y        10m   —    -/9   S Impale                          —   4/6    30 SP
-Dart     1D4  Y        20m   —    -/9   S Impale                          —   2/1    10 SP
-Discus 1D4+1 Y         50m   —    -/9   L Stun                            —   2/3    30 SP
+Blowgun -     N        15m   1    -/9   - Impale                          -   1/4    30 SP
+Bolas    1D4  Y        15m   -    -/9   - Entangle                        -   2/2    10 SP
+Dagger 1D4    Y        10m   -    -/9   S Impale                          -   4/6    30 SP
+Dart     1D4  Y        20m   -    -/9   S Impale                          -   2/1    10 SP
+Discus 1D4+1 Y         50m   -    -/9   L Stun                            -   2/3    30 SP
                                        Location
-Hatchet 1D6   Y        10m   —    7/11 S  Bleed                           1      03/06/11 25 SP
+Hatchet 1D6   Y        10m   -    7/11 S  Bleed                           1      03/06/11 25 SP
 Heavy 1D10    N        150m 3     7/9   H Impale,                         2      4/8      350
 crossbow                                  Sunder                                          SP
-Javelin 1D8   Y        30m   —    5/9   H Impale, Pin                     1      3/8      20 SP
+Javelin 1D8   Y        30m   -    5/9   H Impale, Pin                     1      3/8      20 SP
                                        Weapon
                                        (Shield)
 Light    1D8  N        100m 2     5/9   L Impale                          1      4/5        150
 crossbow                                                                                    SP
 Long     1D8  Y        175m 1     13/11 H Impale                          1      4/7        200
 bow                                                                                         SP
-Net       —   N        2.5m —     10/11 — Entangle                        3      2/20       200
+Net       -   N        2.5m -     10/11 - Entangle                        3      2/20       200
                                                                                          SP
 Recurve 1D8         Y          175m     1      13/11 H      Impale        1      4/8        225
 bow                                                                                         SP
 Short   1D6         Y          80m      1      9/11    L    Impale        1      4/4        75 SP
 bow
-Sling   1D8         Y          200m     1      -/11    L    Stun          —      1/2        5 SP
+Sling   1D8         Y          200m     1      -/11    L    Stun          -      1/2        5 SP
                                                          Location
 Staff     2D6       Y          100m     3      -/11    H    Stun          2      3/6        20 SP
 sling                                                       Location
-Trident   1D8       Y          10m      —      10/7    L    Impale        2      4/10       155
+Trident   1D8       Y          10m      -      10/7    L    Impale        2      4/10       155
                                                                                          SP
 
 
@@ -5167,7 +4575,7 @@ The following table lists specific types of ammunition, how sturdy they might be
 weigh enough to have an ENC score and their cost. Please note that unless an entry has a (#)
 after its name, the price listed is for a single item.
 
-Arbalest bolts: Made of metal-shod hardwood roughly as thick as a man’s thumb, arbalest bolts
+Arbalest bolts: Made of metal-shod hardwood roughly as thick as a man's thumb, arbalest bolts
 are tipped with heavy metal heads that resemble a stiletto or dagger. They use small fletching
 from waxy-feathered fowl and are remarkably accurate, if only due to the sheer force with which
 they are fired.
@@ -5214,20 +4622,20 @@ into a usable shape with little effort (as lead becomes soft when heated slightl
 Ranged Weapon Ammunition
 Ammunition                                     AP/HP             ENC              Cost
 Arbalest bolts (10)                            1/2               1                5 SP
-Arrow, bodkin (10)                             1/1               —                1 SP
-Arrow, broadhead (10)                          1/1               —                2 SP
-Arrow, fishing                                 1/2               —                2 CP
-Arrow, signal                                  1/1               —                3 CP
-Arrow, wood-headed                             1/1               —                2 CP
-Blowgun darts (10)                             1/1               —                2 SP
-Crossbow bolts (10)                            1/1               —                2 SP
-Sling bullets (10)                             1/1               —                5 CP
+Arrow, bodkin (10)                             1/1               -                1 SP
+Arrow, broadhead (10)                          1/1               -                2 SP
+Arrow, fishing                                 1/2               -                2 CP
+Arrow, signal                                  1/1               -                3 CP
+Arrow, wood-headed                             1/1               -                2 CP
+Blowgun darts (10)                             1/1               -                2 SP
+Crossbow bolts (10)                            1/1               -                2 SP
+Sling bullets (10)                             1/1               -                5 CP
 
 
 Using Ranged Weapons in Close Combat
 Just as Close Combat weapons are not designed to be thrown, so most Ranged weapons are not
 generally designed to be used in Close Combat. Sometimes, however, Adventurers will be left
-with no option but to club someone with a crossbow butt or stab an enemy with an arrow…
+with no option but to club someone with a crossbow butt or stab an enemy with an arrow...
 
 If used in Close Combat, a projectile weapon or its ammunition is usually treated as an improvised
 weapon. Use the most applicable combat skill the Adventurer has but apply a -2 modifier to any
@@ -5262,12 +4670,12 @@ as a guideline only. If an item has no ENC value, it is light enough to be negli
 
 General Items
 Item         Description                                               Cultures   ENC      Cost
-Animal call/ This is a small wooden, bone or even metallic whistle     All        —        1 SP
+Animal call/ This is a small wooden, bone or even metallic whistle     All        -        1 SP
 whistle      or instrument used to make attractive sounds in
           the particular style of animal. Commonly used by
           hunters to attract prey, or by scouts to communicate
           signals to one another in non-verbal ways, animal
-          calls are seldom larger than a hand’s span in size. Any
+          calls are seldom larger than a hand's span in size. Any
           Adventurer using an animal call to hunt can add
           +10% to his Survival skill for hunting purposes.
 Animal       Using a coiled spring or a weight and pulley, the         All        2        7 SP
@@ -5297,17 +4705,17 @@ tackle        useful for constructing traps, hauling up heavy
          items and so forth. It adds a +10% bonus to
          Mechanisms tests to make or disarm large traps
          and is required for some Engineering tests.
-Bottle, glass Capable of holding one litre of liquid. The glass        Barbarian,   —     2 SP
+Bottle, glass Capable of holding one litre of liquid. The glass        Barbarian,   -     2 SP
          can be transparent or opaque at no extra cost.           Civilised,
                                                                   Nomad
-Candle, 1     A small, stubby candle that will burn for one            All          —     1 CP
+Candle, 1     A small, stubby candle that will burn for one            All          -     1 CP
 hour          hour before exhausting its fuel. Originally used
          by miners to mark the passage of time while
          they were underground, many Adventurers have
          adopted them for the same purpose. A candle
          illuminates a one metre radius. Any wind stronger
          than a slight breeze will extinguish a candle.
-Candle, 2     As for previous but slower burning.               All                 —     3 CP
+Candle, 2     As for previous but slower burning.               All                 -     3 CP
 hour
 Candle, 6     As for previous but slower burning.                      All          1     1 SP
 hour
@@ -5339,7 +4747,7 @@ Crowbar      Adds +10% to Brawn rolls to lever open doors,             Barbarian
 
          Item          Description                                              Cultures     ENC   Cost
 Doorjamb      This wedge of serrated metal is roughly the              Civilised    2     5 SP
-           length of a man’s hand, with very rough rasps
+           length of a man's hand, with very rough rasps
            up and down two of its sides. It is used under a
            wooden door to keep it from opening. It takes two
            Combat Actions to place and hammer a doorjamb
@@ -5353,19 +4761,19 @@ coloured      even skin, dye comes in a thick paste that must          Civilised
            properly. Any dyed object will take on the new
            colour but it will eventually fade or wash out after
            1D6 weeks.
-First aid kit A first aid kit is made up primarily of bandages,        Barbarian,   —     25 SP
+First aid kit A first aid kit is made up primarily of bandages,        Barbarian,   -     25 SP
            tourniquets and herbal compresses. It allows the         Civilised,
            owner to use the First Aid skill without penalty. A      Nomad
            first aid kit is good for five uses (whether the Skill
            Test succeeds or fails) before it is used up.
-Fish hook     A small metal hook used to catch fish. This item         All          —     2 LB
+Fish hook     A small metal hook used to catch fish. This item         All          -     2 LB
            allows an Adventurer to use his Survival skill to
            catch a fish without suffering a penalty on the test.
 Fishing kit Consisting of several hooks, thin but strong line,         All          1     15 SP
            a segmented rod and corks, the fishing kit grants
            an Adventurer a +20% bonus to his Survival test
            to catch fish.
-Flint and     The fastest and easiest way to start a fire, an          All          —     5 CP
+Flint and     The fastest and easiest way to start a fire, an          All          -     5 CP
 tinder        Adventurer with flint and tinder can build a fire
            in one minute under normal conditions without
            having to roll his Survival skill. Games Masters
@@ -5373,10 +4781,10 @@ tinder        Adventurer with flint and tinder can build a fire
            attempting to start a fire in a high wind or driving
            rain.
 Footpads      Small sheets of layered fur and silk lashed under        Civilised    1     12 SP
-           the user’s existing shoes or boots, footpads reduce
+           the user's existing shoes or boots, footpads reduce
            the noise footfalls make by a remarkable margin.
            Although the items are heavier than they look,
-           reducing the wearer’s movement by one metre per
+           reducing the wearer's movement by one metre per
            movement, they are exceptionally quiet and add
            +10% to Stealth for silent movement purposes.
 
@@ -5386,8 +4794,8 @@ Footpads      Small sheets of layered fur and silk lashed under        Civilised
                                                                                                113
 
        Item          Description                                             Cultures     ENC   Cost
-Grappling    Tied to a rope, it can be lofted up to half the          Barbarian,   —     5 SP
-hook         thrower’s STR in metres with an Athletics test. It       Civilised
+Grappling    Tied to a rope, it can be lofted up to half the          Barbarian,   -     5 SP
+hook         thrower's STR in metres with an Athletics test. It       Civilised
         will support the weight of 50 ENC or 50 SIZ, or
         any combination thereof.
 Hammer       Useful in a variety of capacities, a hammer is a         Barbarian,   1     1 SP
@@ -5395,14 +4803,14 @@ Hammer       Useful in a variety of capacities, a hammer is a         Barbarian,
         as a weapon, it is treated as a club (wielded with       Nomad
         a -10% penalty). Hammers may be used on
         inanimate objects without being destroyed.
-Healer’s kit Stocked with bandages, mortar and pestle,                All          1     150 SP
-        poultices, barber’s tools, basic surgical equipment
+Healer's kit Stocked with bandages, mortar and pestle,                All          1     150 SP
+        poultices, barber's tools, basic surgical equipment
         and everything else a healer needs to practise his
-        trade on the road, a healer’s kit is necessary for an
+        trade on the road, a healer's kit is necessary for an
         Adventurer to use the Healing skill.
 Hourglass This specially blown tube of curved glass set into          Civilised    1     20 SP
         a wooden or brass frame is filled with fine sand
-        that takes exactly an hour’s time to pass through.
+        that takes exactly an hour's time to pass through.
         Fragile and easily disturbed, the hourglass is an
         important piece of equipment for alchemists and
         mages, who need to keep track of reaction and
@@ -5441,12 +4849,12 @@ hanging     made of coloured paper and thin wood, a hanging
          lantern provides hazy illumination up to a four
          metre radius. It will burn for three hours on a flask
          of oil.
-Lock picks An item no self-respecting thief would ever be           Civilised    —     75 SP
+Lock picks An item no self-respecting thief would ever be           Civilised    -     75 SP
          without, lock picks allow an Adventurer to use
          his Mechanisms skill to pick a lock. The Games
          Master may assign penalties or bonuses to this test
          based upon the specific circumstances.
-Magnifying Whether mounted on a handle or in a pair of wire         Civilised    —     10 SP
+Magnifying Whether mounted on a handle or in a pair of wire         Civilised    -     10 SP
 Lens        frames to be worn as spectacles, this specifically
          shaped piece of ground glass is used to magnify
          writing, symbols or other tiny clues. While
@@ -5490,7 +4898,7 @@ Net, fishing This is a two metre by two metre weighted net of        All        
         or running water to catch fish, crustaceans and
         the like, for food. It takes 3D10 minutes to use
         the net properly but adds a +25% bonus to the
-        Adventurer’s Survival skill for the purposes of
+        Adventurer's Survival skill for the purposes of
         catching food in this way.
 Oar,         A hinged piece of metal with a wide wooden              Barbarian,   2     5 SP
 collapsible end that snaps open to a half-metre length, the          Civilised,
@@ -5503,7 +4911,7 @@ Oil, flask   A single flask of oil is enough to fuel a basic         Barbarian, 
         and ignited, enough to sustain a small fire for         Nomad
         one minute. Oil is packaged in small pottery or
         glass bottles but can also occasionally be found
-        in waxed leather skins. A skin cannot be ‘broken’
+        in waxed leather skins. A skin cannot be 'broken'
         as mentioned previously - either on purpose or
         accidentally.
 Oil, Jellied Mixing sawdust, chalk or hoof shavings into             Barbarian,   2     10 SP
@@ -5534,14 +4942,14 @@ Oil, weapon Used to keep rust and tarnish off the precious        Barbarian,   1
          Any blade treated with weapon oil after it has been
          used in combat will not suffer from mundane rust
          or tarnish for a week or so.
-Papyrus,    A papyrus sheet is a sheet of thin, brittle paper     Civilised    —     5 CP
+Papyrus,    A papyrus sheet is a sheet of thin, brittle paper     Civilised    -     5 CP
 sheet       useful for taking notes, drawing maps or even
          making a rubbing of a raised surface. It is
          painstakingly made from papyrus reeds and
          is considered a luxury item by most common
          people. A sheet of papyrus is square, half a metre
          by half a metre. Once written on, a papyrus sheet
-         can be ‘waxed’ to make the ink water resistant
+         can be 'waxed' to make the ink water resistant
          and smear-proof, though this also makes the sheet
          more flammable should it ever be exposed to an
          open flame.
@@ -5549,9 +4957,9 @@ Pole, 3m    A long pole serves many useful purposes to an         All          1
          Adventurer, from testing the stability of the
          ground ahead of him, to functioning as a crude
          yoke.
-Quiver      Quivers can generally hold up to 30 arrows or         All          —     2 SP
+Quiver      Quivers can generally hold up to 30 arrows or         All          -     2 SP
          crossbow bolts.
-Razor,      The mainstay of any barber’s tools, the folding       Civilised    —     3 SP
+Razor,      The mainstay of any barber's tools, the folding       Civilised    -     3 SP
 folding     razor is the best implement to painstakingly
          remove three day old stubble. Useful for a variety
          of reasons, the razor can also be used to inflict
@@ -5580,7 +4988,7 @@ Rope, silken Lighter, stronger and less abrasive to the skin,        Civilised  
         purposes, shortening it by four metres.
 Sack, large A wide sack of leather or canvas, able to hold 10        All          1     5 CP
         ENC of equipment.
-Sack, small A small sack can hold 5 ENC of equipment.                All          —     2 CP
+Sack, small A small sack can hold 5 ENC of equipment.                All          -     2 CP
 Saw, hand This long piece of hammered metal has been                 Barbarian,   1     1 SP
         sharpened to have a jagged and serrated edge            Civilised,
         perfect for ripping through wood, which is              Nomad
@@ -5595,7 +5003,7 @@ Scythe       Primarily a tool for harvesting grain, a scythe can     Barbarian, 
         be put to work as a weapon when necessary. If           Civilised
         used as a weapon, it is considered a bill (wielded
         with a -10% penalty).
-Seal         Often built into jewellery, such as a ring or           Barbarian,   —     100 SP
+Seal         Often built into jewellery, such as a ring or           Barbarian,   -     100 SP
         necklace, seals are carved with an identifying crest    Civilised,
         or mark representing its owner. These are used to       Nomad
         press wax to close letters, scrolls or other similar
@@ -5627,7 +5035,7 @@ person        driven into the ground, this tent can be set up         Civilised,
            properly, up to eight human-sized individuals can
            sleep inside without fear for most normal weather
            conditions.
-Torch, 1      A torch has one end wrapped in cloth and dipped         All          —     4 CP
+Torch, 1      A torch has one end wrapped in cloth and dipped         All          -     4 CP
 hour          in pitch or a similar flammable substance. It can
            be lit with flint and tinder in one round and will
            burn for one hour. A torch illuminates a three
@@ -5638,7 +5046,7 @@ hour          in pitch or a similar flammable substance. It can
            hit will also extinguish the brand.
 Torch, 6      As for previous but treated with longer-lasting         All          1     8 CP
 hour          materials.
-Torch,        As for previous but the materials are treated with      Barbarian,   —     2 SP
+Torch,        As for previous but the materials are treated with      Barbarian,   -     2 SP
 waterproof    inflammable and water dispelling chemicals so           Civilised,
            that, even when wet, the torch still lights. It will    Nomad
            not burn underwater, however.
@@ -5682,12 +5090,12 @@ Good Quality Riding Horse                                 450 SP           60
 War Horse                                                 500 SP           80
 Ox/Bison                                                  200 SP           70
 Cow                                                       150 SP           50
-Chickens (per half dozen)                                 6 SP             —
-Ducks (per half dozen)                                    10 SP            —
-Geese (per half dozen)                                    15 SP            —
+Chickens (per half dozen)                                 6 SP             -
+Ducks (per half dozen)                                    10 SP            -
+Geese (per half dozen)                                    15 SP            -
 Pig                                                       50 SP            25
 Goat                                                      50 SP            25
-Falcon (or similar trained bird of prey)                  400 SP           —
+Falcon (or similar trained bird of prey)                  400 SP           -
 
 The normal amount the animal can carry without being overloaded is given in the ENC Carried
 column. As for Adventurers, mounts and beasts of burden can become overloaded if this figure
@@ -5726,31 +5134,31 @@ Bridle       mouth of a mount and attached to a set of leather or chain
           it does not offer any sort of bonus to Riding or Driving tests,
           not having a bit and bridle on a mount when an Adventurer
           Critically Fumbles one of these tests can be catastrophic (at
-          the Games Master’s discretion).
-Crop         The crop is a piece of wood, bone or metal with a folded          —     15 SP
+          the Games Master's discretion).
+Crop         The crop is a piece of wood, bone or metal with a folded          -     15 SP
           leather strap at the end. It is used to force a mount to push
           harder. Spurring movement with the stinging and noisy
-          ‘crack’ of a crop on the hindquarters of a ridden mount can
+          'crack' of a crop on the hindquarters of a ridden mount can
           sometimes bring higher speeds. In game terms this allows
           a rider to make an additional Riding Skill Test to increase
           speed, though he can only do so three turns in a row before
           the mount becomes numb or angry.
-Driver’s     A length of thin and flexible wood tipped with a long, thin       —     25 SP
-whip         piece of resin-coated cord or braided leather, a driver’s whip
+Driver's     A length of thin and flexible wood tipped with a long, thin       -     25 SP
+whip         piece of resin-coated cord or braided leather, a driver's whip
           is used to sting the flanks of drawing mounts from the
-          driver’s bench of a wagon, coach or cart. It is used to bring
+          driver's bench of a wagon, coach or cart. It is used to bring
           higher speeds out of the entire team. In game terms this
           allows a driver to make an additional Driving Skill Test to
           increase speed but he can only do so a number of turns in a
           row equal to the number of drawing mounts attached to the
           vehicle before the team becomes inured.
-Falconer’s   This kit includes a thick leather glove or gauntlet with cord     1     30 SP
+Falconer's   This kit includes a thick leather glove or gauntlet with cord     1     30 SP
 Kit          sewn to it in order to tether a falcon or hunting hawk when
           at rest. It also includes a leather or wooden hood that fits
           over the eyes and ears of the bird in an effort to keep the
           animal calm before releasing it to perform its duties. Anyone
           attempting to perform Craft (Falconry) Skill Tests without a
-          full falconer’s kit suffers a -10% penalty to his Skill Test.
+          full falconer's kit suffers a -10% penalty to his Skill Test.
 Feed/mount Whether it is a supply of corn mash and oats for a stallion,        1     5 CP
 rations (per sardines for a sea lion or osprey, or chunks of raw horsemeat
 day)         for a griffon, this category covers the road rations needed
@@ -5795,7 +5203,7 @@ Saddlebag     A pair of canvas, leather or cloth bags designed to be draped     
          carry more equipment or goods for the owner. A saddlebag
          can carry 15 ENC worth of weight.
 Shoes, horse Common metal shoes nailed to the bottom of hoofed             1         10 SP
-        animals, ‘horse’ shoes are designed to keep sharp stones and
+        animals, 'horse' shoes are designed to keep sharp stones and
         gravel from chipping or splitting a hoof. Hoofed mounts
         that do not have shoes will need to be rested more frequently
         in order to remove detritus, imposing a -10% penalty to
@@ -5813,7 +5221,7 @@ mortal enemies, is handled using these rules.
 
 Legend combat has certain hallmarks that are worth bearing in mind; these are as follows:
 
-*	   Combat is a deadly business, irrespective of an Adventurer’s level of skill. A well-placed blow
+*	   Combat is a deadly business, irrespective of an Adventurer's level of skill. A well-placed blow
   can take down the hardest or best armoured Adventurer.
 *	   Combat is tactical. Good tactical decisions or choices can greatly influence the outcome of
   a battle. The combat rules are designed to support tactical options.
@@ -5826,16 +5234,16 @@ Legend combat has certain hallmarks that are worth bearing in mind; these are as
 
 
 
-Alaric’s Tale
+Alaric's Tale
 Alaric, Thrace and Lilina have penetrated the underground layer of the troll Illsa Skessa, the troll
-Alaric believes was responsible for his father’s murder. Creeping through the narrow tunnels of the
+Alaric believes was responsible for his father's murder. Creeping through the narrow tunnels of the
 underground complex the three companions emerge into a large cavern which, the frail light of their
 torches shows, is filled with debris, discarded bones from eagerly devoured troll-meals and, over in a
 corner, slowly roasting something they have captured, a group of goblin guards. The goblins look up
 and squint as torch-light falls over them; hands fall to nearby weapons. Alaric, Thrace and Lilina are
 in no mood to run but are eager for a fight.
 
-Combat is about to commence…
+Combat is about to commence...
 
 
 
@@ -5845,9 +5253,9 @@ components are as follows:
 
 
 Combat Skills and Styles
-Combat skills are purchased as styles. Learning the style ‘Broadsword and Shield’ costs the same
-skill points as learning ‘Greataxe’, thus avoiding the necessity of having to train each weapon
-in a combination separately. Alaric, for example, has the Combat Style ‘Spear and Shield’; this
+Combat skills are purchased as styles. Learning the style 'Broadsword and Shield' costs the same
+skill points as learning 'Greataxe', thus avoiding the necessity of having to train each weapon
+in a combination separately. Alaric, for example, has the Combat Style 'Spear and Shield'; this
 
 
                                                                                                          123
@@ -5863,8 +5271,8 @@ Sword and Shield (any one-handed sword and any shield type); Mace and Shield; Sw
 (any one-handed sword coupled with a dagger which is used for parrying but may also be used for attack);
 Two-Handed Sword (a large sword requiring two hands to stabilise but inflicting greater damage).
 
-In situations where the user of a ‘two weapon’ or a ‘weapon and shield’ Combat Style is unable,
-for whatever reason, to utilise part of the combination, then the wielder’s skill is unchanged but
+In situations where the user of a 'two weapon' or a 'weapon and shield' Combat Style is unable,
+for whatever reason, to utilise part of the combination, then the wielder's skill is unchanged but
 he does lose the advantage of having two weapons or the defensive capabilities of his shield.
 
 Adventurers trying to decide what sort of Combat Style to select should consider the following:
@@ -5929,13 +5337,13 @@ from combat or cannot continue to fight, actions revert to Local Time and the co
 
 
 
-Alaric’s Tale
+Alaric's Tale
 The goblin guards are some metres distant from Alaric, Thrace and Lilana but it is clear that a fight
-is likely. ‘What are you going to do?’ The Games Master asks each player. ‘We ready our weapons and
-prepare to fight,’ Alaric’s player says and the others agree. ‘Okay,’ the Games Master replies and reaches
-for a sheet of paper to start recording initiative, hits, damage and other combat information, ‘we’re
-moving to Combat Rounds; five second bursts measured by Combat Actions. Everybody ready? Good…
-Initiative rolls please…’
+is likely. 'What are you going to do?' The Games Master asks each player. 'We ready our weapons and
+prepare to fight,' Alaric's player says and the others agree. 'Okay,' the Games Master replies and reaches
+for a sheet of paper to start recording initiative, hits, damage and other combat information, 'we're
+moving to Combat Rounds; five second bursts measured by Combat Actions. Everybody ready? Good...
+Initiative rolls please...'
 
 
 
@@ -5956,13 +5364,13 @@ Armour Penalty
 Strike Rank Penalty = (Totalled Armour Points worn on all locations) divided by five.
 
 As discussed on page 92 Armour has a negative impact on Initiative; the heavier the protection
-worn, the bigger the hindrance to moving and reacting quickly. An Adventurer’s Strike Rank is
+worn, the bigger the hindrance to moving and reacting quickly. An Adventurer's Strike Rank is
 reduced by one fifth of the totalled value of AP worn on all locations (rounded up).
 
 
                                                                                                           125
 
-       Alaric’s Tale
+       Alaric's Tale
 The Games Master has called for Initiative. This means Alaric, Thrace and Lilina must roll 1D10,
 add their Strike Rank score and then apply any modifications for armour. Here are the core results of
 the Initiative Rolls:
@@ -5980,7 +5388,7 @@ rounding up gives Alaric a -2 Armour Penalty, so his Strike Rank is reduced to 1
 Thrace wears similar armour to Alaric and so he, too, has a -2 Armour Penalty, bringing his Strike
 Rank down to 11.
 
-Lilana wears her grandmother’s leather breastplate, greaves and vambraces, plus her bronze, plumed
+Lilana wears her grandmother's leather breastplate, greaves and vambraces, plus her bronze, plumed
 helmet. Her armour totals 16 AP which, divided by five and rounded up gives a -4 Armour Penalty;
 her Strike Rank is reduced to 20.
 
@@ -6005,8 +5413,8 @@ Rank penalty.
 
 Movement in Combat
 In a Combat Round, an Adventurer may move up to his standard Movement allowance. This
-movement is divided across all of the Adventurer’s Combat Actions. Each Combat Action may
-include all, some or none of the Adventurer’s remaining Movement in addition to an attack or
+movement is divided across all of the Adventurer's Combat Actions. Each Combat Action may
+include all, some or none of the Adventurer's remaining Movement in addition to an attack or
 other action. For example, an Adventurer with a Movement of 8m and 3CA could:
 1st Combat Action: Move 3m, make an Attack
 2nd Combat Action: Move 1m, make an Attack
@@ -6020,7 +5428,7 @@ other action. For example, an Adventurer with a Movement of 8m and 3CA could:
 2nd Combat Action: Move 0m, make an Attack
 3rd Combat Action: Move 8m, make an Attack.
 
-The total amount moved may not exceed the Adventurer’s Movement (except when Sprinting).
+The total amount moved may not exceed the Adventurer's Movement (except when Sprinting).
 
 
 Combat Actions
@@ -6031,13 +5439,13 @@ cast spells and so forth.
 When a Combat Action is spent, it is gone; Adventurers therefore need to assess how they use CA
 according to the nature of the opponent and the odds being faced.
 
-How an Adventurer’s Combat Actions are used is completely up to the player, who may be as
+How an Adventurer's Combat Actions are used is completely up to the player, who may be as
 aggressive or defensive as he wishes When combined with Initiative, CA take on a dynamic
 nature; since how they are used can depend on the order of when one acts in the round.
 
 For example, Alaric is forced into a fight. He has 3 CA and has rolled a better Initiative than his
 opponent. Going first he decides to attack and the foe succeeds in parrying. Both have used one CA
-for that round. Then it is the opponent’s turn and he counter-attacks, forcing Alaric to parry. Now
+for that round. Then it is the opponent's turn and he counter-attacks, forcing Alaric to parry. Now
 both have used two CAs. Since the lowest Initiative has been reached but both combatants still have
 a Combat Action remaining; the GM cycles back to the highest Initiative again - allowing Alaric to
 attack a second time that round. His opponent again parries the blow and the round ends, since both
@@ -6063,7 +5471,7 @@ Combat Round as a reaction to an incoming threat.
    useful.
 *	 Evade: Adventurers can attempt to dive or roll clear of missiles or a charging attack. This
    action can also be declared in advance of an anticipated attack (see Parry). The CA available
-   on the character’s next Strike Rank following an Evade attempt cannot be used to make an
+   on the character's next Strike Rank following an Evade attempt cannot be used to make an
    Attack. This penalty carries over to a new round if the Adventurer uses his last available CA
    in a round to Evade.
 
@@ -6087,7 +5495,7 @@ retrieve the weapon and a second to return to a readied stance.
 
 
 
-Alaric’s Tale
+Alaric's Tale
 Alaric has three Combat Actions whilst Thrace and Lilina have 2 CA each - as do the three goblins.
 Thus, Alaric has a slight edge over his opponents.
 
@@ -6096,7 +5504,7 @@ Thus, Alaric has a slight edge over his opponents.
 
 Weapon Size and Reach
 Every weapon possesses two ratings, Size and Reach. These are used to determine both the
-weapon’s ability to parry damage and its reach in combat. The size categories are Small, Medium,
+weapon's ability to parry damage and its reach in combat. The size categories are Small, Medium,
 Large, Huge, and Enormous. Further sizes are beyond the scope of mere mortal encounters. The
 reach categories are Touch, Short, Medium, Long and Very Long.
 
@@ -6138,7 +5546,7 @@ dinosaurs.
 
 Attacks and Parries
 To make either an Attack or Parry both the attacker and the defender must spend a Combat
-Action and roll against their appropriate Combat Style. The attacker’s and defender’s results are
+Action and roll against their appropriate Combat Style. The attacker's and defender's results are
 noted because the difference between them, if a difference in level of success exists, is crucial to
 the outcome of the exchange.
 
@@ -6151,7 +5559,7 @@ Successful Roll
 If the attacker succeeds with the attack, he rolls weapon damage and adds his Damage Modifier
 (if any).
 
-If the defender succeeds in his Skill Test, then he can reduce the attacker’s damage, if any,
+If the defender succeeds in his Skill Test, then he can reduce the attacker's damage, if any,
 according to the comparative size of their weapons.
 
 *	   Parrying an attack with a weapon or shield of equal or greater size deflects all damage.
@@ -6162,7 +5570,7 @@ For example, parrying a great axe with a greatsword would block all damage; parr
 target shield would halve the damage and parrying it with a dagger would stop no damage at all.
 
 If the attacker has missed then obviously no damage will be inflicted. However, the defender
-should still roll to see if his parry succeeds, in case he manages to beat the attacker’s level of
+should still roll to see if his parry succeeds, in case he manages to beat the attacker's level of
 success - granting them the choice of one or more opportunistic Combat Manoeuvres.
 
 Unsuccessful Roll and Fumbles
@@ -6187,7 +5595,7 @@ appropriate Fumble table for the action involved.
                        defend.
 04-06     Drop Weapon       Weapon falls 1D4 metres away.
 07-09     Lose Balance      Lose next 1D3 Combat Actions.
-10-12     Damage Weapon     Weapon takes damage from opponent’s parrying weapon
+10-12     Damage Weapon     Weapon takes damage from opponent's parrying weapon
                        directly to its HP, ignoring its Armour Points. Else weapon
                        strikes an inanimate object (tree, wall, ground and so on) and
                        does damage to itself.
@@ -6207,7 +5615,7 @@ Natural Weapon Fumbles
 04-06     Numb Limb         Limb is temporarily paralysed until a successful Resilience
                        roll is made, starting next Combat Action.
 07-09     Entangle Self     Lose next 1D3 Combat Actions.
-10-12     Damage Limb       Limb is injured from striking opponent’s parrying weapon,
+10-12     Damage Limb       Limb is injured from striking opponent's parrying weapon,
                        armour or an inanimate object (tree, wall, ground and so
                        on) and does damage to itself.
 13-14     Sprawl            Trip and fall prone. Forfeit next 1D3 Combat Actions. All
@@ -6252,7 +5660,7 @@ parry Skill Tests. Differences in levels of success are calculated by how many s
 two. In other words, if both combatants roll a critical, then the difference between them is 0.
 
 The Levels of Success table summarises the differences in success levels depending on the attacker
-and defender’s rolls.
+and defender's rolls.
 
 Gaining a level of success over an opponent allows the combatant to perform an opportunistic
 Combat Manoeuvre. Combat Manoeuvres can be used to put down an opponent quickly, or
@@ -6260,17 +5668,17 @@ render them helpless in some other way. These are fun to use, encourage tactical
 encourage the adoption of less lethal combat resolution.
 
 Levels of Success
-                         Attacker’s Roll
+                         Attacker's Roll
                          Critical            Success              Failure             Fumble
-Defender’s Critical         —                   Defender gets 1      Defender gets 2     Defender gets 3
-Roll       Success          Attacker gets 1     —                    Defender gets 1     Defender gets 2
-        Failure          Attacker gets 2     Attacker gets 1      —                   —
-        Fumble           Attacker gets 3     Attacker gets 2      —                   —
+Defender's Critical         -                   Defender gets 1      Defender gets 2     Defender gets 3
+Roll       Success          Attacker gets 1     -                    Defender gets 1     Defender gets 2
+        Failure          Attacker gets 2     Attacker gets 1      -                   -
+        Fumble           Attacker gets 3     Attacker gets 2      -                   -
 
-For example, an attacker rolling a critical success against the defender’s success gives the attacker a level
+For example, an attacker rolling a critical success against the defender's success gives the attacker a level
 of success and therefore 1 Combat Manoeuvre.
 
-A defender rolls a success against an attacker’s fumble giving the defender two levels of success and
+A defender rolls a success against an attacker's fumble giving the defender two levels of success and
 therefore 2 Combat Manoeuvres.
 
 
@@ -6311,7 +5719,7 @@ Maximise Damage2, 3                                Slip Free
 Stun Location                                      Stand Fast
 Sunder                                             Take Weapon
 Tangle                                             Trip Opponent1
-Trip Opponent1                                     —
+Trip Opponent1                                     -
 1
 Both an Offensive and Defensive Manoeuvre.
 2
@@ -6323,14 +5731,14 @@ This manoeuvre is stackable.
 Offensive Combat Manoeuvres
 Bash opponent - Attacks can be used to deliberately bash the opponent off balance. The
 recipient is forced backwards by one metre for every five points (or fraction thereof ) of damage
-rolled. Bashing works only on creatures up to twice the attacker’s SIZ. The calculation uses the
+rolled. Bashing works only on creatures up to twice the attacker's SIZ. The calculation uses the
 damage value originally rolled by the attacker, before any subtractions due to armour, parries and
 so forth. If the bash forces the opponent into an obstacle then the recipient must make a Difficult
 (-20%) Athletics Skill Test to avoid falling prone.
 
 Bleed (Cutting Weapons) - Causes a wound that begins to bleed critically, if the attack
 overcomes Armour Points and injures the target. The defender must make an opposed roll of
-Resilience vs. the attacker’s original attack roll. If the defender fails, then a major artery or vein
+Resilience vs. the attacker's original attack roll. If the defender fails, then a major artery or vein
 132
 
          is cut and the wound inflicts a level of Fatigue at the start of each new Combat Round. Bleeding
@@ -6338,15 +5746,15 @@ wounds can be stopped by the successful use of the First Aid skill but the recip
 participate in any strenuous or violent action without opening the wound up again. Fatigue
 levels gained by blood loss remain until sufficient time has passed for the body to recover.
 
-Bypass armour (Critical Success Only) - The blow finds a gap in the defender’s protection.
+Bypass armour (Critical Success Only) - The blow finds a gap in the defender's protection.
 This counts against worn armour or the natural skin/fur/shell of creatures. If striking a target
 that has both natural protection and wearing armour, then the attacker must decide which one is
 bypassed. Physical protection gained from magic is considered as being worn armour.
 
-Bypass parry - The defender’s parrying weapon is treated as being one size level less. For example,
+Bypass parry - The defender's parrying weapon is treated as being one size level less. For example,
 Alaric uses Bypass Parry against a troll champion he is fighting. The troll is parrying with a glaive
-(size Large). This means that, for the purposes of parrying, the troll’s glaive is treated as size Medium
-for countering Alaric’s attack.
+(size Large). This means that, for the purposes of parrying, the troll's glaive is treated as size Medium
+for countering Alaric's attack.
 
 Change range - Allows the Adventurer to freely change the engagement range between himself
 and the opponent. This can be used to select a more favourable distance for a particular weapon,
@@ -6355,16 +5763,16 @@ or even to disengage from the fight completely if desired (see Weapon Reach).
 Choose location - The attacker may freely select the location where the blow lands, as long as
 that location is normally within reach.
 
-Damage weapon (Attack and Defence) - The opponent’s weapon is damaged. The winner
-rolls the damage for his weapon and applies it to his opponent’s. The opponent’s weapon uses its
+Damage weapon (Attack and Defence) - The opponent's weapon is damaged. The winner
+rolls the damage for his weapon and applies it to his opponent's. The opponent's weapon uses its
 own Armour Points for resisting the damage. If reduced to zero Hit Points the weapon breaks.
 
 Disarm opponent (Attack and Defence) - The opponent must roll an opposed test of his
 Combat Skill vs. the original attack roll (if the attacker won) or the original parry roll (if the
 defender won). If the recipient of the disarm fails, he loses his weapon. Two handed or entangling
 weapon wielders may add a bonus of +20% to their skill for this check. Disarming works only
-on creatures of up to twice the attacker’s STR. If the attacker has a hand free, he can grab the
-opponent’s weapon on a successful Disarm.
+on creatures of up to twice the attacker's STR. If the attacker has a hand free, he can grab the
+opponent's weapon on a successful Disarm.
 
 Entangle (Entangling Weapons Only) - Weapons such as whips or nets immobilise the
 location struck. If an arm, the target cannot use whatever he is holding; if a leg the target cannot
@@ -6392,7 +5800,7 @@ weapon during melee costs a Combat Action and requires a successful Brawn roll. 
 any Damage Modifier. Armour does not reduce withdrawal damage. Whilst it remains impaled,
 the attacker cannot use his impaling weapon for parrying.
 
-Maximise damage (Critical Success Only) - One of the weapon’s dice automatically does
+Maximise damage (Critical Success Only) - One of the weapon's dice automatically does
 maximum damage. For example a warsword, which normally does 1D8 damage, would instead
 be treated as an 8 whereas a greatsword with 2D8 damage would inflict 1D8+8 damage. This
 does not affect the Damage Modifier of the attacker, which must be rolled separately.
@@ -6420,8 +5828,8 @@ Evade and gain a +20% bonus to their skill for this test.
 Defensive Combat Manoeuvres
 Blind Opponent (Critical Success Only) - The defender somehow blinds his opponent. It
 could be kicked sand or dust, thrown clothes, sunlight glancing off the shield, or some other
-manoeuvre that manages to blur the attacker’s vision. The Attacker makes an Opposed Test of
-his Evade skill (or Weapon style if using a shield) against the Defender’s original Parry roll. If the
+manoeuvre that manages to blur the attacker's vision. The Attacker makes an Opposed Test of
+his Evade skill (or Weapon style if using a shield) against the Defender's original Parry roll. If the
 attacker fails he cannot attack for 1D3 CA.
 
 Enhance parry - The size of the parrying weapon is treated as one step larger for the sake of
@@ -6443,14 +5851,14 @@ he merely chooses where it will land.
 134
 
          Regain Footing - A prone or similarly disadvantaged Defender uses the momentum of the
-attack to roll back up to their feet, or grasps the Attacker’s extended limb or weapon to pull
+attack to roll back up to their feet, or grasps the Attacker's extended limb or weapon to pull
 himself upright.
 
 Riposte - The Defender uses a CA to make an immediate counter attack with one of his
 defending weapons or shield.
 
-Take Weapon (Unarmed Only) - As for ‘Disarm Opponent’ but only when using Unarmed
-skill. If successful, the Defender ends up with the Attacker’s weapon in his own hands.
+Take Weapon (Unarmed Only) - As for 'Disarm Opponent' but only when using Unarmed
+skill. If successful, the Defender ends up with the Attacker's weapon in his own hands.
 
 Slip Free - An Entangled, Gripped or Pinned character may break the hold on himself or his
 weapon.
@@ -6518,7 +5926,7 @@ the attack will automatically fail.
 
 
 Evading
-Some attacks such as missile fire, destructive spells, charging creatures or even dragon’s breath,
+Some attacks such as missile fire, destructive spells, charging creatures or even dragon's breath,
 can be very difficult to avoid. In these circumstances all an Adventurer can do is hurl himself to
 the ground, or dive behind cover to escape the effects.
 
@@ -6553,7 +5961,7 @@ a disadvantage.
 Any attack which causes more damage than the SIZ of the recipient automatically results in
 a knockback. The recipient must immediately make an Athletics test to avoid falling prone
 from the force of the blow. He is also shoved one metre for each five points of damage (or
-fraction thereof ) exceeding the target’s SIZ. This calculation uses the original damage roll before
+fraction thereof ) exceeding the target's SIZ. This calculation uses the original damage roll before
 subtractions due to parrying and armour.
  
 Note that Knockback is different than the Bash Combat Manoeuvre. A Bash is a deliberate tactic
@@ -6563,8 +5971,8 @@ powerful blows. The former is not directly affected by SIZ, whereas the latter i
 
 Leaping Attacks
 Some creatures leap upon their targets in order to knock them prone. A leaping attack requires
-a Combat Action to initiate, using an Opposed Test of the creature’s Athletics skill against the
-Defender’s Evade skill. The Defender may also Parry with a shield if he has one ready. If the
+a Combat Action to initiate, using an Opposed Test of the creature's Athletics skill against the
+Defender's Evade skill. The Defender may also Parry with a shield if he has one ready. If the
 leaper wins the test then the Defender is knocked prone and cannot recover his feet for the next
 1D3 Combat Actions. Otherwise he suffers no other damage. If the Defender is a quadruped,
 then it may substitute Athletics for Evade and gain a +20% bonus to roll to avoid falling over.
@@ -6578,7 +5986,7 @@ However, the warrior gains the following benefits:
  
 *	 A mounted warrior rolls a 1D10+10 for Hit Location if using a small or medium weapon. 
 *	 Using a CA the rider may substitute either his own Combat Style or Ride skill instead
- of his mount’s, to defend the mount against attacks. 
+ of his mount's, to defend the mount against attacks. 
 *	 The warrior may add the SIZ of his mount to his own for the purposes of avoiding
  Knockback, as long as he can make a successful unopposed Ride Skill Test. 
 *	 He can use the Damage Modifier of his mount instead of his own when charging with a
@@ -6632,7 +6040,7 @@ A surprised Adventurer is one who:
 
 *	   Has completely failed to notice an impending attack through a Perception roll.
 *	   Is attacked when completely unprepared (asleep, perhaps, or absorbed with another activity).
-In these circumstances modifiers to combat rolls reflecting the surprised Adventurer’s status
+In these circumstances modifiers to combat rolls reflecting the surprised Adventurer's status
 (a -20% penalty for a freshly awoken and groggy character, for example) may apply.
 
 The effects of surprise are as follows:
@@ -6669,11 +6077,11 @@ to reduce or block the damage.
 
 
 Unusual Combat Conditions
-Whilst climbing an Adventurer’s Combat Skill cannot exceed the value of his Athletics skill.
+Whilst climbing an Adventurer's Combat Skill cannot exceed the value of his Athletics skill.
 Bipedal Adventurers may only use a single limb to attack or defend, requiring the others to cling
 to the surface they are scaling.
  
-Whilst swimming an Adventurer’s Combat Skill cannot exceed the value of his Swimming skill.
+Whilst swimming an Adventurer's Combat Skill cannot exceed the value of his Swimming skill.
 Only thrusting weapons capable of impaling can be used successfully when immersed in water
 and those will only inflict half damage. All other weapons are impotent. Natural attacks which
 involve ramming, biting or strangulation are unaffected.
@@ -6682,7 +6090,7 @@ involve ramming, biting or strangulation are unaffected.
 Weapon Reach - Closing and Disengaging
 Weapon Reach, Closing and Disengaging are optional rules for those desiring more realistic
 combat. Roughly speaking, a weapon has a reach equivalent to its size. In circumstances where
-the size of combatants’ weapons are different in length by two or more steps, then the wielder
+the size of combatants' weapons are different in length by two or more steps, then the wielder
 with the shorter reach cannot directly attack the opponent with the longer reach. They are, quite
 simply, out of range.
 
@@ -6691,8 +6099,8 @@ some of the benefits lost by not using a shield. The only method of overcoming t
 if the wielder with the shorter reach closes on their opponent.
 
 Although a combatant may be out of range, unable to hit their opponent, they can reverse the
-situation by the use of Combat Manoeuvres… such as endeavouring to disarm or damage the
-opponent’s weapon; or by changing the engagement distance.
+situation by the use of Combat Manoeuvres... such as endeavouring to disarm or damage the
+opponent's weapon; or by changing the engagement distance.
 
 In the case of huge monsters using unarmed combat, the appendage being used to strike with can
 be targeted directly and in this case there are no hindrances to counter attack it.
@@ -6716,7 +6124,7 @@ closer succeeds in reaching Close Combat distance.
 
                                                                                                  139
 
-       Once within the reach of the opponent’s weapon, the advantage switches to the wielder of the
+       Once within the reach of the opponent's weapon, the advantage switches to the wielder of the
 shorter weapon. The opponent now cannot parry with his weapon until he reopens the distance.
 
 Disengaging
@@ -6778,8 +6186,8 @@ weapon is listed in its statistical entry in the Ranged Weapons table, page 109.
  Gale force and above                                                      Attack
                                                                            automatically fails
  Target Movement1
- Target has moved 10m or more since attacker’s last Combat Action          -10%
- Target has moved 30m or more since attacker’s last Combat Action          -20%
+ Target has moved 10m or more since attacker's last Combat Action          -10%
+ Target has moved 30m or more since attacker's last Combat Action          -20%
  Target Visibility1
  Target obscured by smoke, mist or is in partial darkness                  -20%
  Target obscured by thick smoke, fog or is in darkness                     -40%
@@ -6799,14 +6207,14 @@ weapon is listed in its statistical entry in the Ranged Weapons table, page 109.
 1
 Modifiers within these sections are not cumulative. However, modifiers from different sections
 are cumulative. Therefore, shooting at a target within a mist that has moved more than 10m
-since the Attacker’s last Combat Action imparts a -30% penalty.
+since the Attacker's last Combat Action imparts a -30% penalty.
 2
  Attacker condition modifiers are cumulative.
 
 
 Damage Modifier
-If an Adventurer’s Damage Modifier can be applied to the damage of a ranged weapon, this is
-stipulated in that weapon’s entry on the Ranged Weapons table in the Equipment chapter.
+If an Adventurer's Damage Modifier can be applied to the damage of a ranged weapon, this is
+stipulated in that weapon's entry on the Ranged Weapons table in the Equipment chapter.
 
 
 Firing into a Crowd
@@ -6831,7 +6239,7 @@ the attack as normal.
 
 Firing on the Move
 Ranged weapons can be used from horseback or chariots but the chance of success cannot exceed
-the Attacker’s skill with either Ride or Drive, as appropriate. If an Attacker is running then
+the Attacker's skill with either Ride or Drive, as appropriate. If an Attacker is running then
 his attack percentage cannot exceed his Athletics skill. Ranged attacks may not be used if the
 attacker himself (rather than a mount) is charging.
 
@@ -6842,29 +6250,29 @@ obviously does not have the option of immediately attempting to yank out the pro
 
 
 Range
-A target within the weapon’s Range may be attacked without penalty. A target within double the
-weapon’s Range may be attacked but the Attacker’s effective Weapon skill is halved (before other
-modifiers are applied). Attacks against targets beyond the weapon’s Range automatically fail.
+A target within the weapon's Range may be attacked without penalty. A target within double the
+weapon's Range may be attacked but the Attacker's effective Weapon skill is halved (before other
+modifiers are applied). Attacks against targets beyond the weapon's Range automatically fail.
 
 
 Full-Round Manoeuvres
-Some manoeuvres take up almost all of an Adventurer’s effort and attention in combat. An
+Some manoeuvres take up almost all of an Adventurer's effort and attention in combat. An
 Adventurer who makes a Full-Round Manoeuvre must dedicate all but one of his Combat
 Actions for the round to the manoeuvres (usually moving). Full-round manoeuvres must be
 declared when the Adventurer first acts in the round.
 
 Full-round manoeuvres include:
 *	 Charging (below): The Adventurer moves a total of 3x his normal Movement and attacks
-  along the way. During the round, all the Adventurer’s Combat Actions but one must be
+  along the way. During the round, all the Adventurer's Combat Actions but one must be
   spent on Move, but in each action he moves up to 2x his normal Movement.
 *	 Sprinting (see page 93): The Adventurer moves up to 5x his normal Movement. During
-  the round, all the Adventurer’s Combat Actions but one must be spent on Move but in each
+  the round, all the Adventurer's Combat Actions but one must be spent on Move but in each
   action he moves up to 3x his normal Movement.
 
 For example, Alaric is in the middle of a pitched battle between his clan and another band of barbarians.
 He is currently unengaged with any particular foe as the battle swirls around him. In the distance, he
-sees Thrace being menaced by a trio of foes. Alaric decides to sprint to his friend’s side. At the start of the
-next round, when it is Alaric’s turn to act, he declares that he will spend this round Sprinting. Alaric’s
+sees Thrace being menaced by a trio of foes. Alaric decides to sprint to his friend's side. At the start of the
+next round, when it is Alaric's turn to act, he declares that he will spend this round Sprinting. Alaric's
 movement allowance for this round increases to 40m (5x his normal Movement of 8m). For his first
 Combat Action, Alaric moves 16m. For his second, he moves 16m. He still has one Combat Action left,
 and as he has spent all but one of his Combat Actions on moving and thus fulfilled the requirements for
@@ -6874,7 +6282,7 @@ Sprinting, he can spend this last Combat Action to move 8m and make a sling atta
 Charging
 Charging gains a number of benefits but is subject to a number of additional rules:
  
-*	 During the round in which he charges, all of the Adventurer’s Combat Actions but one
+*	 During the round in which he charges, all of the Adventurer's Combat Actions but one
  must be spent on Move, but in each action he moves up to 2x his normal Movement.
 *	 During a charge a bipedal creature improves its Damage Modifier by one step. Quadruped
  creatures improve their Damage Modifier by two steps. For example, a charging horse with
@@ -6889,7 +6297,7 @@ and/or knockback. If the opponent is mounted they might also face a potential fu
 attack from the mount or be trampled by it. Unlike normal initiative, whichever combatant
 has the longest reach attacks first (see Weapon Reach). 
 *	   Evading the charge permits the recipient to make an Opposed Test of his Evade skill verses
-the charging opponent’s attack skill or Combat Style (as required). If the recipient wins he
+the charging opponent's attack skill or Combat Style (as required). If the recipient wins he
 throws himself completely clear of the charging opponent (and the mount if they are riding
 one). If he loses he is instead caught at an inopportune moment and is treated as being
 defenceless. Using Evade prevents the recipient from making a counter attack. 
@@ -6900,13 +6308,13 @@ opponent (or its mount if the opponent is riding) instead of his own. 
 on the target, staggers the charging creature into immobility. The charger can also be
 stopped if one of its legs is incapacitated (assuming it does not have six or more legs!). 
 *	   A mounted Adventurer has the choice of continuing (if he has enough movement left to get
-clear of the enemy’s Weapon Reach) after the Combat Action or stopping. If the charging
+clear of the enemy's Weapon Reach) after the Combat Action or stopping. If the charging
 Adventurer is on foot, then the defender may choose to let the charger continue; if he does
 not, then the charger is now engaged with the Defender and must stop moving.
 *	   If the charging creature continues, the charge only allows a single Combat Action for the
 Attacker, their mount (if combat capable) and the Defender during that round, because the
 speed of the charging creature carries it clear of the engagement zone. The recipient of a
-charge may not make a further ‘Free’ Attack if the charger continues past and away, since
+charge may not make a further 'Free' Attack if the charger continues past and away, since
 charging is different from disengaging.
 *	   If the charging creature stops, he is now engaged in Close Combat with his opponent.
  
@@ -6948,7 +6356,7 @@ Some unusual creatures have slightly different Hit Location tables to reflect th
 physiology. Such creatures have their modified Hit Location tables listed with their description.
 
 If the damage inflicted by the attack is above zero, then the Hit Location sustains that
-amount of damage, with the damage total being immediately removed from the location’s
+amount of damage, with the damage total being immediately removed from the location's
 Hit Points. Note how many Hit Points the location has remaining and the wound category
 that results.
 
@@ -6987,7 +6395,7 @@ has received further healing to the Seriously Wounded location.
 
        Major Wound (Hit Location has lost twice its starting
 Hit Points)
-If a location is reduced to a negative score equal or greater than it’s starting Hit Points, the
+If a location is reduced to a negative score equal or greater than it's starting Hit Points, the
 Adventurer receives a Major Wound. The location is permanently maimed and the Adventurer
 is immediately incapacitated, unable to continue fighting.
 
@@ -6995,13 +6403,13 @@ A limb is considered to be severed, transfixed, shattered or ripped off by a Maj
 Adventurer drops prone, physically incapacitated and must immediately make an Opposed Test
 of Resilience versus the successful attack roll of his enemy. Failure results in unconsciousness
 from the agony. If a severed, punctured or ripped-off location is not treated within a number of
-minutes equal to the Adventurer’s CON+POW, the Adventurer dies from blood loss and shock.
+minutes equal to the Adventurer's CON+POW, the Adventurer dies from blood loss and shock.
 
 The victim of a Major Wound to the Abdomen, Chest or Head drops unconscious, totally
 incapacitated and must immediately make an Opposed Test of Resilience versus the successful
 attack roll of his enemy. Failure results in an instant and gratuitous death (decapitated, chopped
 in half, impaled through the heart, torn apart and so forth). If he survives and the location is not
-treated within a number of rounds equal to half the Adventurer’s CON+POW, he still dies from
+treated within a number of rounds equal to half the Adventurer's CON+POW, he still dies from
 blood loss and shock.
 
 Since most Major Wounds require some form of surgery or major magic to heal, the sufferer will
@@ -7029,7 +6437,7 @@ Hit Points instead. General Hit Points are calculated on the average of the CON 
 Characteristics, rather than on their sum. So, a foe with CON 12 and SIZ 16 would have 14 Hit
 Points (12+16, divided by 2).
 
-*	 Every NPC has a ‘Critical Wound’ rating equal to half the General Hit Points (rounded up).
+*	 Every NPC has a 'Critical Wound' rating equal to half the General Hit Points (rounded up).
 Thus, in our example, a foe with 14 HP has a Critical Wound rating of 7.
 *	 Weapon damage is removed directly from the Hit Point total. When Hit Points reach
 zero, the NPC must make a Resilience test to remain conscious. If the test is successful a
@@ -7062,10 +6470,10 @@ NPC Critical Wound Table
 12-13                                         Target knocked down and Stunned.
 14                                            Target Stunned and must make a Resilience test to
                                            avoid being knocked unconscious.
-15           Arm Disabled                     Target’s arm is disabled (broken or paralysed).
+15           Arm Disabled                     Target's arm is disabled (broken or paralysed).
                                            Target is Dazed and anything held by that arm is
                                            dropped.
-16           Leg Disabled                     Target’s leg is disabled (broken or paralysed). Target
+16           Leg Disabled                     Target's leg is disabled (broken or paralysed). Target
                                            is Dazed and falls prone.
 17           Abdominal Injury                 Target Stunned. Must make a Resilience test to
                                            avoid death and spilling intestines over the floor.
@@ -7079,8 +6487,8 @@ NPC Critical Wound Table
 
 Example: Alaric is battling a broo. The broo has 12 General Hits Points and wears 3 points of
 armour. On the first blow Alaric hits and inflicts 7 points of damage (after armour has been taken
-into account), which exceeds the broo’s Critical Wound level of 6. The Games Master rolls 1D20 and
-scores 13. This is reduced to 10, taking into account the broo’s armour. The broo is dazed (losing its
+into account), which exceeds the broo's Critical Wound level of 6. The Games Master rolls 1D20 and
+scores 13. This is reduced to 10, taking into account the broo's armour. The broo is dazed (losing its
 next Combat Action) and needs to make a Resilience test (which it does) to avoid unconsciousness.
 
 On the next blow Alaric again scores a hit, delivering a further 5 points of damage. The broo is now
@@ -7104,15 +6512,15 @@ sustained as normal, with armour protecting but when Hit Points reach zero, the 
 is dead.
 *	   A Critical hit inflicted by an Adventurer always incapacitates an Underling, rendering it
 unconscious. No Resilience roll is necessary.
-*	   If half the Underlings’ number is incapacitated, the rest flee.
+*	   If half the Underlings' number is incapacitated, the rest flee.
 
 Use this option only when the Adventurers are facing a ravening horde of relatively inconsequential
 adversaries which are, to all intents and purposes, completely expendable. Competent NPCs and
 major villains should be treated differently.
 
 
-Alaric’s Tale - The Goblin Fight
-This part of Alaric’s Tale continues the description of the battle with the three goblins, picking-
+Alaric's Tale - The Goblin Fight
+This part of Alaric's Tale continues the description of the battle with the three goblins, picking-
 up after Initiative and Combat Actions have been determined. The example uses the full combat
 rules and does not use the Optional Combat Rules from page 146.
 
@@ -7156,15 +6564,15 @@ Lilina acts first on Strike Rank 20 and rolls for her Sword and Shield, scoring 
 hit. This costs her one of her 3 CA. The goblin attempts a parry, rolling 12 - a successful parry.
 There is no difference in the success levels, so neither gains a Combat Manoeuvre; however,
 Lilina can roll damage, scoring 7 with her 1D8 longsword damage. Her sword is Medium Size
-and the goblin’s buckler is the same: he counters all Lilina’s damage with his shield and has spent
+and the goblin's buckler is the same: he counters all Lilina's damage with his shield and has spent
 one of his CA doing so. The action now passes to Alaric on Strike Rank 19.
 
 Alaric faces two of the goblins and singles out the meaner-looking of the two for a lunge with
 his spear, rolling 94 - a miss. This costs him one CA. The goblin was attempting to parry with
 its buckler and scores 19 - a successful parry. The goblin has one level of success better than
 Alaric (a successful defence against a failed attack) and so gains a Combat Manoeuvre chosen
-from the Defensive options. The goblin chooses ‘Trip Opponent’. Alaric is caught by surprise
-by the goblin’s sudden sidestep and must roll against his Evade skill against the goblin’s original
+from the Defensive options. The goblin chooses 'Trip Opponent'. Alaric is caught by surprise
+by the goblin's sudden sidestep and must roll against his Evade skill against the goblin's original
 parry of 19 to avoid losing balance. With a 46 Alaric succeeds and easily wins the Opposed Test,
 thankfully remaining upright. The action now passes to the three goblins on Strike Rank 14.
 
@@ -7174,20 +6582,20 @@ do so, rolling 69 - a failure. The goblin has thus achieved one level of success
 can both inflict damage and select a Combat Manoeuvre. The manoeuvre must be chosen before
 damage is rolled and it opts for Impale. This manoeuvre lets the goblin roll damage twice, taking
 the best result: it rolls 5 and a 4, so the goblin retains the first roll. He thrusts his sword into
-Lilina’s right arm (a roll of 13 on 1D20). Lilina’s armour on this location is leather, offering only
+Lilina's right arm (a roll of 13 on 1D20). Lilina's armour on this location is leather, offering only
 1 AP of protection. She therefore takes 4 points of damage to her right arm and, as she only has 3
 HP in this location, sustains a Serious Wound (her right arm HP are now -1) and cannot attack
 for the next 1D3 Combat Actions. However, the Impale result for the goblin allows it to either
 leave its sword embedded in her arm or withdraw it, causing further damage, if the goblin can
 succeed in a Brawn roll. This costs it another CA, meaning that it has used all three of its CA for
 this round but the Brawn roll is a success. The goblin inflicts a further 1D6 damage, with the
-lucky result of 1, taking Lilina’s right arm down to -2 HP. Her wound level remains at Serious for
-that location and she must make an Opposed Test of her Resilience against the goblin’s successful
+lucky result of 1, taking Lilina's right arm down to -2 HP. Her wound level remains at Serious for
+that location and she must make an Opposed Test of her Resilience against the goblin's successful
 attack roll. Her Resilience is 45% and she rolls 53, failing. Her arm is badly injured and drops
 her long sword from pain, her arm rendered useless until healed.
 
 The action now passes to the two goblins tackling Alaric. The meanest looking goblin has two
-CA remaining, having parried Alaric’s spear lunge and the other has three CA. Alaric has three
+CA remaining, having parried Alaric's spear lunge and the other has three CA. Alaric has three
 CA left this round and will defend against both his foes.
 
 The mean looking goblin slashes with its short sword scoring 53, a miss. Alaric is parrying and
@@ -7198,14 +6606,14 @@ so still rolls. His roll is 59, a success, and gains a defensive manoeuvre. He c
 
                                                                                                       149
 
-       slamming his shield onto the goblin’s sword blade and wedging it against the ground. The mean
+       slamming his shield onto the goblin's sword blade and wedging it against the ground. The mean
 goblin needs to spend a CA to free its weapon but must wait until his Strike Rank comes round
 again. Until freed, the mean goblin cannot attack with its pinned sword.
 
 The second of the two facing Alaric also lashes out with its short sword. Alaric spends his third
 CA to parry and fails but fortunately the goblin rolls 00 - a fumble! As neither succeeded in their
 rolls, Alaric does not get a defensive manoeuvre - but since the goblin has fumbled, it must roll
-on the Close Combat Fumble table. The 1D20 result is 4 - the goblin’s sword slips from its grasp
+on the Close Combat Fumble table. The 1D20 result is 4 - the goblin's sword slips from its grasp
 and lands a metre distant. Although it cannot attack with the sword until it is recovered, it can
 still use its buckler to hit him instead, if it wishes.
 
@@ -7214,18 +6622,18 @@ Master if he has seen what is happening with Lilina and can he do anything about
 Master rules that, as Thrace has not done anything yet and because Lilina is quite close, Thrace
 can act against the goblin that has injured her. He thus makes an attack against it.
 
-The goblin has spent all its CA for this round and so cannot parry Thrace’s attack. The Games
+The goblin has spent all its CA for this round and so cannot parry Thrace's attack. The Games
 Master also rules that Thrace is coming at the goblin from the side and awards Thrace a +20%
 bonus for flanking. Thrace now rolls against an adjusted skill of 78% and scores 06 - a critical
-success! With the goblin’s automatic failure to defend, Thrace has two levels of success, resulting
+success! With the goblin's automatic failure to defend, Thrace has two levels of success, resulting
 in two Combat Manoeuvres. And, with a critical roll, Thrace can select from those manoeuvres
 that can only be made on a critical success. Thrace chooses Bypass Armour and Maximise
-Damage. The first manoeuvre means that the goblin’s scraps of armour, wherever they might be,
-will not protect it. Maximise Damage ensures Thrace’s long spear will inflict its full 11 points of
+Damage. The first manoeuvre means that the goblin's scraps of armour, wherever they might be,
+will not protect it. Maximise Damage ensures Thrace's long spear will inflict its full 11 points of
 damage, in addition Thrace also adds his +1D2 Damage Modifier, which he must roll, for a total
 of 13 damage. The Hit Location he rolls is 11 - Chest. Thrace drives his spear straight between
-the goblin’s ribs: the amount of damage results in a Major Wound which, for the chest, means
-the goblin must match its Resilience of 38% against Thrace’s attack score of 06. To survive, the
+the goblin's ribs: the amount of damage results in a Major Wound which, for the chest, means
+the goblin must match its Resilience of 38% against Thrace's attack score of 06. To survive, the
 goblin must roll a critical success on its Resilience and gain a higher roll than 06. As this is plainly
 impossible to do with a 38% Resilience, the goblin screams as Thrace plunges the spear into its
 heart and dies instantly.
@@ -7239,7 +6647,7 @@ arm. She has one CA remaining in this Combat Round.
 Alaric - 4 CA and has used three: one attack and two parries.
 
 Goblins - the one who attacked Lilina is dead. The mean-looking one has its sword pinned to
-the ground by Alaric’s shield but has one CA remaining. The other goblin who dropped its sword
+the ground by Alaric's shield but has one CA remaining. The other goblin who dropped its sword
 has two CA remaining.
 
 Thrace - has one CA remaining and has saved Lilina in spectacular fashion.
@@ -7252,28 +6660,28 @@ Thrace - has one CA remaining and has saved Lilina in spectacular fashion.
          Alaric can now act with his fourth CA. With one goblin pinned and the second weaponless,
 Alaric thrusts his spear at the mean goblin. The goblin can only parry with its buckler and uses
 its last CA to defend itself. Alaric rolls 24, a success, and the goblin fails to parry. Alaric receives
-one Combat Manoeuvre and chooses Impale. He thrusts his spear into the goblin’s abdomen (9
+one Combat Manoeuvre and chooses Impale. He thrusts his spear into the goblin's abdomen (9
 on 1D20). Of the two rolls for damage - 3 on the first and 8 on the second, he naturally chooses
 the 8 result. His Damage Modifier of +1D2 takes the overall damage to 10 points. With only 2
 AP protecting its stomach and 5HP in that location, the goblin is reduced to -3 HP: a Serious
 Wound. This forces the goblin to immediately make an Opposed Test of its Resilience versus
-Alaric’s successful attack roll of 24. The goblin’s Resilience is 38% but it fails with a 69, falling
+Alaric's successful attack roll of 24. The goblin's Resilience is 38% but it fails with a 69, falling
 unconscious from the shock and pain. The mean goblin is out of the fight.
 
 However the goblin that lost its sword bears down on Alaric and prepares to make an Unarmed
-Attack. Alaric’s spear is still rammed into the mean goblin’s chest up to its crossbar but since he
-has no CA remaining he cannot parry anyway. The goblin’s Unarmed is 33% and its scores 09
+Attack. Alaric's spear is still rammed into the mean goblin's chest up to its crossbar but since he
+has no CA remaining he cannot parry anyway. The goblin's Unarmed is 33% and its scores 09
 - a success. Alaric is treated as automatically failing. The goblin selects Disarm Opponent as his
-offensive manoeuvre and Alaric makes an Opposed Test of his weapon skill against the goblin’s
+offensive manoeuvre and Alaric makes an Opposed Test of his weapon skill against the goblin's
 original attack of 09. He rolls 98% and is shocked when his shield is ripped out of his grasp,
-incidentally taking 2 HP damage to his shield arm from the goblin’s claws!
+incidentally taking 2 HP damage to his shield arm from the goblin's claws!
 
 Action moves back to Thrace and his final CA for the round. He sees that Alaric has his spear
 jammed into a possibly dead goblin whilst being battered by another. He also has enough room
-to Charge - but he can’t Charge this round, as Charging is a Full-Round Manoeuvre that has
+to Charge - but he can't Charge this round, as Charging is a Full-Round Manoeuvre that has
 to be declared at the start of a round. He could just move up and attack the goblin, but Thrace
 wants the damage bonus from charging. Instead, he casts a quick Magnitude 2 Bladesharp spell
-on his spear. As the spell’s casting time is equal to half its Magnitude, it takes only one Combat
+on his spear. As the spell's casting time is equal to half its Magnitude, it takes only one Combat
 Action to cast, and gives a +10% bonus to hit and a +2 bonus to damage.
 
 Second Combat Round
@@ -7290,10 +6698,10 @@ Thus, Alaric acts first.
 With a goblin bearing down on him and his spear still stuck, Alaric decides to cast a Dragon
 Breath spell that he recently learned instead of attacking with a weapon. This Common Magic
 spell only takes 1 CA to cast and so takes effect, if successful, on this CA. Alaric rolls against his
-Common Magic of 64% and scores 28 - a success. Alaric’s chest swells and he exudes a burst of
+Common Magic of 64% and scores 28 - a success. Alaric's chest swells and he exudes a burst of
 flame at the goblin bearing over him. The goblin unwittingly tries to parry this magical fire with
 its buckler, immediately failing and thus grants Alaric a combat manoeuvre: he chooses Choose
-Location and directs the burst of fire straight into the goblin’s face. Dragon Breath inflicts 1D10
+Location and directs the burst of fire straight into the goblin's face. Dragon Breath inflicts 1D10
 damage and the result is 3. The goblin is wearing a leather helm which protects for 1 AP, so it
 sustains only 2 points of damage. It has 4 HP in the head and is thus reduced to 2 - there is the
 
@@ -7316,24 +6724,24 @@ in making a successful Athletics roll to keep hold. Alaric decides to take the c
 sent reeling under the force of the blow. The damage is not enough to seriously hurt him since
 he has 6 HP in his abdomen; but he will have a nasty bruise.
 
-It is now Thrace’s turn and he is charging. With a blood curdling scream Thrace runs at the
+It is now Thrace's turn and he is charging. With a blood curdling scream Thrace runs at the
 goblin, spear levelled. The goblin knowing its buckler cannot stop all the damage from a
 longspear, uses his last CA in an attempt to dive clear using its Evade of 35%. Thrace rolls 13 - a
 successful Long Spear check and the goblin rolls 49, failing to avoid the attack. Thrace slams
 into the goblin and gains a Combat Manoeuvre too. He chooses Choose Location, opting for
-the head. Because he is charging, Thrace’s Damage Modifier increases by one step from +1D2 to
+the head. Because he is charging, Thrace's Damage Modifier increases by one step from +1D2 to
 +1D4: his total damage is 6 points for the spear, 3 points for the Damage Modifier and 2 points
 for his Bladesharp spell. The goblin takes 11 points of total damage to its head, its 1AP helmet
-reducing it to 10. Already damaged in the head from Alaric’s spell, this is a Major Wound for the
-goblin and it must make a Resilience roll, opposed by Thrace’s 13 attack, to remain conscious: it
+reducing it to 10. Already damaged in the head from Alaric's spell, this is a Major Wound for the
+goblin and it must make a Resilience roll, opposed by Thrace's 13 attack, to remain conscious: it
 rolls 55 and expires with the spear rammed into one eye.
 
-All three goblin are either dead or incapacitated. Lilina’s arm is bleeding badly and Alaric is
-standing shieldless and weaponless, sore from the punch to the guts but Thrace’s fast thinking
-and skill with his spear have saved the day. Thrace grins as he cleans his spear tip on the goblin’s
-rags and names his spear ‘Goblin Smiter’ - The Games Master likes the touch and awards Thrace
+All three goblin are either dead or incapacitated. Lilina's arm is bleeding badly and Alaric is
+standing shieldless and weaponless, sore from the punch to the guts but Thrace's fast thinking
+and skill with his spear have saved the day. Thrace grins as he cleans his spear tip on the goblin's
+rags and names his spear 'Goblin Smiter' - The Games Master likes the touch and awards Thrace
 a Hero Point for his actions. Alaric goes over to the injured Lilina and prepares to heal her
-wounded arm…
+wounded arm...
 
 
 
@@ -7377,8 +6785,8 @@ and recognisable from one culture to another.
 
 Although the name - Common Magic - denotes it as being rather banal, Common Magic
 spells can still be very powerful, if used carefully and thoughtfully. Sorcerers, Shaman or Priests
-might sneer at Common Magic’s limitations but only the most foolish of them would ignore or
-denigrate Common Magic’s utility and capabilities.
+might sneer at Common Magic's limitations but only the most foolish of them would ignore or
+denigrate Common Magic's utility and capabilities.
 
 
 Divine Magic
@@ -7389,7 +6797,7 @@ a dedication of faith and the willingness to enter into a personal relationship 
 
                                                                                                         153
 
-       worshipped. In return for this devotion the worshipper channels aspects of the god’s power and
+       worshipped. In return for this devotion the worshipper channels aspects of the god's power and
 abilities. With greater devotion comes greater levels of power: the more the relationship deepens
 the more like the god the worshipper becomes.
 
@@ -7419,8 +6827,8 @@ Magic Points
 All living creatures possess a basic affinity with magic, whether or not they ever become trained in
 it. It is this raw magical power that is nursed and improved by spellcasters over time. This nascent
 magical power fuels spells and other magical or mystical abilities and can also provide protection
-against magical attacks. In Legend, an Adventurer’s magical power is measured by Magic Points. All
-Adventurers start play with Magic Points equal to their POW Characteristic score. An Adventurer’s
+against magical attacks. In Legend, an Adventurer's magical power is measured by Magic Points. All
+Adventurers start play with Magic Points equal to their POW Characteristic score. An Adventurer's
 POW score also acts as a maximum limit for the amount of Magic Points an Adventurer can store
 at any one time. However there are certain things that affect available Magic Points:
 
@@ -7431,8 +6839,8 @@ number for fuelling Common Magic, Sorcery spells or other mystical abilities.
 
 Using Magic Points
 Whenever Magic Points are used to power a spell, the total is temporarily reduced by the amount
-used. The Magic Point total cannot fall below zero. Using all one’s Magic Points takes its toll
-on the body’s physical reserves; if an Adventurer reaches zero Magic Points he must make a
+used. The Magic Point total cannot fall below zero. Using all one's Magic Points takes its toll
+on the body's physical reserves; if an Adventurer reaches zero Magic Points he must make a
 successful Resilience roll to remain conscious.
 
 If the Resilience roll is successful, he gains a level of Fatigue (see page 88 for more on how Fatigue
@@ -7450,11 +6858,11 @@ sleeping, or through the use of the Meditation Advanced skill (see page 62).
                                  common magic
 Common Magic is the name given to a variety of spells that are routinely encountered throughout
 many societies where magic is used on a daily basis. Separate cultures may place a different
-emphasis on Common Magic’s importance and have very different spells in regular use; but
+emphasis on Common Magic's importance and have very different spells in regular use; but
 Common Magic is just what it says: magic that is common to all and encountering it is not
 considered to be out of the ordinary.
 
-Common Magic is taught as part of a culture’s approach to and understanding of magic. Thus,
+Common Magic is taught as part of a culture's approach to and understanding of magic. Thus,
 in settings where magic is prevalent, a certain set of Common Magic spells will be taught to the
 community as a part of their cultural learning and development. Religious cults and schools of
 sorcery generally offer a certain set of Common Magic spells reflecting their nature.
@@ -7463,7 +6871,7 @@ sorcery generally offer a certain set of Common Magic spells reflecting their na
 Casting Common Magic
 The casting of any Common Magic spell requires a successful Common Magic roll. This one
 skill covers casting of any Common Magic spells known. An Adventurer who knows Bladesharp
-and Thunder’s Voice casts both at the same Common Magic value; the two spells do not have
+and Thunder's Voice casts both at the same Common Magic value; the two spells do not have
 discrete casting skills.
 
 Whenever a Common Magic spell is cast there is always a sight and sound that nearby creatures
@@ -7474,11 +6882,11 @@ included with each spell description.
 
 
 
-Alaric’s Tale
+Alaric's Tale
 Being part of an barbarian clan living in the enchanted Gloamwood, Alaric experiences magic
 every day. As part of his clan education, and interest in the heavenly wars of the Thunderer, Alaric
-has learned Bladesharp 2, Thunder’s Voice 1, Heal 2 and Vigor 1. He casts all four spells with his
-Common Magic skill of 34% and the number following the spell’s name is the maximum magnitude
+has learned Bladesharp 2, Thunder's Voice 1, Heal 2 and Vigor 1. He casts all four spells with his
+Common Magic skill of 34% and the number following the spell's name is the maximum magnitude
 at which Alaric can cast the spell.
 
 It is likely that, given time, Alaric will learn more Common Magic - either new spells, or by developing
@@ -7487,7 +6895,7 @@ the Magnitude for existing ones.
 
 
 Situational Modifiers for Common Magic
-Like any skill, Common Magic is subject to circumstances which may inhibit a spell’s chance of
+Like any skill, Common Magic is subject to circumstances which may inhibit a spell's chance of
 success. The Common Magic skill modifiers are as follows:
 
 
@@ -7514,7 +6922,7 @@ location, his carried possessions or a touched object/individual.
 Casting Time
 All Common Magic spells take a number of Combat Actions to cast equal to half their Magnitude
 (rounded up). Thus a Bladesharp 3 spell would take 2 CA to cast. More powerful spells take
-longer to cast as the Adventurer seeks to harness the spell’s inherent power.
+longer to cast as the Adventurer seeks to harness the spell's inherent power.
 
 No offensive Combat Action may be taken while casting a spell, though the Adventurer may
 slowly walk up to half his Movement rate or can act defensively, Parrying or Evading, for instance.
@@ -7522,7 +6930,7 @@ slowly walk up to half his Movement rate or can act defensively, Parrying or Eva
 The Adventurer need not have a hand free to cast a Common Magic spell, with the exception of
 Touch spells, which must be delivered by touching their target.
 
-A spell’s result takes effect at the end of its last casting Combat Action.
+A spell's result takes effect at the end of its last casting Combat Action.
 
 Distractions or significant injuries inflicted on a spellcaster as he casts (such as a Serious Wound)
 require unopposed Persistence tests to maintain concentration on the spell. If the spellcaster is
@@ -7563,7 +6971,7 @@ Magnitude                Cost                                      Time to Learn
 7                        7 Improvement Rolls                       7 days
 +1                       +1 Improvement Roll                       +1 day
 
-A spell’s Magnitude also defines the intellect required by the individual to absorb, memorise and
+A spell's Magnitude also defines the intellect required by the individual to absorb, memorise and
 articulate its fabric. The maximum Magnitude of a Common Magic spell any Adventurer can
 learn is equal to his INT divided by three (rounding up). Thus Alaric, with INT 16 can learn any
 Common Magic spell up to a maximum Magnitude of 6. If Alaric wanted to learn the Dragon
@@ -7583,18 +6991,18 @@ Bladesharp 1 and Bladesharp 2.
 
 Spell Traits and Descriptions
 Every Common Magic spell is defined by a series of traits that tells you what kind of spell it is
-and how it is used in the game. A description then follows describing the spell’s precise effects.
+and how it is used in the game. A description then follows describing the spell's precise effects.
 The traits used by spells are detailed here.
 
 Area (X): The spell affects all targets within a radius specified in metres.
 
-Concentration: The spell’s effects remain in place as long as the Adventurer concentrates on it.
+Concentration: The spell's effects remain in place as long as the Adventurer concentrates on it.
 Concentrating on a spell is functionally identical to casting the spell, requiring the spellcaster to
 continue to chant and ignore distractions.
 
-Duration (X): The spell’s effects will stay in place for the number of minutes indicated.
+Duration (X): The spell's effects will stay in place for the number of minutes indicated.
 
-Instant: The spell’s effects take place instantly. The spell itself then disappears.
+Instant: The spell's effects take place instantly. The spell itself then disappears.
 
 
 
@@ -7608,10 +7016,10 @@ the greater Magnitude takes effect - their Magnitudes do not stack.
 Progressive: This indicates that the spell can be learnt and cast at greater levels of Magnitude.
 The spell can also be cast at a lower Magnitude if the caster desires.
 
-Ranged: Ranged spells may be cast upon targets up to a maximum distance of the Adventurer’s
+Ranged: Ranged spells may be cast upon targets up to a maximum distance of the Adventurer's
 POW x 5 in metres.
 
-Resist (Evade/Persistence/Resilience): The spell’s effects do not occur automatically. The target
+Resist (Evade/Persistence/Resilience): The spell's effects do not occur automatically. The target
 may make an Opposed Test of their Evade, Persistence or Resilience (as specified by the spell)
 against the casting roll, in order to avoid the effect of the spell entirely. Note that Resist (Evade)
 spells require the target to be able to use a Combat Action in order to Evade.
@@ -7635,7 +7043,7 @@ will be exact and unerring but will not account for miscalculations due to poorl
 for counting.
 
 
-Armoursmith’s Boon
+Armoursmith's Boon
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to his next Craft Skill Test
@@ -7655,7 +7063,7 @@ to cast spells.
 
                                                                                                       159
 
-       Bandit’s Cloak
+       Bandit's Cloak
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to his next Stealth Skill Test
@@ -7677,14 +7085,14 @@ creature with a fixed INT of 7 or less. If it fails to resist, the creature will
 place where the spell is cast, whereupon the spell effect terminates. Any barrier, immediate threat or
 counter control also ends the effects of the spell, leaving the creature to react naturally. For example,
 the Beast Call spell might cause a horse to turn and walk towards the spell but a single yank of
-its reins by the rider would end the spell’s effect. This spell is a potent aid to hunters and herders.
+its reins by the rider would end the spell's effect. This spell is a potent aid to hunters and herders.
 
 
 Bestial Enhancement
 Duration 5, Magnitude 1, Progressive, Touch
 
 This spell causes the creature to become more bestial, augmenting its natural weapons and
-reflexes. For every point of Magnitude, it increases the target’s chance to hit with natural weapons
+reflexes. For every point of Magnitude, it increases the target's chance to hit with natural weapons
 by +5% and they deal one point of extra damage. This extra damage is magical and will affect
 creatures that can only be hurt by magic. The base natural weapon damage remains non-magical.
 
@@ -7694,7 +7102,7 @@ Instant, Magnitude 1, Touch
 
 This spell gives the target the ability to sleep for exactly 10 hours uninterrupted by bad dreams,
 pains, aches or even gentle movement. Unless stirred by a loud noise or abrupt physical contact,
-the target will have a full night’s rest. It should be noted that the spell does not put the target to
+the target will have a full night's rest. It should be noted that the spell does not put the target to
 sleep, merely calms their mind in order to better enjoy their next slumber. This spell is useful to
 spellcasters who wish to fully regain their Magic Points.
 
@@ -7718,7 +7126,7 @@ Duration 5, Magnitude 1, Progressive, Touch
 This spell can be cast on any weapon capable of cutting and/or thrusting. For every point of
 Magnitude, it increases the attack chance with the weapon by +5% and deals one point of extra
 damage. This extra damage is magical and affects creatures that can only be hurt by magic. The
-weapon’s base damage remains non-magical. A weapon under the effects of Bladesharp cannot
+weapon's base damage remains non-magical. A weapon under the effects of Bladesharp cannot
 benefit from other damage enhancing spells such as Pierce or Fireblade.
 
 
@@ -7728,7 +7136,7 @@ Duration 5, Magnitude 1, Progressive, Touch
 This spell can be cast on any crushing or smashing weapon, such as a warhammer, club or mace.
 For every point of Magnitude, it increases the attack chance with the weapon by +5% and deals
 one point of extra damage. This extra damage is magical and will affect creatures that can only
-be hurt by magic. The weapon’s base damage remains non-magical.
+be hurt by magic. The weapon's base damage remains non-magical.
 
 
 Boon of Lasting Night
@@ -7764,7 +7172,7 @@ on an open road.
 Co-ordination
 Duration 5, Magnitude 1, Progressive
 
-For every point of Magnitude of this spell, the caster’s DEX score increases by two. This may
+For every point of Magnitude of this spell, the caster's DEX score increases by two. This may
 have an additional effect on his skills and Attributes, such as Combat Actions and Strike Rank.
 The caster cannot increase his DEX in this way to more than twice its original value.
 
@@ -7780,7 +7188,7 @@ to neutralise offensive spells, by using the Cast Spell Combat Action.
 Exploring an ancient tomb, Lilina encounters her dreaded enemy, Rhazil the Vivisectionist.
 On his first Combat Action Rhazil casts a Befuddle spell. Lilina immediately declares that she
 is using the Cast Spell Combat Action to defend herself. She casts Countermagic 2, which
-fortunately dismisses Rhazil’s spell before it can hit her.
+fortunately dismisses Rhazil's spell before it can hit her.
 
 
 Countermagic Shield
@@ -7792,13 +7200,13 @@ spells that are already affecting an Adventurer. The effects of Countermagic Shi
 relative Magnitude of both itself and the incoming spell.
 
 Countermagic Shield Results
-Incoming Spell’s Magnitude is. . .                     Effect
+Incoming Spell's Magnitude is. . .                     Effect
 1 or more points weaker than Countermagic              Incoming spell eliminated and
-Shield’s Magnitude.                                    Countermagic Shield remains.
-Equal to the Countermagic Shield’s Magnitude.          Both incoming spell and Countermagic
+Shield's Magnitude.                                    Countermagic Shield remains.
+Equal to the Countermagic Shield's Magnitude.          Both incoming spell and Countermagic
                                                   Shield are eliminated.
 1 or more points stronger than Countermagic            Countermagic Shield eliminated and
-Shield’s Magnitude.                                    incoming spell takes effect.
+Shield's Magnitude.                                    incoming spell takes effect.
 
 
 Darkwall
@@ -7806,7 +7214,7 @@ Area Special, Duration 5, Magnitude 2, Ranged
 
 By casting this spell, the Adventurer creates a patch of pitch blackness that fills the target area.
 Light sources within this area shed no illumination and normal sight ceases to function. Other
-senses such as a bat’s sonar function normally. The radius of the area is equal to the Magnitude
+senses such as a bat's sonar function normally. The radius of the area is equal to the Magnitude
 of the spell.
 
 
@@ -7814,7 +7222,7 @@ Demoralise
 Duration 5, Magnitude 2, Ranged, Resist (Persistence)
 
 The target of this spell will become demoralised, losing all hope of victory and losing faith
-in its own abilities. When attacking, the target’s weapon skills are halved (before modifiers)
+in its own abilities. When attacking, the target's weapon skills are halved (before modifiers)
 and it may not cast offensive spells. However, the target continues to defend at its full
 skill. If this spell takes effect before combat begins, the target will try to avoid fighting
 and will either run or surrender. The effects of this spell are automatically cancelled by the
@@ -7841,19 +7249,19 @@ species. Examples of this spell include Detect Duck, Detect Rhino or Detect Trol
 Detect Substance: Each unique Detect Substance spell will give the location of substances of the
 specified type. Examples of this spell include Detect Coal, Detect Gold or Detect Wood.
 
-The Games Master should provide the rough power of the detected subject (‘weak magic’ or ‘rich
-gold lode’) and require further Common Magic tests for more detailed information.
+The Games Master should provide the rough power of the detected subject ('weak magic' or 'rich
+gold lode') and require further Common Magic tests for more detailed information.
 
 
 Disruption
 Instant, Magnitude 1, Progressive, Ranged, Resist (Resilience)
 
-A particularly grisly offensive spell, Disruption literally pulls a target’s body apart. For each point
+A particularly grisly offensive spell, Disruption literally pulls a target's body apart. For each point
 of Magnitude the target suffers 1D3 points of damage to a random Hit Location, ignoring any
 Armour Points.
 
 
-Dragon’s Breath
+Dragon's Breath
 Instant, Magnitude 2, Ranged, Resist (Evade)
 
 With this spell, the caster spits a stream of fire at his target. If the fire is not evaded, it inflicts
@@ -7878,10 +7286,10 @@ suffering from.
 
 164
 
-         Entertainer’s Smile
+         Entertainer's Smile
 Instant, Magnitude 1, Progressive, Trigger
 
-This spell grants the caster a +10% bonus per point of Magnitude to the target’s next Dance,
+This spell grants the caster a +10% bonus per point of Magnitude to the target's next Dance,
 Sing or Play Instrument Skill Test involving the observations and appreciation of others and
 cannot stack with any other spell-effect bonuses.
 
@@ -7908,10 +7316,10 @@ Fate
 Instant, Magnitude 1, Progressive, Touch, Resist (Persistence)
 
 This spell allows the caster to influence fate, either for the good or ill of the target. The caster can
-increase or decrease the target’s next Skill Test by 10% for each point of the spell’s Magnitude.
-The caster must choose at the time of the casting whether to increase or decrease the target’s
+increase or decrease the target's next Skill Test by 10% for each point of the spell's Magnitude.
+The caster must choose at the time of the casting whether to increase or decrease the target's
 chances - allowing him to give his friends an advantage or hobble his enemies. Only the next
-Skill Test made after (resisting) the spell’s casting is affected.
+Skill Test made after (resisting) the spell's casting is affected.
 
 
 Firearrow
@@ -7945,7 +7353,7 @@ damage can block this effect but mundane items (such as cold weather gear) are i
 Glamour
 Duration 5, Magnitude 1, Progressive
 
-For every point of Magnitude of this spell, the caster’s CHA score increases by +2. This may have
+For every point of Magnitude of this spell, the caster's CHA score increases by +2. This may have
 an additional effect on his skills. The caster cannot increase his CHA in this way to more than
 twice its original value.
 
@@ -7963,7 +7371,7 @@ Instant, Magnitude 4, Resist (Resilience), Touch, Trigger
 
 This fearsome spell allows the caster to deal an awful wound with the merest touch. Casting the
 Hand of Death, charges his body with the spell. Touching an unsuspecting target, or succeeding
-at an Unarmed attack against a wary target, releases the spell’s effect. If the Resilience test to
+at an Unarmed attack against a wary target, releases the spell's effect. If the Resilience test to
 resist the effect is failed, the Hit Location touched immediately suffers enough damage to cause
 a Major Wound. If the Resilience test is a success, the target only loses 1d3 Hit Points. Armour
 does not protect against this damage.
@@ -8006,7 +7414,7 @@ fumble. Whatever the result of the second roll may be, the caster must accept it
 benefit from one casting of Lucky at a time.
 
 
-Mason’s Boon
+Mason's Boon
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to his next Craft Skill Test
@@ -8026,7 +7434,7 @@ same language in which it was spoken.
 Mobility
 Duration 5, Magnitude 1, Progressive, Touch
 
-For every point of Magnitude of this spell, the target’s Movement score is increased by one metre.
+For every point of Magnitude of this spell, the target's Movement score is increased by one metre.
 
 
 Multimissile
@@ -8034,9 +7442,9 @@ Instant, Magnitude 1, Progressive, Touch, Trigger
 
 Cast on a missile weapon (such as a knife, arrow, javelin or rock), this spell is triggered when
 it is fired or thrown. Multimissile creates one additional magical missile for every point of
-Magnitude. Each magical missile’s attack is rolled for separately and compared against the target’s
+Magnitude. Each magical missile's attack is rolled for separately and compared against the target's
 single Evade or (shield) Parry roll. They use the same dice of damage as the original but will not
-benefit from the firer’s Damage Modifier. The additional missiles created through Multimissile
+benefit from the firer's Damage Modifier. The additional missiles created through Multimissile
 will affect creatures that can only be hurt by magic. A missile under the effects of Multimissile
 cannot benefit from Firearrow, Pierce or Speedart.
 
@@ -8048,7 +7456,7 @@ cannot benefit from Firearrow, Pierce or Speedart.
        Parry
 Duration 5, Magnitude 1, Progressive, Touch
 
-Parry improves the caster’s defences whilst parrying with the targeted weapon or shield. Each
+Parry improves the caster's defences whilst parrying with the targeted weapon or shield. Each
 point of Magnitude increases his parry chance by +5% and the Armour Points of the weapon
 by 1.
 
@@ -8084,7 +7492,7 @@ Repair
 Instant, Magnitude 1, Progressive, Touch
 
 Every point of Magnitude of this spell repairs one Hit Point of damage to a non-living target. The
-marks of repair remain visible, probably reducing the target’s market value, unless an appropriate
+marks of repair remain visible, probably reducing the target's market value, unless an appropriate
 Craft test is made at the time of casting.
 
 
@@ -8112,8 +7520,8 @@ Only magical Armour Points offer protection against this damage.
 Slow
 Duration 5, Magnitude 1, Progressive, Ranged, Resist (Resilience)
 
-For every point of Magnitude of this spell, the target’s Movement score will be decreased by one
-metre. A target’s Movement may not be reduced to below one through use of this spell.
+For every point of Magnitude of this spell, the target's Movement score will be decreased by one
+metre. A target's Movement may not be reduced to below one through use of this spell.
 
 
 Speedart
@@ -8129,7 +7537,7 @@ Spirit Bane
 Area Special, Duration 5, Magnitude 1, Progressive, Resist (Persistence)
 
 This spell creates a zone with a radius of one metre per point of Magnitude, which spirits find
-exceptionally hard to enter. Any spirit with a POW less than the caster’s attempting to enter the
+exceptionally hard to enter. Any spirit with a POW less than the caster's attempting to enter the
 protected area must resist the spell in order to do so. Spirits within the zone at the time of its
 creation must resist it or be compelled to leave as quickly as possible.
 
@@ -8137,16 +7545,16 @@ creation must resist it or be compelled to leave as quickly as possible.
 Strength
 Duration 5, Magnitude 1, Progressive
 
-For every point of Magnitude of this spell, the caster’s STR score increases by +2. This may have
+For every point of Magnitude of this spell, the caster's STR score increases by +2. This may have
 an additional effect on his skills and Attributes, such as Damage Modifier. The caster cannot
 increase his STR in this way to more than twice its original value.
 
 
-Thunder’s Voice
+Thunder's Voice
 Duration 5, Magnitude 1, Progressive
 
 This spell grants the caster a thunderous voice of command. For every point of Magnitude of this
-spell, the caster has +10% added to his Influence skill and can also be heard at up to the spell’s
+spell, the caster has +10% added to his Influence skill and can also be heard at up to the spell's
 Magnitude x 100 in metres.
 
 
@@ -8164,7 +7572,7 @@ currently knows.
 Vigour
 Duration 5, Magnitude 1, Progressive, Touch
 
-For every point of Magnitude of this spell, the caster’s CON score increases by +2. This may have
+For every point of Magnitude of this spell, the caster's CON score increases by +2. This may have
 an additional effect on his skills and Attributes. The caster cannot increase his CON in this way
 to more than twice its original value.
 
@@ -8182,7 +7590,7 @@ Water Breath
 Duration 5, Magnitude 2,
 
 This spell allows the caster to breathe water for the duration of the effect. Water Breath has no
-effect on the target’s ability to breathe air.
+effect on the target's ability to breathe air.
 
 
 
@@ -8193,7 +7601,7 @@ effect on the target’s ability to breathe air.
 Whereas Common Magic is available directly to Adventurers, Divine Magic is not. Divine Magic
 is gifted by the gods and is usually available only through membership of a cult - and even then,
 only to cult members who have attained an appropriate level of standing within the cult. Lay
-members of a cult - those who follow the cult’s precepts and generally adhere to the faith but
+members of a cult - those who follow the cult's precepts and generally adhere to the faith but
 make no formal commitment to it - have no access to Divine Magic. Initiates and above - those
 who have opted to serve the cult and their god directly - do have access to Divine Magic and
 Divine spells are often a significant enough lure to secure this depth of commitment.
@@ -8219,7 +7627,7 @@ cast the spell.
 
 
 Pact (CHA+Dedicated POW)
-Essentially a Pact is a commitment to serve a god through devoting one’s soul through worship.
+Essentially a Pact is a commitment to serve a god through devoting one's soul through worship.
 The making of a Pact is represented by dedicating one or more points of POW to the god. The
 Adventurer still possesses the POW for calculating skills but it is the god that harvests the Magic
 Points from the dedicated POW.
@@ -8244,7 +7652,7 @@ leave only a further four points to be dedicated to another cult. Leaving a cult
 Pact skill to zero and prevents him from using any Divine Magic from that god - but releases the
 POW previously dedicated to that Pact.
 
-Dedicated POW forms the basis of a ‘pool’ of points used to power Divine Magic spells. For
+Dedicated POW forms the basis of a 'pool' of points used to power Divine Magic spells. For
 example, a priest with 4 POW dedicated to his god has 4 POW to invest in Divine spells.
 
 The starting value of the Pact skill is equal to CHA + Dedicated POW. Like any other skill it can
@@ -8281,7 +7689,7 @@ veneration acts. The higher the Pact, the more like the god, or object of venera
 becomes. Thus his character, judgements, deeds and actions reflect those of his god, because the
 character is essentially becoming more and more like his god. This kind of behaviour requires
 roleplaying for its effectiveness and Games Masters should watch for situations where the
-strength of the Pact will assert itself in an Adventurer’s actions. Adventurers can, as their Pact
+strength of the Pact will assert itself in an Adventurer's actions. Adventurers can, as their Pact
 increases, undergo complete personality changes as a result, although the circumstances where
 this happens are judgement calls for the Games Master.
 
@@ -8294,7 +7702,7 @@ Gods demand service from their followers, in the form of quests. The nature and 
 quest varies from deity to deity. A servant of the Thunderer, for example, might be sent to slay a
 terrible frost-worm that dwells atop a distant mountain. Those who worship the Green might be
 charged with bringing water to the desert lands, so they bloom with new life. Most quests involve
-furthering the god’s aims, protecting other worshippers, gathering new followers, or thwarting
+furthering the god's aims, protecting other worshippers, gathering new followers, or thwarting
 enemies. Not every quest involves travel or adventure; the god of knowledge might demand that
 a petitioner solve an ancient riddle or obtain a copy of a lost book of secret wisdom.
 
@@ -8302,7 +7710,7 @@ Many cults have rituals or myth-cycles that must be enacted again and again as l
 example, to advance in the cult of the Thunderer, Alaric must enter the underground pits in the
 Vale of Storms and fight his way past the snake-men who dwell there until he finds the Great
 Green Gong and sounds it. Completing this lesser quest increases his Pact score by 1D4+1%.
-Every aspiring follower of the Thunderer in Alaric’s tribe undertakes this quest.
+Every aspiring follower of the Thunderer in Alaric's tribe undertakes this quest.
 
 By contrast, every great quest is unique and extremely perilous. Great quests do not re-enact tired
 old ancient myths - they forge brave new legends!
@@ -8323,8 +7731,8 @@ High Priest (Level 4) - All POW
 Lore (Specific Theology) (INT x2)
 A specific theology skill is associated with every god. Thus Lore (The Thunderer) exists discretely
 from Lore (Moon Goddess). The skill is used in two ways: first as a measure of the knowledge the
-Adventurer has of the god’s myths, aspects, behaviour and so forth and of the rituals, ceremonies
-and practices associated with the god’s cult. Secondly Lore (Specific Theology) is used as the skill
+Adventurer has of the god's myths, aspects, behaviour and so forth and of the rituals, ceremonies
+and practices associated with the god's cult. Secondly Lore (Specific Theology) is used as the skill
 roll for casting any Divine Spells associated with the god successfully. So, an Adventurer with
 Lore (The Thunderer) 60% has a 60% chance to cast any of the Divine Spells he has gained from
 his worship of the Thunder God.
@@ -8344,12 +7752,12 @@ fuelling the spell through his own, personal, magical reserves.
 
                                                                                                     173
 
-       Alaric’s Tale
+       Alaric's Tale
 Alaric has become an Initiate of the Thunderer, a cult strongly represented in his own community.
 
 In becoming an Initiate Alaric has dedicated 4 POW to the Pact, giving him a Pact (The Thunderer)
 14%. His POW, for the purposes of available Magic Points, is lowered from 14 to 10 but it also means
-that Alaric has four points that can be dedicated towards the Thunder God’s Divine Magic.
+that Alaric has four points that can be dedicated towards the Thunder God's Divine Magic.
 
 Alaric also has Lore (The Thunderer) 52%. The skill means that any Divine Magic spells Alaric gains
 as an initiate of the cult are cast at 52%. It also means that Alaric knows the lore of the associated
@@ -8358,7 +7766,7 @@ same pantheon. However Alaric cannot cast any Runefather Divine spells unless th
 him as part of allied cult rituals. If he gains any allied cult spells then they will operate at 52%, his
 Lore (The Thunderer percentage.
 
-So at this point in his life Alaric’s understanding of the Thunderer is reasonably strong as he has spent
+So at this point in his life Alaric's understanding of the Thunderer is reasonably strong as he has spent
 most of his life exposed to its rituals and practices. However his direct relationship with the Thunderer,
 represented by his Pact, is still very weak. Alaric has only just embarked on the road of devotion to his
 god and will need to strengthen and deepen his Pact over time.
@@ -8367,8 +7775,8 @@ god and will need to strengthen and deepen his Pact over time.
 
 
 As a measure of the faith of the worshipper, when a Divine spell is cast it possesses an inherent
-Magnitude of one tenth of the caster’s Pact skill. Priests and High Priests are able to channel so
-much of their god’s power that their spells are exceptionally hard to block or dismiss.
+Magnitude of one tenth of the caster's Pact skill. Priests and High Priests are able to channel so
+much of their god's power that their spells are exceptionally hard to block or dismiss.
 
 The same Divine Spell can be learned multiple times.
 
@@ -8386,21 +7794,21 @@ Fumble: The spell does not work and is also placed beyond use until the Adventur
 it as per his rank in the cult (see the Regaining Divine Spells).
 
 When a spell is placed beyond use it is not forgotten; it is merely the case that the Adventurer
-cannot channel his god’s power via that spell again, until he has successfully regained the god’s
+cannot channel his god's power via that spell again, until he has successfully regained the god's
 ongoing trust in their relationship.
 
 Regaining Divine Spells
 Depending on their rank within the cult, a spell can be regained upon a successful Pact test,
 showing that the Adventurer has re-established their faith with the god and is able to channel
-that god’s power once more through the Divine spell. 
+that god's power once more through the Divine spell. 
 
 
 174
 
-         Alaric’s Tale
+         Alaric's Tale
 As a Thunderer initiate, Alaric learns Lightning Strike, Blessing (Spear and Shield), Shield and
 Channel Strength. This takes all of his 4 points of Dedicated POW to store. The spells are cast at
-Alaric’s Lore (the Thunderer) of 52%. His Pact (the Thunderer) of 14% governs the Magnitude of all
+Alaric's Lore (the Thunderer) of 52%. His Pact (the Thunderer) of 14% governs the Magnitude of all
 the Divine Spells he can cast: at a tenth of his Pact, rounded up, each of his four Divine Spells can be
 cast at Magnitude 2 (14/10 = 1.4, rounded to 2).
 
@@ -8410,7 +7818,7 @@ it again until he has returned to a shrine of the Thunderer and succeeded in a P
 Later in the same adventure Alaric critically succeeds in casting Channel Strength. This means he can
 use Channel Strength again without having to attempt a Pact roll to re-establish his relationship with
 the Thunderer. He is forced to cast Channel Strength once more but this time fumbles in the attempt;
-not only does the spell fail to work but this level of failure places the spell beyond Alaric’s use until he
+not only does the spell fail to work but this level of failure places the spell beyond Alaric's use until he
 can return to a shrine and attempt a Pact roll to recover it.
 
 
@@ -8475,22 +7883,22 @@ an active member and it benefits the cult to make active members more powerful.
 
 Divine Magic Spell Traits and Descriptions
 Every Divine Magic spell is defined by a series of traits describing the spell and how it is used
-in the game. A description then follows describing the spell’s precise effects. By default, the
-Magnitude of any Divine spell is equal to one tenth of the caster’s Pact. Unless specifically stated
+in the game. A description then follows describing the spell's precise effects. By default, the
+Magnitude of any Divine spell is equal to one tenth of the caster's Pact. Unless specifically stated
 in its description, Divine Spells take one Combat Action to invoke. The other traits used by
 Divine Magic spells are detailed here.
 
 Area (X): The spell affects all targets within a radius specified in metres.
 
-Concentration: The spell’s effects remain in place as long as the Adventurer concentrates on it.
+Concentration: The spell's effects remain in place as long as the Adventurer concentrates on it.
 Concentrating on a spell is functionally identical to casting the spell, requiring the spellcaster to
 continue to gesture with both arms, chant and ignore distractions.
 
-Duration (X): The spell’s effects stay in place for the number of minutes indicated.
+Duration (X): The spell's effects stay in place for the number of minutes indicated.
 
-Instant: The spell’s effects take place instantly. The spell then disappears.
+Instant: The spell's effects take place instantly. The spell then disappears.
 
-Ranged: Ranged spells may be cast upon targets up to a maximum distance of the Adventurer’s
+Ranged: Ranged spells may be cast upon targets up to a maximum distance of the Adventurer's
 POW x 10 in metres.
 
 Rank: The minimum cult rank the spell is available to.
@@ -8500,7 +7908,7 @@ Rank: The minimum cult rank the spell is available to.
 
 176
 
-         Resist (Evade/Persistence/Resilience): The spell’s effects do not occur automatically. The target
+         Resist (Evade/Persistence/Resilience): The spell's effects do not occur automatically. The target
 may make an Opposed Evade, Persistence or Resilience test (as specified by the spell) in order to
 avoid the effect of the spell entirely. Note that Resist (Evade) spells require the target to be able
 to use a Combat Action in order to dodge.
@@ -8520,11 +7928,11 @@ relative Magnitude of both itself and the incoming spell - see the Absorption Re
 more details. Any spell absorbed by this spell is cancelled and has no effect.
 
 Absorption Results
-Incoming Spell’s Magnitude is. . .           Effect
-Equal to or weaker than Absorption’s         Incoming spell absorbed and Absorption remains.
+Incoming Spell's Magnitude is. . .           Effect
+Equal to or weaker than Absorption's         Incoming spell absorbed and Absorption remains.
 Magnitude.
 1 or more points stronger than               Absorption eliminated and incoming spell takes
-Absorption’s Magnitude.                      effect.
+Absorption's Magnitude.                      effect.
 
 An Adventurer may not accumulate more Magic Points than his undedicated POW while
 Absorption is in effect - excess Magic Points garnered through Absorption simply vanish.
@@ -8536,7 +7944,7 @@ Duration 15, Rank Initiate, Ranged
 
 The caster of this spell has the ability to re-direct ranged attacks away from their intended target.
 Each missile attack or spell of lesser Magnitude requires a Combat Action to deflect, turning it
-away from its original target and towards another victim of the caster’s choice. This new recipient
+away from its original target and towards another victim of the caster's choice. This new recipient
 has to be a viable target for the source of the attack and cannot be the original source of the attack.
 
 
@@ -8563,7 +7971,7 @@ Magnitude 8 for all purposes.
 Aphrodisiac
 Duration 15, Rank Initiate, Touch
 
-This spell increases the target’s sexual attraction. Any failed Influence or Streetwise rolls toward
+This spell increases the target's sexual attraction. Any failed Influence or Streetwise rolls toward
 members of the opposite sex (or those of the same sex that would find the target sexually
 attractive), are treated as successes instead. Fumbles, normal successes and criticals are unaffected.
 Aphrodisiac makes all opposite-sex individuals around the target friendlier and more focussed
@@ -8598,7 +8006,7 @@ Duration 15, Rank Acolyte, Resist (Persistence), Touch
 The recipient of this spell is overcome with bloodlust, causing him to disregard his own safety
 and loyalties but imbuing him with tremendous stamina and combat ability.
 
-For the spell’s duration the Close Combat skills of the recipient are increased by half again, his
+For the spell's duration the Close Combat skills of the recipient are increased by half again, his
 Damage Modifier increased by one step and he automatically succeeds any opposed or unopposed
 Resilience or Fatigue test... although a Major wound will still incapacitate him. However, in
 return the subject may not Parry, Evade or cast any magic while under the influence of Berserk.
@@ -8624,7 +8032,7 @@ Blessing
 Duration 15, Rank Initiate, Touch
 
 This spell grants a bonus to a cult skill. The target receives a bonus of +5% per Magnitude of
-the spell. The specific skill is determined by the caster but must be one of the cult’s skills. For
+the spell. The specific skill is determined by the caster but must be one of the cult's skills. For
 instance, an Earth Cult might grant a bonus to Craft (Masonry) but a War Cult could grant the
 bonus to all Weapon Skills. This bonus cannot be stacked with any other spell-effect bonuses.
 
@@ -8672,9 +8080,9 @@ warming sun. This spell cannot alter magically-created weather effects of greate
        Consecrate
 Area Special, Duration Special, Rank Priest
 
-This spell is as much a part of a temple’s foundation as is its cornerstone but may actually be
+This spell is as much a part of a temple's foundation as is its cornerstone but may actually be
 cast almost anywhere. It creates a sphere with a radius of 10 metres per point of Magnitude. The
-consecrated sphere is sacred to the spellcaster’s god. Consecrate by itself does nothing to keep
+consecrated sphere is sacred to the spellcaster's god. Consecrate by itself does nothing to keep
 outsiders at bay but the caster of the spell will know immediately if a spell, spirit or someone who
 is not a member of his cult crosses the boundaries of the Consecrate spell.
 
@@ -8705,7 +8113,7 @@ This spell lifts the effects of any mundane disease or poison afflicting the tar
 whose potency is less than the Pact % of the caster.
 
 If the disease is the result of a Disease Spirit and therefore magical in nature, the spell exorcises
-the Spirit as long its POW is within three times the spell’s Magnitude. For example, a Magnitude
+the Spirit as long its POW is within three times the spell's Magnitude. For example, a Magnitude
 5 Cure Disease/Poison will exorcise any Disease Spirit of POW 15 or less.
 
 
@@ -8737,13 +8145,13 @@ Instant, Ranged, Rank Initiate
 
 Dismiss Magic may be cast against either a general target or a specific spell. Dismiss Magic will
 eliminate a combined Magnitude of spells equal to its own Magnitude, starting with the most
-powerful affecting the target. If it fails to eliminate any spell (because the spell’s Magnitude is too
+powerful affecting the target. If it fails to eliminate any spell (because the spell's Magnitude is too
 high), then its effects immediately end and no more spells will be eliminated. A spell cannot be
 partially eliminated, so a target under the effects of a spell whose Magnitude is higher than that
 of Dismiss Magic will not have any spells currently affecting it eliminated. The caster can also
 target Dismiss Magic against a single specific spell.
 
-As long as Dismiss Magic’s Magnitude equals or exceeds the target spell’s Magnitude, the target
+As long as Dismiss Magic's Magnitude equals or exceeds the target spell's Magnitude, the target
 spell is eliminated. Dismiss Magic may be fired defensively to neutralise incoming offensive spells,
 by using the Cast Spell Combat Action.
 
@@ -8752,8 +8160,8 @@ Ebb and Flow
 Duration Special, Rank Initiate, Ranged
 
 This spell allows a caster to seriously speed up or slow down a water-going vessel of any kind by
-forcing the water it rests in to either push faster or work against it. The caster can increase a craft’s
-speed by half-again, or decrease it to one-half, chosen at the time of the spell’s casting. The spell
+forcing the water it rests in to either push faster or work against it. The caster can increase a craft's
+speed by half-again, or decrease it to one-half, chosen at the time of the spell's casting. The spell
 continues until dropped, allowing for higher-powered castings of the spell to make considerable
 changes to travel time by boat, ship or raft. This spell cannot be recovered or released, for as long
 as the spell is maintained.
@@ -8772,7 +8180,7 @@ the Magnitude of the spell in kilometres.
 Elemental Summoning
 Duration 15, Rank Initiate, Touch
 
-This spell summons forth an elemental associated with the god’s portfolio. For example cults
+This spell summons forth an elemental associated with the god's portfolio. For example cults
 associated with an Earth god would summon Gnomes. The caster summons an elemental of
 one cubic metre per point of Magnitude in 1D3 Combat Rounds and remains in the area for
 the entire spell duration. For obvious reasons, the caster must have access to the same volume of
@@ -8780,7 +8188,7 @@ the entire spell duration. For obvious reasons, the caster must have access to t
 
                                                                                                          181
 
-       the element’s material to cast this spell successfully. If less volume is available, then the caster can
+       the element's material to cast this spell successfully. If less volume is available, then the caster can
 animate the material with a smaller elemental if desired. The elemental follows the directions of
 the caster for the duration of the spell but disperses once the spell expires.
 
@@ -8801,7 +8209,7 @@ Permanent, Rank Priest, Resist (Persistence), Touch
 
 This spell takes one hour to cast and severs the mystical link a worshipper enjoys with his god,
 causing the target of the spell to immediately and permanently lose all Divine Magic from the
-caster’s cult. In addition, the target also loses the Pact skill, freeing any POW dedicated to the
+caster's cult. In addition, the target also loses the Pact skill, freeing any POW dedicated to the
 god. The target will never again be able to learn or use Divine Magic spells from the cult, though
 he will still be able to use Lore (Specific Theology) for purely academic purposes.
 
@@ -8914,7 +8322,7 @@ dangerous as it was before the spell.
 Laughter
 Duration 15, Ranged, Rank Initiate, Resist (Persistence)
 
-This spell infects the caster’s foes with laughter, making common activity difficult and exhausting.
+This spell infects the caster's foes with laughter, making common activity difficult and exhausting.
 The caster picks a number of targets equal to the Magnitude of the spell, who all must resist the
 spell individually. Those who fail are subject to gut-wrenching laughter for the duration of the
 spell, suffering a - 20% penalty to all DEX-related Skill Tests and a level of Fatigue when the
@@ -8952,7 +8360,7 @@ Duration 15, Rank Initiate, Touch
 
 This Spell grants a single target the ability to regain their magical strength through mystic
 meditation. This requires the target to spend a quarter of an hour in solitude without interruption
-but will replenish all of the target’s spent Magic Points after that time. This meditation is not
+but will replenish all of the target's spent Magic Points after that time. This meditation is not
 deep and can be interrupted by any outside contact but the target can make a Persistence Skill
 Test to ignore any outside stimuli that might wake him (as long as it is not a direct attack).
 
@@ -8960,9 +8368,9 @@ Test to ignore any outside stimuli that might wake him (as long as it is not a d
 Mindblast
 Duration 15, Ranged, Rank Initiate, Resist (Persistence)
 
-This spell applies a penalty to the victim’s INT equal to the Magnitude of the spell. This may
+This spell applies a penalty to the victim's INT equal to the Magnitude of the spell. This may
 cause the target to lose access to some Sorcery spells, or reduce the maximum magnitude of
-cast Common Magic. If the target’s INT is reduced below 8 they lose the power of speech and
+cast Common Magic. If the target's INT is reduced below 8 they lose the power of speech and
 become animalistic in their thought processes.
 
 
@@ -8973,13 +8381,13 @@ This spell allows the transmission of conscious thoughts, spell knowledge and Ma
 Points between participants. Each point of Magnitude in Mindlink allows mind-to-mind
 communication between two people, either creating several separate pairs of Mindlinked people,
 or making the caster the central hub of a small Mindlink network. In the second case, only the
-‘central’ Adventurer is linked directly to other participants. Thus, if Alaric is linked to Lilina and
+'central' Adventurer is linked directly to other participants. Thus, if Alaric is linked to Lilina and
 Thrace, Lilina and Thrace are not linked to each other.
 
 Mindlink must be cast upon all participants at the same time and it is limited to consenting
 participants. Those participating in a Mindlink may use the spells and Magic Points of others
 they are linked to without consent but only if they have the appropriate skill to cast it, i.e. to
-use one of Alaric’s Divine spells, Lilina must possess the Lore (the Thunderer) skill. Divine spells
+use one of Alaric's Divine spells, Lilina must possess the Lore (the Thunderer) skill. Divine spells
 used in this way must be recovered normally by the original owner.
 
 Participants in a Mindlink have a special vulnerability to INT, POW, CHA and morale-effecting
@@ -8989,7 +8397,7 @@ all participants are entitled to resist individually.
 Although participants in a Mindlink share Magic Points and conscious thought, they remain
 their own entity. Mindlink does not include hidden thoughts, memories, unconscious urges,
 skills or permanent spell knowledge. Any participant may sever their connection to the Mindlink
-as a Combat Action, or by leaving the spell’s range.
+as a Combat Action, or by leaving the spell's range.
 
 
 Rain
@@ -9015,10 +8423,10 @@ the Reflection Results table for more details.
 Reflection is incompatible with Absorption, Shield and Spirit Block.
 
 Reflection Results
-Incoming Spell’s Magnitude is. . .                    Effect
-Equal to or weaker than Reflection’s                  Incoming spell reflected and Reflection
+Incoming Spell's Magnitude is. . .                    Effect
+Equal to or weaker than Reflection's                  Incoming spell reflected and Reflection
 Magnitude.                                            remains.
-1 or more points stronger than Reflection’s           Reflection eliminated and incoming spell
+1 or more points stronger than Reflection's           Reflection eliminated and incoming spell
 Magnitude.                                            takes effect.
 
 
@@ -9028,7 +8436,7 @@ Concentration Special, Rank Acolyte, Touch
 This spell causes a location severed or maimed by a Major Wound to regenerate, or if the
 detached location is still present, for it to reattach itself to its stump.
 
-Regenerate Limb takes a number of rounds equal to the location’s HP to reattach or repair,
+Regenerate Limb takes a number of rounds equal to the location's HP to reattach or repair,
 during which time the caster must maintain concentration on the spell. The Hit Location is
 immediately restored to 1 Hit Point at the end of this period. Regenerating a severed location
 works the same way but takes minutes instead of rounds.
@@ -9047,7 +8455,7 @@ seeking revenge may be more than willing to return to life, those who died in li
 to old age or persistent illness may be less than happy at a return to corporeality and may resist
 the summoning.
 
-Resurrect takes a number of hours equal to the target’s POW Characteristic to take effect, during
+Resurrect takes a number of hours equal to the target's POW Characteristic to take effect, during
 which time the caster must maintain concentration on the spell. A resurrected Adventurer
 returns to life with zero Hit Points on all locations.
 
@@ -9063,10 +8471,10 @@ otherwise the magic automatically fails.
 Instant, Rank Priest, Resist (Resilience)
 
 This spell severs the bond between body and soul, to devastating effect. The target may resist
-the spell by opposing his Resilience with the caster’s Lore (Specific Theology) roll made to cast
+the spell by opposing his Resilience with the caster's Lore (Specific Theology) roll made to cast
 the spell. If the resistance attempt fails, then the target dies. If the resistance roll succeeds, then
 the target takes one point of damage for every two points of Magnitude of the spell to each Hit
-Location simultaneously. This may, in some cases, still result in the death of the spell’s target, if
+Location simultaneously. This may, in some cases, still result in the death of the spell's target, if
 further Resilience rolls for the damage sustained are failed.
 
 
@@ -9085,7 +8493,7 @@ Soul Sight
 Duration 15, Rank Initiate, Touch
 
 This spell allows the recipient to see the POW aura of anyone he looks at, enabling him to
-discern that creature’s current Magic Points, as well as the nature of any active spells, the source
+discern that creature's current Magic Points, as well as the nature of any active spells, the source
 of their magic and any enchanted items the creature is carrying. It also allows the recipient to
 see into the spirit world.
 
@@ -9095,10 +8503,10 @@ Duration 15, Rank Initiate, Touch
 
 Spirit Block is one of the most powerful ways in which to block the malign influence of ghosts,
 wraiths and other creatures of the spirit world. The recipient of Spirit Block may only be affected
-by spirits with a POW greater than the spell’s Magnitude, squared.
+by spirits with a POW greater than the spell's Magnitude, squared.
 
 Spirit Block Effectiveness
-Spirit Block’s Magnitude           Recipient May Only Be Harmed By Spirits With…
+Spirit Block's Magnitude           Recipient May Only Be Harmed By Spirits With...
 1                                  POW 2 or higher
 2                                  POW 5 or higher
 3                                  POW 10 or higher
@@ -9144,9 +8552,9 @@ take precedence in such cases. Precise Attack attempts do not work whilst this s
 True (Weapon)
 Duration 15, Rank Initiate, Touch
 
-Cast on the specified type of Close Combat Weapon, this spell doubles that weapon’s normal
+Cast on the specified type of Close Combat Weapon, this spell doubles that weapon's normal
 damage dice. Other bonuses, such as Damage Modifiers, are not affected. The wielder of the
-weapon should roll the weapon’s damage twice and total the result.
+weapon should roll the weapon's damage twice and total the result.
 
 
 
@@ -9157,7 +8565,7 @@ weapon should roll the weapon’s damage twice and total the result.
 
 Sorcery uses formulae, both written and mentally envisaged, to achieve magical effects. A
 somewhat crude way of looking at Sorcery is to consider it as short-cuts and bypasses that alter
-the fabric of creation to serve the caster’s own ends. Whereas Common Magic is a miscellany of
+the fabric of creation to serve the caster's own ends. Whereas Common Magic is a miscellany of
 charms and cantrips, and Divine Magic channels the powers of the gods, Sorcery is a deliberate
 attempt to bend the way the universe functions.
 
@@ -9184,7 +8592,7 @@ Some sorcerers view Common and Divine Magic with contempt. A good sorcerer does 
 to rely on the relationships these kinds of magic require; all he needs is his own intellect and his
 grimoire. Sorcery can remove the tiresome, restrictive constraints necessary to the other kinds of
 magic. He can, if he chooses, stand alone and still wield great power. In more open minded societies
-where Sorcery forms part of a cult’s structure, it is often at the expense of Divine Magic - either
+where Sorcery forms part of a cult's structure, it is often at the expense of Divine Magic - either
 because those who established the cult possessed no celestial or otherworldly relationships to begin
 with, or have lost it through overly dedicating their energies to developing the power Sorcery offers.
 
@@ -9214,21 +8622,21 @@ grimoire.
 For Example, Jedekiah is a sorcerer of one of the illustrious Jade Circle Schools. As a member of the
 Seventh Circle sect he has Sorcery (Seventh Jade Grimoire) 60% and Sorcery (Book of the Whisperer)
 45%. His INT is 14. The Seventh Jade grimoire has over a dozen spells in its pages whilst the
-Whisperer’s Bookhas only six. Jedekiah can therefore memorise any combination of spells from either
+Whisperer's Bookhas only six. Jedekiah can therefore memorise any combination of spells from either
 grimoire as long as the total number of spells does not exceed 14. To successfully cast those spells found
 in the Seventh Jade Grimoire he needs to roll 60% or less; and 45% or less to cast those from the
-Whisperer’sBook.
+Whisperer'sBook.
 
 If the same spell is found in one or more grimoires a sorcerer knows, he always casts it at the
 highest rated Sorcery (Grimoire) percentage.
 
 
 Manipulation (INT+POW)
-On their own, Sorcery spells can be quite weak and limited in their scope. However a sorcerer’s
+On their own, Sorcery spells can be quite weak and limited in their scope. However a sorcerer's
 true power lies in his ability to extend the fundamental aspects of all spells, enhancing their
 reach. By default, Sorcery spells cast without any Manipulation have a Magnitude of 1, a Range
-of touch, a Duration equal to the caster’s POW in minutes and focus upon a single target.
-However, the Manipulation skill allows a sorcerer to modify the spell’s Magnitude, Range,
+of touch, a Duration equal to the caster's POW in minutes and focus upon a single target.
+However, the Manipulation skill allows a sorcerer to modify the spell's Magnitude, Range,
 Duration, Targets and even Combine several spells into a single casting.
 
 Manipulation is a single skill which can be applied to all known Sorcery spells; a separate
@@ -9245,13 +8653,13 @@ Manipulation of the following components is possible:
 
 Magnitude: Used to penetrate magical defences or resist magical attacks.
 Range: Used to increase the distance a spell can be cast over.
-Duration: Used to extend the period of time the spell’s effects last.
+Duration: Used to extend the period of time the spell's effects last.
 Targets: Used to increase the number of targets affected by the spell.
 Combine: Used to fuse together several spells into a single casting.
 
 The Sorcery Manipulation Table shows what effect each point of Manipulation has on the
 different spell components. It takes no Manipulation to cast a Sorcery spell in its basic format
-(as indicated by the ‘None’ row).
+(as indicated by the 'None' row).
 
                                                                                                           191
 
@@ -9269,7 +8677,7 @@ None               1                  Touch                   POW           1   
 8                  9                  5km x POW               9xPOW         9           9 Spells
 9                  10                 10km x POW              10xPOW        10          10 Spells
 10                 11                 15km x POW              11 x POW      11          11 Spells
-Each point…        +1 Magnitude       +5km x POW              +1 x POW      +1          +1 Spells
+Each point...        +1 Magnitude       +5km x POW              +1 x POW      +1          +1 Spells
 
 Magnitude
 Sorcery spells have a default Magnitude of 1 at no additional Magic Point cost. It costs one
@@ -9315,7 +8723,7 @@ of recipients.
 Manipulating this component allows the sorcerer to increase the number of targets of a Sorcery
 spell. The maximum number of targets the spell can affect is noted in the Sorcery Manipulation
 table. If the spell is cast successfully, the effect of the spell is applied multiple times, once for each
-target included; the spell’s potency is never divided between them.
+target included; the spell's potency is never divided between them.
 
 Combine
 Manipulating this component allows the sorcerer to combine the effects of multiple Sorcery
@@ -9380,7 +8788,7 @@ All Sorcery spells take as many Combat Actions to cast as the number of Manipula
 to cast them, with a minimum casting time of 1. No other Combat Action may be taken while
 casting a spell, although the Adventurer may still walk up to his Movement rate while spellcasting.
 
-A spell’s effect takes effect at the end of its last casting Combat Action.
+A spell's effect takes effect at the end of its last casting Combat Action.
 
 Physical and magical attacks on a sorcerer as he casts automatically ruin the spell if he suffers
 a Major Wound, is immobilised, or is prevented from observing the target. Lesser distractions
@@ -9421,18 +8829,18 @@ granting access.
 
 Spell Traits and Descriptions
 Every Sorcery spell is defined by several traits defining the spell and how it is used in the game.
-A description then follows describing the spell’s precise effects. The traits used by Sorcery spells
+A description then follows describing the spell's precise effects. The traits used by Sorcery spells
 are detailed here.
 
 By default all Sorcery spells are binary in effect rather than progressive: they either work or they
 do not. The strength of the effect, or scope of the target they can affect, is dependent on the
-caster’s Sorcery skill in the grimoire from which that spell comes.
+caster's Sorcery skill in the grimoire from which that spell comes.
 
-Autonomous: The spell’s effects will remain until its duration ends, without need for
+Autonomous: The spell's effects will remain until its duration ends, without need for
 concentration.
 
-Concentration: The spell’s active effects continue so long as the Adventurer concentrates on
-it. Once focus is dropped, the spell’s effect ceases or remains static until concentration can be
+Concentration: The spell's active effects continue so long as the Adventurer concentrates on
+it. Once focus is dropped, the spell's effect ceases or remains static until concentration can be
 resumed. A sorcerer may move or perform non-complex actions without penalty. More stressful
 situations, such as walking a narrow ledge, engaging in combat, suffering serious injury, or casting
 another spell immediately require a Persistence roll to maintain focus. By default a sorcerer may
@@ -9476,16 +8884,16 @@ and cubic metres on a one for one basis.
 Jedekiah knows the Animate (Wind) spell and has increased his Sorcery (Seventh Jade Grimoire)
 to 73%. He is sailing a small skiff across the sea when he sees a warship bearing down on him.
 In desperation he tries to escape and invokes the wind to his aid. The Games Master decides
-that the skiff ’s sails hold two cubic metres of air, so the remaining six cubic metres Jedekiah
-can normally control may be used instead to increase the wind’s speed. Converting them over
+that the skiff 's sails hold two cubic metres of air, so the remaining six cubic metres Jedekiah
+can normally control may be used instead to increase the wind's speed. Converting them over
 and adding to the base one metre speed provided by the spell, allows the skiff to be blown at an
 additional seven metres per round. More than enough to outdistance the warship.
 
-The sorcerer’s chance to have the animated object perform any complex physical skill is equal
+The sorcerer's chance to have the animated object perform any complex physical skill is equal
 to his own chance to perform that action halved (before any modifiers). If combined with the
 appropriate Form/Set spell (through application of the Combine Manipulation), the caster can
 perform much finer manoeuvring of the target. In this case, the animated object will use the
-caster’s full skill scores for physical activities.
+caster's full skill scores for physical activities.
 
 *The myriad versions of this spell normally only affect inanimate matter, such as clay, steel, dead flesh
 and so on; or ethereal substances such as air, fire, darkness. If the substance is already under magical
@@ -9531,7 +8939,7 @@ Autonomous
 
 Castback is a defensive invocation shielding the sorcerer from hostile magic and has a chance
 of sending it back to the attacking spellcaster. It reflects hostile magic of up to 1 Magnitude per
-10% of the caster’s Sorcery (Grimoire) skill and only affects spells that target the user specifically
+10% of the caster's Sorcery (Grimoire) skill and only affects spells that target the user specifically
 and possess the Resist trait. Such spells may affect the protected Adventurer normally but if it is
 resisted, the spell is launched back at the person who cast it.
 
@@ -9541,7 +8949,7 @@ Autonomous
 
 This spell can be cast upon anything capable of inflicting physical damage; weapons, traps,
 unarmed attacks or even other offensive spells. Attacks and weapons, where maximum damage
-does not exceed two Hit Points per 10% of the caster’s Sorcery (Grimoire) skill, will always do
+does not exceed two Hit Points per 10% of the caster's Sorcery (Grimoire) skill, will always do
 the maximum amount of damage without needing to roll.
 
 Thus a sorcerer with Damage Boosting 43% could cast the spell on a War Sword, which normally
@@ -9554,7 +8962,7 @@ Autonomous
 
 This spell protects the body of the recipient (including clothing and small belongings carried
 upon his person) by generating an invisible force field, which deflects incoming damage. Any
-attack where damage does not exceed one Hit Point per 10% of the caster’s Sorcery (Grimoire)
+attack where damage does not exceed one Hit Point per 10% of the caster's Sorcery (Grimoire)
 skill, glances off with no effect - although the protected Adventurer may still suffer from
 Knockback if applicable. Attacks that inflict more damage than the spell can handle, completely
 bypass it with no reduction.
@@ -9568,8 +8976,8 @@ Diminish (Characteristic)
 Autonomous, Resist (Persistence/Resilience)
 
 A Diminish spell exists for each Characteristic (so, Diminish Strength, Diminish Constitution
-and so on). The spell temporarily reduces a target’s Characteristic by two points per 10% of
-the sorcerer’s Sorcery (Grimoire) skill. To be effective, the targeted creature must possess the
+and so on). The spell temporarily reduces a target's Characteristic by two points per 10% of
+the sorcerer's Sorcery (Grimoire) skill. To be effective, the targeted creature must possess the
 Characteristic in question. If used malevolently Diminish (STR, DEX, CON or SIZ) are resisted
 with Resilience; Diminish (INT, POW or CHA) are resisted with Persistence. The minimum
 value any Characteristic can be reduced to is 1.
@@ -9590,7 +8998,7 @@ variations of this spell exist. A sorcerer may attempt to dominate a target of u
 10% of his Sorcery (Grimoire) skill. If the target fails to resist, it must obey the commands of
 the caster for the duration of the spell. Suicidal commands instantly break the spell, although the
 target might be tricked into doing something indirectly fatal. Commands which run contrary
-to the target’s ethics or instincts allow the dominated subject another opposed Persistence roll
+to the target's ethics or instincts allow the dominated subject another opposed Persistence roll
 to escape control.
 
 The controlled target shares a limited one-way telepathic link with the sorcerer by which it can
@@ -9609,7 +9017,7 @@ Autonomous, Resist (Persistence/Resilience)
 
 An Enhance spell exists for each Characteristic (so, Enhance Strength, Enhance Constitution
 and so on). Essentially the reverse of the Diminish spell, Enhance temporarily increases the
-specified Characteristic by two points per 10% of the caster’s Sorcery (Grimoire) skill. A creature
+specified Characteristic by two points per 10% of the caster's Sorcery (Grimoire) skill. A creature
 must have the Characteristic in question to be affected and the Characteristic cannot be boosted
 beyond twice its original value.
 
@@ -9624,12 +9032,12 @@ Concentration, Resist (Evade)
 
 Using this spell allows the caster (or whomever or whatever he targets with the spell) to fly.
 A sorcerer can affect a target of up to 3 SIZ per 10% of his Sorcery (Grimoire) skill. Those
-affected by this spell move at the spellcaster’s behest, not their own. By default the spell grants
+affected by this spell move at the spellcaster's behest, not their own. By default the spell grants
 a Movement rate of one metre per round, although points of SIZ may be substituted for extra
 movement on a three for one basis.
 
 Offensive use of the spell allows a victim to attempt an opposed Evade roll (or equivalent) to
-initially break free of the spell’s grip.
+initially break free of the spell's grip.
 
 
 
@@ -9645,7 +9053,7 @@ The categories are broadly based upon form and material, for example; gases, liq
 stone, metal, wood, flames, darkness, ice, flesh and bone and so on.
 
 The spell affects up to three points of SIZ (or one cubic metre of an ethereal/gaseous substance)
-per 10% of the caster’s Sorcery (Grimoire) skill. For the duration of the spell, the affected material
+per 10% of the caster's Sorcery (Grimoire) skill. For the duration of the spell, the affected material
 can be formed into whatever shape the sorcerer desires; although complex configurations require
 an appropriate craft skill and several rounds of concentration to mould. Assuming the material is
 solid, the substance retains its shape at the end of the spell. More mutable substances like water
@@ -9675,7 +9083,7 @@ Haste
 Autonomous
 
 Haste increases the Movement rate of whatever it is cast on. The spell affects targets of up to 3
-SIZ per 10% of the caster’s Sorcery (Grimoire) skill. By default, the base Movement of the target
+SIZ per 10% of the caster's Sorcery (Grimoire) skill. By default, the base Movement of the target
 is doubled. To further improve speed a sorcerer may substitute surplus points of SIZ for extra
 movement, each 3 SIZ giving an extra one metre. Haste is incompatible with other Movement
 boosting spells.
@@ -9685,9 +9093,9 @@ Hinder
 Autonomous, Resist (Evade)
 
 Hinder decreases the movement rate of whatever it is cast on. The spell affects targets of up to 3 SIZ
-per 10% of the caster’s Sorcery (Grimoire) skill. By default, the base Movement of the target is halved.
+per 10% of the caster's Sorcery (Grimoire) skill. By default, the base Movement of the target is halved.
 To further reduce speed a sorcerer may substitute surplus points of SIZ for extra effect, each 3 SIZ
-giving an additional reduction of one metre per round. A target’s Movement cannot be lowered to less
+giving an additional reduction of one metre per round. A target's Movement cannot be lowered to less
 than one with this spell. Hinder is incompatible with other Movement slowing spells.
 
 
@@ -9696,7 +9104,7 @@ than one with this spell. Hinder is incompatible with other Movement slowing spe
          Holdfast
 Autonomous, Resist (Resilience)
 
-Holdfast causes an object of up to 3 SIZ per 10% of the caster’s Sorcery (Grimoire) skill, to
+Holdfast causes an object of up to 3 SIZ per 10% of the caster's Sorcery (Grimoire) skill, to
 merge with another, contacting surface. The binding is unbreakable by normal means, save for
 the destruction of the target or the surface it is bonded to. Only magic can dispel the effect, by
 overcoming the Magnitude of the Holdfast.
@@ -9714,7 +9122,7 @@ Intuition allows a sorcerer to discern the emotions and motives of the target, a
 a successful Insight roll. The caster may affect targets of up to 3 POW per 10% of his Sorcery
 (Grimoire) skill. The sorcerer however is unable to read memories or guarded thoughts, so a
 target who is aware that this spell is being used may attempt to veil his feelings, gaining another
-opposed test of their Persistence roll against the caster’s Sorcery (Grimoire) percentage, each time
+opposed test of their Persistence roll against the caster's Sorcery (Grimoire) percentage, each time
 the caster attempts to discern a new fact.
 
 
@@ -9722,18 +9130,18 @@ Mystic Vision
 Concentration
 
 This spell allows the caster to perceive magic, by augmenting his primary senses. It allows him
-to see, hear or perhaps even smell spells, enchanted items and even a creature’s Magic Points.
+to see, hear or perhaps even smell spells, enchanted items and even a creature's Magic Points.
 The sorcerer must be able to actually detect the creature or object for this spell to work. Mystic
 Vision also enables observation into the hero, spirit and essence planes - although the spell does
 not grant access.
 
 Sorcerers will either roughly know how many Magic Points an object or creature currently has
-(1-10, 11-20, 21-30 and so forth), or will automatically be aware of a spell’s magical origin
+(1-10, 11-20, 21-30 and so forth), or will automatically be aware of a spell's magical origin
 (Common, Divine or Sorcery).
 
-Spells or enchantments of up to one Magic Point (or POW) per 10% of the caster’s Sorcery
+Spells or enchantments of up to one Magic Point (or POW) per 10% of the caster's Sorcery
 (Grimoire) skill, have all their attributes revealed - including what the spell does, whether it has
-been overcharged, enchantment conditions and the unique ‘aura’ of who cast it; which can be
+been overcharged, enchantment conditions and the unique 'aura' of who cast it; which can be
 used to identify other spells cast by the same person.
 
 
@@ -9741,10 +9149,10 @@ Neutralise Magic
 Autonomous
 
 Neutralise Magic negates a combined Magnitude of spells on a target. The spell affects up to
-one point of Magnitude for every 10% of the sorcerer’s Sorcery (Grimoire) skill. It works by
+one point of Magnitude for every 10% of the sorcerer's Sorcery (Grimoire) skill. It works by
 dismissing the most powerful spell it can act on, reducing its own effect by the Magnitude of the
 eliminated spell, then continues to dismiss the next most powerful spell it can still affect. A spell
-cannot be partially eliminated, so only ‘complete’ spells are negated.
+cannot be partially eliminated, so only 'complete' spells are negated.
 
 
                                                                                                        201
@@ -9752,7 +9160,7 @@ cannot be partially eliminated, so only ‘complete’ spells are negated.
        Jedekiah is under the effect of a Magnitude 2 Protection spell, a Magnitude 4 Haste spell and
 a Magnitude 6 Damage Resistance spell. When hit by a Neutralise Magic cast at 44% (affects
 5 Magnitude), the Damage Resistance spell is ignored as it is too powerful. The Haste spell is
-neutralised but this reduces the Neutralise Magic’s effect to 1, which is not enough to take out
+neutralised but this reduces the Neutralise Magic's effect to 1, which is not enough to take out
 the Protection spell.
 
 Enchantments and other permanent magical effects are temporarily neutralised for the duration
@@ -9776,10 +9184,10 @@ Concentration, Resist (Special)
 Each specific Phantom spell produces an illusion which affects a different sense or perception.
 There are five basic versions, one for each of sight, sound, smell, taste and touch; but there are
 also variants for unusual sensory mechanisms (such as the darksense of trolls). Illusions produced
-by each Phantom spell are stimulations of the target’s own perceptions and nervous system - not
+by each Phantom spell are stimulations of the target's own perceptions and nervous system - not
 temporary manifestations of reality.
 
-Targets of a phantasm must succeed in an opposed test of their Persistence against the caster’s
+Targets of a phantasm must succeed in an opposed test of their Persistence against the caster's
 Sorcery (Grimoire), otherwise they truly believe what they are experiencing.
 
 Phantasms cannot cause direct harm, although they may be injurious in an indirect manner,
@@ -9788,7 +9196,7 @@ However, most effects are psychosomatic in nature and permit further Resistance 
 used offensively.
 
 Phantom spells can react to their surroundings as long as the sorcerer maintains concentration
-over them. If concentration lapses, then the illusion remains static within the victim’s mind,
+over them. If concentration lapses, then the illusion remains static within the victim's mind,
 continuing to produce the last effect imagined by the caster - the smell of roses, a moaning wind,
 bone biting cold and so on. The sorcerer can resume concentration at a later time to change the
 illusion as long as the spell has not expired. Multiple Phantom spells can be concentrated on
@@ -9806,10 +9214,10 @@ entrances those who smell it.
 
          Taste
 This illusion creates or hides any single taste for consumables, substances or persons within the
-spell’s effect. If used offensively, such as creating the burning effect of hot chillies to cause the
+spell's effect. If used offensively, such as creating the burning effect of hot chillies to cause the
 victim to gag, the caster must overcome the target in an opposed roll of Sorcery (Grimoire)
 versus Resilience. Several Phantom (Taste) spells could, for example, make a meagre meal of
-boiled worms, sour berries and nettle leaves taste like the recipient’s favourite meal - although
+boiled worms, sour berries and nettle leaves taste like the recipient's favourite meal - although
 the texture might need some work.
 
 Sight
@@ -9817,10 +9225,10 @@ Creates a visual illusion of anything the caster can imagine. The vision is comp
 corporeal, so physical interaction passes straight through. If used subtly, it can augment or
 modify the appearance of an already existing target; granting outlandish clothing or changing
 colour for example. Creating a complete fabrication out of context with the setting, or physically
-interacting with it, allows the viewer an opposed roll of their Perception against the caster’s
+interacting with it, allows the viewer an opposed roll of their Perception against the caster's
 Sorcery (Grimoire). Animate creatures produced by this spell, which appear to perform complex
 physical actions, use the relevant skills of the sorcerer. For example, an illusionary giant ant sent
-to attack the recipient would use the caster’s own Unarmed combat skill to fight.
+to attack the recipient would use the caster's own Unarmed combat skill to fight.
 
 Sound
 This spell creates an audible illusion, anything from a whisper to a clap of thunder. The caster
@@ -9828,7 +9236,7 @@ can manipulate the nature and volume of the sound as long as he continues to con
 it. Although a sorcerer can create very loud sounds, he cannot cause permanent deafness or
 damage with them. However, the illusionary volume can be such that recipients standing next to
 each other need a Perception roll to hear each other speak; and any task which requires hearing
-one’s own voice or maintaining concentration (such as spell casting), must win an opposed test
+one's own voice or maintaining concentration (such as spell casting), must win an opposed test
 of Persistence against the spell to continue.
 
 Touch
@@ -9837,7 +9245,7 @@ them a greater sense of reality. It can simulate any type of tactual sensation f
 prickly, soft to hard and even hot and cold. Since the spell simply produces an illusionary
 sensation in the nerves of those who touch the phantasm, it cannot inflict and is itself, immune
 to damage. However, victims of the spell may still believe they have been wounded and must
-succeed in opposed rolls of Resilience versus the caster’s Sorcery (Grimoire) in order to avoid
+succeed in opposed rolls of Resilience versus the caster's Sorcery (Grimoire) in order to avoid
 the (psychosomatic) effects of receiving a Serious or Major Wound, even though they have not
 suffered any actual harm.
 
@@ -9848,11 +9256,11 @@ Autonomous
 This spell requires the use of the Combine manipulation. It must be coupled with Damage
 Resistance, Spell Resistance, Spirit Resistance or any combination of these three spells. When
 completed, the Protective Ward creates an area of protection of up to one metre radius per 10%
-of the caster’s Sorcery (Grimoire) skill. Casting the spell requires that the ward be inscribed into
+of the caster's Sorcery (Grimoire) skill. Casting the spell requires that the ward be inscribed into
 a solid surface, such as hard packed earth, stone flagstones or even a wooden deck of a ship. Once
 cast it cannot be moved, although the surface it is inscribed upon can be.
 
-The Protective Ward’s perimeter contains the benefits of its combined Resistance spell(s). It only
+The Protective Ward's perimeter contains the benefits of its combined Resistance spell(s). It only
 inhibits spells or attacks entering the circle from the outside - attacks or spells originating within
 the circle are unaffected. Thus a Protective Circle against spirits would block out external spirits
 
@@ -9869,15 +9277,15 @@ and so on) or runes.
 Project (Sense)
 Concentration
 
-Each ‘Project (Sense)’ is an individual spell, specific to one of the five primary senses but there are
+Each 'Project (Sense)' is an individual spell, specific to one of the five primary senses but there are
 also variants for unusual sensory mechanisms, such as Darksense. The spell allows the sorcerer
-to project one of the recipient’s senses beyond his body via an invisible and intangible receptor,
+to project one of the recipient's senses beyond his body via an invisible and intangible receptor,
 which transmits the specified type of sensory input back. This permits the recipient to use his
 Perception skill (with that sense) anywhere the receptor is.
 
 The sorcerer decides at the time the spell is cast where the receptor initially manifests - either beside
-the spell’s recipient or a location well known to the sorcerer within the spell’s range. The receptor
-has a Movement of one metre per 10% of the caster’s Sorcery (Grimoire) skill. Concentration is
+the spell's recipient or a location well known to the sorcerer within the spell's range. The receptor
+has a Movement of one metre per 10% of the caster's Sorcery (Grimoire) skill. Concentration is
 only required to move the receptor - when stationary, the spell is treated as Autonomous instead.
 
 A sorcerer can use Project (Sense) to be able to aim a second spell at a target who is out of direct
@@ -9895,7 +9303,7 @@ Concentration
 This spell functions much like the Divine Magic spells of Heal Wound and Regrow Limb, in that
 it will repair Serious or Major Wounds, even allowing a severed or maimed limb to be reattached
 or grow anew. The sorcerer may rejuvenate locations with a maximum of one Hit Point per 10%
-of the caster’s Sorcery (Grimoire) skill. This spell cannot raise an Adventurer from death.
+of the caster's Sorcery (Grimoire) skill. This spell cannot raise an Adventurer from death.
 
 Regenerate heals a damaged location back to one Hit Point (and no more), requiring the sorcerer
 to concentrate for a period of one entire round per HP recovered. Locations which have been
@@ -9907,7 +9315,7 @@ Concentration
 
 One of the few methods known of healing Characteristic damage, such as that caused by
 the Tap spell, Restoration works in a similar manner to Regenerate. The sorcerer may restore
-Characteristics of up to three points per 10% of the caster’s Sorcery (Grimoire) skill. If the
+Characteristics of up to three points per 10% of the caster's Sorcery (Grimoire) skill. If the
 original value of the Characteristic was higher than this, then it cannot be healed. Each point
 restored takes one minute to regenerate.
 
@@ -9919,14 +9327,14 @@ Concentration
 
 Eminently useful for finding valuables, lost possessions or hidden objects from afar, this
 spell has a variant for every substance imaginable. Sense (Substance) causes all sources of
-that substance within range of the spell to resonate to the caster’s dominant sense. For
+that substance within range of the spell to resonate to the caster's dominant sense. For
 example, diamonds may visibly gleam like ice; amber could taste like cinnamon; water
 tinkle with a crystalline chime and so on. Whilst the spell can be cast over extreme ranges,
 it has difficulty detecting substances concealed or blanketed behind significant layers of
 solid material. The spell can penetrate a combined thickness of up to one metre of wood/
-earth/rock/water, or one centimetre of metal per 10% of the caster’s Sorcery (Grimoire)
+earth/rock/water, or one centimetre of metal per 10% of the caster's Sorcery (Grimoire)
 skill. For example, if a sorcerer is seeking a hidden hoard of gold in a castle, his Sorcery
-skill’s value must be able to penetrate the combined thicknesses of all the walls between
+skill's value must be able to penetrate the combined thicknesses of all the walls between
 him and the treasure.
 
 Although each Sense spell is specific to particular objects or substances, the categories can be
@@ -9974,7 +9382,7 @@ the sorcerer can affect up to three cubic metres of flames per 10% of Sorcery (G
          Spell Resistance
 Autonomous
 
-A magical ward that blocks any incoming spell of up to 1 Magnitude per 10% of the caster’s
+A magical ward that blocks any incoming spell of up to 1 Magnitude per 10% of the caster's
 Sorcery (Grimoire) skill.
 
 Spell Resistance remains in place for the entirety of its duration - spells that successfully breach
@@ -9986,7 +9394,7 @@ order to successfully use a healing spell.
 Spirit Resistance
 Autonomous
 
-This spell blocks spirits or otherworld entities of up to 3 POW per 10% of the caster’s Sorcery
+This spell blocks spirits or otherworld entities of up to 3 POW per 10% of the caster's Sorcery
 (Grimoire) skill, from coming into contact with the recipient. A blocked spirit unable to touch a
 recipient will not be able to personally attack or harm him, or engage him in spirit combat. Spells
 cast at the recipient by a spirit or otherworld entity, are likewise blocked unless their Magnitude
@@ -10000,14 +9408,14 @@ Each Characteristic has a Tap spell; thus Tap (Strength), Tap (Constitution) and
 These devastating spells allow the caster to permanently strip a target of Characteristic points,
 transforming the tapped Characteristic points into Magic Points for his own use. It works only
 on creatures possessing the Characteristic being tapped. It is possible for a sorcerer to Tap his
-own Characteristics… but that is truly the act of a desperate sorcerer.
+own Characteristics... but that is truly the act of a desperate sorcerer.
 
 The Characteristics of targeted creatures can be reduced to a minimum of 1. However, Tap only
 consumes and transfers one point per round, making it less versatile in combat. Characteristic
 points lost to Tap are destroyed permanently, though the victim can regain them via certain
 healing magic, or by raising them through the normal means of increasing a Characteristic.
 
-A Characteristic may be tapped for up to one point per 10% of the sorcerer’s Sorcery (Grimoire)
+A Characteristic may be tapped for up to one point per 10% of the sorcerer's Sorcery (Grimoire)
 skill, from which the sorcerer gains an equivalent number of Magic Points. The sorcerer can only
 increase his Magic Points to double his normal maximum, although he may simply Tap a target
 and dissipate any excess - a truly malicious use of the spell. All Magic Points above his normal
@@ -10029,7 +9437,7 @@ these are regarded with even more loathing and hatred than the more common Tap s
 Concentration
 
 This spell dramatically accelerates the natural healing rate of the target. It heals up to one
-Hit Point per 10% of the caster’s Sorcery (Grimoire) skill, at the end of each round. The
+Hit Point per 10% of the caster's Sorcery (Grimoire) skill, at the end of each round. The
 amount healed can be divided across multiple locations as the recipient desires. However,
 the healing does not affect Serious or Major Wounds, which require the Regenerate spell
 instead.
@@ -10100,7 +9508,7 @@ Adventurers join factions for many reasons but the most common are:
   or a form of sorcery.
 *	   Reinforce beliefs and behaviours: faction members cleave to a particular ideal or way of
   behaving and, in the faction, find a way of both expressing it and being rewarded for it.
-*	   Power, Glory and Status: Rising through the faction’s ranks brings magical power, as
+*	   Power, Glory and Status: Rising through the faction's ranks brings magical power, as
   explored earlier in Divine Magic but aside from that, factions offer rewards in the form of
   training and, perhaps, other gifts.
 
@@ -10111,8 +9519,8 @@ god, a spirit or ancestor, an ideal or even a heroic personality. Cults fulfil m
 progress and tuition, enlightenment and very often they are the focus for a complete community.
 
 Where divine cults are concerned, a god may have several cults dedicated to different aspects of
-the god’s personality. Thus a single god may have many cults or just one, embracing all aspects
-of the god’s nature.
+the god's personality. Thus a single god may have many cults or just one, embracing all aspects
+of the god's nature.
 
 Cults are not limited to gods or spirits: a cult can form around a hero or heroine or even around
 a religious or philosophical ideal.
@@ -10120,7 +9528,7 @@ a religious or philosophical ideal.
 
 Guilds
 Guilds are associations of those who practice a particular profession or craft. All the jewellers in
-a city might belong to the jeweller’s guild, all the blacksmiths to the blacksmith’s guild and so
+a city might belong to the jeweller's guild, all the blacksmiths to the blacksmith's guild and so
 forth. Each guild possesses certain secret techniques and methods that are revealed only to those
 who prove themselves worthy to learn them.
 
@@ -10161,7 +9569,7 @@ orders even have divine blessings or secret fighting techniques.
 
 
 Factions and Magic
-The kinds of magic offered vary depending on the faction’s nature.
+The kinds of magic offered vary depending on the faction's nature.
 
 Divine Cults offer Divine Magic and Common Magic to their members. Divine cults have, as
 their focus, a god or a pantheon of gods - beings of Divine power who, through a relationship
@@ -10171,13 +9579,13 @@ Sorcerous Orders may have a god or a particular personality as the object of ven
 order itself does not derive its magic from a Divine source, as would a Divine cult. Rather the
 order derives its magical power from the direct study of Sorcery, formulating grimoires reflecting
 the needs, deeds and myths of its object of veneration. Membership of Sorcerous Order gives
-access to one or more of the order’s Grimoires.
+access to one or more of the order's Grimoires.
 
 Guilds control access to the highest secrets of a particular craft or profession. An Adventurer
 who seeks a master capable of teaching the higher levels (75%) of a skill may be required to join
-the appropriate guild. Some guilds teach Common Magic related to that guild’s specialty - for
-example, a guild of blacksmiths might teach Bladesharp, Repair and Armoursmith’s Boon, while
-a guild of thieves might teach Bandit’s Cloak and Abacus.
+the appropriate guild. Some guilds teach Common Magic related to that guild's specialty - for
+example, a guild of blacksmiths might teach Bladesharp, Repair and Armoursmith's Boon, while
+a guild of thieves might teach Bandit's Cloak and Abacus.
 
 
 210
@@ -10238,7 +9646,7 @@ be Fervent Members of more than one faction.
 
        Level 3: Masters
 Masters are the respected and established leaders of the faction and have full command of the
-faction’s secret skills or spells. There is usually only a single master in a given gathering of the
+faction's secret skills or spells. There is usually only a single master in a given gathering of the
 faction.
 
 
@@ -10280,7 +9688,7 @@ Masters      Candidates must have been a Fervent              Faction skills are
         and must have at least five cult skills of at    Moreover, Masters have the resources
         least 75%.                                       of their entire following at their
                                                          disposal though they are advised not
-                                                         to abuse the trust of the faction’s
+                                                         to abuse the trust of the faction's
                                                          members.
 Grand        Candidates must have been a Master of the        Faction skills are learnt for free.
 Masters      cult for at least three years and must have at
@@ -10293,8 +9701,8 @@ Masters      cult for at least three years and must have at
          Common Magic
 Factions can offer Common Magic. The range of Common Magic available may be far wider
 than its Divine, Spirit or Sorcery Magic portfolio; or be limited to a handful of spells the faction
-finds especially useful. It is therefore not uncommon to see a faction listed as providing ‘All’
-Common Magic spells - meaning all the spells found in Legend’s Common Magic chapter.
+finds especially useful. It is therefore not uncommon to see a faction listed as providing 'All'
+Common Magic spells - meaning all the spells found in Legend's Common Magic chapter.
 Similarly some factions may only provide a list of named spells - or may have special Common
 Magic spells of their own development.
 
@@ -10304,20 +9712,20 @@ can be expected to have Divine Spells relating to combat and battle; whereas a f
 can be expected to have spells related with healing and growth. Again, there are no hard and fast
 rules here, save the description of the cult and the nature of the deity.
 
-The number of Divine Spells a cult offers depends on the cult’s size and standing. However most
+The number of Divine Spells a cult offers depends on the cult's size and standing. However most
 cults will offer around four or five Divine Spells to Pious Members or above.
 
 Sorcery
 Those orders following a sorcerous tradition may have an ideal or philosophy as the focus of
 veneration, or a particular god, demi-god or saint. The Sorcery spells offered are collectively
-known as a grimoire and order members have access to the order’s grimoire or grimoires as
+known as a grimoire and order members have access to the order's grimoire or grimoires as
 described in the Sorcery chapter.
 
 Faction Skills
 These are skills mastered by the cult and considered important to it. Training in these skills
 is more or less guaranteed with faction members being able to find access to a teacher via a
 temple, academy, school, shrine or through faction contacts. Faction skills are usually trained at
-a discount and if so this will be mentioned in the faction’s description.
+a discount and if so this will be mentioned in the faction's description.
 
 Additionally increasing competence in faction skills is usually mandatory for Adventurers to
 progress from one rank to the next. Thus, when considering training and spending Improvement
@@ -10333,7 +9741,7 @@ The warrior-god of the forest-tribes is the Thunderer, who shakes the branches a
 the darkness. The forest tribes learned to worship the Thunderer and the rest of their pantheon
 from the sea-going barbarians of the north; in the mountains of the north, the Thunderer is
 associated with a magic iron hammer but the forest tribes have few ironsmiths. In their rites,
-therefore, the Thunderer’s holy weapon is the spear, which symbolises his heavenly thunderbolts.
+therefore, the Thunderer's holy weapon is the spear, which symbolises his heavenly thunderbolts.
 
 Warriors of the Thunderer are honour-bound to defend the tribe and hunt down monsters.
 Storms are their sacred time and battles or ceremonies conducted amid the thunder and the
@@ -10399,12 +9807,12 @@ Heroic Abilities: Immunity to Poison; Reincarnate as Black Snake.
 
          Membership
 Novice
-Novices must allow themselves to be bitten by one of the order’s feared Grey Mambas. Those
+Novices must allow themselves to be bitten by one of the order's feared Grey Mambas. Those
 who survive are permitted membership!
 
 Apprentice
 Apprentices must have five of the order skills at 30% at least and must have killed at least one foe
-of the cult using poison or one of the cult’s Sorcery spells.
+of the cult using poison or one of the cult's Sorcery spells.
 
 Adept
 Adepts must have five of the order skills at 50% at least and the Immunity to Poison Heroic
@@ -10433,15 +9841,15 @@ payment for these deaths.
 
                                                                                                     215
 
-       The Assassin’s Guild are not a band of hired thugs or murderers. They are adjusters on the scales
-of life, weighing one man’s virtues against another. Would the city be better off if the young
+       The Assassin's Guild are not a band of hired thugs or murderers. They are adjusters on the scales
+of life, weighing one man's virtues against another. Would the city be better off if the young
 prince ruled instead of the old king? Which priestess should lead the temple? They only kill if
 their victim deserves death according to their cryptic methodology.
 
 At the lower ranks of the guild, the Assassins are willing to employ thieves, rogues and Adventurers
 as assassins; however, only those dedicated to the cause of death may ascend to the higher ranks.
 
-Common Magic: Bandit’s Cloak, Boon of Lasting Night, Coordination, Detect Enemy,
+Common Magic: Bandit's Cloak, Boon of Lasting Night, Coordination, Detect Enemy,
 Mindspeech, Hand of Death
 
 Heroic Abilities: Dead Eye, Severing Slash, Wall Leaping
@@ -10461,11 +9869,11 @@ for one mission per three months.
 Masters
 Master Assassins must have five of the guild skills at 75% and at least one of the three Heroic
 Abilities taught by the guild. They must spend at least six months of the year in residence at one
-of the guild’s secret strongholds.
+of the guild's secret strongholds.
 
 Grand Master
 The Grand Master must have at least five of the guild skills at 90% and obtain all three of the
-Heroic Abilities. The Grand Master dwells in the guild’s headquarters.
+Heroic Abilities. The Grand Master dwells in the guild's headquarters.
 
 Guild Skills
 The guild offers training in: Craft (Poison), Resilience, Stealth, Any Dagger style, Any Bow style,
@@ -10476,11 +9884,11 @@ Sorcery (Black Serpent Grimoire) and Manipulation.
 
 216
 
-         Alaric’s Tale - Cult of the Thunderer
+         Alaric's Tale - Cult of the Thunderer
 Alaric dwells in the Gloamwood amid barbaric tribes.
 
 At the age of 21 all warriors of the tribe are expected to become initiates of the Thunderer cult
-and Alaric is no exception. On his 21st birthday he is taken into the tribe’s most sacred shrine
+and Alaric is no exception. On his 21st birthday he is taken into the tribe's most sacred shrine
 where he must undergo certain testing rituals - of his courage, his magic and his understanding
 of the Thunderer.
 
@@ -10490,20 +9898,20 @@ Magic. Alaric has each of these skills at more than 30% and so passes the tests 
 Next is his commitment to the cult: this is sealed through Alaric establishing a Pact with the
 Thunderer. In a deeply mystical ceremony Alaric is tested with fire and words and, in the final
 act, ascends the bare hill above the shrine to stand and glory in the full force of an oncoming
-storm. This rite creates the Pact (the Thunderer) and Alaric’s player enters this onto his character
+storm. This rite creates the Pact (the Thunderer) and Alaric's player enters this onto his character
 sheet. Alaric dedicates 4 POW to the Pact, making his Pact (The Thunderer) 14% (CHA + 4
 dedicated POW). He is now an initiate of the cult and bound by its teachings.
 
 The benefits Alaric derives from his cult are as follows:
 
-*	 Alaric can learn the cult’s Divine Magic spells and cast them at Lore (The Thunderer) 52%.
+*	 Alaric can learn the cult's Divine Magic spells and cast them at Lore (The Thunderer) 52%.
   The inherent Magnitude for any Divine Spell he casts is equal to his Pact divided by 10 and
-  rounded up, so Alaric’s Divine Spells will have a Magnitude of 2. As his Pact deepens, so will
+  rounded up, so Alaric's Divine Spells will have a Magnitude of 2. As his Pact deepens, so will
   the potency of his Divine Magic. He can also pray for up to four Divine Spells - the amount
   of his POW dedication. Alaric learns, through his initiation and later progress in the cult,
   Lightning Strike, Shield, Bless (Spear & Shield) and Channel Strength.
 
-*	 He can gain access to training in the cult’s skills at a much reduced cost with dedicated
+*	 He can gain access to training in the cult's skills at a much reduced cost with dedicated
   teachers. The cult also specialises in several Common Magic spells, which again Alaric can
   learn at reduced cost and with dedicated teachers.
 
@@ -10543,8 +9951,8 @@ developing a similar technique.
 At their simplest, Heroic Abilities are gained once an Adventurer has accrued enough Hero
 Points to buy one. However, this should never be the sole criteria for gaining a Heroic Ability.
 Games Masters should bear in mind that a Heroic Ability is not a piece of merchandise that an
-Adventurer can pick up at the market after accumulating enough ‘money’ in the form of Hero
-Points. These are rare and wonderful abilities, not merely an ‘Adventurer sheet upgrade’. In order
+Adventurer can pick up at the market after accumulating enough 'money' in the form of Hero
+Points. These are rare and wonderful abilities, not merely an 'Adventurer sheet upgrade'. In order
 to learn these abilities, an Adventurer must have proved himself heroically and not simply on
 a one-off endeavour. True heroes continue to live up to their reputations and are prepared to
 undergo countless hazards with a more or less selfless outlook.
@@ -10569,15 +9977,15 @@ Heroic Ability is taught.
 The description of the ability indicates how it is used in game play. However, invoking a Heroic
 Ability always costs the Adventurer one Magic Point whenever it is used. Although Heroic
 Abilities are not magical powers, they are, to some extent, fuelled by the same reserves that
-power Common Magic. Invoking a Heroic Ability involves delving into one’s own character,
+power Common Magic. Invoking a Heroic Ability involves delving into one's own character,
 channelling the intangible forces that fire deeds of heroism.
 
 To invoke a Heroic Ability no Skill Test is needed; simply the spending of one Magic Point and
 the clear statement of the ability to be used in advance of any Skill Test it applies to.
 
-The duration of the ability is given in its description and at the end of the ability’s duration, its
+The duration of the ability is given in its description and at the end of the ability's duration, its
 effects end. The Adventurer can invoke the ability again immediately afterwards, as long as he
-has the Magic Points to do so and as long as the ability’s effects do not leave him incapacitated
+has the Magic Points to do so and as long as the ability's effects do not leave him incapacitated
 (through fatigue, for instance).
 
 
@@ -10599,7 +10007,7 @@ Duration: One melee attack
 Invoked whilst wielding a bludgeoning weapon or using Unarmed combat, you cause an
 automatic knockback of one metre per two points of rolled damage before it is reduced by
 parrying, armour or magic. If the victim strikes any obstacle they smash into it, fall prone and
-automatically receive the attacker’s Damage Bonus to a random location, ignoring any protection.
+automatically receive the attacker's Damage Bonus to a random location, ignoring any protection.
 
 
 Battle Fury
@@ -10625,7 +10033,7 @@ Duration: Until the terrain or situation has been cleared, or if in combat, a nu
 rounds equal to CON
 
 Sitting in the saddle is more natural to you than walking. Each time this ability is invoked you
-may ignore any and all riding based situational modifiers for terrain or the mount’s behaviour.
+may ignore any and all riding based situational modifiers for terrain or the mount's behaviour.
 In addition you may use your Riding skill instead of your Evade skill when evading missiles.
 
 
@@ -10785,8 +10193,8 @@ Duration: One melee attack
 
 You can smash or cleave an inanimate object with no harm to your weapon. Any damage you roll
 completely ignores the Armour Points of the object. Thus you could cut a chain, or smash a door
-with a single blow. If attacking an opponent’s weapon, you must succeed in the attack and equal
-or beat the opponent’s level of success to successfully strike the parrying object.
+with a single blow. If attacking an opponent's weapon, you must succeed in the attack and equal
+or beat the opponent's level of success to successfully strike the parrying object.
 
 
 Tireless
@@ -10825,7 +10233,7 @@ by specific rules in the earlier chapters, plus some guidance on creating scenar
 
 As with any amount of guidance, the material found in this chapter is here to suggest and
 prompt ideas and creativity: it is not intended to be prescriptive. A tenet to always bear in mind
-is ‘Forge Your Own Legend’, meaning that, as Games Master, how you choose to use these rules
+is 'Forge Your Own Legend', meaning that, as Games Master, how you choose to use these rules
 and how you want to develop your game should always take precedence. There are few rules in
 this book that cannot be modified in some way and Games Masters are encouraged to tinker
 with, alter and ignore rules that do not fit their style of play or campaign objectives.
@@ -10848,8 +10256,8 @@ The rules for establishing Cultural Background and community in the Adventurer C
 chapter provide a template for Adventurers to establish certain things before play begins: where
 they come from, who their family is/was, who they know (friends and foes) and key things that
 have influenced their lives. These details are deliberately vague to act as a catalyst for players
-and Games Masters, working together, to build interesting portraits of Adventurers’ past lives
-through discussion, conjecture (‘what if my long-lost twin brother is now an evil sorcerer…?’)
+and Games Masters, working together, to build interesting portraits of Adventurers' past lives
+through discussion, conjecture ('what if my long-lost twin brother is now an evil sorcerer...?')
 and, hopefully, exploration during play. Using the ideas provided by the Cultural Background and
 Community sections Adventurers become far more than a set of figures on an Adventurer sheet:
 they have a history, a context and, in many cases, a reason for being. Using the guidance on contacts
@@ -10902,7 +10310,7 @@ for whatever ends they have in mind.
 Quests
 Despite what has been said about community, Adventurers should find themselves engaged in
 quests - mundane and magical - for either the thrill of the adventure, to defeat a foe or to
-advance or protect their community’s interests.
+advance or protect their community's interests.
 
 Magical Quests
 Magical quests are a feature of Legend. Adventurers are likely to be engaged in magical quests in
@@ -10946,7 +10354,7 @@ advance their knowledge, power and status. Even low-level faction members can be
 important faction business.
 
 Factions provide an additional layer of community for Adventurers. Usually this will not be at
-odds with the Adventurers’ existing communities but, depending on the faction type, it may
+odds with the Adventurers' existing communities but, depending on the faction type, it may
 offer an interesting conflict leading to interesting, faction versus community stories.
 
 Through factions, the gods and other foci of cult veneration become real and visceral things,
@@ -10968,7 +10376,7 @@ A Good Story, Well Told
 Legend is concerned very much with both storytelling and Adventurer development. The game
 mechanics for Legend, whilst being comprehensive and sophisticated, are intuitive enough to
 fade into the background of the game, intruding only when necessary to resolve a particular
-outcome. Indeed, Legend’s mechanics should be part of the background as much as possible.
+outcome. Indeed, Legend's mechanics should be part of the background as much as possible.
 Everything, mechanically, that is needed for Legend, is contained on the Adventurer sheet: skill
 values, Hit Points, weapon statistics and so forth. Whilst the Games Master will inevitably need
 to refer to the rules during play, most questions can be resolved by consulting the Adventurer
@@ -11002,8 +10410,8 @@ level. And, because factions in many settings for Legend are all around, it make
 faction membership will come sooner rather than later.
 *	   Encourage players to think about their skills when coming to make Improvement Rolls.
 It is natural to focus on skills for combat and magic but social and knowledge skills are
-equally important. Try to encourage diversity amongst the players but have them think ‘in
-character’ when choosing which skills to improve. Would a new initiate of a faction really
+equally important. Try to encourage diversity amongst the players but have them think 'in
+character' when choosing which skills to improve. Would a new initiate of a faction really
 seek to improve non-faction skills or would he, perhaps, focus on those skills that will
 help him gain status in the faction and prove his loyalty? Looking at these mechanics from
 a slightly different, Adventurer-driven perspective contributes to developing diverse and
@@ -11022,8 +10430,8 @@ Scenarios tend to fall into one of the following categories:
 
 Published - A pre-written Legend scenario offered for sale or download, either as a one-off adventure
 or a complete campaign. Published scenarios take a great deal of the preparatory work out of the
-Games Master’s workload allowing play to begin swiftly. However, Games Masters still need to be
-familiar with the scenario’s content, structure, themes and goals and it may be that the Games Master
+Games Master's workload allowing play to begin swiftly. However, Games Masters still need to be
+familiar with the scenario's content, structure, themes and goals and it may be that the Games Master
 needs to adapt certain elements to fit with his existing campaign, play-style and so forth. If using a
 published scenario be prepared to adapt and change elements - perhaps substantial ones!
 
@@ -11048,7 +10456,7 @@ pre-generated or typical creature statistics, to support encounters. Handling a 
 a challenge since it requires the Games Master to think on his feet; however, the investment both
 players and Games Master make in the overall story may well turn out to be far more rewarding
 than if using a home-written or published scenario. This is improvisational story-telling at its best
-- although the Games Master’s level of experience is often the key to its success.
+- although the Games Master's level of experience is often the key to its success.
 
 However, irrespective of the nature of the scenario, there are some guidelines that benefit every
 Games Master and these follow.
@@ -11059,11 +10467,11 @@ be. Some campaigns last years, charting the full lives of the same Adventurers. 
 episodic, ending at an agreed point and picked up again after several years of game time have
 passed. In others, new Adventurers might be created to suit the style or theme of the campaign.
 
-Whatever the campaign’s nature, it needs a style. The style is very much dependent on where the
+Whatever the campaign's nature, it needs a style. The style is very much dependent on where the
 campaign is set, so setting, too, is of utmost importance.
 
 Published settings do a great deal of the background work for the Games Master but may not
-be to everyone’s taste or style of play. Self-penned settings, whether historical or fantasy based,
+be to everyone's taste or style of play. Self-penned settings, whether historical or fantasy based,
 always require a great deal of work and research by the Games Master. Things to consider:
 
 *	   Historical or pure fantasy? If historical, then there is a wealth of material to draw upon, from
@@ -11093,7 +10501,7 @@ concerning the story at hand. In time you will develop a style that is uniquely 
 in developing that style, some pointers for scenario presentation are as follows.
 
 Preparation: Some preparation is always necessary, although the degree of prep depends on the
-Games Master’s confidence, the nature of the scenario and the campaign and, more often than
+Games Master's confidence, the nature of the scenario and the campaign and, more often than
 not, time. If using a published scenario you should have read it at least once and made notes on
 changes you need to make, based on what you know of the players and Adventurers, including,
 where necessary, amendments to encounter statistics to make the scenario rewarding but neither
@@ -11107,12 +10515,12 @@ concerning the importance of a Non-Player Character, an event, encounter and so 
 enough. It is common for the flow of play to determine which details need lengthy description
 and what can be summarised in a simple sentence: very often, the areas where lots of description
 has been lavished are those that least require it - usually because the action leading up to that
-point has helped create a strong enough mental image in the players’ minds.
+point has helped create a strong enough mental image in the players' minds.
 
 Statistics: It is not necessary to create, from scratch, monsters, creatures and Non-Player
 Characters. Use samples from published adventures if you do not have time to create your own
 but even then, it is not always necessary to roll the Characteristics for every single trollkin in a
-group of 20 - use the average value given in a creature’s description, instead. Even then, you may
+group of 20 - use the average value given in a creature's description, instead. Even then, you may
 only need a handful of statistics: Magic Points, Combat Actions, Movement, Combat Skills,
 Persistence and Resilience and a couple of major skills, such as Athletics and Evade. If you use
 General Hit Points for underlings and minor Adventurers, as outlined in the Combat chapter,
@@ -11124,7 +10532,7 @@ creatures are different - just like Adventurers!
 
 Book Keeping
 Keeping track of how Adventurers develop and progress is as important for the Games Master as
-the players. By keeping a note of Adventurer’s key skills, their levels, magic and magnitudes and
+the players. By keeping a note of Adventurer's key skills, their levels, magic and magnitudes and
 so forth, scenarios can be more easily tailored to the capabilities of the Adventurers, thus keeping
 them challenged and rewarded. Things Games Masters should note, in some form:
 
@@ -11186,8 +10594,8 @@ but, in general, use the following checklist:
 *	   Consider what Combat Manoeuvres foes will use in combat ahead of the encounters. Might
   they have favoured combinations or specialities? Do not rely on manoeuvres that inflict
   high amounts of damage - like Bypass Armour and Maximise Damage - all the time;
-  think creatively about the encounter’s aims, skills and nature; not all fights should end in
-  death. Jot down these options next to the encounter’s statistics. Do not be afraid to vary
+  think creatively about the encounter's aims, skills and nature; not all fights should end in
+  death. Jot down these options next to the encounter's statistics. Do not be afraid to vary
   them according to the nature of the fight but also try to remain consistent with your plans.
   Knowing that the elves of Grimwood Forest always try to Pin Weapon as a first Combat
   Manoeuvre can assist the Adventurers in their own strategies and may encourage them to
@@ -11214,8 +10622,8 @@ Wind has an STR score, determining its effect on objects and the landscape. If a
 STR is needed, roll 1D100 and divide the result by two, rounding up.
 
 Where a wind can disturb and carry loose material, which may affect visibility, the percentage
-reduction in visibility for Perception rolls and other skills relying on sight is half the wind’s STR
-and equal to the wind’s STR for using Perception to listen or scent something. A hurricane, for
+reduction in visibility for Perception rolls and other skills relying on sight is half the wind's STR
+and equal to the wind's STR for using Perception to listen or scent something. A hurricane, for
                                                                                                         231
 
        example, reduces visibility (and Perception rolls) by a minimum of 23% for the purposes of sight
@@ -11235,7 +10643,7 @@ Rain scales of Very Heavy and above may cause local flooding, landslides and so 
 to the terrain.
 
 Percentage of Cover       Scale of Cover         Rain Duration        Scale of Rain
-10 or less                None                   —                    —
+10 or less                None                   -                    -
 11 - 20                   Scant cloud            1D20 minutes         Very light (0-10mm)
 21 - 30                   Scattered cloud        10+1D20 minutes      Light (11-20mm)
 31 - 40                   Slightly Overcast      1D2 hours            Moderate (21-30mm)
@@ -11256,9 +10664,9 @@ Wind STR Wind Type                                                     Attacks
 19 - 24  Moderate Wind. Dangerous to flying creatures; many            -10%
     take shelter or roost.
 25 - 30  Strong Wind. Humans may be knocked down. The                  -50%
-    wind’s STR has a value of 3D6 which is applied as
+    wind's STR has a value of 3D6 which is applied as
     though using Knockback from the Combat chapter.
-31 - 36  Gale. As previous but the wind’s STR imparts 2D6+12           Impossible
+31 - 36  Gale. As previous but the wind's STR imparts 2D6+12           Impossible
     Knockback.
 37 - 45  Strong Gale. Humans cannot remain standing.                   Impossible
     Nothing less than SIZ 21 can remain standing upright.
@@ -11276,7 +10684,7 @@ than rain. If so, the Scale of Rain entries should be read as Snow Depth instead
 
 Travel and Encounters
 Adventurers will, most likely, spend a good deal of their time travelling. Often it is enough to
-simply state ‘after three uneventful days, you reach the outskirts of the city’ but in many scenarios
+simply state 'after three uneventful days, you reach the outskirts of the city' but in many scenarios
 or stories, the journey is the story, with the method of travel and the things that happen whilst
 travelling forming the core of the adventure.
 
@@ -11296,7 +10704,7 @@ inevitably reduce the rates of travel. There is no hard and fast rule on how loc
 affect travel distances but use the following as a guide:
 
 Travel Conditions
-Travel Conditions                                              Reduce Movement Rate by…
+Travel Conditions                                              Reduce Movement Rate by...
 Weather
 Hot or humid day                                               One Quarter
 Heavy rain                                                     One Quarter
@@ -11317,7 +10725,7 @@ increase or decrease the cost for any manner of travel. If the Adventurers are r
 for example, the merchant caravan will probably not charge them anything (and may even pay
 the Adventurers) to travel with them, on the assumption the Adventurers will be able to deal
 efficiently with any threat. On the other hand, if the Adventurers are known to have enemies that
-have, in the past, attacked and destroyed ships they were travelling on a ship’s captain may refuse
+have, in the past, attacked and destroyed ships they were travelling on a ship's captain may refuse
 to allow them on board without adding a zero to the end of the daily cost of passage.
 
 There are no variations in the costs given for different settlement sizes, as it is assumed Adventurers
