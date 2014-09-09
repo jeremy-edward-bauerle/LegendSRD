@@ -6813,7 +6813,7 @@ who have opted to serve the cult and their god directly - do have access to Divi
 Divine spells are often a significant enough lure to secure this depth of commitment.
 
 
-How Divine Magic Works
+## How Divine Magic Works
 Divine Magic has a number of essential Characteristics separating it from other types of magic:
 
 Spells offered reflect the god. -Unlike other forms of magic, where the Adventurer may seek out
@@ -6832,7 +6832,7 @@ divine relationship and is used to both gain and regain spells; and Lore (Specif
 cast the spell.
 
 
-Pact (CHA+Dedicated POW)
+### Pact (CHA+Dedicated POW)
 Essentially a Pact is a commitment to serve a god through devoting one's soul through worship.
 The making of a Pact is represented by dedicating one or more points of POW to the god. The
 Adventurer still possesses the POW for calculating skills but it is the god that harvests the Magic
@@ -6845,11 +6845,7 @@ of one quarter of his available POW. The dedicated POW then forms the basis of h
 An Adventurer may be initiated into more than one cult and thus have several concurrent Pact
 skills.
 
-
-
-                                                                                                     171
-
-       The Magic Points available to the Adventurer are limited to the amount of his undedicated POW.
+The Magic Points available to the Adventurer are limited to the amount of his undedicated POW.
 Thus, an Adventurer with a POW of 12 dedicating 7 points to his cult would have only 5 Magic
 Points available for use elsewhere. Once a point of POW has been dedicated to a cult, it cannot
 be used for any other Pacts, until membership of that cult is renounced. Thus, a follower of the
@@ -6868,24 +6864,24 @@ table, following, demonstrates. The higher the Pact skill, the more dedicated th
 not a measure of how much an Adventurer knows about the cult or god; that is still measured by
 the Lore (Specific Theology) skill.
 
-Multiple Pacts
-Adventurers may join more than one cult, thereby establishing more than one Pact with a deity
-- as long as the different cults are compatible (being allied in some way or a sub-cult of a larger
+#### Multiple Pacts
+Adventurers may join more than one cult, thereby establishing more than one Pact with a deity - 
+as long as the different cults are compatible (being allied in some way or a sub-cult of a larger
 organisation). The only restriction on having multiple cult membership is the amount of POW
 the Adventurer is willing or able to devote to each Pact: a Pact always requires a dedication of at
 least one POW.
 
-Pact Improvement
-Circumstance                                                     Pact Improvement
-Undertaking and completing a great quest for your god or         1D10+1
-cult. .
-Undertaking an unsuccessful great quest.                         1D6
-Undertaking a successful lesser quest for your god or cult.      1D4+1
-Undertaking an unsuccessful lesser quest for your god or         1D2
-cult.
-Dedicating more POW to the Pact.                                 1 per point of POW dedicated
-Emulating the behaviour of your god in extreme                   1 point per instance
-circumstances.
+##### Pact Improvement
+
+| Circumstance                                                    | Pact Improvement |
+|-----------------------------------------------------------------|------------------|
+| Undertaking and completing a great quest for your god or cult.  | 1D10+1           |
+| Undertaking an unsuccessful great quest.                        | 1D6              |
+| Undertaking a successful lesser quest for your god or cult.     | 1D4+1            |
+| Undertaking an unsuccessful lesser quest for your god or cult.  | 1D2              |
+| Dedicating more POW to the Pact.                                | 1 per point of POW dedicated |
+| Emulating the behaviour of your god in extreme circumstances.   | 1 point per instance |
+
 
 These improvements are in addition to any Improvement rolls an Adventurer wants to use for
 developing the relationship with his god.
@@ -6900,10 +6896,7 @@ increases, undergo complete personality changes as a result, although the circum
 this happens are judgement calls for the Games Master.
 
 
-
-172
-
-         Quests
+### Quests
 Gods demand service from their followers, in the form of quests. The nature and scope of the
 quest varies from deity to deity. A servant of the Thunderer, for example, might be sent to slay a
 terrible frost-worm that dwells atop a distant mountain. Those who worship the Green might be
@@ -6921,20 +6914,20 @@ Every aspiring follower of the Thunderer in Alaric's tribe undertakes this quest
 By contrast, every great quest is unique and extremely perilous. Great quests do not re-enact tired
 old ancient myths - they forge brave new legends!
 
-Limits to Dedicated POW
+#### Limits to Dedicated POW
 The amount of POW that can be dedicated to any particular Pact is dependent on the rank
 and the cult itself. Some cults will have a minimum dedication but all cults have a maximum
 dedication, based on the rank. The Cults section of this chapter provides more detail on the
 different ranks.
 
-Lay Member (Level 0) - No Dedicated POW
-Initiate (Level 1) - ¼ of POW
-Acolyte (Level 2) - ½ of POW
-Priest (Level 3) - ¾ of POW
+Lay Member (Level 0) - No Dedicated POW  
+Initiate (Level 1) - 1/4 of POW  
+Acolyte (Level 2) - 1/2 of POW  
+Priest (Level 3) - 3/4 of POW  
 High Priest (Level 4) - All POW
 
 
-Lore (Specific Theology) (INT x2)
+### Lore (Specific Theology) (INT x2)
 A specific theology skill is associated with every god. Thus Lore (The Thunderer) exists discretely
 from Lore (Moon Goddess). The skill is used in two ways: first as a measure of the knowledge the
 Adventurer has of the god's myths, aspects, behaviour and so forth and of the rituals, ceremonies
@@ -6950,34 +6943,31 @@ of an allied cult and where this is permissible then the Adventurer uses his ful
 Theology) for spell casting.
 
 
-Casting Divine Magic
+### Casting Divine Magic
 Divine Magic spells are prayed for by the worshipper before they can be called upon. Each
 Divine spell takes up a single point of Dedicated POW to store. However, Divine Spells do not
 cost any Magic Points when cast, as the caster is channelling the power of their god and is not
 fuelling the spell through his own, personal, magical reserves.
 
-                                                                                                    173
 
-       Alaric's Tale
-Alaric has become an Initiate of the Thunderer, a cult strongly represented in his own community.
-
-In becoming an Initiate Alaric has dedicated 4 POW to the Pact, giving him a Pact (The Thunderer)
-14%. His POW, for the purposes of available Magic Points, is lowered from 14 to 10 but it also means
-that Alaric has four points that can be dedicated towards the Thunder God's Divine Magic.
-
-Alaric also has Lore (The Thunderer) 52%. The skill means that any Divine Magic spells Alaric gains
-as an initiate of the cult are cast at 52%. It also means that Alaric knows the lore of the associated
-cult, the Runefather, at 26% because the Thunderer and the Runefather are father and son in the
-same pantheon. However Alaric cannot cast any Runefather Divine spells unless they are taught to
-him as part of allied cult rituals. If he gains any allied cult spells then they will operate at 52%, his
-Lore (The Thunderer percentage.
-
-So at this point in his life Alaric's understanding of the Thunderer is reasonably strong as he has spent
-most of his life exposed to its rituals and practices. However his direct relationship with the Thunderer,
-represented by his Pact, is still very weak. Alaric has only just embarked on the road of devotion to his
-god and will need to strengthen and deepen his Pact over time.
-
-
+> Alaric's Tale
+> Alaric has become an Initiate of the Thunderer, a cult strongly represented in his own community.
+> 
+> In becoming an Initiate Alaric has dedicated 4 POW to the Pact, giving him a Pact (The Thunderer)
+> 14%. His POW, for the purposes of available Magic Points, is lowered from 14 to 10 but it also means
+> that Alaric has four points that can be dedicated towards the Thunder God's Divine Magic.
+> 
+> Alaric also has Lore (The Thunderer) 52%. The skill means that any Divine Magic spells Alaric gains
+> as an initiate of the cult are cast at 52%. It also means that Alaric knows the lore of the associated
+> cult, the Runefather, at 26% because the Thunderer and the Runefather are father and son in the
+> same pantheon. However Alaric cannot cast any Runefather Divine spells unless they are taught to
+> him as part of allied cult rituals. If he gains any allied cult spells then they will operate at 52%, his
+> Lore (The Thunderer percentage.
+> 
+> So at this point in his life Alaric's understanding of the Thunderer is reasonably strong as he has spent
+> most of his life exposed to its rituals and practices. However his direct relationship with the Thunderer,
+> represented by his Pact, is still very weak. Alaric has only just embarked on the road of devotion to his
+> god and will need to strengthen and deepen his Pact over time.
 
 
 As a measure of the faith of the worshipper, when a Divine spell is cast it possesses an inherent
@@ -6989,59 +6979,56 @@ The same Divine Spell can be learned multiple times.
 To cast the spell the Adventurer must successfully roll against his Lore (Specific Theology). Note
 the result of the roll.
 
-Critical Success: The spell is cast and may be cast again. It is not placed beyond use.
+**Critical Success**: The spell is cast and may be cast again. It is not placed beyond use.
 
-Success: The spell is cast successfully and is then placed beyond use until the Adventurer can
+**Success**: The spell is cast successfully and is then placed beyond use until the Adventurer can
 regain it as per his rank in the cult (see the Regaining Divine Spells).
 
-Failure: The spell does not work but the Adventurer can attempt to cast it again later.
+**Failure**: The spell does not work but the Adventurer can attempt to cast it again later.
 
-Fumble: The spell does not work and is also placed beyond use until the Adventurer can regain
+**Fumble**: The spell does not work and is also placed beyond use until the Adventurer can regain
 it as per his rank in the cult (see the Regaining Divine Spells).
 
 When a spell is placed beyond use it is not forgotten; it is merely the case that the Adventurer
 cannot channel his god's power via that spell again, until he has successfully regained the god's
 ongoing trust in their relationship.
 
-Regaining Divine Spells
+#### Regaining Divine Spells
 Depending on their rank within the cult, a spell can be regained upon a successful Pact test,
 showing that the Adventurer has re-established their faith with the god and is able to channel
 that god's power once more through the Divine spell. 
 
 
-174
-
-         Alaric's Tale
-As a Thunderer initiate, Alaric learns Lightning Strike, Blessing (Spear and Shield), Shield and
-Channel Strength. This takes all of his 4 points of Dedicated POW to store. The spells are cast at
-Alaric's Lore (the Thunderer) of 52%. His Pact (the Thunderer) of 14% governs the Magnitude of all
-the Divine Spells he can cast: at a tenth of his Pact, rounded up, each of his four Divine Spells can be
-cast at Magnitude 2 (14/10 = 1.4, rounded to 2).
-
-During an adventure Alaric successfully casts Shield. As the spell was a standard success he cannot use
-it again until he has returned to a shrine of the Thunderer and succeeded in a Pact roll of 16% or less.
-
-Later in the same adventure Alaric critically succeeds in casting Channel Strength. This means he can
-use Channel Strength again without having to attempt a Pact roll to re-establish his relationship with
-the Thunderer. He is forced to cast Channel Strength once more but this time fumbles in the attempt;
-not only does the spell fail to work but this level of failure places the spell beyond Alaric's use until he
-can return to a shrine and attempt a Pact roll to recover it.
+> Alaric's Tale
+> As a Thunderer initiate, Alaric learns Lightning Strike, Blessing (Spear and Shield), Shield and
+> Channel Strength. This takes all of his 4 points of Dedicated POW to store. The spells are cast at
+> Alaric's Lore (the Thunderer) of 52%. His Pact (the Thunderer) of 14% governs the Magnitude of all
+> the Divine Spells he can cast: at a tenth of his Pact, rounded up, each of his four Divine Spells can be
+> cast at Magnitude 2 (14/10 = 1.4, rounded to 2).
+> 
+> During an adventure Alaric successfully casts Shield. As the spell was a standard success he cannot use
+> it again until he has returned to a shrine of the Thunderer and succeeded in a Pact roll of 16% or less.
+> 
+> Later in the same adventure Alaric critically succeeds in casting Channel Strength. This means he can
+> use Channel Strength again without having to attempt a Pact roll to re-establish his relationship with
+> the Thunderer. He is forced to cast Channel Strength once more but this time fumbles in the attempt;
+> not only does the spell fail to work but this level of failure places the spell beyond Alaric's use until he
+> can return to a shrine and attempt a Pact roll to recover it.
 
 
-
-Lay Members - No access to Divine spells.
-Initiates - May test to regain a Divine spell the day after it was used but must return to a shrine
+**Lay Members** - No access to Divine spells.
+**Initiates** - May test to regain a Divine spell the day after it was used but must return to a shrine
 or temple to pray for the spell. It requires a successful Pact test to recover; failure requires that
 they try again the following day.
-Acolytes - May test to regain a Divine spell the day after it was used; however, if the test fails
+**Acolytes** - May test to regain a Divine spell the day after it was used; however, if the test fails
 they must return to a shrine or temple and recover the spell there.
-   *	 Priests - Lords -May test to regain a Divine spell an hour after it was used; however, if
-       the test fails they must return to a shrine or temple and recover the spell there.
-High Priests - May test to regain Divine spells an hour after they have been used; failing the
+   * Priests - Lords -May test to regain a Divine spell an hour after it was used; however, if
+     the test fails they must return to a shrine or temple and recover the spell there.
+**High Priests** - May test to regain Divine spells an hour after they have been used; failing the
 roll simply incurs a delay of another hour before they can try again, whereas a fumble means the
 spell must be recovered at a temple. 
 
-Dismissing Divine Magic Spells
+#### Dismissing Divine Magic Spells
 Like Common Magic, a caster can dismiss any Divine Magic spell(s) he has cast as a single
 Combat Action. Ceasing to maintain a Concentration spell is immediate and not a Combat
 Action.
@@ -7051,22 +7038,19 @@ This immediately frees the spell from their psyche, harmlessly dissipating the d
 liberating the point of Dedicated POW to store a different spell if desired.
 
 
-Acquiring Divine Magic
+### Acquiring Divine Magic
 Learning Divine Magic requires a sacrifice of time and effort. To acquire a new Divine Magic
 spell, the Adventurer must possess the Lore (Specific Theology) skill appropriate to the religion
 from which the spell is requested and be of sufficient rank within the cult.
 
 
+##### Learning a new Divine Magic Spell
 
-
-                                                                                                            175
-
-       Learning a new Divine Magic Spell
-Minimum Cult Rank           Minimum Temple
-of Spell                    Requirement            Cost                         Prayer Time
-Initiate                    Shrine                 1 Improvement Roll           1 day
-Acolyte                     Minor Temple           2 Improvement Rolls          2 days
-Priest or High Priest      Major Temple           3 Improvement Rolls          3 days
+| Minimum Cult Rank of Spell | Minimum Temple Requirement   | Cost                       | Prayer Time |
+|----------------------------|------------------------------|----------------------------|-------------|
+| Initiate                   | Shrine                       | 1 Improvement Roll         | 1 day       |
+| Acolyte                    | Minor Temple                 | 2 Improvement Rolls        | 2 days      |
+| Priest or High Priest      | Major Temple                 | 3 Improvement Rolls        | 3 days      |
 
 The Minimum Cult Rank denotes the rank the Adventurer must be within the cult to be granted
 access to that spell. The most powerful Divine Magic is withheld for those who have proven their
@@ -7087,43 +7071,39 @@ such spells. This is for the simple reason that anyone learning Divine Magic fro
 an active member and it benefits the cult to make active members more powerful.
 
 
-Divine Magic Spell Traits and Descriptions
+## Divine Magic Spell Traits and Descriptions
 Every Divine Magic spell is defined by a series of traits describing the spell and how it is used
 in the game. A description then follows describing the spell's precise effects. By default, the
 Magnitude of any Divine spell is equal to one tenth of the caster's Pact. Unless specifically stated
 in its description, Divine Spells take one Combat Action to invoke. The other traits used by
 Divine Magic spells are detailed here.
 
-Area (X): The spell affects all targets within a radius specified in metres.
+**Area (X)**: The spell affects all targets within a radius specified in metres.
 
-Concentration: The spell's effects remain in place as long as the Adventurer concentrates on it.
+**Concentration**: The spell's effects remain in place as long as the Adventurer concentrates on it.
 Concentrating on a spell is functionally identical to casting the spell, requiring the spellcaster to
 continue to gesture with both arms, chant and ignore distractions.
 
-Duration (X): The spell's effects stay in place for the number of minutes indicated.
+**Duration (X)**: The spell's effects stay in place for the number of minutes indicated.
 
-Instant: The spell's effects take place instantly. The spell then disappears.
+**Instant**: The spell's effects take place instantly. The spell then disappears.
 
-Ranged: Ranged spells may be cast upon targets up to a maximum distance of the Adventurer's
+**Ranged**: Ranged spells may be cast upon targets up to a maximum distance of the Adventurer's
 POW x 10 in metres.
 
-Rank: The minimum cult rank the spell is available to.
+**Rank**: The minimum cult rank the spell is available to.
 
 
-
-
-176
-
-         Resist (Evade/Persistence/Resilience): The spell's effects do not occur automatically. The target
+**Resist (Evade/Persistence/Resilience)**: The spell's effects do not occur automatically. The target
 may make an Opposed Evade, Persistence or Resilience test (as specified by the spell) in order to
 avoid the effect of the spell entirely. Note that Resist (Evade) spells require the target to be able
 to use a Combat Action in order to dodge.
 
-Touch: Touch spells require the character to actually touch his target for the spell to take effect.
+**Touch**: Touch spells require the character to actually touch his target for the spell to take effect.
 The spellcaster must remain in physical contact with the target for the entire casting.
 
 
-Absorption
+### Absorption
 Duration 15, Rank Initiate, Touch
 
 This spell absorbs incoming spells aimed at the target or his equipment, converting their
@@ -7133,19 +7113,19 @@ effect on spells that are already affecting an Adventurer. The effects of Absorp
 relative Magnitude of both itself and the incoming spell - see the Absorption Results table for
 more details. Any spell absorbed by this spell is cancelled and has no effect.
 
-Absorption Results
-Incoming Spell's Magnitude is. . .           Effect
-Equal to or weaker than Absorption's         Incoming spell absorbed and Absorption remains.
-Magnitude.
-1 or more points stronger than               Absorption eliminated and incoming spell takes
-Absorption's Magnitude.                      effect.
+##### Absorption Results
+
+| Incoming Spell's Magnitude is...                          | Effect |
+|-----------------------------------------------------------|--------|
+| Equal to or weaker than Absorption's Magnitude.           | Incoming spell absorbed and Absorption remains. |
+| 1 or more points stronger than Absorption's Magnitude.    | Absorption eliminated and incoming spell takes effect. |
 
 An Adventurer may not accumulate more Magic Points than his undedicated POW while
 Absorption is in effect - excess Magic Points garnered through Absorption simply vanish.
 Absorption is incompatible with Reflection, Shield and Spirit Block.
 
 
-Alter Target
+### Alter Target
 Duration 15, Rank Initiate, Ranged
 
 The caster of this spell has the ability to re-direct ranged attacks away from their intended target.
@@ -7154,7 +7134,7 @@ away from its original target and towards another victim of the caster's choice.
 has to be a viable target for the source of the attack and cannot be the original source of the attack.
 
 
-Amplify
+### Amplify
 Duration 15, Rank Initiate, Touch
 
 The caster requests that his god boosts the magical abilities of the recipient. While the spell is in
@@ -7162,19 +7142,13 @@ effect all castings of Common Magic with the Progressive trait have their Magnit
 the Magnitude of this spell. No Common Magic spell can have its Magnitude boosted beyond
 10. This increase in Magnitude does not cost the recipient any more Magic Points than normal.
 
-For example, Thrace casts a Magnitude 3 Bladesharp, spending the required 3 Magic Points
-and makes the Common Magic Skill Test. Since he is currently under the effects of a Magnitude
+> For example, Thrace casts a Magnitude 3 Bladesharp, spending the required 3 Magic Points
+> and makes the Common Magic Skill Test. Since he is currently under the effects of a Magnitude
+> 5 Amplify cast by Lilina a few minutes before, the Bladesharp counts as having been cast with
+> Magnitude 8 for all purposes.
 
 
-
-
-                                                                                                       177
-
-       5 Amplify cast by Lilina a few minutes before, the Bladesharp counts as having been cast with
-Magnitude 8 for all purposes.
-
-
-Aphrodisiac
+### Aphrodisiac
 Duration 15, Rank Initiate, Touch
 
 This spell increases the target's sexual attraction. Any failed Influence or Streetwise rolls toward
@@ -7184,7 +7158,7 @@ Aphrodisiac makes all opposite-sex individuals around the target friendlier and 
 upon them - which could be a very good or very bad thing depending on the circumstances.
 
 
-Beast Form
+### Beast Form
 Duration 15, Rank Acolyte, Touch
 
 This spell transforms the caster and all his personal belongings into an animal that is sacred to
@@ -7195,7 +7169,7 @@ The animal cannot be mystical or magical in any way and the Games Master should 
 final say as to what manner of creature would fit a specific cult if it is not obvious.
 
 
-Behold
+### Behold
 Duration 15, Rank Initiate
 
 The caster sees what another cult member of equal or lesser rank is currently experiencing.
@@ -7206,7 +7180,7 @@ protected against scrying by a spell of greater Magnitude the caster will be ren
 blind for the duration.
 
 
-Berserk
+### Berserk
 Duration 15, Rank Acolyte, Resist (Persistence), Touch
 
 The recipient of this spell is overcome with bloodlust, causing him to disregard his own safety
@@ -7224,9 +7198,7 @@ immediately drops two Fatigue levels. Berserk may not be combined with Fanaticis
 will always take precedence in such cases.
 
 
-178
-
-         Bless Crops
+### Bless Crops
 Duration Special, Rank Priest, Touch
 
 Cast on cultivated farmland Bless Crops affects a number of square kilometres equal to the
@@ -7234,7 +7206,7 @@ Magnitude of the spell. It guarantees a harvest if maintained for a year irrespe
 other conditions. This spell cannot be recovered or released, for as long as the spell is maintained.
 
 
-Blessing
+### Blessing
 Duration 15, Rank Initiate, Touch
 
 This spell grants a bonus to a cult skill. The target receives a bonus of +5% per Magnitude of
@@ -7243,7 +7215,7 @@ instance, an Earth Cult might grant a bonus to Craft (Masonry) but a War Cult co
 bonus to all Weapon Skills. This bonus cannot be stacked with any other spell-effect bonuses.
 
 
-Breathe Water
+### Breathe Water
 Duration Special, Rank Initiate, Touch
 
 Breath Water allows an air-breathing creature to breathe water (the subject will still be able to
@@ -7251,7 +7223,7 @@ breathe air as well), for up to one hour per point of Magnitude. This spell cann
 or released, until the spell ends.
 
 
-Call Winds
+### Call Winds
 Area Special, Duration 15, Rank Acolyte
 
 Allows the caster to summon or bend the winds to his will, in an area whose diameter is equal to
@@ -7262,7 +7234,7 @@ control the wind he may reduce it to Calm or change its direction if desired. Th
 alter magically-created weather effects of greater Magnitude.
 
 
-Channel Strength
+### Channel Strength
 Duration Special, Rank Initiate, Touch
 
 Through this spell the caster can help to prevent the target from suffering from the ill effects of
@@ -7270,7 +7242,7 @@ Fatigue. The target of this spell will not receive another level of Fatigue for 
 point of Magnitude. This spell cannot be recovered or released, until the spell ends.
 
 
-Clear Skies
+### Clear Skies
 Area Special, Duration 15, Rank Acolyte
 
 This spell grants a short reprieve from poor weather. The caster creates mild, pleasant weather
@@ -7279,11 +7251,7 @@ stops, sweltering heat becomes cool breezes and dark clouds separate to reveal t
 warming sun. This spell cannot alter magically-created weather effects of greater Magnitude.
 
 
-
-
-                                                                                                     179
-
-       Consecrate
+### Consecrate
 Area Special, Duration Special, Rank Priest
 
 This spell is as much a part of a temple's foundation as is its cornerstone but may actually be
@@ -7301,7 +7269,7 @@ released, for as long as the spell is maintained. It is usually the duty of the 
 temple or shrine to maintain the spell.
 
 
-Crash of Thunder
+### Crash of Thunder
 Area Special, Instant, Ranged, Rank Acolyte, Resist (Resilience)
 
 This spell allows the caster to summon a powerful blast of thunder from the open sky, directed
@@ -7312,7 +7280,7 @@ Resistance roll against the spell, they are struck permanently deaf. Also, any i
 pottery will shatter automatically within the area of the spell.
 
 
-Cure Disease/Poison
+### Cure Disease/Poison
 Instant, Rank Acolyte, Touch
 
 This spell lifts the effects of any mundane disease or poison afflicting the target; or magical ones
@@ -7323,7 +7291,7 @@ the Spirit as long its POW is within three times the spell's Magnitude. For exam
 5 Cure Disease/Poison will exorcise any Disease Spirit of POW 15 or less.
 
 
-Disarm
+### Disarm
 Instant, Ranged, Rank Acolyte, Resist (Persistence)
 
 This spell gives the caster a powerful ability to take weaponry from the hands of a number of
@@ -7333,11 +7301,7 @@ torn from the target and lands 1D6 metres away in the direction toward the caste
 has no effect on natural weaponry of any type.
 
 
-
-
-180
-
-         Dismiss Elemental
+### Dismiss Elemental
 Instant, Ranged, Rank Initiate, Resist (Resilience)
 
 Dismiss Elemental may be cast against Gnomes, Salamanders, Shades, Sylphs or Undines. The
@@ -7346,7 +7310,7 @@ resist the spell causes the elemental to be dismissed and leaves the material su
 in place.
 
 
-Dismiss Magic
+### Dismiss Magic
 Instant, Ranged, Rank Initiate
 
 Dismiss Magic may be cast against either a general target or a specific spell. Dismiss Magic will
@@ -7362,7 +7326,7 @@ spell is eliminated. Dismiss Magic may be fired defensively to neutralise incomi
 by using the Cast Spell Combat Action.
 
 
-Ebb and Flow
+### Ebb and Flow
 Duration Special, Rank Initiate, Ranged
 
 This spell allows a caster to seriously speed up or slow down a water-going vessel of any kind by
@@ -7373,7 +7337,7 @@ changes to travel time by boat, ship or raft. This spell cannot be recovered or 
 as the spell is maintained.
 
 
-Eclipse
+### Eclipse
 Area Special, Duration 15, Rank Acolyte
 
 This spell turns day into night for a short period of time. Animals flee in confusion, people tend
@@ -7382,24 +7346,19 @@ caster can choose whether it is twilight or midnight black in an area whose diam
 the Magnitude of the spell in kilometres.
 
 
-
-Elemental Summoning
+### Elemental Summoning
 Duration 15, Rank Initiate, Touch
 
 This spell summons forth an elemental associated with the god's portfolio. For example cults
 associated with an Earth god would summon Gnomes. The caster summons an elemental of
 one cubic metre per point of Magnitude in 1D3 Combat Rounds and remains in the area for
 the entire spell duration. For obvious reasons, the caster must have access to the same volume of
-
-
-                                                                                                         181
-
-       the element's material to cast this spell successfully. If less volume is available, then the caster can
+the element's material to cast this spell successfully. If less volume is available, then the caster can
 animate the material with a smaller elemental if desired. The elemental follows the directions of
 the caster for the duration of the spell but disperses once the spell expires.
 
 
-Evergreen
+### Evergreen
 Duration Special, Rank Initiate, Touch
 
 This Spell grants the caster the ability to bless a single plant to become immune to the ravages
@@ -7410,7 +7369,7 @@ able to seed if enchanted in this manner. This spell cannot be recovered or rele
 as the spell is maintained.
 
 
-Excommunicate
+### Excommunicate
 Permanent, Rank Priest, Resist (Persistence), Touch
 
 This spell takes one hour to cast and severs the mystical link a worshipper enjoys with his god,
@@ -7420,7 +7379,7 @@ god. The target will never again be able to learn or use Divine Magic spells fro
 he will still be able to use Lore (Specific Theology) for purely academic purposes.
 
 
-Exorcism
+### Exorcism
 Instant, Rank Acolyte, Resist (Persistence), Touch
 
 By means of this spell, a divine spellcaster calls upon their god to drive out a spirit currently
@@ -7433,7 +7392,7 @@ possession but leaves the spirit free to engage any other nearby target in Spiri
 desires. Thus this spell can be potentially dangerous for the caster.
 
 
-Extension
+### Extension
 Duration Special, Rank Acolyte
 
 This spell lengthens the duration of any Divine Magic spell with the Duration trait, for as long
@@ -7448,9 +7407,8 @@ succeeds, the Extension spell is not cast.
 Extension prevents recovery or release of both the extended spell and the Extension itself, for as
 long as the spell is maintained.
 
-182
 
-         Fear
+### Fear
 Instant, Ranged, Rank Initiate, Resist (Persistence)
 
 This spell causes the target to be gripped with overwhelming fear. Fear has no effect on
@@ -7461,7 +7419,7 @@ Targets that fail to resist flee in terror for a number of minutes equal to the 
 spell. Victims will avoid engaging in combat unless forced to.
 
 
-Fog
+### Fog
 Area Special, Duration 15, Rank Acolyte
 
 The caster creates a thick fog that obscures all vision and muffles hearing, in an area with a
@@ -7471,7 +7429,7 @@ away or dispersed by a significantly strong wind. This spell is useful for steal
 numbers of animals or troops.
 
 
-Gleam
+### Gleam
 Duration 15, Rank Initiate, Touch
 
 This Spell enchants a single weapon with a speck of bright light that dances along its edge, always
@@ -7481,7 +7439,7 @@ of Magnitude, due to the dazzling light. Gleam is incompatible with any damage b
 weapon skill improving magic, such as Bladesharp, Bludgeon or similar spells.
 
 
-Heal Body
+### Heal Body
 Instant, Rank Acolyte, Touch
 
 This powerful spell instantly heals a number of Hit Locations equal to its Magnitude. Each Hit
@@ -7490,7 +7448,7 @@ Locations are healed. Heal Body will even heal maimed, or reattach severed, loca
 an hour of receiving the Major Wound. Beyond this period the Regrow Limb spell is required.
 
 
-Heal Mind
+### Heal Mind
 Instant, Rank Initiate, Touch
 
 This spell gives the caster the ability to remove derangements from a single target. In the case
@@ -7498,14 +7456,14 @@ of magically-induced madness or similar instabilities, the spell works on a perm
 Magnitude is equal to or greater than that of the magical disorder.
 
 
-Heal Wound
+### Heal Wound
 Instant, Rank Initiate, Touch
 
 Heals one location back to its full Hit Points but will not cause a severed limb to reattach or
 regenerate.
-                                                                                                    183
 
-       Illusion
+
+### Illusion
 Duration 15, Ranged, Rank Initiate, Resist Special
 
 This spell is used to temporarily modify the sensory projections of a single target, for example a
@@ -7525,7 +7483,7 @@ and so on. The illusion itself is incapable of causing harm but the underlying t
 dangerous as it was before the spell.
 
 
-Laughter
+### Laughter
 Duration 15, Ranged, Rank Initiate, Resist (Persistence)
 
 This spell infects the caster's foes with laughter, making common activity difficult and exhausting.
@@ -7535,7 +7493,7 @@ spell, suffering a - 20% penalty to all DEX-related Skill Tests and a level of F
 spell expires.
 
 
-Lightning Strike
+### Lightning Strike
 Instant, Ranged, Rank Initiate, Resist (Evade)
 
 This spell causes a sizzling bolt of lightning to streak from the hand of the caster toward the
@@ -7545,7 +7503,7 @@ However, any magical Armour Points the target possesses are reduced by 1 AP per 
 Magnitude.
 
 
-Madness
+### Madness
 Instant, Ranged, Rank Initiate, Resist (Persistence)
 
 This spell causes the target to lose contact with reality and become a gibbering loon. Madness
@@ -7558,10 +7516,9 @@ Magnitude of the spell. Victims will perform random Combat Actions during this p
 spell at random target. 4: Use ranged attack against random target. 5: Shout at random target. 6:
 Dance wildly. In non-combat situations, the Games Master should allow the target to perform
 passive but perhaps more frightening or entertaining actions.
-184
 
 
-       Meditate
+### Meditate
 Duration 15, Rank Initiate, Touch
 
 This Spell grants a single target the ability to regain their magical strength through mystic
@@ -7571,7 +7528,7 @@ deep and can be interrupted by any outside contact but the target can make a Per
 Test to ignore any outside stimuli that might wake him (as long as it is not a direct attack).
 
 
-Mindblast
+### Mindblast
 Duration 15, Ranged, Rank Initiate, Resist (Persistence)
 
 This spell applies a penalty to the victim's INT equal to the Magnitude of the spell. This may
@@ -7580,7 +7537,7 @@ cast Common Magic. If the target's INT is reduced below 8 they lose the power of
 become animalistic in their thought processes.
 
 
-Mindlink
+### Mindlink
 Duration 15, Ranged, Rank Initiate
 
 This spell allows the transmission of conscious thoughts, spell knowledge and Magic
@@ -7606,7 +7563,7 @@ skills or permanent spell knowledge. Any participant may sever their connection 
 as a Combat Action, or by leaving the spell's range.
 
 
-Rain
+### Rain
 Area Special, Duration 15, Rank Acolyte
 
 This Spell grants the caster the ability to bring rain from a clear sky. For the duration of the spell
@@ -7616,9 +7573,7 @@ flooding but can be the difference between life and death for plants and thirsty
 cast in sub zero temperatures, snow is created instead.
 
 
-186
-
-         Reflection
+### Reflection
 Duration 15, Ranged, Rank Initiate
 
 This spell reflects incoming spells aimed at the target or his equipment, redirecting the spell back
@@ -7628,15 +7583,15 @@ the Reflection Results table for more details.
 
 Reflection is incompatible with Absorption, Shield and Spirit Block.
 
-Reflection Results
-Incoming Spell's Magnitude is. . .                    Effect
-Equal to or weaker than Reflection's                  Incoming spell reflected and Reflection
-Magnitude.                                            remains.
-1 or more points stronger than Reflection's           Reflection eliminated and incoming spell
-Magnitude.                                            takes effect.
+##### Reflection Results
+
+| Incoming Spell's Magnitude is...                        | Effect |
+|-----------------------------------------------------------|--------|
+| Equal to or weaker than Reflection's Magnitude.           | Incoming spell reflected and Reflection remains. |
+| 1 or more points stronger than Reflection's Magnitude.    | Reflection eliminated and incoming spell takes effect. |
 
 
-Regenerate Limb
+### Regenerate Limb
 Concentration Special, Rank Acolyte, Touch
 
 This spell causes a location severed or maimed by a Major Wound to regenerate, or if the
@@ -7648,7 +7603,7 @@ immediately restored to 1 Hit Point at the end of this period. Regenerating a se
 works the same way but takes minutes instead of rounds.
 
 
-Resurrect
+### Resurrect
 Concentration Special, Rank Priest, Resist (Persistence), Touch
 
 This spell brings the dead back to life. The body of the deceased must be present and cannot be
@@ -7669,11 +7624,7 @@ After death, Resurrect must be cast within a number of days equal to the Magnitu
 otherwise the magic automatically fails.
 
 
-
-
-                                                                                                        187
-
-       Sever Spirit
+### Sever Spirit
 Instant, Rank Priest, Resist (Resilience)
 
 This spell severs the bond between body and soul, to devastating effect. The target may resist
@@ -7684,7 +7635,7 @@ Location simultaneously. This may, in some cases, still result in the death of t
 further Resilience rolls for the damage sustained are failed.
 
 
-Shield
+### Shield
 Duration 15, Rank Initiate, Touch
 
 This spell protects the caster from physical and magical attacks. Each point of Magnitude either
@@ -7695,7 +7646,7 @@ incompatible with Absorption, Reflection and Spirit Block, as well as further ca
 on the same recipient.
 
 
-Soul Sight
+### Soul Sight
 Duration 15, Rank Initiate, Touch
 
 This spell allows the recipient to see the POW aura of anyone he looks at, enabling him to
@@ -7704,32 +7655,32 @@ of their magic and any enchanted items the creature is carrying. It also allows 
 see into the spirit world.
 
 
-Spirit Block
+### Spirit Block
 Duration 15, Rank Initiate, Touch
 
 Spirit Block is one of the most powerful ways in which to block the malign influence of ghosts,
 wraiths and other creatures of the spirit world. The recipient of Spirit Block may only be affected
 by spirits with a POW greater than the spell's Magnitude, squared.
 
-Spirit Block Effectiveness
-Spirit Block's Magnitude           Recipient May Only Be Harmed By Spirits With...
-1                                  POW 2 or higher
-2                                  POW 5 or higher
-3                                  POW 10 or higher
-4                                  POW 17 or higher
-5                                  POW 26 or higher
-6                                  POW 37 or higher
-7                                  POW 50 or higher
-8                                  POW 65 or higher
-9                                  POW 82 or higher
-10                                 POW 101 or higher
+##### Spirit Block Effectiveness
+
+| Spirit Block's Magnitude         | Recipient May Only Be Harmed By Spirits With... |
+|----------------------------------|-------------------------------------------------|
+| 1                                | POW 2 or higher                                 |
+| 2                                | POW 5 or higher                                 |
+| 3                                | POW 10 or higher                                |
+| 4                                | POW 17 or higher                                |
+| 5                                | POW 26 or higher                                |
+| 6                                | POW 37 or higher                                |
+| 7                                | POW 50 or higher                                |
+| 8                                | POW 65 or higher                                |
+| 9                                | POW 82 or higher                                |
+| 10                               | POW 101 or higher                               |
 
 Spirit Block is incompatible with Absorption, Reflection and Shield.
 
 
-188
-
-         Sunspear
+### Sunspear
 Instant, Ranged, Rank Priest, Resist (Evade)
 
 This spell will only function in direct sunlight. When cast a shaft of light, two metres wide,
@@ -7738,7 +7689,7 @@ burn it for 2D6 damage per Hit Location (roll separately for each location). Arm
 not effective against this damage and it counts as both magical and fire damage.
 
 
-Sureshot
+### Sureshot
 Duration 15, Rank Initiate, Touch
 
 Sureshot magically guides the trajectory of missiles thrown or fired by the recipient so that they
@@ -7753,9 +7704,7 @@ Sureshot may not be combined with Firearrow, Multimissile or Speedart - Sureshot
 take precedence in such cases. Precise Attack attempts do not work whilst this spell is operating.
 
 
-
-
-True (Weapon)
+### True (Weapon)
 Duration 15, Rank Initiate, Touch
 
 Cast on the specified type of Close Combat Weapon, this spell doubles that weapon's normal
@@ -7764,11 +7713,7 @@ weapon should roll the weapon's damage twice and total the result.
 
 
 
-
-                                                                                                       189
-
-                                                                            sorcery
-
+# Sorcery
 Sorcery uses formulae, both written and mentally envisaged, to achieve magical effects. A
 somewhat crude way of looking at Sorcery is to consider it as short-cuts and bypasses that alter
 the fabric of creation to serve the caster's own ends. Whereas Common Magic is a miscellany of
@@ -7776,7 +7721,7 @@ charms and cantrips, and Divine Magic channels the powers of the gods, Sorcery i
 attempt to bend the way the universe functions.
 
 
-Sorcery Grimoires
+## Sorcery Grimoires
 Sorcerers record their spells in grimoires. A grimoire can hold just one spell or many. Some
 grimoires are disparate collections with no single theme whereas others are deliberate collections
 of spells of a particular nature, gathered together to reflect a particular mindset or requirement.
@@ -7788,7 +7733,7 @@ a spell takes up a large amount of space, most enduring grimoires are near immov
 the smallest scroll with a single spell is large and unwieldy.
 
 
-Sorcery and Other Types of Magic
+### Sorcery and Other Types of Magic
 Because Sorcery is based on deliberate endeavours and has little basis in naturally occurring
 magic, many cultures view it with deep suspicion and may shun it completely. Sorcery may be
 viewed as heretical and manipulative - magic that breaks the very nature of a divine relationship
@@ -7803,18 +7748,15 @@ because those who established the cult possessed no celestial or otherworldly re
 with, or have lost it through overly dedicating their energies to developing the power Sorcery offers.
 
 
-How Sorcery Works
+## How Sorcery Works
 A sorcerer works magic through two skills, Sorcery (Grimoire) and Manipulation.
 
 
-Sorcery (Grimoire) (INT x2)
+### Sorcery (Grimoire) (INT x2)
 The Sorcery (Grimoire) skill reflects the knowledge of all the spells learned from within a
 particular grimoire. It is this skill which a sorcerer rolls against to see if they cast a spell correctly.
 The skill also limits the effect of the spell. A sorcerer can study more than one Grimoire and thus
-
-190
-
-         possess many Sorcery (Grimoire) skills. Sorcerers are not in the habit of carrying their grimoires
+possess many Sorcery (Grimoire) skills. Sorcerers are not in the habit of carrying their grimoires
 around with them: a grimoire is a powerful document and the physical thing is often closely
 guarded. Therefore sorcerers are forced to memorise spells from their grimoire(s). The complex
 equations, symbols, incantations and arcane gestures consume a great deal of mental capacity.
@@ -7825,19 +7767,19 @@ spell does not erase it from his mind; but to change which spells he has memoris
 must spend 1D6 hours expelling an old spell from memory and memorising a new one from its
 grimoire.
 
-For Example, Jedekiah is a sorcerer of one of the illustrious Jade Circle Schools. As a member of the
-Seventh Circle sect he has Sorcery (Seventh Jade Grimoire) 60% and Sorcery (Book of the Whisperer)
-45%. His INT is 14. The Seventh Jade grimoire has over a dozen spells in its pages whilst the
-Whisperer's Bookhas only six. Jedekiah can therefore memorise any combination of spells from either
-grimoire as long as the total number of spells does not exceed 14. To successfully cast those spells found
-in the Seventh Jade Grimoire he needs to roll 60% or less; and 45% or less to cast those from the
-Whisperer'sBook.
+> For Example, Jedekiah is a sorcerer of one of the illustrious Jade Circle Schools. As a member of the
+> Seventh Circle sect he has Sorcery (Seventh Jade Grimoire) 60% and Sorcery (Book of the Whisperer)
+> 45%. His INT is 14. The Seventh Jade grimoire has over a dozen spells in its pages whilst the
+> Whisperer's Bookhas only six. Jedekiah can therefore memorise any combination of spells from either
+> grimoire as long as the total number of spells does not exceed 14. To successfully cast those spells found
+> in the Seventh Jade Grimoire he needs to roll 60% or less; and 45% or less to cast those from the
+> Whisperer'sBook.
 
 If the same spell is found in one or more grimoires a sorcerer knows, he always casts it at the
 highest rated Sorcery (Grimoire) percentage.
 
 
-Manipulation (INT+POW)
+### Manipulation (INT+POW)
 On their own, Sorcery spells can be quite weak and limited in their scope. However a sorcerer's
 true power lies in his ability to extend the fundamental aspects of all spells, enhancing their
 reach. By default, Sorcery spells cast without any Manipulation have a Magnitude of 1, a Range
@@ -7857,35 +7799,36 @@ a single component.
 
 Manipulation of the following components is possible:
 
-Magnitude: Used to penetrate magical defences or resist magical attacks.
-Range: Used to increase the distance a spell can be cast over.
-Duration: Used to extend the period of time the spell's effects last.
-Targets: Used to increase the number of targets affected by the spell.
+Magnitude: Used to penetrate magical defences or resist magical attacks.  
+Range: Used to increase the distance a spell can be cast over.  
+Duration: Used to extend the period of time the spell's effects last.  
+Targets: Used to increase the number of targets affected by the spell.  
 Combine: Used to fuse together several spells into a single casting.
 
 The Sorcery Manipulation Table shows what effect each point of Manipulation has on the
 different spell components. It takes no Manipulation to cast a Sorcery spell in its basic format
 (as indicated by the 'None' row).
 
-                                                                                                          191
 
-       Sorcery Manipulation Table
-Points of                                                     Duration
-Manipulation       Magnitude          Range                   (minutes)     Targets     Combine
-None               1                  Touch                   POW           1           None
-1                  2                  1m x POW                2xPOW         2           2 Spells
-2                  3                  5m x POW                3xPOW         3           3 Spells
-3                  4                  10m x POW               4xPOW         4           4 Spells
-4                  5                  50m x POW               5xPOW         5           5 Spells
-5                  6                  100m x POW              6xPOW         6           6 Spells
-6                  7                  500m x POW              7xPOW         7           7 Spells
-7                  8                  1km x POW               8xPOW         8           8 Spells
-8                  9                  5km x POW               9xPOW         9           9 Spells
-9                  10                 10km x POW              10xPOW        10          10 Spells
-10                 11                 15km x POW              11 x POW      11          11 Spells
-Each point...        +1 Magnitude       +5km x POW              +1 x POW      +1          +1 Spells
+##### Sorcery Manipulation Table
 
-Magnitude
+| Points of Manipulation    | Magnitude        | Range                 | Duration (minutes) | Targets   | Combine |
+|---------------------------|------------------|-----------------------|--------------------|-----------|---------|
+| None                      | 1                | Touch                 | POW                | 1         | None    |
+| 1                         | 2                | 1m x POW              | 2xPOW              | 2         | 2 Spells |
+| 2                         | 3                | 5m x POW              | 3xPOW              | 3         | 3 Spells |
+| 3                         | 4                | 10m x POW             | 4xPOW              | 4         | 4 Spells |
+| 4                         | 5                | 50m x POW             | 5xPOW              | 5         | 5 Spells |
+| 5                         | 6                | 100m x POW            | 6xPOW              | 6         | 6 Spells |
+| 6                         | 7                | 500m x POW            | 7xPOW              | 7         | 7 Spells |
+| 7                         | 8                | 1km x POW             | 8xPOW              | 8         | 8 Spells |
+| 8                         | 9                | 5km x POW             | 9xPOW              | 9         | 9 Spells |
+| 9                         | 10               | 10km x POW            | 10xPOW             | 10        | 10 Spells |
+| 10                        | 11               | 15km x POW            | 11 x POW           | 11        | 11 Spells |
+| Each point...             | +1 Magnitude     | +5km x POW            | +1 x POW           | +1        | +1 Spells |
+
+
+#### Magnitude
 Sorcery spells have a default Magnitude of 1 at no additional Magic Point cost. It costs one
 Magic Point to augment the Magnitude of a Sorcery spell, regardless of its final intensity.
 
@@ -7893,7 +7836,7 @@ Manipulating this component allows the sorcerer to increase the Magnitude of a s
 spells Magnitude is only used to see if it will overcome magical defences or resist magical attacks. It
 does not modify the effect of the spell which is controlled by the Sorcery (Grimoire) skill.
 
-Range
+#### Range
 Sorcery spells have a default Range of Touch, at no additional Magic Point cost. It costs one
 Magic Point to augment the Range of a Sorcery spell, regardless of its final distance.
 
@@ -7911,7 +7854,7 @@ or shield.
 If Range is augmented beyond Touch then the caster automatically strikes his intended target,
 unless the target is able to dive for cover or flee out of reach before the spell is completed.
 
-Duration
+#### Duration
 Sorcery spells have a default Duration equal to the POW of the caster in minutes, at no additional
 Magic Point cost. It costs one Magic Point to augment the Duration of a Sorcery spell, regardless
 of its final time span.
@@ -7919,9 +7862,7 @@ of its final time span.
 Manipulating this component allows the sorcerer to increase the Duration of a Sorcery spell. The
 maximum Duration to which the spell can be increased to is noted in the Sorcery Manipulation table.
 
-192
-
-         Targets
+#### Targets
 Sorcery spells have a default Target of one person or item, at no additional Magic Point cost. It
 costs one Magic Point to augment the Targets of a Sorcery spell, regardless of the final number
 of recipients.
@@ -7931,7 +7872,7 @@ spell. The maximum number of targets the spell can affect is noted in the Sorcer
 table. If the spell is cast successfully, the effect of the spell is applied multiple times, once for each
 target included; the spell's potency is never divided between them.
 
-Combine
+#### Combine
 Manipulating this component allows the sorcerer to combine the effects of multiple Sorcery
 spells in a single casting, so they will affect the target simultaneously. This is the most powerful
 aspect of Sorcery, as it allows a skilful sorcerer to use his Magic Points judiciously and achieve
@@ -7952,7 +7893,7 @@ Each additional spell added to a combined spellcasting costs one extra Magic Poi
 the casting chance by 10%.
 
 
-Casting Sorcery Spells
+### Casting Sorcery Spells
 A sorcerer must be able to gesture with his hands, be able to visualise the lay-out of the spell as it
 appears in the grimoire and be able to chant in order to complete the casting. Whenever a spell
 is cast, there is always a sight and sound that nearby creatures can detect, be it a flash of light, a
@@ -7963,7 +7904,7 @@ of their Perception versus the casting roll to spot the invocation.
 Casting a Sorcery spell requires a successful Skill Test of the Sorcery (Grimoire) skill to which
 that spell belongs.
 
-Magic Points
+#### Magic Points
 Sorcery spells cost one Magic Point plus as many Magic Points as the number of Manipulation
 effects applied to it. Jedekiah, for example, casting a Sorcery spell upon himself with no
 Manipulation uses only a single Magic Point. Applying five Manipulations would cost six Magic
@@ -7971,25 +7912,21 @@ Points (one for the basic spell, plus one point per Manipulation). Casting two s
 at the same time with the same Manipulations applied to both spells would cost seven Magic
 Points, as well as reducing his Sorcery (Grimoire) skill by 10%.
 
-
-
-                                                                                                          193
-
-       Casting Modifiers
+#### Casting Modifiers
 Sorcery spellcasting tests apply the same modifiers as Common Magic spellcasting tests.
 
-Casting Critical Successes
+#### Casting Critical Successes
 If the Sorcery (Grimoire) roll is a critical success, the spell costs no Magic Points to cast,
 irrespective of the amount of Manipulation applied to it.
 
-Casting Failures
+#### Casting Failures
 If the casting test fails the spell does not take effect and costs the caster a single Magic Point.
 
-Casting Fumbles
+#### Casting Fumbles
 If the Sorcery roll is fumbled the spell fails and the sorcerer loses the full Magic Point cost of
 the spell.
 
-Casting Time
+#### Casting Time
 All Sorcery spells take as many Combat Actions to cast as the number of Manipulations used
 to cast them, with a minimum casting time of 1. No other Combat Action may be taken while
 casting a spell, although the Adventurer may still walk up to his Movement rate while spellcasting.
@@ -8001,11 +7938,11 @@ a Major Wound, is immobilised, or is prevented from observing the target. Lesser
 require successful Persistence tests to maintain concentration on the spell.
 
 
-Dismissing Sorcery Spells
+### Dismissing Sorcery Spells
 Like Common Magic, a caster can dismiss any active Sorcery spell(s) he has cast as a single
 Combat Action, at any point.
 
-Acquiring Sorcery
+#### Acquiring Sorcery
 Adventurers desiring to learn Sorcery must fulfil certain conditions:
 
 Have access to the grimoire from which the spell originates.
@@ -8023,17 +7960,12 @@ then be able to cast that spell using the Sorcery (Grimoire) skill for the grimo
 A sorcerer belonging to a sorcery cult is usually forbidden from transcribing the spells from the
 grimoire - as doing so may allow the knowledge to spread beyond their reach.
 
-
-
-
-194
-
-         Depending on the setting and culture, admittance to such grimoires may be difficult. Whilst
+Depending on the setting and culture, admittance to such grimoires may be difficult. Whilst
 membership of some sorcery cults or schools may allow study of their grimoire free of charge;
 others might require gifts paid, quests performed or attaining a specific membership rank before
 granting access.
 
-Spell Traits and Descriptions
+#### Spell Traits and Descriptions
 Every Sorcery spell is defined by several traits defining the spell and how it is used in the game.
 A description then follows describing the spell's precise effects. The traits used by Sorcery spells
 are detailed here.
@@ -8042,23 +7974,23 @@ By default all Sorcery spells are binary in effect rather than progressive: they
 do not. The strength of the effect, or scope of the target they can affect, is dependent on the
 caster's Sorcery skill in the grimoire from which that spell comes.
 
-Autonomous: The spell's effects will remain until its duration ends, without need for
+**Autonomous**: The spell's effects will remain until its duration ends, without need for
 concentration.
 
-Concentration: The spell's active effects continue so long as the Adventurer concentrates on
+**Concentration**: The spell's active effects continue so long as the Adventurer concentrates on
 it. Once focus is dropped, the spell's effect ceases or remains static until concentration can be
 resumed. A sorcerer may move or perform non-complex actions without penalty. More stressful
 situations, such as walking a narrow ledge, engaging in combat, suffering serious injury, or casting
 another spell immediately require a Persistence roll to maintain focus. By default a sorcerer may
 only concentrate on a single Concentration spell at any one time.
 
-Resist (Evade/Persistence/Resilience): An offensively cast spell does not take effect
+**Resist (Evade/Persistence/Resilience)**: An offensively cast spell does not take effect
 automatically. The target may make an Opposed Test of their Evade, Persistence or Resilience
 skill (as specified by the spell) against the casting roll of the sorcerer, to avoid the effect of the
 spell entirely. To resist using the Evade skill, the Adventurer must expend a Combat Action.
 
 
-Abjure (Substance/Process)
+### Abjure (Substance/Process)
 Autonomous
 
 There are many Abjure spells; for instance, Abjure Air, Abjure Food, Abjure Water and so on.
@@ -8071,20 +8003,14 @@ a sorcerer to move underwater without needing to breath.
 Many exotic versions of this spell exist, which affect dreams, pain or even aging.
 
 
-Animate (Substance)
+### Animate (Substance)
 Concentration, Resist (Special)*
 
 This spell animates a specific type of substance as indicated by the particular spell; thus there are
 many variants of Animate available. The sorcerer animates three points of SIZ or a cubic metre of
 insubstantial material for every 10% of his Sorcery (Grimoire) skill, causing it to move about and
 interact clumsily with its surroundings. The substance moves at a rate of one metre by default,
-
-
-
-
-                                                                                                         195
-
-       although points of SIZ or ENC may be substituted for extra movement on a three for one basis;
+although points of SIZ or ENC may be substituted for extra movement on a three for one basis;
 and cubic metres on a one for one basis.
 
 Jedekiah knows the Animate (Wind) spell and has increased his Sorcery (Seventh Jade Grimoire)
@@ -8101,31 +8027,29 @@ appropriate Form/Set spell (through application of the Combine Manipulation), th
 perform much finer manoeuvring of the target. In this case, the animated object will use the
 caster's full skill scores for physical activities.
 
-*The myriad versions of this spell normally only affect inanimate matter, such as clay, steel, dead flesh
-and so on; or ethereal substances such as air, fire, darkness. If the substance is already under magical
-control or is a living elemental, then the target gains a Resistance roll of some form, such as an opposed
-magical skill or Persistence. Darker versions of this spell are rumoured which allow sorcerers to animate
-living creatures and control them like puppets.
+> *The myriad versions of this spell normally only affect inanimate matter, such as clay, steel, dead flesh
+> and so on; or ethereal substances such as air, fire, darkness. If the substance is already under magical
+> control or is a living elemental, then the target gains a Resistance roll of some form, such as an opposed
+> magical skill or Persistence. Darker versions of this spell are rumoured which allow sorcerers to animate
+> living creatures and control them like puppets.
 
 
-Attract (Harm)
+### Attract (Harm)
 Autonomous, Resist (Persistence)
 
 This spell steers attacks of a singular type within its range, so they strike the recipient instead. It
 works differently according to the type of harm affected by the spell variant. This can even cause
 a spell or missile attack to turn back upon its own caster!
 
-Magic - Draws offensive spells of up to 1 Magnitude per 10% known in the Sorcery (Grimoire)
-skill.
-Missiles - Attracts all missile attacks which inflict up to a maximum (including magical
-augments) of 1 Hit Point per 10% known in the Sorcery (Grimoire) skill.
-Spirits - Baits any hostile spirit with up to 3 POW per 10% known in the Sorcery (Grimoire)
-skill.
-Energy - Redirects all sources of harm linked to a particular energy or effect, such as fire, poison,
+**Magic** - Draws offensive spells of up to 1 Magnitude per 10% known in the Sorcery (Grimoire) skill.  
+**Missiles** - Attracts all missile attacks which inflict up to a maximum (including magical
+augments) of 1 Hit Point per 10% known in the Sorcery (Grimoire) skill.  
+**Spirits** - Baits any hostile spirit with up to 3 POW per 10% known in the Sorcery (Grimoire) skill.  
+**Energy** - Redirects all sources of harm linked to a particular energy or effect, such as fire, poison,
 cold, undeath and similar forces.
 
 
-Banish
+### Banish
 Autonomous, Resist (Persistence)
 
 Allows a sorcerer to dismiss spiritual or demonic entities of up to 3 POW per 10% of his Sorcery
@@ -8137,10 +8061,7 @@ its owner/master. Likewise the spell cannot cast forth a spirit or demon possess
 one that is first tricked into abandoning the host.
 
 
-
-196
-
-         Castback
+### Castback
 Autonomous
 
 Castback is a defensive invocation shielding the sorcerer from hostile magic and has a chance
@@ -8150,7 +8071,7 @@ and possess the Resist trait. Such spells may affect the protected Adventurer no
 resisted, the spell is launched back at the person who cast it.
 
 
-Damage Enhancement
+### Damage Enhancement
 Autonomous
 
 This spell can be cast upon anything capable of inflicting physical damage; weapons, traps,
@@ -8163,7 +8084,7 @@ does 1D8 damage. If successful, the sword would then automatically inflict eight
 damage every hit until the spell ended.
 
 
-Damage Resistance
+### Damage Resistance
 Autonomous
 
 This spell protects the body of the recipient (including clothing and small belongings carried
@@ -8178,7 +8099,7 @@ In this case the damage is compared to the Damage Resistance spell first and onl
 Protection spell if the Damage Resistance is bypassed.
 
 
-Diminish (Characteristic)
+### Diminish (Characteristic)
 Autonomous, Resist (Persistence/Resilience)
 
 A Diminish spell exists for each Characteristic (so, Diminish Strength, Diminish Constitution
@@ -8193,10 +8114,7 @@ skeletal as they do with the Tap spell. Diminish is incompatible with any other 
 reducing spell.
 
 
-
-                                                                                                      197
-
-       Dominate (Species)
+### Dominate (Species)
 Concentration, Resist (Persistence)
 
 This spell gives the caster control over a creature belonging to a specific species: thus many
@@ -8218,7 +8136,7 @@ broad in scope, covering an entire family of a type of creature. For example: fe
 bears, fish, snakes and so forth.
 
 
-Enhance (Characteristic)
+### Enhance (Characteristic)
 Autonomous, Resist (Persistence/Resilience)
 
 An Enhance spell exists for each Characteristic (so, Enhance Strength, Enhance Constitution
@@ -8233,7 +8151,7 @@ If used malevolently, Enhance (STR, DEX, CON or SIZ) are resisted with Resilienc
 This spell is incompatible with any other Characteristic boosting spell.
 
 
-Fly
+### Fly
 Concentration, Resist (Evade)
 
 Using this spell allows the caster (or whomever or whatever he targets with the spell) to fly.
@@ -8246,12 +8164,7 @@ Offensive use of the spell allows a victim to attempt an opposed Evade roll (or 
 initially break free of the spell's grip.
 
 
-
-
-198
-
-
-       Form/Set (Substance)
+### Form/Set (Substance)
 Autonomous, Resist (Resilience)
 
 There are many Form/Set spells in existence, each one controlling a general type of substance.
@@ -8275,7 +8188,7 @@ opposed Resilience roll to resist. No damage is inflicted on those that fail but
 and outward physique may be warped as desired.
 
 
-Glow
+### Glow
 Autonomous, Resist (Evade)
 
 This spell causes an area to glow with a soft light, bright enough to be able to read by. Sorcerers
@@ -8285,7 +8198,7 @@ The light is able to counter Darkness spells equal to or less than its Magnitude
 Darkness spell is centred upon an animate creature, then the target may resist using its Evade skill.
 
 
-Haste
+### Haste
 Autonomous
 
 Haste increases the Movement rate of whatever it is cast on. The spell affects targets of up to 3
@@ -8295,7 +8208,7 @@ movement, each 3 SIZ giving an extra one metre. Haste is incompatible with other
 boosting spells.
 
 
-Hinder
+### Hinder
 Autonomous, Resist (Evade)
 
 Hinder decreases the movement rate of whatever it is cast on. The spell affects targets of up to 3 SIZ
@@ -8305,9 +8218,7 @@ giving an additional reduction of one metre per round. A target's Movement canno
 than one with this spell. Hinder is incompatible with other Movement slowing spells.
 
 
-200
-
-         Holdfast
+### Holdfast
 Autonomous, Resist (Resilience)
 
 Holdfast causes an object of up to 3 SIZ per 10% of the caster's Sorcery (Grimoire) skill, to
@@ -8321,7 +8232,7 @@ Resilience skill. Failing to resist indicates the victim is bound to an object i
 is bound inside its scabbard for example.
 
 
-Intuition
+### Intuition
 Concentration, Resist (Persistence)
 
 Intuition allows a sorcerer to discern the emotions and motives of the target, as if he had made
@@ -8332,7 +8243,7 @@ opposed test of their Persistence roll against the caster's Sorcery (Grimoire) p
 the caster attempts to discern a new fact.
 
 
-Mystic Vision
+### Mystic Vision
 Concentration
 
 This spell allows the caster to perceive magic, by augmenting his primary senses. It allows him
@@ -8351,7 +8262,7 @@ been overcharged, enchantment conditions and the unique 'aura' of who cast it; w
 used to identify other spells cast by the same person.
 
 
-Neutralise Magic
+### Neutralise Magic
 Autonomous
 
 Neutralise Magic negates a combined Magnitude of spells on a target. The spell affects up to
@@ -8360,10 +8271,7 @@ dismissing the most powerful spell it can act on, reducing its own effect by the
 eliminated spell, then continues to dismiss the next most powerful spell it can still affect. A spell
 cannot be partially eliminated, so only 'complete' spells are negated.
 
-
-                                                                                                       201
-
-       Jedekiah is under the effect of a Magnitude 2 Protection spell, a Magnitude 4 Haste spell and
+Jedekiah is under the effect of a Magnitude 2 Protection spell, a Magnitude 4 Haste spell and
 a Magnitude 6 Damage Resistance spell. When hit by a Neutralise Magic cast at 44% (affects
 5 Magnitude), the Damage Resistance spell is ignored as it is too powerful. The Haste spell is
 neutralised but this reduces the Neutralise Magic's effect to 1, which is not enough to take out
@@ -8375,7 +8283,7 @@ of the spell.
 Neutralise Magic can be used defensively, as if parrying or evading to neutralise incoming spells.
 
 
-Palsy
+### Palsy
 Autonomous, Resist (Resilience)
 
 This spell paralyses one random Hit Location on the target. The sorcerer can affect locations of
@@ -8384,7 +8292,7 @@ the location struck. A limb stops working; the abdomen causes both legs to colla
 or chest results in unconsciousness.
 
 
-Phantom (Sense)
+### Phantom (Sense)
 Concentration, Resist (Special)
 
 Each specific Phantom spell produces an illusion which affects a different sense or perception.
@@ -8410,15 +8318,13 @@ simultaneously as long as they are cast as a single spell using the Combine mani
 
 Spells providing magical protection block a Phantom (Sense) spell of equal or lesser Magnitude.
 
-Odour
+#### Odour
 This spell reproduces any single scent, anything from the delectable odour of lotus perfume to
 the stench of rotting flesh. If used offensively and the caster overcomes the target in an opposed
 roll of Sorcery (Grimoire) versus Resilience, an odour can be created which incapacitates or
 entrances those who smell it.
 
-202
-
-         Taste
+#### Taste
 This illusion creates or hides any single taste for consumables, substances or persons within the
 spell's effect. If used offensively, such as creating the burning effect of hot chillies to cause the
 victim to gag, the caster must overcome the target in an opposed roll of Sorcery (Grimoire)
@@ -8426,7 +8332,7 @@ versus Resilience. Several Phantom (Taste) spells could, for example, make a mea
 boiled worms, sour berries and nettle leaves taste like the recipient's favourite meal - although
 the texture might need some work.
 
-Sight
+#### Sight
 Creates a visual illusion of anything the caster can imagine. The vision is completely non-
 corporeal, so physical interaction passes straight through. If used subtly, it can augment or
 modify the appearance of an already existing target; granting outlandish clothing or changing
@@ -8436,7 +8342,7 @@ Sorcery (Grimoire). Animate creatures produced by this spell, which appear to pe
 physical actions, use the relevant skills of the sorcerer. For example, an illusionary giant ant sent
 to attack the recipient would use the caster's own Unarmed combat skill to fight.
 
-Sound
+#### Sound
 This spell creates an audible illusion, anything from a whisper to a clap of thunder. The caster
 can manipulate the nature and volume of the sound as long as he continues to concentrate upon
 it. Although a sorcerer can create very loud sounds, he cannot cause permanent deafness or
@@ -8445,7 +8351,7 @@ each other need a Perception roll to hear each other speak; and any task which r
 one's own voice or maintaining concentration (such as spell casting), must win an opposed test
 of Persistence against the spell to continue.
 
-Touch
+#### Touch
 This spell creates an illusion of tactility, which can be Combined with other illusions to give
 them a greater sense of reality. It can simulate any type of tactual sensation from feathery to
 prickly, soft to hard and even hot and cold. Since the spell simply produces an illusionary
@@ -8456,7 +8362,7 @@ the (psychosomatic) effects of receiving a Serious or Major Wound, even though t
 suffered any actual harm.
 
 
-Protective Ward
+### Protective Ward
 Autonomous
 
 This spell requires the use of the Combine manipulation. It must be coupled with Damage
@@ -8469,10 +8375,7 @@ cast it cannot be moved, although the surface it is inscribed upon can be.
 The Protective Ward's perimeter contains the benefits of its combined Resistance spell(s). It only
 inhibits spells or attacks entering the circle from the outside - attacks or spells originating within
 the circle are unaffected. Thus a Protective Circle against spirits would block out external spirits
-
-                                                                                                      203
-
-       but have no effect on those already inside its perimeter. A Protective Circle against damage or
+but have no effect on those already inside its perimeter. A Protective Circle against damage or
 spells would block out incoming attacks/spells but have no effect on those attacks made within
 the sphere (including attacks targeting those outside the sphere).
 
@@ -8480,7 +8383,7 @@ Diverse versions of this spell are known which rely upon different geometries (c
 and so on) or runes.
 
 
-Project (Sense)
+### Project (Sense)
 Concentration
 
 Each 'Project (Sense)' is an individual spell, specific to one of the five primary senses but there are
@@ -8503,7 +8406,7 @@ Attacking the receptor with a magically augmented weapon or a spell, will transf
 damage/effect back to the recipient.
 
 
-Regenerate
+### Regenerate
 Concentration
 
 This spell functions much like the Divine Magic spells of Heal Wound and Regrow Limb, in that
@@ -8516,7 +8419,7 @@ to concentrate for a period of one entire round per HP recovered. Locations whic
 severed and cannot be reattached take one minute per HP healed to regenerate.
 
 
-Restoration
+### Restoration
 Concentration
 
 One of the few methods known of healing Characteristic damage, such as that caused by
@@ -8526,9 +8429,7 @@ original value of the Characteristic was higher than this, then it cannot be hea
 restored takes one minute to regenerate.
 
 
-204
-
-         Sense (Object or Substance)
+### Sense (Object or Substance)
 Concentration
 
 Eminently useful for finding valuables, lost possessions or hidden objects from afar, this
@@ -8548,7 +8449,7 @@ quite broad. For instance: gems, flesh and bones, metals, weapons, cult specific
 chaos.
 
 
-Shapechange (Species) to (Species)
+### Shapechange (Species) to (Species)
 Autonomous, Resist (Resilience)
 
 Shapechange morphs the shape and form of a target from one species to another. A sorcerer
@@ -8569,7 +8470,7 @@ snakes and so on. The spell only works on living things - the dead or inanimate 
 shapechanged.
 
 
-Smother
+### Smother
 Autonomous, Resist (Resilience)
 
 A sorcerer may cast Smother on a target of up to 3 SIZ per 10% of his Sorcery (Grimoire) skill.
@@ -8580,24 +8481,19 @@ This spell can also be used to extinguish fires, as the flames will be starved o
 the sorcerer can affect up to three cubic metres of flames per 10% of Sorcery (Grimoire) skill.
 
 
-
-
-                                                                                                      205
-
-
-         Spell Resistance
+### Spell Resistance
 Autonomous
 
 A magical ward that blocks any incoming spell of up to 1 Magnitude per 10% of the caster's
 Sorcery (Grimoire) skill.
 
 Spell Resistance remains in place for the entirety of its duration - spells that successfully breach
-the Spell Resistance do not dispel it. However, it does not discriminate between incoming spells
-- a comrade attempting to magically heal the recipient of Spell Resistance must overcome it in
+the Spell Resistance do not dispel it. However, it does not discriminate between incoming spells - 
+a comrade attempting to magically heal the recipient of Spell Resistance must overcome it in
 order to successfully use a healing spell.
 
 
-Spirit Resistance
+### Spirit Resistance
 Autonomous
 
 This spell blocks spirits or otherworld entities of up to 3 POW per 10% of the caster's Sorcery
@@ -8607,7 +8503,7 @@ cast at the recipient by a spirit or otherworld entity, are likewise blocked unl
 exceeds the Magnitude of the Spirit Resistance.
 
 
-Tap (Characteristic)
+### Tap (Characteristic)
 Concentration, Resist (Persistence)
 
 Each Characteristic has a Tap spell; thus Tap (Strength), Tap (Constitution) and so on.
@@ -8635,11 +8531,7 @@ of a victim, such as Tap (Youth), Tap (Emotion), Tap (Memory) and so forth. With
 these are regarded with even more loathing and hatred than the more common Tap spell!
 
 
-
-
-                                                                                                    207
-
-       Treat Wounds
+### Treat Wounds
 Concentration
 
 This spell dramatically accelerates the natural healing rate of the target. It heals up to one
@@ -8649,7 +8541,7 @@ the healing does not affect Serious or Major Wounds, which require the Regenerat
 instead.
 
 
-Telepathy
+### Telepathy
 Autonomous, Resist (Persistence)
 
 The telepathy spell allows a sorcerer to not only mentally communicate with the target but also
@@ -8660,7 +8552,7 @@ intelligent creatures. If sub-sentient such as in the case of an animal, the sor
 comprehension in terms of feelings - but can still communicate.
 
 
-Teleport
+### Teleport
 Concentration, Resist (Evade)
 
 Teleport allows a sorcerer to instantaneously move himself, or a target to anywhere
@@ -8670,7 +8562,7 @@ automatically fails. The caster is able to teleport objects up to 3 points of SI
 his Sorcery (Grimoire) skill.
 
 
-Wrack
+### Wrack
 Concentration, Resist (Resilience)
 
 This spell injures victims by wracking them with magical force. If the target fails to resist, every
@@ -8691,10 +8583,7 @@ agonising poison.
 
 
 
-
-208
-
-         guilds, factions and cults
+# Guilds, Factions and Cults
 
 In Legend, few Adventurers stand alone. Most are members of some faction, order or cult. Guilds
 are the guardians of secret knowledge and craftsmanship, and often have a commercial focus
@@ -8705,21 +8594,21 @@ established religions to fringe cults to spirit-worshipping lodges. Ultimately, 
 itself is unimportant - what matters is belief and loyalty.
 
 
-Why Join a Faction?
+## Why Join a Faction?
 Adventurers join factions for many reasons but the most common are:
 
-*	   Cultural influence: all members of a particular clan worship a particular god and it has
+* Cultural influence: all members of a particular clan worship a particular god and it has
   always been thus. Faction membership is not just expected but mandatory.
-*	   Social advancement: membership of a particular guild or order is required to master a craft
+* Social advancement: membership of a particular guild or order is required to master a craft
   or a form of sorcery.
-*	   Reinforce beliefs and behaviours: faction members cleave to a particular ideal or way of
+* Reinforce beliefs and behaviours: faction members cleave to a particular ideal or way of
   behaving and, in the faction, find a way of both expressing it and being rewarded for it.
-*	   Power, Glory and Status: Rising through the faction's ranks brings magical power, as
+* Power, Glory and Status: Rising through the faction's ranks brings magical power, as
   explored earlier in Divine Magic but aside from that, factions offer rewards in the form of
   training and, perhaps, other gifts.
 
 
-Cults
+### Cults
 A cult is any body of people who come together in veneration of a common symbol. This could be a
 god, a spirit or ancestor, an ideal or even a heroic personality. Cults fulfil many purposes: protection,
 progress and tuition, enlightenment and very often they are the focus for a complete community.
@@ -8732,16 +8621,13 @@ Cults are not limited to gods or spirits: a cult can form around a hero or heroi
 a religious or philosophical ideal.
 
 
-Guilds
+### Guilds
 Guilds are associations of those who practice a particular profession or craft. All the jewellers in
 a city might belong to the jeweller's guild, all the blacksmiths to the blacksmith's guild and so
 forth. Each guild possesses certain secret techniques and methods that are revealed only to those
 who prove themselves worthy to learn them.
 
-
-                                                                                                         209
-
-       Guilds wield vast political and economic power. Any craftsman or merchant who tries to operate
+Guilds wield vast political and economic power. Any craftsman or merchant who tries to operate
 without guild sanction will be shunned and driven out of business by the guild. Guildmasters
 have as much influence as any lord or high priest. Many long-established guilds take a mystical
 approach to their craft or profession, worshipping gods or spirits associated with the craft and
@@ -8751,7 +8637,7 @@ Not all guilds are publicly known or tolerated - thieves, mercenaries or assassi
 secret underworld guilds.
 
 
-Sorcerous Orders
+### Sorcerous Orders
 Sorcerous orders are gatherings of sorcerers and scholars. Learning the art of Sorcery takes many
 years of hard study, so sorcery is usually passed from master to a small handful of dedicated
 apprentices. Sorcerous orders are largely defined by the grimoires they possess - the most
@@ -8764,8 +8650,7 @@ of reality and summon up ghastly horrors from beyond the stars, so they are ofte
 abhorred by right-thinking folk.
 
 
-
-Martial Orders
+### Martial Orders
 Brave martial orders may be dedicated to a particular kingdom, or a deity, or an ideal. Membership
 of a chivalrous order is the dream of every noble warrior and squire but not all martial orders are
 made up of knights in shining armour. A martial order can also be a monastery of fighting monks
@@ -8774,137 +8659,90 @@ territories and great castles, and be possessed of considerable wealth and polit
 orders even have divine blessings or secret fighting techniques.
 
 
-Factions and Magic
+## Factions and Magic
 The kinds of magic offered vary depending on the faction's nature.
 
-Divine Cults offer Divine Magic and Common Magic to their members. Divine cults have, as
+**Divine Cults** offer Divine Magic and Common Magic to their members. Divine cults have, as
 their focus, a god or a pantheon of gods - beings of Divine power who, through a relationship
 with their faithful, extend both their magic and Characteristics to the membership.
 
-Sorcerous Orders may have a god or a particular personality as the object of veneration but the
+**Sorcerous Orders** may have a god or a particular personality as the object of veneration but the
 order itself does not derive its magic from a Divine source, as would a Divine cult. Rather the
 order derives its magical power from the direct study of Sorcery, formulating grimoires reflecting
 the needs, deeds and myths of its object of veneration. Membership of Sorcerous Order gives
 access to one or more of the order's Grimoires.
 
-Guilds control access to the highest secrets of a particular craft or profession. An Adventurer
+**Guilds** control access to the highest secrets of a particular craft or profession. An Adventurer
 who seeks a master capable of teaching the higher levels (75%) of a skill may be required to join
 the appropriate guild. Some guilds teach Common Magic related to that guild's specialty - for
 example, a guild of blacksmiths might teach Bladesharp, Repair and Armoursmith's Boon, while
 a guild of thieves might teach Bandit's Cloak and Abacus.
 
-
-210
-
-         Martial Orders may teach Common or Divine Magic, depending on their approach to combat.
+**Martial Orders** may teach Common or Divine Magic, depending on their approach to combat.
 They often also possess special Heroic Abilities that are available only to their members.
 
-Comparative Rank Titles
+#### Comparative Rank Titles
 Although the different factions have, for the sake of simplicity, the same structure of ranks,
 the names given to each rank differ between faction types. The Comparative Rank Titles table
 provides the comparisons:
 
-Comparative Rank Titles
-                                                               Martial        Martial
-                              Sorcery                          Order          Order
-Rank Title     Divine Cult       Order           Guild            (chivalric)    (monastic)
-Level 0        Lay Member        Novice          Novice           Man-at-        Novice
-                                                               Arms
-Level 1        Initiate          Apprentice      Apprentice       Squire         Initiate
-Level 2        Acolyte           Adept           Journeyman       Knight         Brother
-Level 3        Priest            Mage            Master           Knight         Elder Brother
-                                                               Captain
-Level 4        High Priest       Archmage        Grand Master     Grand          Abbot
-                                                               Master
+##### Comparative Rank Titles
 
+| Rank Title   | Divine Cult     | Sorcery Order | Guild          | Martial Order (chivalric)   | Martial Order (monastic) |
+|--------------|-----------------|---------------|----------------|-----------------------------|--------------------------|
+| Level 0      | Lay Member      | Novice        | Novice         | Man-at-Arms                 | Novice                   |
+| Level 1      | Initiate        | Apprentice    | Apprentice     | Squire                      | Initiate                 |
+| Level 2      | Acolyte         | Adept         | Journeyman     | Knight                      | Brother                  |
+| Level 3      | Priest          | Mage          | Master         | Knight Captain              | Elder Brother            |
+| Level 4      | High Priest     | Archmage      | Grand Master   | Grand Master                | Abbot                    |
+                                                                  
 
-Ranks
+## Ranks
 Part of the cult framework is to determine what ranks are available and how Adventurers progress
 from one to another. The core rank structure is summarised here, along with the advancement
 requirements and appropriate benefits. If the cult has any specific duties that members must
 perform, they will be outlined in the description of the rank.
 
 
-Level 0: Common Members
+### Level 0: Common Members
 The first step in joining a faction and rising through its ranks is to become a Common Member.
 An Adventurer can belong to several factions as a Common Member, as long as they are not
 diametrically opposed. The vast majority of members of a faction are Common Members, casual
 follows who support and aid the faction.
 
-
-Level 1: Initiated Members
+### Level 1: Initiated Members
 This is the start of the inner membership of the faction and Initiated Members have to donate
 a substantial amount of time and money to the organisation. In return, they receive benefits
 denied to Common Members. It is possible for an Adventurer to be an Initiated Member of
 more than one faction at a time.
 
-
-Level 2: Fervent Members
+### Level 2: Fervent Members
 Few members of the faction will rise to the position of Fervent Member, a rank that requires
 dedication and service but where the inner secrets of the faction begin to be revealed. Fervent
 Members can be Common Members and even Initiated Members of other factions but cannot
 be Fervent Members of more than one faction.
 
-
-
-
-                                                                                                211
-
-       Level 3: Masters
+### Level 3: Masters
 Masters are the respected and established leaders of the faction and have full command of the
 faction's secret skills or spells. There is usually only a single master in a given gathering of the
 faction.
 
-
-Level 4: Grand Masters
+### Level 4: Grand Masters
 The leaders of the cult, Grand Masters embody everything the faction stands for and have access
 to its deepest secrets. When trouble threatens, it is the Grand Masters who will fight for its
 survival and prosperity.
 
-Cult Ranks - Requirement and Benefits
-        Requirements                                    Benefits
-Common       Candidate must have at least a basic            The Adventurer will automatically be
-Members      understanding of the beliefs of the faction     able to find tutors for any skills the
-        and make a small donation or perform a          cult teaches. They must still pay the
-        service for the faction.                        normal rates for these services.
-Initiated    Candidates will be tested to determine their    As well as all the benefits enjoyed by
-Members      knowledge of the faction, their sincerity for   Common Members, the Initiated
-        joining and even their current reputation.      Member will have automatic access
-        The Adventurer must know five of the            to Common Magic spells (those only
-        faction skills. Initiated members may also be   taught by their cult). Pious Members
-        required to donate some of their income to      pay half the normal price for being
-        the faction.                                    taught faction skills.
+##### Cult Ranks - Requirement and Benefits
 
-                                                        If an Adventurer is an Initiated
-                                                        Member of a faction, he will usually
-                                                        be considered a Common Member
-                                                        of all allied factions without being
-                                                        required to make any donation.
-Fervent      Candidates must have been an Initiated          Fervent Members may call for Divine
-Members      Member of the faction for at least two years    Intervention.
-        and must have at least five faction skills of at
-        least 50%. A valuable gift must be made to
-        the faction, in accordance with its tenets and
-        its status. For example, in a guild, the Fervent
-        Member must complete a masterwork and
-        present it to the masters; in a martial order,
-        the would-be knight must complete a quest.
-Masters      Candidates must have been a Fervent              Faction skills are learnt for free.
-        Member of the faction for at least two years
-        and must have at least five cult skills of at    Moreover, Masters have the resources
-        least 75%.                                       of their entire following at their
-                                                         disposal though they are advised not
-                                                         to abuse the trust of the faction's
-                                                         members.
-Grand        Candidates must have been a Master of the        Faction skills are learnt for free.
-Masters      cult for at least three years and must have at
-        least five cult skills of at least 90%.
+| | Requirements | Benefits |
+|-|--------------|----------|
+| Common Members | Candidate must have at least a basic understanding of the beliefs of the faction and make a small donation or perform a service for the faction. | The Adventurer will automatically be able to find tutors for any skills the cult teaches. They must still pay the normal rates for these services. |
+| Initiated Members | Candidates will be tested to determine their knowledge of the faction, their sincerity for joining and even their current reputation. The Adventurer must know five of the faction skills. Initiated members may also be required to donate some of their income to the faction. | As well as all the benefits enjoyed by Common Members, the Initiated Member will have automatic access to Common Magic spells (those only taught by their cult). Pious Members pay half the normal price for being taught faction skills. If an Adventurer is an Initiated Member of a faction, he will usually be considered a Common Member of all allied factions without being required to make any donation. |
+| Fervent Members | Candidates must have been an Initiated Member of the faction for at least two years and must have at least five faction skills of at least 50%. A valuable gift must be made to the faction, in accordance with its tenets and its status. For example, in a guild, the Fervent Member must complete a masterwork and present it to the masters; in a martial order, the would-be knight must complete a quest. | Fervent Members may call for Divine Intervention. |
+| Masters | Candidates must have been a Fervent Member of the faction for at least two years and must have at least five cult skills of at least 75%. | Faction skills are learnt for free. Moreover, Masters have the resources of their entire following at their disposal though they are advised not to abuse the trust of the faction's members. |
+| Grand Masters | Candidates must have been a Master of the cult for at least three years and must have at least five cult skills of at least 90%. | Faction skills are learnt for free. |
 
-
-
-212
-
-         Common Magic
+#### Common Magic
 Factions can offer Common Magic. The range of Common Magic available may be far wider
 than its Divine, Spirit or Sorcery Magic portfolio; or be limited to a handful of spells the faction
 finds especially useful. It is therefore not uncommon to see a faction listed as providing 'All'
@@ -8912,7 +8750,7 @@ Common Magic spells - meaning all the spells found in Legend's Common Magic chap
 Similarly some factions may only provide a list of named spells - or may have special Common
 Magic spells of their own development.
 
-Divine Magic
+#### Divine Magic
 The god a faction worships determines what Divine Magic is offered. A war god, for example,
 can be expected to have Divine Spells relating to combat and battle; whereas a fertility goddess
 can be expected to have spells related with healing and growth. Again, there are no hard and fast
@@ -8921,13 +8759,13 @@ rules here, save the description of the cult and the nature of the deity.
 The number of Divine Spells a cult offers depends on the cult's size and standing. However most
 cults will offer around four or five Divine Spells to Pious Members or above.
 
-Sorcery
+#### Sorcery
 Those orders following a sorcerous tradition may have an ideal or philosophy as the focus of
 veneration, or a particular god, demi-god or saint. The Sorcery spells offered are collectively
 known as a grimoire and order members have access to the order's grimoire or grimoires as
 described in the Sorcery chapter.
 
-Faction Skills
+#### Faction Skills
 These are skills mastered by the cult and considered important to it. Training in these skills
 is more or less guaranteed with faction members being able to find access to a teacher via a
 temple, academy, school, shrine or through faction contacts. Faction skills are usually trained at
@@ -8938,11 +8776,11 @@ progress from one rank to the next. Thus, when considering training and spending
 Rolls, Adventurers need to consider and then balance-up, faction advancement requirements.
 
 
-Sample Cults
+## Sample Cults
 Three cults are presented here as examples.
 
 
-The Cult of the Thunderer (Divine Cult)
+### The Cult of the Thunderer (Divine Cult)
 The warrior-god of the forest-tribes is the Thunderer, who shakes the branches and drives back
 the darkness. The forest tribes learned to worship the Thunderer and the rest of their pantheon
 from the sea-going barbarians of the north; in the mountains of the north, the Thunderer is
@@ -8953,43 +8791,41 @@ Warriors of the Thunderer are honour-bound to defend the tribe and hunt down mon
 Storms are their sacred time and battles or ceremonies conducted amid the thunder and the
 howling rain are especially blessed.
 
-Divine Magic: Blessing (any Cult Skill), Crash of Thunder, Lightning Strike, Shield, Channel Strength.
+**Divine Magic**: Blessing (any Cult Skill), Crash of Thunder, Lightning Strike, Shield, Channel Strength.
 
+#### Membership, Officers and Ranks
 
-                                                                                                      213
-
-       Membership, Officers and Ranks
-Lay Members
+##### Lay Members
 Lay Members are any who support the warriors and are prepared to offer worship at the shrines
 of the Thunderer.
 
-Initiates
+##### Initiates
 Initiates must have five cult skills at a minimum of 30%. They must all dedicate at least 1 POW
 to their Pact with the Thunderer.
 
-Acolytes
+##### Acolytes
 Acolytes of the Thunderer are veteran warriors and protectors of the tribe. Acolytes must have
 slain an enemy of the tribe, have five cult skills of at least 50% dedicating at least 3 POW to their
 Pact with the Thunderer. The Pact skill must also be at a minimum of 50%.
 
-Priests
+##### Priests
 Priest of the cult oversee ceremonies and keep the sacred fire of the Thunderer. They must also
 dedicate at least 5 POW to their Pact with the Thunderer. Five cult skills must be 80% or higher
 and the Pact skill must also be 80% or higher. As the heroes of the cult, they are expected to
 challenge all enemies of the Thunderer wherever they are found.
 
-High Priests
+##### High Priests
 High Priests are given the gift of prophecy and can hear the future in the words of the thunder.
 They must dedicate at least 7 POW to their pact and have five cult skills including Pact at 100%.
 There may only be three High Priests at a time.
 
-Cult Skills
+#### Cult Skills
 The cult offers training in the following skills. Pact is mandatory as one of the five skills for
 joining and advancing within the cult: Acrobatics, Athletics, Common Magic, Evade, Pact (the
 Thunderer), Perception, Resilience, any Spear style.
 
 
-Order of the Black Serpent (Sorcery Order)
+### Order of the Black Serpent (Sorcery Order)
 The Order of the Black Serpent follows the teachings of Menakhem Ka, the insane demi-god of
 the Ziggurat of the Eclipse. His desire to become a true god was articulated in his blasphemous
 grimoire before he departed into the depths of the great desert.
@@ -8998,42 +8834,38 @@ Since then, the order has swollen in size from the original eight disciples and 
 800 eager, would-be gods who seek to overthrow the established order wherever they establish
 one of their heretical schools.
 
-Magic
-Common Magic: Disruption, Mobility and Speedart
+#### Magic
+**Common Magic**: Disruption, Mobility and Speedart
 
-Sorcery (Black Serpent Grimoire): Animate (Sand), Dominate (Serpent), Form/Set (Sand),
+**Sorcery (Black Serpent Grimoire)**: Animate (Sand), Dominate (Serpent), Form/Set (Sand),
 Shapechange (Human to Serpent).
 
-Heroic Abilities: Immunity to Poison; Reincarnate as Black Snake.
+**Heroic Abilities**: Immunity to Poison; Reincarnate as Black Snake.
 
+#### Membership
 
-
-
-214
-
-         Membership
-Novice
+##### Novice
 Novices must allow themselves to be bitten by one of the order's feared Grey Mambas. Those
 who survive are permitted membership!
 
-Apprentice
+##### Apprentice
 Apprentices must have five of the order skills at 30% at least and must have killed at least one foe
 of the cult using poison or one of the cult's Sorcery spells.
 
-Adept
+##### Adept
 Adepts must have five of the order skills at 50% at least and the Immunity to Poison Heroic
 Ability.
 
-Mage
+##### Mage
 Magi of the order must have five of the order skills at 75% and the Black Snake Reincarnation
 Secret.
 
-Order Skills
+#### Order Skills
 The order offers training in: Craft (Poison), Resilience, Stealth, Any Dagger style, Any Bow style,
 Sorcery (Black Serpent Grimoire) and Manipulation.
 
 
-Guild of Assassins
+### Guild of Assassins
 Go down a certain street in a certain desert town and knock on the white door. An old man
 will greet you, offer you mint tea, and talk with you for a time. Tell him your woes and your
 troubles, and describe to him certain individuals who have caused you distress. He will listen
@@ -9042,12 +8874,7 @@ man will hand you a pebble. If it is black, then nothing more will happen but if
 those troublesome individuals will die - and the old man will find you, someday, and demand
 payment for these deaths.
 
-
-
-
-                                                                                                    215
-
-       The Assassin's Guild are not a band of hired thugs or murderers. They are adjusters on the scales
+The Assassin's Guild are not a band of hired thugs or murderers. They are adjusters on the scales
 of life, weighing one man's virtues against another. Would the city be better off if the young
 prince ruled instead of the old king? Which priestess should lead the temple? They only kill if
 their victim deserves death according to their cryptic methodology.
@@ -9055,84 +8882,76 @@ their victim deserves death according to their cryptic methodology.
 At the lower ranks of the guild, the Assassins are willing to employ thieves, rogues and Adventurers
 as assassins; however, only those dedicated to the cause of death may ascend to the higher ranks.
 
-Common Magic: Bandit's Cloak, Boon of Lasting Night, Coordination, Detect Enemy,
+**Common Magic**: Bandit's Cloak, Boon of Lasting Night, Coordination, Detect Enemy,
 Mindspeech, Hand of Death
 
-Heroic Abilities: Dead Eye, Severing Slash, Wall Leaping
+**Heroic Abilities**: Dead Eye, Severing Slash, Wall Leaping
 
-Membership
-Novice
+#### Membership
+
+##### Novice
 Novices must kill a target of the guild without question or hesitation.
 
-Apprentice
+##### Apprentice
 Apprentices must have five of the guild skills at 30% at least and must make themselves available
 for one mission per year.
 
-Journeymen
+##### Journeymen
 Journeymen assassins must have five of the guild skills at 50% at least. They must be available
 for one mission per three months.
 
-Masters
+##### Masters
 Master Assassins must have five of the guild skills at 75% and at least one of the three Heroic
 Abilities taught by the guild. They must spend at least six months of the year in residence at one
 of the guild's secret strongholds.
 
-Grand Master
+##### Grand Master
 The Grand Master must have at least five of the guild skills at 90% and obtain all three of the
 Heroic Abilities. The Grand Master dwells in the guild's headquarters.
 
-Guild Skills
+#### Guild Skills
 The guild offers training in: Craft (Poison), Resilience, Stealth, Any Dagger style, Any Bow style,
 Sorcery (Black Serpent Grimoire) and Manipulation.
 
 
-
-
-216
-
-         Alaric's Tale - Cult of the Thunderer
-Alaric dwells in the Gloamwood amid barbaric tribes.
-
-At the age of 21 all warriors of the tribe are expected to become initiates of the Thunderer cult
-and Alaric is no exception. On his 21st birthday he is taken into the tribe's most sacred shrine
-where he must undergo certain testing rituals - of his courage, his magic and his understanding
-of the Thunderer.
-
-The cult skills are Spear fighting, Lore (The Thunderer), Evade, Perception and Common
-Magic. Alaric has each of these skills at more than 30% and so passes the tests involving his skills.
-
-Next is his commitment to the cult: this is sealed through Alaric establishing a Pact with the
-Thunderer. In a deeply mystical ceremony Alaric is tested with fire and words and, in the final
-act, ascends the bare hill above the shrine to stand and glory in the full force of an oncoming
-storm. This rite creates the Pact (the Thunderer) and Alaric's player enters this onto his character
-sheet. Alaric dedicates 4 POW to the Pact, making his Pact (The Thunderer) 14% (CHA + 4
-dedicated POW). He is now an initiate of the cult and bound by its teachings.
-
-The benefits Alaric derives from his cult are as follows:
-
-*	 Alaric can learn the cult's Divine Magic spells and cast them at Lore (The Thunderer) 52%.
-  The inherent Magnitude for any Divine Spell he casts is equal to his Pact divided by 10 and
-  rounded up, so Alaric's Divine Spells will have a Magnitude of 2. As his Pact deepens, so will
-  the potency of his Divine Magic. He can also pray for up to four Divine Spells - the amount
-  of his POW dedication. Alaric learns, through his initiation and later progress in the cult,
-  Lightning Strike, Shield, Bless (Spear & Shield) and Channel Strength.
-
-*	 He can gain access to training in the cult's skills at a much reduced cost with dedicated
-  teachers. The cult also specialises in several Common Magic spells, which again Alaric can
-  learn at reduced cost and with dedicated teachers.
-
-*	 Most importantly, Alaric has the support of the entire cult behind him. As an Initiate he
-  will be expected to work long and hard for the cult but in return he will be able to call
-  upon colleagues and fellow cultists for help or advice. Furthermore, initiation into the cult
-  marks Alaric as a warrior within the tribe and this is a moment of great pride for the young
-  Adventurer.
+> Alaric's Tale - Cult of the Thunderer
+> Alaric dwells in the Gloamwood amid barbaric tribes.
+> 
+> At the age of 21 all warriors of the tribe are expected to become initiates of the Thunderer cult
+> and Alaric is no exception. On his 21st birthday he is taken into the tribe's most sacred shrine
+> where he must undergo certain testing rituals - of his courage, his magic and his understanding
+> of the Thunderer.
+> 
+> The cult skills are Spear fighting, Lore (The Thunderer), Evade, Perception and Common
+> Magic. Alaric has each of these skills at more than 30% and so passes the tests involving his skills.
+> 
+> Next is his commitment to the cult: this is sealed through Alaric establishing a Pact with the
+> Thunderer. In a deeply mystical ceremony Alaric is tested with fire and words and, in the final
+> act, ascends the bare hill above the shrine to stand and glory in the full force of an oncoming
+> storm. This rite creates the Pact (the Thunderer) and Alaric's player enters this onto his character
+> sheet. Alaric dedicates 4 POW to the Pact, making his Pact (The Thunderer) 14% (CHA + 4
+> dedicated POW). He is now an initiate of the cult and bound by its teachings.
+> 
+> The benefits Alaric derives from his cult are as follows:
+> 
+> * Alaric can learn the cult's Divine Magic spells and cast them at Lore (The Thunderer) 52%.
+>   The inherent Magnitude for any Divine Spell he casts is equal to his Pact divided by 10 and
+>   rounded up, so Alaric's Divine Spells will have a Magnitude of 2. As his Pact deepens, so will
+>   the potency of his Divine Magic. He can also pray for up to four Divine Spells - the amount
+>   of his POW dedication. Alaric learns, through his initiation and later progress in the cult,
+>   Lightning Strike, Shield, Bless (Spear & Shield) and Channel Strength.
+> * He can gain access to training in the cult's skills at a much reduced cost with dedicated
+>   teachers. The cult also specialises in several Common Magic spells, which again Alaric can
+>   learn at reduced cost and with dedicated teachers.
+> * Most importantly, Alaric has the support of the entire cult behind him. As an Initiate he
+>   will be expected to work long and hard for the cult but in return he will be able to call
+>   upon colleagues and fellow cultists for help or advice. Furthermore, initiation into the cult
+>   marks Alaric as a warrior within the tribe and this is a moment of great pride for the young
+>   Adventurer.
 
 
 
-
-                                                                                                     217
-
-                                         heroic abilities
+# Heroic Abilities
 
 What separates a hero from an Adventurer?
 
@@ -9148,11 +8967,11 @@ and actions.
 Gaining a Heroic Ability is not as simple as training in a skill or buying a spell. Heroic Abilities
 need to be earned and usually in one of the following ways:
 
-*	 Attaining a certain rank, usually Level 3 or Level 4, in a faction.
-*	 Undertaking epic or heroic quests, either as part of cult business or some other endeavour
-decided by the Games Master.
-*	 Studying with another hero - learning from them, emulating them and, eventually,
-developing a similar technique.
+* Attaining a certain rank, usually Level 3 or Level 4, in a faction.
+* Undertaking epic or heroic quests, either as part of cult business or some other endeavour
+  decided by the Games Master.
+* Studying with another hero - learning from them, emulating them and, eventually,
+  developing a similar technique.
 
 At their simplest, Heroic Abilities are gained once an Adventurer has accrued enough Hero
 Points to buy one. However, this should never be the sole criteria for gaining a Heroic Ability.
@@ -9177,9 +8996,7 @@ fully within his rights to insist on the Adventurer proving himself in some fash
 Heroic Ability is taught.
 
 
-218
-
-         Using Heroic Abilities
+## Using Heroic Abilities
 The description of the ability indicates how it is used in game play. However, invoking a Heroic
 Ability always costs the Adventurer one Magic Point whenever it is used. Although Heroic
 Abilities are not magical powers, they are, to some extent, fuelled by the same reserves that
@@ -9195,20 +9012,21 @@ has the Magic Points to do so and as long as the ability's effects do not leave 
 (through fatigue, for instance).
 
 
-Heroic Abilities Described
-Arrow Cutting
-Requirements: DEX 15 or higher, any Close Combat Style at 90% or higher
-Hero Points: 10
-Duration: A number of melee rounds equal to CON
+## Heroic Abilities Described
+
+### Arrow Cutting
+**Requirements**: DEX 15 or higher, any Close Combat Style at 90% or higher
+**Hero Points**: 10
+**Duration**: A number of melee rounds equal to CON
 
 Your reactions are preternatural, allowing you to parry missile attacks with melee weapons
 instead of being limited to a shield.
 
 
-Awesome Smash
-Requirements: STR 15 or higher, any unarmed or bludgeon Weapon Style at 90% or higher
-Hero Points: 12
-Duration: One melee attack
+### Awesome Smash
+**Requirements**: STR 15 or higher, any unarmed or bludgeon Weapon Style at 90% or higher
+**Hero Points**: 12
+**Duration**: One melee attack
 
 Invoked whilst wielding a bludgeoning weapon or using Unarmed combat, you cause an
 automatic knockback of one metre per two points of rolled damage before it is reduced by
@@ -9216,10 +9034,10 @@ parrying, armour or magic. If the victim strikes any obstacle they smash into it
 automatically receive the attacker's Damage Bonus to a random location, ignoring any protection.
 
 
-Battle Fury
-Requirements: CON 15 or higher, any Close Combat Style at 90% or higher
-Hero Points: 12
-Duration: A number of melee rounds equal to CON
+### Battle Fury
+**Requirements**: CON 15 or higher, any Close Combat Style at 90% or higher
+**Hero Points**: 12
+**Duration**: A number of melee rounds equal to CON
 
 You are a terrible foe on the battlefield, as fearsome and unstoppable as a raging wild boar. You
 can enter a Battle Fury as a Combat Action. While in a Battle Fury, you automatically succeed
@@ -9228,14 +9046,10 @@ succeed in any Persistence roll when resisting mental or emotional attacks. Upon
 Fury, you automatically gain three levels of Fatigue.
 
 
-
-
-                                                                                                     219
-
-       Born to the Saddle
-Requirements: POW 15 or higher, Riding 90% or higher
-Hero Points: 8
-Duration: Until the terrain or situation has been cleared, or if in combat, a number of melee
+### Born to the Saddle
+**Requirements**: POW 15 or higher, Riding 90% or higher
+**Hero Points**: 8
+**Duration**: Until the terrain or situation has been cleared, or if in combat, a number of melee
 rounds equal to CON
 
 Sitting in the saddle is more natural to you than walking. Each time this ability is invoked you
@@ -9243,10 +9057,10 @@ may ignore any and all riding based situational modifiers for terrain or the mou
 In addition you may use your Riding skill instead of your Evade skill when evading missiles.
 
 
-Dead Eye
-Requirements: DEX 15 or higher, any ranged Weapon skill at 90% or higher
-Hero Points: 10
-Duration: One missile attack
+### Dead Eye
+**Requirements**: DEX 15 or higher, any ranged Weapon skill at 90% or higher
+**Hero Points**: 10
+**Duration**: One missile attack
 
 Your accuracy with either thrown or projected missile weapons (whichever type you have mastery
 in) is the stuff of legends. Invoking this ability allows you to increase the range of your chosen
@@ -9254,53 +9068,49 @@ type of missile weapons by 50% and if you successfully hit you may automatically
 location struck - permitting you to bypass the effects of anything less than total cover.
 
 
-Defiant Leap
-Requirements: STR 15 or higher, Athletics 90% or higher
-Hero Points: 10
-Duration: One extraordinary jump
+### Defiant Leap
+**Requirements**: STR 15 or higher, Athletics 90% or higher
+**Hero Points**: 10
+**Duration**: One extraordinary jump
 
 You are able to defy gravity when performing a single vertical or horizontal jump. You may roll
 your Damage Bonus and add this value in metres to the distance achieved.
 
 
-Deflecting Parry
-Requirements: DEX 15 or higher, any Close Combat Weapon Style at 90% or higher
-Hero Points: 10
-Duration: One parry
+### Deflecting Parry
+**Requirements**: DEX 15 or higher, any Close Combat Weapon Style at 90% or higher
+**Hero Points**: 10
+**Duration**: One parry
 
 You may increase the size of your parrying weapon or shield by two steps for a single parry. This
 might allow an unarmed defender to ward off a halberd, or the user of a buckler to deflect a
 mounted lance attack.
 
 
-Disease Immunity
-Requirements: CON 15 or higher, Resilience 70% or higher
-Hero Points: 8
-Duration: Continuous - body automatically burns 1 Magic Point when it is infected
+### Disease Immunity
+**Requirements**: CON 15 or higher, Resilience 70% or higher
+**Hero Points**: 8
+**Duration**: Continuous - body automatically burns 1 Magic Point when it is infected
 
 You are immune to all normal diseases. Each time you are exposed to a disease, your body
 unconsciously invokes this ability and purges the infection. Magical diseases will still affect you,
 though you gain a +20% bonus to tests to resist them.
 
 
-
-
-220
-
-         Duellist
-Requirements: DEX 15 or higher, any 1H Combat Style at 90% or higher
-Hero Points: 10
-Duration: One melee round
+### Duellist
+**Requirements**: DEX 15 or higher, any 1H Combat Style at 90% or higher
+**Hero Points**: 10
+**Duration**: One melee round
 
 Mastery of your chosen duelling weapon allows you, for brief moments, to react with blinding
 speed. As a free act you can invoke this ability to grant yourself a single extra Combat Action for
 that round. This extra CA may only be used for attacks or parries.
 
 
-Empathic Wound
-Requirements: POW 15 or higher, Influence skill at 90% or higher
-Hero Points: 10
-Duration: One injury
+### Empathic Wound
+**Requirements**: POW 15 or higher, Influence skill at 90% or higher
+**Hero Points**: 10
+**Duration**: One injury
 
 One of the more unusual of the Heroic Abilities, Empathic Wound is a dangerous and taxing
 ability and is normally only used by those who shun or forswear violence. When invoked, any
@@ -9309,10 +9119,10 @@ torture, stuck by a weapon, or targeted by a spell. Your inviolate sanctity caus
 psychosomatically or mystically suffer the exact same effects of any damage caused to you.
 
 
-Heroic Aura
-Requirements: CHA 15 or higher, Influence skill at 90% or higher
-Hero Points: 12
-Duration: One melee round
+### Heroic Aura
+**Requirements**: CHA 15 or higher, Influence skill at 90% or higher
+**Hero Points**: 12
+**Duration**: One melee round
 
 Your presence is not only heartening to your comrades, you are also a shining example to others.
 You may take a Combat Action to bolster all allies within your CHA in metres with your
@@ -9320,11 +9130,11 @@ presence, either gaining your CHA as a bonus to any Persistence or Resilience te
 called upon to make, or as a bonus to all Combat Styles for the remainder of the Combat Round.
 
 
-Linguist
-Requirements: INT 15 or higher, two Language skills (aside from your native tongue) at 50%
+### Linguist
+**Requirements**: INT 15 or higher, two Language skills (aside from your native tongue) at 50%
 or higher
-Hero Points: 8
-Duration: Several hours
+**Hero Points**: 8
+**Duration**: Several hours
 
 Your study of languages has taught you the common roots of all tongues, allowing you to pick
 up new foreign languages with startling ease. Invoking this ability, you must either converse with
@@ -9334,14 +9144,10 @@ A successful Improvement roll when improving a Language skill doubles the skill 
 (roll 2D4+2 rather than 1D4+1).
 
 
-
-
-                                                                                                   221
-
-       Loremaster
-Requirements: INT 15 or higher, four Lore skills at 50% or higher
-Hero Points: 10
-Duration: One recall attempt
+### Loremaster
+**Requirements**: INT 15 or higher, four Lore skills at 50% or higher
+**Hero Points**: 10
+**Duration**: One recall attempt
 
 You are a font of knowledge, possessed of more learning than even you can readily remember.
 Any time you fail a Lore Skill Test, you are entitled to make an immediate Persistence test (with
@@ -9350,29 +9156,29 @@ relating to the subject at hand. Typically, this will reveal less information th
 test would have but it should still be enough to be of benefit to you.
 
 
-Mighty Blow
-Requirements: STR 15 or higher, any Close Combat Weapon Style at 90% or higher
-Hero Points: 10
-Duration: One melee attack
+### Mighty Blow
+**Requirements**: STR 15 or higher, any Close Combat Weapon Style at 90% or higher
+**Hero Points**: 10
+**Duration**: One melee attack
 
 You can increase the size of your weapon by two steps for a single attack. This helps the blow
 overwhelm any parry which intercepts it, allowing damage to penetrate.
 
 
-Poison Immunity
-Requirements: CON 15 or higher, Resilience 70% or higher
-Hero Points: 8
-Duration: Continuous - body automatically burns 1 Magic Point when it is poisoned
+### Poison Immunity
+**Requirements**: CON 15 or higher, Resilience 70% or higher
+**Hero Points**: 8
+**Duration**: Continuous - body automatically burns 1 Magic Point when it is poisoned
 
 You are immune to all normal poisons. Each time you are poisoned, your body unconsciously
 invokes this ability and purges the toxin. Magical poisons will still affect you, though you gain a
 +20% bonus to tests to resist them.
 
 
-Reincarnation
-Requirements: POW 15 or higher, Pact, Sorcery (Grimoire) 90% or higher
-Hero Points: 12
-Duration: One Use
+### Reincarnation
+**Requirements**: POW 15 or higher, Pact, Sorcery (Grimoire) 90% or higher
+**Hero Points**: 12
+**Duration**: One Use
 
 Upon death you are reincarnated as an animal or creature reflecting the runic affiliation or nature
 of your cult. Your physical Characteristics (STR, CON, SIZ and DEX) become those of the
@@ -9380,22 +9186,18 @@ creature you are reborn into but your INT, POW and CHA remain those of the Adven
 Heroic Ability does not require a Magic Point to use. It can only be used once and it is gone.
 
 
-
-
-222
-
-         Severing Slash
-Requirements: DEX 15 or higher, any cutting Weapon Style at 90% or higher
-Hero Points: 10
-Duration: One melee attack
+### Severing Slash
+**Requirements**: DEX 15 or higher, any cutting Weapon Style at 90% or higher
+**Hero Points**: 10
+**Duration**: One melee attack
 
 If wielding a cutting weapon, you can maximise its damage for a single blow.
 
 
-Sundering Strike
-Requirements: STR 15 or higher, any Close Combat Weapon Style at 90% or higher
-Hero Points: 12
-Duration: One melee attack
+### Sundering Strike
+**Requirements**: STR 15 or higher, any Close Combat Weapon Style at 90% or higher
+**Hero Points**: 12
+**Duration**: One melee attack
 
 You can smash or cleave an inanimate object with no harm to your weapon. Any damage you roll
 completely ignores the Armour Points of the object. Thus you could cut a chain, or smash a door
@@ -9403,19 +9205,19 @@ with a single blow. If attacking an opponent's weapon, you must succeed in the a
 or beat the opponent's level of success to successfully strike the parrying object.
 
 
-Tireless
-Requirements: CON 15 or higher, Athletics 90% or higher
-Hero Points: 8
-Duration: Special
+### Tireless
+**Requirements**: CON 15 or higher, Athletics 90% or higher
+**Hero Points**: 8
+**Duration**: Special
 
 Your stamina is Heroic, allowing you to continue fighting or working long after others drop from
 exhaustion. Each time you invoke this ability you reduce your Fatigue by one level.
 
 
-Wall Leaping
-Requirements: DEX 15 or higher, Acrobatics 90% or higher
-Hero Points: 10
-Duration: One round of running
+### Wall Leaping
+**Requirements**: DEX 15 or higher, Acrobatics 90% or higher
+**Hero Points**: 10
+**Duration**: One round of running
 
 Displaying incredible agility, you can run along or up walls for short distances to escape or gain
 a better position against an enemy. You may only use Wall Leaping if not Overloaded, Exhausted
@@ -9427,10 +9229,7 @@ perch) by the end of your last Combat Action in a round or fall.
 
 
 
-
-                                                                                                  223
-
-           gamesmastering legend
+# Gamesmastering Legend
 
 This chapter offers specific advice to Games Masters, both novice and veteran, on running
 Legend and getting the most out of it. It includes specific advice regarding key themes in Legend,
@@ -9444,7 +9243,7 @@ and how you want to develop your game should always take precedence. There are f
 this book that cannot be modified in some way and Games Masters are encouraged to tinker
 with, alter and ignore rules that do not fit their style of play or campaign objectives.
 
-Themes
+## Themes
 One of the hallmarks of Legend is the way in which certain themes are handled, both as part of
 the rules and during game play. The mechanics of the system engender a certain style of play
 that emphasises Adventurer development, skill-use and an approach to the wider community
@@ -9453,7 +9252,7 @@ are unimportant or wrong; more that Legend places a different emphasis on advent
 section examines themes Games Masters may wish to keep in mind when developing scenarios
 for play and then running them with players.
 
-Community
+### Community
 Community and relationships are integral to Legend. Adventurers do not exist in isolation; they
 have pasts, families, social and cultural groups they belong to or have belonged to and the rules
 encourage ongoing community interaction through the joining of cults.
@@ -9477,10 +9276,7 @@ thought for the communities that nurtured them. This is different in Legend. In 
 settings Adventurers remain within their communities and continue to serve them. Such local
 heroics are a key principle of Legend play. Grand quests are certainly important and concern the
 Adventurers but often a scenario or set of scenarios focus on serving the daily requirements of the
-
-                                                                                                     225
-
-       clan, tribe, village or town, with little financial reward as the incentive but the thanks and kudos
+clan, tribe, village or town, with little financial reward as the incentive but the thanks and kudos
 afforded by the community when the Adventurers are successful. Many very successful Legend
 campaigns have concerned the daily lives of the Adventurers, with dangerous quests, epic battles
 and dour foes being introduced sporadically, reflecting the more likely nature of such events.
@@ -9488,7 +9284,7 @@ As the Adventurers serve their communities, so they grow with them. Relationship
 their place in the community progresses and, eventually, those lowly Adventurers are chieftains,
 champions, lords and kings.
 
-Magic
+### Magic
 The availability of magic is reflected in the four magic systems presented in the Legend rules. In
 some settings, magic is ubiquitous with even the lowliest primitive having some magical charm
 that protects him or aids him in his life. Naturally not all fantasy settings rely on magic to such
@@ -9500,36 +9296,36 @@ world are distant, uncaring beings, Divine Magic might be non-existent or, at be
 Thought therefore needs to be given to the availability of magic and this depends on the setting.
 Some examples follow.
 
-*	 In gritty, Sword and Sorcery settings, only sorcery - which is seen as a dark and malevolent
-force - is available and then only to the few who are prepared to undergo its corrupting
-influence to attain it. Most people are fearful of magic and attempt to limit their exposure
-to it, for fear of what it might do to their immortal souls.
-*	   In High Fantasy settings Divine Magic and Sorcery may be available but only to certain
-races, cults or orders. Common Magic is not something the general populace is exposed to
-but it is present and worked by those who use it as a gateway to more refined powers.
-*	   Dark Fantasy settings, such as the Eternal Champion series, rely on magicians to be willing
-to bargain their very souls for magical power - although all kinds of magic are available to
-those willing to enter into such contracts. Magic is sinister, although not necessarily evil and
-Adventurers who use it are forever in jeopardy of losing their humanity as they use magic
-for whatever ends they have in mind.
+* In gritty, Sword and Sorcery settings, only sorcery - which is seen as a dark and malevolent
+  force - is available and then only to the few who are prepared to undergo its corrupting
+  influence to attain it. Most people are fearful of magic and attempt to limit their exposure
+  to it, for fear of what it might do to their immortal souls.
+* In High Fantasy settings Divine Magic and Sorcery may be available but only to certain
+  races, cults or orders. Common Magic is not something the general populace is exposed to
+  but it is present and worked by those who use it as a gateway to more refined powers.
+* Dark Fantasy settings, such as the Eternal Champion series, rely on magicians to be willing
+  to bargain their very souls for magical power - although all kinds of magic are available to
+  those willing to enter into such contracts. Magic is sinister, although not necessarily evil and
+  Adventurers who use it are forever in jeopardy of losing their humanity as they use magic
+  for whatever ends they have in mind.
 
-Quests
+### Quests
 Despite what has been said about community, Adventurers should find themselves engaged in
 quests - mundane and magical - for either the thrill of the adventure, to defeat a foe or to
 advance or protect their community's interests.
 
-Magical Quests
+#### Magical Quests
 Magical quests are a feature of Legend. Adventurers are likely to be engaged in magical quests in
 many ways, some of the most common being:
 
-*	   Finding a fabled treasure for the good of the community.
-*	   Aiding a sorcerer or other magician in creating a magical treasure through finding
-components.
-*	   Delving into a myth, dream or Otherworld experience, with a magical treasure or power
-as the prize.
-*	   Returning a magical treasure to its place of origin or a place of destruction, to avert doom
-of some form.
-*	   Seeking magical power to advance within a cult or for personal kudos/gain.
+* Finding a fabled treasure for the good of the community.
+* Aiding a sorcerer or other magician in creating a magical treasure through finding
+  components.
+* Delving into a myth, dream or Otherworld experience, with a magical treasure or power
+  as the prize.
+* Returning a magical treasure to its place of origin or a place of destruction, to avert doom
+  of some form.
+* Seeking magical power to advance within a cult or for personal kudos/gain.
 
 Magical quests by their nature usually involve much risk - either in the form of protective magic,
 powerful guardians or the nature of the treasure/quest itself. This is the reason for carefully considering
@@ -9537,9 +9333,7 @@ the place of magic in the setting. If magic is rare, then lower levels of magica
 as part of the quest: the Adventurers, being unfamiliar with magic largely, are likely to find any degree
 of magic daunting and need to counter it with mundane abilities, wits and ingenuity.
 
-226
-
-         If magic is commonplace, then higher and deeper levels of magic are likely to be necessary and
+If magic is commonplace, then higher and deeper levels of magic are likely to be necessary and
 the backing of a cult or sorcerous order is a prime requisite in completing the quest successfully.
 
 Whatever the basis, Legend is not a game that is littered with magical items to be found randomly
@@ -9550,7 +9344,7 @@ in the case of magical items or the objects of magical quests. Magical quests te
 affairs that have, at their heart, some measure of life-changing experience - even though the basic
 nature of the quest may appear to be mundane.
 
-Factions
+### Factions
 Guilds, factions and cults are an important part of Legend. Aside from the obvious advantages
 of access to magic, training and information, factions offer several benefits for Games Masters:
 
@@ -9578,7 +9372,7 @@ Future Legend supplements will develop the factions available - both for specifi
 generically - allowing Games Masters to take full advantage of the diversity of factions.
 
 
-A Good Story, Well Told
+## A Good Story, Well Told
 Legend is concerned very much with both storytelling and Adventurer development. The game
 mechanics for Legend, whilst being comprehensive and sophisticated, are intuitive enough to
 fade into the background of the game, intruding only when necessary to resolve a particular
@@ -9591,14 +9385,11 @@ sheet and rolling 1D100 or 1D20.
 What this means is that the game session can focus on developing a Good Story, Well Told. The
 game mechanics do not drive the story: the Adventurers do - and the bulk of the rules found
 in Legend are geared towards investment in the Adventurer: Characteristics, Attributes, Skills,
-Combat Styles, Magic and Cult details, each element is designed to invest in the Adventurer
-- not the player, Games Master or even the concepts of the game - and enable Adventurers to
+Combat Styles, Magic and Cult details, each element is designed to invest in the Adventurer - 
+not the player, Games Master or even the concepts of the game - and enable Adventurers to
 shine through as individuals, supported by elements that develop them as part of a group or team
 (community, once again). How well Adventurers develop along with the investments the game
-
-                                                                                                   227
-
-       system makes depends very much on the players but in Legend the rules are designed to work
+system makes depends very much on the players but in Legend the rules are designed to work
 with and for the Adventurers, aiding imagination, providing opportunity and diversity, rather
 than reducing either to a series of available or not available, on/off abilities and options.
 
@@ -9606,24 +9397,24 @@ For the Games Master this theme of storytelling and Adventurer focus means that 
 spending time with the players and taking an interest in how their Adventurers are created. Some
 tips to consider are:
 
-*	   Help players develop the community section of Adventurer Creation. Have in mind a
-common theme that all players can subscribe to and assist in developing close Adventurer
-relationships early-on. This establishes a sense of fraternity amongst the players and develops
-instant bonds before play begins.
-*	   Introduce factions and faction membership reasonably early. Cults are not something to be
-withheld until Adventurers reach a certain level; they exist to get Adventurers to a certain
-level. And, because factions in many settings for Legend are all around, it makes sense that
-faction membership will come sooner rather than later.
-*	   Encourage players to think about their skills when coming to make Improvement Rolls.
-It is natural to focus on skills for combat and magic but social and knowledge skills are
-equally important. Try to encourage diversity amongst the players but have them think 'in
-character' when choosing which skills to improve. Would a new initiate of a faction really
-seek to improve non-faction skills or would he, perhaps, focus on those skills that will
-help him gain status in the faction and prove his loyalty? Looking at these mechanics from
-a slightly different, Adventurer-driven perspective contributes to developing diverse and
-believable Adventurers.
+* Help players develop the community section of Adventurer Creation. Have in mind a
+  common theme that all players can subscribe to and assist in developing close Adventurer
+  relationships early-on. This establishes a sense of fraternity amongst the players and develops
+  instant bonds before play begins.
+* Introduce factions and faction membership reasonably early. Cults are not something to be
+  withheld until Adventurers reach a certain level; they exist to get Adventurers to a certain
+  level. And, because factions in many settings for Legend are all around, it makes sense that
+  faction membership will come sooner rather than later.
+* Encourage players to think about their skills when coming to make Improvement Rolls.
+  It is natural to focus on skills for combat and magic but social and knowledge skills are
+  equally important. Try to encourage diversity amongst the players but have them think 'in
+  character' when choosing which skills to improve. Would a new initiate of a faction really
+  seek to improve non-faction skills or would he, perhaps, focus on those skills that will
+  help him gain status in the faction and prove his loyalty? Looking at these mechanics from
+  a slightly different, Adventurer-driven perspective contributes to developing diverse and
+  believable Adventurers.
 
-Campaigns and Scenarios
+## Campaigns and Scenarios
 A scenario is a story, played through in one or several sessions of play. A campaign is a linked set
 of stories that may or may not have a definite conclusion. One way to differentiate between the
 two is to consider scenarios as short stories or chapters of a novel and a campaign as an anthology
@@ -9634,14 +9425,14 @@ lives of the Adventurers.
 The Games Master is responsible for presenting the scenario and campaign to the players.
 Scenarios tend to fall into one of the following categories:
 
-Published - A pre-written Legend scenario offered for sale or download, either as a one-off adventure
+**Published** - A pre-written Legend scenario offered for sale or download, either as a one-off adventure
 or a complete campaign. Published scenarios take a great deal of the preparatory work out of the
 Games Master's workload allowing play to begin swiftly. However, Games Masters still need to be
 familiar with the scenario's content, structure, themes and goals and it may be that the Games Master
 needs to adapt certain elements to fit with his existing campaign, play-style and so forth. If using a
 published scenario be prepared to adapt and change elements - perhaps substantial ones!
 
-Home-Written - Here, the Games Master writes the scenario, developing the plot, the
+**Home-Written** - Here, the Games Master writes the scenario, developing the plot, the
 Adventurers and creatures involved, events, encounters and so forth. Writing scenarios can
 be time-consuming but allows for the best fit of themes, play-style and plotting to fit with a
 campaign. The restrictions come in two forms: the amount of detail and time needed to be
@@ -9654,9 +9445,7 @@ or even replace those of the planned scenario. It is therefore quite often bette
 of a home-written scenario as loose and flexible as possible, making it easier to deal with the
 unexpected actions and decisions of the players.
 
-228
-
-         Scenario Seeds - A kernel of an idea, often perhaps no longer than a paragraph or a sentence, is
+**Scenario Seeds** - A kernel of an idea, often perhaps no longer than a paragraph or a sentence, is
 used as the basis of the adventure with the Games Master improvising the action and using stock,
 pre-generated or typical creature statistics, to support encounters. Handling a scenario seed is always
 a challenge since it requires the Games Master to think on his feet; however, the investment both
@@ -9667,7 +9456,7 @@ than if using a home-written or published scenario. This is improvisational stor
 However, irrespective of the nature of the scenario, there are some guidelines that benefit every
 Games Master and these follow.
 
-Campaign Planning
+### Campaign Planning
 A campaign is a series of linked scenarios and can be as long or as short as one needs them to
 be. Some campaigns last years, charting the full lives of the same Adventurers. Others are more
 episodic, ending at an agreed point and picked up again after several years of game time have
@@ -9680,13 +9469,13 @@ Published settings do a great deal of the background work for the Games Master b
 be to everyone's taste or style of play. Self-penned settings, whether historical or fantasy based,
 always require a great deal of work and research by the Games Master. Things to consider:
 
-*	   Historical or pure fantasy? If historical, then there is a wealth of material to draw upon, from
+* Historical or pure fantasy? If historical, then there is a wealth of material to draw upon, from
   encyclopaedias and text books through to historical settings from other game systems. The
   key thing will be to fit the Legend rules to the requirements of the setting, or be prepared
   to alter the historical context to accommodate the rules (magic is the prime consideration
   here: will your historical setting use magic and, if so, how is it rationalised and explained?
   How will it affect the nature of the world?
-*	   If you are creating your own fantasy world, then you have carte-blanche to create what
+* If you are creating your own fantasy world, then you have carte-blanche to create what
   you want but remember that most successful and convincing fantasy worlds function to a
   certain set of rules that help make them work and feel real. It is also tempting - and can be
   a great deal of fun - to mix lots of different fantasy elements into a single setting (magic,
@@ -9699,23 +9488,19 @@ Whatever the basis for the setting, be prepared to invest some time in its theme
 the kinds of stories it will generate. Taking the time to prepare will help the campaign develop
 into something memorable rather than something that fizzles out after a few sessions of play.
 
-Presenting the Scenario
+### Presenting the Scenario
 As Games Master it is your task to present the scenario to the players. How you handle this is
 a matter of personal style; some Games Masters like to have prepared notes concerning all the
 important things the Adventurers can see, hear and feel, whilst others prefer to focus on details
 concerning the story at hand. In time you will develop a style that is uniquely yours but, to assist
 in developing that style, some pointers for scenario presentation are as follows.
 
-Preparation: Some preparation is always necessary, although the degree of prep depends on the
+**Preparation**: Some preparation is always necessary, although the degree of prep depends on the
 Games Master's confidence, the nature of the scenario and the campaign and, more often than
 not, time. If using a published scenario you should have read it at least once and made notes on
 changes you need to make, based on what you know of the players and Adventurers, including,
 where necessary, amendments to encounter statistics to make the scenario rewarding but neither
-
-
-                                                                                                       229
-
-       too easy or too hard. If using your own material then notes on the general flow of the story,
+too easy or too hard. If using your own material then notes on the general flow of the story,
 encounters and so on will be necessary but need not be extensive. Bullet-points or one-line notes
 concerning the importance of a Non-Player Character, an event, encounter and so forth may be
 enough. It is common for the flow of play to determine which details need lengthy description
@@ -9723,7 +9508,7 @@ and what can be summarised in a simple sentence: very often, the areas where lot
 has been lavished are those that least require it - usually because the action leading up to that
 point has helped create a strong enough mental image in the players' minds.
 
-Statistics: It is not necessary to create, from scratch, monsters, creatures and Non-Player
+**Statistics**: It is not necessary to create, from scratch, monsters, creatures and Non-Player
 Characters. Use samples from published adventures if you do not have time to create your own
 but even then, it is not always necessary to roll the Characteristics for every single trollkin in a
 group of 20 - use the average value given in a creature's description, instead. Even then, you may
@@ -9736,45 +9521,42 @@ are needed for some reason, then there is nothing wrong with a little improvisat
 percentages you use reflect that nature of the creature and fit the general risk of the scenario. All
 creatures are different - just like Adventurers!
 
-Book Keeping
+### Book Keeping
 Keeping track of how Adventurers develop and progress is as important for the Games Master as
 the players. By keeping a note of Adventurer's key skills, their levels, magic and magnitudes and
 so forth, scenarios can be more easily tailored to the capabilities of the Adventurers, thus keeping
 them challenged and rewarded. Things Games Masters should note, in some form:
 
-*	   Gains or losses of possessions and equipment.
-*	   Community - parents, siblings, uncles and aunts: how many, where they live and who they
-are. Use this information for scenario inspiration and background colour. Rescuing a family
-member from peril is often far more emotionally rewarding than a random Non-Player
-Character invented for the sake for the scenario.
-*	   Training and mentoring - what have the Adventurers trained in recently? How was the
-relationship with the trainer? Does training come at something more than a financial cost?
-Do Adventurers need to prove what they have learned before more training is available?
-*	   Magic - how was magic improved or more spells learned? As with training, there may be an
-onus on the Adventurers to do something in return.
-*	   Major foes, rivals and enemies. Having recurring villains and antagonists helps bring a
-scenario to life and mirrors popular fiction and drama. Note also how the relationship with
-these antagonists changes with circumstances - a deadly foe might need to become an ally
-for a while, in certain circumstances.
-*	   Skills - what skills do the Adventurers routinely improve? How are they changing compared
-with other skills and the other adventurers? Games Masters might need to make suggestions
-for helping an Adventurer to remain balanced and some skills, particularly those related to
-cults, might need more attention than others.
+* Gains or losses of possessions and equipment.
+* Community - parents, siblings, uncles and aunts: how many, where they live and who they
+  are. Use this information for scenario inspiration and background colour. Rescuing a family
+  member from peril is often far more emotionally rewarding than a random Non-Player
+  Character invented for the sake for the scenario.
+* Training and mentoring - what have the Adventurers trained in recently? How was the
+  relationship with the trainer? Does training come at something more than a financial cost?
+  Do Adventurers need to prove what they have learned before more training is available?
+* Magic - how was magic improved or more spells learned? As with training, there may be an
+  onus on the Adventurers to do something in return.
+* Major foes, rivals and enemies. Having recurring villains and antagonists helps bring a
+  scenario to life and mirrors popular fiction and drama. Note also how the relationship with
+  these antagonists changes with circumstances - a deadly foe might need to become an ally
+  for a while, in certain circumstances.
+* Skills - what skills do the Adventurers routinely improve? How are they changing compared
+  with other skills and the other adventurers? Games Masters might need to make suggestions
+  for helping an Adventurer to remain balanced and some skills, particularly those related to
+  cults, might need more attention than others.
 
 If the campaign has truly engaged the players much of the book keeping will be collaborative as
 the scope of the campaign will be discussed between scenarios and game sessions. This is to be
 encouraged as it helps to maintain momentum and involvement. The players gain a true stake in
 their Adventurers, resulting in a richer, more rewarding experience.
 
-Risk
+### Risk
 How hard is the scenario for the Adventurers? If the dangers and encounters they face are too
 easy, then little challenge or threat is posed and the players may feel short-changed as a result.
 Although players like to succeed, few players want to have had an easy ride. Likewise, if the
 scenario is too tough, resulting in lots of wounds or Adventurer deaths, the players may feel
-
-230
-
-         hard-done by: success should not be a certainty but then again, neither should instant death: the
+hard-done by: success should not be a certainty but then again, neither should instant death: the
 scenario needs to balance risk.
 
 A reasonable way of approaching risk is to look at the skills of the Adventurers - combat and
@@ -9791,13 +9573,13 @@ using your own material, create the encounters at a suitable level.
 What constitutes a suitable level depends on the nature of the reward or objective of the scenario
 but, in general, use the following checklist:
 
-*	 Skills of enemies should not be more than 20% higher than the average opposing skills of
+* Skills of enemies should not be more than 20% higher than the average opposing skills of
   the Adventurers. Around a third of the creatures should be around 20% lower, representing
   easy challenges, one third about the same and one third 20% higher. Of course, particular
   Non-Player Characters may have much higher skills reflecting their status and position but
   think long and hard about whether or not such encounters will result in a conflict and, if
   so, what resources the Adventurers have to help them deal with it.
-*	   Consider what Combat Manoeuvres foes will use in combat ahead of the encounters. Might
+* Consider what Combat Manoeuvres foes will use in combat ahead of the encounters. Might
   they have favoured combinations or specialities? Do not rely on manoeuvres that inflict
   high amounts of damage - like Bypass Armour and Maximise Damage - all the time;
   think creatively about the encounter's aims, skills and nature; not all fights should end in
@@ -9806,89 +9588,76 @@ but, in general, use the following checklist:
   Knowing that the elves of Grimwood Forest always try to Pin Weapon as a first Combat
   Manoeuvre can assist the Adventurers in their own strategies and may encourage them to
   use different tactics for different foes.
-*	   Enemies should have roughly the same Magnitude of spells available to them as the
+* Enemies should have roughly the same Magnitude of spells available to them as the
   Adventurers. Challenging opponents may have a few extra Magnitude more but spread
   around different spells and effects. Thus, if the Adventurers tend to have an average
   Magnitude of 4 in typical Common Magic spells, an opponent might have Bladesharp 5 or
   6 but not Bladesharp 10.
 
-Scenario Aids
+## Scenario Aids
 This section provides some additional rules and reference materials to assist Games Masters in
 presenting and planning scenarios. None of these rules additions or the encounter tables are
 compulsory; they are here to act as inspiration and, when necessary, a fast way of providing
 colour, information or spurs for action.
 
-Weather
+### Weather
 Weather conditions can be of importance in any scenario. Some spells affect the weather or rely
 on certain kinds of weather for their effect; poor weather can inhibit travel or other activities.
 Weather therefore includes wind strength, cloud cover, temperature and rain (precipitation).
 
-Wind
+#### Wind
 Wind has an STR score, determining its effect on objects and the landscape. If a random wind
 STR is needed, roll 1D100 and divide the result by two, rounding up.
 
 Where a wind can disturb and carry loose material, which may affect visibility, the percentage
 reduction in visibility for Perception rolls and other skills relying on sight is half the wind's STR
 and equal to the wind's STR for using Perception to listen or scent something. A hurricane, for
-                                                                                                        231
-
-       example, reduces visibility (and Perception rolls) by a minimum of 23% for the purposes of sight
+example, reduces visibility (and Perception rolls) by a minimum of 23% for the purposes of sight
 but 46% for the purposes of hearing and scent.
 
-Cloud Cover
+#### Cloud Cover
 The amount of visible sky is determined by cloud cover. The cloud cover percentage also
 determines the percentage chance of rainfall in any six hour period. For randomly determined
 cloud cover, roll 1D100 and adjust by season:
 
-Spring	   +0
-Summer	   -20
-Autumn	   +10
+Spring	   +0  
+Summer	   -20  
+Autumn	   +10  
 Winter	   +20
 
 Rain scales of Very Heavy and above may cause local flooding, landslides and so forth, according
 to the terrain.
 
-Percentage of Cover       Scale of Cover         Rain Duration        Scale of Rain
-10 or less                None                   -                    -
-11 - 20                   Scant cloud            1D20 minutes         Very light (0-10mm)
-21 - 30                   Scattered cloud        10+1D20 minutes      Light (11-20mm)
-31 - 40                   Slightly Overcast      1D2 hours            Moderate (21-30mm)
-41 - 50                   Moderately Overcast    1D3 hours            Heavy (31-40mm)
-51 - 65                   Mostly Overcast        1D6 hours            Very Heavy (41-50mm)
-66 - 80                   Completely Overcast    1D8 hours            Monsoon (51-80mm)
-81 - 100+                 Storm clouds           1D12 hours           Deluge (81-100mm)
+| Percentage of Cover     | Scale of Cover       | Rain Duration      | Scale of Rain |
+|-------------------------|----------------------|--------------------|---------------|
+| 10 or less              | None                 | -                  | -             |
+| 11 - 20                 | Scant cloud          | 1D20 minutes       | Very light (0-10mm) |
+| 21 - 30                 | Scattered cloud      | 10+1D20 minutes    | Light (11-20mm) |
+| 31 - 40                 | Slightly Overcast    | 1D2 hours          | Moderate (21-30mm) |
+| 41 - 50                 | Moderately Overcast  | 1D3 hours          | Heavy (31-40mm) |
+| 51 - 65                 | Mostly Overcast      | 1D6 hours          | Very Heavy (41-50mm) |
+| 66 - 80                 | Completely Overcast  | 1D8 hours          | Monsoon (51-80mm) |
+| 81 - 100+               | Storm clouds         | 1D12 hours         | Deluge (81-100mm) |
 
-Wind Strength
-                                                                  Effect on Ranged
-Wind STR Wind Type                                                     Attacks
-01 - 03  Calm, with little air movement.                               0%
-04 - 07  Light air movement; leaves rustle and candles gutter          0%
-    but are no extinguished.
-08 - 12  Breeze; candles are extinguished.                             0%
-13 - 18  Light Wind. The lower limit for good sailing in a sail-       -5%
-    powered boat.
-19 - 24  Moderate Wind. Dangerous to flying creatures; many            -10%
-    take shelter or roost.
-25 - 30  Strong Wind. Humans may be knocked down. The                  -50%
-    wind's STR has a value of 3D6 which is applied as
-    though using Knockback from the Combat chapter.
-31 - 36  Gale. As previous but the wind's STR imparts 2D6+12           Impossible
-    Knockback.
-37 - 45  Strong Gale. Humans cannot remain standing.                   Impossible
-    Nothing less than SIZ 21 can remain standing upright.
-    All SIZ less than this are knocked-back 2D6 metres.
-46 - 50  Hurricane. Anything less than SIZ 50 is hurled into           Impossible
-    the air and suffers 1D6+6 damage to 1D6 locations.
+##### Wind Strength
+                                                                  
+| Wind STR | Wind Type | Effect on Ranged Attacks |
+|----------|-----------|--------------------------|
+| 01 - 03 | Calm, with little air movement. | 0% |
+| 04 - 07 | Light air movement; leaves rustle and candles gutter but are no extinguished. | 0% |
+| 08 - 12 | Breeze; candles are extinguished. | 0% |
+| 13 - 18 | Light Wind. The lower limit for good sailing in a sail- powered boat. | -5% |
+| 19 - 24 | Moderate Wind. Dangerous to flying creatures; many take shelter or roost. | -10% |
+| 25 - 30 | Strong Wind. Humans may be knocked down. The wind's STR has a value of 3D6 which is applied as though using Knockback from the Combat chapter. | -50% |
+| 31 - 36 | Gale. As previous but the wind's STR imparts 2D6+12 Knockback. | Impossible |
+| 37 - 45 | Strong Gale. Humans cannot remain standing. Nothing less than SIZ 21 can remain standing upright. All SIZ less than this are knocked-back 2D6 metres. | Impossible |
+| 46 - 50 | Hurricane. Anything less than SIZ 50 is hurled into the air and suffers 1D6+6 damage to 1D6 locations. | Impossible |
 
 
-
-
-232
-
-         Depending on the time of year and the ambient temperature, precipitation may well be snow rather
+Depending on the time of year and the ambient temperature, precipitation may well be snow rather
 than rain. If so, the Scale of Rain entries should be read as Snow Depth instead, and the value doubled.
 
-Travel and Encounters
+### Travel and Encounters
 Adventurers will, most likely, spend a good deal of their time travelling. Often it is enough to
 simply state 'after three uneventful days, you reach the outskirts of the city' but in many scenarios
 or stories, the journey is the story, with the method of travel and the things that happen whilst
@@ -9897,7 +9666,7 @@ travelling forming the core of the adventure.
 Encounter tables are provided for a variety of situations, useful for improvising or acting as the
 catalyst for a planned encounter.
 
-Getting There
+#### Getting There
 The cost of travel depends primarily upon the standard of living maintained. Adventurers
 travelling by land can, ostensibly, travel for free, provided they are willing to walk the entire
 distance, gather or kill their own food on the way and sleep beneath the bushes at night. Such a
@@ -9909,21 +9678,25 @@ for unencumbered Adventurers; but weather conditions, terrain, armour and other 
 inevitably reduce the rates of travel. There is no hard and fast rule on how local conditions will
 affect travel distances but use the following as a guide:
 
-Travel Conditions
-Travel Conditions                                              Reduce Movement Rate by...
-Weather
-Hot or humid day                                               One Quarter
-Heavy rain                                                     One Quarter
-Thunderstorm                                                   Half
-Gale                                                           Three Quarters
-Light snow                                                     One Quarter
-Medium snow                                                    Half
-Heavy snow                                                     Three quarters
-Terrain
-Rough terrain (few roads, lots of inclines and hills)          Half
-Inhospitable terrain (dense forests, deserts, mountains)       Three Quarters
+##### Travel Conditions
 
-Travel Costs
+| Weather                                                      | Reduce Movement Rate by... |
+|--------------------------------------------------------------|----------------------------|
+| Hot or humid day                                             | One Quarter                |
+| Heavy rain                                                   | One Quarter                |
+| Thunderstorm                                                 | Half                       |
+| Gale                                                         | Three Quarters             |
+| Light snow                                                   | One Quarter                |
+| Medium snow                                                  | Half                       |
+| Heavy snow                                                   | Three quarters             |
+
+| Terrain                                                      | Reduce Movement Rate by... |
+|--------------------------------------------------------------|----------------------------|
+| Rough terrain (few roads, lots of inclines and hills)        | Half                       |
+| Inhospitable terrain (dense forests, deserts, mountains)     | Three Quarters             |
+
+
+#### Travel Costs
 The costs for land travel on the Travel Expenses table assume the Adventurers are using one
 or more pack animals and are spending their nights in some kind of shelter. These costs are
 meant to be used as guidelines by the Games Master. There are a variety of factors that may
@@ -9938,23 +9711,24 @@ There are no variations in the costs given for different settlement sizes, as it
 travelling for any length of time will pass through hamlets, towns, cities and wilderness.
 
 
+##### Travel Expenses
+
+| Living Standard - Land     | Daily Cost            | Room and Board             | Total |
+|----------------------------|-----------------------|----------------------------|-------|
+| Poor                       | 6 CP                  | 3 CP                       | 9 CP  |
+| Common                     | 30 CP                 | 15 CP                      | 45 CP |
+| Superior                   | 14 SP                 | 7 SP                       | 21 SP |
+| Noble                      | 50 SP                 | 25 SP                      | 75 SP |
+
+| Living Standard - Water    | Daily Cost            | Room and Board             | Total |
+|----------------------------|-----------------------|----------------------------|-------|
+| Poor                       | 4 CP                  | 3 CP                       | 7 CP  |
+| Common                     | 20 CP                 | 15 CP                      | 35 CP |
+| Superior                   | 10 SP                 | 7 SP                       | 17 SP |
+| Noble                      | 35 SP                 | 25 SP                      | 60 SP |
 
 
-                                                                                                        233
-
-       Travel Expenses
-Living Standard              Daily Cost              Room and Board               Total
-Land
-Poor                         6 CP                    3 CP                         9 CP
-Common                       30 CP                   15 CP                        45 CP
-Superior                     14 SP                   7 SP                         21 SP
-Noble                        50 SP                   25 SP                        75 SP
-Water
-Poor                         4 CP                    3 CP                         7 CP
-Common                       20 CP                   15 CP                        35 CP
-Superior                     10 SP                   7 SP                         17 SP
-Noble                        35 SP                   25 SP                        60 SP
-Encounters
+#### Encounters
 Whilst many days may go by before a traveller encounters another soul, when that encounter happens,
 it might be significant. Travellers face the hazards of banditry but also fellow travellers or encounters
 made on the open road might be a source of news, information or even further adventures.
@@ -9963,121 +9737,113 @@ Use these encounters as random events to spice-up a period of travel, or as the 
 encounter leading up to the next crucial event in a story. The encounters are divided into terrain
 types but the Nature of Encounter table is common to all encounter tables.
 
-Urban and Road Encounters
-1D100        Result
-01           1D6 travelling nobles, each with an entourage of a further 1D6+1 servants,
-        advisers and so on.
-02           Solitary nobleman with his servant or squire.
-03           As for previous but travelling incognito or in disguise.
-04-05        2D10 servants of a noble but without the noble in question. Is he lost? Have they
-        killed him?
-06           Priest of a cult with an entourage of 1D6 servants, students or disciples.
-07           Solitary priest of a cult engaged on cult activity or business.
-08           Lone scholar, bard or minstrel, travelling to the next settlement.
-09-10        Sorcerer, priest or reasonably skilled magician with 1D4 disciples or students.
-11-14        1D4+1Warriors of some form; soldiers, militia, guard patrol and so on.
-15           As for previous but actively stopping and questioning travellers.
-16-17        Large (1D10+10) carts or wagons travelling as a merchant caravan.
-18-19        Small (2D10) carts or wagons travelling as a merchant caravan.
-20-25        1D4 peddlers or beggars who take the opportunity to plead for aid.
-26-27        Crafter travelling by cart to sell his wares at a market.
-28-29        Drover taking 1D6 x10 herd animals to market.
-30-35        Lone merchant or trader bearing his goods on his back.
-36-40        1D6+1Farmers on foot, going to or from their fields.
-41-55        As for previous but travelling by cart or wagon.
-56-65        1D8+2 pilgrims travelling to a shrine, temple or church, fervent in their views.
-66-90        A general sway of locals travelling to and from their business.
-91-95        Thief, pickpocket or bandit.
-96-00        Adventurers are lost; roll on the Rural Encounters table.
+##### Urban and Road Encounters
 
-Rural Encounters
-
-234
-
-         1D100   Result
-01-05   Lost - roll on the Urban and Road Encounters table.
-06      Lord of the nearest settlement with an entourage of 1D6+1 servants, including at
-     least one bodyguard.
-07      Holy man of the nearest town.
-08      1D4 Warriors from the nearest town.
-09      Townspeople travelling on local business.
-10      A town of 1D8 x1,000 people.
-11      Thief, pickpocket or bandit.
-12-14   1D6+1Farmers on foot, going to or from their fields.
-15-16   A trail that proves promising but leads to the Adventurers getting lost. See result
-     for 01-05.
-17-26   Fields filled with crops - useful for food.
-27-29   A village of 1D10 x20 people.
-30      A manor house or manse, surrounded by a small, peasant community of 1D10 x20
-     people.
-31-50   Open fields with grazing animals.
-51-55   As for previous but being tended by 1D4 herdsmen who may or may not
-     appreciate the intrusion.
-56-59   A large, wild herbivore.
-60      A large predator - hungry, perhaps.
-61-65   1D6 hunters, either hunting a herbivore or a predator.
-66-70   2D4 Local roughs out to cause mischief.
-71-75   1D6+1 Bandits or 1D4 highwaymen, lying in ambush - robbery their aim.
-76-80   A roaming band of 1D8+1 cut-throats and murders - robbery and murder their
-     aim.
-81-00   Lost - roll on the Wilderness Encounters.
-Wilderness Encounters
-1D100    Result
-01       Lost. Roll on the Rural Encounters table.
-02       1D6 travellers heading in the direction of a village.
-03-04    Cultivated fields with crops - useful for food.
-05       A village of 1D10 x20 people.
-06-10    Group of 1D6+3 primitives or nomads (family group).
-11       Clan of 2D10 x3 primitives or nomads.
-12       Primitive or nomadic shaman with an entourage of 1D6+1 followers, including
-      one warrior.
-13       A hermit who is a local seer, holy man or shaman.
-14-15    1D6+3 non-human nomads.
-16-18    1D6+1 Bandits.
-19-20    Hunting lodge. 30% chance it is occupied by 1D6 hunters, either hunting a
-      herbivore or a predator.
-21-30    Empty pasture.
-31-35    Open fields with grazing animals.
-36-45    As for previous but being tended by 1D4 herdsmen who may or may not appreciate
-      the intrusion.
-46-50    Fields populated by wild carnivores.
-51-60    Rough, dense forest.
-61-70    Scrublands with wild herbivores and a 30% chance of a hunting predator close by.
-71-75    As previous but with a 70% chance of a predator.
-76-80    A monster or huge, legendary predator, complete with nearby lair and a 20%
-      chance of prisoners.
-81-00    Lost. Roll on Wastelands table.
-Wastelands Encounters
+| 1D100             | Result |
+|-------------------|--------|
+| 01                | 1D6 travelling nobles, each with an entourage of a further 1D6+1 servants, advisers and so on. |
+| 02                | Solitary nobleman with his servant or squire. |
+| 03                | As for previous but travelling incognito or in disguise. |
+| 04-05             | 2D10 servants of a noble but without the noble in question. Is he lost? Have they killed him? |
+| 06                | Priest of a cult with an entourage of 1D6 servants, students or disciples. |
+| 07                | Solitary priest of a cult engaged on cult activity or business. |
+| 08                | Lone scholar, bard or minstrel, travelling to the next settlement. |
+| 09-10             | Sorcerer, priest or reasonably skilled magician with 1D4 disciples or students. |
+| 11-14             | 1D4+1 Warriors of some form; soldiers, militia, guard patrol and so on. |
+| 15                | As for previous but actively stopping and questioning travellers. |
+| 16-17             | Large (1D10+10) carts or wagons travelling as a merchant caravan. |
+| 18-19             | Small (2D10) carts or wagons travelling as a merchant caravan. |
+| 20-25             | 1D4 peddlers or beggars who take the opportunity to plead for aid. |
+| 26-27             | Crafter travelling by cart to sell his wares at a market. |
+| 28-29             | Drover taking 1D6 x10 herd animals to market. |
+| 30-35             | Lone merchant or trader bearing his goods on his back. |
+| 36-40             | 1D6+1 Farmers on foot, going to or from their fields. |
+| 41-55             | As for previous but travelling by cart or wagon. |
+| 56-65             | 1D8+2 pilgrims travelling to a shrine, temple or church, fervent in their views. |
+| 66-90             | A general sway of locals travelling to and from their business. |
+| 91-95             | Thief, pickpocket or bandit. |
+| 96-00             | Adventurers are lost; roll on the Rural Encounters table. |
 
 
-                                                                                           235
+##### Rural Encounters
 
-       1D100     Result
-01        A village of 1D10 x20 people.
-02        A hermit who is a local seer, holy man or shaman.
-03-05     1D6+1 Fur trappers or hunters.
-06-10     1D6+1 non-human but humanoid species, out on local business.
-11-70     2D8 wild herbivores. 30% chance of protecting their young.
-71-80     1D8 wild carnivores protecting their hunting territory.
-81-90     A monster or huge, legendary predator, complete with nearby lair and a 20%
-     chance of prisoners.
-91-95     Dangerous terrain - quicksand, rockfalls, pits or swamps.
-96-00     A magically potent foe: sorcerer, monster of heroic abilities and so on, with a
-     nearby lair.
+| 1D100     | Result |
+|-----------|--------|
+| 01-05     | Lost - roll on the Urban and Road Encounters table. |
+| 06        | Lord of the nearest settlement with an entourage of 1D6+1 servants, including at least one bodyguard. |
+| 07        | Holy man of the nearest town. |
+| 08        | 1D4 Warriors from the nearest town. |
+| 09        | Townspeople travelling on local business. |
+| 10        | A town of 1D8 x1,000 people. |
+| 11        | Thief, pickpocket or bandit. |
+| 12-14     | 1D6+1 Farmers on foot, going to or from their fields. |
+| 15-16     | A trail that proves promising but leads to the Adventurers getting lost. See result for 01-05. |
+| 17-26     | Fields filled with crops - useful for food. |
+| 27-29     | A village of 1D10 x20 people. |
+| 30        | A manor house or manse, surrounded by a small, peasant community of 1D10 x20 people. |
+| 31-50     | Open fields with grazing animals. |
+| 51-55     | As for previous but being tended by 1D4 herdsmen who may or may not appreciate the intrusion. |
+| 56-59     | A large, wild herbivore. |
+| 60        | A large predator - hungry, perhaps. |
+| 61-65     | 1D6 hunters, either hunting a herbivore or a predator. |
+| 66-70     | 2D4 Local roughs out to cause mischief. |
+| 71-75     | 1D6+1 Bandits or 1D4 highwaymen, lying in ambush - robbery their aim. |
+| 76-80     | A roaming band of 1D8+1 cut-throats and murders - robbery and murder their aim. |
+| 81-00     | Lost - roll on the Wilderness Encounters. |
 
-Nature of Encounter Table
-1D100     Result
-01-10     Extremely friendly and willing to impart important news or information to
-     Adventurers at no cost.
-11-30     As for previous but seeks payment of some kind (money, food, drink or protection).
-31-50     Friendly but with little to share save local gossip.
-51-60     Friendly but reticent. Influence rolls needed to gain information and payment of
-     some kind wanted.
-61-80     Neutral. Encounter is neither friendly nor hostile.
-81-85     Unfriendly. Encounter is angry for some reason and Influence rolls needed to turn
-     the situation into a Neutral encounter.
-86-90     As previous but Influence rolls are at -20%.
-91-95     Hostile. Influence rolls at -20% are needed to avoid a confrontation of some kind.
-96-00     Very Hostile. Encounter launches an unprovoked attack.
 
+##### Wilderness Encounters
+
+| 1D100  | Result |
+|--------|--------|
+| 01     | Lost. Roll on the Rural Encounters table. |
+| 02     | 1D6 travellers heading in the direction of a village. |
+| 03-04  | Cultivated fields with crops - useful for food. |
+| 05     | A village of 1D10 x20 people. |
+| 06-10  | Group of 1D6+3 primitives or nomads (family group). |
+| 11     | Clan of 2D10 x3 primitives or nomads. |
+| 12     | Primitive or nomadic shaman with an entourage of 1D6+1 followers, including one warrior. |
+| 13     | A hermit who is a local seer, holy man or shaman. |
+| 14-15  | 1D6+3 non-human nomads. |
+| 16-18  | 1D6+1 Bandits. |
+| 19-20  | Hunting lodge. 30% chance it is occupied by 1D6 hunters, either hunting a herbivore or a predator. |
+| 21-30  | Empty pasture. |
+| 31-35  | Open fields with grazing animals. |
+| 36-45  | As for previous but being tended by 1D4 herdsmen who may or may not appreciate the intrusion. |
+| 46-50  | Fields populated by wild carnivores. |
+| 51-60  | Rough, dense forest. |
+| 61-70  | Scrublands with wild herbivores and a 30% chance of a hunting predator close by. |
+| 71-75  | As previous but with a 70% chance of a predator. |
+| 76-80  | A monster or huge, legendary predator, complete with nearby lair and a 20% chance of prisoners. |
+| 81-00  | Lost. Roll on Wastelands table. |
+
+
+##### Wastelands Encounters
+
+| 1D100   | Result |
+|---------|--------|
+| 01      | A village of 1D10 x20 people. |
+| 02      | A hermit who is a local seer, holy man or shaman. |
+| 03-05   | 1D6+1 Fur trappers or hunters. |
+| 06-10   | 1D6+1 non-human but humanoid species, out on local business. |
+| 11-70   | 2D8 wild herbivores. 30% chance of protecting their young. |
+| 71-80   | 1D8 wild carnivores protecting their hunting territory. |
+| 81-90   | A monster or huge, legendary predator, complete with nearby lair and a 20% chance of prisoners. |
+| 91-95   | Dangerous terrain - quicksand, rockfalls, pits or swamps. |
+| 96-00   | A magically potent foe: sorcerer, monster of heroic abilities and so on, with a nearby lair. |
+
+
+##### Nature of Encounter Table
+
+| 1D100   | Result |
+|---------|--------|
+| 01-10   | Extremely friendly and willing to impart important news or information to Adventurers at no cost. |
+| 11-30   | As for previous but seeks payment of some kind (money, food, drink or protection). |
+| 31-50   | Friendly but with little to share save local gossip. |
+| 51-60   | Friendly but reticent. Influence rolls needed to gain information and payment of some kind wanted. |
+| 61-80   | Neutral. Encounter is neither friendly nor hostile. |
+| 81-85   | Unfriendly. Encounter is angry for some reason and Influence rolls needed to turn the situation into a Neutral encounter. |
+| 86-90   | As previous but Influence rolls are at -20%. |
+| 91-95   | Hostile. Influence rolls at -20% are needed to avoid a confrontation of some kind. |
+| 96-00   | Very Hostile. Encounter launches an unprovoked attack. |
 
