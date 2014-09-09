@@ -3134,7 +3134,7 @@ such as the Cure Disease or Cure Poison spells.
 These are samples of various diseases encountered during Legend play, to be used as they stand or
 as a template for Games Master designed infections.
 
-Creeping Chills
+#### Creeping Chills
 Carried by the dreaded, chaos-tainted beastmen, Creeping Chills is spread by skin contact
 although the skin must be broken (through a wound, for instance) for the disease to take hold.
 Beastmen sometimes smear their weapons in their own blood, spittle or excrement all of which
@@ -3143,154 +3143,146 @@ First, the victim feels a chilling numbness through his arms and legs, before th
 the whole body. As the chills spread, he is rendered partially incapacitated as per the following
 description.
 
-Application: Contact
-Onset time: 1D4 hours
-Duration: 1D6+1 weeks
-Resistance Time: Weekly. The first Resistance roll must be made at the end of the Onset Time,
+**Application**: Contact  
+**Onset time**: 1D4 hours  
+**Duration**: 1D6+1 weeks  
+**Resistance Time**: Weekly. The first Resistance roll must be made at the end of the Onset Time,
 then weekly thereafter. Successfully resisting the disease allows the Adventurer to avoid suffering
 the Conditions until the next roll must be made. Thus victims of Creeping Chills often appear
-to recover, only to suffer a later relapse.
-Potency: 50+ CON of Beastman carrying it.
-Resistance: Resilience.
-Conditions: Fever. If the Resistance roll fails the victim suffers shivering attacks, muscle ache
-and has all skills halved until the disease is cured.
-Antidote/Cure: Cure Disease spell. Creeping Chills is a magical disease, meaning that only the
+to recover, only to suffer a later relapse.  
+**Potency**: 50+ CON of Beastman carrying it.  
+**Resistance**: Resilience.  
+**Conditions**: Fever. If the Resistance roll fails the victim suffers shivering attacks, muscle ache
+and has all skills halved until the disease is cured.  
+**Antidote/Cure**: Cure Disease spell. Creeping Chills is a magical disease, meaning that only the
 Cure Disease spell can cure it.
 
-Rabies
+#### Rabies
 Carried by certain animals and transferred by a successful bite, rabies works on the brain,
 inflaming it and paralysing the throat. Victims begin with flu-like symptoms (muscle pains,
 coughing, fever) but within a few days the disease moves into its far more painful - and invariably
 fatal - phase.
 
-Application: Contact
-Onset time: 2D6 weeks
-Duration: 2D6 days
-Resistance Time: One Resistance roll
-Potency: 80
-Resistance: Resilience.
-Conditions: Hallucination, Mania (hydrophobia), Death. If the disease takes hold, the victim
+**Application**: Contact  
+**Onset time**: 2D6 weeks  
+**Duration**: 2D6 days  
+**Resistance Time**: One Resistance roll  
+**Potency**: 80  
+**Resistance**: Resilience.  
+**Conditions**: Hallucination, Mania (hydrophobia), Death. If the disease takes hold, the victim
 suffers increasingly acute and debilitating hallucinations. Halfway through the Duration, manic
 hydrophobia automatically sets-in as the victim's throat swells, the body dehydrates and it
 becomes physically painful to swallow water. At the end of the Duration, the victim mercifully
-slips into a coma and dies.
-Antidote/Cure: Cure Disease spell. Rabies is not a magical disease but its severity means there
+slips into a coma and dies.  
+**Antidote/Cure**: Cure Disease spell. Rabies is not a magical disease but its severity means there
 is no natural cure or antidote for it; healing magic is essential and must be administered prior to
 the conclusion of the disease.
 
 
-
-
-80
-
-         Soul Palsy
+#### Soul Palsy
 Carried by certain supernatural creatures, Soul Palsy deliberately targets the victim's soul, eroding
 Magic Points. The disease is usually contracted through inhaling the demonic breath of the
 supernatural monster carrying it.
 
-Application: Inhalation
-Onset time: 1D4 days
-Duration: 1D6 days
-Resistance Time: Daily. The first Resistance roll must be made at the end of the Onset Time,
-then daily thereafter.
-Potency: 65
-Resistance: Persistence.
-Conditions: Sapping. The Sapping condition saps 1D6 Magic Points if the daily Resistance roll
-is failed.
-Antidote/Cure: Either the Cure Disease spell, or by drinking water specially Sanctified by
+**Application**: Inhalation  
+**Onset time**: 1D4 days  
+**Duration**: 1D6 days  
+**Resistance Time**: Daily. The first Resistance roll must be made at the end of the Onset Time,
+then daily thereafter.  
+**Potency**: 65  
+**Resistance**: Persistence.  
+**Conditions**: Sapping. The Sapping condition saps 1D6 Magic Points if the daily Resistance roll
+is failed.  
+**Antidote/Cure**: Either the Cure Disease spell, or by drinking water specially Sanctified by
 a Priest of the victim's cult. The Sanctified water has a Potency of the Priest's Magic Points
 multiplied by five and it reduces the Potency of the Soul Palsy by this amount, either completely
 curing the disease or enabling the victim to better resist it.
 
 
-Sample Poisons
-Blade Venom
+### Sample Poisons
+
+#### Blade Venom
 Blade venom comes from many sources: poisons milked from venomous creatures and
 then treated further; toxic plants and herbs; or by alchemy perhaps. Typically blade venom
 is a sticky paste that is applied to a blade or spear/arrow head. It must be introduced
 through an open wound and once it takes effect, it inflicts a terrible burning pain in the
 injured location.
 
-Application: Injection
-Onset time: 1D3 Combat Rounds
-Duration: 2D6 minutes
-Resistance Time: One Resistance roll.
-Potency: 55.
-Resistance: Resilience.
-Conditions: Agony. If the victim fails his Resistance roll the poisoned location is incapacitated
-with pain. The effect continues until the Duration is completed.
-Antidote/Cure: Each specific blade venom usually has a counteracting agent, such as urine or
+**Application**: Injection  
+**Onset time**: 1D3 Combat Rounds  
+**Duration**: 2D6 minutes  
+**Resistance Time**: One Resistance roll.  
+**Potency**: 55.  
+**Resistance**: Resilience.  
+**Conditions**: Agony. If the victim fails his Resistance roll the poisoned location is incapacitated
+with pain. The effect continues until the Duration is completed.  
+**Antidote/Cure**: Each specific blade venom usually has a counteracting agent, such as urine or
 yoghurt, which soothes the pain. If the cure is applied successfully before the end of the Onset
 time then the blade venom is completely counteracted. Successful use of the Healing skill will
 also neutralise the pain.
 
-Potent Snake Venom
+#### Potent Snake Venom
 This venom is of the kind typically injected by a poisonous snake such as a cobra or similar.
 Fangs are used to inject a neurotoxin in a dose sufficient to kill within a few minutes. The
 potency of the venom is based on either the quantity injected or the concentration - meaning
 that small snakes with quite small venom glands can often introduce a small amount of venom
 that is every bit as harmful as a large dose from a larger snake.
 
-
-
-
-                                                                                                     81
-
-      Application: Injection
-Onset time: Nausia after 1D3 minutes, Paralysis after 3D6 minutes, Asphyxiation at conclusion
-Duration: 1 hour
-Resistance Time: The victim must make a Resistance roll at the Onset Time of each stage of the
-poison. Failure indicates that Condition has taken effect.
-Potency: 80
-Resistance: Resilience
-Conditions: Nausea, Paralysis, Asphyxiation. The venom initially causes the victim to start
+**Application**: Injection  
+**Onset time**: Nausia after 1D3 minutes, Paralysis after 3D6 minutes, Asphyxiation at conclusion  
+**Duration**: 1 hour  
+**Resistance Time**: The victim must make a Resistance roll at the Onset Time of each stage of the
+poison. Failure indicates that Condition has taken effect.  
+**Potency**: 80  
+**Resistance**: Resilience  
+**Conditions**: Nausea, Paralysis, Asphyxiation. The venom initially causes the victim to start
 feeling nauseous if the first Resistance roll is failed. The location bitten then suffers paralysis if
 the second Resistance roll is failed. At the end of the Duration the victim must succeed in a final
-Resistance roll or suffer respiratory failure.
-Antidote/Cure: Anti-venom. Some cultures have perfected anti-venom remedies which have a
+Resistance roll or suffer respiratory failure.  
+**Antidote/Cure**: Anti-venom. Some cultures have perfected anti-venom remedies which have a
 Potency of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing
 roll and add their Potency as a bonus to the victim's Resilience roll to fight the venom throughout
 its duration.
 
-Sleeping Draught
-Application: Ingestion
-Onset time: 1D8 minutes
-Duration: 2D6 hours
-Resistance Time: Hourly. The first Resistance roll must be made at the end of the Onset Time,
+
+#### Sleeping Draught
+
+**Application**: Ingestion  
+**Onset time**: 1D8 minutes  
+**Duration**: 2D6 hours  
+**Resistance Time**: Hourly. The first Resistance roll must be made at the end of the Onset Time,
 then hourly thereafter. Success indicates the victim has woken up but remains groggy for the
-remainder of the Duration.
-Potency: 75.
-Resistance: Resilience.
-Conditions: Unconscious. If the victim fails the Resistance roll he falls into a deep sleep remaining
+remainder of the Duration.  
+**Potency**: 75.  
+**Resistance**: Resilience.  
+**Conditions**: Unconscious. If the victim fails the Resistance roll he falls into a deep sleep remaining
 unconscious until he succeeds in resisting the draught, or the Duration expires. The victim awakes
-feeling groggy and lethargic, gaining a level of fatigue in addition to any already suffered.
-Antidote/Cure: The sap of the foxglove plant can protect against the effects of a sleeping
+feeling groggy and lethargic, gaining a level of fatigue in addition to any already suffered.  
+**Antidote/Cure**: The sap of the foxglove plant can protect against the effects of a sleeping
 draught if taken in advance of the poisoning. Otherwise, there is no method save magic that can
 counteract the effects.
 
 
-Falls
+### Falls
 Falling can happen for a number of reasons. Failed or fumbled Athletics rolls to climb or jump
 often result in falls and Knockback can easily knock an Adventurer off a precipice or over a
 parapet. An Adventurer that takes damage from a fall ends up prone. Armour Points do not
 reduce falling damage.
 
-Falling Distance
-Distance Fallen            Damage Taken
-1m or less                 No damage.
-2m to 5m                   1D6 points of damage to a random location.
-6m to 10m                  2D6 points of damage to two random locations.
-11 to 15m                  3D6 points of damage to three random locations.
-16m to 20m                 4D6 points of damage to four random locations.
-+5m                        +1D6 damage.
+##### Falling Distance
+
+| Distance Fallen          | Damage Taken |
+|--------------------------|--------------|
+| 1m or less               | No damage.   |
+| 2m to 5m                 | 1D6 points of damage to a random location. |
+| 6m to 10m                | 2D6 points of damage to two random locations. |
+| 11 to 15m                | 3D6 points of damage to three random locations. |
+| 16m to 20m               | 4D6 points of damage to four random locations. |
+| +5m                      | +1D6 damage. |
 
 A creature of SIZ 8 to 9 treats the distance fallen as one metre less. A creature of SIZ 6 to 7 treats
 the distance fallen as three metres less. A creature of SIZ 4 to 5 treats the distance fallen as five
-
-
-82
-
-         metres less. A creature of SIZ 2 to 3 treats the distance fallen as eight metres less. A creature of
+metres less. A creature of SIZ 2 to 3 treats the distance fallen as eight metres less. A creature of
 SIZ 1 or less treats the distance fallen as 10 metres less.
 
 As long as the Adventurer was not surprised, they may attempt an Acrobatics test to mitigate
@@ -3308,18 +3300,18 @@ with two inches of acid) will suffer the effects of the surface to all locations
 in the fall.
 
 
-Falling Objects
+### Falling Objects
 A falling object imparts an amount of damage based on its SIZ and the distance of the fall. An
 object imparts 1D6 damage for every six points of SIZ (or fraction thereof ), plus an amount of
 damage equal to the Damage Taken column of the Falling Distance chart on page 82 - including
 any adjustments for objects of smaller size.
 
-For example, an anvil with SIZ 10 inflicts 2D6 damage. If said anvil fell from a height of 10 metres,
-it would impart an additional 2D6 damage! If a small rock SIZ 1 was dropped from the same height,
-it would inflict 1D6 damage but would gain no extra damage from the fall.
+> For example, an anvil with SIZ 10 inflicts 2D6 damage. If said anvil fell from a height of 10 metres,
+> it would impart an additional 2D6 damage! If a small rock SIZ 1 was dropped from the same height,
+> it would inflict 1D6 damage but would gain no extra damage from the fall.
 
 
-Fire/Cold
+#### Fire/Cold
 Fire and intense heat can come from numerous sources, such as naked flames or super-heated
 metal.
 
@@ -3330,30 +3322,32 @@ amount of damage suffered from fire or heat will depend on its intensity, as sho
 and Heat table. The damage from the heat source is applied every Combat Round until the heat
 source is extinguished or removed, or the Adventurer manages to escape from it.
 
-Fire and Heat
-Damage Source         Example                                                    Damage
-Flame                 Candle                                                     1 point
-Large Flame           Flaming brand                                              1D4 points
-Small Fire            Camp fire, cooking fire                                    1D6 points
-Large Fire            Scolding steam, large bonfires, burning rooms              2D6 points
-Inferno               Lava, inside a blast furnace                               3D6 points
+##### Fire and Heat
+
+| Damage Source       | Example                                                  | Damage |
+|---------------------|----------------------------------------------------------|--------|
+| Flame               | Candle                                                   | 1 point |
+| Large Flame         | Flaming brand                                            | 1D4 points |
+| Small Fire          | Camp fire, cooking fire                                  | 1D6 points |
+| Large Fire          | Scolding steam, large bonfires, burning rooms            | 2D6 points |
+| Inferno             | Lava, inside a blast furnace                             | 3D6 points |
 
 Cold can be just as deadly, though generally harder to implement as a lethal weapon. If
 something is cold enough to cause damage, it will cause damage according to its intensity,
 just like fire or heat.
 
-                                                                                                     83
+##### Cold
 
-      Cold
-Damage Intensity          Example                                   Damage
-Chill                     A winter wind                             1 point
-Cold                      A frozen pond                             1D4 points
-Intense Cold              Ocean waves                               1D6 points
-Freezing                  Arctic Environment, summer                2D6 points
-Intensely Freezing        Arctic Environment, winter.               3D6 points
+| Damage Intensity        | Example                                 | Damage |
+|-------------------------|-----------------------------------------|--------|
+| Chill                   | A winter wind                           | 1 point |
+| Cold                    | A frozen pond                           | 1D4 points |
+| Intense Cold            | Ocean waves                             | 1D6 points |
+| Freezing                | Arctic Environment, summer              | 2D6 points |
+| Intensely Freezing      | Arctic Environment, winter.             | 3D6 points |
 
 
-Down Time
+## Down Time
 Down time is the period in between adventures when Adventurer spend their hours relaxing,
 training, carousing, researching, or simply getting on with their mundane lives. It is deliberately
 not a period that requires a Games Master to invest with any great detail but it can be interesting
@@ -3361,7 +3355,7 @@ and fun to find out what Adventurers have been up to in their down time and, per
 of their activities either as the basis for a scenario or to form part of one.
 
 
-Activities
+### Activities
 The Adventurers can get-up to countless activities during Down Time and they do not need to
 be specific about them unless they are associated with improving the Adventurer in some way, or
 might have a useful implication for further adventures.
@@ -3370,7 +3364,7 @@ If the Games Master (and players) want to know what happens to their adventurers
 Down Time and do not wish to fill in the blanks deliberately, here are some suggestions for
 common activities.
 
-Odd Jobs
+#### Odd Jobs
 The Adventurer takes on paid, part-time work using his skills as an Adventurer. The work is
 generally non-hazardous and relatively poorly paid. Either choose an odd job or roll randomly.
 To see how much the Adventurer earns, either decide how many days are spent in the odd job,
@@ -3383,7 +3377,7 @@ this indicates that the Adventurer was sacked from the job for some reason and p
 from the work.
 
 
-Cost of Living
+#### Cost of Living
 When not adventuring, Adventurers have living expenses like everyone else; food, rent, taxes,
 socialising and so forth. Of course, how much an Adventurer chooses to spend depends almost
 entirely on what they have available to spend. Living luxuriously to one Adventurer may seem
@@ -3394,42 +3388,41 @@ amount of money the Adventurer has available: 'luxury' to someone with only a fe
 their purse might be taking a bath once a week. To someone with several thousand, it might be
 taking a bath in ass's milk every day.
 
+##### Odd Job Table
+
+| 1D20      | Job                           | Payment per Day          | Notes |
+|-----------|-------------------------------|--------------------------|-------|
+| 1         | Bar Keep                      | 5 CP                     | Free lodging |
+| 2         | Bard/Busker                   | 1D8 CP                   |       |
+| 3         | Bodyguard                     | 1D4 SP                   | Free lodging |
+| 4         | Bouncer                       | 1D2 SP                   | Free drink |
+| 5         | Burglary                      | 1D100 SP                 |       |
+| 6         | Farmhand                      | 3 CP                     | Free lodging |
+| 7         | Gambler                       | 1D100 SP                 | Free set of dice or cards |
+| 8         | Grave Digger                  | 3 CP                     | Free shovel |
+| 9         | Hunter                        | 1D10 SP                  | Free food |
+| 10        | Librarian/Research Assistant  | 2 SP                     | May conduct personal research whilst working |
+| 11        | Local Politics                | 2D4 SP                   |       |
+| 12        | Manual Labourer               | 3 CP                     |       |
+| 13        | Militia Duty                  | 2 SP                     | Free food and lodging |
+| 14        | Odd-Jobber                    | 1D10 CP                  |       |
+| 15        | Rat Catcher/Pest Control      | 2D4 CP                   | Free net |
+| 16        | Rent Collector                | 2D4 CP                   |       |
+| 17        | Salesman                      | 1D4 SP                   |       |
+| 18        | Tax Collector                 | 1D6 SP                   |       |
+| 19        | Teacher                       | 8 CP                     | Free chalk and slate |
+| 20        | Temple Assistant              | 2 SP                     | Free lodging |
 
 
-84
+##### Standard of Living Table
 
-         Odd Job Table
-1D20        Job                         Payment per Day            Notes
-1           Bar Keep                    5 CP                       Free lodging
-2           Bard/Busker                 1D8 CP
-3           Bodyguard                   1D4 SP                     Free lodging
-4           Bouncer                     1D2 SP                     Free drink
-5           Burglary                    1D100 SP
-6           Farmhand                    3 CP                       Free lodging
-7           Gambler                     1D100 SP                   Free set of dice or cards
-8           Grave Digger                3 CP                       Free shovel
-9           Hunter                      1D10 SP                    Free food
-10          Librarian/Research          2 SP                       May conduct personal
-         Assistant                                              research whilst working
-11          Local Politics              2D4 SP
-12          Manual Labourer             3 CP
-13          Militia Duty                2 SP                       Free food and lodging
-14          Odd-Jobber                  1D10 CP
-15          Rat Catcher/Pest Control 2D4 CP                        Free net
-16          Rent Collector              2D4 CP
-17          Salesman                    1D4 SP
-18          Tax Collector               1D6 SP
-19          Teacher                     8 CP                       Free chalk and slate
-20          Temple Assistant            2 SP                       Free lodging
-
-
-Standard of Living Table
-Standard of Living                  Proportion of Personal Wealth spent
-Subsistence                         10%
-Within Means                        25%
-Comfortable                         50%
-Luxurious                           80%
-Ostentatious                        100% or more
+| Standard of Living                | Proportion of Personal Wealth spent |
+|-----------------------------------|-------------------------------------|
+| Subsistence                       | 10%                                 |
+| Within Means                      | 25%                                 |
+| Comfortable                       | 50%                                 |
+| Luxurious                         | 80%                                 |
+| Ostentatious                      | 100% or more                        |
 
 The amount spent on Cost of Living excludes any dues necessary to cults or guilds and are
 exclusive of training costs. Neither are the costs of specific weapons, armour or other individual
@@ -3440,10 +3433,7 @@ be deducted from each Adventurer's personal wealth and the remainder used to det
 standard of living enjoyed for the remainder of the Down Time.
 
 
-
-                                                                                                  85
-
-      Encumbrance
+## Encumbrance
 Despite their most fervent prayers, Adventurers will be unable to carry every last weapon, piece
 of armour and treasure chest they discover. There is a limit to what an Adventurer can carry and
 those who exceed this limit will not be able to move very quickly.
@@ -3458,54 +3448,52 @@ An Adventurer can carry equipment with a total ENC that is less than or equal to
 without penalty.
 
 
-Overloading
+### Overloading
 An Adventurer carrying total ENC greater than his STR+SIZ is Overloaded.
 
-*	   Overloaded Adventurers suffer a -20% penalty to all tests that require physical actions,
-including Weapon Skill Tests and most tests that have DEX or STR as a Characteristic
-(some exceptions being Sleight and Mechanisms).
-*	   Overloaded Adventurers have their Movement halved. They also suffer a -20% penalty to
-all Fatigue tests.
+* Overloaded Adventurers suffer a -20% penalty to all tests that require physical actions,
+  including Weapon Skill Tests and most tests that have DEX or STR as a Characteristic
+  (some exceptions being Sleight and Mechanisms).
+* Overloaded Adventurers have their Movement halved. They also suffer a -20% penalty to
+  all Fatigue tests.
 
 
-Healing
+## Healing
 Healing can come from a variety of sources: First Aid and Healing skills are obvious, as is magical
 healing in the form of spells: these healing forms are dealt with in their respective descriptions.
 However, Adventurers also heal naturally and the rate of natural healing is dependent on the
 Adventurer's Resilience.
 
 
-Natural Healing
+### Natural Healing
 The amount of Hit Points an Adventurer naturally regains is based on the Resilience value, as
 shown in the Natural Healing Table:
 
-Natural Healing Table
-Resilience Value                            Healing Rate
-01-10                                       1 Hit Point per 72 hours
-11-30                                       1 Hit Point per 48 hours
-31-50                                       1 Hit Point per 36 hours
-51-70                                       1 Hit Point per 24 hours
-71-90                                       1 Hit Point per 18 hours
-91+                                         1 Hit Point per 12 hours
+##### Natural Healing Table
+
+| Resilience Value                          | Healing Rate |
+|-------------------------------------------|--------------|
+| 01-10                                     | 1 Hit Point per 72 hours |
+| 11-30                                     | 1 Hit Point per 48 hours |
+| 31-50                                     | 1 Hit Point per 36 hours |
+| 51-70                                     | 1 Hit Point per 24 hours |
+| 71-90                                     | 1 Hit Point per 18 hours |
+| 91+                                       | 1 Hit Point per 12 hours |
 
 
+There are certain restrictions on natural healing, as follows:
 
-
-86
-
-         There are certain restrictions on natural healing, as follows:
-*	 An Adventurer cannot engage in anything other than light activity: if the Adventurer
- undertakes anything strenuous then the rate of healing is treated as one stage lower on the
- Natural Healing Table thus, an injured Adventurer with Resilience 44% heals at a rate of 1
- Hit Point every 36 hours. If he decided to assist his colleagues in defending the village from
- attack, his Healing Rate would drop to 1 Hit Point every 48 hours, for the duration of the
- time he engages in work related to the village's defence.
-
-*	   Natural healing will not heal a Major Wound until that location has either been treated
+* An Adventurer cannot engage in anything other than light activity: if the Adventurer
+  undertakes anything strenuous then the rate of healing is treated as one stage lower on the
+  Natural Healing Table thus, an injured Adventurer with Resilience 44% heals at a rate of 1
+  Hit Point every 36 hours. If he decided to assist his colleagues in defending the village from
+  attack, his Healing Rate would drop to 1 Hit Point every 48 hours, for the duration of the
+  time he engages in work related to the village's defence.
+* Natural healing will not heal a Major Wound until that location has either been treated
   with a successful Healing test (see page 60) or significant magical healing has been applied.
 
 
-Magical Healing
+### Magical Healing
 However magical healing is achieved, whether from a spell, prayer or potion, it has an
 instantaneous effect.
 
@@ -3520,7 +3508,7 @@ Unless specifically stated in the magic's description, magical healing cannot re
 limbs or revive the dead.
 
 
-Hero Points
+## Hero Points
 Hero Points are part of the currency of Legend. Hero Points allow Adventurers to differentiate
 themselves from the rank and file, using Hero Points earned to gain an advantage over opponents,
 find a way through tricky situations, or mitigate that killing blow that gets through even the best
@@ -3541,65 +3529,53 @@ these cases ad-hoc awards should be of a single Hero Point and no Adventurer sho
 from more than one such award per story.
 
 
+> Alaric's Tale
+> In a battle with a group of trolls, Thrace saves the day through a mixture of quick thinking, deft tactics
+> and mighty thrusts with his long spear. As his initiative saves the lives of Alaric and Lilina, the Games
+> Master makes him an immediate award of one Hero Point at the end of the combat. At the end of the
+> story's session and following more heroics from all three Adventurers, the Games Master awards each
+> of them two Hero Points.
 
 
-                                                                                                   87
-
-      Alaric's Tale
-In a battle with a group of trolls, Thrace saves the day through a mixture of quick thinking, deft tactics
-and mighty thrusts with his long spear. As his initiative saves the lives of Alaric and Lilina, the Games
-Master makes him an immediate award of one Hero Point at the end of the combat. At the end of the
-story's session and following more heroics from all three Adventurers, the Games Master awards each
-of them two Hero Points.
-
-
-
-
-Using Hero Points
+### Using Hero Points
 Hero Points can be used in a variety of ways. Each of the following options costs a single Hero
 Point. Once spent, a Hero Point is gone forever.
 
-Last Chance Combat Action: If an Adventurer has exhausted his Combat Actions during a fight
+**Last Chance Combat Action**: If an Adventurer has exhausted his Combat Actions during a fight
 and needs to find that last burst of desperate energy to perhaps avoid a messy end, he may spend
 a Hero Point to gain a Combat Action.
 
-Second Chance: A player can re-roll any Skill Test that affects his Adventurer. This can be a Skill
+**Second Chance**: A player can re-roll any Skill Test that affects his Adventurer. This can be a Skill
 Test, damage roll or anything else that has some effect on him. He can even force an opponent
 to re-roll an attack or damage roll made against him.
 
-For example Alaric is engaged in an opposed Skill Test with his great rival, Owain. Both are attempting
-to impress the fair Selena with their storytelling skills (using Influence). Owain has rolled a critical
-success, beating Alaric's normal success. Alaric thus spends a Hero Point forcing Owain to re-roll his
-Influence skill: the re-roll results in a failure for Owain and so Alaric wins the contest and impresses
-the giggling Selena through a last minute recollection of the heroic fight against the trolls...
+> For example Alaric is engaged in an opposed Skill Test with his great rival, Owain. Both are attempting
+> to impress the fair Selena with their storytelling skills (using Influence). Owain has rolled a critical
+> success, beating Alaric's normal success. Alaric thus spends a Hero Point forcing Owain to re-roll his
+> Influence skill: the re-roll results in a failure for Owain and so Alaric wins the contest and impresses
+> the giggling Selena through a last minute recollection of the heroic fight against the trolls...
 
-Glancing Blow: An Adventurer who suffers a Major Injury may spend a Hero Point to
+**Glancing Blow**: An Adventurer who suffers a Major Injury may spend a Hero Point to
 downgrade the wound to a Serious Injury. This reduces the damage taken to one Hit Point less
 than what would be required to inflict a Major Wound.
 
-Heroic Insight: A Hero Point may be spent to gain a hint or clue from the Games Master that
+**Heroic Insight**: A Hero Point may be spent to gain a hint or clue from the Games Master that
 helps the Adventurer resolve a situation that has him at an impasse.
 
-For example, Alaric is trapped within the troll's lair and can hear troll guards bearing down on him.
-Panicked by the situation, he is truly stuck for what to do next. Alaric spends a Hero Point for a Heroic
-Insight: the Games Master smiles and informs Alaric's player that, suddenly, he feels a vague draft of
-air against his cheek that could only have come from the crack of a concealed doorway. This prompts
-Alaric to search and he finds the exit just in time. The Heroic Insight has saved his life.
+> For example, Alaric is trapped within the troll's lair and can hear troll guards bearing down on him.
+> Panicked by the situation, he is truly stuck for what to do next. Alaric spends a Hero Point for a Heroic
+> Insight: the Games Master smiles and informs Alaric's player that, suddenly, he feels a vague draft of
+> air against his cheek that could only have come from the crack of a concealed doorway. This prompts
+> Alaric to search and he finds the exit just in time. The Heroic Insight has saved his life.
 
-Heroic abilities: The Adventurer may spend Hero Points to acquire a Heroic Ability he has
+**Heroic abilities**: The Adventurer may spend Hero Points to acquire a Heroic Ability he has
 qualified for. For more details see the Heroic abilities section on page 218.
 
 
-Fatigue
+## Fatigue
 Adventurers are usually hardy individuals but even the best of them are still just people,
 with limits to what they can physically achieve. The greatest warrior in the world may have
-
-
-
-
-88
-
-         phenomenal endurance but even he will not be able to run 10 miles to a besieged village and
+phenomenal endurance but even he will not be able to run 10 miles to a besieged village and
 then fight for three hours non-stop. As Adventurers engage in strenuous physical activity, they
 risk becoming Fatigued.
 
@@ -3609,15 +3585,15 @@ is determined by his CON, as detailed under each category of physical activity. 
 time has elapsed, an Adventurer must begin to make Skill Tests in order to resist the effects
 of exhaustion.
 
-*	   Light Activity: Includes travelling at a reasonable pace, casting spells or carrying light loads.
+* **Light Activity**: Includes travelling at a reasonable pace, casting spells or carrying light loads.
   Adventurers never risk Fatigue while engaging in light activity.
-*	   Medium Activity: Includes back-breaking manual labour, running, climbing or swimming.
+* **Medium Activity**: Includes back-breaking manual labour, running, climbing or swimming.
   An Adventurer can engage in medium activity for a number of minutes equal to his CON
   before risking Fatigue. Once this time has elapsed, the Adventurer must immediately make
   a Simple (+20%) Athletics test or begin suffering the effects of Fatigue. So long as the
   activity continues, he must make another Simple (+20%) Athletics test every time a number
   of minutes equal to the Adventurer's CON elapse.
-*	   Heavy Activity: Includes fighting in combat, sprinting, swimming and climbing
+* **Heavy Activity**: Includes fighting in combat, sprinting, swimming and climbing
   at top speed. An Adventurer can engage in heavy activity for a number of Combat
   Actions equal to his CON score before risking Fatigue. Once this time has elapsed, the
   Adventurer must immediately make a Normal (+0%) Athletics test or begin suffering
@@ -3631,54 +3607,36 @@ Great Library searching for clues, a Persistence test is required instead, as th
 counts as medium activity.
 
 
-Effects of Fatigue
+### Effects of Fatigue
 If an Adventurer fails a test whilst engaged in medium or heavy activity, he will begin to show
 Fatigue. Every time a Fatigue test is failed, the Adventurer will drop down one level of Fatigue,
 as shown on the Fatigue Levels table.
 
 
-Time and Fatigue
+### Time and Fatigue
 Adventurers, regardless of activity, will naturally tire. Once an Adventurer has been awake for
 10+CON hours, they must make a Persistence test or drop one Fatigue level. This test must be
 repeated for every hour the Adventurer remains awake.
 
 
-Recovering from Fatigue
+### Recovering from Fatigue
 An Adventurer will move up one level of Fatigue for every two hours of complete rest or four
 hours of light activity. A successful First Aid or Healing test can raise an Adventurer by one level
 of Fatigue once per day but cannot raise an Adventurer above Winded.
 
 
+##### Fatigue Levels
 
+| Level of Fatigue | Effects |
+|------------------|---------|
+| Fresh | None. |
+| Winded | All Skill Tests (including further tests to resist Fatigue) suffer a -10% penalty. |
+| Tired | All Skill Tests (including further tests to resist Fatigue) suffer a -20% penalty. Movement suffers a -1m penalty. |
+| Wearied | All Skill Tests (including further tests to resist Fatigue) suffer a -30% penalty. Movement suffers a -1m penalty. Strike Rank suffers a -2 penalty. |
+| Exhausted | All Skill Tests (including further tests to resist Fatigue) suffer a -40% penalty. Movement is halved. Strike Rank suffers a -4 penalty. DEX is considered 5 points lower for the purposes of determining Combat Actions. Adventurer must make a Persistence test every minute or fall unconscious for 1D3x2 hours. |
+| Debilitated | All Skill Tests (including further tests to resist Fatigue) suffer a -50% penalty. Movement is halved. Strike Rank suffers a -6 penalty. DEX is considered 10 points lower for the purposes of determining Combat Actions. Adventurer must make a Difficult Persistence test every Combat Round or fall unconscious for 1D6x2 hours. |
 
-                                                                                                      89
-
-      Fatigue Levels
-Level of Fatigue Effects
-Fresh            None.
-Winded           All Skill Tests (including further tests to resist Fatigue) suffer a -10%
-            penalty.
-Tired            All Skill Tests (including further tests to resist Fatigue) suffer a -20%
-            penalty. Movement suffers a -1m penalty.
-Wearied          All Skill Tests (including further tests to resist Fatigue) suffer a -30%
-            penalty. Movement suffers a -1m penalty. Strike Rank suffers a -2 penalty.
-Exhausted        All Skill Tests (including further tests to resist Fatigue) suffer a -40%
-            penalty. Movement is halved. Strike Rank suffers a -4 penalty. DEX
-            is considered 5 points lower for the purposes of determining Combat
-            Actions.
-
-              Adventurer must make a Persistence test every minute or fall unconscious
-              for 1D3x2 hours.
-Debilitated        All Skill Tests (including further tests to resist Fatigue) suffer a -50%
-              penalty. Movement is halved. Strike Rank suffers a -6 penalty. DEX is
-              considered 10 points lower for the purposes of determining Combat
-              Actions.
-
-              Adventurer must make a Difficult Persistence test every Combat Round or
-              fall unconscious for 1D6x2 hours.
-
-
-Exposure, Starvation and Thirst
+### Exposure, Starvation and Thirst
 Freezing cold wastes or crippling hot deserts can take a terrible toll on Adventurers, as can hunger
 and thirst.
 
@@ -3700,14 +3658,12 @@ healing will not heal this damage - only sufficient shelter, food or water can r
 and allow natural or magical healing to take place.
 
 
-Abstract Fatigue
+### Abstract Fatigue
 The standard Fatigue rules aim for a balance between realism and ease of play. However, at the
 Games Master's discretion, they can be still further simplified for players who find keeping track
 of elapsed rounds almost as tiresome as armed combat.
 
-90
-
-         The Games Master can simply call for a Simple (+20%) Athletics test after each major exertion
+The Games Master can simply call for a Simple (+20%) Athletics test after each major exertion
 by an Adventurer or antagonist. A major exertion might be: killing a foe, emptying a treasure
 chamber, fleeing a foe, withstanding a cavalry charge, mounting an infantry charge, swimming
 a rapid river, climbing a castle wall and so on. He should feel free to adjust the rhythm until he
@@ -3719,7 +3675,7 @@ Athletics test, the second and third a Normal (+0%) Athletics test, the fourth a
 The effects of abstract Fatigue are the same as those given in the regular rules.
 
 
-Inanimate Objects
+## Inanimate Objects
 Like Adventurers, inanimate objects - such as doors, walls, statues and so forth - can also sustain damage.
 
 All inanimate objects have Armour Points and Hit Points. Except for the most unusual of
@@ -3741,25 +3697,27 @@ successful roll inflicts the same damage as an Unarmed attack.
 The Inanimate Objects table gives a range of examples of inanimate objects, along with their
 Armour Points and Hit Points.
 
-Inanimate Objects
-Object                                          Armour Points                  Hit Points
-Boulder                                         10                             40
-Castle gate                                     8                              120
-Castle wall (2m section)                        10                             250
-Chain/shackle                                   8                              8
-Club                                            4                              4
-Dagger                                          6                              4
-Hut wall (2m section)                           3                              15
-Iron door                                       12                             75
-Rope                                            6                              3
-War sword                                       6                              10
-Wooden chair                                    2                              6
-Wooden door (normal)                            4                              25
-Wooden door (reinforced)                        6                              30
-Wooden fence (2m section)                       4                              5
-                                                                                                           91
+##### Inanimate Objects
 
-      Inanimate Objects and Weapons
+| Object                                        | Armour Points                | Hit Points |
+|-----------------------------------------------|------------------------------|------------|
+| Boulder                                       | 10                           | 40         |
+| Castle gate                                   | 8                            | 120        |
+| Castle wall (2m section)                      | 10                           | 250        |
+| Chain/shackle                                 | 8                            | 8          |
+| Club                                          | 4                            | 4          |
+| Dagger                                        | 6                            | 4          |
+| Hut wall (2m section)                         | 3                            | 15         |
+| Iron door                                     | 12                           | 75         |
+| Rope                                          | 6                            | 3          |
+| War sword                                     | 6                            | 10         |
+| Wooden chair                                  | 2                            | 6          |
+| Wooden door (normal)                          | 4                            | 25         |
+| Wooden door (reinforced)                      | 6                            | 30         |
+| Wooden fence (2m section)                     | 4                            | 5          |
+
+
+### Inanimate Objects and Weapons
 A weapon is designed to cleave flesh, not stone. Using a weapon on an inanimate object with
 Armour Points equal to or greater than that of the weapon, deals damage to both the object and
 the weapon. For instance, using a war sword on a boulder will certainly damage the boulder but
@@ -3772,7 +3730,7 @@ objects. For example, a warrior with a sword can easily slash through a rope but
 with a maul is likely to have a much harder time.
 
 
-Movement
+## Movement
 Standard human base Movement is eight metres per Combat Round at walking pace. If sprinting,
 the Movement rate is multiplied by five; however, an Adventurer can only maintain a sprint for
 a number of Combat Rounds equal to his CON before he must test for Fatigue.
@@ -3781,63 +3739,49 @@ The Comparative Movement table summarises typical distances covered, by creature
 base Movement rates, for a variety of time periods.
 
 
-Movement in Armour
+### Movement in Armour
 The armour an Adventurer wears acts against the Movement rate and certain kinds of actions
 such as swimming or climbing.
 
-Armour Penalty = Total Locations Armoured, divided by five and rounded up. Thus, a full suit of
-plate armour (6 AP on seven locations gives an Armour Penalty of 42/5 = -9)
+> Armour Penalty = Total Locations Armoured, divided by five and rounded up. Thus, a full suit of
+> plate armour (6 AP on seven locations gives an Armour Penalty of 42/5 = -9)
 
 The effects of Armour Penalty on an Adventurer's Movement are as follows:
 
-*	   Walking or gentle jogging: Armour does not interfere with such movement, although it
-can increase the Fatigue level (see page 90).
-
-
-
-
-92
-
-         *	   Sprinting: Multiply the base Movement by five and subtract the Armour Penalty. The result is how
+* **Walking or gentle jogging**: Armour does not interfere with such movement, although it
+  can increase the Fatigue level (see page 90).
+* **Sprinting**: Multiply the base Movement by five and subtract the Armour Penalty. The result is how
   fast the Adventurer can move during short chases, or when charging. For example, an Adventurer
   wearing full plate armour can sprint or charge at 31 metres per Combat Round.
-*	   Swimming: Divide the base Movement by two and subtract the Armour Penalty. If the
+* **Swimming**: Divide the base Movement by two and subtract the Armour Penalty. If the
   result is zero, the Adventurer cannot move and barely keeps himself afloat. If the Movement
   is negative, then the Adventurer sinks. For example, the Adventurer wearing full plate armour,
   with a -9 penalty, has a Swimming Movement of 4-9 = -5: the Adventurer will sink if he
   attempts to swim in his armour.
-*	   Climbing a rough surface (trees, steep hills and so on): The Armour Penalty is
+* **Climbing a rough surface** (trees, steep hills and so on): The Armour Penalty is
   subtracted from three quarters of the base Movement (six metres per Combat Action
   for human Adventurers). If the result is zero or less, they are too burdened by their
   armour to climb. Thus, our hero in his plate armour cannot climb as his Climbing
   movement is 6-9 = -3.
-*	   Climbing a sheer surface (walls, cliff faces and so on): The Armour Penalty is subtracted
+* **Climbing a sheer surface** (walls, cliff faces and so on): The Armour Penalty is subtracted
   from the base Movement divided by two. As with climbing a rough surface, if the result is
   zero or less, the Adventurer cannot climb.
-*	   Jumping: Reduce the distance in metres the Adventurer can jump (see the Athletics skill,
+* **Jumping**: Reduce the distance in metres the Adventurer can jump (see the Athletics skill,
   page 46) by the Armour Penalty divided by two. For standing jumps this impairment is
   halved.
 
 
-Comparative Movement
-Time       Movement     Movement      Movement     Movement        Movement     Movement     Movement
-Period     4m           6m            8m           10m             12m          16m          20m
-Combat     4m (20m if   6m (30m if    8m (40m if   10m (50m        12m          16m          20m
-Round      sprinting)   sprinting)    sprinting)   if sprinting)   (60m if      (80m if      (100 m if
-                                                                sprinting)   sprinting)   sprinting)
-Minute  48m             72m           96m          120m            144m         192m         240m
-     (240m if        (360m if      (480m if     (600m if        (720m if     (960m, if    (1,200m if
-     sprinting)      sprinting)    sprinting)   sprinting)      sprinting)   sprinting)   sprinting)
-Hour    2.8km           4.3km         5.6km        7.2km           8.6km        11.2km       14.4km
-Day (12 33.6km          51.6km        67.2km       86.4km          103.2km      134.4km      172.8km
-hours)
+##### Comparative Movement
+
+| Time Period | Movement 4m | Movement 6m | Movement 8m | Movement 10m | Movement 12m | Movement 16m | Movement 20m |
+|-------------|-------------|-------------|-------------|--------------|--------------|--------------|--------------|
+| Combat Round | 4m (20m if sprinting) | 6m (30m if sprinting) | 8m (40m if sprinting) | 10m (50m if sprinting) | 12m (60m if sprinting) | 16m (80m if sprinting) | 20m (100 m if sprinting) |
+| Minute | 48m (240m if sprinting) | 72m (360m if sprinting) | 96m (480m if sprinting) | 120m (600m if sprinting) | 144m (720m if sprinting) | 192m (960m, if sprinting) | 240m (1,200m if sprinting) |
+| Hour | 2.8km | 4.3km | 5.6km | 7.2km | 8.6km | 11.2km | 14.4km |
+| Day (12 hours) | 33.6km | 51.6km | 67.2km | 86.4km | 103.2km | 134.4km | 172.8km |
 
 
-
-
-                                                                                                       93
-
-                                                       equipment
+# Equipment
 Adventuring is a profession like any other and this means that success often relies on good
 equipment - not just on what the Adventurer knows or has experienced. This chapter covers
 a comprehensive array of different equipment for Adventurers, including weapons and armour
@@ -3856,7 +3800,7 @@ their Adventurers have been created and all that silver is burning a hole in the
 because this chapter lists something it does not mean that it is available.
 
 
-Currency
+## Currency
 As its default currency, Legend uses coins minted in lead, copper, silver and gold. The standard,
 everyday coins are copper and silver, with gold being the preserve of the very wealthy. The names
 for coins vary from place-to-place but for ease of economy, coins maintain a similar value and
@@ -3867,7 +3811,7 @@ standard, as follows:
 20 Silver Pieces = 1 Gold Crown (GC)
 
 
-Armour
+## Armour
 Armour absorbs weapon damage. Any successful attack must first penetrate an Adventurer's
 armour before it starts reducing Hit Points. This simple fact alone makes armour an essential
 for any Adventurer intending to face great peril or deliberately seek out dangerous challenges.
@@ -3876,84 +3820,76 @@ and a well-aimed or well-timed blow can bypass armour completely. So a total rel
 - even good metal armour - is perhaps misplaced. For comfort, and as part of its protection, all
 armour is considered lined or padded.
 
+Each piece of armour is characterised by the following qualities:
 
-
-
-94
-
-         Each piece of armour is characterised by the following qualities:
-
-AP: How many Armour Points are given to each location covered by this type of armour. If an
+**AP**: How many Armour Points are given to each location covered by this type of armour. If an
 Adventurer is wearing multiple pieces of armour on a location, only the highest Armour Point
 score is used.
 
-ENC: The weight and bulk of the armour. See page 86 for more details on Encumbrance and
+**ENC**: The weight and bulk of the armour. See page 86 for more details on Encumbrance and
 its effects on Adventurers.
 
-Locations: Which Hit Locations this type of armour protects.
+**Locations**: Which Hit Locations this type of armour protects.
 
-Cost: The average cost in Silver Pieces to purchase this armour.
+**Cost**: The average cost in Silver Pieces to purchase this armour.
 
 
-Armour Effects on Strike Rank and Movement
+### Armour Effects on Strike Rank and Movement
 The more and/or heavier, the armour worn, the more restricted and slower an Adventurer is
 likely to be in combat. Total the APs for each armoured location and divide the result by five,
 rounding up. The result is the Armour Penalty applied to the Adventurer's Strike Rank.
 
-For example a chainmail shirt covers three locations for 5 AP per location. This gives a total of 15
-AP which, divided by five, gives an Armour Penalty of -3. A full suit of plate mail, covering seven
-locations at 6 AP has a total of 42 AP which, divided by 5 and rounded up, gives an Armour Penalty
-of -9. In combat these penalties would reduce the Strike Rank of the wearers.
+> For example a chainmail shirt covers three locations for 5 AP per location. This gives a total of 15
+> AP which, divided by five, gives an Armour Penalty of -3. A full suit of plate mail, covering seven
+> locations at 6 AP has a total of 42 AP which, divided by 5 and rounded up, gives an Armour Penalty
+> of -9. In combat these penalties would reduce the Strike Rank of the wearers.
 
 The same Armour Penalty is applied to various types of Movement, such as swimming or
 climbing. If these penalties are too great, then the Adventurer may find themselves unable to
 perform such actions (see page 92).
 
 
-Effects of SIZ on Armour
+### Effects of SIZ on Armour
 Armour made for an Adventurer of SIZ 1 to 5 will have its cost and ENC halved from that
 shown on the Armour table. Adventurers of SIZ 21 or higher will double the cost and ENC for
 armour made for them.
 
 
-Armour Types
-Soft Leather: Armour made from cured hides - the simplest form of armour usually found
+### Armour Types
+**Soft Leather**: Armour made from cured hides - the simplest form of armour usually found
 amongst primitive cultures but also worn in more cultivated styles where protection is important
 but not necessarily an essential.
 
-Hard Leather: Strengthened hides and cured leather used for shields and body armour. Hard
+**Hard Leather**: Strengthened hides and cured leather used for shields and body armour. Hard
 leather is the consistency of shoe leather: hard wearing yet flexible.
 
-Linen Cuirass: Similar to a heavy leather cuirass but the armour is crafted from multiple layers
+**Linen Cuirass**: Similar to a heavy leather cuirass but the armour is crafted from multiple layers
 of quilted linen. The thick, stiff fabric provides decent protection at a fraction of the weight of
 other materials
 
-Ringmail: Bronze or iron rings sewn onto a leather backing. Heavier than leather but affords
+**Ringmail**: Bronze or iron rings sewn onto a leather backing. Heavier than leather but affords
 much better protection.
 
-
-
-
-                                                                                                    95
-
-      Scalemail: Similar to Ringmail but the rings are replaced with scales of metal that overlap, like
+**Scalemail**: Similar to Ringmail but the rings are replaced with scales of metal that overlap, like
 the scales of a fish or serpent.
 
-Chainmail: Woven metal links which, whilst heavy, are flexible and more durable than armour
+**Chainmail**: Woven metal links which, whilst heavy, are flexible and more durable than armour
 relying on a leather base.
 
-Plate: Made of moulded individual metal plates, this armour provides excellent protection but
+**Plate**: Made of moulded individual metal plates, this armour provides excellent protection but
 is encumbering and comes with a heavy price tag.
 
-Armour Types and Costs
-Armour                 AP       ENC      Cost in Silver per Hit Location
-Soft Leather           1        1        50
-Hard Leather           2        2        100
-Linen                  2        1        75
-Ringmail               3        2        200
-Scalemail              4        2        250
-Chainmail              5        3        400
-Plate                  6        3        1,200
+##### Armour Types and Costs
+
+| Armour               | AP     | ENC    | Cost in Silver per Hit Location |
+|----------------------|--------|--------|---------------------------------|
+| Soft Leather         | 1      | 1      | 50                              |
+| Hard Leather         | 2      | 2      | 100                             |
+| Linen                | 2      | 1      | 75                              |
+| Ringmail             | 3      | 2      | 200                             |
+| Scalemail            | 4      | 2      | 250                             |
+| Chainmail            | 5      | 3      | 400                             |
+| Plate                | 6      | 3      | 1,200                           |
 
 Thus, a full suit of plate, covering all seven Hit Locations, would cost 8,400 SP. A full suit of
 Hard Leather costs 700.
@@ -3962,164 +3898,74 @@ However armour does not need to be bought as a full suit: different pieces can b
 matched, although nobles, especially, delight in wearing crafted armour of one type. The
 coverage offered by different armour types and styles is summarised in the Armour Pieces table:
 
-Armour Pieces Table
-Name              Hit Locations Covered         Type of Armour
-Greaves           Legs                          All
-Pants or Trews    Abdomen and Legs              Soft Leather, Hard Leather, Ringmail,
-                                           Scalemail, Chainmail
-Skirt             Abdomen                       All
-Hauberk           Chest and Abdomen             Soft Leather, Hard Leather, Ringmail,
-                                           Scalemail, Chainmail
-Byrnie/Cuirass    Chest                         Soft Leather, Linen, Ringmail, Chainmail,
-Breastplate       Chest                         Plate
-Sleeves/          Arms                          All
-Vambraces
-Coif/Hood         Head                    Soft and Hard Leather, Ringmail, Chainmail
-Coat              Chest, Arms and Abdomen Soft and Hard Leather, Ringmail, Scalemail,
-                                     Chainmail
-Helm              Head                    Soft and Hard Leather, Scalemail, Plate
+##### Armour Pieces Table
+
+| Name              | Hit Locations Covered       | Type of Armour |
+|-------------------|-----------------------------|----------------|
+| Greaves           | Legs                        | All            |
+| Pants or Trews    | Abdomen and Legs            | Soft Leather, Hard Leather, Ringmail, Scalemail, Chainmail |
+| Skirt             | Abdomen                     | All            |
+| Hauberk           | Chest and Abdomen           | Soft Leather, Hard Leather, Ringmail, Scalemail, Chainmail |
+| Byrnie/Cuirass    | Chest                       | Soft Leather, Linen, Ringmail, Chainmail, |
+| Breastplate       | Chest                       | Plate          |
+| Sleeves/Vambraces | Arms                        | All            |
+| Coif/Hood         | Head                        | Soft and Hard Leather, Ringmail, Chainmail |
+| Coat              | Chest, Arms and Abdomen     | Soft and Hard Leather, Ringmail, Scalemail, Chainmail |
+| Helm              | Head                        | Soft and Hard Leather, Scalemail, Plate |
 
 
-
-
-96
-
-
-      Clothing
+## Clothing
 This section is a collection of outfits and special items of clothing that are available from place-to-
 place. Unlike common goods, many of these items are very self-explanatory. The way someone is
 dressed can modify Influence rolls in certain situations. Being well dressed may offer a bonus when
 trying to convince poorer folk, or may bring a penalty when negotiating your way past bandits.
 
-Article of
-Clothing              Description                                                        Cost
-Apron, crafter's      This is a heavy leather apron worn by smiths, glass blowers 4 SP
-                 and other professionals who must withstand direct and
-                 oppressive heat. Its special design makes it heavy (2 ENC)
-                 but it can shield the wearer's chest, abdomen and upper legs
-                 from up to 10 points of heat-based damage per minute. It
-                 is awkward to move around in and imposes a -10% Evade
-                 penalty because of its stiffness.
-Baldric               A belt or sash worn over one shoulder that is typically used 2 SP
-                 to carry a weapon (usually a sword) or another item such as
-                 a musical instrument or a drum.
-Belt, leather         Any functional, no-nonsense leather belt.                          6 CP
-Belt, fancy           As for previous, but dyed with an ornate buckle or                 2 SP
-                 decorative patterns stamped into the leather.
-Boots, Common         Typically calf-high and made of sturdy leather.                    6 SP
-Boots, high           Typically thigh-high and made from a more supple leather           8 SP
-                 than a common boot, for comfort.
-Boots, riding         Typically knee-high and made of sturdy leather with                10 SP
-                 reinforcement in the soul and the inside of the calf to
-                 withstand the rigours of stirrup and saddle.
-Breeches, common Common, full or three-quarter length trousers in a variety              1 SP
-            of fabrics and cuts.
-Breeches, fancy       As for common breeches but cut or decorated to the latest          3 SP
-                 fashion.
-Cape                  A sleeveless, hoodless garment worn around the shoulders.          3 SP
-                 A cape usually covers just the wearer's back.
-Coat, common          Any standard cut of coat used for warmth and in inclement 2 SP
-                 weather. May be made from a variety of fabrics but most
-                 commonly wool.
-Coat, fancy           As for previous but cut in the latest fashion.                     8 SP
-Coat, winter          A woolly coat lined with fur. It is thick and warm, repelling 10 SP
-                 the stiff and bitter winds of the high mountains or cold
-                 winters. Anyone wearing a winter coat can add +10% to
-                 his Survival or Resilience Skill Tests to avoid the effects of
-                 natural cold.
+| Article of Clothing | Description | Cost |
+|---------------------|-------------|------|
+| Apron, crafter's | This is a heavy leather apron worn by smiths, glass blowers and other professionals who must withstand direct and oppressive heat. Its special design makes it heavy (2 ENC) but it can shield the wearer's chest, abdomen and upper legs from up to 10 points of heat-based damage per minute. It is awkward to move around in and imposes a -10% Evade penalty because of its stiffness. | 4 SP |
+| Baldric | A belt or sash worn over one shoulder that is typically used to carry a weapon (usually a sword) or another item such as a musical instrument or a drum. | 2 SP |
+| Belt, leather | Any functional, no-nonsense leather belt. | 6 CP |
+| Belt, fancy | As for previous, but dyed with an ornate buckle or decorative patterns stamped into the leather. | 2 SP |
+| Boots, Common | Typically calf-high and made of sturdy leather. | 6 SP |
+| Boots, high | Typically thigh-high and made from a more supple leather than a common boot, for comfort. | 8 SP |
+| Boots, riding | Typically knee-high and made of sturdy leather with reinforcement in the soul and the inside of the calf to withstand the rigours of stirrup and saddle. | 10 SP |
+| Breeches, common | Common, full or three-quarter length trousers in a variety of fabrics and cuts. | 1 SP |
+| Breeches, fancy | As for common breeches but cut or decorated to the latest fashion. | 3 SP |
+| Cape | A sleeveless, hoodless garment worn around the shoulders. A cape usually covers just the wearer's back. | 3 SP |
+| Coat, common | Any standard cut of coat used for warmth and in inclement weather. May be made from a variety of fabrics but most commonly wool. | 2 SP |
+| Coat, fancy | As for previous but cut in the latest fashion. | 8 SP |
+| Coat, winter | A woolly coat lined with fur. It is thick and warm, repelling the stiff and bitter winds of the high mountains or cold winters. Anyone wearing a winter coat can add +10% to his Survival or Resilience Skill Tests to avoid the effects of natural cold. | 10 SP |
+| Cloak, common | Usually hooded and reaching to either the knees or ankles, a cloak is more substantial a garment than a cape. It gives protection against rain and wind. | 2 SP |
+| Cloak, winter | A large fur and leather cloak with an extra flap to close around the body completely, a winter cloak is too heavy and thick to wear all the time but does a great deal to ward off the wind and snow in such conditions. Anyone wearing a winter cloak can add +10% to his Survival or Resilience Skill Tests to avoid the effects of natural cold. A winter cloak may also be used as a warm blanket/ bedroll combination. | 12 SP |
+| Dress, common | A woman's garment, usually of ankle length. | 2 SP |
+| Dress, fancy | As for common dress but cut and decorated to the fashion of the day. | 5 SP |
+| Dress, noble | Ceremonial or symbolic robes worn by nobles and official dignitaries when on official business. | 150 SP |
+| Gloves, common | A pair of leather gloves, snugly fitting. | 5 CP |
+| Gloves, fancy | As for common gloves but with fashionable decoration and often made from silk, rather than leather. | 2 SP |
+| Hat, brimmed | Any broad-brimmed hat. | 8 CP |
+| Hood | Used by assassins and bandits but also by vigilantes and anonymous heroes, the hood is a fabric garment, which can be pulled up over the head to protect it from bright light or adverse weather. The bottom part extends over the shoulders to shed rain. | 1 SP |
+| Loincloth | A piece of leather worn around the waist and designed to protect modesty rather than to offer any real warmth or protection. | 1 CP |
+| Robe, woollen | Functional woollen robes often worn by priests or monks when not engaged on official or ceremonial duties. | 2 SP |
+| Robe, religious | As for woollen robes but decorated to give the wearer a +10% bonus to his Influence skill when dealing with any member of the faith represented by the robes. | 25 SP |
+| Sash, common | A length of brightly coloured fabric worn around the waist and tied, or secured with a sash clasp. Can also be used as a means for securing a weapon. | 3 CP |
+| Sash, fancy | As for common sash but highly decorated or patterned and made from fine materials such as samite or silk. | 2 SP |
+| Shirt, common | Any thin, cotton or linen shirt or blouse, usually with long sleeves. | 2 CP |
+| Shirt, fancy | As for common but fashionably cut and decorated with ruffs, lace or other | 2 SP |
+| Shirt, noble | As for common and fancy but dyed and of fine silk or muslin. | 75 SP |
+| Shoes, common | Ankle-high shoes, fastened with a strap and toggle. | 2 SP |
+| Shoes, fancy | As for common shoes but decorated or dyed. | 6 SP |
+| Shoes, sandals | Open-topped footwear usually worn with ankle straps. | 1 SP |
+| Skirt/kilt | A hard-wearing skirt or kilt usually made from pleated linen or wool. | 5 SP |
+| Tabard, common | A length of cloth with a hole or slit cut for the head and then secured at the waist with either a drawstring or belt. Traditionally peasant garb, used instead of a coat. | 7 CP |
+| Tabard, emblazoned | Similar in make to a common tabard but normally constructed of better quality linens and dyes, the emblazoned tabard bears a colourful and easily recognisable insignia or crest of a guild, noble house, or similar group. Wearing such a tabard automatically brings assumptions that the wearer is a member or employee of the group depicted. | 10 SP |
+| Toga, common | A length of good quality cotton that is worn in a wrap and drape style. Comfortable and elegant enough for either official occasions or casual wear. | 5 CP |
+| Toga, fancy | As for the common toga but decorated tastefully at the hem and in strategic places along the length of the cloth so that the pattern shows in the drapes. | 2 SP |
+| Toga, noble | As for common and fancy but made from the finest linen and tastefully decorated. | 100 SP |
+| Tunic, common | A sleeveless jacket of sheepskin, wool or thin leather that is secured with buttons, toggles or ties. | 6 CP |
+| Tunic, fancy | As for common but cut and decorated in the day's fashions. | 2 SP |
 
 
-
-
-98
-
-         Article of
-Clothing          Description                                                     Cost
-Cloak, common     Usually hooded and reaching to either the knees or ankles,      2 SP
-               a cloak is more substantial a garment than a cape. It gives
-               protection against rain and wind.
-Cloak, winter     A large fur and leather cloak with an extra flap to close 12 SP
-               around the body completely, a winter cloak is too heavy
-               and thick to wear all the time but does a great deal to
-               ward off the wind and snow in such conditions. Anyone
-               wearing a winter cloak can add +10% to his Survival
-               or Resilience Skill Tests to avoid the effects of natural
-               cold. A winter cloak may also be used as a warm blanket/
-               bedroll combination.
-Dress, common     A woman's garment, usually of ankle length.                     2 SP
-Dress, fancy      As for common dress but cut and decorated to the fashion        5 SP
-               of the day.
-Dress, noble      Ceremonial or symbolic robes worn by nobles and official        150 SP
-               dignitaries when on official business.
-Gloves, common    A pair of leather gloves, snugly fitting.                       5 CP
-Gloves, fancy     As for common gloves but with fashionable decoration and        2 SP
-               often made from silk, rather than leather.
-Hat, brimmed      Any broad-brimmed hat.                                          8 CP
-Hood              Used by assassins and bandits but also by vigilantes and        1 SP
-               anonymous heroes, the hood is a fabric garment, which
-               can be pulled up over the head to protect it from bright
-               light or adverse weather. The bottom part extends over the
-               shoulders to shed rain.
-Loincloth         A piece of leather worn around the waist and designed to        1 CP
-               protect modesty rather than to offer any real warmth or
-               protection.
-Robe, woollen     Functional woollen robes often worn by priests or monks         2 SP
-               when not engaged on official or ceremonial duties.
-Robe, religious   As for woollen robes but decorated to give the wearer a         25 SP
-               +10% bonus to his Influence skill when dealing with any
-               member of the faith represented by the robes.
-Sash, common      A length of brightly coloured fabric worn around the waist      3 CP
-               and tied, or secured with a sash clasp. Can also be used as a
-               means for securing a weapon.
-
-
-
-
-                                                                                        99
-
-       Article of
-Clothing         Description                                                      Cost
-Sash, fancy      As for common sash but highly decorated or patterned and         2 SP
-            made from fine materials such as samite or silk.
-Shirt, common    Any thin, cotton or linen shirt or blouse, usually with long     2 CP
-            sleeves.
-Shirt, fancy     As for common but fashionably cut and decorated with             2 SP
-            ruffs, lace or other
-Shirt, noble     As for common and fancy but dyed and of fine silk or             75 SP
-            muslin.
-Shoes, common    Ankle-high shoes, fastened with a strap and toggle.              2 SP
-Shoes, fancy     As for common shoes but decorated or dyed.                       6 SP
-Shoes, sandals   Open-topped footwear usually worn with ankle straps.             1 SP
-Skirt/kilt       A hard-wearing skirt or kilt usually made from pleated linen 5 SP
-            or wool.
-Tabard, common   A length of cloth with a hole or slit cut for the head and       7 CP
-            then secured at the waist with either a drawstring or belt.
-            Traditionally peasant garb, used instead of a coat.
-Tabard,          Similar in make to a common tabard but normally            10 SP
-emblazoned       constructed of better quality linens and dyes, the
-            emblazoned tabard bears a colourful and easily
-            recognisable insignia or crest of a guild, noble house, or
-            similar group. Wearing such a tabard automatically brings
-            assumptions that the wearer is a member or employee of
-            the group depicted.
-Toga, common     A length of good quality cotton that is worn in a wrap and       5 CP
-            drape style. Comfortable and elegant enough for either
-            official occasions or casual wear.
-Toga, fancy      As for the common toga but decorated tastefully at the hem 2 SP
-            and in strategic places along the length of the cloth so that
-            the pattern shows in the drapes.
-Toga, noble      As for common and fancy but made from the finest linen           100 SP
-            and tastefully decorated.
-Tunic, common    A sleeveless jacket of sheepskin, wool or thin leather that is   6 CP
-            secured with buttons, toggles or ties.
-Tunic, fancy     As for common but cut and decorated in the day's fashions. 2 SP
-
-
-
-
-100
-
-         Weaponry
+## Weaponry
 It would be unthinkable for an Adventurer to set out into danger without the means to protect
 himself. For many Adventurers a sword or dagger suffices but many soldiers, skilled in a variety
 of weapons, know that different weapons have different applications and that a sword, whilst
@@ -4129,249 +3975,287 @@ The assortment of weapons - Close and Ranged Combat - is extensive. Each weapon 
 and the description provides any additional effects a weapon might have in a particular situation.
 
 
-Close Combat Weapons
+### Close Combat Weapons
 Each Close Combat weapon is characterised by the following qualities:
 
-Category: The type of weapon this is.
+**Category**: The type of weapon this is.
 
-Damage Dice: The damage the weapon deals on a successful attack.
+**Damage Dice**: The damage the weapon deals on a successful attack.
 
-STR/DEX: The minimum STR and DEX scores needed to easily wield this weapon. For every
+**STR/DEX**: The minimum STR and DEX scores needed to easily wield this weapon. For every
 point a Characteristic is below these minimums, a -5% penalty is applied to a Adventurer's skill
 when attacking and parrying with this weapon.
 
-Size: Each weapon possesses a size rating. This is related to its mass, leverage and stability.
+**Size**: Each weapon possesses a size rating. This is related to its mass, leverage and stability.
 The value is used to determine both the weapon's ability to inflict and parry damage. The size
 categories are Small (S), Medium (M), Large (L), Huge (H) and Enormous (E).
 
-Reach: The weapon's length, how far it can reach in combat (see page 139). The size categories
+**Reach**: The weapon's length, how far it can reach in combat (see page 139). The size categories
 are Touch (T), Short (S), Medium (M), Long (L) and Very Long (VL).
 
-Combat Manoeuvres: The Combat Manoeuvres (see the Combat chapter) a weapon can inflict
+**Combat Manoeuvres**: The Combat Manoeuvres (see the Combat chapter) a weapon can inflict
 - such as Bashing, Impale and so forth.
 
-ENC: The weight and bulk of the weapon. See page 86 for more details on Encumbrance and
+**ENC**: The weight and bulk of the weapon. See page 86 for more details on Encumbrance and
 its effects on Adventurers.
 
-AP/HP: The Armour Points and Hit Points possessed by the weapon. When Hit Points reach 0,
+**AP/HP**: The Armour Points and Hit Points possessed by the weapon. When Hit Points reach 0,
 the weapon is broken and useless.
 
-Cost: The average cost in silver pieces to purchase this weapon.
+**Cost**: The average cost in silver pieces to purchase this weapon.
 
 
-Close Combat Weapon Descriptions
-Ball and Chain: This heavy metal ball attached to a short length of chain is notoriously difficult
+#### Close Combat Weapon Descriptions
+**Ball and Chain**: This heavy metal ball attached to a short length of chain is notoriously difficult
 to parry. An opponent attempting to parry this weapon treats his parrying weapon or shield as
 one step smaller for the purposes of blocking damage. However, the wielder also suffers the same
 penalty when trying to Parry with the ball and chain.
 
-Battleaxe: A single-bladed weapon with a sturdy haft, the battleaxe may be used with one or two
+**Battleaxe**: A single-bladed weapon with a sturdy haft, the battleaxe may be used with one or two
 hands, depending on the wielder's preference. A battleaxe can be used to bash through doors and
 obstacles rather quickly. It suffers no damage when attacking inanimate wooden objects.
 
-
-
-
-                                                                                                  101
-
-       Buckler: This small, round shield is held in the hand and used to 'punch block' incoming blows.
+**Buckler**: This small, round shield is held in the hand and used to 'punch block' incoming blows.
 Bucklers are often used to attack with the off-hand, when the main weapon is tied up. Its small
 size however, provides little protection against larger weapons or missile fire.
 
-Chain: This two metre length of chain is one step above using an improvised weapon. It is very
+**Chain**: This two metre length of chain is one step above using an improvised weapon. It is very
 difficult to parry, any weapon interposed against a chain is treated as one step smaller for the
 purpose of blocking damage. However, the wielder also suffers the same penalty when parrying
 with this weapon. If an opponent is caught by surprise, it can also be used as a garrotte.
 
-Club: Perhaps the simplest of all weapons and almost certainly the oldest, the club is simply a
+**Club**: Perhaps the simplest of all weapons and almost certainly the oldest, the club is simply a
 long, stout piece of wood used to bludgeon others. However, there are several cultures that have
 carved clubs made of stone, or bone - all of which can be sculpted or decorated according to the
 wielder's preference.
 
-Dagger: Essentially a large knife attached to a short handle, the dagger is often carried as a backup
+**Dagger**: Essentially a large knife attached to a short handle, the dagger is often carried as a backup
 or parrying weapon. Thieves, assassins and bandits often enjoy the use of daggers because they can
 be hidden and drawn with ease. Daggers are usually well-balanced enough to throw effectively.
 
-Dirk: This is a short-handled, wide-bladed weapon about half-again the size of a dagger. It is
+**Dirk**: This is a short-handled, wide-bladed weapon about half-again the size of a dagger. It is
 commonly used as a secondary weapon, even though it promises sufficient damage any time its
 blade bites flesh. Parrying with a dirk increases the damage blocked by one step (i.e. it is treated
 as a Medium weapon when parrying).
 
-Falchion: A single edged, cleaver-like sword that delivers heavy, chopping blows.
+**Falchion**: A single edged, cleaver-like sword that delivers heavy, chopping blows.
 
-Garrotte: An assassin's weapon, the garrotte is a cord, chain or thin braided metal wire used to
+**Garrotte**: An assassin's weapon, the garrotte is a cord, chain or thin braided metal wire used to
 loop around a target's neck and strangle him. Only usable during a grapple or from behind on an
 unsuspecting victim, the garrotte inflicts its damage each and every Combat Action the wielder
 continues to actively crush his victim's throat. Whilst being strangled, the victim can attempt to
 wrestle free, or damage his opponent so badly they are forced to let go - but acts at a penalty due
 to the strangler being directly behind him.
 
-Great Axe: Up to two metres in length, dwarfing the battleaxe in size, the great axe may be either
+**Great Axe**: Up to two metres in length, dwarfing the battleaxe in size, the great axe may be either
 single or double-bladed and must be used with both hands. It also suffers no damage when used
 to break inanimate wooden objects.
 
-Great Club: Little more than a massive branch of wood banded in metal, a great club is much
+**Great Club**: Little more than a massive branch of wood banded in metal, a great club is much
 less a designed weapon and more a makeshift one. Some cultures might create their own varieties
 of other materials but overall the great club is the weapon of choice for low-intelligence, low-
 resource beings of massive strength and size.
 
-Great Hammer: The great hammer, or maul, is an enormous weapon that deals impressive
+**Great Hammer**: The great hammer, or maul, is an enormous weapon that deals impressive
 bludgeoning damage. It is a tool as well as a weapon and can sometimes be found with a pick-
 like spike on the back portion of its head. Great hammers may be used on inanimate objects
 without being destroyed.
 
-Great Sword: This group nomenclature pertains to a number of massive blades that can be
+**Great Sword**: This group nomenclature pertains to a number of massive blades that can be
 found as much as two metres in length. They are used by those warriors who want the enemy
 at more than arm's length, or cleaved beneath the sheering power of the weapon's strike. Part of
 the blade is unsharpened and leather-bound on many great swords, allowing the wielder to grip
 them for more effective parries.
 
-
-102
-
-         Halberd: An axe head combined with a thrusting tip and a hook, mounted on a spear shaft,
+**Halberd**: An axe head combined with a thrusting tip and a hook, mounted on a spear shaft,
 the halberd is a multi-purpose weapon. Halberdiers are versatile opponents that can bring any
 version of the weapon's attack to bear in an instant.
 
-Hatchet: A simple and cheap one-handed cleaving tool, the hatchet is essentially a smaller
+**Hatchet**: A simple and cheap one-handed cleaving tool, the hatchet is essentially a smaller
 version of an axe. It can be used to cut through wooden inanimate objects with no risk to its
 edge. A hatchet is usually well-balanced enough to throw effectively and many users prefer to
 call these items 'throwing axes'.
 
-Heater Shield: A medium sized shield designed for both mounted and foot use. Most are
+**Heater Shield**: A medium sized shield designed for both mounted and foot use. Most are
 reinforced with metal edging and commonly have some form of symbol or insignia painted on
 the outside face. Heater shields can parry ranged weapons.
 
-Hoplite Shield: Large circular shields designed for foot combat, which are edged and sometimes
+**Hoplite Shield**: Large circular shields designed for foot combat, which are edged and sometimes
 faced with metal. This shield is an excellent defence against even two handed weapons and
 provides decent cover against missile attacks.
 
-Kite Shield: Kite shields are large shields with an inverted teardrop shape. This shield can switch
+**Kite Shield**: Kite shields are large shields with an inverted teardrop shape. This shield can switch
 between both infantry and mounted use and is extremely popular for those who spend time in
 both types of combats. Kite shields are also effective against ranged weapons.
 
-Knife: Knives can be made from a sharp piece of metal, stone, bone or even glass. They almost
+**Knife**: Knives can be made from a sharp piece of metal, stone, bone or even glass. They almost
 always have a short hilt carved from wood. More commonly a tool than a weapon, the knife is a
 multi-purpose item that should be found in every Adventurer's backpack.
 
-Lance: An oversized spear designed to be used from the back of a mount, a lance can be a
+**Lance**: An oversized spear designed to be used from the back of a mount, a lance can be a
 devastating weapon when charging. A mounted character who uses a lance during a charge may
 add his mount's Damage Modifier instead of his own to the damage.
 
-Long Spear: The long spear is a lengthy piercing weapon with a wide bladed head, often used in
+**Long Spear**: The long spear is a lengthy piercing weapon with a wide bladed head, often used in
 ranked units to defeat charging cavalry.
 
-Longsword: The longsword is a versatile sword with an elongated grip, which allows it to be
+**Longsword**: The longsword is a versatile sword with an elongated grip, which allows it to be
 wielded with either one hand or two. Its extra length adds to its reach and used two handed, it
 inflicts greater damage.
 
-Mace: The mace is comprised of a large flanged or knobbed weight mounted on one end of
+**Mace**: The mace is comprised of a large flanged or knobbed weight mounted on one end of
 a haft, which is often reinforced with metal. Its ability to incapacitate, even heavily armoured
 opponents, makes this a popular weapon in civilised cultures.
 
-Main Gauche: Also called a 'parrying dagger', the main gauche is a long-bladed dagger with two
+**Main Gauche**: Also called a 'parrying dagger', the main gauche is a long-bladed dagger with two
 extremely long and strong quillions. It is normally used in the off-hand in conjunction with a
 longsword, rapier or sabre. Parrying with a main gauche increases the damage blocked by one
 step (i.e. it is treated as a Medium weapon when parrying).
 
-Military Flail: This is a heavy metal ball or rod, usually bristling with spikes or edged flanges,
+**Military Flail**: This is a heavy metal ball or rod, usually bristling with spikes or edged flanges,
 attached to a wooden haft by a short length of chain. Due to its flexible construction, an
 opponent defending against this weapon treats his parrying weapon or shield as one step smaller
 for the purposes of blocking damage. However, the wielder also suffers the same penalty when
 trying to Parry with the flail.
 
-
-
-                                                                                                   103
-
-       Military Pick: Also known as a war hammer, a military pick is a short shafted weapon that has
+**Military Pick**: Also known as a war hammer, a military pick is a short shafted weapon that has
 a metal head with a hammer face on one side and a curved pick on the other. The military pick
 is designed to pierce heavy armour but can also be used on inanimate objects without being
 destroyed.
 
-Morningstar: Carved from a length of wood nearly a metre long, the morningstar is a bladed
+**Morningstar**: Carved from a length of wood nearly a metre long, the morningstar is a bladed
 or spiked cudgel.
 
-Net: Used by gladiators, huntsmen and watchmen, the net is more than a mere fishing net to be
+**Net**: Used by gladiators, huntsmen and watchmen, the net is more than a mere fishing net to be
 tossed at a target. A fighter's net is made of thick cord and leather, tipped with numerous hooks
 and heavy weights. It can be swung like a flail, the weights lashing out to batter an opponent,
 inflicting the damage listed.
 
-Poleaxe: A polearm about the height of a man, it is has a hammer head backed with a metal
+**Poleaxe**: A polearm about the height of a man, it is has a hammer head backed with a metal
 spike and a spear tip for thrusting. This style of two handed war hammer, is very popular against
 heavy armour types.
 
-Poniard: This duellist's weapon is a long dagger, designed to be thrust into a target.
+**Poniard**: This duellist's weapon is a long dagger, designed to be thrust into a target.
 
-Quarterstaff: A simple staff, sometimes banded with metal at either end. In the hands of a
+**Quarterstaff**: A simple staff, sometimes banded with metal at either end. In the hands of a
 skilled user, it is a fast and effective weapon for both offence and defence and can be hidden in
 plain sight as a shepherd's hook or simple traveller's walking staff.
 
-Rapier: Fast and light, the rapier relies more on the thrust than the slash. It is a particularly
+**Rapier**: Fast and light, the rapier relies more on the thrust than the slash. It is a particularly
 effective weapon, especially considering its reach.
 
-Sabre: The sabre is a slightly curved sword, designed to be used for slashing or thrusting when
+**Sabre**: The sabre is a slightly curved sword, designed to be used for slashing or thrusting when
 mounted. It has a basket hilt which adds one Armour Point to the limb being used to wield it.
 
-Scimitar: A broad-bladed sword, the scimitar has a dramatically curved edge designed for cutting
+**Scimitar**: A broad-bladed sword, the scimitar has a dramatically curved edge designed for cutting
 and slashing. It is sometimes wider than a normal sheath can hold and is more often hung from
 straps or some form of netting.
 
-Shortspear: Heftier than a javelin and fitted with a broader head made for stabbing; a short spear
+**Shortspear**: Heftier than a javelin and fitted with a broader head made for stabbing; a short spear
 is commonly used in conjunction with a shield. The short spear is a popular and ubiquitous
 weapon, being cheap to manufacture and having a reach advantage over most other single
 handed weapons.
 
-Shortsword: The shortsword is a straight, broad-bladed sword designed for thrusting. It does
+**Shortsword**: The shortsword is a straight, broad-bladed sword designed for thrusting. It does
 carry an edge along its sides but use of the edge is always secondary to the thrusting point.
 
-Target: A medium sized, round shield made of wood and covered with hide. A target mounts
+**Target**: A medium sized, round shield made of wood and covered with hide. A target mounts
 a long spike on its central boss, making the shield a dangerous weapon, as well as being able to
 parry ranged weapons.
 
-Trident: Another tool turned weapon, a trident is a three-pronged or bladed spear that once was
+**Trident**: Another tool turned weapon, a trident is a three-pronged or bladed spear that once was
 used to catch fish in the same way as a harpoon. If a trident impales, its barbed prongs do an extra
 point of damage when being ripped free.
 
-War Sword: The most common sword type available, the war sword is generally slightly less than
+**War Sword**: The most common sword type available, the war sword is generally slightly less than
 a metre in length and possesses a sharpened tip to thrust with. It is the ubiquitous weapon of
 choice amongst many Adventurers.
 
-104
 
-         Ranged Combat Weapons
+##### Close Combat Weapons
+                                          
+|                    | Damage Dice | STR/DEX | Size | Reach | Combat Manoeuvres             | ENC   | AP/HP | Cost |
+|--------------------|-------------|---------|------|-------|-------------------------------|-------|-------|------|
+| Ball & chain       | 1D6+1       | 9/11    | M    | M     | Entangle, Stun Location       | 2     | 6/8   | 250 SP |
+| Battleaxe          | 1D6+1       | 11/9    | M    | M     | Bleed                         | 1     | 4/8   | 100 SP |
+| Battleaxe          | 1D8+1       | 9/9     |      |       | Sunder (2H only)              |       |       |      |
+| Buckler            | 1D3         | -/5     | M    | S     | -                             | 1     | 6/8   | 50 SP |
+| Chain              | 1D4         | 7/12    | M    | M     | Entangle                      | 1     | 8/6   | 10 SP |
+| Club               | 1D6         | 7/-     | M    | S     | Stun Location                 | 1     | 4/4   | 5 SP |
+| Dagger (2)         | 1D4+1       | -/-     | S    | S     | Bleed, Impale                 | -     | 6/8   | 30 SP |
+| Dirk               | 1D3+2       | -/-     | S    | S     | Bleed, Impale                 | -     | 6/6   | 50 SP |
+| Falchion           | 1D6+2       | 7/9     | M    | M     | Bleed                         | 1     | 6/10  | 200 SP |
+| Garrotte           | 1D2         | -/9     | S    | T     | -                             | -     | 1/2   | 15 SP |
+| Great axe          | 1D12+2      | 13/9    | H    | L     | Bleed, Sunder                 | 2     | 4/10  | 125 SP |
+| Great club         | 2D6         | 12/9    | H    | L     | Stun Location                 | 3     | 4/10  | 50 SP |
+| Great hammer       | 1D10+3      | 11/9    | H    | L     | Stun Location, Sunder         | 3     | 4/10  | 250 SP |
+| Great sword        | 2D8         | 13/11   | H    | L     | Bleed, Impale, Sunder         | 4     | 6/12  | 300 SP |
+| Halberd (1)        | 1D8+2       | 7/7     | L    | VL    | Entangle, Impale, Sunder      | 4     | 4/10  | 250 SP |
+| Hatchet (2)        | 1D6         | -/9     | S    | S     | Bleed                         | 1     | 3/6   | 25 SP |
+| Heater shield (3)  | 1D4         | 9/-     | L    | S     | -                             | 2     | 6/12  | 150 SP |
+| Hoplite shield (3) | 1D4         | 11/-    | H    | S     | -                             | 3     | 6/18  | 300 SP |
+| Kite shield (3)    | 1D4         | 13/-    | H    | S     | -                             | 3     | 4/18  | 300 SP |
+| Knife (2)          | 1D3         | -/-     | S    | S     | Bleed, Impale                 | -     | 5/4   | 10 SP |
+| Lance  (1)         | 1D10+2      | 9/9     | H    | VL    | Impale, Sunder                | 3     | 4/10  | 150 SP |
+| Longspear (1)      | 1D10+1      | 5/5     | L    | VL    | Impale                        | 2     | 4/10  | 30 SP |
+| Longsword          | 1D8         | 13/9    | M    | L     | Bleed, Impale,                | 2     | 6/12  | 250 SP |
+| Longsword          | 1D10        | 9/9     | L    | L     | Sunder (2H only)              |       |       |      |
+| Mace               | 1D8         | 7/7     | M    | S     | Stun Location                 | 1     | 6/6   | 100 SP |
+| Main Gauche        | 1D4         | -/11    | S    | S     | Bleed                         | -     | 6/7   | 180 SP |
+| Military flail     | 1D10        | 13/11   | L    | L     | Stun Location                 | 3     | 4/10  | 250 SP |
+| Military pick      | 1D6+1       | 11/5    | M    | M     | Stun Location, Sunder         | 3     | 6/10  | 180 SP |
+| Morning star       | 2D4         | 9/9     | M    | S     | Stun Location                 | 2     | 4/10  | 150 SP |
+| Net (2)            | 1D4         | 10/11   | S    | L     | Entangle                      | 3     | 2/20  | 200 SP |
+| Poleaxe            | 1D8+2       | 11/9    | L    | L     | Impale, Stun Location, Sunder | 2     | 6/10  | 150 SP |
+| Poniard (2)        | 1D4         | -/7     | S    | S     | Bleed, Impale                 | -     | 4/5   | 60 SP |
+| Quarter staff      | 1D8         | 7/7     | M    | L     | Stun Location                 | 2     | 4/8   | 20 SP |
+| Rapier             | 1D8         | 7/13    | M    | L     | Impale                        | 1     | 5/8   | 100 SP |
+| Sabre              | 1D6+1       | 7/7     | M    | M     | Bleed, Impale                 | 1     | 6/8   | 225 SP |
+| Scimitar           | 1D8         | 7/11    | M    | M     | Bleed                         | 2     | 6/10  | 200 SP |
+| Short spear (1,2)  | 1D8+1       | 5/5     | M    | L     | Impale                        | 2     | 4/5   | 20 SP |
+| Short sword        | 1D6         | 5/7     | M    | S     | Bleed, Impale                 | 1     | 6/8   | 100 SP |
+| Target  (3)        | 1D6         | 9/-     | L    | S     | Impale                        | 2     | 4/12  | 150 SP |
+| Trident (2)        | 1D8         | 10/7    | M    | L     | Impale                        | 2     | 4/10  | 155 SP |
+| War sword          | 1D8         | 9/7     | M    | M     | Bleed, Impale                 | 2     | 6/10  | 175 SP |
+
+(1)  This weapon may be set against a charge.
+(2)  This weapon suffers no penalty when thrown.
+(3)  This weapon may Parry Ranged weapons.
+
+
+### Ranged Combat Weapons
 Just as Close Combat weapons are defined by certain qualities, so are Ranged weapons.
 
-Category: The type of weapon this is. This is used as a basis for Combat Styles.
+**Category**: The type of weapon this is. This is used as a basis for Combat Styles.
 
-Damage Dice: The damage the weapon deals on a successful attack.
+**Damage Dice**: The damage the weapon deals on a successful attack.
 
-Range: This is the effective range of the weapon. The maximum range a weapon can be fired or
+**Range**: This is the effective range of the weapon. The maximum range a weapon can be fired or
 thrown is twice this score.
 
-Load: This shows how many Combat Actions are required to load or reload the weapon.
+**Load**: This shows how many Combat Actions are required to load or reload the weapon.
 
-STR/DEX: The minimum STR and DEX scores needed to easily wield this weapon. For every
+**STR/DEX**: The minimum STR and DEX scores needed to easily wield this weapon. For every
 point a Characteristic is below these minimums, a -5% penalty is applied to an Adventurer's skill
 when attacking with this weapon.
 
-Size: Each ranged weapon possesses a size rating. In the case of projectile weapons, this does
+**Size**: Each ranged weapon possesses a size rating. In the case of projectile weapons, this does
 not relate to the firing weapon itself but rather to how 'forceful' its ammunition is. The value is
 used to determine whether the weapon can overcome any shield which may parry it. The size
 categories are Small (S), Medium (M), Large (L), Huge (H) and Enormous (E).
 
-Combat Manoeuvres: Any specific Combat Manoeuvres applicable to the weapon or its
+**Combat Manoeuvres**: Any specific Combat Manoeuvres applicable to the weapon or its
 ammunition.
 
-ENC: The weight and bulk of the weapon. See page 86 for more details on Encumbrance and
+**ENC**: The weight and bulk of the weapon. See page 86 for more details on Encumbrance and
 its effects on Adventurers.
 
-AP/HP: The Armour Points and Hit Points possessed by the weapon. When Hit Points reach
+**AP/HP**: The Armour Points and Hit Points possessed by the weapon. When Hit Points reach
 zero, the weapon is broken and useless.
 
-Cost: The average cost in Silver Pieces to purchase this weapon.
+**Cost**: The average cost in Silver Pieces to purchase this weapon.
 
-Ranged Combat Weapon Descriptions
+#### Ranged Combat Weapon Descriptions
 Arbalest: This is a metal-armed crossbow that when stood on its end is as tall as a man. It fires
 specially crafted arbalest bolts that have been reinforced in order to withstand the sheer force
 that its braided cord propels them at. Able to drive a finger-thick bolt a full hand's depth into an
@@ -4379,260 +4263,154 @@ oak tree, the arbalest hits with force enough to punch through armour as if it w
 requires the use of a windlass to re-cock it. An Adventurer's Damage Modifier is never applied
 when he is using an arbalest.
 
-Blowgun: This is a hollow tube or pipe, usually made of wood or bone, which expels a tiny dart
+**Blowgun**: This is a hollow tube or pipe, usually made of wood or bone, which expels a tiny dart
 when its user blows on one end. As the dart itself is capable of negligible damage, blowguns are
 seldom used without some kind of poison. An Adventurer's Damage Modifier is never applied
 when he is using a blowgun. If fired at someone wearing more protection than normal clothing,
 it requires the Combat Manoeuvre of either Bypass Armour or Choose Location to strike flesh.
 
-Bolas: A thrown weapon comprising of two or more weights tied together with lengths of cord.
+**Bolas**: A thrown weapon comprising of two or more weights tied together with lengths of cord.
 Whirled and released, the bolas works by entangling its target in the cords and inflicts damage
 from the winding weights. Unlike other Ranged weapons, the bolas cannot be parried by shields.
 It may only be evaded.
 
-
-                                                                                                    105
-
-       Close Combat Weapons
-          Damage   STR/                 Combat            AP/
-          Dice     DEX     Size   Reach Manoeuvres    ENC HP      Cost
-Ball & chain 1D6+1      9/11    M      M     Entangle,     2    6/8    250 SP
-                                        Stun Location
-Battleaxe      1D6+1    11/9    M      M     Bleed, Sunder 1    4/8    100 SP
-          1D8+1    9/9                  (2H only)
-Buckler        1D3      -/5     M      S     -             1    6/8    50 SP
-Chain          1D4      7/12    M      M     Entangle      1    8/6    10 SP
-Club           1D6      7/-     M      S     Stun Location 1    4/4    5 SP
-Dagger2        1D4+1    -/-     S      S     Bleed, Impale -    6/8    30 SP
-Dirk           1D3+2    -/-     S      S     Bleed, Impale -    6/6    50 SP
-Falchion       1D6+2    7/9     M      M     Bleed         1    6/10   200 SP
-Garrotte       1D2      -/9     S      T     -             -    1/2    15 SP
-Great axe      1D12+2   13/9    H      L     Bleed, Sunder 2    4/10   125 SP
-Great club     2D6      12/9    H      L     Stun Location 3    4/10   50 SP
-Great          1D10+3   11/9    H      L     Stun          3    4/10   250 SP
-hammer                                       Location,
-                                        Sunder
-Great sword    2D8      13/11   H      L     Bleed, Impale, 4   6/12   300 SP
-                                        Sunder
-Halberd1       1D8+2    7/7     L      VL    Entangle,     4    4/10   250 SP
-                                        Impale,
-                                        Sunder
-Hatchet2       1D6      -/9     S      S     Bleed         1    3/6    25 SP
-Heater         1D4      9/-     L      S     -             2    6/12   150 SP
-shield3
-Hoplite        1D4      11/-    H      S     -             3    6/18   300 SP
-shield3
-Kite shield3   1D4      13/-    H      S     -             3    4/18   300 SP
-Knife2         1D3      -/-     S      S     Bleed, Impale -    5/4    10 SP
-Lance  1
-          1D10+2   9/9     H      VL    Impale,       3    4/10   150 SP
-                                        Sunder
-
-
-
-
-106
-
-                             Damage   STR/                 Combat             AP/
-                 Dice     DEX     Size   Reach Manoeuvres     ENC HP     Cost
- Longspear   1
-                 1D10+1   5/5     L      VL    Impale         2   4/10   30 SP
- Longsword       1D8      13/9    M      L     Bleed, Impale, 2   6/12   250 SP
-                 1D10     9/9     L      L     Sunder (2H
-                                               only)
- Mace            1D8      7/7     M      S     Stun Location 1    6/6    100 SP
- Main            1D4      -/11    S      S     Bleed          -   6/7    180 SP
- Gauche
- Military flail 1D10      13/11   L      L     Stun Location 3    4/10   250 SP
- Military pick 1D6+1      11/5    M      M     Stun           3   6/10   180 SP
-                                               Location,
-                                               Sunder
- Morning star 2D4         9/9     M      S     Stun Location 2    4/10   150 SP
- Net 2
-                 1D4      10/11   S      L     Entangle       3   2/20   200 SP
- Poleaxe         1D8+2    11/9    L      L     Impale, Stun   2   6/10   150 SP
-                                               Location,
-                                               Sunder
- Poniard2        1D4      -/7     S      S     Bleed, Impale -    4/5    60 SP
- Quarter staff 1D8        7/7     M      L     Stun Location 2    4/8    20 SP
- Rapier          1D8      7/13    M      L     Impale         1   5/8    100 SP
- Sabre           1D6+1    7/7     M      M     Bleed, Impale 1    6/8    225 SP
- Scimitar        1D8      7/11    M      M     Bleed          2   6/10   200 SP
- Short spear1,   1D8+1    5/5     M      L     Impale         2   4/5    20 SP
- 2
-
-
- Short sword     1D6      5/7     M      S     Bleed, Impale 1    6/8    100 SP
- Target  3
-                 1D6      9/-     L      S     Impale         2   4/12   150 SP
- Trident2        1D8      10/7    M      L     Impale         2   4/10   155 SP
- War sword       1D8      9/7     M      M     Bleed, Impale 2    6/10   175 SP
-
-1
-This weapon may be set against a charge.
-2
-This weapon suffers no penalty when thrown.
-3
-This weapon may Parry Ranged weapons.
-
-
-
-
-                                                                                  107
-
-       Dart: A dart resembles an arrow with a longer head and shorter shaft (usually slightly less than
+**Dart**: A dart resembles an arrow with a longer head and shorter shaft (usually slightly less than
 half a metre in length). Darts are rarely a warrior's weapon and are found in the hands of small
 game huntsmen and roguish Adventurers.
 
-Discus: A discus is a flat disc made of stone or metal. Hurling the discus is an old sport and show
+**Discus**: A discus is a flat disc made of stone or metal. Hurling the discus is an old sport and show
 of physical prowess. However, someone who is good enough with a discus could easily split skin
 and shatter bone with a forceful throw.
 
-Heavy Crossbow: Similar in concept to the light crossbow, this version is larger and reinforced
+**Heavy Crossbow**: Similar in concept to the light crossbow, this version is larger and reinforced
 with metal bands to handle the immense pull of the string. Many heavy crossbows come with a
 metal stirrup so the firer can use his foot for leverage, or a crank to pull back the thick string. An
 Adventurer's Damage Modifier is never applied when he is using a heavy crossbow.
 
-Javelin: The javelin is a spear-like weapon with a narrow, pointed head designed for throwing
+**Javelin**: The javelin is a spear-like weapon with a narrow, pointed head designed for throwing
 short distances. The thrower of a javelin may use Pin Weapon as a Combat Manoeuvre, against a
 parrying shield. In this circumstance, the pinned shield cannot be used until the javelin has been
 removed (which takes one round).
 
-Light Crossbow: A simple mechanical bow, the light crossbow often sees service in small armies
+**Light Crossbow**: A simple mechanical bow, the light crossbow often sees service in small armies
 that lack training in other types of Ranged weapons. It can be clutched in one hand and reloaded
 with the other, making it a good infantryman's weapon. An Adventurer's Damage Modifier is
 never applied when he is using a light crossbow.
 
-Long Bow: A long bow has a shaft as much as two metres in length and is designed to be fired
+**Long Bow**: A long bow has a shaft as much as two metres in length and is designed to be fired
 on foot. A long bow cannot be used from horseback.
 
-Net: A net can be hurled at an opponent within five metres. Due to its engulfing size, a thrown
+**Net**: A net can be hurled at an opponent within five metres. Due to its engulfing size, a thrown
 net may only be evaded, not parried.
 
-Recurve Bow: A recurve, or composite bow is made from a laminated combination of wood,
+**Recurve Bow**: A recurve, or composite bow is made from a laminated combination of wood,
 sinew, horn and sometimes even bone. When strung the bow's forward-angled arms give it a
 distinctive shape, allowing it to be as strong as a long bow but without the length. Recurve bows
 are mainly used by mounted archers and nomads, since the reduced size means that it does not
 catch on the mount that it is fired from.
 
-Short Bow: Designed to be fired from horseback, the short bow is equally useful as a foot
+**Short Bow**: Designed to be fired from horseback, the short bow is equally useful as a foot
 soldier's weapon. It is a good hunting tool as well as a weapon of war and when used to hunt deer
 and smaller game animals it can make all the difference.
 
-Sling: A sling is a long strip of cloth or leather used to fling a stone or bullet at a target. It is as
+**Sling**: A sling is a long strip of cloth or leather used to fling a stone or bullet at a target. It is as
 lethal as a bow, able to injure or kill those wearing heavy armour. Many slings also have a sewn-in
 leather cup or pad in which to hold the projectile while gathering velocity. A sling's range makes
 it useful against archers.
 
-Staff Sling: A simple sling mounted on the end of a wooden haft, the staff sling is used by
+**Staff Sling**: A simple sling mounted on the end of a wooden haft, the staff sling is used by
 whipping the shaft overhead to cast its load. Although it cannot match the sling for range, it can
 be used to throw heavier stones or burning jars of oil (or other noxious substances) in high arcs
 over walls and fortifications. When not being used as a sling, the leather cup and cord can be
 wound around the haft and lashed down, effectively turning the staff sling into a quarterstaff.
 
-Trident: See entry in Close Combat Weapons.
+**Trident**: See entry in Close Combat Weapons.
 
 
-108
+##### Ranged Weapons
 
-         Ranged Weapons
-           Damage              STR/    Combat
-Weapon Damage Modifier Range Load DEX SIZ Manoeuvres                      ENC AP/ HP Cost
-Arbalest 1D12 N        180m 4     10/9 E Impale,                          3   6/10   500
-                                       Sunder                                     SP
-Blowgun -     N        15m   1    -/9   - Impale                          -   1/4    30 SP
-Bolas    1D4  Y        15m   -    -/9   - Entangle                        -   2/2    10 SP
-Dagger 1D4    Y        10m   -    -/9   S Impale                          -   4/6    30 SP
-Dart     1D4  Y        20m   -    -/9   S Impale                          -   2/1    10 SP
-Discus 1D4+1 Y         50m   -    -/9   L Stun                            -   2/3    30 SP
-                                       Location
-Hatchet 1D6   Y        10m   -    7/11 S  Bleed                           1      03/06/11 25 SP
-Heavy 1D10    N        150m 3     7/9   H Impale,                         2      4/8      350
-crossbow                                  Sunder                                          SP
-Javelin 1D8   Y        30m   -    5/9   H Impale, Pin                     1      3/8      20 SP
-                                       Weapon
-                                       (Shield)
-Light    1D8  N        100m 2     5/9   L Impale                          1      4/5        150
-crossbow                                                                                    SP
-Long     1D8  Y        175m 1     13/11 H Impale                          1      4/7        200
-bow                                                                                         SP
-Net       -   N        2.5m -     10/11 - Entangle                        3      2/20       200
-                                                                                         SP
-Recurve 1D8         Y          175m     1      13/11 H      Impale        1      4/8        225
-bow                                                                                         SP
-Short   1D6         Y          80m      1      9/11    L    Impale        1      4/4        75 SP
-bow
-Sling   1D8         Y          200m     1      -/11    L    Stun          -      1/2        5 SP
-                                                         Location
-Staff     2D6       Y          100m     3      -/11    H    Stun          2      3/6        20 SP
-sling                                                       Location
-Trident   1D8       Y          10m      -      10/7    L    Impale        2      4/10       155
-                                                                                         SP
+| Weapon         | Damage | Damage Modifier | Range | Load | STR/DEX | SIZ | Combat Manoeuvres           | ENC  | AP/ HP    | Cost |
+|----------------|--------|-----------------|-------|------|---------|-----|-----------------------------|------|-----------|------|
+| Arbalest       | 1D12   | N               | 180m  | 4    | 10/9    | E   | Impale, Sunder              | 3    | 6/10      | 500 SP |
+| Blowgun        | -      | N               | 15m   | 1    | -/9     | -   | Impale                      | -    | 1/4       | 30 SP |
+| Bolas          | 1D4    | Y               | 15m   | -    | -/9     | -   | Entangle                    | -    | 2/2       | 10 SP |
+| Dagger         | 1D4    | Y               | 10m   | -    | -/9     | S   | Impale                      | -    | 4/6       | 30 SP |
+| Dart           | 1D4    | Y               | 20m   | -    | -/9     | S   | Impale                      | -    | 2/1       | 10 SP |
+| Discus         | 1D4+1  | Y               | 50m   | -    | -/9     | L   | Stun Location               | -    | 2/3       | 30 SP |
+| Hatchet        | 1D6    | Y               | 10m   | -    | 7/11    | S   | Bleed                       | 1    | 03/06/11  | 25 SP |
+| Heavy crossbow | 1D10   | N               | 150m  | 3    | 7/9     | H   | Impale, Sunder              | 2    | 4/8       | 350 SP |
+| Javelin        | 1D8    | Y               | 30m   | -    | 5/9     | H   | Impale, Pin Weapon (Shield) | 1    | 3/8       | 20 SP |
+| Light crossbow | 1D8    | N               | 100m  | 2    | 5/9     | L   | Impale                      | 1    | 4/5       | 150 SP |
+| Long bow       | 1D8    | Y               | 175m  | 1    | 13/11   | H   | Impale                      | 1    | 4/7       | 200 SP |
+| Net            | -      | N               | 2.5m  | -    | 10/11   | -   | Entangle                    | 3    | 2/20      | 200 SP |
+| Recurve bow    | 1D8    | Y               | 175m  | 1    | 13/11   | H   | Impale                      | 1    | 4/8       | 225 SP |
+| Short bow      | 1D6    | Y               | 80m   | 1    | 9/11    | L   | Impale                      | 1    | 4/4       | 75 SP |
+| Sling          | 1D8    | Y               | 200m  | 1    | -/11    | L   | Stun Location               | -    | 1/2       | 5 SP |
+| Staff sling    | 2D6    | Y               | 100m  | 3    | -/11    | H   | Stun Location               | 2    | 3/6       | 20 SP |
+| Trident        | 1D8    | Y               | 10m   | -    | 10/7    | L   | Impale                      | 2    | 4/10      | 155 SP |
+                                                                                         
 
-
-Ranged Weapon Ammunition
+#### Ranged Weapon Ammunition
 The following table lists specific types of ammunition, how sturdy they might be, whether they
 weigh enough to have an ENC score and their cost. Please note that unless an entry has a (#)
 after its name, the price listed is for a single item.
 
-Arbalest bolts: Made of metal-shod hardwood roughly as thick as a man's thumb, arbalest bolts
+**Arbalest bolts**: Made of metal-shod hardwood roughly as thick as a man's thumb, arbalest bolts
 are tipped with heavy metal heads that resemble a stiletto or dagger. They use small fletching
 from waxy-feathered fowl and are remarkably accurate, if only due to the sheer force with which
 they are fired.
 
-Arrows, Bodkin: These arrows are the most commonly used ammunition in Legend. They
+**Arrows, Bodkin**: These arrows are the most commonly used ammunition in Legend. They
 possess narrow spikes for points. While not as simple to make as sling bullets, they are far more
 popular for their multiple utilities.
 
-
-
-                                                                                                 109
-
-       Arrow, Broadhead: While a normal arrow can cause quite a wound, these arrows have broad
+**Arrow, Broadhead**: While a normal arrow can cause quite a wound, these arrows have broad
 cutting surfaces that inflict greater damage, at the expense of range. Using a broadhead arrow
 reduces the distance it can be fired by 25% but inflicts an extra two points of damage on
 unarmoured opponents.
 
-Arrow, Fishing: More of a tool than a weapon, the fishing arrow is a thin-headed arrow that has
+**Arrow, Fishing**: More of a tool than a weapon, the fishing arrow is a thin-headed arrow that has
 a set of three small barbs facing backwards to catch and hold a wriggling fish. It also has almost
 no fletching at all (it interferes with underwater propulsion) but rather a small metal ring onto
 which cord or twine can be tied to retrieve a shot fish. Using fishing arrows to catch fish grants a
 +10% bonus to Survival Skill Tests.
 
-Arrow, Signal: Not made for combat at all, signal arrows have a hollow head bored out in the same
+**Arrow, Signal**: Not made for combat at all, signal arrows have a hollow head bored out in the same
 fashion as a shrilling whistle. When fired (preferably upward into the air) the arrow corkscrews and
 emits a distinct and piercing wail that can be heard on a clear day for up to five kilometres. If actually
 fired at a target, the arrow has a -20% penalty to hit and will cause half damage if successful.
 
-Blowgun Darts: Blowgun darts are small, thin needles or stubby miniature arrowheads that
+**Blowgun Darts**: Blowgun darts are small, thin needles or stubby miniature arrowheads that
 often have a tuft of down or cotton at the end in order to catch the rush of air in a blowgun. They
 are not designed to do damage but can deliver a single dose of poison to a target quite easily - if
 the firer can manage to bypass his armour, of course.
 
-Crossbow Bolts: Simple and stout, bolts are miniature arrows with smaller fletching designed
+**Crossbow Bolts**: Simple and stout, bolts are miniature arrows with smaller fletching designed
 to carry the bolt on existing force rather than keep it aloft. They tend to have thinner, more
 compact heads of metal on them to drive deeper with the impact but some have the wider
 hunting heads commonly seen on arrows. Bolts tend to be thicker than arrows and are purchased
 to fit a specific type of crossbow - wrist, light, medium or heavy.
 
-Sling Bullets: Stone or lead ovals that can reach surprising speeds and accuracy when hurled by a
+**Sling Bullets**: Stone or lead ovals that can reach surprising speeds and accuracy when hurled by a
 skilled user. Bullets can be retrieved rather easily and most can even be hammered or rolled back
 into a usable shape with little effort (as lead becomes soft when heated slightly).
 
-Ranged Weapon Ammunition
-Ammunition                                     AP/HP             ENC              Cost
-Arbalest bolts (10)                            1/2               1                5 SP
-Arrow, bodkin (10)                             1/1               -                1 SP
-Arrow, broadhead (10)                          1/1               -                2 SP
-Arrow, fishing                                 1/2               -                2 CP
-Arrow, signal                                  1/1               -                3 CP
-Arrow, wood-headed                             1/1               -                2 CP
-Blowgun darts (10)                             1/1               -                2 SP
-Crossbow bolts (10)                            1/1               -                2 SP
-Sling bullets (10)                             1/1               -                5 CP
+##### Ranged Weapon Ammunition
+
+| Ammunition                                   | AP/HP           | ENC            | Cost |
+|----------------------------------------------|-----------------|----------------|------|
+| Arbalest bolts (10)                          | 1/2             | 1              | 5 SP |
+| Arrow, bodkin (10)                           | 1/1             | -              | 1 SP |
+| Arrow, broadhead (10)                        | 1/1             | -              | 2 SP |
+| Arrow, fishing                               | 1/2             | -              | 2 CP |
+| Arrow, signal                                | 1/1             | -              | 3 CP |
+| Arrow, wood-headed                           | 1/1             | -              | 2 CP |
+| Blowgun darts (10)                           | 1/1             | -              | 2 SP |
+| Crossbow bolts (10)                          | 1/1             | -              | 2 SP |
+| Sling bullets (10)                           | 1/1             | -              | 5 CP |
 
 
-Using Ranged Weapons in Close Combat
+#### Using Ranged Weapons in Close Combat
 Just as Close Combat weapons are not designed to be thrown, so most Ranged weapons are not
 generally designed to be used in Close Combat. Sometimes, however, Adventurers will be left
 with no option but to club someone with a crossbow butt or stab an enemy with an arrow...
@@ -4641,25 +4419,26 @@ If used in Close Combat, a projectile weapon or its ammunition is usually treate
 weapon. Use the most applicable combat skill the Adventurer has but apply a -2 modifier to any
 damage rolled, reflecting the inappropriate use of the weapon.
 
-110
 
-         Food and Lodging
+### Food and Lodging
 Merchants, explorers and Adventurers can rarely expect to sleep in their own beds every night
 if, indeed, they possess homes. The following therefore illustrate the cost of living for those who
 are perpetually on the road.
 
-Food and Lodging
-Item                                                                     Cost
-Lodging, poor                                                            2 CP
-Lodging, average                                                         1 SP
-Lodging, superior                                                        5 SP
-Food and drink, poor, 1 day                                              1 CP
-Food and drink, average, 1 day                                           5 CP
-Food and drink, superior, 1 day                                          2 SP
-Trail rations, 1 day                                                     5 CP
+##### Food and Lodging
+
+| Item                                                                   | Cost |
+|------------------------------------------------------------------------|------|
+| Lodging, poor                                                          | 2 CP |
+| Lodging, average                                                       | 1 SP |
+| Lodging, superior                                                      | 5 SP |
+| Food and drink, poor, 1 day                                            | 1 CP |
+| Food and drink, average, 1 day                                         | 5 CP |
+| Food and drink, superior, 1 day                                        | 2 SP |
+| Trail rations, 1 day                                                   | 5 CP |
 
 
-General Items
+## General Items
 The following items, whilst billed as general, cover a range of specifics as well as day-to-day
 adventuring needs. Some are more useful than others but resourceful Adventurers will be able to
 find a use for just about any of the items listed in the following General Items table.
@@ -4668,434 +4447,94 @@ Each item has a description noting any specifics or game effects. The Cultures c
 which Cultural Backgrounds are most likely to have access to the item - although this is offered
 as a guideline only. If an item has no ENC value, it is light enough to be negligible when carried.
 
-General Items
-Item         Description                                               Cultures   ENC      Cost
-Animal call/ This is a small wooden, bone or even metallic whistle     All        -        1 SP
-whistle      or instrument used to make attractive sounds in
-          the particular style of animal. Commonly used by
-          hunters to attract prey, or by scouts to communicate
-          signals to one another in non-verbal ways, animal
-          calls are seldom larger than a hand's span in size. Any
-          Adventurer using an animal call to hunt can add
-          +10% to his Survival skill for hunting purposes.
-Animal       Using a coiled spring or a weight and pulley, the         All        2        7 SP
-snare/trap   animal snare/trap is designed to snatch small game
-          animals like hares or pheasant with remarkable
-          force - possibly killing the animal with the rapidly
-          yanking noose.
-Backpack     This standard piece of adventuring equipment,             All        1        5/7 SP
-          held to the back with two shoulder straps, can
-          hold 20 ENC of equipment. There is a more
-          expensive version that has a reinforced frame,
-          allowing for an additional 5 ENC of equipment
-          to be strapped to the sides of the backpack as well,
-          costing an additional 2 SP.
+##### General Items
 
+| Item | Description | Cultures | ENC | Cost |
+|------|-------------|----------|-----|------|
+| Animal call/ whistle | This is a small wooden, bone or even metallic whistle or instrument used to make attractive sounds in the particular style of animal. Commonly used by hunters to attract prey, or by scouts to communicate signals to one another in non-verbal ways, animal calls are seldom larger than a hand's span in size. Any Adventurer using an animal call to hunt can add +10% to his Survival skill for hunting purposes. | All | - | 1 SP |
+| Animal snare/trap | Using a coiled spring or a weight and pulley, the animal snare/trap is designed to snatch small game animals like hares or pheasant with remarkable force - possibly killing the animal with the rapidly yanking noose. | All | 2 | 7 SP |
+| Backpack | This standard piece of adventuring equipment, held to the back with two shoulder straps, can hold 20 ENC of equipment. There is a more expensive version that has a reinforced frame, allowing for an additional 5 ENC of equipment to be strapped to the sides of the backpack as well, costing an additional 2 SP. | All | 1 | 5/7 SP |
+| Bedroll | This includes a blanket and cushioned pad, usually carried tightly rolled and tied with a metre of leather cord. | All | 1 | 1 SP |
+| Block and tackle | This is a mechanism of pulleys and counterweights useful for constructing traps, hauling up heavy items and so forth. It adds a +10% bonus to Mechanisms tests to make or disarm large traps and is required for some Engineering tests. | Civilised | 1 | 15 SP |
+| Bottle, glass | Capable of holding one litre of liquid. The glass can be transparent or opaque at no extra cost. | Barbarian, Civilised, Nomad | - | 2 SP |
+| Candle, 1 hour | A small, stubby candle that will burn for one hour before exhausting its fuel. Originally used by miners to mark the passage of time while they were underground, many Adventurers have adopted them for the same purpose. A candle illuminates a one metre radius. Any wind stronger than a slight breeze will extinguish a candle. | All | - | 1 CP |
+| Candle, 2 hour | As for previous but slower burning. | All | - | 3 CP |
+| Candle, 6 hour | As for previous but slower burning. | All | 1 | 1 SP |
+| Chain, 2m | Bronze or iron chain in a traditional chain-link. It has 8 AP and 8 HP per link, applying a -30% penalty to any Brawn roll to use brute force to break. If used as a weapon, it inflicts 1D6 damage. | Barbarian, Civilised, Nomad | 2 | 40 SP |
+| Climbing kit | Consisting of a leather harness, several short lengths of rope, pitons and sundry other tools, a climbing kit provides a bonus of 20% to any Athletics Skill Tests made to climb. | Barbarian, Civilised, Nomad | 1 | 25 SP |
+| Codex | A bound volume of 100 papyrus or parchment sheets. The price is for a blank codex; codices containing sage lore are considerably pricier. | Civilised | 1 | 60 SP |
+| Craft tools | This is a small satchel containing portable tools appropriate to a particular craft. These tools are the bare minimum required to practise the craft without a skill penalty. A set of craft tools is useful for only one craft - an Adventurer must buy more sets of tools for any additional crafts. | Barbarian, Civilised, Nomad | 2 | 75 SP |
+| Crowbar | Adds +10% to Brawn rolls to lever open doors, casket lids and the like. If used as a weapon, it is considered a club (wielded with a -10% penalty). | Barbarian, Civilised, Nomad | 1 | 25 SP |
+| Doorjamb | This wedge of serrated metal is roughly the length of a man's hand, with very rough rasps up and down two of its sides. It is used under a wooden door to keep it from opening. It takes two Combat Actions to place and hammer a doorjamb but when it has bitten into the door and gripped the floor, it makes the door immobile without a Brawn roll pull the door open (with a -20% penalty). | Civilised | 2 | 5 SP |
+| Dye, coloured | Used for temporarily colouring clothing, hair or even skin, dye comes in a thick paste that must be spooned into a water-vinegar mix to dilute properly. Any dyed object will take on the new colour but it will eventually fade or wash out after 1D6 weeks. | Barbarian, Civilised, Nomad | 1 | 13 SP |
+| First aid kit | A first aid kit is made up primarily of bandages, tourniquets and herbal compresses. It allows the owner to use the First Aid skill without penalty. A first aid kit is good for five uses (whether the Skill Test succeeds or fails) before it is used up. | Barbarian, Civilised, Nomad | - | 25 SP |
+| Fish hook | A small metal hook used to catch fish. This item allows an Adventurer to use his Survival skill to catch a fish without suffering a penalty on the test. | All | - | 2 LB |
+| Fishing kit | Consisting of several hooks, thin but strong line, a segmented rod and corks, the fishing kit grants an Adventurer a +20% bonus to his Survival test to catch fish. | All | 1 | 15 SP |
+| Flint and tinder | The fastest and easiest way to start a fire, an Adventurer with flint and tinder can build a fire in one minute under normal conditions without having to roll his Survival skill. Games Masters may wish to impose penalties if the Adventurer is attempting to start a fire in a high wind or driving rain. | All | - | 5 CP |
+| Footpads | Small sheets of layered fur and silk lashed under the user's existing shoes or boots, footpads reduce the noise footfalls make by a remarkable margin. Although the items are heavier than they look, reducing the wearer's movement by one metre per movement, they are exceptionally quiet and add +10% to Stealth for silent movement purposes. | Civilised | 1 | 12 SP |
+| Grappling hook | Tied to a rope, it can be lofted up to half the thrower's STR in metres with an Athletics test. It will support the weight of 50 ENC or 50 SIZ, or any combination thereof. | Barbarian, Civilised | - | 5 SP |
+| Hammer | Useful in a variety of capacities, a hammer is a tool no Adventurer should be without. If used as a weapon, it is treated as a club (wielded with a -10% penalty). Hammers may be used on inanimate objects without being destroyed. | Barbarian, Civilised, Nomad | 1 | 1 SP |
+| Healer's kit | Stocked with bandages, mortar and pestle, poultices, barber's tools, basic surgical equipment and everything else a healer needs to practise his trade on the road, a healer's kit is necessary for an Adventurer to use the Healing skill. | All | 1 | 150 SP |
+| Hourglass | This specially blown tube of curved glass set into a wooden or brass frame is filled with fine sand that takes exactly an hour's time to pass through. Fragile and easily disturbed, the hourglass is an important piece of equipment for alchemists and mages, who need to keep track of reaction and application times for future notation and possible adjustments. | Civilised | 1 | 20 SP |
+| Ladder, rope 3m | Made of rope with rope or wooden rungs (increase ENC to 5 for wooden rungs), a rope ladder provides a +20% (+30% for wooden rungs) bonus to Athletics rolls when used for climbing. | Barbarian, Civilised, Nomad | 4 | 2 SP |
+| Lantern, basic | Most lanterns are made of brass or bone and use a leather or metal flap to shield the oiled or waxen mantle inside. A basic lantern provides clear illumination for a three metre radius. It will burn for two hours on a flask of oil. | Barbarian, Civilised, Nomad | 1 | 10 SP |
+| Lantern, cowled | A cowled lantern is a smaller lantern that is always made from bronze and brass with a stiff leather hood that pulls back from its one main opening. Inside the cowled lantern is a ring of polished mirrors that reflect the light of the burning oil into a focused beam that comes out of the opening when the hood is pulled back. The beam of light from a cowled lantern extends 10 metres but is only a metre wide. It will burn for one hour on a flask of oil. | Civilised | 1 | 12 SP |
+| Lantern, hanging | An extremely delicate and decorative lantern made of coloured paper and thin wood, a hanging lantern is used to cast a dim but pleasing glow to a large area. The coloured light from a hanging lantern provides hazy illumination up to a four metre radius. It will burn for three hours on a flask of oil. | Civilised | 1 | 14 SP |
+| Lock picks | An item no self-respecting thief would ever be without, lock picks allow an Adventurer to use his Mechanisms skill to pick a lock. The Games Master may assign penalties or bonuses to this test based upon the specific circumstances. | Civilised | - | 75 SP |
+| Magnifying Lens | Whether mounted on a handle or in a pair of wire frames to be worn as spectacles, this specifically shaped piece of ground glass is used to magnify writing, symbols or other tiny clues. While looking through the lens at anything within a distance of one metre, the Adventurer gets a +25% bonus to Perception. However, he suffers a -15% penalty to Perception tests concerning everywhere else. Also, a magnifying lens held still and fed sufficient light from the sun or other remarkable source can create a heat source that will ignite flammable objects. | Civilised | - | 10 SP |
+| Milling Stone | This is a handheld pair of grinding stones that can be loaded with spices, grains and minerals to be turned to powder. Milling stones are helpful for alchemists, healers, shamans and magicians to have a source for their various and sundry ingredients while on the road. The grinding process takes less than a few minutes for most substances but could take hours for gemstones or other extremely dense materials. | All | 2 | 8 SP |
+| Mining pick | A mining pick allows its user to chip his way through rock (albeit slowly). If used as a weapon, it is considered a club (wielded with a -20% penalty). Mining picks may be used on inanimate objects without being destroyed. | Barbarian, Civilised | 1 | 35 SP |
+| Musical instrument | Any reasonable quality musical instrument costs around 70 SP (for a flute, lute or equivalent, for example). Larger and better quality instruments cost multiples of 70 SP. For example, a good quality lute would costs 140 SP and a reasonable quality cello or bass horn would cost the same. | All | 2 | 70 SP |
+| Net, fishing | This is a two metre by two metre weighted net of woven fibres designed to be dropped into standing or running water to catch fish, crustaceans and the like, for food. It takes 3D10 minutes to use the net properly but adds a +25% bonus to the Adventurer's Survival skill for the purposes of catching food in this way. | All | 4 | 10 SP |
+| Oar, collapsible | A hinged piece of metal with a wide wooden end that snaps open to a half-metre length, the collapsible oar gives a +5% to Boating due to its lightweight and expertly crafted design. When used in combat, the collapsible oar acts as a club (with a -10% penalty). | Barbarian, Civilised, Nomad | 2 | 5 SP |
+| Oil, flask | A single flask of oil is enough to fuel a basic lantern for two hours, or, if broken on the ground and ignited, enough to sustain a small fire for one minute. Oil is packaged in small pottery or glass bottles but can also occasionally be found in waxed leather skins. A skin cannot be 'broken' as mentioned previously - either on purpose or accidentally. | Barbarian, Civilised, Nomad | 1 | 1 SP |
+| Oil, Jellied | Mixing sawdust, chalk or hoof shavings into common lamp oil slowly over a period of time can eventually create a combustible jelly that is very useful for smearing on torches and other objects that are to be set alight at a later time. A single spark will light jellied oil on fire and it will then burn as if it were a common flask of oil. After it has been smeared onto something, jellied oil stays combustible for up to a week before it begins to lose its potency. | Barbarian, Civilised, Nomad | 2 | 10 SP |
+| Oil, weapon | Used to keep rust and tarnish off the precious edges of bladed weapons, weapon oil is extremely thin and is made primarily from the rendered fat and oils from fish or whales. It is relatively odourless and carries with it only a very slight yellowish tint. It is only slightly more flammable than cooking oils and a single bottle of it can upkeep dozens of weapons for weeks at a time. Any blade treated with weapon oil after it has been used in combat will not suffer from mundane rust or tarnish for a week or so. | Barbarian, Civilised, Nomad | 1 | 2 SP |
+| Papyrus, sheet | A papyrus sheet is a sheet of thin, brittle paper useful for taking notes, drawing maps or even making a rubbing of a raised surface. It is painstakingly made from papyrus reeds and is considered a luxury item by most common people. A sheet of papyrus is square, half a metre by half a metre. Once written on, a papyrus sheet can be 'waxed' to make the ink water resistant and smear-proof, though this also makes the sheet more flammable should it ever be exposed to an open flame. | Civilised | - | 5 CP |
+| Pole, 3m | A long pole serves many useful purposes to an Adventurer, from testing the stability of the ground ahead of him, to functioning as a crude yoke. | All | 1 | 1 SP |
+| Quiver | Quivers can generally hold up to 30 arrows or crossbow bolts. | All | - | 2 SP |
+| Razor, folding | The mainstay of any barber's tools, the folding razor is the best implement to painstakingly remove three day old stubble. Useful for a variety of reasons, the razor can also be used to inflict rather nasty wounds on bare flesh - inflicting 1D3 damage upon scoring a hit on an unarmoured Hit Location. Armour of any kind stops this damage completely and dulls the blade considerably. Apart from the damage, a folding razor has the same statistics as a dagger. | Civilised    - | | 3 SP |
+| Rope, 10m | An essential piece of equipment for an Adventurer, a standard rope can support the weight of 50 ENC or 50 SIZ, or any combination thereof. | All | 2 | 10 SP |
+| Rope, silken | Lighter, stronger and less abrasive to the skin, silken rope is superior to braided hemp in nearly every way. Like its more common cousin it comes in 10 metre lengths but can support 60 ENC or 60 SIZ, or any combination thereof. Silken rope requires more knots to make it usable for climbing purposes, shortening it by four metres. | Civilised | 1 | 75 SP |
+| Sack, large | A wide sack of leather or canvas, able to hold 10 ENC of equipment. | All | 1 | 5 CP |
+| Sack, small | A small sack can hold 5 ENC of equipment. | All | - | 2 CP |
+| Saw, hand | This long piece of hammered metal has been sharpened to have a jagged and serrated edge perfect for ripping through wood, which is attached to a leather-wrapped handle. With enough strokes back and forth, the hand saw can cut through wood at a rate of 1D4 Hit Points per round - ignoring AP from the wooden object. If used as a makeshift weapon it can be used as a crude short sword (with a -15% penalty) but will likely never be usable as a saw again. | Barbarian, Civilised, Nomad | 1 | 1 SP |
+| Scythe | Primarily a tool for harvesting grain, a scythe can be put to work as a weapon when necessary. If used as a weapon, it is considered a bill (wielded with a -10% penalty). | Barbarian, Civilised | 2 | 30 SP |
+| Seal | Often built into jewellery, such as a ring or necklace, seals are carved with an identifying crest or mark representing its owner. These are used to press wax to close letters, scrolls or other similar objects. Recognising a specific family, guild or cult seal requires a Lore (Regional) Skill Test (modified as the Games Master sees fit). | Barbarian, Civilised, Nomad | - | 100 SP |
+| Spade | This is a small shovel, sometimes with a detachable wooden handle. It can be used to dig large amounts of soil or sand in relatively short order but is all but useless on stone or very dense earth. If used as a weapon, it is considered a club (wielded with a -20% penalty). | Barbarian, Civilised, Nomad | 1 | 25 SP |
+| Tent, 4 person | This folding animal hide or fabric tent can be set up in just a few minutes and will keep up to four human-sized people dry. It is not exceptionally comfortable, which is why so many Adventurers invest in good bedrolls and warm clothing for long journeys. | Barbarian, Civilised, Nomad | 2 | 10 SP |
+| Tent, 8 person | Held up by five poles that must be securely driven into the ground, this tent can be set up in just under an hour by two men. Once erected properly, up to eight human-sized individuals can sleep inside without fear for most normal weather conditions. | Barbarian, Civilised, Nomad | 5 | 50 SP |
+| Torch, 1 hour | A torch has one end wrapped in cloth and dipped in pitch or a similar flammable substance. It can be lit with flint and tinder in one round and will burn for one hour. A torch illuminates a three metre radius. If used as a weapon, it is considered a club (wielded with a -10% penalty), except that it does not inflict normal damage - instead, it inflicts 1D4 fire damage and a fumble or critical hit will also extinguish the brand. | All | - | 4 CP |
+| Torch, 6 hour | As for previous but treated with longer-lasting materials. | All | 1 | 8 CP |
+| Torch, waterproof | As for previous but the materials are treated with inflammable and water dispelling chemicals so that, even when wet, the torch still lights. It will not burn underwater, however. | Barbarian, Civilised, Nomad | - | 2 SP |
+| Waterskin | A lined bladder or sewn leather pouch designed to contain liquids, with a wooden or bone spout at one end for pouring. A typical waterskin can hold enough water to sustain an Adventurer for two days but can also be used to hold wine, poison or other liquids equally well. | All | 1 | 5 CP |
+| Wax, block | Used for a variety of reasons in several professions, beeswax is much like rope in that many Adventurers find ways to put it to inventive use. Thieves will press keys into it in order to make effective forgeries, mages might need it to seal up potions or component bottles and so on. | All | 1 | 2 CP |
+| Writing kit | The basic writing kit contains several vials of black ink, as well as brushes, quills and pens used for calligraphy and scribing. The largest part of the kit is a thin sheet of wood, the same dimensions as a piece of papyrus. For an additional cost writing kits can also contain other coloured inks. | Civilised | 1 | 45 SP |
 
-
-
-                                                                                                   111
-
-       Item          Description                                              Cultures     ENC   Cost
-Bedroll       This includes a blanket and cushioned pad,               All          1     1 SP
-         usually carried tightly rolled and tied with a metre
-         of leather cord.
-Block and This is a mechanism of pulleys and counterweights            Civilised    1     15 SP
-tackle        useful for constructing traps, hauling up heavy
-         items and so forth. It adds a +10% bonus to
-         Mechanisms tests to make or disarm large traps
-         and is required for some Engineering tests.
-Bottle, glass Capable of holding one litre of liquid. The glass        Barbarian,   -     2 SP
-         can be transparent or opaque at no extra cost.           Civilised,
-                                                                  Nomad
-Candle, 1     A small, stubby candle that will burn for one            All          -     1 CP
-hour          hour before exhausting its fuel. Originally used
-         by miners to mark the passage of time while
-         they were underground, many Adventurers have
-         adopted them for the same purpose. A candle
-         illuminates a one metre radius. Any wind stronger
-         than a slight breeze will extinguish a candle.
-Candle, 2     As for previous but slower burning.               All                 -     3 CP
-hour
-Candle, 6     As for previous but slower burning.                      All          1     1 SP
-hour
-Chain, 2m    Bronze or iron chain in a traditional chain-link.         Barbarian,   2     40 SP
-        It has 8 AP and 8 HP per link, applying a -30%            Civilised,
-        penalty to any Brawn roll to use brute force to           Nomad
-        break. If used as a weapon, it inflicts 1D6 damage.
-Climbing kit Consisting of a leather harness, several short            Barbarian,   1     25 SP
-        lengths of rope, pitons and sundry other tools,           Civilised,
-        a climbing kit provides a bonus of 20% to any             Nomad
-        Athletics Skill Tests made to climb.
-Codex        A bound volume of 100 papyrus or parchment                Civilised    1     60 SP
-        sheets. The price is for a blank codex; codices
-        containing sage lore are considerably pricier.
-Craft tools This is a small satchel containing portable tools          Barbarian,   2     75 SP
-        appropriate to a particular craft. These tools are        Civilised,
-        the bare minimum required to practise the craft           Nomad
-        without a skill penalty. A set of craft tools is useful
-        for only one craft - an Adventurer must buy more
-        sets of tools for any additional crafts.
-Crowbar      Adds +10% to Brawn rolls to lever open doors,             Barbarian,   1     25 SP
-        casket lids and the like. If used as a weapon, it is      Civilised,
-        considered a club (wielded with a -10% penalty).          Nomad
-
-
-
-
-112
-
-         Item          Description                                              Cultures     ENC   Cost
-Doorjamb      This wedge of serrated metal is roughly the              Civilised    2     5 SP
-           length of a man's hand, with very rough rasps
-           up and down two of its sides. It is used under a
-           wooden door to keep it from opening. It takes two
-           Combat Actions to place and hammer a doorjamb
-           but when it has bitten into the door and gripped
-           the floor, it makes the door immobile without
-           a Brawn roll pull the door open (with a -20%
-           penalty).
-Dye,          Used for temporarily colouring clothing, hair or         Barbarian,   1     13 SP
-coloured      even skin, dye comes in a thick paste that must          Civilised,
-           be spooned into a water-vinegar mix to dilute            Nomad
-           properly. Any dyed object will take on the new
-           colour but it will eventually fade or wash out after
-           1D6 weeks.
-First aid kit A first aid kit is made up primarily of bandages,        Barbarian,   -     25 SP
-           tourniquets and herbal compresses. It allows the         Civilised,
-           owner to use the First Aid skill without penalty. A      Nomad
-           first aid kit is good for five uses (whether the Skill
-           Test succeeds or fails) before it is used up.
-Fish hook     A small metal hook used to catch fish. This item         All          -     2 LB
-           allows an Adventurer to use his Survival skill to
-           catch a fish without suffering a penalty on the test.
-Fishing kit Consisting of several hooks, thin but strong line,         All          1     15 SP
-           a segmented rod and corks, the fishing kit grants
-           an Adventurer a +20% bonus to his Survival test
-           to catch fish.
-Flint and     The fastest and easiest way to start a fire, an          All          -     5 CP
-tinder        Adventurer with flint and tinder can build a fire
-           in one minute under normal conditions without
-           having to roll his Survival skill. Games Masters
-           may wish to impose penalties if the Adventurer is
-           attempting to start a fire in a high wind or driving
-           rain.
-Footpads      Small sheets of layered fur and silk lashed under        Civilised    1     12 SP
-           the user's existing shoes or boots, footpads reduce
-           the noise footfalls make by a remarkable margin.
-           Although the items are heavier than they look,
-           reducing the wearer's movement by one metre per
-           movement, they are exceptionally quiet and add
-           +10% to Stealth for silent movement purposes.
-
-
-
-
-                                                                                               113
-
-       Item          Description                                             Cultures     ENC   Cost
-Grappling    Tied to a rope, it can be lofted up to half the          Barbarian,   -     5 SP
-hook         thrower's STR in metres with an Athletics test. It       Civilised
-        will support the weight of 50 ENC or 50 SIZ, or
-        any combination thereof.
-Hammer       Useful in a variety of capacities, a hammer is a         Barbarian,   1     1 SP
-        tool no Adventurer should be without. If used            Civilised,
-        as a weapon, it is treated as a club (wielded with       Nomad
-        a -10% penalty). Hammers may be used on
-        inanimate objects without being destroyed.
-Healer's kit Stocked with bandages, mortar and pestle,                All          1     150 SP
-        poultices, barber's tools, basic surgical equipment
-        and everything else a healer needs to practise his
-        trade on the road, a healer's kit is necessary for an
-        Adventurer to use the Healing skill.
-Hourglass This specially blown tube of curved glass set into          Civilised    1     20 SP
-        a wooden or brass frame is filled with fine sand
-        that takes exactly an hour's time to pass through.
-        Fragile and easily disturbed, the hourglass is an
-        important piece of equipment for alchemists and
-        mages, who need to keep track of reaction and
-        application times for future notation and possible
-        adjustments.
-Ladder, rope Made of rope with rope or wooden rungs (increase         Barbarian,   4     2 SP
-3m           ENC to 5 for wooden rungs), a rope ladder                Civilised,
-        provides a +20% (+30% for wooden rungs) bonus            Nomad
-        to Athletics rolls when used for climbing.
-Lantern,     Most lanterns are made of brass or bone and              Barbarian,   1     10 SP
-basic        use a leather or metal flap to shield the oiled or       Civilised,
-        waxen mantle inside. A basic lantern provides            Nomad
-        clear illumination for a three metre radius. It
-        will burn for two hours on a flask of oil.
-Lantern,     A cowled lantern is a smaller lantern that is always     Civilised    1     12 SP
-cowled       made from bronze and brass with a stiff leather
-        hood that pulls back from its one main opening.
-        Inside the cowled lantern is a ring of polished
-        mirrors that reflect the light of the burning oil into
-        a focused beam that comes out of the opening
-        when the hood is pulled back. The beam of light
-        from a cowled lantern extends 10 metres but is only
-        a metre wide. It will burn for one hour on a flask
-        of oil.
-
-
-
-
-114
-
-         Item         Description                                            Cultures     ENC   Cost
-Lantern,    An extremely delicate and decorative lantern            Civilised    1     14 SP
-hanging     made of coloured paper and thin wood, a hanging
-         lantern is used to cast a dim but pleasing glow to
-         a large area. The coloured light from a hanging
-         lantern provides hazy illumination up to a four
-         metre radius. It will burn for three hours on a flask
-         of oil.
-Lock picks An item no self-respecting thief would ever be           Civilised    -     75 SP
-         without, lock picks allow an Adventurer to use
-         his Mechanisms skill to pick a lock. The Games
-         Master may assign penalties or bonuses to this test
-         based upon the specific circumstances.
-Magnifying Whether mounted on a handle or in a pair of wire         Civilised    -     10 SP
-Lens        frames to be worn as spectacles, this specifically
-         shaped piece of ground glass is used to magnify
-         writing, symbols or other tiny clues. While
-         looking through the lens at anything within a
-         distance of one metre, the Adventurer gets a +25%
-         bonus to Perception. However, he suffers a -15%
-         penalty to Perception tests concerning everywhere
-         else. Also, a magnifying lens held still and fed
-         sufficient light from the sun or other remarkable
-         source can create a heat source that will ignite
-         flammable objects.
-Milling     This is a handheld pair of grinding stones that         All          2     8 SP
-Stone       can be loaded with spices, grains and minerals to
-         be turned to powder. Milling stones are helpful
-         for alchemists, healers, shamans and magicians
-         to have a source for their various and sundry
-         ingredients while on the road. The grinding
-         process takes less than a few minutes for most
-         substances but could take hours for gemstones or
-         other extremely dense materials.
-Mining pick A mining pick allows its user to chip his way           Barbarian,   1     35 SP
-         through rock (albeit slowly). If used as a weapon,      Civilised
-         it is considered a club (wielded with a -20%
-         penalty). Mining picks may be used on inanimate
-         objects without being destroyed.
-
-
-
-
-                                                                                            115
-
-       Item          Description                                            Cultures     ENC   Cost
-Musical      Any reasonable quality musical instrument costs         All          2     70 SP
-instrument   around 70 SP (for a flute, lute or equivalent, for
-        example). Larger and better quality instruments
-        cost multiples of 70 SP. For example, a good
-        quality lute would costs 140 SP and a reasonable
-        quality cello or bass horn would cost the same.
-Net, fishing This is a two metre by two metre weighted net of        All          4     10 SP
-        woven fibres designed to be dropped into standing
-        or running water to catch fish, crustaceans and
-        the like, for food. It takes 3D10 minutes to use
-        the net properly but adds a +25% bonus to the
-        Adventurer's Survival skill for the purposes of
-        catching food in this way.
-Oar,         A hinged piece of metal with a wide wooden              Barbarian,   2     5 SP
-collapsible end that snaps open to a half-metre length, the          Civilised,
-        collapsible oar gives a +5% to Boating due to its       Nomad
-        lightweight and expertly crafted design. When
-        used in combat, the collapsible oar acts as a club
-        (with a -10% penalty).
-Oil, flask   A single flask of oil is enough to fuel a basic         Barbarian,   1     1 SP
-        lantern for two hours, or, if broken on the ground      Civilised,
-        and ignited, enough to sustain a small fire for         Nomad
-        one minute. Oil is packaged in small pottery or
-        glass bottles but can also occasionally be found
-        in waxed leather skins. A skin cannot be 'broken'
-        as mentioned previously - either on purpose or
-        accidentally.
-Oil, Jellied Mixing sawdust, chalk or hoof shavings into             Barbarian,   2     10 SP
-        common lamp oil slowly over a period of time can        Civilised,
-        eventually create a combustible jelly that is very      Nomad
-        useful for smearing on torches and other objects
-        that are to be set alight at a later time. A single
-        spark will light jellied oil on fire and it will then
-        burn as if it were a common flask of oil. After it
-        has been smeared onto something, jellied oil stays
-        combustible for up to a week before it begins to
-        lose its potency.
-
-
-
-
-116
-
-         Item         Description                                          Cultures     ENC   Cost
-Oil, weapon Used to keep rust and tarnish off the precious        Barbarian,   1     2 SP
-         edges of bladed weapons, weapon oil is extremely      Civilised,
-         thin and is made primarily from the rendered          Nomad
-         fat and oils from fish or whales. It is relatively
-         odourless and carries with it only a very slight
-         yellowish tint. It is only slightly more flammable
-         than cooking oils and a single bottle of it can
-         upkeep dozens of weapons for weeks at a time.
-         Any blade treated with weapon oil after it has been
-         used in combat will not suffer from mundane rust
-         or tarnish for a week or so.
-Papyrus,    A papyrus sheet is a sheet of thin, brittle paper     Civilised    -     5 CP
-sheet       useful for taking notes, drawing maps or even
-         making a rubbing of a raised surface. It is
-         painstakingly made from papyrus reeds and
-         is considered a luxury item by most common
-         people. A sheet of papyrus is square, half a metre
-         by half a metre. Once written on, a papyrus sheet
-         can be 'waxed' to make the ink water resistant
-         and smear-proof, though this also makes the sheet
-         more flammable should it ever be exposed to an
-         open flame.
-Pole, 3m    A long pole serves many useful purposes to an         All          1     1 SP
-         Adventurer, from testing the stability of the
-         ground ahead of him, to functioning as a crude
-         yoke.
-Quiver      Quivers can generally hold up to 30 arrows or         All          -     2 SP
-         crossbow bolts.
-Razor,      The mainstay of any barber's tools, the folding       Civilised    -     3 SP
-folding     razor is the best implement to painstakingly
-         remove three day old stubble. Useful for a variety
-         of reasons, the razor can also be used to inflict
-         rather nasty wounds on bare flesh - inflicting 1D3
-         damage upon scoring a hit on an unarmoured Hit
-         Location. Armour of any kind stops this damage
-         completely and dulls the blade considerably. Apart
-         from the damage, a folding razor has the same
-         statistics as a dagger.
-Rope, 10m An essential piece of equipment for an Adventurer,      All          2     10 SP
-         a standard rope can support the weight of 50
-         ENC or 50 SIZ, or any combination thereof.
-
-
-
-
-                                                                                          117
-
-       Item          Description                                            Cultures     ENC   Cost
-Rope, silken Lighter, stronger and less abrasive to the skin,        Civilised    1     75 SP
-        silken rope is superior to braided hemp in nearly
-        every way. Like its more common cousin it comes
-        in 10 metre lengths but can support 60 ENC or
-        60 SIZ, or any combination thereof. Silken rope
-        requires more knots to make it usable for climbing
-        purposes, shortening it by four metres.
-Sack, large A wide sack of leather or canvas, able to hold 10        All          1     5 CP
-        ENC of equipment.
-Sack, small A small sack can hold 5 ENC of equipment.                All          -     2 CP
-Saw, hand This long piece of hammered metal has been                 Barbarian,   1     1 SP
-        sharpened to have a jagged and serrated edge            Civilised,
-        perfect for ripping through wood, which is              Nomad
-        attached to a leather-wrapped handle. With
-        enough strokes back and forth, the hand saw can
-        cut through wood at a rate of 1D4 Hit Points per
-        round - ignoring AP from the wooden object.
-        If used as a makeshift weapon it can be used as a
-        crude short sword (with a -15% penalty) but will
-        likely never be usable as a saw again.
-Scythe       Primarily a tool for harvesting grain, a scythe can     Barbarian,   2     30 SP
-        be put to work as a weapon when necessary. If           Civilised
-        used as a weapon, it is considered a bill (wielded
-        with a -10% penalty).
-Seal         Often built into jewellery, such as a ring or           Barbarian,   -     100 SP
-        necklace, seals are carved with an identifying crest    Civilised,
-        or mark representing its owner. These are used to       Nomad
-        press wax to close letters, scrolls or other similar
-        objects. Recognising a specific family, guild or cult
-        seal requires a Lore (Regional) Skill Test (modified
-        as the Games Master sees fit).
-Spade        This is a small shovel, sometimes with a                Barbarian,   1     25 SP
-        detachable wooden handle. It can be used to dig         Civilised,
-        large amounts of soil or sand in relatively short       Nomad
-        order but is all but useless on stone or very dense
-        earth. If used as a weapon, it is considered a club
-        (wielded with a -20% penalty).
-Tent, 4      This folding animal hide or fabric tent can be set      Barbarian,   2     10 SP
-person       up in just a few minutes and will keep up to four       Civilised,
-        human-sized people dry. It is not exceptionally         Nomad
-        comfortable, which is why so many Adventurers
-        invest in good bedrolls and warm clothing for long
-        journeys.
-
-
-
-
-118
-
-         Item          Description                                             Cultures     ENC   Cost
-Tent, 8       Held up by five poles that must be securely             Barbarian,   5     50 SP
-person        driven into the ground, this tent can be set up         Civilised,
-           in just under an hour by two men. Once erected          Nomad
-           properly, up to eight human-sized individuals can
-           sleep inside without fear for most normal weather
-           conditions.
-Torch, 1      A torch has one end wrapped in cloth and dipped         All          -     4 CP
-hour          in pitch or a similar flammable substance. It can
-           be lit with flint and tinder in one round and will
-           burn for one hour. A torch illuminates a three
-           metre radius. If used as a weapon, it is considered
-           a club (wielded with a -10% penalty), except that
-           it does not inflict normal damage - instead, it
-           inflicts 1D4 fire damage and a fumble or critical
-           hit will also extinguish the brand.
-Torch, 6      As for previous but treated with longer-lasting         All          1     8 CP
-hour          materials.
-Torch,        As for previous but the materials are treated with      Barbarian,   -     2 SP
-waterproof    inflammable and water dispelling chemicals so           Civilised,
-           that, even when wet, the torch still lights. It will    Nomad
-           not burn underwater, however.
-Waterskin     A lined bladder or sewn leather pouch designed to       All          1     5 CP
-           contain liquids, with a wooden or bone spout at
-           one end for pouring. A typical waterskin can hold
-           enough water to sustain an Adventurer for two
-           days but can also be used to hold wine, poison or
-           other liquids equally well.
-Wax, block    Used for a variety of reasons in several professions,   All          1     2 CP
-           beeswax is much like rope in that many
-           Adventurers find ways to put it to inventive use.
-           Thieves will press keys into it in order to make
-           effective forgeries, mages might need it to seal up
-           potions or component bottles and so on.
-Writing kit   The basic writing kit contains several vials of black   Civilised    1     45 SP
-           ink, as well as brushes, quills and pens used for
-           calligraphy and scribing. The largest part of the
-           kit is a thin sheet of wood, the same dimensions as
-           a piece of papyrus. For an additional cost writing
-           kits can also contain other coloured inks.
-
-
-
-
-                                                                                              119
-
-       Mounts and Beasts of Burden
+## Mounts and Beasts of Burden
 A good horse is a treasured possession; a good cow or ox can be every bit as valuable, depending
 on how the owner makes his livelihood.
 
-Mounts and Beasts of Burden
-Animal                                                    Cost             ENC Carried
-Ass/Mule                                                  125 SP           30
-Donkey                                                    200 SP           40
-Cart Horse                                                250SP            45
-Plough Horse                                              400 SP           70
-Poor Quality Riding Horse                                 350 SP           40
-Reasonable Quality Riding Horse                           400 SP           50
-Good Quality Riding Horse                                 450 SP           60
-War Horse                                                 500 SP           80
-Ox/Bison                                                  200 SP           70
-Cow                                                       150 SP           50
-Chickens (per half dozen)                                 6 SP             -
-Ducks (per half dozen)                                    10 SP            -
-Geese (per half dozen)                                    15 SP            -
-Pig                                                       50 SP            25
-Goat                                                      50 SP            25
-Falcon (or similar trained bird of prey)                  400 SP           -
+##### Mounts and Beasts of Burden
+
+| Animal                                                  | Cost           | ENC Carried |
+|---------------------------------------------------------|----------------|-------------|
+| Ass/Mule                                                | 125 SP         | 30          |
+| Donkey                                                  | 200 SP         | 40          |
+| Cart Horse                                              | 250SP          | 45          |
+| Plough Horse                                            | 400 SP         | 70          |
+| Poor Quality Riding Horse                               | 350 SP         | 40          |
+| Reasonable Quality Riding Horse                         | 400 SP         | 50          |
+| Good Quality Riding Horse                               | 450 SP         | 60          |
+| War Horse                                               | 500 SP         | 80          |
+| Ox/Bison                                                | 200 SP         | 70          |
+| Cow                                                     | 150 SP         | 50          |
+| Chickens (per half dozen)                               | 6 SP           | -           |
+| Ducks (per half dozen)                                  | 10 SP          | -           |
+| Geese (per half dozen)                                  | 15 SP          | -           |
+| Pig                                                     | 50 SP          | 25          |
+| Goat                                                    | 50 SP          | 25          |
+| Falcon (or similar trained bird of prey)                | 400 SP         | -           |
 
 The normal amount the animal can carry without being overloaded is given in the ENC Carried
 column. As for Adventurers, mounts and beasts of burden can become overloaded if this figure
@@ -5103,173 +4542,95 @@ is exceeded, suffering a -20% penalty to skill rolls and Fatigue tests. No anima
 than double the ENC Carried value.
 
 
-Transportation
+## Transportation
 Whether owned or rented as needs see fit, basic transportation (other than a mount or beast of
 burden) needs to be considered when travelling long distance.
 
-Transport                              Cost to Buy or Cost per Kilometre
-Cart                                   75 SP
-Chariot                                600 SP
-Travel (by coach)                      15 SP per kilometre
-Travel (by post-horse)                 20 SP per kilometre
-Travel (by ship)                       10 SP per kilometre
-Travel (by wagon)                      5 SP per kilometre
-Wagon                                  300 SP
+| Transport                            | Cost to Buy or Cost per Kilometre |
+|--------------------------------------|-----------------------------------|
+| Cart                                 | 75 SP                             |
+| Chariot                              | 600 SP                            |
+| Travel (by coach)                    | 15 SP per kilometre               |
+| Travel (by post-horse)               | 20 SP per kilometre               |
+| Travel (by ship)                     | 10 SP per kilometre               |
+| Travel (by wagon)                    | 5 SP per kilometre                |
+| Wagon                                | 300 SP                            |
 
 
-
-
-120
-
-         Riding and Animal Supplies
+### Riding and Animal Supplies
 The Riding and Animal Supplies table shows a number of items and supplies that Adventurer
 could find very useful when dealing with animals (like those found in the Beasts and Cohorts
 chapter of this book), how much they weigh in ENC and their general market cost.
 
-Riding and Animal Supplies
-Item         Description                                                       ENC   Cost
-Bit and      This is a short piece of leather or metal that is placed in the   1     15 SP
-Bridle       mouth of a mount and attached to a set of leather or chain
-          reins to allow the rider or driver to steer the beast. Although
-          it does not offer any sort of bonus to Riding or Driving tests,
-          not having a bit and bridle on a mount when an Adventurer
-          Critically Fumbles one of these tests can be catastrophic (at
-          the Games Master's discretion).
-Crop         The crop is a piece of wood, bone or metal with a folded          -     15 SP
-          leather strap at the end. It is used to force a mount to push
-          harder. Spurring movement with the stinging and noisy
-          'crack' of a crop on the hindquarters of a ridden mount can
-          sometimes bring higher speeds. In game terms this allows
-          a rider to make an additional Riding Skill Test to increase
-          speed, though he can only do so three turns in a row before
-          the mount becomes numb or angry.
-Driver's     A length of thin and flexible wood tipped with a long, thin       -     25 SP
-whip         piece of resin-coated cord or braided leather, a driver's whip
-          is used to sting the flanks of drawing mounts from the
-          driver's bench of a wagon, coach or cart. It is used to bring
-          higher speeds out of the entire team. In game terms this
-          allows a driver to make an additional Driving Skill Test to
-          increase speed but he can only do so a number of turns in a
-          row equal to the number of drawing mounts attached to the
-          vehicle before the team becomes inured.
-Falconer's   This kit includes a thick leather glove or gauntlet with cord     1     30 SP
-Kit          sewn to it in order to tether a falcon or hunting hawk when
-          at rest. It also includes a leather or wooden hood that fits
-          over the eyes and ears of the bird in an effort to keep the
-          animal calm before releasing it to perform its duties. Anyone
-          attempting to perform Craft (Falconry) Skill Tests without a
-          full falconer's kit suffers a -10% penalty to his Skill Test.
-Feed/mount Whether it is a supply of corn mash and oats for a stallion,        1     5 CP
-rations (per sardines for a sea lion or osprey, or chunks of raw horsemeat
-day)         for a griffon, this category covers the road rations needed
-          to keep a mount healthy and strong. If they do not pack
-          additional feed, Adventurers will need to make additional
-          Survival or Tracking rolls every week in order to keep their
-          mounts from becoming sickly or unruly.
+##### Riding and Animal Supplies
+
+| Item | Description | ENC | Cost |
+|------|-------------|-----|------|
+| Bit and Bridle | This is a short piece of leather or metal that is placed in the mouth of a mount and attached to a set of leather or chain reins to allow the rider or driver to steer the beast. Although it does not offer any sort of bonus to Riding or Driving tests, not having a bit and bridle on a mount when an Adventurer Critically Fumbles one of these tests can be catastrophic (at the Games Master's discretion). | 1 | 15 SP |
+| Crop | The crop is a piece of wood, bone or metal with a folded leather strap at the end. It is used to force a mount to push harder. Spurring movement with the stinging and noisy 'crack' of a crop on the hindquarters of a ridden mount can sometimes bring higher speeds. In game terms this allows a rider to make an additional Riding Skill Test to increase speed, though he can only do so three turns in a row before the mount becomes numb or angry. | - | 15 SP |
+| Driver's whip | A length of thin and flexible wood tipped with a long, thin piece of resin-coated cord or braided leather, a driver's whip is used to sting the flanks of drawing mounts from the driver's bench of a wagon, coach or cart. It is used to bring higher speeds out of the entire team. In game terms this allows a driver to make an additional Driving Skill Test to increase speed but he can only do so a number of turns in a row equal to the number of drawing mounts attached to the vehicle before the team becomes inured. | - | 25 SP |
+| Falconer's Kit | This kit includes a thick leather glove or gauntlet with cord sewn to it in order to tether a falcon or hunting hawk when at rest. It also includes a leather or wooden hood that fits over the eyes and ears of the bird in an effort to keep the animal calm before releasing it to perform its duties. Anyone attempting to perform Craft (Falconry) Skill Tests without a full falconer's kit suffers a -10% penalty to his Skill Test. | 1 | 30 SP |
+| Feed/mount rations (per day) | Whether it is a supply of corn mash and oats for a stallion, sardines for a sea lion or osprey, or chunks of raw horsemeat for a griffon, this category covers the road rations needed to keep a mount healthy and strong. If they do not pack additional feed, Adventurers will need to make additional Survival or Tracking rolls every week in order to keep their mounts from becoming sickly or unruly. | 1 | 5 CP |
+| Goad | A thick-hafted piece of ivory, bone or wood tipped with a rounded hook and jabbing pinion, a goad is like a riding crop for thicker-skinned beasts, such as reptiles, pachyderms, rhinos and the like. | 1 | 25 SP |
+| Saddle, flight | A specialised saddle designed for beasts with wings like griffons and sky bulls, this is a must for aerial cavalry. The flight saddle has additional thigh stirrups that keep a rider tethered to the animal as it flies. The straps are difficult to unlatch when in motion - requiring a Mechanisms roll at +10% to do so in combat. | 3 | 100 SP |
+| Saddle, pack | This is basically a riding saddle with two sets of attached saddlebags and an additional wooden cage for goods where a rider would normally sit. The pack saddle can carry an impressive 40 ENC of weight but leaves no room for a rider. | 5 | 65 SP |
+| Saddle, riding | This is the most common form of leather saddle and is the style that most riders prefer for long trips. Even though it does not offer any sort of bonus to Riding Skill Tests, riding a horse at anything faster than a brisk walk without one imposes a -10% penalty to Riding. | 3 | 60 SP |
+| Saddle, war | The heaviest of saddles, a war saddle has a raised front horn and padded back in order to support an armoured rider and several additional buckles to attach to barding. Using a war saddle inflicts one level of Fatigue per full eight hours of use but it does add +10% to any Riding Skill Tests made during combat, or when resisting knockback. | 4 | 90 SP |
+| Saddlebag | A pair of canvas, leather or cloth bags designed to be draped over the shoulders or flanks of a mount in order for it to carry more equipment or goods for the owner. A saddlebag can carry 15 ENC worth of weight. | 2 | 20 SP |
+| Shoes, horse | Common metal shoes nailed to the bottom of hoofed animals, 'horse' shoes are designed to keep sharp stones and gravel from chipping or splitting a hoof. Hoofed mounts that do not have shoes will need to be rested more frequently in order to remove detritus, imposing a -10% penalty to travel times through any type of rocky or stony terrain. | 1 | 10 SP |
 
 
-
-
-                                                                                            121
-
-       Item          Description                                                        ENC Cost
-Goad          A thick-hafted piece of ivory, bone or wood tipped with a      1       25 SP
-         rounded hook and jabbing pinion, a goad is like a riding
-         crop for thicker-skinned beasts, such as reptiles, pachyderms,
-         rhinos and the like.
-Saddle,       A specialised saddle designed for beasts with wings like           3   100 SP
-flight        griffons and sky bulls, this is a must for aerial cavalry. The
-         flight saddle has additional thigh stirrups that keep a rider
-         tethered to the animal as it flies. The straps are difficult to
-         unlatch when in motion - requiring a Mechanisms roll at
-         +10% to do so in combat.
-Saddle, pack This is basically a riding saddle with two sets of attached 5           65 SP
-        saddlebags and an additional wooden cage for goods where
-        a rider would normally sit. The pack saddle can carry an
-        impressive 40 ENC of weight but leaves no room for a rider.
-Saddle,       This is the most common form of leather saddle and is the          3   60 SP
-riding        style that most riders prefer for long trips. Even though it
-         does not offer any sort of bonus to Riding Skill Tests, riding
-         a horse at anything faster than a brisk walk without one
-         imposes a -10% penalty to Riding.
-Saddle, war   The heaviest of saddles, a war saddle has a raised front horn      4   90 SP
-         and padded back in order to support an armoured rider and
-         several additional buckles to attach to barding. Using a war
-         saddle inflicts one level of Fatigue per full eight hours of use
-         but it does add +10% to any Riding Skill Tests made during
-         combat, or when resisting knockback.
-Saddlebag     A pair of canvas, leather or cloth bags designed to be draped      2   20 SP
-         over the shoulders or flanks of a mount in order for it to
-         carry more equipment or goods for the owner. A saddlebag
-         can carry 15 ENC worth of weight.
-Shoes, horse Common metal shoes nailed to the bottom of hoofed             1         10 SP
-        animals, 'horse' shoes are designed to keep sharp stones and
-        gravel from chipping or splitting a hoof. Hoofed mounts
-        that do not have shoes will need to be rested more frequently
-        in order to remove detritus, imposing a -10% penalty to
-        travel times through any type of rocky or stony terrain.
-
-
-
-
-122
-
-         combat
+# Combat
 Combat is an inevitable part of Legend. Violence, whether it is a squabble descending into
 fisticuffs between childhood rivals, a drunken bar-room brawl, or a duel to the death between
 mortal enemies, is handled using these rules.
 
 Legend combat has certain hallmarks that are worth bearing in mind; these are as follows:
 
-*	   Combat is a deadly business, irrespective of an Adventurer's level of skill. A well-placed blow
+* Combat is a deadly business, irrespective of an Adventurer's level of skill. A well-placed blow
   can take down the hardest or best armoured Adventurer.
-*	   Combat is tactical. Good tactical decisions or choices can greatly influence the outcome of
+* Combat is tactical. Good tactical decisions or choices can greatly influence the outcome of
   a battle. The combat rules are designed to support tactical options.
-*	   Combat should be fun. Although it deals with violence - and does so seriously - there is little like
+* Combat should be fun. Although it deals with violence - and does so seriously - there is little like
   a good, well orchestrated melee to get the pulse racing and the adrenalin flowing.
-*	   Legend combat aims to be cinematic. What is meant here is that melees and ranged combat
+* Legend combat aims to be cinematic. What is meant here is that melees and ranged combat
   can emulate the feats seen in television and movies - be they dashing, swashbuckling duels;
   gritty, bloody one-on-one combats, or large-scale, epic stand-offs between heroes. The
   combat rules are designed to handle all such confrontations.
 
 
-
-Alaric's Tale
-Alaric, Thrace and Lilina have penetrated the underground layer of the troll Illsa Skessa, the troll
-Alaric believes was responsible for his father's murder. Creeping through the narrow tunnels of the
-underground complex the three companions emerge into a large cavern which, the frail light of their
-torches shows, is filled with debris, discarded bones from eagerly devoured troll-meals and, over in a
-corner, slowly roasting something they have captured, a group of goblin guards. The goblins look up
-and squint as torch-light falls over them; hands fall to nearby weapons. Alaric, Thrace and Lilina are
-in no mood to run but are eager for a fight.
-
-Combat is about to commence...
-
+> Alaric's Tale
+> Alaric, Thrace and Lilina have penetrated the underground layer of the troll Illsa Skessa, the troll
+> Alaric believes was responsible for his father's murder. Creeping through the narrow tunnels of the
+> underground complex the three companions emerge into a large cavern which, the frail light of their
+> torches shows, is filled with debris, discarded bones from eagerly devoured troll-meals and, over in a
+> corner, slowly roasting something they have captured, a group of goblin guards. The goblins look up
+> and squint as torch-light falls over them; hands fall to nearby weapons. Alaric, Thrace and Lilina are
+> in no mood to run but are eager for a fight.
+> 
+> Combat is about to commence...
 
 
-Components of Combat
+## Components of Combat
 Most combats consist of very similar components using very similar timeframes. These
 components are as follows:
 
 
-Combat Skills and Styles
+### Combat Skills and Styles
 Combat skills are purchased as styles. Learning the style 'Broadsword and Shield' costs the same
 skill points as learning 'Greataxe', thus avoiding the necessity of having to train each weapon
 in a combination separately. Alaric, for example, has the Combat Style 'Spear and Shield'; this
 
-
-                                                                                                         123
-
-       Combat Style combines the techniques of spear attack and shield defence but does not cost
+Combat Style combines the techniques of spear attack and shield defence but does not cost
 Alaric two separate skills to gain - they are trained together.
 
 There is a myriad range of different Combat Styles and Adventurers can create their own
 combinations to mirror personal preferences, cultural fighting styles or professional requirements.
 Some typical examples are:
 
-Sword and Shield (any one-handed sword and any shield type); Mace and Shield; Sword and Dagger
-(any one-handed sword coupled with a dagger which is used for parrying but may also be used for attack);
-Two-Handed Sword (a large sword requiring two hands to stabilise but inflicting greater damage).
+> Sword and Shield (any one-handed sword and any shield type); Mace and Shield; Sword and Dagger
+> (any one-handed sword coupled with a dagger which is used for parrying but may also be used for attack);
+> Two-Handed Sword (a large sword requiring two hands to stabilise but inflicting greater damage).
 
 In situations where the user of a 'two weapon' or a 'weapon and shield' Combat Style is unable,
 for whatever reason, to utilise part of the combination, then the wielder's skill is unchanged but
@@ -5277,52 +4638,52 @@ he does lose the advantage of having two weapons or the defensive capabilities o
 
 Adventurers trying to decide what sort of Combat Style to select should consider the following:
  
-*	 Two handed weapons normally grant an advantage in both inflicting and parrying damage
-and give the user a greater reach (see Weapon Reach).
-*	 Shields allow the user an extra Combat Action per round, as well as protecting against
-missile attacks - which most other weapons cannot parry.
-*	 Using two weapons simultaneously also permits the wielder an extra Combat Action per
-round and maintains their effectiveness if one weapon is pinned, entangled or dropped.
-Secondary off hand weapons must be one size category smaller than the main weapon,
-unless both are small.
-*	 One handed weapon styles do not give an extra Combat Action, but allows one hand free
-for casting Sorcery spells and touch-range spells.
-*	 Unarmed Combat Styles have few direct benefits save that the user is always able to fight
-and protect themselves when lacking a weapon and can freely combine unarmed attacks
-with any other combat style at no penalty (as long as the opponent is within reach). An
-unarmed attack can be made with any part of the body, except for the torso. Thus limbs,
-wings, tails and even the head can be used.
+* Two handed weapons normally grant an advantage in both inflicting and parrying damage
+  and give the user a greater reach (see Weapon Reach).
+* Shields allow the user an extra Combat Action per round, as well as protecting against
+  missile attacks - which most other weapons cannot parry.
+* Using two weapons simultaneously also permits the wielder an extra Combat Action per
+  round and maintains their effectiveness if one weapon is pinned, entangled or dropped.
+  Secondary off hand weapons must be one size category smaller than the main weapon,
+  unless both are small.
+* One handed weapon styles do not give an extra Combat Action, but allows one hand free
+  for casting Sorcery spells and touch-range spells.
+* Unarmed Combat Styles have few direct benefits save that the user is always able to fight
+  and protect themselves when lacking a weapon and can freely combine unarmed attacks
+  with any other combat style at no penalty (as long as the opponent is within reach). An
+  unarmed attack can be made with any part of the body, except for the torso. Thus limbs,
+  wings, tails and even the head can be used.
 
-Missing Weapons: An Adventurer who is missing some of the weapons for his Combat Style
+**Missing Weapons**: An Adventurer who is missing some of the weapons for his Combat Style
 does not suffer any further penalties. For example, if Alaric is forced to use his Spear and Shield
 Combat Style when he lacks a shield, he loses the protection of the shield and the bonus Combat
 Action from having an off-hand weapon but there is no penalty to his skill.
 
-Substituting Weapons: AnAdventurer can use weapons other than the ones he specialises in but
+**Substituting Weapons**: AnAdventurer can use weapons other than the ones he specialises in but
 at a penalty. Firstly, any weapons used must be of the same type as those he normally uses in his
 Combat Style. For example, an Adventurer can substitute a short sword for a long sword but
 not a mace for a longsword as the mace is used as a bludgeon, not a cutting edge. Secondly, the
 Combat Style skill is penalised as follows:
-*	 -10% for using a different weapon.
-*	 -10% for each Size category difference between the two weapons.
-*	 -10% for each Reach category difference between the two weapons.
-*	 -5% for each point of ENC difference between the two weapons.
+
+* -10% for using a different weapon.
+* -10% for each Size category difference between the two weapons.
+* -10% for each Reach category difference between the two weapons.
+* -5% for each point of ENC difference between the two weapons.
 
 These penalties cannot take an Adventurer below his base STR+DEX attack skill.
 
 For example, if Alaric were forced to use a Longspear instead of his preferred shortspear, he
 would suffer a penalty as follows:
 
-124
+* -10% for using a different weapon.
+* -10% for the Size difference (shortspears are Medium, Longspears are Large).
+* -10% for the Reach difference (Long vs Very Long).
+* No penalty for ENC, as they both weigh the same.
 
-         *	 -10% for using a different weapon.
-*	 -10% for the Size difference (shortspears are Medium, Longspears are Large).
-*	 -10% for the Reach difference (Long vs Very Long).
-*	 No penalty for ENC, as they both weigh the same.
 For a total penalty of -30%.
 
 
-Combat Rounds
+### Combat Rounds
 Since fights in Legend often involve a large number of Skill Tests for attacks, parries and such
 like, combat is divided into rounds to ease book keeping. Each round represents a period of
 five seconds during which time Adventurers can perform their full number of Combat Actions.
@@ -5336,102 +4697,92 @@ ends. If the participants are prepared to continue fighting, a new round begins;
 from combat or cannot continue to fight, actions revert to Local Time and the combat is over.
 
 
-
-Alaric's Tale
-The goblin guards are some metres distant from Alaric, Thrace and Lilana but it is clear that a fight
-is likely. 'What are you going to do?' The Games Master asks each player. 'We ready our weapons and
-prepare to fight,' Alaric's player says and the others agree. 'Okay,' the Games Master replies and reaches
-for a sheet of paper to start recording initiative, hits, damage and other combat information, 'we're
-moving to Combat Rounds; five second bursts measured by Combat Actions. Everybody ready? Good...
-Initiative rolls please...'
-
+> Alaric's Tale
+> The goblin guards are some metres distant from Alaric, Thrace and Lilana but it is clear that a fight
+> is likely. 'What are you going to do?' The Games Master asks each player. 'We ready our weapons and
+> prepare to fight,' Alaric's player says and the others agree. 'Okay,' the Games Master replies and reaches
+> for a sheet of paper to start recording initiative, hits, damage and other combat information, 'we're
+> moving to Combat Rounds; five second bursts measured by Combat Actions. Everybody ready? Good...
+> Initiative rolls please...'
 
 
-Initiative
+### Initiative
 Who acts first and the order of action is crucial in combat. Initiative is the method of determining
 in which order the participants act. Initiative is measured in Strike Ranks and rolled at the start
 of a fight, remaining in play unless something occurs to force Initiative to be re-rolled. This is
 up to the Games Master to decide but at the very minimum an Initiative roll lasts for an entire
 Combat Round.
 
-Calculating Initiative
+#### Calculating Initiative
 To calculate Initiative, each participant rolls 1D10 and adds his Strike Rank. The highest result
 acts first, followed by the next highest and so on. If two participants tie scores, then they act
 simultaneously. If both are attacking simultaneously, a weapon being used to strike cannot also
 be used to parry a simultaneous blow.
 
-Armour Penalty
+#### Armour Penalty
 Strike Rank Penalty = (Totalled Armour Points worn on all locations) divided by five.
 
 As discussed on page 92 Armour has a negative impact on Initiative; the heavier the protection
 worn, the bigger the hindrance to moving and reacting quickly. An Adventurer's Strike Rank is
 reduced by one fifth of the totalled value of AP worn on all locations (rounded up).
 
-
-                                                                                                          125
-
-       Alaric's Tale
-The Games Master has called for Initiative. This means Alaric, Thrace and Lilina must roll 1D10,
-add their Strike Rank score and then apply any modifications for armour. Here are the core results of
-the Initiative Rolls:
-
-Alaric rolls 6. Strike Rank of 15 means he has a total Strike Rank of 21.
-Thrace rolls 1. Strike Rank of 12 means he has a total Strike Rank of 13.
-Lilana rolls 10. Strike Rank of 14 means she has a total Strike Rank of 24.
-
-The Games Master treats all the goblins as having the same Strike Rank of 12; he rolls 3, so the goblins
-have Strike Rank 15. However, armour needs to be factored into all of this.
-
-Alaric wears soft leather (2 AP) across four Hit Locations for a total of 8 AP. Dividing this by five and
-rounding up gives Alaric a -2 Armour Penalty, so his Strike Rank is reduced to 19.
-
-Thrace wears similar armour to Alaric and so he, too, has a -2 Armour Penalty, bringing his Strike
-Rank down to 11.
-
-Lilana wears her grandmother's leather breastplate, greaves and vambraces, plus her bronze, plumed
-helmet. Her armour totals 16 AP which, divided by five and rounded up gives a -4 Armour Penalty;
-her Strike Rank is reduced to 20.
-
-The goblins wear a few scraps of armour that create just a -1 Armour Penalty. Their Strike Rank
-becomes 14.
-
-With Strike Ranks calculated and adjusted for armour, the order of combat is thus:
-
-Strike Rank 20	       Lilana
-Strike Rank 19	       Alaric
-Strike Rank 14	       Goblins (three of them)
-Strike Rank 11	       Thrace
-
-Each round of combat proceeds in this order unless something happens that causes Initiative to be
-calculated again.
+> For example a full suit of chainmail armour with a closed helm (36 points in total) creates a -8 Strike
+> Rank penalty.
 
 
+> Alaric's Tale
+> The Games Master has called for Initiative. This means Alaric, Thrace and Lilina must roll 1D10,
+> add their Strike Rank score and then apply any modifications for armour. Here are the core results of
+> the Initiative Rolls:
+> 
+> Alaric rolls 6. Strike Rank of 15 means he has a total Strike Rank of 21.
+> Thrace rolls 1. Strike Rank of 12 means he has a total Strike Rank of 13.
+> Lilana rolls 10. Strike Rank of 14 means she has a total Strike Rank of 24.
+> 
+> The Games Master treats all the goblins as having the same Strike Rank of 12; he rolls 3, so the goblins
+> have Strike Rank 15. However, armour needs to be factored into all of this.
+> 
+> Alaric wears soft leather (2 AP) across four Hit Locations for a total of 8 AP. Dividing this by five and
+> rounding up gives Alaric a -2 Armour Penalty, so his Strike Rank is reduced to 19.
+> 
+> Thrace wears similar armour to Alaric and so he, too, has a -2 Armour Penalty, bringing his Strike
+> Rank down to 11.
+> 
+> Lilana wears her grandmother's leather breastplate, greaves and vambraces, plus her bronze, plumed
+> helmet. Her armour totals 16 AP which, divided by five and rounded up gives a -4 Armour Penalty;
+> her Strike Rank is reduced to 20.
+> 
+> The goblins wear a few scraps of armour that create just a -1 Armour Penalty. Their Strike Rank
+> becomes 14.
+> 
+> With Strike Ranks calculated and adjusted for armour, the order of combat is thus:
+> 
+> Strike Rank 20	       Lilana
+> Strike Rank 19	       Alaric
+> Strike Rank 14	       Goblins (three of them)
+> Strike Rank 11	       Thrace
+> 
+> Each round of combat proceeds in this order unless something happens that causes Initiative to be
+> calculated again.
 
-For example a full suit of chainmail armour with a closed helm (36 points in total) creates a -8 Strike
-Rank penalty.
 
-
-Movement in Combat
+### Movement in Combat
 In a Combat Round, an Adventurer may move up to his standard Movement allowance. This
 movement is divided across all of the Adventurer's Combat Actions. Each Combat Action may
 include all, some or none of the Adventurer's remaining Movement in addition to an attack or
-other action. For example, an Adventurer with a Movement of 8m and 3CA could:
-1st Combat Action: Move 3m, make an Attack
-2nd Combat Action: Move 1m, make an Attack
-3rd Combat Action: Move 4m, make an Attack or
+other action. For example, an Adventurer with a Movement of 8m and 3CA could:  
+1st Combat Action: Move 3m, make an Attack  
+2nd Combat Action: Move 1m, make an Attack  
+3rd Combat Action: Move 4m, make an Attack or  
 
-
-
-126
-
-         1st Combat Action: Move 0m, make an Attack
-2nd Combat Action: Move 0m, make an Attack
+1st Combat Action: Move 0m, make an Attack  
+2nd Combat Action: Move 0m, make an Attack  
 3rd Combat Action: Move 8m, make an Attack.
 
 The total amount moved may not exceed the Adventurer's Movement (except when Sprinting).
 
 
-Combat Actions
+### Combat Actions
 Combat Actions (CA), calculated during Adventurer Creation, are used when attempting any
 kind of activity during a combat; for example, to attack, defend, change engagement distance,
 cast spells and so forth.
@@ -5443,66 +4794,57 @@ How an Adventurer's Combat Actions are used is completely up to the player, who 
 aggressive or defensive as he wishes When combined with Initiative, CA take on a dynamic
 nature; since how they are used can depend on the order of when one acts in the round.
 
-For example, Alaric is forced into a fight. He has 3 CA and has rolled a better Initiative than his
-opponent. Going first he decides to attack and the foe succeeds in parrying. Both have used one CA
-for that round. Then it is the opponent's turn and he counter-attacks, forcing Alaric to parry. Now
-both have used two CAs. Since the lowest Initiative has been reached but both combatants still have
-a Combat Action remaining; the GM cycles back to the highest Initiative again - allowing Alaric to
-attack a second time that round. His opponent again parries the blow and the round ends, since both
-foes have no more Combat Actions remaining. Thus going first allowed Alaric to use his CA to attack
-twice and parry once.
+> For example, Alaric is forced into a fight. He has 3 CA and has rolled a better Initiative than his
+> opponent. Going first he decides to attack and the foe succeeds in parrying. Both have used one CA
+> for that round. Then it is the opponent's turn and he counter-attacks, forcing Alaric to parry. Now
+> both have used two CAs. Since the lowest Initiative has been reached but both combatants still have
+> a Combat Action remaining; the GM cycles back to the highest Initiative again - allowing Alaric to
+> attack a second time that round. His opponent again parries the blow and the round ends, since both
+> foes have no more Combat Actions remaining. Thus going first allowed Alaric to use his CA to attack
+> twice and parry once.
  
 The following are activities an Adventurer can attempt by spending one Combat Action during
 their turn. Cast Spell, Evade and Parry are special in that they can be used at any time during the
 Combat Round as a reaction to an incoming threat.
  
-*	 Attack: The Adventurer can attempt to strike with a hand-to-hand weapon or fire a missile
-   at an opponent.
-*	 Cast Spell: The Adventurer can attempt to cast a spell.
-*	 Change Distance: The Adventurer can attempt to change the range at which he is fighting,
-   either closing with his opponent or putting distance between them (see Closing and
-   Disengaging on page 139).
-*	 Change Stance: The Adventurer can shift from standing to prone or vice versa and anything
-   in between.
-*	 Delay: The Adventurer may pause to assess the tactical situation. This changes his Strike
-   Rank to the number when he finally does act. If no action is taken before Strike Rank
-   reaches zero, then the Combat Action is lost.
-*	 Do Nothing: An Adventurer can decide to simply spend his Combat Action doing nothing
-   useful.
-*	 Evade: Adventurers can attempt to dive or roll clear of missiles or a charging attack. This
-   action can also be declared in advance of an anticipated attack (see Parry). The CA available
-   on the character's next Strike Rank following an Evade attempt cannot be used to make an
-   Attack. This penalty carries over to a new round if the Adventurer uses his last available CA
-   in a round to Evade.
+* Attack: The Adventurer can attempt to strike with a hand-to-hand weapon or fire a missile
+  at an opponent.
+* Cast Spell: The Adventurer can attempt to cast a spell.
+* Change Distance: The Adventurer can attempt to change the range at which he is fighting,
+  either closing with his opponent or putting distance between them (see Closing and
+  Disengaging on page 139).
+* Change Stance: The Adventurer can shift from standing to prone or vice versa and anything
+  in between.
+* Delay: The Adventurer may pause to assess the tactical situation. This changes his Strike
+  Rank to the number when he finally does act. If no action is taken before Strike Rank
+  reaches zero, then the Combat Action is lost.
+* Do Nothing: An Adventurer can decide to simply spend his Combat Action doing nothing
+  useful.
+* Evade: Adventurers can attempt to dive or roll clear of missiles or a charging attack. This
+  action can also be declared in advance of an anticipated attack (see Parry). The CA available
+  on the character's next Strike Rank following an Evade attempt cannot be used to make an
+  Attack. This penalty carries over to a new round if the Adventurer uses his last available CA
+  in a round to Evade.
+* Mount/Dismount: The Adventurer can mount or dismount a riding beast.
+* Move: If unengaged, tthe Adventurer may move his full movement rate.
+* Outmanoeuvre: The Adventurer can engage multiple opponents in a group Opposed Test
+  of Evade skills. Those who fail to beat his roll cannot attack him that Combat Round. See
+  the section on Outmanoeuvre on page 137.
+* Parry: The Adventurer can attempt to deflect an incoming attack. As well as being a reactive
+  response, this action can also be declared in advance of an expected attack by adopting a
+  defensive stance. However, once committed, the CA cannot be converted back to any other
+  type of action and is lost if not used before his next Strike Rank occurs.
+* Ready Weapon: The Adventurer may draw, sheath or reload a weapon. Dropping a weapon
+  costs no CA. However retrieving a dropped weapon within reach costs two CA: one to
+  retrieve the weapon and a second to return to a readied stance.
 
 
+> Alaric's Tale
+> Alaric has three Combat Actions whilst Thrace and Lilina have 2 CA each - as do the three goblins.
+> Thus, Alaric has a slight edge over his opponents.
 
 
-                                                                                                   127
-
-       *	 Mount/Dismount: The Adventurer can mount or dismount a riding beast.
-*	 Move: If unengaged, tthe Adventurer may move his full movement rate.
-*	 Outmanoeuvre: The Adventurer can engage multiple opponents in a group Opposed Test
-of Evade skills. Those who fail to beat his roll cannot attack him that Combat Round. See
-the section on Outmanoeuvre on page 137.
-*	   Parry: The Adventurer can attempt to deflect an incoming attack. As well as being a reactive
-response, this action can also be declared in advance of an expected attack by adopting a
-defensive stance. However, once committed, the CA cannot be converted back to any other
-type of action and is lost if not used before his next Strike Rank occurs.
-*	   Ready Weapon: The Adventurer may draw, sheath or reload a weapon. Dropping a weapon
-costs no CA. However retrieving a dropped weapon within reach costs two CA: one to
-retrieve the weapon and a second to return to a readied stance.
-
-
-
-Alaric's Tale
-Alaric has three Combat Actions whilst Thrace and Lilina have 2 CA each - as do the three goblins.
-Thus, Alaric has a slight edge over his opponents.
-
-
-
-
-Weapon Size and Reach
+### Weapon Size and Reach
 Every weapon possesses two ratings, Size and Reach. These are used to determine both the
 weapon's ability to parry damage and its reach in combat. The size categories are Small, Medium,
 Large, Huge, and Enormous. Further sizes are beyond the scope of mere mortal encounters. The
@@ -5512,30 +4854,26 @@ The Equipment chapter provides more information on sizes, along with the reach c
 each weapon in Legend. However, as a simple guide, use the following to calculate which size
 category a weapon belongs to.
  
-*	 Small - Human unarmed combat and light single handed weapons less than a kilo in
-weight; a dagger, for example.
-*	 Medium - Single handed weapons over a kilo in weight; a scimitar, for instance.
-*	 Large - Long hafted thrusting weapons such as polearms or spears.
-*	 Huge -Two handed slashing, chopping or bashing weapons, like great axes.
-*	 Enormous - Weapons used by very large creatures: tree trunks used by giants, for example.
+* Small - Human unarmed combat and light single handed weapons less than a kilo in
+  weight; a dagger, for example.
+* Medium - Single handed weapons over a kilo in weight; a scimitar, for instance.
+* Large - Long hafted thrusting weapons such as polearms or spears.
+* Huge -Two handed slashing, chopping or bashing weapons, like great axes.
+* Enormous - Weapons used by very large creatures: tree trunks used by giants, for example.
 
 Reach categories use the following guidelines.
 
-*	   Touch - Human reach in unarmed combat, knuckledusters and so on.
-*	   Short - Weapons less than half a metre long; such as a short sword.
-*	   Medium - Single handed swung weapons longer than half a metre, like a ball and chain.
-*	   Long - Single handed thrusting weapons, or two handed swung weapons, e.g. a great sword.
-*	   Very Long - Two handed thrusting weapons, spears or polearms for example.
+* Touch - Human reach in unarmed combat, knuckledusters and so on.
+* Short - Weapons less than half a metre long; such as a short sword.
+* Medium - Single handed swung weapons longer than half a metre, like a ball and chain.
+* Long - Single handed thrusting weapons, or two handed swung weapons, e.g. a great sword.
+* Very Long - Two handed thrusting weapons, spears or polearms for example.
 
 The unarmed attacks of animals and monsters are assigned categories to determine their reach
 and how difficult they are to parry.
 
 
-
-
-128
-
-         Combat Mechanics
+## Combat Mechanics
 Fighting in Legend is a brutal recreation of close combat. Most battles are resolved in a blow by
 blow progression, each attack representing a single swing of a weapon. Even if an Adventurer
 manages to roll a successful strike at an opponent, the foe is allowed their own roll to see if they
@@ -5544,7 +4882,7 @@ opponents diving for cover, a ferocious wrestling match, or trying to evade a ch
 dinosaurs.
 
 
-Attacks and Parries
+### Attacks and Parries
 To make either an Attack or Parry both the attacker and the defender must spend a Combat
 Action and roll against their appropriate Combat Style. The attacker's and defender's results are
 noted because the difference between them, if a difference in level of success exists, is crucial to
@@ -5555,16 +4893,16 @@ misses then the parrying participant can opt not to complete the parry, thereby 
 from being spent. This does mean, though, that he will not gain a defensive Combat Manoeuvre
 (see Combat Manoeuvres, page 134), for the exchange.
 
-Successful Roll
+#### Successful Roll
 If the attacker succeeds with the attack, he rolls weapon damage and adds his Damage Modifier
 (if any).
 
 If the defender succeeds in his Skill Test, then he can reduce the attacker's damage, if any,
 according to the comparative size of their weapons.
 
-*	   Parrying an attack with a weapon or shield of equal or greater size deflects all damage.
-*	   Parrying with a weapon or shield of one size less only deflects half damage.
-*	   Parrying with a weapon or shield two or more sizes less fails to deflect any damage.
+* Parrying an attack with a weapon or shield of equal or greater size deflects all damage.
+* Parrying with a weapon or shield of one size less only deflects half damage.
+* Parrying with a weapon or shield two or more sizes less fails to deflect any damage.
 
 For example, parrying a great axe with a greatsword would block all damage; parrying it with a
 target shield would halve the damage and parrying it with a dagger would stop no damage at all.
@@ -5573,7 +4911,7 @@ If the attacker has missed then obviously no damage will be inflicted. However, 
 should still roll to see if his parry succeeds, in case he manages to beat the attacker's level of
 success - granting them the choice of one or more opportunistic Combat Manoeuvres.
 
-Unsuccessful Roll and Fumbles
+#### Unsuccessful Roll and Fumbles
 If both combatants fail, then the attack/parry sequence ends and combat continues on to the
 participant with the next highest initiative. No opportunistic Combat Manoeuvres may be selected.
 
@@ -5586,75 +4924,56 @@ one for Natural Weapons and one for Ranged Weapons. When a Fumble occurs, roll o
 appropriate Fumble table for the action involved.
 
 
+##### Close Combat Fumble Table
 
-                                                                                                    129
+| 1D20    | Result          | Effect |
+|---------|-----------------|--------|
+| 01-03   | Falter          | Cannot attack on next active Combat Action but may defend. |
+| 04-06   | Drop Weapon     | Weapon falls 1D4 metres away. |
+| 07-09   | Lose Balance    | Lose next 1D3 Combat Actions. |
+| 10-12   | Damage Weapon   | Weapon takes damage from opponent's parrying weapon directly to its HP, ignoring its Armour Points. Else weapon strikes an inanimate object (tree, wall, ground and so on) and does damage to itself. |
+| 13-14   | Stumble         | Trip and fall prone. Forfeit next 1D3 Combat Actions. All defensive actions at a -20% penalty. |
+| 15-16   | Lose Armour     | Roll for Hit Location where the armour fell from. If not armoured, roll again. |
+| 17-18   | Hit Ally        | Accidentally strike a nearby companion for normal rolled damage. If no ally within reach, hit self instead. |
+| 19      | Unlucky         | Roll twice, ignoring any rolls of 19 or 20. |
+| 20      | Doomed          | Roll three times, ignoring any rolls of 19 or 20. |
 
-       Close Combat Fumble Table
-1D20      Result            Effect
-01-03     Falter            Cannot attack on next active Combat Action but may
-                       defend.
-04-06     Drop Weapon       Weapon falls 1D4 metres away.
-07-09     Lose Balance      Lose next 1D3 Combat Actions.
-10-12     Damage Weapon     Weapon takes damage from opponent's parrying weapon
-                       directly to its HP, ignoring its Armour Points. Else weapon
-                       strikes an inanimate object (tree, wall, ground and so on) and
-                       does damage to itself.
-13-14     Stumble           Trip and fall prone. Forfeit next 1D3 Combat Actions. All
-                       defensive actions at a -20% penalty.
-15-16     Lose Armour       Roll for Hit Location where the armour fell from. If not
-                       armoured, roll again.
-17-18     Hit Ally          Accidentally strike a nearby companion for normal rolled
-                       damage. If no ally within reach, hit self instead.
-19        Unlucky           Roll twice, ignoring any rolls of 19 or 20.
-20        Doomed            Roll three times, ignoring any rolls of 19 or 20.
+##### Natural Weapon Fumbles
 
-Natural Weapon Fumbles
-1D20      Result            Effect
-01-03     Hesitate          Cannot attack on next active Combat Action but may
-                       defend.
-04-06     Numb Limb         Limb is temporarily paralysed until a successful Resilience
-                       roll is made, starting next Combat Action.
-07-09     Entangle Self     Lose next 1D3 Combat Actions.
-10-12     Damage Limb       Limb is injured from striking opponent's parrying weapon,
-                       armour or an inanimate object (tree, wall, ground and so
-                       on) and does damage to itself.
-13-14     Sprawl            Trip and fall prone. Forfeit next 1D3 Combat Actions. All
-                       defensive actions at a -20% penalty.
-15-16     Injure Limb       Limb is reduced to 0 Hit Points, suffering a Serious
-                       Wound.
-17-18     Hit Ally          Accidentally strike a nearby companion for normal rolled
-                       damage. If no ally within reach, damage is done to self
-                       instead from wrenching a random location.
-19        Fated             Roll twice, ignoring any rolls of 19 or 20.
-20        Cursed            Roll three times, ignoring any rolls of 19 or 20.
+| 1D20    | Result          | Effect |
+|---------|-----------------|--------|
+| 01-03   | Hesitate        | Cannot attack on next active Combat Action but may defend. |
+| 04-06   | Numb Limb       | Limb is temporarily paralysed until a successful Resilience roll is made, starting next Combat Action. |
+| 07-09   | Entangle Self   | Lose next 1D3 Combat Actions. |
+| 10-12   | Damage Limb     | Limb is injured from striking opponent's parrying weapon, armour or an inanimate object (tree, wall, ground and so on) and does damage to itself. |
+| 13-14   | Sprawl          | Trip and fall prone. Forfeit next 1D3 Combat Actions. All defensive actions at a -20% penalty. |
+| 15-16   | Injure Limb     | Limb is reduced to 0 Hit Points, suffering a Serious Wound. |
+| 17-18   | Hit Ally        | Accidentally strike a nearby companion for normal rolled damage. If no ally within reach, damage is done to self instead from wrenching a random location. |
+| 19      | Fated           | Roll twice, ignoring any rolls of 19 or 20. |
+| 20      | Cursed          | Roll three times, ignoring any rolls of 19 or 20. |
 
 
+##### Ranged Weapon Fumbles
+
+| 1D20        | Result                   | Effect |
+|-------------|--------------------------|--------|
+| 01-03       | Disoriented              | Attacker loses target and next active Combat Action. |
+| 04-06       | Drop Weapon              | Weapon falls 1D2 metres away. |
+| 07-09       | Snare Weapon             | Lose next 1D3 Combat Actions. |
+| 10-12       | Lose Weapon              | Weapon string either snaps or weapon is lost when thrown. |
+| 13-14       | Damage Weapon            | Weapon, when fired or thrown, suffers rolled damage to itself ignoring Armour Points. |
+| 15-16       | Hit Ally                 | Accidentally strike a nearby companion for normal rolled damage. |
+| 17-18       | Misfire                  | Inflict normal damage on self. |
+| 19          | Bedevilled               | Roll twice, ignoring any rolls of 19 or 20. |
+| 20          | Damned                   | Roll three times, ignoring any rolls of 19 or 20. |
 
 
-130
-
-         Ranged Weapon Fumbles
-1D20          Result                     Effect
-01-03         Disoriented                Attacker loses target and next active Combat Action.
-04-06         Drop Weapon                Weapon falls 1D2 metres away.
-07-09         Snare Weapon               Lose next 1D3 Combat Actions.
-10-12         Lose Weapon                Weapon string either snaps or weapon is lost when
-                                      thrown.
-13-14         Damage Weapon              Weapon, when fired or thrown, suffers rolled damage to
-                                      itself ignoring Armour Points.
-15-16         Hit Ally                   Accidentally strike a nearby companion for normal rolled
-                                      damage.
-17-18         Misfire                    Inflict normal damage on self.
-19            Bedevilled                 Roll twice, ignoring any rolls of 19 or 20.
-20            Damned                     Roll three times, ignoring any rolls of 19 or 20.
-
-
-No Combat Actions Remaining/Taking No Action
+#### No Combat Actions Remaining/Taking No Action
 In a situation where a defender has no Combat Actions remaining or taking no action, or elects
 not to parry, he is treated as having automatically rolled a Failure.
 
 
-Success Levels and Combat Manoeuvres
+### Success Levels and Combat Manoeuvres
 After both sides have rolled for attack and defence, compare the success levels of the attack and
 parry Skill Tests. Differences in levels of success are calculated by how many steps lie between the
 two. In other words, if both combatants roll a critical, then the difference between them is 0.
@@ -5667,32 +4986,30 @@ Combat Manoeuvre. Combat Manoeuvres can be used to put down an opponent quickly,
 render them helpless in some other way. These are fun to use, encourage tactical thinking and
 encourage the adoption of less lethal combat resolution.
 
-Levels of Success
-                         Attacker's Roll
-                         Critical            Success              Failure             Fumble
-Defender's Critical         -                   Defender gets 1      Defender gets 2     Defender gets 3
-Roll       Success          Attacker gets 1     -                    Defender gets 1     Defender gets 2
-        Failure          Attacker gets 2     Attacker gets 1      -                   -
-        Fumble           Attacker gets 3     Attacker gets 2      -                   -
+##### Levels of Success
 
-For example, an attacker rolling a critical success against the defender's success gives the attacker a level
-of success and therefore 1 Combat Manoeuvre.
-
-A defender rolls a success against an attacker's fumble giving the defender two levels of success and
-therefore 2 Combat Manoeuvres.
+| Attacker's Roll -> | Critical          | Success           | Failure           | Fumble |
+|--------------------|-------------------|-------------------|-------------------|--------|
+| \/ Defender's Roll | --                | --                | --                | --     |
+| Critical           | -                 | Defender gets 1   | Defender gets 2   | Defender gets 3 |
+| Success            | Attacker gets 1   | -                 | Defender gets 1   | Defender gets 2 |
+| Failure            | Attacker gets 2   | Attacker gets 1   | -                 | -      |
+| Fumble             | Attacker gets 3   | Attacker gets 2   | -                 | -      |
 
 
+> For example, an attacker rolling a critical success against the defender's success gives the attacker a level
+> of success and therefore 1 Combat Manoeuvre.
+> 
+> A defender rolls a success against an attacker's fumble giving the defender two levels of success and
+> therefore 2 Combat Manoeuvres.
 
-
-                                                                                                             131
-
-       For each level of success over their opponent, the winner selects a Combat Manoeuvre from
+For each level of success over their opponent, the winner selects a Combat Manoeuvre from
 either the Offensive or Defensive list, depending on whether the winner was attacking or
 defending. So, for example, if the defender beats the attacker by two levels of success, then he
 chooses two manoeuvres.
 
-Some of the choices are common to both attack and defence - Damage Weapon, for example
-- whilst others are specific to either attack or defence. Some manoeuvres are also specific to a
+Some of the choices are common to both attack and defence - Damage Weapon, for example - 
+whilst others are specific to either attack or defence. Some manoeuvres are also specific to a
 particular type or weapon; and, some manoeuvres are only available if the winner of the outcome
 has rolled a critical success.
 
@@ -5703,78 +5020,77 @@ Some manoeuvres can be stacked. For instance, a successful attacker with two lev
 could choose Maximise Damage twice rather than choosing two separate offensive manoeuvres.
 
 
-Combat Manoeuvres Summary Table
-Offensive Manoeuvres                               Defensive Manoeuvres
-Bash Opponent                                      Blind Opponent2
-Bleed                                              Change Range1
-Bypass Armour2                                     Damage Weapon1
-Bypass Parry3                                      Disarm Opponent1
-Change Range1                                      Enhance Parry3
-Choose Location                                    Overextend Opponent3
-Damage Weapon1                                     Pin Weapon2
-Disarm Opponent1                                   Redirect Blow
-Grip                                               Regain Footing
-Impale                                             Riposte
-Maximise Damage2, 3                                Slip Free
-Stun Location                                      Stand Fast
-Sunder                                             Take Weapon
-Tangle                                             Trip Opponent1
-Trip Opponent1                                     -
-1
-Both an Offensive and Defensive Manoeuvre.
-2
-This manoeuvre can only be selected if the winner of the outcome has rolled a critical success.
-3
-This manoeuvre is stackable.
+##### Combat Manoeuvres Summary Table
+
+| Offensive Manoeuvres                             | Defensive Manoeuvres |
+|--------------------------------------------------|----------------------|
+| Bash Opponent                                    | Blind Opponent (2)   |
+| Bleed                                            | Change Range (1)     |
+| Bypass Armour (2)                                | Damage Weapon (1)    |
+| Bypass Parry (3)                                 | Disarm Opponent (1)  |
+| Change Range (1)                                 | Enhance Parry (3)    |
+| Choose Location                                  | Overextend Opponent (3) |
+| Damage Weapon (1)                                | Pin Weapon (2)       |
+| Disarm Opponent (1)                              | Redirect Blow        |
+| Grip                                             | Regain Footing       |
+| Impale                                           | Riposte              |
+| Maximise Damage (2,3)                            | Slip Free            |
+| Stun Location                                    | Stand Fast           |
+| Sunder                                           | Take Weapon          |
+| Tangle                                           | Trip Opponent (1)    |
+| Trip Opponent (1)                                | -                    |
+
+(1) Both an Offensive and Defensive Manoeuvre.
+(2) This manoeuvre can only be selected if the winner of the outcome has rolled a critical success.
+(3) This manoeuvre is stackable.
 
 
-Offensive Combat Manoeuvres
-Bash opponent - Attacks can be used to deliberately bash the opponent off balance. The
+#### Offensive Combat Manoeuvres
+**Bash opponent** - Attacks can be used to deliberately bash the opponent off balance. The
 recipient is forced backwards by one metre for every five points (or fraction thereof ) of damage
 rolled. Bashing works only on creatures up to twice the attacker's SIZ. The calculation uses the
 damage value originally rolled by the attacker, before any subtractions due to armour, parries and
 so forth. If the bash forces the opponent into an obstacle then the recipient must make a Difficult
 (-20%) Athletics Skill Test to avoid falling prone.
 
-Bleed (Cutting Weapons) - Causes a wound that begins to bleed critically, if the attack
+**Bleed (Cutting Weapons)** - Causes a wound that begins to bleed critically, if the attack
 overcomes Armour Points and injures the target. The defender must make an opposed roll of
 Resilience vs. the attacker's original attack roll. If the defender fails, then a major artery or vein
-132
-
-         is cut and the wound inflicts a level of Fatigue at the start of each new Combat Round. Bleeding
+is cut and the wound inflicts a level of Fatigue at the start of each new Combat Round. Bleeding
 wounds can be stopped by the successful use of the First Aid skill but the recipient can no longer
 participate in any strenuous or violent action without opening the wound up again. Fatigue
 levels gained by blood loss remain until sufficient time has passed for the body to recover.
 
-Bypass armour (Critical Success Only) - The blow finds a gap in the defender's protection.
+**Bypass armour (Critical Success Only)** - The blow finds a gap in the defender's protection.
 This counts against worn armour or the natural skin/fur/shell of creatures. If striking a target
 that has both natural protection and wearing armour, then the attacker must decide which one is
 bypassed. Physical protection gained from magic is considered as being worn armour.
 
-Bypass parry - The defender's parrying weapon is treated as being one size level less. For example,
-Alaric uses Bypass Parry against a troll champion he is fighting. The troll is parrying with a glaive
-(size Large). This means that, for the purposes of parrying, the troll's glaive is treated as size Medium
-for countering Alaric's attack.
+**Bypass parry** - The defender's parrying weapon is treated as being one size level less. 
 
-Change range - Allows the Adventurer to freely change the engagement range between himself
+> For example, Alaric uses Bypass Parry against a troll champion he is fighting. The troll is 
+> parrying with a glaive (size Large). This means that, for the purposes of parrying, the troll's 
+> glaive is treated as size Medium for countering Alaric's attack.
+
+**Change range** - Allows the Adventurer to freely change the engagement range between himself
 and the opponent. This can be used to select a more favourable distance for a particular weapon,
 or even to disengage from the fight completely if desired (see Weapon Reach).
 
-Choose location - The attacker may freely select the location where the blow lands, as long as
+**Choose location** - The attacker may freely select the location where the blow lands, as long as
 that location is normally within reach.
 
-Damage weapon (Attack and Defence) - The opponent's weapon is damaged. The winner
+**Damage weapon (Attack and Defence)** - The opponent's weapon is damaged. The winner
 rolls the damage for his weapon and applies it to his opponent's. The opponent's weapon uses its
 own Armour Points for resisting the damage. If reduced to zero Hit Points the weapon breaks.
 
-Disarm opponent (Attack and Defence) - The opponent must roll an opposed test of his
+**Disarm opponent (Attack and Defence)** - The opponent must roll an opposed test of his
 Combat Skill vs. the original attack roll (if the attacker won) or the original parry roll (if the
 defender won). If the recipient of the disarm fails, he loses his weapon. Two handed or entangling
 weapon wielders may add a bonus of +20% to their skill for this check. Disarming works only
 on creatures of up to twice the attacker's STR. If the attacker has a hand free, he can grab the
 opponent's weapon on a successful Disarm.
 
-Entangle (Entangling Weapons Only) - Weapons such as whips or nets immobilise the
+**Entangle (Entangling Weapons Only)** - Weapons such as whips or nets immobilise the
 location struck. If an arm, the target cannot use whatever he is holding; if a leg the target cannot
 manoeuvre; if the head, chest or abdomen the target suffers a -20% penalty to all activity. On
 his next action the wielder may spend a Combat Action to make an automatic Trip Opponent
@@ -5782,37 +5098,34 @@ attempt. An entangled opponent can attempt to break free by either pulling the e
 weapon away from the wielder with Disarm Opponent, escaping with Slip Free, or cut himself
 free using Damage weapon.
 
-Grip (Unarmed) - As for Pin Weapon but requires that the limb used is not holding anything.
+**Grip (Unarmed)** - As for Pin Weapon but requires that the limb used is not holding anything.
 Being gripped prevents an opponent from disengaging by use of the Evade skill. Breaking free
 requires the spending of a CA and winning an Opposed Test of the Unarmed skill.
 
-Impale (Thrusting Weapons Only) - Weapons such as spears or daggers may impale. Impaling
+**Impale (Thrusting Weapons Only)** - Weapons such as spears or daggers may impale. Impaling
 weapons may roll damage twice with the attacker choosing which damage result to use for the
 attack. If armour is penetrated and damage results, then the attacker has the option of leaving
 the weapon in the wound, or to yank it free. Leaving the weapon in the wound inflicts a skill
 penalty; -10% per size category of the weapon (for example, -10% for small weapons such as
 arrows or daggers, -20% for medium weapons and so on). Successfully withdrawing an impaled
 weapon during melee costs a Combat Action and requires a successful Brawn roll. This causes
-
-                                                                                                         133
-
-       further injury to the same location equal to the normal damage roll for that weapon but without
+further injury to the same location equal to the normal damage roll for that weapon but without
 any Damage Modifier. Armour does not reduce withdrawal damage. Whilst it remains impaled,
 the attacker cannot use his impaling weapon for parrying.
 
-Maximise damage (Critical Success Only) - One of the weapon's dice automatically does
+**Maximise damage (Critical Success Only)** - One of the weapon's dice automatically does
 maximum damage. For example a warsword, which normally does 1D8 damage, would instead
 be treated as an 8 whereas a greatsword with 2D8 damage would inflict 1D8+8 damage. This
 does not affect the Damage Modifier of the attacker, which must be rolled separately.
 
-Stun Location (Bludgeon Weapons, Attacker Only) - Weapons such as maces, hammers and
+**Stun Location (Bludgeon Weapons, Attacker Only)** - Weapons such as maces, hammers and
 so on, can temporarily numb the location struck. The defender must roll an opposed test of
 his Resilience vs. the original attack roll. If the defender fails, then a limb is rendered useless, a
 torso blow causes the foe to stagger winded (may only defend), or a head shot renders the foe
 unconscious. The duration of incapacitation is equal, in Combat Actions, to the damage that
 penetrated the armour. If no damage penetrated, then the impact was insufficient to stun.
 
-Sunder (Two-handed Weapons, Attacker Only) - Damages armour worn by the opponent.
+**Sunder (Two-handed Weapons, Attacker Only)** - Damages armour worn by the opponent.
 Apply the weapon damage (after reductions for parrying or magic) against the AP value of the
 armour. Any surplus damage in excess of the AP is then used to reduce the AP value of that
 armour location. If any damage remains after the armour has been reduced to zero AP, it carries
@@ -5820,24 +5133,24 @@ over onto the Hit Points of the location struck. This effect may also be used on
 armour of creatures, as the blow opens up a horrific gash in their hide, smashes chitin and so
 forth.
 
-Trip opponent (Attack and Defence) - The opponent must roll an Opposed Test of Evade vs.
+**Trip opponent (Attack and Defence)** - The opponent must roll an Opposed Test of Evade vs.
 the original attack roll (if the attacker won) or the original parry roll (if the defender won). If
 the opponent fails, he falls prone. Quadruped opponents may substitute their Athletics skill for
 Evade and gain a +20% bonus to their skill for this test.
 
-Defensive Combat Manoeuvres
-Blind Opponent (Critical Success Only) - The defender somehow blinds his opponent. It
+#### Defensive Combat Manoeuvres
+**Blind Opponent (Critical Success Only)** - The defender somehow blinds his opponent. It
 could be kicked sand or dust, thrown clothes, sunlight glancing off the shield, or some other
 manoeuvre that manages to blur the attacker's vision. The Attacker makes an Opposed Test of
 his Evade skill (or Weapon style if using a shield) against the Defender's original Parry roll. If the
 attacker fails he cannot attack for 1D3 CA.
 
-Enhance parry - The size of the parrying weapon is treated as one step larger for the sake of
+**Enhance parry** - The size of the parrying weapon is treated as one step larger for the sake of
 blocking damage.
 
-Overextend opponent - Opponent cannot attack on his next Strike Rank.
+**Overextend opponent** - Opponent cannot attack on his next Strike Rank.
 
-Pin Weapon (Critical Success Only) - Prevents the opponent from using the pinned weapon or
+**Pin Weapon (Critical Success Only)** - Prevents the opponent from using the pinned weapon or
 shield, until he spends a CA to wrestle or manoeuvre the weapon free. This requires an Opposed
 Test of combat skills, the winner of which can free their weapon, or continue the pin as desired.
 If the Adventurer with the pinned weapon desires, he may substitute Brawn for his Combat
@@ -5845,65 +5158,62 @@ Skill. Whilst pinned, the item may not be used for attack or defence and the foe
 an attack by using a weapon in his other hand, disengaging completely (using the Evade skill) or
 by switching Combat Style.
 
-Redirect blow - The Defender redirects the attack so that it strikes him in a different location,
+**Redirect blow** - The Defender redirects the attack so that it strikes him in a different location,
 as long as that location is within reach of the Attacker. The Defender cannot avoid the damage;
 he merely chooses where it will land.
-134
 
-         Regain Footing - A prone or similarly disadvantaged Defender uses the momentum of the
+**Regain Footing** - A prone or similarly disadvantaged Defender uses the momentum of the
 attack to roll back up to their feet, or grasps the Attacker's extended limb or weapon to pull
 himself upright.
 
-Riposte - The Defender uses a CA to make an immediate counter attack with one of his
+**Riposte** - The Defender uses a CA to make an immediate counter attack with one of his
 defending weapons or shield.
 
-Take Weapon (Unarmed Only) - As for 'Disarm Opponent' but only when using Unarmed
+**Take Weapon (Unarmed Only)** - As for 'Disarm Opponent' but only when using Unarmed
 skill. If successful, the Defender ends up with the Attacker's weapon in his own hands.
 
-Slip Free - An Entangled, Gripped or Pinned character may break the hold on himself or his
+**Slip Free** - An Entangled, Gripped or Pinned character may break the hold on himself or his
 weapon.
 
-Stand Fast - Skilful or braced footwork allows the defender to avoid the Knockback effects of
+**Stand Fast** - Skilful or braced footwork allows the defender to avoid the Knockback effects of
 any damage received.
 
 
-
-Combat Manoeuvres - Optional Rule
-Each time that a specific tactic is repeated during a fight, the opponent gains an additional 10%
-bonus to his next roll in the combat against the repetitive combatant - be that an opposed roll to
-resist the manoeuvre, or their next attack or parry roll. This reflects the advantage gained by the
-opponent recognising and taking advantage of the increasingly predictable strategy. The bonus
-is cumulative and does not reset until the fight (against that particular opponent) ends, even if
-other tactics are interspersed during the combat.
-
+> Combat Manoeuvres - Optional Rule
+> Each time that a specific tactic is repeated during a fight, the opponent gains an additional 10%
+> bonus to his next roll in the combat against the repetitive combatant - be that an opposed roll to
+> resist the manoeuvre, or their next attack or parry roll. This reflects the advantage gained by the
+> opponent recognising and taking advantage of the increasingly predictable strategy. The bonus
+> is cumulative and does not reset until the fight (against that particular opponent) ends, even if
+> other tactics are interspersed during the combat.
 
 
-Close Combat Situations
+## Close Combat Situations
 Various modifiers may be applied when using a weapon, or as the result of a Combat Manoeuvre,
 as shown on the Situational Modifiers table. These modifiers are applied to attacking, parrying
 and evading equally. The skill modifier applies directly to the skill in question and multiple
 modifiers stack.
 
-Close Combat Situational Modifiers
-Situation                                                             Skill Modifier
-Target is helpless                                                    Automatic Critical Hit
-Target surprised                                                      +20%
-Target prone or attacked from behind                                  +20%
-Attacking or defending while prone                                    -20%
-Attacking or defending while on unstable ground                       -20%
-Attacking in a confined situation (for example, a right-handed        -10%
-swordsman hard up against a wall on his right side)
-Defending while on lower ground or against mounted foe                -20%
-Fighting in partial darkness                                          -20%
-Fighting in darkness                                                  -40%
-Fighting while blind or in pitch black                                -60%
+#### Close Combat Situational Modifiers
+
+| Situation                                                                                                     | Skill Modifier |
+|---------------------------------------------------------------------------------------------------------------|----------------|
+| Target is helpless                                                                                            | Automatic Critical Hit |
+| Target surprised                                                                                              | +20%           |
+| Target prone or attacked from behind                                                                          | +20%           |
+| Attacking or defending while prone                                                                            | -20%           |
+| Attacking or defending while on unstable ground                                                               | -20%           |
+| Attacking in a confined situation (for example, a right-handed swordsman against a wall on his right side)    | -10%           |
+| Defending while on lower ground or against mounted foe                                                        | -20%           |
+| Fighting in partial darkness                                                                                  | -20%           |
+| Fighting in darkness                                                                                          | -40%           |
+| Fighting while blind or in pitch black                                                                        | -60%           |
 
 The following tactics and circumstances also affect Close Combat. Each has its own guidelines
 to reflect the action being undertaken.
 
-                                                                                                   135
 
-       Cover
+### Cover
 If a target is in cover or partially covered by an object (such as a wall, door or fence), any attack
 that hits a covered location will instead hit the object. See Inanimate Objects on page 91. Cover
 affects both Ranged and Close Combat attacks.
@@ -5917,15 +5227,15 @@ Choose Location to target a specific location and must rely on randomly determin
 (using 1D20) as per normal. In addition, the attacker suffers a -40% penalty to his attack. Note
 that this only applies where the Attacker:
 
-*	   Is 100% certain that the target is behind the cover.
-*	   The cover is not so extensive as to permit the target to move freely behind it.
+* Is 100% certain that the target is behind the cover.
+* The cover is not so extensive as to permit the target to move freely behind it.
 
 Thus, a target lurking behind a bush can still be attacked, even though the attacker might not be
 able to see his quarry. However a target behind a lengthy hedgerow is completely obscured and
 the attack will automatically fail.
 
 
-Evading
+### Evading
 Some attacks such as missile fire, destructive spells, charging creatures or even dragon's breath,
 can be very difficult to avoid. In these circumstances all an Adventurer can do is hurl himself to
 the ground, or dive behind cover to escape the effects.
@@ -5941,10 +5251,10 @@ result of the roll may be modified by applicable Combat Manoeuvres as per normal
 
 Some circumstances prevent a character from evading:
 
-*	   The Adventurer is helpless or prone.
-*	   There is nowhere to evade to (balancing on a rope above a lake of lava, for example).
-*	   A mounted Adventurer may evade only by rolling out of the saddle, automatically
-dismounting.
+* The Adventurer is helpless or prone.
+* There is nowhere to evade to (balancing on a rope above a lake of lava, for example).
+* A mounted Adventurer may evade only by rolling out of the saddle, automatically
+  dismounting.
 
 If an Adventurer is facing a close combat attack against which he has no applicable defence -
 either because his weapon has been broken, dropped or because the attacking weapon is simply
@@ -5953,11 +5263,7 @@ using Evade as a melee defence involves giving ground or leaping aside, placing 
 a disadvantage.
 
 
-
-
-136
-
-         Knockback
+### Knockback
 Any attack which causes more damage than the SIZ of the recipient automatically results in
 a knockback. The recipient must immediately make an Athletics test to avoid falling prone
 from the force of the blow. He is also shoved one metre for each five points of damage (or
@@ -5969,7 +5275,7 @@ based on timing and technique, whereas a Knockback is the accidental side effect
 powerful blows. The former is not directly affected by SIZ, whereas the latter is.
 
 
-Leaping Attacks
+### Leaping Attacks
 Some creatures leap upon their targets in order to knock them prone. A leaping attack requires
 a Combat Action to initiate, using an Opposed Test of the creature's Athletics skill against the
 Defender's Evade skill. The Defender may also Parry with a shield if he has one ready. If the
@@ -5980,22 +5286,22 @@ then it may substitute Athletics for Evade and gain a +20% bonus to roll to avoi
 A leaping attack only affects targets less than twice the SIZ of the Attacker.
 
 
-Mounted Combat
+### Mounted Combat
 Whilst mounted, the combat skills of a warrior cannot exceed the value of the Ride skill.
 However, the warrior gains the following benefits:
  
-*	 A mounted warrior rolls a 1D10+10 for Hit Location if using a small or medium weapon. 
-*	 Using a CA the rider may substitute either his own Combat Style or Ride skill instead
- of his mount's, to defend the mount against attacks. 
-*	 The warrior may add the SIZ of his mount to his own for the purposes of avoiding
- Knockback, as long as he can make a successful unopposed Ride Skill Test. 
-*	 He can use the Damage Modifier of his mount instead of his own when charging with a
- braced weapon. A weapon braced for a charging attack cannot be used for defence until
- the charge has been completed. Weapons which impale during a charge remain in the
- body of their target and will be lost if the mount continues past (See Charging).
+* A mounted warrior rolls a 1D10+10 for Hit Location if using a small or medium weapon. 
+* Using a CA the rider may substitute either his own Combat Style or Ride skill instead
+  of his mount's, to defend the mount against attacks. 
+* The warrior may add the SIZ of his mount to his own for the purposes of avoiding
+  Knockback, as long as he can make a successful unopposed Ride Skill Test. 
+* He can use the Damage Modifier of his mount instead of his own when charging with a
+  braced weapon. A weapon braced for a charging attack cannot be used for defence until
+  the charge has been completed. Weapons which impale during a charge remain in the
+  body of their target and will be lost if the mount continues past (See Charging).
 
 
-Multiple Opponents
+### Multiple Opponents
 No penalties are suffered if facing multiple opponents. The inherent disadvantage occurs simply
 in the fact that the combatant will become swamped by his enemies and run out of Combat
 Actions for parrying before his attackers run out of attacks. An attack against an opponent who
@@ -6009,21 +5315,17 @@ attack that round, as they become blocked by the position of their allies. Those
 win against the Defender may freely attack as per normal. Unless the Defender wishes to disengage
 entirely and run away, the number of opponents cannot be reduced to less than one.
  
-
-
-                                                                                                     137
-
-       An example of how this works in practice would be a swashbuckler using the tables, chairs, stairs and
-chandeliers in a tavern to block his multiple foes, whilst he whittles them away one-by-one.
+> An example of how this works in practice would be a swashbuckler using the tables, chairs, stairs and
+> chandeliers in a tavern to block his multiple foes, whilst he whittles them away one-by-one.
  
-Multiple Opponents - Optional Rule
+#### Multiple Opponents - Optional Rule
 Constant manoeuvring in combat is extremely exhausting. At the end of each round it occurs,
 the Defender must make an Opposed roll of Athletics versus the best Athletics skill of the
 attackers. If failed, the Defender gains a new level of fatigue. Eventually even the greatest fighters
 can be worn down.
 
 
-Pulled Blows
+### Pulled Blows
 Sometimes an Adventurer wants to hurt or incapacitate, but not maim or kill, his opponent.
 By using Pulled Blows, which also includes using the flat of a blade, as well as limiting the
 force applied, the Adventurer can deliberately halve the damage inflicted for a successful hit.
@@ -6031,28 +5333,28 @@ The Adventurer must declare that he is pulling a blow before making the attack; 
 damage is applied as per a normal attack.
 
 
-Surprise
+### Surprise
 Surprise is gained when one side in a combat manages to launch an attack without the other side
 being aware of the intention and is thus unprepared for it. A carefully staged ambush is the most
 common situation for surprise to occur but there will be other circumstances.
 
 A surprised Adventurer is one who:
 
-*	   Has completely failed to notice an impending attack through a Perception roll.
-*	   Is attacked when completely unprepared (asleep, perhaps, or absorbed with another activity).
-In these circumstances modifiers to combat rolls reflecting the surprised Adventurer's status
-(a -20% penalty for a freshly awoken and groggy character, for example) may apply.
+* Has completely failed to notice an impending attack through a Perception roll.
+* Is attacked when completely unprepared (asleep, perhaps, or absorbed with another activity).
+  In these circumstances modifiers to combat rolls reflecting the surprised Adventurer's status
+  (a -20% penalty for a freshly awoken and groggy character, for example) may apply.
 
 The effects of surprise are as follows:
 
-*	   The surprised party suffers an immediate -10 to his Initiative for this round of combat. For
-the following round Initiative is determined as normal.
-*	   The surprised party is only able to use CA to defend against attacks (not make them),
-including Evading, for this round, and can only use CA in response to attacks made after
-his own Strike Rank.
+* The surprised party suffers an immediate -10 to his Initiative for this round of combat. For
+  the following round Initiative is determined as normal.
+* The surprised party is only able to use CA to defend against attacks (not make them),
+  including Evading, for this round, and can only use CA in response to attacks made after
+  his own Strike Rank.
 
 
-Unarmed Combat
+### Unarmed Combat
 Adventurers or creatures who can reach an opponent with their natural weapons may use their
 Unarmed skill interchangeably with any other weapon style they may be using. Punches, kicks,
 head-butts and all other Unarmed attacks do 1D3 points of damage.
@@ -6064,19 +5366,14 @@ limb being used to attack, defend or move. Grappling the head or torso inflicts 
 to all activity attempted by the victim. Combatants with a poor unarmed combat skill may
 instead substitute their Brawn skill to maintain or break free of grapples.
 
-
-
-
-138
-
-         Once the grapple is established it continues automatically until the grappler lets go or the
+Once the grapple is established it continues automatically until the grappler lets go or the
 opponent breaks free. Whilst the hold is maintained, on his Strike Rank the grappler may
 make unarmed attacks to inflict damage on the location held, by gauging, twisting, crushing or
 strangulating the location. The Defender may oppose with his Unarmed or Brawn skill in order
 to reduce or block the damage.
 
 
-Unusual Combat Conditions
+### Unusual Combat Conditions
 Whilst climbing an Adventurer's Combat Skill cannot exceed the value of his Athletics skill.
 Bipedal Adventurers may only use a single limb to attack or defend, requiring the others to cling
 to the surface they are scaling.
@@ -6087,7 +5384,7 @@ and those will only inflict half damage. All other weapons are impotent. Natural
 involve ramming, biting or strangulation are unaffected.
 
 
-Weapon Reach - Closing and Disengaging
+### Weapon Reach - Closing and Disengaging
 Weapon Reach, Closing and Disengaging are optional rules for those desiring more realistic
 combat. Roughly speaking, a weapon has a reach equivalent to its size. In circumstances where
 the size of combatants' weapons are different in length by two or more steps, then the wielder
@@ -6105,7 +5402,7 @@ opponent's weapon; or by changing the engagement distance.
 In the case of huge monsters using unarmed combat, the appendage being used to strike with can
 be targeted directly and in this case there are no hindrances to counter attack it.
 
-Closing
+#### Closing
 An Adventurer whose reach is two sizes less than their opponent, needs to actively close into
 Close Combat range, otherwise remain unable to strike at them. Closing on an opponent
 requires a Combat Action (if not taking advantage of a Combat Manoeuvre) and requires the
@@ -6119,15 +5416,10 @@ However, if the opponent decides to use the closing action to take an attack ins
 opponent resists the Evade Opposed Test with his Combat Skill. Whether or not he is hit, the
 closer succeeds in reaching Close Combat distance.
 
-
-
-
-                                                                                                 139
-
-       Once within the reach of the opponent's weapon, the advantage switches to the wielder of the
+Once within the reach of the opponent's weapon, the advantage switches to the wielder of the
 shorter weapon. The opponent now cannot parry with his weapon until he reopens the distance.
 
-Disengaging
+### Disengaging
 Adventurers that have been closed upon by opponents with a shorter reach are at a serious
 tactical disadvantage. Their only escape is to disengage from combat and in so doing, restore
 the original range between them. This works in exactly the same manner as Closing. To
@@ -6144,7 +5436,7 @@ Whether or not the blow lands, the disengagement succeeds and the advantage retu
 combatant with the longer reach.
 
 
-Ranged Attacks
+## Ranged Attacks
 Ranged weapons include bows, slings and thrown melee weapons such as spears and daggers.
 Just as with close combat, ranged combat participants use the skill or style associated with
 their ranged weapon to attempt a successful attack - as long as they are within range of the
@@ -6160,7 +5452,7 @@ weapons in the hands of a competent warrior.
 Certain specific notes concerning ranged attacks are as follows:
 
 
-Aiming
+### Aiming
 By increasing the amount of time spent in aiming a missile weapon, an Adventurer can increase
 his chance to hit. For every Combat Action that an Adventurer spends aiming, he gains a bonus
 to his Ranged Weapon skill equal to his critical range (10%) in that skill. For example, Alaric
@@ -6168,56 +5460,66 @@ has 3 CA and has Sling 46%. By aiming for two CA he would gain two additional +5
 taking his chance to hit to 56%.
 
 
-Loading Ranged Weapons
+###Loading Ranged Weapons
 When a ranged weapon is readied, it is either in hand (for throwing weapons) or loaded (for
 bows and other projectile weapons). While readying most ranged weapons takes only a single
 Combat Action, others may take more. The number of Combat Actions it takes to load a ranged
 weapon is listed in its statistical entry in the Ranged Weapons table, page 109.
 
 
-140
+##### Ranged Attack Situational Modifiers
 
-         Ranged Attack Situational Modifiers
- Situation                                                                 Skill Modifier
- Wind1
- Light wind                                                                -5%
- Moderate wind                                                             -10%
- Strong wind                                                               -50%
- Gale force and above                                                      Attack
-                                                                           automatically fails
- Target Movement1
- Target has moved 10m or more since attacker's last Combat Action          -10%
- Target has moved 30m or more since attacker's last Combat Action          -20%
- Target Visibility1
- Target obscured by smoke, mist or is in partial darkness                  -20%
- Target obscured by thick smoke, fog or is in darkness                     -40%
- Target Size1
- Per 1 SIZ target is under SIZ 5                                           -10%
- Per 10 SIZ target is above SIZ 20                                         +10%
- Target Condition1
- Target is helpless                                                        +10%
- Target is completely obscured                                             Automatic Failure
- Target prone                                                              -20%
- Attacker Condition
- Attacker is prone                                                         -20%
- Attacker is underwater                                                    -40%
- Attacker is on unstable ground                                            -20%
- Attacker is blinded                                                       Automatic failure
+| Situation                                                               | Skill Modifier |
+|-------------------------------------------------------------------------|----------------|
+| Wind (1)                                                                |                |
+| Light wind                                                              | -5%            |
+| Moderate wind                                                           | -10%           |
+| Strong wind                                                             | -50%           |
+| Gale force and above                                                    | Attack automatically fails |
 
-1
-Modifiers within these sections are not cumulative. However, modifiers from different sections
-are cumulative. Therefore, shooting at a target within a mist that has moved more than 10m
-since the Attacker's last Combat Action imparts a -30% penalty.
-2
- Attacker condition modifiers are cumulative.
+| Situation                                                               | Skill Modifier |
+|-------------------------------------------------------------------------|----------------|
+| Target Movement (1)                                                     |                |
+| Target has moved 10m or more since attacker's last Combat Action        | -10%           |
+| Target has moved 30m or more since attacker's last Combat Action        | -20%           |
+
+| Situation                                                               | Skill Modifier |
+|-------------------------------------------------------------------------|----------------|
+| Target Visibility (1)                                                   |                |
+| Target obscured by smoke, mist or is in partial darkness                | -20%           |
+| Target obscured by thick smoke, fog or is in darkness                   | -40%           |
+
+| Situation                                                               | Skill Modifier |
+|-------------------------------------------------------------------------|----------------|
+| Target Size (1)                                                         |                |
+| Per 1 SIZ target is under SIZ 5                                         | -10%           |
+| Per 10 SIZ target is above SIZ 20                                       | +10%           |
+
+| Situation                                                               | Skill Modifier |
+|-------------------------------------------------------------------------|----------------|
+| Target Condition (1)                                                    |                |
+| Target is helpless                                                      | +10%           |
+| Target is completely obscured                                           | Automatic Failure |
+| Target prone                                                            | -20%           |
+
+| Situation                                                               | Skill Modifier |
+|-------------------------------------------------------------------------|----------------|
+| Attacker Condition                                                      |                |
+| Attacker is prone                                                       | -20%           |
+| Attacker is underwater                                                  | -40%           |
+| Attacker is on unstable ground                                          | -20%           |
+| Attacker is blinded                                                     | Automatic failure |
+
+(1) Modifiers within these sections are not cumulative. However, modifiers from different sections are cumulative. Therefore, shooting at a target within a mist that has moved more than 10m since the Attacker's last Combat Action imparts a -30% penalty.  
+(2) Attacker condition modifiers are cumulative.
 
 
-Damage Modifier
+### Damage Modifier
 If an Adventurer's Damage Modifier can be applied to the damage of a ranged weapon, this is
 stipulated in that weapon's entry on the Ranged Weapons table in the Equipment chapter.
 
 
-Firing into a Crowd
+### Firing into a Crowd
 When firing a ranged weapon into a crowd, Close Combat or any group where the target is
 adjacent to one or more other potential targets, there is always a chance the Attacker will hit
 someone other than the target he was aiming at.
@@ -6229,128 +5531,124 @@ behind cover (see page 136).
 If a covered location is hit by the attack, the firer has hit one of the individuals adjacent to the
 target (the Games Master will decide who). The accidental target may try to evade or parry this
 attack as normal. If the attack damages the accidental target, roll the Hit Location randomly.
-                                                                                                    141
 
-86.204.39.123
-         If the accidental target successfully evades a ranged attack, the projectile continues on its original
+If the accidental target successfully evades a ranged attack, the projectile continues on its original
 path and may strike the intended target. The intended target may also attempt to evade or parry
 the attack as normal.
 
 
-Firing on the Move
+### Firing on the Move
 Ranged weapons can be used from horseback or chariots but the chance of success cannot exceed
 the Attacker's skill with either Ride or Drive, as appropriate. If an Attacker is running then
 his attack percentage cannot exceed his Athletics skill. Ranged attacks may not be used if the
 attacker himself (rather than a mount) is charging.
 
 
-Impaling Ranged Attacks
+### Impaling Ranged Attacks
 An Adventurer that impales an enemy with a Ranged attack (a thrown spear or fired arrow)
 obviously does not have the option of immediately attempting to yank out the projectile.
 
 
-Range
+### Range
 A target within the weapon's Range may be attacked without penalty. A target within double the
 weapon's Range may be attacked but the Attacker's effective Weapon skill is halved (before other
 modifiers are applied). Attacks against targets beyond the weapon's Range automatically fail.
 
 
-Full-Round Manoeuvres
+## Full-Round Manoeuvres
 Some manoeuvres take up almost all of an Adventurer's effort and attention in combat. An
 Adventurer who makes a Full-Round Manoeuvre must dedicate all but one of his Combat
 Actions for the round to the manoeuvres (usually moving). Full-round manoeuvres must be
 declared when the Adventurer first acts in the round.
 
 Full-round manoeuvres include:
-*	 Charging (below): The Adventurer moves a total of 3x his normal Movement and attacks
+
+* **Charging (below)**: The Adventurer moves a total of 3x his normal Movement and attacks
   along the way. During the round, all the Adventurer's Combat Actions but one must be
   spent on Move, but in each action he moves up to 2x his normal Movement.
-*	 Sprinting (see page 93): The Adventurer moves up to 5x his normal Movement. During
+* **Sprinting (see page 93)**: The Adventurer moves up to 5x his normal Movement. During
   the round, all the Adventurer's Combat Actions but one must be spent on Move but in each
   action he moves up to 3x his normal Movement.
 
-For example, Alaric is in the middle of a pitched battle between his clan and another band of barbarians.
-He is currently unengaged with any particular foe as the battle swirls around him. In the distance, he
-sees Thrace being menaced by a trio of foes. Alaric decides to sprint to his friend's side. At the start of the
-next round, when it is Alaric's turn to act, he declares that he will spend this round Sprinting. Alaric's
-movement allowance for this round increases to 40m (5x his normal Movement of 8m). For his first
-Combat Action, Alaric moves 16m. For his second, he moves 16m. He still has one Combat Action left,
-and as he has spent all but one of his Combat Actions on moving and thus fulfilled the requirements for
-Sprinting, he can spend this last Combat Action to move 8m and make a sling attack on his foes.
+> For example, Alaric is in the middle of a pitched battle between his clan and another band of barbarians.
+> He is currently unengaged with any particular foe as the battle swirls around him. In the distance, he
+> sees Thrace being menaced by a trio of foes. Alaric decides to sprint to his friend's side. At the start of the
+> next round, when it is Alaric's turn to act, he declares that he will spend this round Sprinting. Alaric's
+> movement allowance for this round increases to 40m (5x his normal Movement of 8m). For his first
+> Combat Action, Alaric moves 16m. For his second, he moves 16m. He still has one Combat Action left,
+> and as he has spent all but one of his Combat Actions on moving and thus fulfilled the requirements for
+> Sprinting, he can spend this last Combat Action to move 8m and make a sling attack on his foes.
 
 
-Charging
+### Charging
 Charging gains a number of benefits but is subject to a number of additional rules:
  
-*	 During the round in which he charges, all of the Adventurer's Combat Actions but one
- must be spent on Move, but in each action he moves up to 2x his normal Movement.
-*	 During a charge a bipedal creature improves its Damage Modifier by one step. Quadruped
- creatures improve their Damage Modifier by two steps. For example, a charging horse with
- a Damage Modifier of +1D6 would improve its Damage Modifier to +1D10.
-                                                                                                               143
-
-       *	 The recipient of a charge has the choice of either standing firm to receive the charge, or
-attempting to evade the charge.
-*	 Standing firm allows the recipient the opportunity to strike at the charging opponent but
-he will potentially suffer the brunt of the charge attack, usually resulting in serious damage
-and/or knockback. If the opponent is mounted they might also face a potential further
-attack from the mount or be trampled by it. Unlike normal initiative, whichever combatant
-has the longest reach attacks first (see Weapon Reach). 
-*	   Evading the charge permits the recipient to make an Opposed Test of his Evade skill verses
-the charging opponent's attack skill or Combat Style (as required). If the recipient wins he
-throws himself completely clear of the charging opponent (and the mount if they are riding
-one). If he loses he is instead caught at an inopportune moment and is treated as being
-defenceless. Using Evade prevents the recipient from making a counter attack. 
-*	   If the recipient possesses a long shafted impaling weapon (such as a two handed spear or
-polearm) he may set it against the charge and use the Damage Modifier of the charging
-opponent (or its mount if the opponent is riding) instead of his own. 
-*	   Any charge made against a static formation of defenders, which does not inflict Knockback
-on the target, staggers the charging creature into immobility. The charger can also be
-stopped if one of its legs is incapacitated (assuming it does not have six or more legs!). 
-*	   A mounted Adventurer has the choice of continuing (if he has enough movement left to get
-clear of the enemy's Weapon Reach) after the Combat Action or stopping. If the charging
-Adventurer is on foot, then the defender may choose to let the charger continue; if he does
-not, then the charger is now engaged with the Defender and must stop moving.
-*	   If the charging creature continues, the charge only allows a single Combat Action for the
-Attacker, their mount (if combat capable) and the Defender during that round, because the
-speed of the charging creature carries it clear of the engagement zone. The recipient of a
-charge may not make a further 'Free' Attack if the charger continues past and away, since
-charging is different from disengaging.
-*	   If the charging creature stops, he is now engaged in Close Combat with his opponent.
+* During the round in which he charges, all of the Adventurer's Combat Actions but one
+  must be spent on Move, but in each action he moves up to 2x his normal Movement.
+* During a charge a bipedal creature improves its Damage Modifier by one step. Quadruped
+  creatures improve their Damage Modifier by two steps. For example, a charging horse with
+  a Damage Modifier of +1D6 would improve its Damage Modifier to +1D10.
+* The recipient of a charge has the choice of either standing firm to receive the charge, or
+  attempting to evade the charge.
+* Standing firm allows the recipient the opportunity to strike at the charging opponent but
+  he will potentially suffer the brunt of the charge attack, usually resulting in serious damage
+  and/or knockback. If the opponent is mounted they might also face a potential further
+  attack from the mount or be trampled by it. Unlike normal initiative, whichever combatant
+  has the longest reach attacks first (see Weapon Reach). 
+* Evading the charge permits the recipient to make an Opposed Test of his Evade skill verses
+  the charging opponent's attack skill or Combat Style (as required). If the recipient wins he
+  throws himself completely clear of the charging opponent (and the mount if they are riding
+  one). If he loses he is instead caught at an inopportune moment and is treated as being
+  defenceless. Using Evade prevents the recipient from making a counter attack. 
+* If the recipient possesses a long shafted impaling weapon (such as a two handed spear or
+  polearm) he may set it against the charge and use the Damage Modifier of the charging
+  opponent (or its mount if the opponent is riding) instead of his own. 
+* Any charge made against a static formation of defenders, which does not inflict Knockback
+  on the target, staggers the charging creature into immobility. The charger can also be
+  stopped if one of its legs is incapacitated (assuming it does not have six or more legs!). 
+* A mounted Adventurer has the choice of continuing (if he has enough movement left to get
+  clear of the enemy's Weapon Reach) after the Combat Action or stopping. If the charging
+  Adventurer is on foot, then the defender may choose to let the charger continue; if he does
+  not, then the charger is now engaged with the Defender and must stop moving.
+* If the charging creature continues, the charge only allows a single Combat Action for the
+  Attacker, their mount (if combat capable) and the Defender during that round, because the
+  speed of the charging creature carries it clear of the engagement zone. The recipient of a
+  charge may not make a further 'Free' Attack if the charger continues past and away, since
+  charging is different from disengaging.
+* If the charging creature stops, he is now engaged in Close Combat with his opponent.
  
 Treat Flyby Attacks the same as Charging.
 
 
-Damage and Wound Levels
+## Damage and Wound Levels
 If an attack strikes successfully, it causes damage according to the damage rating for the weapon
 (see the statistical entries for Close Combat and Ranged weapons in the Equipment chapter,
 pages 101 and 107). A shortsword, for instance, inflicts 1D6 damage.
 
 The rolled damage for the weapon or attack is modified in the following ways:
 
-*	   Add or subtract the Damage Modifier for the Adventurer making the attack.
-*	   Modify the damage from any weapon enhancing (or reducing) magic.
-*	   If parried, reduce the damage appropriately.
+* Add or subtract the Damage Modifier for the Adventurer making the attack.
+* Modify the damage from any weapon enhancing (or reducing) magic.
+* If parried, reduce the damage appropriately.
 
 If a Hit Location is armoured (physically and/or magically), subtract the Armour Points value.
 
 
-Hit Locations
+### Hit Locations
 A successful attack damages a specific Hit Location. To determine which location has been hit,
 roll 1D20 and compare the number rolled with the Humanoid Hit Location table.
 
+##### Humanoid Hit Locations
 
-144
-
-         Humanoid Hit Locations
-1D20                                       Hit Location
-1-3                                        Right Leg
-4-6                                        Left Leg
-7-9                                        Abdomen
-10-12                                      Chest
-13-15                                      Right Arm
-16-18                                      Left Arm
-19-20                                      Head
+| 1D20                                     | Hit Location |
+|------------------------------------------|--------------|
+| 1-3                                      | Right Leg    |
+| 4-6                                      | Left Leg     |
+| 7-9                                      | Abdomen      |
+| 10-12                                    | Chest        |
+| 13-15                                    | Right Arm    |
+| 16-18                                    | Left Arm     |
+| 19-20                                    | Head         |
 
 Some unusual creatures have slightly different Hit Location tables to reflect their own unique
 physiology. Such creatures have their modified Hit Location tables listed with their description.
@@ -6366,13 +5664,12 @@ attack roll. This reflects the ability of highly skilled warriors to make more d
 Resilience rolls are not repeated unless the location is wounded again.
 
 
-Minor Wound (Hit Location has positive Hit Points)
+### Minor Wound (Hit Location has positive Hit Points)
 Minor wounds are cuts, scratches, bruises and contusions. They hurt, they may bleed but are not
 significant enough to slow down or hamper the victim.
 
 
-Serious Wound (Hit Location is Zero Hit Points or
-Below)
+### Serious Wound (Hit Location is Zero Hit Points or Below)
 If a location is reduced to zero Hit Points or below, the victim receives a Serious Wound. The
 location is permanently scarred and the victim cannot attack (but can still parry or evade) for the
 next 1D3 Combat Actions due to being stunned or distracted by the pain of the wound.
@@ -6391,10 +5688,7 @@ unconscious victim regain consciousness but he will not be able to rejoin any co
 has received further healing to the Seriously Wounded location.
 
 
-                                                                                                   145
-
-       Major Wound (Hit Location has lost twice its starting
-Hit Points)
+### Major Wound (Hit Location has lost twice its starting Hit Points)
 If a location is reduced to a negative score equal or greater than it's starting Hit Points, the
 Adventurer receives a Major Wound. The location is permanently maimed and the Adventurer
 is immediately incapacitated, unable to continue fighting.
@@ -6415,7 +5709,7 @@ blood loss and shock.
 Since most Major Wounds require some form of surgery or major magic to heal, the sufferer will
 be very unlikely to recover from a major wound in time to rejoin combat.
 
-Heroic Last Actions
+#### Heroic Last Actions
 In special cases where key Adventurers receive a Major Wound, the Games Master might allow
 a heroic last action - such as spitting out one last spell, attempting to cut down their slayer,
 crawling away to hide, or trying to tourniquet their own wound. They must have working limbs
@@ -6423,103 +5717,87 @@ applicable to the action and burn a Hero Point. They get a single opportunity to
 desire and then immediately collapse into unconsciousness and probable death.
 
 
-Optional Combat Rules For Non-Player
-Characters
+## Optional Combat Rules For Non-Player Characters
 One of the most time consuming elements of handling Non-Player Characters (NPCs), such as
 monsters, enemies and so on is keeping track of locational Hit Points during a fight, especially
 where several NPCs are involved. This can become confusing and often slows-down a game
 considerably. Legend offers are several optional ways of dealing with this issue.
 
 
-General Hit Points
+### General Hit Points
 First, reserve locational Hit Points for major villains and enemies. For all other foes, use General
 Hit Points instead. General Hit Points are calculated on the average of the CON and SIZ
 Characteristics, rather than on their sum. So, a foe with CON 12 and SIZ 16 would have 14 Hit
 Points (12+16, divided by 2).
 
-*	 Every NPC has a 'Critical Wound' rating equal to half the General Hit Points (rounded up).
-Thus, in our example, a foe with 14 HP has a Critical Wound rating of 7.
-*	 Weapon damage is removed directly from the Hit Point total. When Hit Points reach
-zero, the NPC must make a Resilience test to remain conscious. If the test is successful a
-Resilience test must be made every combat round until Hit Points are brought up to 1 or
-more. If the NPC loses consciousness, death results within a number of Combat Actions
-equal to the Critical Wound value, unless Hit Points are brought up to 1 HP or more.
-
-
-146
-
-         *	 If General Hit Points are reduced to a negative amount equal to the Critical Wound rating
+* Every NPC has a 'Critical Wound' rating equal to half the General Hit Points (rounded up).
+  Thus, in our example, a foe with 14 HP has a Critical Wound rating of 7.
+* Weapon damage is removed directly from the Hit Point total. When Hit Points reach
+  zero, the NPC must make a Resilience test to remain conscious. If the test is successful a
+  Resilience test must be made every combat round until Hit Points are brought up to 1 or
+  more. If the NPC loses consciousness, death results within a number of Combat Actions
+  equal to the Critical Wound value, unless Hit Points are brought up to 1 HP or more.
+* If General Hit Points are reduced to a negative amount equal to the Critical Wound rating
   or more death is instantaneous. In our example, if the foe sustains 14 or more points of
   damage, he dies automatically.
-*	   If the NPC suffers a single wound that exceeds his Critical Wound rating in one blow, the
+* If the NPC suffers a single wound that exceeds his Critical Wound rating in one blow, the
   Games Master may make a roll on the Critical Wound table to determine what additional
   effects are suffered. The armour value being worn is subtracted from the D20 roll.
-*	   If the blow inflicted by the Adventurer is a Critical Hit, add the damage to the 1D20 roll.
-*	   In addition to the effects detailed in the Critical Wound table, the target always receives an
+* If the blow inflicted by the Adventurer is a Critical Hit, add the damage to the 1D20 roll.
+* In addition to the effects detailed in the Critical Wound table, the target always receives an
   impressive-looking scar as a permanent reminder of the experience.
 
-NPC Critical Wound Table
-1D20         Critical Wound Category          Game Effects
-01-02        Dazed                            Target cannot attack for 1D3 Combat Actions.
-03-04                                         Target knocked back 1 metre and Dazed.
-05-06                                         Target knocked prone and Dazed.
-07                                            Target Dazed and must make a Resilience test to
-                                           avoid being knocked unconscious.
-08-09        Stunned                          Target forfeits 1D3 Combat Actions.
-10-11                                         Target knocked back 1 metre and Stunned.
-12-13                                         Target knocked down and Stunned.
-14                                            Target Stunned and must make a Resilience test to
-                                           avoid being knocked unconscious.
-15           Arm Disabled                     Target's arm is disabled (broken or paralysed).
-                                           Target is Dazed and anything held by that arm is
-                                           dropped.
-16           Leg Disabled                     Target's leg is disabled (broken or paralysed). Target
-                                           is Dazed and falls prone.
-17           Abdominal Injury                 Target Stunned. Must make a Resilience test to
-                                           avoid death and spilling intestines over the floor.
-18           Chest Injury                     Target Stunned. Must make a Resilience test to
-                                           avoid death and coughing up gouts of blood.
-19           Head Injury                      Target Stunned. Must make a Resilience test to
-                                           avoid death from a slashed throat, thrust through
-                                           eye and so forth.
-20           Fatal Injury                     A vital location is struck (heart, throat, brain and so
-                                           on) and target dies instantly!
+##### NPC Critical Wound Table
 
-Example: Alaric is battling a broo. The broo has 12 General Hits Points and wears 3 points of
-armour. On the first blow Alaric hits and inflicts 7 points of damage (after armour has been taken
-into account), which exceeds the broo's Critical Wound level of 6. The Games Master rolls 1D20 and
-scores 13. This is reduced to 10, taking into account the broo's armour. The broo is dazed (losing its
-next Combat Action) and needs to make a Resilience test (which it does) to avoid unconsciousness.
-
-On the next blow Alaric again scores a hit, delivering a further 5 points of damage. The broo is now
-reduced to zero Hit Points. Since it has been reduced to zero Hit Points it must make another Resilience
-roll or fall unconscious. This time it fails and Alaric spends his next action to give it a coup-de-grace.
+| 1D20       | Critical Wound Category        | Game Effects |
+|------------|--------------------------------|--------------|
+| 01-02      | Dazed                          | Target cannot attack for 1D3 Combat Actions. |
+| 03-04      |                                | Target knocked back 1 metre and Dazed. |
+| 05-06      |                                | Target knocked prone and Dazed. |
+| 07         |                                | Target Dazed and must make a Resilience test to avoid being knocked unconscious. |
+| 08-09      | Stunned                        | Target forfeits 1D3 Combat Actions. |
+| 10-11      |                                | Target knocked back 1 metre and Stunned. |
+| 12-13      |                                | Target knocked down and Stunned. |
+| 14         |                                | Target Stunned and must make a Resilience test to avoid being knocked unconscious. |
+| 15         | Arm Disabled                   | Target's arm is disabled (broken or paralysed). Target is Dazed and anything held by that arm is dropped. |
+| 16         | Leg Disabled                   | Target's leg is disabled (broken or paralysed). Target is Dazed and falls prone. |
+| 17         | Abdominal Injury               | Target Stunned. Must make a Resilience test to avoid death and spilling intestines over the floor. |
+| 18         | Chest Injury                   | Target Stunned. Must make a Resilience test to avoid death and coughing up gouts of blood. |
+| 19         | Head Injury                    | Target Stunned. Must make a Resilience test to avoid death from a slashed throat, thrust through eye and so forth. |
+| 20         | Fatal Injury                   | A vital location is struck (heart, throat, brain and so on) and target dies instantly! |
 
 
+> Example: Alaric is battling a broo. The broo has 12 General Hits Points and wears 3 points of
+> armour. On the first blow Alaric hits and inflicts 7 points of damage (after armour has been taken
+> into account), which exceeds the broo's Critical Wound level of 6. The Games Master rolls 1D20 and
+> scores 13. This is reduced to 10, taking into account the broo's armour. The broo is dazed (losing its
+> next Combat Action) and needs to make a Resilience test (which it does) to avoid unconsciousness.
+> 
+> On the next blow Alaric again scores a hit, delivering a further 5 points of damage. The broo is now
+> reduced to zero Hit Points. Since it has been reduced to zero Hit Points it must make another Resilience
+> roll or fall unconscious. This time it fails and Alaric spends his next action to give it a coup-de-grace.
 
 
-                                                                                                          147
-
-       Underlings
+### Underlings
 Underlings are competent but inconsequential foes usually sent en-masse to harass Adventurers.
 A simple way to handle fights involving lots of underlings is to radically adjust Hit Points to lend
 the advantage to the Adventurer. Whilst they still have combat abilities and can dispense damage
 as easily as anyone else (and indeed, they should certainly try), they are there to be sword-fodder
 for the heroes of the story. If you choose the Underlings option:
 
-*	 Underlings have a number of Hit Points equal to their CON divided by 2. Damage is
-sustained as normal, with armour protecting but when Hit Points reach zero, the Underling
-is dead.
-*	   A Critical hit inflicted by an Adventurer always incapacitates an Underling, rendering it
-unconscious. No Resilience roll is necessary.
-*	   If half the Underlings' number is incapacitated, the rest flee.
+* Underlings have a number of Hit Points equal to their CON divided by 2. Damage is
+  sustained as normal, with armour protecting but when Hit Points reach zero, the Underling
+  is dead.
+* A Critical hit inflicted by an Adventurer always incapacitates an Underling, rendering it
+  unconscious. No Resilience roll is necessary.
+* If half the Underlings' number is incapacitated, the rest flee.
 
 Use this option only when the Adventurers are facing a ravening horde of relatively inconsequential
 adversaries which are, to all intents and purposes, completely expendable. Competent NPCs and
 major villains should be treated differently.
 
+## Alaric's Tale - The Goblin Fight
 
-Alaric's Tale - The Goblin Fight
 This part of Alaric's Tale continues the description of the battle with the three goblins, picking-
 up after Initiative and Combat Actions have been determined. The example uses the full combat
 rules and does not use the Optional Combat Rules from page 146.
@@ -6548,18 +5826,12 @@ Actions each participant in the fight has, the first round of combat begins.
 The Games Master asks each Adventurer, in Strike Rank order, what they intend to do in this
 first round of combat. Lilina says she will attack the closest of the three goblins with her sword,
 defending with her shield. Alaric says he will attack the larger of the goblins, attacking with his
-
-
-
-
-148
-
-         spear and defending with his shield. The Games Master states that the three goblins are prepared
+spear and defending with his shield. The Games Master states that the three goblins are prepared
 for a fight and are closing for the attack. Two goblins have singled-out Alaric, as the largest of the
 humans and one is advancing on Lilina. Thrace says he is intending to try to circle around the
 group of goblins to try and take the pair attacking Alaric by surprise.
 
-First Combat Round
+#### First Combat Round
 Lilina acts first on Strike Rank 20 and rolls for her Sword and Shield, scoring 55 - a successful
 hit. This costs her one of her 3 CA. The goblin attempts a parry, rolling 12 - a successful parry.
 There is no difference in the success levels, so neither gains a Combat Manoeuvre; however,
@@ -6600,13 +5872,7 @@ CA left this round and will defend against both his foes.
 
 The mean looking goblin slashes with its short sword scoring 53, a miss. Alaric is parrying and
 so still rolls. His roll is 59, a success, and gains a defensive manoeuvre. He chooses Pin Weapon,
-
-
-
-
-                                                                                                      149
-
-       slamming his shield onto the goblin's sword blade and wedging it against the ground. The mean
+slamming his shield onto the goblin's sword blade and wedging it against the ground. The mean
 goblin needs to spend a CA to free its weapon but must wait until his Strike Rank comes round
 again. Until freed, the mean goblin cannot attack with its pinned sword.
 
@@ -6652,12 +5918,7 @@ has two CA remaining.
 
 Thrace - has one CA remaining and has saved Lilina in spectacular fashion.
 
-
-
-
-150
-
-         Alaric can now act with his fourth CA. With one goblin pinned and the second weaponless,
+Alaric can now act with his fourth CA. With one goblin pinned and the second weaponless,
 Alaric thrusts his spear at the mean goblin. The goblin can only parry with its buckler and uses
 its last CA to defend itself. Alaric rolls 24, a success, and the goblin fails to parry. Alaric receives
 one Combat Manoeuvre and chooses Impale. He thrusts his spear into the goblin's abdomen (9
@@ -6684,13 +5945,13 @@ wants the damage bonus from charging. Instead, he casts a quick Magnitude 2 Blad
 on his spear. As the spell's casting time is equal to half its Magnitude, it takes only one Combat
 Action to cast, and gives a +10% bonus to hit and a +2 bonus to damage.
 
-Second Combat Round
+#### Second Combat Round
 Usually Initiative is maintained for a fresh round but given that two goblins are down, and Lilina
 hurt, the Games Master calls for new Initiative rolls. The outcome is:
 
-Alaric 20
-Goblin 18
-Thrace 17
+Alaric 20  
+Goblin 18  
+Thrace 17  
 Lilina 16
 
 Thus, Alaric acts first.
@@ -6704,13 +5965,7 @@ its buckler, immediately failing and thus grants Alaric a combat manoeuvre: he c
 Location and directs the burst of fire straight into the goblin's face. Dragon Breath inflicts 1D10
 damage and the result is 3. The goblin is wearing a leather helm which protects for 1 AP, so it
 sustains only 2 points of damage. It has 4 HP in the head and is thus reduced to 2 - there is the
-
-
-
-
-                                                                                                        151
-
-       sickly stench of burning skin but the damage is not enough to put the goblin down. Alaric has
+sickly stench of burning skin but the damage is not enough to put the goblin down. Alaric has
 also just used two Magic Points for the spell.
 
 Now the goblin can act. Angered by the burst of fire it lashes out with its buckler and lands Alaric
@@ -6745,10 +6000,7 @@ wounded arm...
 
 
 
-
-152
-
-           magic
+# Magic
 
 Magic is inherent to Legend. Access to it is not restricted by culture or profession and, in many cases,
 magic is a commonplace element used by most people to aid their daily lives. In a high-fantasy setting,
@@ -6757,7 +6009,7 @@ other mundane skills of their society. In other settings magic may be less commo
 it remains, however, as fundamental as the physical laws of the planet or plane of existence.
 
 
-The Pursuit of Magic
+## The Pursuit of Magic
 Even though the magical types work very differently and are, to a large extent, mutually exclusive,
 there is nothing to prevent Adventurers from learning and developing more than one magical
 style. An Adventurer may therefore freely learn Common Magic, dedicate himself to a god to gain
@@ -6770,11 +6022,11 @@ cultural limitations rather than a limitation of the rules. In reality any Adven
 magical style and develop several style simultaneously, if they so wish.
 
 
-Types of Magic
+## Types of Magic
 The three magical types are:
 
 
-Common Magic
+### Common Magic
 Spells and cantrips that are ubiquitous to many cultures and societies. Common Magic
 manipulates the natural order with varying degrees of subtlety and offers a host of effects
 that ease daily life or augment specific endeavours, such as combat and skill use. The range of
@@ -6789,15 +6041,11 @@ might sneer at Common Magic's limitations but only the most foolish of them woul
 denigrate Common Magic's utility and capabilities.
 
 
-Divine Magic
+### Divine Magic
 Divine Magic stems from the gods. It reflects their natures, ways, spheres of influence, desires,
 needs, successes, failures and mythic standing. Gaining access to Divine Magic requires
 a dedication of faith and the willingness to enter into a personal relationship with the deity
-
-
-                                                                                                        153
-
-       worshipped. In return for this devotion the worshipper channels aspects of the god's power and
+worshipped. In return for this devotion the worshipper channels aspects of the god's power and
 abilities. With greater devotion comes greater levels of power: the more the relationship deepens
 the more like the god the worshipper becomes.
 
@@ -6805,7 +6053,7 @@ Divine Magic is not limited in the same way as Common Magic but it does have cer
 based on the depth of faith and the strength of the relationship between worshippers and worshipped.
 
 
-Sorcery
+### Sorcery
 Sorcerers find their power by unlocking the fabric of reality and shaping it through their ability
 to manipulate the rules of creation - moulding it, bending it or breaking it. Sorcery is not based
 on a cultural relationship with magic, or a relationship with a god: it is based on formulae and
@@ -6823,7 +6071,7 @@ power that obviates the need for, and reliance upon, gods. Sorcery is the key to
 sorcerers are often driven to seek and attain power that places them on a par with the gods.
 
 
-Magic Points
+## Magic Points
 All living creatures possess a basic affinity with magic, whether or not they ever become trained in
 it. It is this raw magical power that is nursed and improved by spellcasters over time. This nascent
 magical power fuels spells and other magical or mystical abilities and can also provide protection
@@ -6832,12 +6080,12 @@ Adventurers start play with Magic Points equal to their POW Characteristic score
 POW score also acts as a maximum limit for the amount of Magic Points an Adventurer can store
 at any one time. However there are certain things that affect available Magic Points:
 
-*	   Certain Magic Items or Spells can raise or lower these limits.
-*	   POW dedicated to a god or cult cannot be used for Magic Points, reducing the available
-number for fuelling Common Magic, Sorcery spells or other mystical abilities.
+* Certain Magic Items or Spells can raise or lower these limits.
+* POW dedicated to a god or cult cannot be used for Magic Points, reducing the available
+  number for fuelling Common Magic, Sorcery spells or other mystical abilities.
 
 
-Using Magic Points
+### Using Magic Points
 Whenever Magic Points are used to power a spell, the total is temporarily reduced by the amount
 used. The Magic Point total cannot fall below zero. Using all one's Magic Points takes its toll
 on the body's physical reserves; if an Adventurer reaches zero Magic Points he must make a
@@ -6848,14 +6096,13 @@ works); if he fails it and falls unconscious, he remains that way for a number o
 his CON subtracted from 21.
 
 
-Regaining Magic Points
+### Regaining Magic Points
 Adventurers automatically regain Magic Points equal to their POW, less any POW dedicated to
 a Pact, every 12 hours. They will regain this amount in six hours if they are fully resting, such as
 sleeping, or through the use of the Meditation Advanced skill (see page 62).
 
-154
 
-                                 common magic
+# Common magic
 Common Magic is the name given to a variety of spells that are routinely encountered throughout
 many societies where magic is used on a daily basis. Separate cultures may place a different
 emphasis on Common Magic's importance and have very different spells in regular use; but
@@ -6868,7 +6115,7 @@ community as a part of their cultural learning and development. Religious cults 
 sorcery generally offer a certain set of Common Magic spells reflecting their nature.
 
 
-Casting Common Magic
+## Casting Common Magic
 The casting of any Common Magic spell requires a successful Common Magic roll. This one
 skill covers casting of any Common Magic spells known. An Adventurer who knows Bladesharp
 and Thunder's Voice casts both at the same Common Magic value; the two spells do not have
@@ -6881,45 +6128,38 @@ detected by any creatures within 10 metres times the Magnitude of the spell. Exa
 included with each spell description.
 
 
-
-Alaric's Tale
-Being part of an barbarian clan living in the enchanted Gloamwood, Alaric experiences magic
-every day. As part of his clan education, and interest in the heavenly wars of the Thunderer, Alaric
-has learned Bladesharp 2, Thunder's Voice 1, Heal 2 and Vigor 1. He casts all four spells with his
-Common Magic skill of 34% and the number following the spell's name is the maximum magnitude
-at which Alaric can cast the spell.
-
-It is likely that, given time, Alaric will learn more Common Magic - either new spells, or by developing
-the Magnitude for existing ones.
-
+> Alaric's Tale
+> Being part of an barbarian clan living in the enchanted Gloamwood, Alaric experiences magic
+> every day. As part of his clan education, and interest in the heavenly wars of the Thunderer, Alaric
+> has learned Bladesharp 2, Thunder's Voice 1, Heal 2 and Vigor 1. He casts all four spells with his
+> Common Magic skill of 34% and the number following the spell's name is the maximum magnitude
+> at which Alaric can cast the spell.
+> 
+> It is likely that, given time, Alaric will learn more Common Magic - either new spells, or by developing
+> the Magnitude for existing ones.
 
 
-Situational Modifiers for Common Magic
+### Situational Modifiers for Common Magic
 Like any skill, Common Magic is subject to circumstances which may inhibit a spell's chance of
 success. The Common Magic skill modifiers are as follows:
 
+##### Casting Modifiers Situational Modifiers
 
-156
+| Situation                                    | Skill Modifier (1) |
+|----------------------------------------------|--------------------|
+| Spellcaster is gagged or silenced            | Automatic Failure  |
+| Spellcaster is restrained                    | -30%               |
+| Spellcaster is prone                         | -20%               |
+| Spellcaster is on unstable ground            | -20%               |
+| Partially obscured target                    | -20% (2)           |
+| Heavily obscured target                      | -40% (2)           |
+| Totally obscured target                      | Automatic Failure  |
 
-         Casting Modifiers Situational Modifiers
- Situation                                      Skill Modifier1
- Spellcaster is gagged or silenced              Automatic Failure
- Spellcaster is restrained                      -30%
- Spellcaster is prone                           -20%
- Spellcaster is on unstable ground              -20%
- Partially obscured target                      -20%2
- Heavily obscured target                        -40%2
- Totally obscured target                        Automatic Failure
-
-1
-These modifiers are cumulative - a prone spellcaster casting at a partially obscured target
-decreases his Common Magic skill by -40%.
-2
-These modifiers only apply if the spell has a target other than the spellcaster, his immediate
-location, his carried possessions or a touched object/individual.
+(1) These modifiers are cumulative - a prone spellcaster casting at a partially obscured target decreases his Common Magic skill by -40%.  
+(2) These modifiers only apply if the spell has a target other than the spellcaster, his immediate location, his carried possessions or a touched object/individual.
 
 
-Casting Time
+### Casting Time
 All Common Magic spells take a number of Combat Actions to cast equal to half their Magnitude
 (rounded up). Thus a Bladesharp 3 spell would take 2 CA to cast. More powerful spells take
 longer to cast as the Adventurer seeks to harness the spell's inherent power.
@@ -6937,39 +6177,38 @@ require unopposed Persistence tests to maintain concentration on the spell. If t
 incapacitated from a Major Wound or by some other effect, blinded for instance, then the spell
 automatically fails.
 
-Magic Point Cost
+#### Magic Point Cost
 A Common Magic spell costs a number of Magic Points equal to its Magnitude. So, casting a
 Magnitude 2 spell costs 2 Magic Points.
 
-Dismissing Spells
+#### Dismissing Spells
 As a single Combat Action, a caster can dismiss any spell he has cast. Ceasing to focus on a
 Concentration spell is immediate and not a Combat Action.
 
 
-Learning Common Magic Spells
+## Learning Common Magic Spells
 In order to learn a spell, an Adventurer must locate a teacher who already knows it and is willing to
 teach it in exchange for money, services or even undertaking a quest to prove themselves worthy. An
 Adventurer with connections to a religious cult or sorcerous order will have an easier time finding
 teachers for more powerful spells. Beginning Adventurers may already have a selection of Common
 Magic spells at the start of their adventuring career, depending on their Cultural Background.
 
-
-                                                                                                     157
-
-       Every Common Magic spell is graded by its Magnitude, a score that indicates its relative power.
+Every Common Magic spell is graded by its Magnitude, a score that indicates its relative power.
 Magnitude 1 spells are the weakest and easiest to learn. Learning a new spell takes one day per
 point of Magnitude and costs the equivalent number of Improvement Rolls.
 
-Learning Common Magic Spells
-Magnitude                Cost                                      Time to Learn
-1                        1 Improvement Roll                        1 day
-2                        2 Improvement Rolls                       2 days
-3                        3 Improvement Rolls                       3 days
-4                        4 Improvement Rolls                       4 days
-5                        5 Improvement Rolls                       5 days
-6                        6 Improvement Rolls                       6 days
-7                        7 Improvement Rolls                       7 days
-+1                       +1 Improvement Roll                       +1 day
+##### Learning Common Magic Spells
+
+| Magnitude              | Cost                                    | Time to Learn |
+|------------------------|-----------------------------------------|---------------|
+| 1                      | 1 Improvement Roll                      | 1 day         |
+| 2                      | 2 Improvement Rolls                     | 2 days        |
+| 3                      | 3 Improvement Rolls                     | 3 days        |
+| 4                      | 4 Improvement Rolls                     | 4 days        |
+| 5                      | 5 Improvement Rolls                     | 5 days        |
+| 6                      | 6 Improvement Rolls                     | 6 days        |
+| 7                      | 7 Improvement Rolls                     | 7 days        |
+| +1                     | +1 Improvement Roll                     | +1 day        |
 
 A spell's Magnitude also defines the intellect required by the individual to absorb, memorise and
 articulate its fabric. The maximum Magnitude of a Common Magic spell any Adventurer can
@@ -6989,51 +6228,47 @@ lower Magnitude if he so chooses or needs. Thus Alaric could learn Bladesharp 3 
 Bladesharp 1 and Bladesharp 2.
 
 
-Spell Traits and Descriptions
+## Spell Traits and Descriptions
 Every Common Magic spell is defined by a series of traits that tells you what kind of spell it is
 and how it is used in the game. A description then follows describing the spell's precise effects.
 The traits used by spells are detailed here.
 
-Area (X): The spell affects all targets within a radius specified in metres.
+**Area (X)**: The spell affects all targets within a radius specified in metres.
 
-Concentration: The spell's effects remain in place as long as the Adventurer concentrates on it.
+**Concentration**: The spell's effects remain in place as long as the Adventurer concentrates on it.
 Concentrating on a spell is functionally identical to casting the spell, requiring the spellcaster to
 continue to chant and ignore distractions.
 
-Duration (X): The spell's effects will stay in place for the number of minutes indicated.
+**Duration (X)**: The spell's effects will stay in place for the number of minutes indicated.
 
-Instant: The spell's effects take place instantly. The spell itself then disappears.
+**Instant**: The spell's effects take place instantly. The spell itself then disappears.
 
-
-
-
-158
-
-         Magnitude (X): The strength and power of the spell. Also the minimum number of Magic
+**Magnitude (X)**: The strength and power of the spell. Also the minimum number of Magic
 Points required to cast it. If two identical spells are cast on the same target, only the spell with
 the greater Magnitude takes effect - their Magnitudes do not stack.
 
-Progressive: This indicates that the spell can be learnt and cast at greater levels of Magnitude.
+**Progressive**: This indicates that the spell can be learnt and cast at greater levels of Magnitude.
 The spell can also be cast at a lower Magnitude if the caster desires.
 
-Ranged: Ranged spells may be cast upon targets up to a maximum distance of the Adventurer's
+**Ranged**: Ranged spells may be cast upon targets up to a maximum distance of the Adventurer's
 POW x 5 in metres.
 
-Resist (Evade/Persistence/Resilience): The spell's effects do not occur automatically. The target
+**Resist (Evade/Persistence/Resilience)**: The spell's effects do not occur automatically. The target
 may make an Opposed Test of their Evade, Persistence or Resilience (as specified by the spell)
 against the casting roll, in order to avoid the effect of the spell entirely. Note that Resist (Evade)
 spells require the target to be able to use a Combat Action in order to Evade.
 
-Touch: Touch spells require the Adventurer to actually touch his target for the spell to take effect.
+**Touch**: Touch spells require the Adventurer to actually touch his target for the spell to take effect.
 The spellcaster must remain in physical contact with the target for the entire casting.
 
-Trigger: The spell temporarily lies dormant until an event stated in the description takes place.
+**Trigger**: The spell temporarily lies dormant until an event stated in the description takes place.
 The spell then takes effect and is expended. If the triggering event does not occur within five
 minutes, the spell fades.
 
 
-Common Magic Spells
-Abacus
+## Common Magic Spells
+
+### Abacus
 Instant, Magnitude 1
 
 This spell allows the caster to instantly count the quantity of individual pieces, parts or units
@@ -7043,14 +6278,14 @@ will be exact and unerring but will not account for miscalculations due to poorl
 for counting.
 
 
-Armoursmith's Boon
+### Armoursmith's Boon
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to his next Craft Skill Test
 involving any sort of forged metal and cannot stack with any other spell-effect bonuses.
 
 
-Babel
+### Babel
 Duration 5, Magnitude 2, Ranged, Resist (Persistence)
 
 If this spell is successful, it garbles the language of the affected creature. The target can still
@@ -7059,25 +6294,21 @@ commanding officer would be unable to give orders to his men and a spellcaster w
 to cast spells.
 
 
-
-
-                                                                                                      159
-
-       Bandit's Cloak
+### Bandit's Cloak
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to his next Stealth Skill Test
 involving any sort of hiding or lurking and cannot stack with any other spell-effect bonuses.
 
 
-Bearing Witness
+### Bearing Witness
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to his next Skill Test made
 to discover lies, secrets or hidden objects and cannot stack with any other spell-effect bonuses.
 
 
-Beast Call
+### Beast Call
 Instant, Magnitude 2, Ranged, Resist (Resilience)
 
 The Beast Call serves to attract an animal within range. When the spell is cast, it affects a targeted
@@ -7088,7 +6319,7 @@ the Beast Call spell might cause a horse to turn and walk towards the spell but 
 its reins by the rider would end the spell's effect. This spell is a potent aid to hunters and herders.
 
 
-Bestial Enhancement
+### Bestial Enhancement
 Duration 5, Magnitude 1, Progressive, Touch
 
 This spell causes the creature to become more bestial, augmenting its natural weapons and
@@ -7097,7 +6328,7 @@ by +5% and they deal one point of extra damage. This extra damage is magical and
 creatures that can only be hurt by magic. The base natural weapon damage remains non-magical.
 
 
-Becalm
+### Becalm
 Instant, Magnitude 1, Touch
 
 This spell gives the target the ability to sleep for exactly 10 hours uninterrupted by bad dreams,
@@ -7107,7 +6338,7 @@ sleep, merely calms their mind in order to better enjoy their next slumber. This
 spellcasters who wish to fully regain their Magic Points.
 
 
-Befuddle
+### Befuddle
 Duration 5, Magnitude 2, Ranged, Resist (Persistence)
 
 If successful, this spell confuses an opponent to the extent that it may forget who it is or who its
@@ -7118,9 +6349,7 @@ any attacks unless it is attacked first.
 Spirits and non-corporeal creatures are not affected by this spell.
 
 
-160
-
-         Bladesharp
+### Bladesharp
 Duration 5, Magnitude 1, Progressive, Touch
 
 This spell can be cast on any weapon capable of cutting and/or thrusting. For every point of
@@ -7130,7 +6359,7 @@ weapon's base damage remains non-magical. A weapon under the effects of Bladesha
 benefit from other damage enhancing spells such as Pierce or Fireblade.
 
 
-Bludgeon
+### Bludgeon
 Duration 5, Magnitude 1, Progressive, Touch
 
 This spell can be cast on any crushing or smashing weapon, such as a warhammer, club or mace.
@@ -7139,7 +6368,7 @@ one point of extra damage. This extra damage is magical and will affect creature
 be hurt by magic. The weapon's base damage remains non-magical.
 
 
-Boon of Lasting Night
+### Boon of Lasting Night
 Area Special, Duration 5, Magnitude 1, Progressive
 
 If successful, the spell turns the area of effect into a sphere of darkness equal to a moonless night.
@@ -7147,14 +6376,14 @@ All non-magical light (including sunlight) passing or present within the boundar
 the equivalent of a candle. This radius of the area is equal to the Magnitude of the spell.
 
 
-Cauterise
+### Cauterise
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to his next First Aid or Healing
 Skill Test made to mend open wounds and cannot stack with any other spell-effect bonuses.
 
 
-Chill
+### Chill
 Instant, Magnitude 1, Touch
 
 This spell allows the caster to drastically lower the temperature of any mundane object. With this ability he can
@@ -7162,23 +6391,22 @@ speed up the cooling of metal in a forge, make pub drinks cold for his companion
 interesting tricks. It is up to the Games Master to decide the exact effects this would have in a given situation.
 
 
-Clear Path
+### Clear Path
 Duration 5, Magnitude 1
 
 This spell allows the caster to move through even the most tangled, thorny brush as if he were
 on an open road.
 
 
-Co-ordination
+### Co-ordination
 Duration 5, Magnitude 1, Progressive
 
 For every point of Magnitude of this spell, the caster's DEX score increases by two. This may
 have an additional effect on his skills and Attributes, such as Combat Actions and Strike Rank.
 The caster cannot increase his DEX in this way to more than twice its original value.
 
-                                                                                                                  161
 
-       Countermagic
+### Countermagic
 Instant, Magnitude 1, Progressive, Ranged
 
 Countermagic is used to dismiss another spell within range. The targeted spell is nullified if the
@@ -7191,7 +6419,7 @@ is using the Cast Spell Combat Action to defend herself. She casts Countermagic 
 fortunately dismisses Rhazil's spell before it can hit her.
 
 
-Countermagic Shield
+### Countermagic Shield
 Duration 5, Magnitude 1, Progressive
 
 This spell actively disrupts offensive spells aimed at the caster or his equipment. Countermagic
@@ -7199,17 +6427,16 @@ Shield will attempt to block the effects of any spells cast toward it. It will n
 spells that are already affecting an Adventurer. The effects of Countermagic Shield depend on the
 relative Magnitude of both itself and the incoming spell.
 
-Countermagic Shield Results
-Incoming Spell's Magnitude is. . .                     Effect
-1 or more points weaker than Countermagic              Incoming spell eliminated and
-Shield's Magnitude.                                    Countermagic Shield remains.
-Equal to the Countermagic Shield's Magnitude.          Both incoming spell and Countermagic
-                                                  Shield are eliminated.
-1 or more points stronger than Countermagic            Countermagic Shield eliminated and
-Shield's Magnitude.                                    incoming spell takes effect.
+##### Countermagic Shield Results
+
+| Incoming Spell's Magnitude is...                                  | Effect |
+|-------------------------------------------------------------------|--------|
+| 1 or more points weaker than Countermagic Shield's Magnitude.     | Incoming spell eliminated and Countermagic Shield remains. |
+| Equal to the Countermagic Shield's Magnitude.                     | Both incoming spell and Countermagic Shield are eliminated. |
+| 1 or more points stronger than Countermagic Shield's Magnitude.   | Countermagic Shield eliminated and incoming spell takes effect. |
 
 
-Darkwall
+### Darkwall
 Area Special, Duration 5, Magnitude 2, Ranged
 
 By casting this spell, the Adventurer creates a patch of pitch blackness that fills the target area.
@@ -7218,7 +6445,7 @@ senses such as a bat's sonar function normally. The radius of the area is equal 
 of the spell.
 
 
-Demoralise
+### Demoralise
 Duration 5, Magnitude 2, Ranged, Resist (Persistence)
 
 The target of this spell will become demoralised, losing all hope of victory and losing faith
@@ -7228,9 +6455,8 @@ skill. If this spell takes effect before combat begins, the target will try to a
 and will either run or surrender. The effects of this spell are automatically cancelled by the
 Fanaticism spell and vice versa.
 
-162
 
-       Detect X
+### Detect X
 Concentration, Magnitude 1, Ranged, Resist (Special)
 
 Detect is several spells, which allow the caster to locate the targets of the spell within its range.
@@ -7253,7 +6479,7 @@ The Games Master should provide the rough power of the detected subject ('weak m
 gold lode') and require further Common Magic tests for more detailed information.
 
 
-Disruption
+### Disruption
 Instant, Magnitude 1, Progressive, Ranged, Resist (Resilience)
 
 A particularly grisly offensive spell, Disruption literally pulls a target's body apart. For each point
@@ -7261,7 +6487,7 @@ of Magnitude the target suffers 1D3 points of damage to a random Hit Location, i
 Armour Points.
 
 
-Dragon's Breath
+### Dragon's Breath
 Instant, Magnitude 2, Ranged, Resist (Evade)
 
 With this spell, the caster spits a stream of fire at his target. If the fire is not evaded, it inflicts
@@ -7269,24 +6495,21 @@ With this spell, the caster spits a stream of fire at his target. If the fire is
 damage and it counts as both magical and fire damage.
 
 
-Dullblade
+### Dullblade
 Duration 5, Magnitude 1, Progressive, Ranged
 
 This spell can be cast on any weapon but will not affect unarmed attacks or natural weaponry.
 For every point of Magnitude, it reduces the damage dealt by the targeted weapon by two.
 
 
-Endurance
+### Endurance
 Instant, Magnitude 1, Progressive, Touch
 
 For every point of Magnitude, this spell restores one level of Fatigue that the target is currently
 suffering from.
 
 
-
-164
-
-         Entertainer's Smile
+### Entertainer's Smile
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to the target's next Dance,
@@ -7294,7 +6517,7 @@ Sing or Play Instrument Skill Test involving the observations and appreciation o
 cannot stack with any other spell-effect bonuses.
 
 
-Extinguish
+### Extinguish
 Instant, Magnitude 1, Progressive, Ranged
 
 This spell instantly puts out fires. At Magnitude 1, it can extinguish a Flame, Magnitude 2 a
@@ -7302,7 +6525,7 @@ Small Fire, Magnitude 3 a Large Fire and Magnitude 4 will put out an Inferno (se
 sizes of fire).
 
 
-Fanaticism
+### Fanaticism
 Duration 5, Magnitude 2, Ranged, Resist (Persistence)
 
 The target of this spell becomes fanatical, believing he can defeat any foe and overcome any
@@ -7312,7 +6535,7 @@ Demoralise spell and vice versa. Willing targets of Fanaticism may surrender to 
 resisting it.
 
 
-Fate
+### Fate
 Instant, Magnitude 1, Progressive, Touch, Resist (Persistence)
 
 This spell allows the caster to influence fate, either for the good or ill of the target. The caster can
@@ -7322,7 +6545,7 @@ chances - allowing him to give his friends an advantage or hobble his enemies. O
 Skill Test made after (resisting) the spell's casting is affected.
 
 
-Firearrow
+### Firearrow
 Instant 1, Magnitude 1, Touch, Trigger
 
 Casting this spell on a missile weapon (such as an arrow, bolt, rock or dart) will cause it to burst
@@ -7331,7 +6554,7 @@ points of magical fire atop its normal damage. A missile under the effects of Fi
 benefit from Multimissile or Speedart.
 
 
-Fireblade
+### Fireblade
 Duration 5, Magnitude 3, Touch
 
 By touching a cutting or impaling weapon, the caster causes its blade to burst into flame. For the
@@ -7340,9 +6563,7 @@ its normal damage. A weapon under the effects of Fireblade cannot benefit from o
 enhancing spells such as Bladesharp or Pierce.
 
 
-                                                                                                        165
-
-       Frostbite
+### Frostbite
 Instant, Magnitude 2, Ranged, Resist (Resilience)
 
 This attack spell allows the caster to freeze his opponent, dealing 1d3 points of damage (rolled
@@ -7350,7 +6571,7 @@ once) to all Hit Locations, ignoring any Armour Points. Magical effects that pro
 damage can block this effect but mundane items (such as cold weather gear) are ineffective.
 
 
-Glamour
+### Glamour
 Duration 5, Magnitude 1, Progressive
 
 For every point of Magnitude of this spell, the caster's CHA score increases by +2. This may have
@@ -7358,7 +6579,7 @@ an additional effect on his skills. The caster cannot increase his CHA in this w
 twice its original value.
 
 
-Golden Tongue
+### Golden Tongue
 Duration 5, Magnitude 1, Progressive
 
 The caster gains a bonus to any Commerce, Evaluate or Influence test equal to +5% x the
@@ -7366,7 +6587,7 @@ Magnitude of the spell. This bonus only applies when an Adventurer is evaluating
 selling goods or equipment.
 
 
-Hand of Death
+### Hand of Death
 Instant, Magnitude 4, Resist (Resilience), Touch, Trigger
 
 This fearsome spell allows the caster to deal an awful wound with the merest touch. Casting the
@@ -7377,7 +6598,7 @@ a Major Wound. If the Resilience test is a success, the target only loses 1d3 Hi
 does not protect against this damage.
 
 
-Heal
+### Heal
 Instant, Magnitude 1, Progressive, Touch
 
 For every point of Magnitude of this spell, the caster can repair one Hit Point of damage to an
@@ -7388,7 +6609,7 @@ This spell cannot re-attach a severed limb, or heal a maimed one. Such wounds re
 magic.
 
 
-Ignite
+### Ignite
 Instant, Magnitude 1, Ranged, Resist (Resilience)
 
 Ignite sets fire to anything flammable within range, creating a Flame (see page 88). Living
@@ -7396,9 +6617,7 @@ creatures cannot be ignited and if the target is worn or held by a living being 
 then the wearer/wielder may resist.
 
 
-166
-
-         Light
+### Light
 Area Special, Duration 5, Magnitude 1, Ranged
 
 When cast on an inanimate object, this spell produces a steady radiance which extends one metre
@@ -7406,7 +6625,7 @@ per point of Magnitude. The area is considered to be illuminated. Note that only
 area is illuminated - everything outside the area of effect is not.
 
 
-Lucky
+### Lucky
 Instant, Magnitude 2, Trigger
 
 This spell allows the caster to re-roll his next failed Skill Test but cannot be used to re-roll a
@@ -7414,7 +6633,7 @@ fumble. Whatever the result of the second roll may be, the caster must accept it
 benefit from one casting of Lucky at a time.
 
 
-Mason's Boon
+### Mason's Boon
 Instant, Magnitude 1, Progressive, Trigger
 
 This spell grants the caster a +10% bonus per point of Magnitude to his next Craft Skill Test
@@ -7422,7 +6641,7 @@ involving any form of natural earth, stone or sand and cannot stack with any oth
 bonuses.
 
 
-Mindspeech
+### Mindspeech
 Duration 5, Magnitude 1, Progressive, Ranged
 
 This spell affects one target for every point of Magnitude. It allows telepathy between the caster
@@ -7431,13 +6650,13 @@ by telepathy must be whispered and will be heard directly in the head of the rec
 same language in which it was spoken.
 
 
-Mobility
+### Mobility
 Duration 5, Magnitude 1, Progressive, Touch
 
 For every point of Magnitude of this spell, the target's Movement score is increased by one metre.
 
 
-Multimissile
+### Multimissile
 Instant, Magnitude 1, Progressive, Touch, Trigger
 
 Cast on a missile weapon (such as a knife, arrow, javelin or rock), this spell is triggered when
@@ -7449,11 +6668,7 @@ will affect creatures that can only be hurt by magic. A missile under the effect
 cannot benefit from Firearrow, Pierce or Speedart.
 
 
-
-
-                                                                                                   167
-
-       Parry
+### Parry
 Duration 5, Magnitude 1, Progressive, Touch
 
 Parry improves the caster's defences whilst parrying with the targeted weapon or shield. Each
@@ -7461,7 +6676,7 @@ point of Magnitude increases his parry chance by +5% and the Armour Points of th
 by 1.
 
 
-Pierce
+### Pierce
 Duration 5, Magnitude 1, Progressive, Touch
 
 This spell can be cast on any weapon with a blade or point. For every point of Magnitude, it
@@ -7470,14 +6685,14 @@ Points. A weapon under the effects of Pierce cannot benefit from other damage en
 such as Bladesharp or Fireblade.
 
 
-Protection
+### Protection
 Duration 5, Magnitude 1, Progressive
 
 For every point of Magnitude of this spell, one Armour Point is added to every Hit Location of
 the caster. This stacks with any existing armour and is treated in the same manner.
 
 
-Push/Pull
+### Push/Pull
 Instant, Magnitude 1, Progressive, Ranged, Resist (Resilience)
 
 This spell allows the caster to move an item of up to 1 SIZ or ENC per point of Magnitude either
@@ -7488,7 +6703,7 @@ or pulled; as this depends on the location of the item or the surface it rests o
 targeted by this spell are allowed a Resilience roll to resist.
 
 
-Repair
+### Repair
 Instant, Magnitude 1, Progressive, Touch
 
 Every point of Magnitude of this spell repairs one Hit Point of damage to a non-living target. The
@@ -7496,7 +6711,7 @@ marks of repair remain visible, probably reducing the target's market value, unl
 Craft test is made at the time of casting.
 
 
-Second Sight
+### Second Sight
 Duration 5, Magnitude 3, Ranged
 
 Second Sight allows the caster to gauge the POW aura of every creature and magic item within
@@ -7507,9 +6722,7 @@ Second Sight also reveals invisible entities, such as spirits or ethereal undead
 image will show (treat such targets as partially obscured).
 
 
-168
-
-         Skybolt
+### Skybolt
 Instant, Magnitude 3, Ranged, Resist (Evade)
 
 The caster summons a lightning bolt from the heavens regardless of the weather. The target must
@@ -7517,14 +6730,14 @@ be outdoors in plain view. Skybolt inflicts 2D6 points of damage to a single cho
 Only magical Armour Points offer protection against this damage.
 
 
-Slow
+### Slow
 Duration 5, Magnitude 1, Progressive, Ranged, Resist (Resilience)
 
 For every point of Magnitude of this spell, the target's Movement score will be decreased by one
 metre. A target's Movement may not be reduced to below one through use of this spell.
 
 
-Speedart
+### Speedart
 Instant, Magnitude 1, Progressive, Touch, Trigger
 
 Cast on a missile weapon (such as a knife, arrow, javelin or rock), this spell is triggered when it
@@ -7533,7 +6746,7 @@ of the spell and damage is increased by one point per Magnitude. A missile under
 Speedart cannot benefit from Firearrow, Multimissile or Pierce.
 
 
-Spirit Bane
+### Spirit Bane
 Area Special, Duration 5, Magnitude 1, Progressive, Resist (Persistence)
 
 This spell creates a zone with a radius of one metre per point of Magnitude, which spirits find
@@ -7542,7 +6755,7 @@ protected area must resist the spell in order to do so. Spirits within the zone 
 creation must resist it or be compelled to leave as quickly as possible.
 
 
-Strength
+### Strength
 Duration 5, Magnitude 1, Progressive
 
 For every point of Magnitude of this spell, the caster's STR score increases by +2. This may have
@@ -7550,7 +6763,7 @@ an additional effect on his skills and Attributes, such as Damage Modifier. The 
 increase his STR in this way to more than twice its original value.
 
 
-Thunder's Voice
+### Thunder's Voice
 Duration 5, Magnitude 1, Progressive
 
 This spell grants the caster a thunderous voice of command. For every point of Magnitude of this
@@ -7558,18 +6771,14 @@ spell, the caster has +10% added to his Influence skill and can also be heard at
 Magnitude x 100 in metres.
 
 
-
-
-                                                                                                   169
-
-       Understanding
+### Understanding
 Duration 5, Magnitude 1, Progressive
 
 This spell grants the caster a +5% per point of Magnitude bonus to any Language skill he
 currently knows.
 
 
-Vigour
+### Vigour
 Duration 5, Magnitude 1, Progressive, Touch
 
 For every point of Magnitude of this spell, the caster's CON score increases by +2. This may have
@@ -7577,7 +6786,7 @@ an additional effect on his skills and Attributes. The caster cannot increase hi
 to more than twice its original value.
 
 
-Warmth
+### Warmth
 Duration 5, Magnitude 1, Progressive
 
 This spell keeps the caster warm and comfortable in a bitter cold environment. He suffers no
@@ -7586,7 +6795,7 @@ protects the caster from one point of cold damage (magical or mundane) for every
 Magnitude.
 
 
-Water Breath
+### Water Breath
 Duration 5, Magnitude 2,
 
 This spell allows the caster to breathe water for the duration of the effect. Water Breath has no
@@ -7594,10 +6803,7 @@ effect on the target's ability to breathe air.
 
 
 
-
-170
-
-         divine magic
+# Divine Magic
 Whereas Common Magic is available directly to Adventurers, Divine Magic is not. Divine Magic
 is gifted by the gods and is usually available only through membership of a cult - and even then,
 only to cult members who have attained an appropriate level of standing within the cult. Lay
