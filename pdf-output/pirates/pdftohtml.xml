@@ -8,7 +8,7 @@
 	<fontspec id="2" size="97" family="Times" color="#ffffff"/>
 	<fontspec id="3" size="11" family="Times" color="#ffffff"/>
 	<fontspec id="4" size="25" family="Times" color="#ffffff"/>
-	<fontspec id="5" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#d1d1d1"/>
 <text top="725" left="347" width="72" height="17" font="0">MGP 8313</text>
 <text top="725" left="440" width="64" height="17" font="0">US$19.99</text>
 <text top="361" left="89" width="494" height="17" font="0">‘A pyrate is Hostis humanis generis, a common Enemy, with whom neither Faith nor </text>
@@ -35,7 +35,7 @@
 <text top="99" left="651" width="0" height="14" font="3">tes o</text>
 <text top="131" left="651" width="0" height="14" font="3">f</text>
 <text top="45" left="632" width="0" height="30" font="4">legendlegend</text>
-<text top="942" left="661" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="967" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="2" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="6" size="25" family="Times" color="#231f20"/>
@@ -91,7 +91,7 @@
 <text top="880" left="269" width="70" height="13" font="10">Printed in USA</text>
 <text top="49" left="124" width="339" height="79" font="11">pirates of</text>
 <text top="122" left="94" width="409" height="96" font="12">LEGEND</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="3" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="13" size="24" family="Times" color="#231f20"/>
@@ -125,7 +125,7 @@
 <text top="670" left="43" width="500" height="15" font="8">Aulenbach &amp; Wanda White for historical details and good advice, &amp; Ian Sturrock for permission </text>
 <text top="686" left="43" width="64" height="15" font="8">to plunder.  </text>
 <text top="79" left="196" width="334" height="53" font="16">introduction</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="4" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="17" size="20" family="Times" color="#231f20"/>
@@ -151,7 +151,7 @@
 <text top="642" left="55" width="157" height="26" font="17">Part 3: Basic Skills</text>
 <text top="665" left="55" width="500" height="15" font="8">There are two new basic weapon skills, Pistols and Longarms. See page 31 for descriptions of </text>
 <text top="682" left="55" width="110" height="15" font="8">gunpowder weapons.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="5" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="13">4</text>
@@ -202,7 +202,7 @@
 <text top="338" left="433" width="102" height="15" font="8">Mariners begin the </text>
 <text top="355" left="433" width="94" height="15" font="8">game with 4D6 x </text>
 <text top="371" left="433" width="46" height="15" font="8">25 Silver</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="6" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="18" size="13" family="Times" color="#231f20"/>
@@ -289,7 +289,7 @@
 <text top="729" left="319" width="73" height="15" font="8">Shiphandling,</text>
 <text top="745" left="319" width="60" height="15" font="8">Handiwork</text>
 <text top="583" left="475" width="14" height="15" font="8">—</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="7" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="13">6</text>
@@ -371,7 +371,7 @@
 <text top="54" left="198" width="51" height="17" font="18"><b>Bonuses</b></text>
 <text top="54" left="302" width="97" height="17" font="18"><b>Advanced Skills</b></text>
 <text top="54" left="458" width="38" height="17" font="18"><b>Magic</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="8" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="13">7</text>
@@ -458,7 +458,7 @@
 <text top="54" left="211" width="51" height="17" font="18"><b>Bonuses</b></text>
 <text top="54" left="315" width="97" height="17" font="18"><b>Advanced Skills</b></text>
 <text top="54" left="470" width="38" height="17" font="18"><b>Magic</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="9" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="13">8</text>
@@ -517,7 +517,7 @@
 <text top="54" left="198" width="51" height="17" font="18"><b>Bonuses</b></text>
 <text top="54" left="302" width="97" height="17" font="18"><b>Advanced Skills</b></text>
 <text top="54" left="458" width="38" height="17" font="18"><b>Magic</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="10" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="13">9</text>
@@ -594,7 +594,7 @@
 <text top="54" left="211" width="51" height="17" font="18"><b>Bonuses</b></text>
 <text top="54" left="315" width="97" height="17" font="18"><b>Advanced Skills</b></text>
 <text top="54" left="470" width="38" height="17" font="18"><b>Magic</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="11" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">10</text>
@@ -686,7 +686,7 @@
 <text top="54" left="198" width="51" height="17" font="18"><b>Bonuses</b></text>
 <text top="54" left="302" width="97" height="17" font="18"><b>Advanced Skills</b></text>
 <text top="54" left="458" width="38" height="17" font="18"><b>Magic</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="12" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">11</text>
@@ -748,10 +748,10 @@
 <text top="54" left="211" width="51" height="17" font="18"><b>Bonuses</b></text>
 <text top="54" left="315" width="97" height="17" font="18"><b>Advanced Skills</b></text>
 <text top="54" left="470" width="38" height="17" font="18"><b>Magic</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="13" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="14" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="19" size="16" family="Times" color="#231f20"/>
@@ -777,7 +777,7 @@
 <text top="543" left="55" width="36" height="15" font="8">Points.</text>
 <text top="575" left="55" width="342" height="15" font="14"><i>Pirates of Legend</i> Adventurers may take up to two points in Vices. </text>
 <text top="607" left="55" width="312" height="15" font="15"><b>Next, move onto the rules for creating a crew and a ship.</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="15" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">14</text>
@@ -852,7 +852,7 @@
 <text top="828" left="167" width="143" height="15" font="8">Bedraggled gentleman’s wig</text>
 <text top="849" left="47" width="14" height="15" font="15"><b>31</b></text>
 <text top="850" left="167" width="57" height="15" font="8">False beard</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="16" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">15</text>
@@ -932,7 +932,7 @@
 <text top="845" left="179" width="34" height="15" font="8">Rapier</text>
 <text top="38" left="60" width="66" height="15" font="15"><b>Roll 1D100</b></text>
 <text top="38" left="179" width="26" height="15" font="15"><b>Item</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="17" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">16</text>
@@ -996,7 +996,7 @@
 <text top="670" left="167" width="113" height="15" font="8">Roll again three times</text>
 <text top="38" left="47" width="66" height="15" font="15"><b>Roll 1D100</b></text>
 <text top="38" left="167" width="26" height="15" font="15"><b>Item</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="18" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="20" size="41" family="Times" color="#231f20"/>
@@ -1022,7 +1022,7 @@
 <text top="469" left="422" width="14" height="15" font="8">+1</text>
 <text top="79" left="55" width="490" height="48" font="20">reputation, legendary </text>
 <text top="131" left="55" width="384" height="48" font="20">abilities and vices</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="19" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="21" size="5" family="Times" color="#231f20"/>
@@ -1088,7 +1088,7 @@
 <text top="666" left="43" width="491" height="15" font="8">gives some general guidelines for bonuses to skills based on the Reputation of the Adventurers.</text>
 <text top="699" left="43" width="500" height="15" font="8">Whether or not the Adventurer receives a bonus or penalty to his Influence test depends upon </text>
 <text top="715" left="43" width="297" height="15" font="8">the nature of his Reputation and who he is dealing with. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="20" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">19</text>
@@ -1161,7 +1161,7 @@
 <text top="730" left="55" width="239" height="15" font="8">fantasy game, of course, all that could be true!</text>
 <text top="763" left="55" width="500" height="15" font="8">Of the Legendary Abilities in the <i>Legend Core Rulebook</i>, several are suitable for use in <i>Pirates of </i></text>
 <text top="779" left="55" width="77" height="15" font="14"><i>Legend </i>games. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="21" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">20</text>
@@ -1196,7 +1196,7 @@
 <text top="358" left="47" width="63" height="15" font="8">Sacks a port</text>
 <text top="358" left="300" width="14" height="15" font="8">–4</text>
 <text top="358" left="423" width="14" height="15" font="8">+2</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="22" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">21</text>
@@ -1302,7 +1302,7 @@
 <text top="723" left="55" width="500" height="15" font="8">The bonus to Persistence and Resilience tests from an Adventurer’s Heroic Aura applies to a </text>
 <text top="740" left="55" width="500" height="15" font="8">whole crew. The second part of the Legendary Ability, the power to temporarily increase weapon </text>
 <text top="756" left="55" width="75" height="15" font="8">skills does <i>not</i>.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="23" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">22</text>
@@ -1348,7 +1348,7 @@
 <text top="781" left="81" width="461" height="15" font="8">When  killed,  you  may  put  yourself  into  the  Games  Master’s  hands.  You  will  always </text>
 <text top="797" left="81" width="461" height="15" font="8">survive but your POW is reduced by 1D6 and you will most likely end up in a very </text>
 <text top="813" left="81" width="179" height="15" font="8">dangerous or unpleasant situation.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="24" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">23</text>
@@ -1386,7 +1386,7 @@
 <text top="759" left="55" width="222" height="15" font="15"><b>Requirements: </b>Any Firearms skill at 70% </text>
 <text top="775" left="55" width="80" height="15" font="15"><b>Hero Points: </b>4</text>
 <text top="808" left="55" width="453" height="15" font="8">You have a knack for using gunpowder. You never suffer misfires when using a firearm. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="25" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">24</text>
@@ -1431,7 +1431,7 @@
 <text top="803" left="43" width="489" height="15" font="14"><i>and he could get another two Hero Points later in the adventure for being gluttonous in other ways.</i></text>
 <text top="836" left="43" width="500" height="15" font="8">Secondly, if the Adventurer has a chance to indulge his Vice at a time when he does not want </text>
 <text top="852" left="43" width="499" height="15" font="8">to, he must make a Persistence test, penalised by –20% per Vice Point after the first (so, –20% </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="26" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">25</text>
@@ -1476,7 +1476,7 @@
 <text top="816" left="55" width="210" height="15" font="8">or believe yourself to be the Devil’s own.</text>
 <text top="832" left="55" width="450" height="15" font="15"><b>Indulged by: </b>Destroying churches, insulting priests, shocking others with your words.</text>
 <text top="848" left="55" width="360" height="15" font="15"><b>Tempted by: </b>Especially big ways to offend the Almighty or believers.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="27" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">26</text>
@@ -1506,7 +1506,7 @@
 <text top="542" left="43" width="52" height="15" font="8">Drinking.</text>
 <text top="558" left="43" width="72" height="15" font="15"><b>Tempted by: </b></text>
 <text top="574" left="43" width="52" height="15" font="8">Drinking.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="28" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">27</text>
@@ -1543,7 +1543,7 @@
 <text top="235" left="55" width="86" height="15" font="8">getting drunker.</text>
 <text top="267" left="55" width="500" height="15" font="8">An already-drunk Adventurer can become Very Drunk (+/– 20% penalty) or Blind Drunk (+/– </text>
 <text top="283" left="55" width="77" height="15" font="8">40% penalty). </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="29" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">28</text>
@@ -1570,7 +1570,7 @@
 <text top="471" left="43" width="188" height="15" font="8">You long for combat in all its forms.</text>
 <text top="487" left="43" width="148" height="15" font="15"><b>Indulged by: </b>Picking fights.</text>
 <text top="504" left="43" width="323" height="15" font="15"><b>Tempted by: </b>Picking fights you have little chance of winning.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="30" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">29</text>
@@ -1602,7 +1602,7 @@
 <text top="820" left="55" width="500" height="15" font="15"><b>Cutlass: </b>A cutlass is a heavy curved sword, short enough to be used on board a ship without </text>
 <text top="837" left="55" width="500" height="15" font="8">getting tangled in the ever-present ropes and lines but sharp and strong enough to cut through a </text>
 <text top="853" left="55" width="500" height="15" font="8">foe. Cutlasses are used by navies the world over. Its basket hilt gives a +10% bonus to Parry tests. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="31" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="23" size="6" family="Times" color="#231f20"/>
@@ -1801,7 +1801,7 @@
 <text top="636" left="47" width="268" height="17" font="7"> This weapon suffers no penalty when thrown.</text>
 <text top="658" left="43" width="4" height="10" font="23">5</text>
 <text top="658" left="47" width="384" height="17" font="7"> This weapon can be used in cramped conditions without penalty. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="32" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">31</text>
@@ -1838,7 +1838,7 @@
 <text top="801" left="55" width="500" height="15" font="8">Gunpowder fuses can be made using the Artillery skill, or just improved by making an INT+DEX </text>
 <text top="817" left="55" width="500" height="15" font="8">test.  A powder horn will explode for 2D4 damage, or an improvised bomb for 1D4 x 1D4 </text>
 <text top="833" left="55" width="336" height="15" font="8">damage. A barrel of gunpowder deals 6D6 damage if it explodes.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="33" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="24" size="13" family="Times" color="#231f20"/>
@@ -2026,7 +2026,7 @@
 <text top="132" left="157" width="66" height="17" font="7">&lt;skill – Hit</text>
 <text top="132" left="323" width="66" height="17" font="7">&lt;skill – Hit</text>
 <text top="132" left="436" width="66" height="17" font="7">&lt;skill – Hit</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="34" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">33</text>
@@ -2091,7 +2091,7 @@
 <text top="776" left="273" width="8" height="17" font="7">1</text>
 <text top="776" left="314" width="31" height="17" font="7">Head</text>
 <text top="776" left="493" width="39" height="17" font="7">300 sp</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="35" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">34</text>
@@ -2140,7 +2140,7 @@
 <text top="669" left="43" width="500" height="15" font="8">encounter with wealthy, respectable types in civilised surroundings (obviously, Influence works </text>
 <text top="685" left="43" width="500" height="15" font="8">very differently if the wealthy gent with his fine powdered wig is kneeling on the deck with a </text>
 <text top="701" left="43" width="111" height="15" font="8">cutlass at his throat). </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="36" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">35</text>
@@ -2212,7 +2212,7 @@
 <text top="737" left="392" width="38" height="15" font="8">250 SP</text>
 <text top="756" left="60" width="68" height="15" font="8">Surgeon’s Kit</text>
 <text top="756" left="392" width="38" height="15" font="8">600 SP</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="37" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">36</text>
@@ -2256,7 +2256,7 @@
 <text top="814" left="379" width="32" height="15" font="8">150%</text>
 <text top="79" left="94" width="448" height="53" font="16">crews and sworn </text>
 <text top="125" left="253" width="278" height="53" font="16">companions</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="38" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">37</text>
@@ -2316,7 +2316,7 @@
 <text top="811" left="55" width="500" height="15" font="14"><i>example, if a Gunner has a Gunnery skill of 70%, then the crew gets a bonus of +7% to all Gunnery </i></text>
 <text top="827" left="55" width="500" height="15" font="14"><i>crew checks. A Poor crew has a base skill of 40%, plus 7% for the leadership provided by their good </i></text>
 <text top="843" left="55" width="283" height="15" font="14"><i>gunner, so they would have an effective Gunnery of 47%.</i></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="39" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">38</text>
@@ -2369,7 +2369,7 @@
 <text top="90" left="43" width="500" height="15" font="8">captain had his own unique flag, a barbaric coat of arms that everyone will recognise. Pirate flags </text>
 <text top="106" left="43" width="500" height="15" font="8">used a combination of symbols of death, like skulls, hourglasses, bloody swords and so on. A </text>
 <text top="122" left="43" width="328" height="15" font="8">newly elected captain should choose the flag he will sail under. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="40" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">39</text>
@@ -2417,7 +2417,7 @@
 <text top="795" left="55" width="500" height="15" font="8">the highest Reputation on board ship. Effectively, this will remove all but the officers and other </text>
 <text top="811" left="55" width="500" height="15" font="8">highly influential pirates on board. For example, if the captain has Reputation 16, then anyone </text>
 <text top="827" left="55" width="380" height="15" font="8">with a Reputation of less than eight is simply irrelevant in terms of sway. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="41" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">40</text>
@@ -2461,7 +2461,7 @@
 <text top="789" left="43" width="500" height="15" font="15"><b>ARTICLE XI.</b> The musicians shall have rest on the Sabbath Day only by right. On all other </text>
 <text top="804" left="43" width="107" height="15" font="8">days by favour only. </text>
 <text top="834" left="43" width="417" height="15" font="8">Every pirate ship will have its own articles, agreed upon and kept to by the crew.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="42" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">41</text>
@@ -2508,7 +2508,7 @@
 <text top="835" left="55" width="500" height="15" font="8">and a greater share of the prize. Every pirate vessel will have a captain and a quartermaster at the </text>
 <text top="851" left="55" width="500" height="15" font="8">very least. If a ship has guns, then it must have a master gunner; if it has boats, it must have a </text>
 <text top="867" left="55" width="59" height="15" font="8">boatswain. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="43" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">42</text>
@@ -2570,7 +2570,7 @@
 <text top="788" left="295" width="26" height="15" font="14"><i>None</i></text>
 <text top="808" left="47" width="45" height="15" font="8">Firearms</text>
 <text top="808" left="143" width="14" height="15" font="8">40</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="44" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">43</text>
@@ -2648,7 +2648,7 @@
 <text top="804" left="55" width="369" height="15" font="8">4. Wait until another ship is captured, then take that as their own ship.</text>
 <text top="820" left="55" width="415" height="15" font="8">5. The crew quarrel among themselves, leading to bloody slaughter on the deck.</text>
 <text top="836" left="55" width="336" height="15" font="8">6. Strand the captain on an island or boat, and hold an election. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="45" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">44</text>
@@ -2706,7 +2706,7 @@
 <text top="820" left="221" width="170" height="15" font="8">400 pieces of eight (3,200 silver)</text>
 <text top="838" left="47" width="95" height="15" font="8">Eye or Finger Lost</text>
 <text top="838" left="221" width="160" height="15" font="8">100 pieces of eight (800 silver)</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="46" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="25" size="47" family="Times" color="#231f20"/>
@@ -2796,7 +2796,7 @@
 <text top="237" left="335" width="38" height="15" font="8">Fanatic</text>
 <text top="237" left="404" width="32" height="15" font="8">+10%</text>
 <text top="671" left="73" width="84" height="24" font="26">DAMAGE</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="47" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">46</text>
@@ -2831,7 +2831,7 @@
 <text top="792" left="43" width="500" height="15" font="15"><b>Draft:</b> The  depth  of  water  needed  for  the  ship  to  manoeuvre  effectively  and  avoid  running </text>
 <text top="808" left="43" width="367" height="15" font="8">aground. This is the distance between the ship’s keel and the waterline.</text>
 <text top="79" left="124" width="406" height="53" font="16">ships and the sea</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="48" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">47</text>
@@ -2889,7 +2889,7 @@
 <text top="246" left="233" width="50" height="15" font="8">4D6 tons</text>
 <text top="246" left="323" width="50" height="15" font="8">2D4 tons</text>
 <text top="246" left="411" width="104" height="15" font="8">3D6 tons Common</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="49" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">48</text>
@@ -2959,7 +2959,7 @@
 <text top="815" left="291" width="166" height="15" font="15"><b>Speed:</b> 72ft. / 12 knots paddled</text>
 <text top="831" left="291" width="86" height="15" font="15"><b>Weapons:</b> None</text>
 <text top="847" left="291" width="108" height="15" font="15"><b>Skill:</b> Boating +20%</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="50" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">49</text>
@@ -3047,7 +3047,7 @@
 <text top="741" left="295" width="163" height="15" font="14"><i>Aft:</i> Six 9-pounders (4D6 each)</text>
 <text top="758" left="295" width="255" height="15" font="14"><i>Broadside:</i> Twenty-four 18-pounders (4D8 each) </text>
 <text top="774" left="295" width="137" height="15" font="15"><b>Skill:</b> Shiphandling –10%</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="51" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">50</text>
@@ -3141,11 +3141,11 @@
 <text top="775" left="295" width="172" height="15" font="14"><i>Aft:</i> Four 9-pounders (4D6 each)</text>
 <text top="791" left="295" width="225" height="15" font="14"><i>Broadside:</i> Twenty 18-pounders (4D8 each)</text>
 <text top="808" left="295" width="137" height="15" font="15"><b>Skill:</b> Shiphandling +10%</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="52" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">51</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="53" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">52</text>
@@ -3218,7 +3218,7 @@
 <text top="469" left="290" width="50" height="15" font="15"><b>Sluggish:</b></text>
 <text top="469" left="371" width="138" height="15" font="8">–10% to all Shiphandling </text>
 <text top="485" left="371" width="95" height="15" font="8">tests; +1 foot draft</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="54" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">53</text>
@@ -3284,7 +3284,7 @@
 <text top="750" left="55" width="444" height="15" font="15"><b>Head Wind:</b> The wind is blowing directly from the bow of the ship toward the stern.</text>
 <text top="783" left="55" width="500" height="15" font="8">The Sailing Speed table gives the speed a sailing ship will travel under different wind speeds, </text>
 <text top="799" left="55" width="500" height="15" font="8">presented in the following manner: Speed per Crew Combat Round / Speed per 12 hour period. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="55" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">54</text>
@@ -3382,7 +3382,7 @@
 <text top="737" left="43" width="500" height="15" font="8">There are several sizes of cannon used on board ships. There are also swivel guns, which are </text>
 <text top="753" left="43" width="499" height="15" font="8">smaller pieces mounted on the deck of a ship, and are used to blast smaller boats or for precise </text>
 <text top="769" left="43" width="52" height="15" font="8">shooting. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="56" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">55</text>
@@ -3480,7 +3480,7 @@
 <text top="690" left="256" width="118" height="15" font="8">50,000–250,000 silver</text>
 <text top="708" left="60" width="55" height="15" font="8">Brigantine</text>
 <text top="708" left="256" width="128" height="15" font="8">100,000–1,00,000 silver</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="57" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">56</text>
@@ -3528,7 +3528,7 @@
 <text top="740" left="43" width="166" height="15" font="15"><b>Requires: </b>Drydock, 3D6 weeks</text>
 <text top="756" left="43" width="393" height="15" font="15"><b>Consumes: </b>Copper plates, costing 100 silver per ton of capacity of the ship</text>
 <text top="773" left="43" width="147" height="15" font="15"><b>Handiwork Modifier: </b>+0%</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="58" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">57</text>
@@ -3578,7 +3578,7 @@
 <text top="812" left="60" width="110" height="15" font="8">Per gun after the first</text>
 <text top="812" left="392" width="32" height="15" font="8">–20%</text>
 <text top="830" left="60" width="460" height="15" font="8">If guns are larger than those commonly mounted on this ship –10% per size difference</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="59" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">58</text>
@@ -3626,7 +3626,7 @@
 <text top="810" left="43" width="112" height="15" font="15"><b>Requires: </b>1D6 hours</text>
 <text top="826" left="43" width="173" height="15" font="15"><b>Consumes: </b>1D6 tons of supplies</text>
 <text top="842" left="43" width="154" height="15" font="15"><b>Handiwork Modifier: </b>–10%</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="60" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">59</text>
@@ -3667,7 +3667,7 @@
 <text top="807" left="55" width="452" height="15" font="8">Round for every 30 feet of the ship’s length. When a ship is fully swamped, it will sink.</text>
 <text top="840" left="55" width="500" height="15" font="8">Every time a ship suffers 10 or more points of structural damage from a single attack, reduce the </text>
 <text top="856" left="55" width="205" height="15" font="8">Seaworthiness of the ship by one point.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="61" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">60</text>
@@ -3700,7 +3700,7 @@
 <text top="627" left="43" width="500" height="15" font="8">skill if necessary) to keep the vessel steady and turned into the storm. If the Skill Test is successful, </text>
 <text top="643" left="43" width="500" height="15" font="8">the ship endures one hour of storm weather at a cost of only one Seaworthiness. If the Skill Test </text>
 <text top="659" left="43" width="407" height="15" font="8">fails, the ship endures one hour of storm weather at a cost 1D6 Seaworthiness.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="62" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">61</text>
@@ -3736,7 +3736,7 @@
 <text top="596" left="55" width="500" height="15" font="8">To careen a ship, it must be beached or put into a dock. The crew then scrape the bottom clear </text>
 <text top="612" left="55" width="499" height="15" font="8">of  debris. This  takes  1D3  days  and  a  successful  Handiwork  test.  Each  successful  attempt  at </text>
 <text top="628" left="55" width="296" height="15" font="8">careening brings the ship’s speed back up by 6 ft/1 knot. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="63" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="27" size="16" family="Times" color="#ffffff"/>
@@ -3773,7 +3773,7 @@
 <text top="810" left="43" width="58" height="17" font="7">Cargo:   </text>
 <text top="810" left="151" width="20" height="17" font="7">ton</text>
 <text top="488" left="44" width="85" height="21" font="27">WEAPONS</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="64" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">63</text>
@@ -3802,7 +3802,7 @@
 <text top="603" left="141" width="409" height="15" font="8">Storm. The storm lasts 2D20 hours; reroll on the Random Weather Change </text>
 <text top="619" left="141" width="193" height="15" font="8">table again then, with a –10 modifier</text>
 <text top="104" left="55" width="480" height="53" font="16">piracy and plunder</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="65" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">64</text>
@@ -3897,7 +3897,7 @@
 <text top="708" left="43" width="10" height="17" font="8">•	</text>
 <text top="710" left="81" width="163" height="15" font="15"><b>Roll for an Encounter At Sea.</b></text>
 <text top="742" left="43" width="306" height="15" font="15"><b>Each week, roll to see if the vessel needs to be careened.</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="66" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">65</text>
@@ -3937,7 +3937,7 @@
 <text top="479" left="269" width="31" height="15" font="8">South</text>
 <text top="498" left="60" width="27" height="15" font="8">8–10</text>
 <text top="498" left="269" width="57" height="15" font="8">South-East</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="67" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">66</text>
@@ -4114,7 +4114,7 @@
 <text top="734" left="485" width="34" height="15" font="8">Naval </text>
 <text top="750" left="485" width="31" height="15" font="8">Vessel</text>
 <text top="797" left="43" width="369" height="15" font="8">* The crew must make a Morale test due to boredom or adverse events.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="68" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">67</text>
@@ -4181,7 +4181,7 @@
 <text top="806" left="60" width="14" height="15" font="8">12</text>
 <text top="806" left="119" width="432" height="15" font="8">Castaway found! The characters encounter a castaway from another ship, desperate </text>
 <text top="822" left="119" width="250" height="15" font="8">to take passage on whatever vessel will take him.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="69" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">68</text>
@@ -4260,7 +4260,7 @@
 <text top="835" left="163" width="106" height="15" font="8">Fourth-rate Warship</text>
 <text top="853" left="47" width="20" height="15" font="8">15+</text>
 <text top="853" left="163" width="113" height="15" font="8">Roll again three times</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="70" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">69</text>
@@ -4314,7 +4314,7 @@
 <text top="410" left="369" width="14" height="15" font="8">+4</text>
 <text top="440" left="55" width="201" height="15" font="8">Naval vessels may add +2 to their roll. </text>
 <text top="478" left="55" width="426" height="15" font="15"><b>Remember to add the modifiers for Morale and Crew to the crew’s Base Skill!</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="71" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="28" size="16" family="Times" color="#231f20"/>
@@ -4394,7 +4394,7 @@
 <text top="804" left="43" width="500" height="15" font="8">and worm-ridden timber? The Plunder tables give random plunder for each type of ship. There </text>
 <text top="820" left="43" width="500" height="15" font="8">are two tables for each vessel – the Bulk Cargo (carried in the ship’s hold) and the Rare Cargo </text>
 <text top="836" left="43" width="183" height="15" font="8">(normally kept in cabins or chests).</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="72" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">71</text>
@@ -4434,7 +4434,7 @@
 <text top="698" left="55" width="500" height="15" font="8">game to have both the rising actions and reversals needed for a good story, and the character </text>
 <text top="715" left="55" width="500" height="15" font="8">development and exploration desired by players. Random and throw-away encounters give the </text>
 <text top="731" left="55" width="173" height="15" font="8">interactive story time to breathe. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="73" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">72</text>
@@ -4563,7 +4563,7 @@
 <text top="861" left="180" width="54" height="15" font="8">Common </text>
 <text top="828" left="354" width="34" height="15" font="8">01–50</text>
 <text top="828" left="408" width="29" height="15" font="8">None</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="74" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">73</text>
@@ -4693,7 +4693,7 @@
 <text top="36" left="367" width="42" height="15" font="15"><b>1D100 </b></text>
 <text top="53" left="367" width="19" height="15" font="15"><b>roll</b></text>
 <text top="53" left="421" width="63" height="15" font="15"><b>Rare Cargo</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="75" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">74</text>
@@ -4826,7 +4826,7 @@
 <text top="36" left="354" width="42" height="15" font="15"><b>1D100 </b></text>
 <text top="53" left="354" width="19" height="15" font="15"><b>roll</b></text>
 <text top="53" left="408" width="63" height="15" font="15"><b>Rare Cargo</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="76" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">75</text>
@@ -4895,7 +4895,7 @@
 <text top="36" left="367" width="42" height="15" font="15"><b>1D100 </b></text>
 <text top="53" left="367" width="19" height="15" font="15"><b>roll</b></text>
 <text top="53" left="421" width="63" height="15" font="15"><b>Rare Cargo</b></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="77" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">76</text>
@@ -5048,7 +5048,7 @@
 <text top="787" left="129" width="28" height="15" font="8">Wool</text>
 <text top="787" left="287" width="52" height="15" font="8">500 Silver</text>
 <text top="787" left="420" width="75" height="15" font="8">Six Bales (ton)</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="78" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">77</text>
@@ -5176,7 +5176,7 @@
 <text top="840" left="60" width="34" height="15" font="8">99–00</text>
 <text top="840" left="161" width="95" height="15" font="8">Secret Documents</text>
 <text top="840" left="457" width="31" height="15" font="8">Varies</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="79" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">78</text>
@@ -5253,7 +5253,7 @@
 <text top="513" left="151" width="89" height="15" font="8">Roll Again Twice</text>
 <text top="550" left="43" width="500" height="15" font="8">Of course, once the plunder is in a pirate’s grasp, he still has to trade it or sell it for willing </text>
 <text top="566" left="43" width="411" height="15" font="8">wenches, pipes of wine and other necessities, like parrots. See Ill-Gotten Gains.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="80" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="29" size="37" family="Times" color="#231f20"/>
@@ -5289,7 +5289,7 @@
 <text top="812" left="55" width="500" height="15" font="8">Advantage,  he  decreases  the  number  on  the  die,  or  moves  it  over  to  his  side  if  he  becomes </text>
 <text top="828" left="55" width="51" height="15" font="8">Favoured.</text>
 <text top="112" left="55" width="471" height="43" font="29">combat on the high seas</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="81" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">80</text>
@@ -5327,7 +5327,7 @@
 <text top="740" left="43" width="312" height="15" font="8">appropriately. If a line elicits no response, then it has failed. </text>
 <text top="772" left="43" width="500" height="15" font="8">Optionally, a player can make an Influence check to get a suggestion from the other players, if he </text>
 <text top="788" left="43" width="243" height="15" font="8">is stuck and cannot come up with a good line. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="82" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">81</text>
@@ -5370,7 +5370,7 @@
 <text top="752" left="55" width="500" height="15" font="8">victory, they can be extended to larger fights. If there are multiple combatants on each side, say </text>
 <text top="768" left="55" width="500" height="15" font="8">a two against two or three versus three battle, then the rules are used as normal, except that the </text>
 <text top="785" left="55" width="270" height="15" font="8">passive bonuses to Parries and Attacks are not used. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="83" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">82</text>
@@ -5423,7 +5423,7 @@
 <text top="420" left="43" width="3" height="15" font="8"> </text>
 <text top="436" left="43" width="499" height="15" font="8">Even if the change in the Fatigue rating of combat is not made for normal fights, it is strongly </text>
 <text top="452" left="43" width="259" height="15" font="8">recommended that Duels count as Heavy activity.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="84" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">83</text>
@@ -5465,7 +5465,7 @@
 <text top="789" left="55" width="450" height="17" font="8">•	 At the end of a Crew Combat Round, one or both crews must make Morale tests.</text>
 <text top="806" left="55" width="500" height="17" font="8">•	 Adventurers can make Heroic Actions during Crew Combat, which inspire their companions </text>
 <text top="824" left="81" width="157" height="15" font="8">and give bonuses to the result.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="85" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">84</text>
@@ -5501,7 +5501,7 @@
 <text top="532" left="239" width="176" height="15" font="8">Major wound to random location</text>
 <text top="550" left="47" width="28" height="15" font="8">Dead</text>
 <text top="550" left="239" width="28" height="15" font="8">Dead</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="86" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">85</text>
@@ -5552,7 +5552,7 @@
 <text top="744" left="55" width="268" height="15" font="15"><b>Light Cover (low walls, ship railings): </b>–2 damage</text>
 <text top="760" left="55" width="258" height="15" font="15"><b>Medium Cover (wooden buildings):</b> –3 damage</text>
 <text top="777" left="55" width="201" height="15" font="15"><b>Heavy Cover (stone fort): </b>–4 damage</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="87" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">86</text>
@@ -5621,7 +5621,7 @@
 <text top="761" left="43" width="407" height="15" font="14"><i>the Spanish suffer damage, the roll on the damage table will be increased by +1.    </i></text>
 <text top="793" left="43" width="500" height="15" font="14"><i>Of course, the pirates will not get a chance to fire again, as the Spanish are upon them and it’s  time </i></text>
 <text top="815" left="43" width="84" height="15" font="14"><i>to draw cutlasses!</i></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="88" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">87</text>
@@ -5702,7 +5702,7 @@
 <text top="790" left="55" width="500" height="15" font="14"><i>To  continue  the  example  of  the  pirate  ambush,  the  Severely  Wounded  Spanish  reach  the  pirate </i></text>
 <text top="806" left="55" width="500" height="15" font="14"><i>ambushers on the hill. The Pirates have a Hand to Hand score of 55%; the Spanish have a score of </i></text>
 <text top="823" left="55" width="29" height="15" font="14"><i>40%.</i></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="89" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">88</text>
@@ -5762,7 +5762,7 @@
 <text top="817" left="43" width="500" height="15" font="14"><i>pirates are victorious – but at what cost? The pirates were never reduced below Fresh but they must </i></text>
 <text top="834" left="43" width="130" height="15" font="14"><i>still make a Resilience test.</i></text>
 <text top="850" left="43" width="3" height="15" font="14"><i> </i></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="90" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">89</text>
@@ -5811,7 +5811,7 @@
 <text top="794" left="55" width="73" height="26" font="17">Cannons</text>
 <text top="817" left="55" width="500" height="15" font="8">A cannon loaded with standard or chain shot will automatically kill 1D6 Crew on a successful </text>
 <text top="833" left="55" width="386" height="15" font="8">gunnery test and increases the enemy crew’s Running Wounds Total by 1. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="91" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">90</text>
@@ -5851,7 +5851,7 @@
 <text top="740" left="43" width="500" height="15" font="14"><i>win. They roll a 7 for damage, which does not inflict a damage level on the fishermen, so the boarding </i></text>
 <text top="756" left="43" width="500" height="15" font="14"><i>action has actually failed. They can try again next round, however, and will have a +3 Running Wounds </i></text>
 <text top="772" left="43" width="459" height="15" font="14"><i>Total. They will likely fight their way onto the fishing boat’s deck eventually, but it will be costly.</i></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="92" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">91</text>
@@ -5908,7 +5908,7 @@
 <text top="721" left="55" width="500" height="15" font="15"><b>Boarding Crew: </b>The rest of the crew fires muskets from the deck when in range, or engages in </text>
 <text top="737" left="55" width="359" height="15" font="8">boarding actions. This crew can also vapour to intimidate the enemy.</text>
 <text top="769" left="55" width="398" height="15" font="8">Damage to these three crews should be tracked separately on the crew sheet. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="93" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">92</text>
@@ -5971,7 +5971,7 @@
 <text top="815" left="43" width="353" height="15" font="8">movement of their ship by 1D6 x 6 feet this Crew Combat Round. </text>
 <text top="847" left="43" width="500" height="15" font="8">When being chased, the pursuing ship can fire its chase guns and the pursued ship can return </text>
 <text top="864" left="43" width="92" height="15" font="8">fire with aft guns.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="94" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">93</text>
@@ -6018,7 +6018,7 @@
 <text top="828" left="55" width="499" height="15" font="15"><b>Single Firing: </b>Single firing a cannon uses the formal Ranged Attack rules, not the Crew Combat </text>
 <text top="844" left="55" width="500" height="15" font="8">rules. If an Adventurer is alone firing the cannon, he may use his own Gunnery score instead of </text>
 <text top="860" left="55" width="88" height="15" font="8">that of the crew. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="95" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">94</text>
@@ -6094,7 +6094,7 @@
 <text top="777" left="43" width="500" height="15" font="8">the damage for each shot. Each hit also increases the enemy crew’s Running Wounds Total by 1. </text>
 <text top="809" left="43" width="500" height="15" font="15"><b>Reloading Cannons: </b>The time it takes to reload a cannon depends on the operator’s Gunnery </text>
 <text top="825" left="43" width="24" height="15" font="8">skill.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="96" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">95</text>
@@ -6153,7 +6153,7 @@
 <text top="764" left="55" width="499" height="15" font="8">A  ship  that  has  lost  all  its  Seaworthiness  is  now  sinking.  A  ship  that  has  been  boarded  and </text>
 <text top="780" left="55" width="228" height="15" font="8">captured can be scuttled, causing it to sink. </text>
 <text top="796" left="55" width="3" height="15" font="8"> </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="97" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">96</text>
@@ -6211,7 +6211,7 @@
 <text top="787" left="47" width="14" height="15" font="8">20</text>
 <text top="787" left="105" width="416" height="15" font="8">Magazine Struck: Roll 1D6. On a 4+, the powder explodes, destroying the ship </text>
 <text top="804" left="105" width="83" height="15" font="8">from the inside.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="98" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">97</text>
@@ -6238,7 +6238,7 @@
 <text top="603" left="55" width="500" height="15" font="15"><b>Fortresses </b>are rare in the Caribbean – these are major ports with extra guns and fortifications, </text>
 <text top="619" left="55" width="210" height="15" font="8">the centre of Imperial power in a region.</text>
 <text top="79" left="55" width="488" height="53" font="16">ports, trade and law</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="99" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="13">98</text>
@@ -6337,7 +6337,7 @@
 <text top="815" left="81" width="461" height="15" font="15"><b>Smuggling: </b>An Adventurer can sell on the black market. This works like normal trade </text>
 <text top="832" left="81" width="461" height="15" font="8">but smugglers cannot expect to get as good a deal as a legal trader. Pirates dealing with </text>
 <text top="848" left="81" width="364" height="15" font="8">smugglers therefore suffer a –50% penalty to their Influence attempts.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="100" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="13">99</text>
@@ -6396,7 +6396,7 @@
 <text top="743" left="355" width="25" height="15" font="8">50%</text>
 <text top="779" left="55" width="500" height="15" font="8">The retribution dispatched by the governor will depend on what ships are in harbour and what </text>
 <text top="795" left="55" width="178" height="15" font="8">sway he has with his government. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="101" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">100</text>
@@ -6412,7 +6412,7 @@
 <text top="201" left="43" width="500" height="15" font="8">for clemency. Offering pardons to pirates is a cheap and easy way to deal with the problem, as </text>
 <text top="218" left="43" width="500" height="15" font="8">is offering them commissions as privateers. Such loopholes will only be offered, however, if the </text>
 <text top="234" left="43" width="283" height="15" font="8">pirate is worth more to the authorities alive than dead.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="102" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">101</text>
@@ -6449,7 +6449,7 @@
 <text top="769" left="55" width="500" height="15" font="8">and turn on their criminal comrades, or do they embrace the pirate lifestyle and plunder what </text>
 <text top="785" left="55" width="232" height="15" font="8">they can until the law catches up with them?</text>
 <text top="79" left="204" width="339" height="53" font="16">campaign ideas</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="103" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">102</text>
@@ -6499,7 +6499,7 @@
 <text top="828" left="43" width="500" height="15" font="8">Caribbean. In the mid-1600s, bands of sailors, thieves, rogues and vagabonds take to living on </text>
 <text top="844" left="43" width="500" height="15" font="8">these pigs, cooking their flesh in barbeques called <i>boucans</i>. The Spanish authorities drive the </text>
 <text top="860" left="43" width="500" height="15" font="8">buccaneers away from the settled parts of Hispaniola and the other islands, earning the enmity </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="104" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">103</text>
@@ -6547,7 +6547,7 @@
 <text top="832" left="55" width="500" height="15" font="8">To the west of Hispaniola is Cuba, the major Spanish holding in the Caribbean. It is a wealthy </text>
 <text top="848" left="55" width="500" height="15" font="8">island, with many rich plantations. The fortress of El Morro is the centre of the Spanish military </text>
 <text top="864" left="55" width="500" height="15" font="8">forces, while the capital of Havana is the place to trade goods. In the Caribbean, the Spanish </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="105" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">104</text>
@@ -6594,7 +6594,7 @@
 <text top="837" left="43" width="500" height="15" font="8">grumbling and mutinous) and pit them against historical pirates. Can the players do better than </text>
 <text top="853" left="43" width="500" height="15" font="8">real-world pirate hunters? The Games Master can just consult history books for the actions and </text>
 <text top="869" left="43" width="204" height="15" font="8">strengths of the various notable pirates.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="106" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">105</text>
@@ -6642,7 +6642,7 @@
 <text top="830" left="55" width="500" height="15" font="8">pirate. They survived but everything they owned and loved was taken from them. Now, they have </text>
 <text top="846" left="55" width="500" height="15" font="8">banded together for revenge – only to discover that their old nemesis took a pardon from the </text>
 <text top="862" left="55" width="499" height="15" font="8">Spanish king and is now a wealthy and respected plantation owner (he is still secretly sponsoring </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="107" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">106</text>
@@ -6688,7 +6688,7 @@
 <text top="798" left="43" width="500" height="15" font="8">darkest hours of the night, to haunted crossroads sacred to Legba, to steaming jungles where the </text>
 <text top="814" left="43" width="500" height="15" font="8">trees speak with old voices out of Africa. There, they attack the <i>loa </i>until they submit, enslaving </text>
 <text top="830" left="43" width="134" height="15" font="8">them to serve the pirates. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="108" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">107</text>
@@ -6791,7 +6791,7 @@
 <text top="796" left="55" width="3" height="15" font="8"> </text>
 <text top="812" left="55" width="500" height="15" font="8">This  brief  flowering  of  technology  ended  in  the  year  958  AH,  when  al-Din’s  calculations </text>
 <text top="828" left="55" width="500" height="15" font="8">showed  that,  despite  the  sighting  of  a  comet  seen  by  the  soothsayers  of  Sultan  Murad </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="109" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">108</text>
@@ -6835,7 +6835,7 @@
 <text top="691" left="43" width="451" height="15" font="8">bonus of +20% to hit and more powerful military models can give up to +75% to hit).</text>
 <text top="724" left="43" width="499" height="15" font="8">Other calculating engines are used to produce the secret books of codes and logs that are vital for </text>
 <text top="740" left="43" width="158" height="15" font="8">navigation with Hajji devices. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="110" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">109</text>
@@ -6874,7 +6874,7 @@
 <text top="685" left="55" width="167" height="15" font="8">should be reduced significantly. </text>
 <text top="717" left="55" width="500" height="15" font="8">One nice thing about a <i>Pirates of Legend</i> game is that you can start it as a historical pirate game, </text>
 <text top="733" left="55" width="324" height="15" font="8">then suddenly spin the characters off into utmost strangeness. </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="111" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">110</text>
@@ -6957,7 +6957,7 @@
 <text top="630" left="151" width="3" height="15" font="8"> </text>
 <text top="630" left="205" width="65" height="15" font="8">40% (37%) </text>
 <text top="630" left="313" width="24" height="15" font="8">2D6</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="112" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">111</text>
@@ -7050,10 +7050,10 @@
 <text top="645" left="55" width="86" height="15" font="15"><b>Buff Coat: </b>–3%</text>
 <text top="663" left="55" width="3" height="15" font="8"> </text>
 <text top="680" left="55" width="3" height="15" font="8"> </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="113" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="114" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">113</text>
@@ -7143,7 +7143,7 @@
 <text top="615" left="55" width="3" height="15" font="8"> </text>
 <text top="631" left="55" width="197" height="15" font="15"><b>Legendary Abilities: </b>Infamous, Vice </text>
 <text top="665" left="55" width="154" height="15" font="15"><b>Buff Coat: </b>–3% Skill Penalty</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="115" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">114</text>
@@ -7233,10 +7233,10 @@
 <text top="575" left="43" width="3" height="15" font="8"> </text>
 <text top="591" left="43" width="195" height="15" font="15"><b>Legendary Abilities: </b>Fearsome Aura </text>
 <text top="625" left="43" width="273" height="15" font="15"><b>Buff Coat, Duellist’s Half-Cape: </b>–5% Skill Penalty</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="116" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="117" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">116</text>
@@ -7317,7 +7317,7 @@
 <text top="570" left="259" width="24" height="15" font="8">2D6</text>
 <text top="587" left="43" width="3" height="15" font="8"> </text>
 <text top="604" left="43" width="202" height="15" font="15"><b>Buff Coat, Helmet: </b>–7% Skill Penalty</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="118" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">117</text>
@@ -7404,7 +7404,7 @@
 <text top="549" left="325" width="24" height="15" font="8">2D4</text>
 <text top="566" left="55" width="3" height="15" font="8"> </text>
 <text top="582" left="55" width="153" height="15" font="15"><b>Legendary Ability: </b>Contacts</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="119" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">118</text>
@@ -7489,7 +7489,7 @@
 <text top="514" left="313" width="24" height="15" font="8">2D4</text>
 <text top="531" left="43" width="3" height="15" font="8"> </text>
 <text top="547" left="43" width="153" height="15" font="15"><b>Legendary Ability: </b>Contacts</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="120" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">119</text>
@@ -7561,10 +7561,10 @@
 <text top="449" left="55" width="29" height="15" font="8">None</text>
 <text top="465" left="55" width="3" height="15" font="8"> </text>
 <text top="482" left="55" width="176" height="15" font="15"><b>Leather Trews:</b> –2% Skill Penalty</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="121" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="122" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">121</text>
@@ -7644,7 +7644,7 @@
 <text top="481" left="271" width="3" height="15" font="8"> </text>
 <text top="481" left="325" width="24" height="15" font="8">2D4</text>
 <text top="498" left="55" width="3" height="15" font="8"> </text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="123" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">122</text>
@@ -7727,11 +7727,11 @@
 <text top="531" left="313" width="24" height="15" font="8">2D4</text>
 <text top="548" left="43" width="7" height="15" font="8">  </text>
 <text top="565" left="43" width="93" height="15" font="15"><b>Buff Jacket: </b>–3%</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="124" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">123</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="125" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="13">124</text>
@@ -7893,7 +7893,7 @@
 <text top="814" left="525" width="14" height="15" font="8"><a href="pdftohtml.html#13">12</a></text>
 <text top="830" left="303" width="123" height="15" font="8"><a href="pdftohtml.html#88">Hand to Hand Attacks </a></text>
 <text top="830" left="525" width="14" height="15" font="8"><a href="pdftohtml.html#88">87</a></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="126" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="13">125</text>
@@ -8096,7 +8096,7 @@
 <text top="810" left="538" width="14" height="15" font="8"><a href="pdftohtml.html#29">28</a></text>
 <text top="826" left="316" width="99" height="15" font="8"><a href="pdftohtml.html#48">Your Starting Ship </a></text>
 <text top="826" left="538" width="14" height="15" font="8"><a href="pdftohtml.html#48">47</a></text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="127" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="30" size="36" family="Times" color="#231f20"/>
@@ -8115,7 +8115,7 @@
 <text top="487" left="315" width="85" height="15" font="8">£34.99 / $49.99</text>
 <text top="504" left="337" width="64" height="15" font="8">MGP10000</text>
 <text top="520" left="254" width="146" height="15" font="8">Author: Lawrence Whitaker</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="128" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="32" size="28" family="Times" color="#231f20"/>
@@ -8138,7 +8138,7 @@
 <text top="562" left="62" width="486" height="15" font="8">to add some high seas action, you can simply and quickly bring over the Open Content rules </text>
 <text top="578" left="58" width="494" height="15" font="8">we produce in, say, Pirates of Legend, knowing that everyone who plays Legend will at least be </text>
 <text top="594" left="239" width="129" height="15" font="8">familiar with those rules.</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="129" position="absolute" top="0" left="0" height="918" width="594">
 <text top="21" left="17" width="185" height="13" font="10">OPEN GAME LICENSE Version 1.0a </text>
@@ -8206,7 +8206,7 @@
 <text top="858" left="17" width="334" height="13" font="10">Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. </text>
 <text top="872" left="17" width="314" height="13" font="10">Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd</text>
 <text top="885" left="17" width="287" height="13" font="10">Pirates of Legend, Copyright 2012, Mongoose Publishing Ltd</text>
-<text top="908" left="2" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="130" position="absolute" top="0" left="0" height="986" width="1289">
 <text top="725" left="347" width="72" height="17" font="0">MGP 8313</text>
@@ -8235,7 +8235,7 @@
 <text top="99" left="651" width="0" height="14" font="3">tes o</text>
 <text top="131" left="651" width="0" height="14" font="3">f</text>
 <text top="45" left="632" width="0" height="30" font="4">legendlegend</text>
-<text top="942" left="36" width="163" height="11" font="5">Alex Greene (order #3583073)</text>
+<text top="967" left="6" width="180" height="13" font="5">Jeremy Bauerle (order #6303863)</text>
 </page>
 <outline>
 <item page="2">Contents</item>

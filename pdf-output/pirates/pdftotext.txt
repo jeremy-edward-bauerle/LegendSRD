@@ -21,11 +21,9 @@ sails. What you do next is up to you!
 
 MGP 8313
 
+Jeremy Bauerle (order #6303863)
+
 US$19.99
-
-Alex Greene (order #3583073)
-
-78.144
 
 pirates of
 
@@ -103,9 +101,7 @@ paragraphs and tables containing game mechanics and statistics derivative of Ope
 System Reference Document are considered to be Open Game Content. All other significant characters,
 names, places, items, art and text herein are copyrighted by Mongoose Publishing. All rights reserved.
 Printed in USA
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 introduction
 ‘A Pyrate is Hostis humanis generis, a common Enemy, with whom neither Faith nor Oath is to be
@@ -136,9 +132,7 @@ to plunder.
 
 2
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 the making
 of a pirate
@@ -170,11 +164,9 @@ Part 3: Basic Skills
 There are two new basic weapon skills, Pistols and Longarms. See page 31 for descriptions of
 gunpowder weapons.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 3
-
-7
 
 Many Legend weapons are no longer in common use in the era of pirates. Shields, spears,
 hammers, flails and most swords are now relegated to museums or primitive barbaric tribes, as
@@ -235,9 +227,7 @@ many became pirates to escape some tragedy in their backgrounds.
 
 4
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Professions
 Profession
@@ -323,7 +313,7 @@ appropriate to
 your culture at a
 +10% bonus
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Advanced Skills
 Lore (Chemistry), Healing
@@ -343,8 +333,6 @@ Shiphandling,
 Handiwork
 
 5
-
-7
 
 Cultural
 Basic Skill
@@ -374,7 +362,7 @@ Barbarian,
 Civilised,
 Noble
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Courtesy +5%
 Evaluate +10%,
@@ -444,8 +432,6 @@ Stealth +10%,
 
 —
 
-7
-
 Cultural
 Basic Skill
 Profession Background Bonuses
@@ -505,7 +491,7 @@ Barbarian,
 Nomad,
 Primitive
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Pick Two
 Combat Style
@@ -553,8 +539,6 @@ Cooking, Survival
 
 7
 
-7
-
 Cultural
 Basic Skill
 Profession Background Bonuses
@@ -597,7 +581,7 @@ Civilised
 
 Civilised
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Evaluate +20%
 Influence +10%
@@ -630,8 +614,6 @@ Resilience +10%
 Lore (Mineral)
 
 —
-
-7
 
 Cultural
 Basic Skill
@@ -721,11 +703,9 @@ appropriate to
 your culture at a
 +10% bonus
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 9
-
-7
 
 Cultural
 Basic Skill
@@ -760,6 +740,16 @@ Soldier
 Barbarian,
 Civilised,
 Nomad
+
+Pick Three
+Combat Styles
+appropriate to
+your culture at a
++10% bonus
+
+10
+
+Jeremy Bauerle (order #6303863)
 
 Advanced Skills
 
@@ -822,18 +812,6 @@ Magic
 —
 
 —
-
-Pick Three
-Combat Styles
-appropriate to
-your culture at a
-+10% bonus
-
-10
-
-Alex Greene (order #3583073)
-
-7
 
 Cultural
 Basic Skill
@@ -909,15 +887,11 @@ for most Craft skills when it comes to maintaining and repairing a damaged vesse
 be used for more complex tasks. An Adventurer could use Handiwork to make a simple dug-out
 canoe, for example, but not to build a galleon.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 11
 
-7
-
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Advanced Characters
 These basic rules create pirates at the start of their careers, just after they have joined a pirate
@@ -943,11 +917,9 @@ Points.
 Pirates of Legend Adventurers may take up to two points in Vices.
 Next, move onto the rules for creating a crew and a ship.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 13
-
-7
 
 Random Starting Equipment
 
@@ -1088,9 +1060,7 @@ Bedraggled gentleman’s wig
 
 False beard
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Roll 1D100
 
@@ -1244,11 +1214,9 @@ Vial of poison
 
 Rapier
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 15
-
-7
 
 16
 
@@ -1372,9 +1340,7 @@ Roll again twice
 
 Roll again three times
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 reputation, legendary
 abilities and vices
@@ -1394,7 +1360,7 @@ Per each skill over 70% from the following list:
 Rapier, 1H Sword, Longarms, Firearms, Shiphandling, Acrobatics,
 Artillery, Influence, Lore (navigation), Perception
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Reputation Modifier
 +1
@@ -1404,8 +1370,6 @@ Reputation Modifier
 +1
 
 17
-
-7
 
 Reputation Increases
 Circumstance
@@ -1470,9 +1434,7 @@ the nature of his Reputation and who he is dealing with.
 
 18
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Reputation Effects
 Reputation
@@ -1552,11 +1514,9 @@ fantasy game, of course, all that could be true!
 Of the Legendary Abilities in the Legend Core Rulebook, several are suitable for use in Pirates of
 Legend games.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 19
-
-7
 
 Optional Rule: Reputation and the Great Powers
 There are four major powers in the Caribbean – the English, the Spanish, the Dutch and the
@@ -1579,7 +1539,7 @@ Sacks a port
 
 20
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Standing With
 Affected Power
@@ -1596,8 +1556,6 @@ Other Powers
 +2
 +1
 +2
-
-7
 
 Legendary Abilities
 Legendary Ability
@@ -1696,11 +1654,9 @@ The bonus to Persistence and Resilience tests from an Adventurer’s Heroic Aura
 whole crew. The second part of the Legendary Ability, the power to temporarily increase weapon
 skills does not.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 21
-
-7
 
 Always Something to Swing From	
 Requirements: DEX 15+, Acrobatics 90%+	
@@ -1756,9 +1712,7 @@ dangerous or unpleasant situation.
 
 22
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Drowned Man
 
@@ -1805,11 +1759,9 @@ Requirements: Any Firearms skill at 70%
 Hero Points: 4
 You have a knack for using gunpowder. You never suffer misfires when using a firearm.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 23
-
-7
 
 Quick Reload
 
@@ -1860,9 +1812,7 @@ to, he must make a Persistence test, penalised by –20% per Vice Point after th
 
 24
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 at two Vice Points, –40% at three points and so forth). If the Persistence test fails, then the
 Adventurer gives into temptation.
@@ -1910,11 +1860,9 @@ or believe yourself to be the Devil’s own.
 Indulged by: Destroying churches, insulting priests, shocking others with your words.
 Tempted by: Especially big ways to offend the Almighty or believers.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 25
-
-7
 
 Bravado
 
@@ -1954,9 +1902,7 @@ Drinking.
 
 26
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Wine, Whiskey and Rum
 
@@ -2003,11 +1949,9 @@ Your appetite for sexual satisfaction is boundless.
 Indulged by: Whoring.
 Tempted by: A willing woman.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 27
-
-7
 
 Revenge
 
@@ -2044,9 +1988,7 @@ Tempted by: Picking fights you have little chance of winning.
 
 28
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 chattels, blades
 and gunshot
@@ -2078,12 +2020,9 @@ Club: Or a tree branch, bar stool, piece of timber, crowbar…
 Cutlass: A cutlass is a heavy curved sword, short enough to be used on board a ship without
 getting tangled in the ever-present ropes and lines but sharp and strong enough to cut through a
 foe. Cutlasses are used by navies the world over. Its basket hilt gives a +10% bonus to Parry tests.
-
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 29
-
-7
 
 Close Combat Weapons
 Weapon
@@ -2294,9 +2233,7 @@ Knife: A simple knife.
 
 30
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Quarterstaff: Rarely used as a weapon but still easy to make and obtain.
 Rapier: A duelling rapier. Weapons like this are often of exceptional quality.
@@ -2335,11 +2272,9 @@ Gunpowder fuses can be made using the Artillery skill, or just improved by makin
 test. A powder horn will explode for 2D4 damage, or an improvised bomb for 1D4 x 1D4
 damage. A barrel of gunpowder deals 6D6 damage if it explodes.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 31
-
-7
 
 Normal Weapon
 00 – Misfire
@@ -2595,9 +2530,7 @@ Parrying with a grenade is pretty much the definition of ‘a really bad idea’
 
 32
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Blunderbuss: Blunderbuss weapons fire a hail of shot, or can even be loaded with scrap and
 nails. They are rather inaccurate but devastating at close range. Blunderbusses suffer a –20%
@@ -2644,7 +2577,7 @@ Pitch Jacket
 Breastplate
 Helmet
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 AP
 2
@@ -2675,8 +2608,6 @@ Cost
 300 sp
 
 33
-
-7
 
 Duellists Half-Cape: This is a length of flexible cloth that is often cut into a draped cape of sorts
 that hangs over the chest and unused arm during a swordfight. A number of stiff leather strips
@@ -2730,9 +2661,7 @@ cutlass at his throat).
 
 34
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Garb
 Pirate’s clothes
@@ -2804,7 +2733,7 @@ Navigator’s Instruments
 Shipwright’s Tools
 Surgeon’s Kit
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Cost
 650 SP
@@ -2812,8 +2741,6 @@ Cost
 600 SP
 
 35
-
-7
 
 crews and sworn
 companions
@@ -2851,7 +2778,7 @@ Peerless (Devils Straight From Hell)
 
 36
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Base Skill
 15%
@@ -2862,8 +2789,6 @@ Base Skill
 75%
 100%
 150%
-
-7
 
 While this base skill can be used for any Skill Test made by the crew, a few skills are obviously
 much more important for a piratical band. Skills like Shiphandling, Boating, Gunnery or throatcutting are of more use to a pirate crew than being able to dance or speak prettily. Having a good
@@ -2924,11 +2849,9 @@ example, if a Gunner has a Gunnery skill of 70%, then the crew gets a bonus of +
 crew checks. A Poor crew has a base skill of 40%, plus 7% for the leadership provided by their good
 gunner, so they would have an effective Gunnery of 47%.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 37
-
-7
 
 Pirate Flags
 While the skull-and-crossbones is the traditional pirate flag, it was not the only flag used. Every
@@ -2988,9 +2911,7 @@ If the cook has a Cooking skill of 50% or higher, increase the crew’s morale b
 If the musician has a Perform skill of 50% or higher, increase the crew’s morale by one
 level.
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Morale is also recalculated if the captain is replaced.
 Morale will rise and fall very quickly during voyages. See Piracy, page 63, for more details on
@@ -3044,11 +2965,9 @@ the highest Reputation on board ship. Effectively, this will remove all but the 
 highly influential pirates on board. For example, if the captain has Reputation 16, then anyone
 with a Reputation of less than eight is simply irrelevant in terms of sway.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 39
-
-7
 
 Going On The Account
 
@@ -3094,9 +3013,7 @@ Every pirate ship will have its own articles, agreed upon and kept to by the cre
 
 40
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Step Three
 Of those crewmen remaining after step two, determine who each of them supports. Add half
@@ -3147,11 +3064,9 @@ often puts him in a perilous situation but does also give him more influence amo
 and a greater share of the prize. Every pirate vessel will have a captain and a quartermaster at the
 very least. If a ship has guns, then it must have a master gunner; if it has boats, it must have a
 boatswain.
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 41
-
-7
 
 Each officer’s position gives extra shares of booty. It may also give a temporary bonus to
 Reputation, if the Adventurer fulfils certain requirements. If these requirements are not met,
@@ -3200,8 +3115,6 @@ Firearms
 40
 40
 
-Alex Greene (order #3583073)
-
 Officer
 Captain
 
@@ -3218,14 +3131,14 @@ Gunner
 Alan Fairhands
 None
 
+Jeremy Bauerle (order #6303863)
+
 Officer Skill
 60%
 40%
 45%
 30%
 50%
-
-7
 
 Doctor: Sews up wounds and saws off limbs. Gives a bonus to the rate at which a crew heals
 wounds.
@@ -3310,11 +3223,9 @@ roll again.
 5. The crew quarrel among themselves, leading to bloody slaughter on the deck.
 6. Strand the captain on an island or boat, and hold an election.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 43
-
-7
 
 Especially intimidating captains can fend off a mutiny for some time. When a crew chooses to
 mutiny, roll against the captain’s Reputation. If the result is lower, then the crew are too scared to
@@ -3377,7 +3288,7 @@ Eye or Finger Lost
 
 44
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Compensation
 600 pieces of eight (4,800 silver)
@@ -3385,8 +3296,6 @@ Compensation
 500 pieces of eight (4,000 silver)
 400 pieces of eight (3,200 silver)
 100 pieces of eight (800 silver)
-
-7
 
 CREW SHEET
 Morale
@@ -3491,11 +3400,9 @@ Sailing
 Gunnery
 Boarding
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 45
-
-7
 
 ships and the sea
 In the Golden Age of Piracy, the largest ships belong to the navies of the great powers, like
@@ -3532,9 +3439,7 @@ aground. This is the distance between the ship’s keel and the waterline.
 
 46
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Your Starting Ship
 
@@ -3600,11 +3505,9 @@ Overloading
 If a ship is carrying more than three-quarters of its maximum cargo capacity, then its draft
 increases by 25% and it suffers a –10% penalty to Shiphandling tests.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 47
-
-7
 
 Crew Size & Crew Tests
 
@@ -3655,7 +3558,7 @@ Skill: Shiphandling +0%
 
 48
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Brigantine
 
@@ -3687,8 +3590,6 @@ Crew: 1–2 rowers
 Speed: 72ft. / 12 knots paddled
 Weapons: None
 Skill: Boating +20%
-
-7
 
 Corvette
 
@@ -3737,7 +3638,7 @@ Aft: Four 18-pounders (4D8 each)
 Broadside: Eight 18-pounders (4D8 each)
 Skill: Shiphandling –10%
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Frigate
 
@@ -3789,8 +3690,6 @@ Broadside: Twenty-four 18-pounders (4D8 each)
 Skill: Shiphandling –10%
 
 49
-
-7
 
 Raft
 
@@ -3847,7 +3746,7 @@ Speed: +0
 
 50
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Weapons
 Fore: None
@@ -3901,13 +3800,9 @@ Aft: Four 9-pounders (4D6 each)
 Broadside: Twenty 18-pounders (4D8 each)
 Skill: Shiphandling +10%
 
-7
-
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 51
-
-7
 
 Ship Qualities: Optional Rule
 
@@ -4002,9 +3897,7 @@ double speed counts as medium activity.
 
 52
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Wind Speed: The speed of the prevailing winds.
 Against: The vessel is moving against or perpendicular to the direction of the wind.
@@ -4076,11 +3969,9 @@ Head Wind: The wind is blowing directly from the bow of the ship toward the ster
 The Sailing Speed table gives the speed a sailing ship will travel under different wind speeds,
 presented in the following manner: Speed per Crew Combat Round / Speed per 12 hour period.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 53
-
-7
 
 Sailing Speed
 Wind Speed
@@ -4177,6 +4068,8 @@ No modifier
 +10 ft.
 +25 ft.
 
+Weapons
+
 Other Effects
 None
 None
@@ -4185,17 +4078,13 @@ None
 –10% to Shiphandling tests for manoeuvring
 –20% to Shiphandling tests for manoeuvring
 
-Weapons
-
 There are several sizes of cannon used on board ships. There are also swivel guns, which are
 smaller pieces mounted on the deck of a ship, and are used to blast smaller boats or for precise
 shooting.
 
 54
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Weapon
 9-pound
@@ -4325,7 +4214,7 @@ Sloop
 Schooner
 Brigantine
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Cost
 50–200 silver
@@ -4334,8 +4223,6 @@ Cost
 100,000–1,00,000 silver
 
 55
-
-7
 
 Customising and Changing a Ship
 
@@ -4389,9 +4276,7 @@ Handiwork Modifier: +0%
 
 56
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Chase Guns
 Adding chase guns, on the front of the ship, works just like adding aft guns, with one important
@@ -4435,7 +4320,7 @@ Handiwork Modifier: Varies
 Per gun after the first
 If guns are larger than those commonly mounted on this ship
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 –0%
 –5%
@@ -4445,8 +4330,6 @@ Alex Greene (order #3583073)
 –10% per size difference
 
 57
-
-7
 
 More Cargo Space
 By removing internal frames and cabin space, the crew allow the ship to cram in more cargo. The
@@ -4497,9 +4380,7 @@ Handiwork Modifier: –10%
 
 58
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Repair
 
@@ -4549,12 +4430,9 @@ to zero, its day is done. The vessel will begin to swamp, a process that takes o
 Round for every 30 feet of the ship’s length. When a ship is fully swamped, it will sink.
 Every time a ship suffers 10 or more points of structural damage from a single attack, reduce the
 Seaworthiness of the ship by one point.
-
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 59
-
-7
 
 Structure Points
 
@@ -4597,9 +4475,7 @@ fails, the ship endures one hour of storm weather at a cost 1D6 Seaworthiness.
 
 60
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Running Aground
 
@@ -4638,11 +4514,9 @@ To careen a ship, it must be beached or put into a dock. The crew then scrape th
 of debris. This takes 1D3 days and a successful Handiwork test. Each successful attempt at
 careening brings the ship’s speed back up by 6 ft/1 knot.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 61
-
-7
 
 SHIP SHEET
 Name:						
@@ -4678,12 +4552,6 @@ Fore:
 
 Aft
 
-Broadside
-
-Broadside
-
-Broadside
-
 Ammo:
 
 Cargo:		
@@ -4692,9 +4560,13 @@ Cargo:
 
 ton
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
-7
+Broadside
+
+Broadside
+
+Broadside
 
 piracy and plunder
 This chapter has a great number of random tables, which the Games Master can use for random
@@ -4726,11 +4598,9 @@ persists for one day.
 Storm. The storm lasts 2D20 hours; reroll on the Random Weather Change
 table again then, with a –10 modifier
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 63
-
-7
 
 Random Weather
 Roll D20
@@ -4831,9 +4701,7 @@ Each week, roll to see if the vessel needs to be careened.
 
 64
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Pirate Activity Modifiers
 
@@ -4866,7 +4734,7 @@ Roll D10
 7
 8–10
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Wind Blows From
 East
@@ -4879,8 +4747,6 @@ South
 South-East
 
 65
-
-7
 
 Encounters At Sea
 
@@ -5028,6 +4894,12 @@ Pirate
 Naval
 Vessel +2
 
+* The crew must make a Morale test due to boredom or adverse events.
+
+66
+
+Jeremy Bauerle (order #6303863)
+
 No
 encounter
 No
@@ -5061,14 +4933,6 @@ Vessel
 
 Naval
 Vessel
-
-* The crew must make a Morale test due to boredom or adverse events.
-
-66
-
-Alex Greene (order #3583073)
-
-7
 
 Next, roll on the appropriate table for the encounter.
 If the result is an encounter with another ship, roll for that ship’s Nationality, Crew and Plunder .
@@ -5138,11 +5002,9 @@ Sheltered Cove! This cove is an ideal hiding place when pursued.
 Castaway found! The characters encounter a castaway from another ship, desperate
 to take passage on whatever vessel will take him.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 67
-
-7
 
 Local Vessel
 Roll 2D6
@@ -5231,9 +5093,7 @@ Roll again twice
 Fourth-rate Warship
 Roll again three times
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Step One: Crew
 
@@ -5294,11 +5154,9 @@ Modifier to the Morale role
 Naval vessels may add +2 to their roll.
 Remember to add the modifiers for Morale and Crew to the crew’s Base Skill!
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 69
-
-7
 
 Crew Morale
 Crew 2D6
@@ -5390,9 +5248,7 @@ are two tables for each vessel – the Bulk Cargo (carried in the ship’s hold)
 
 70
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 A Note on Random Tables
 
@@ -5434,11 +5290,9 @@ game to have both the rising actions and reversals needed for a good story, and 
 development and exploration desired by players. Random and throw-away encounters give the
 interactive story time to breathe.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 71
-
-7
 
 Master Plunder
 Prize
@@ -5509,8 +5363,6 @@ Snow (120 01–50
 tons)
 
 72
-
-Alex Greene (order #3583073)
 
 00
 1 Provisions, 1 Supplies, 1D4 01–95
@@ -5604,12 +5456,12 @@ Treasure, 4D6x500 silver
 
 None
 
+Jeremy Bauerle (order #6303863)
+
 91–99
 
 1 Rare Supplies
 1D6x100 Silver
-
-7
 
 Prize
 
@@ -5652,7 +5504,7 @@ Indiaman
 
 01–50
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Bulk Cargo
 2D6 Provisions, 2D6 Supplies,
@@ -5782,8 +5634,6 @@ Rare Supplies
 
 73
 
-7
-
 Prize
 
 1D100
@@ -5829,8 +5679,6 @@ Frigate (80 01–50
 tons)
 
 74
-
-Alex Greene (order #3583073)
 
 Bulk Cargo
 6D6 Provisions, 6D6 Supplies,
@@ -5907,6 +5755,8 @@ roll
 2D6 Ammo, 2D10 Common,
 1D4 Rich
 
+Jeremy Bauerle (order #6303863)
+
 Rare Cargo
 6D6x500 silver, 1D6
 Rare Supplies, 1 Treasure
@@ -5947,8 +5797,6 @@ chance of 1 Treasure
 1D6x200 silver, 50%
 chance of 1 Rare
 Supplies
-
-7
 
 Prize
 
@@ -6033,11 +5881,9 @@ forth – just what a ship’s crew needs to eat. Provisions are used on a voyag
 Supplies: Rope, sails, nails, pitch, timber and other materials needed to repair a ship.
 Ammo: Powder and shot for cannons.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 75
-
-7
 
 Common Plunder: A ship carries a wide variety of goods. For each die or value listed, roll on
 the Common Plunder table. For example, if a ship’s Plunder is listed as 2x2D10 Common, you
@@ -6121,7 +5967,7 @@ Vinegar
 Wine, Cheap
 Wool
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Price
 600 silver
@@ -6196,8 +6042,6 @@ Six Barrels (ton)
 Six Barrels (ton)
 Six Barrels (ton)
 Six Bales (ton)
-
-7
 
 Rich Plunder: Rich Plunder includes goods that will fetch a very high price on the black market.
 Roll in the same way as Common Plunder.
@@ -6314,7 +6158,7 @@ Especially talented Carpenter (skill 40+4D10%)
 Especially talented Doctor (skill 40+4D10%)
 Secret Documents
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Price
 800 SP
@@ -6336,8 +6180,6 @@ Ransom?
 Varies
 
 77
-
-7
 
 Treasure: Treasure is the real prize to be found on board a ship – coins, jewels, gold bars and
 other fabulously valuable items.
@@ -6419,9 +6261,7 @@ wenches, pipes of wine and other necessities, like parrots. See Ill-Gotten Gains
 
 78
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 combat on the high seas
 This chapter covers maiming, brutality, sword-fights, boarding actions, ship-to-ship battles and
@@ -6457,11 +6297,9 @@ gains more Advantage, he increases the number shown on the die; when the opponen
 Advantage, he decreases the number on the die, or moves it over to his side if he becomes
 Favoured.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 79
-
-7
 
 Optional Rule: Fighting Aboard Ship
 
@@ -6506,9 +6344,7 @@ is stuck and cannot come up with a good line.
 
 80
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Using Advantage
 
@@ -6569,11 +6405,9 @@ victory, they can be extended to larger fights. If there are multiple combatants
 a two against two or three versus three battle, then the rules are used as normal, except that the
 passive bonuses to Parries and Attacks are not used.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 81
-
-7
 
 Optional Rule: Fatigue in Pirates Games
 
@@ -6637,9 +6471,7 @@ brotherhood should be united when at sea, so disputes should be settled on the s
 
 82
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 formal duel, pirate duels tend to be to the death. Instead of a second, there is normally a ring of
 cheering and jeering pirates, out for the sight of blood. Some duels even involve the participants
@@ -6699,11 +6531,9 @@ At the end of a Crew Combat Round, one or both crews must make Morale tests.
 Adventurers can make Heroic Actions during Crew Combat, which inspire their companions
 and give bonuses to the result.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 83
-
-7
 
 Crew Health, Crew Damage & Individual Adventurers
 
@@ -6734,7 +6564,7 @@ Dead
 
 84
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Individual Damage
 No damage
@@ -6743,8 +6573,6 @@ Minor wound to random location
 Serious wound to random location
 Major wound to random location
 Dead
-
-7
 
 Ranged Combat Modifiers
 Good equipment
@@ -6800,11 +6628,9 @@ Light Cover (low walls, ship railings): –2 damage
 Medium Cover (wooden buildings): –3 damage
 Heavy Cover (stone fort): –4 damage
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 85
-
-7
 
 Ranged Attacks
 
@@ -6879,9 +6705,7 @@ to draw cutlasses!
 
 86
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Hand to Hand Attacks
 
@@ -6969,11 +6793,9 @@ To continue the example of the pirate ambush, the Severely Wounded Spanish reach
 ambushers on the hill. The Pirates have a Hand to Hand score of 55%; the Spanish have a score of
 40%.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 87
-
-7
 
 The pirates have no applicable modifiers to their Hand to Hand score.
 The Spanish have several modifiers, although they are Seriously Wounded (–20%) and they outnumber
@@ -7041,9 +6863,7 @@ still make a Resilience test.
 
 88
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The pirates fail their test, so they suffer 1D6 casualties, +1 for the +1 Running Wounds Total still
 hanging over them. Five pirates have died, and 10% of their number – another 2 – have been injured.
@@ -7101,11 +6921,9 @@ Cannons
 A cannon loaded with standard or chain shot will automatically kill 1D6 Crew on a successful
 gunnery test and increases the enemy crew’s Running Wounds Total by 1.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 89
-
-7
 
 A cannon loaded with grape shot deals damage like a normal Firearms attack to a crew. Cannons
 are always ‘outnumbered’ by a crew, so they suffer a penalty to their damage rolls against crews,
@@ -7148,9 +6966,7 @@ Total. They will likely fight their way onto the fishing boat’s deck eventuall
 
 90
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Sieges
 
@@ -7213,11 +7029,9 @@ Boarding Crew: The rest of the crew fires muskets from the deck when in range, o
 boarding actions. This crew can also vapour to intimidate the enemy.
 Damage to these three crews should be tracked separately on the crew sheet.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 91
-
-7
 
 Sighting Ships
 
@@ -7288,9 +7102,7 @@ fire with aft guns.
 
 92
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Manoeuvring
 
@@ -7338,11 +7150,9 @@ Broadside
 Single Firing: Single firing a cannon uses the formal Ranged Attack rules, not the Crew Combat
 rules. If an Adventurer is alone firing the cannon, he may use his own Gunnery score instead of
 that of the crew.
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 93
-
-7
 
 If round shot is used, then the attack deals normal damage for a cannon of that type.
 If grape shot is used, then the attack deals damage to the crew of the enemy ship.
@@ -7423,9 +7233,7 @@ skill.
 
 94
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Reloading
 Gunnery Skill
@@ -7492,11 +7300,9 @@ A ship that has lost all its Seaworthiness is now sinking. A ship that has been 
 captured can be scuttled, causing it to sink.
  
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 95
-
-7
 
 Destroying Ships
 
@@ -7562,9 +7368,7 @@ Rudder Damage: –50% penalty to Shiphandling test.
 Magazine Struck: Roll 1D6. On a 4+, the powder explodes, destroying the ship
 from the inside.
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 ports, trade and law
 Ports are places to trade goods, to replenish supplies, to get uproariously drunk – but they also
@@ -7590,11 +7394,9 @@ trade port is a coup for a pirate gang.
 Fortresses are rare in the Caribbean – these are major ports with extra guns and fortifications,
 the centre of Imperial power in a region.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 97
-
-7
 
 Port Qualities
 Port Type
@@ -7724,9 +7526,7 @@ Smuggling: An Adventurer can sell on the black market. This works like normal tr
 but smugglers cannot expect to get as good a deal as a legal trader. Pirates dealing with
 smugglers therefore suffer a –50% penalty to their Influence attempts.
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Trade
 
@@ -7796,11 +7596,9 @@ Chance of Retribution
 The retribution dispatched by the governor will depend on what ships are in harbour and what
 sway he has with his government.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 99
-
-7
 
 Captured Pirates
 
@@ -7818,9 +7616,7 @@ pirate is worth more to the authorities alive than dead.
 
 100
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 campaign ideas
 The basic structure of Pirates of Legend is a simple one – roll up your Adventurer, your ship and
@@ -7857,11 +7653,9 @@ sailing and now have to make the best of a dangerous situation. Do the Adventure
 and turn on their criminal comrades, or do they embrace the pirate lifestyle and plunder what
 they can until the law catches up with them?
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 101
-
-7
 
 A Timeline of Important Historical Events
 
@@ -7915,9 +7709,7 @@ buccaneers away from the settled parts of Hispaniola and the other islands, earn
 
 102
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 of the rogues. The buccaneers raid Spanish ports in retaliation, stealing and looting. The lawless
 buccaneers are a ready source of men for treasurer hunters and piracy. They are also masters of
@@ -7967,11 +7759,9 @@ is now very poor and of little importance.
 To the west of Hispaniola is Cuba, the major Spanish holding in the Caribbean. It is a wealthy
 island, with many rich plantations. The fortress of El Morro is the centre of the Spanish military
 forces, while the capital of Havana is the place to trade goods. In the Caribbean, the Spanish
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 103
-
-7
 
 also hold Porto Rico, Trinidad and Tobago and once held Jamaica. Porto Rico is poor but wellfortified and is used by the Spanish navy as a base. Trinidad is a troubled colony, prone to
 violence, but it is better than its neighbour Tobago, which has been plunged into near-anarchy
@@ -8021,9 +7811,7 @@ grumbling and mutinous) and pit them against historical pirates. Can the players
 real-world pirate hunters? The Games Master can just consult history books for the actions and
 strengths of the various notable pirates.
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Cinematic Piracy
 
@@ -8074,11 +7862,9 @@ Revenge!: The Adventurers were once passengers on a ship that was attacked by a 
 pirate. They survived but everything they owned and loved was taken from them. Now, they have
 banded together for revenge – only to discover that their old nemesis took a pardon from the
 Spanish king and is now a wealthy and respected plantation owner (he is still secretly sponsoring
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 105
-
-7
 
 pirate attacks, of course). The Adventurers have to battle their foe’s minions and expose his pirate
 connections to the Spanish court, before a final confrontation in the villain’s castle.
@@ -8127,9 +7913,7 @@ them to serve the pirates.
 
 106
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Tim Powers is the absolute master of this type of alternate-history game and his book, On
 Stranger Tides, mixes excellent pirate adventure with voodoo and Greek myth.
@@ -8227,11 +8011,9 @@ armies. Sultan Murad III was so enamoured by the devices that he sent out a flee
 This brief flowering of technology ended in the year 958 AH, when al-Din’s calculations
 showed that, despite the sighting of a comet seen by the soothsayers of Sultan Murad
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 107
-
-7
 
 III, his armies would not prevail against a smaller but better-prepared Persian army. The
 Great Observatory was destroyed and the exploratory fleet’s crews denied return to port.
@@ -8275,9 +8057,7 @@ navigation with Hajji devices.
 
 108
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Brazen Head: A curiosity, Brazen Heads are small but very clever calculating engines. They
 speak using an intricate series of valves and bellows, and can hold discourse on a variety of topics.
@@ -8317,11 +8097,9 @@ should be reduced significantly.
 One nice thing about a Pirates of Legend game is that you can start it as a historical pirate game,
 then suddenly spin the characters off into utmost strangeness.
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 109
-
-7
 
 Scurvy Dogs and Other Rogues
 A miscellanea of generic Non-Player Characters…
@@ -8414,13 +8192,11 @@ Musket
 
 110
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Damage / AP
 1D6+1 / 3
 2D6
-
-7
 
 Pirate, Devilish Cut-Throat
 
@@ -8523,15 +8299,11 @@ Buff Coat: –3%
  
  
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 111
 
-7
-
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Pirate, Quartermaster
 
@@ -8634,11 +8406,9 @@ Damage / AP
 
 Buff Coat: –3% Skill Penalty
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 113
-
-7
 
 Pirate Captain
 
@@ -8742,13 +8512,9 @@ Buff Coat, Duellist’s Half-Cape: –5% Skill Penalty
 
 114
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
-7
-
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Town Guard
 
@@ -8843,13 +8609,11 @@ Buff Coat, Helmet: –7% Skill Penalty
 
 116
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Damage / AP
 1D8+1 / 3
 2D6
-
-7
 
 Fat Merchant
 
@@ -8941,15 +8705,13 @@ Pistol
  
 Legendary Ability: Contacts
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Damage / AP
 1D8 / 3
 2D4
 
 117
-
-7
 
 Governor
 
@@ -9044,9 +8806,7 @@ Legendary Ability: Contacts
 
 118
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Governor’s Daughter
 
@@ -9128,15 +8888,11 @@ None
  
 Leather Trews: –2% Skill Penalty
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 119
 
-7
-
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Sailor
 
@@ -9222,11 +8978,9 @@ Pistol
 2D4
  
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 121
-
-7
 
 Officer of the Royal Navy
 Seasoned. 
@@ -9310,7 +9064,7 @@ Buff Jacket: –3%
 
 122
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Weapon skill   	
 63% (60%)	
@@ -9320,13 +9074,9 @@ Damage / AP
 1D8 / 3
 2D4
 
-7
-
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 123
-
-7
 
 index
 Advanced Skills	
@@ -9371,7 +9121,7 @@ Crew Size & Crew Tests
 
 124
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 11
 3
@@ -9493,8 +9243,6 @@ Hand to Hand Attacks
 12
 87
 
-7
-
 Hand to Hand Combat Modifiers	
 87
 Healing Damage To A Crew	
@@ -9595,7 +9343,7 @@ Recompense For Damage
 Repairs at Sea	
 59
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 Reputation	
 Resetting Advantage	
@@ -9701,8 +9449,6 @@ Your Starting Ship
 
 125
 
-7
-
 Traveller Core Rulebook
 £29.99 / $39.95
 MGP3800
@@ -9721,9 +9467,7 @@ Author: Lawrence Whitaker
 TRY TRAVELLER FROM MONGOOSE
 
 W W W.MONGOOSEPUBLISH I N G . C O M
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Legend & Open Content
 Here at Mongoose Publishing, we want what we truly believe to be one of the best fantasy
@@ -9745,9 +9489,7 @@ to add some high seas action, you can simply and quickly bring over the Open Con
 we produce in, say, Pirates of Legend, knowing that everyone who plays Legend will at least be
 familiar with those rules.
 
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc
@@ -9814,9 +9556,7 @@ the extent necessary to make it enforceable.
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd
 Pirates of Legend, Copyright 2012, Mongoose Publishing Ltd
-Alex Greene (order #3583073)
-
-7
+Jeremy Bauerle (order #6303863)
 
 pirates of
 
@@ -9841,10 +9581,8 @@ sails. What you do next is up to you!
 
 MGP 8313
 
-Alex Greene (order #3583073)
+Jeremy Bauerle (order #6303863)
 
 US$19.99
-
-78.144.81.132
 
 
