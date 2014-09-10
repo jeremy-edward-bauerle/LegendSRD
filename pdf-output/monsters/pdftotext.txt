@@ -63,9 +63,7 @@ is presented under the Open Game Licence. See page 124 for the text of this lice
 tables containing game mechanics and statistics derivative of Open Game Content and the System Reference
 Document are considered to be Open Game Content. All other significant characters, names, places, items,
 art and text herein are copyrighted by Mongoose Publishing. All rights reserved. Printed in USA
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 introduction
 The world is wide and dangerous. Beasts of all descriptions – natural and supernatural – hunt,
@@ -109,9 +107,7 @@ INT have rudimentary reasoning abilities, as well as a set of complex and finely
 
 2
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Traits
 
@@ -163,11 +159,9 @@ by touch alone. If the creature touches another and makes a successful Perceptio
 learn of the target’s current Hit Points, Fatigue level and whether it is currently afflicted by any
 poison or disease.
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 3
-
-8
 
 Magic Sense
 This allows supernatural creatures, such as spirits, to perceive the magical aura of other creatures.
@@ -217,13 +211,9 @@ The creature can drain one or more of a character’s Characteristics permanentl
 
 4
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Chaotic Features
 
@@ -289,8 +279,6 @@ Beautiful
 Big
 Blind
 
-Alex Greene (order #3140110)
-
 If the creature strikes successfully with a natural weapon, 1D8 Magic
 Points are absorbed and added as temporary Characteristic or Attribute
 points; roll 1D10, 1=STR, 2=CON, 3=DEX, 4=SIZ, 5=INT, 6=POW,
@@ -328,7 +316,7 @@ beak on a different location; roll 1D4, 1=1D6 damage, 2=1D8 damage,
 No vision organs, but relies on a different sense to move and fight perfectly
 well. Creature is impervious to any attacks or spells affecting sight.
 
-8
+Jeremy Bauerle (order #6303863)
 
 16
 17
@@ -404,8 +392,6 @@ Hatred
 
 Head
 
-Alex Greene (order #3140110)
-
 Can squeeze through any gap.
 Any damage inflicted on the creature is felt by everybody within 5m,
 who suffer the psychological but not physiological effects as if they had
@@ -454,9 +440,9 @@ Gain an extra head (roll on the Physique Type table, page xx), each one
 gets an independent Persistence check against mental effects, spells and
 so forth and can control the entire body if one head is incapacitated.
 
-7
+Jeremy Bauerle (order #6303863)
 
-8
+7
 
 39
 
@@ -547,9 +533,7 @@ or multiplies (x1D4 in number), adding a +1D8x10% bonus to the
 Perception skill when using that sensory perception; roll a D6, 1=Sight,
 2=Sound, 3=Smell, 4=Taste, 5=Touch and 6=Other (if possessed).
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 55
 
@@ -623,8 +607,6 @@ Slow
 Small
 Spiny
 
-Alex Greene (order #3140110)
-
 One location is swollen to a very large size or length, doubling its Hit
 Points
 Temporarily weakens the dexterity of an opponent by 1D8 DEX each
@@ -674,9 +656,9 @@ Halve Movement.
 Opponents in melee suffer half their own rolled damage if they
 successfully land an attack.
 
-9
+Jeremy Bauerle (order #6303863)
 
-8
+9
 
 78
 
@@ -753,8 +735,6 @@ Weakening
 
 10
 
-Alex Greene (order #3140110)
-
 Produces clouds of spores. If inhaled the breather must win an opposed
 test of Resilience against the Spore’s potency of 1D8x10% to avoid
 suffering 1D8 Hit Points to the chest every round until successful; as
@@ -803,7 +783,7 @@ successful hit.
 Gains bat, bird butterfly or insect wings granting a Flying Movement
 equal to twice its normal Movement.
 
-8
+Jeremy Bauerle (order #6303863)
 
 Physique Table
 
@@ -905,11 +885,9 @@ versions can be used.
 Some creatures have no entry for CHA: this reflects animals, mostly, and indicates that CHA is
 not an important Characteristic for this kind of creature.
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 11
-
-8
 
 Hit Locations: As well as the random scores for determining which Hit Location is struck in
 combat, there are two scores listed – the first is the natural Armour Points of the location (if any)
@@ -956,9 +934,7 @@ only if both spirits are concurrently occupying the same body or fetish.
 
 12
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Encountering a spirit on the Spirit Plane does not necessarily mean that combat will inevitably
 occur. Many encounters, even with spirits who have discorporated a mortal, can be peaceful,
@@ -1003,11 +979,9 @@ material world. There are two forms of possession, Dominant and Covert.
 Dominant Possession occurs when the possessing entity literally takes complete control of the
 possessed body. The victim is fully aware that its body has been taken over but is absolutely
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 13
-
-8
 
 helpless, unable to take any action at all. The possessor does not have access to any of the
 memories, skills or magic of the possessed but substitutes its own instead.
@@ -1032,15 +1006,11 @@ they have been maliciously bound to that particular body.
 
 14
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 humanoids
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Dwarf
 Often at conflict with elves. They will, however, set aside their differences to take up arms against
@@ -1071,6 +1041,12 @@ Dice
 2D6
 3D6
 
+Combat Actions
+Damage Modifier
+Magic Points
+Movement
+Strike Rank
+
 Average
 14
 19
@@ -1079,12 +1055,6 @@ Average
 11
 7
 11
-
-Combat Actions
-Damage Modifier
-Magic Points
-Movement
-Strike Rank
 
 1D20
 1–3
@@ -1145,7 +1115,7 @@ L
 M
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 S
@@ -1171,11 +1141,7 @@ Range
 —
 100m
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Elf
 
@@ -1282,7 +1248,7 @@ Size
 H
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 —
@@ -1300,11 +1266,7 @@ Range
 175m
 —
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Giant
 
@@ -1406,7 +1368,7 @@ Huge Club
 Size
 E
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -1420,11 +1382,7 @@ AP/HP
 Range
 —
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Goblin
 
@@ -1535,7 +1493,7 @@ M
 M
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -1557,11 +1515,7 @@ Range
 —
 200m
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Halfling
 Halflings are small humanoids who make their comfortable homes in temperate climes. They
@@ -1663,7 +1617,7 @@ SIZ
 M
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 S
@@ -1680,8 +1634,6 @@ AP/HP
 Range
 —
 200m
-
-8
 
 Ogre
 
@@ -1776,11 +1728,11 @@ Type
 War Sword
 Target Shield
 
-Alex Greene (order #3140110)
-
 SIZ
 M
 L
+
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -1799,8 +1751,6 @@ Range
 —
 
 25
-
-8
 
 Orc
 When some vile, dark god or chaos horror captured elves, it used them to forge its own, vile,
@@ -1903,7 +1853,7 @@ M
 L
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -1929,11 +1879,7 @@ Range
 —
 80m
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Troll
 
@@ -2043,7 +1989,7 @@ L
 L
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -2065,13 +2011,9 @@ Range
 200m
 —
 
-8
-
 invertebrates
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Ant, Giant
 
@@ -2110,9 +2052,7 @@ of the colony but do not engage in combat.
 
 30
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Communal Mind
 Individually, ants display intelligence related directly to their function. A single giant ant has
@@ -2210,7 +2150,7 @@ Size
 M
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -2229,8 +2169,6 @@ Range
 —
 
 31
-
-8
 
 Bee, Giant
 
@@ -2354,10 +2292,10 @@ Sting
 Size
 S
 
-Alex Greene (order #3140110)
-
 Reach
 T
+
+Jeremy Bauerle (order #6303863)
 
 Damage
 1D4+1–1D2
@@ -2367,8 +2305,6 @@ As for Abdomen
 
 Range
 —
-
-8
 
 Beetle, Giant
 
@@ -2473,7 +2409,7 @@ Mandibles
 Size	
 M	
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach	
 M	
@@ -2488,8 +2424,6 @@ Range
 —
 
 33
-
-8
 
 Centipede, Giant
 
@@ -2532,9 +2466,7 @@ its duration.
 
 34
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Dice
 8D6
@@ -2651,7 +2583,7 @@ Mandibles
 Size
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -2666,8 +2598,6 @@ Range
 —
 
 35
-
-8
 
 Crab, Giant
 
@@ -2773,7 +2703,7 @@ Claw
 SIZ
 E
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -2786,8 +2716,6 @@ As for Claw
 
 Range
 —
-
-8
 
 Insect Swarm
 
@@ -2839,11 +2767,9 @@ Every round the Adventurer is exposed to the swarm the Games Master should total
 of stings taken and multiply that total by the appropriate species’ Venom Factor, as given on the
 Insect Venom table.
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 37
-
-8
 
 Insect Venom
 Insect Type
@@ -2902,9 +2828,7 @@ by 1D6 every round.
 
 38
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Leech, Giant
 
@@ -2980,7 +2904,7 @@ Bite
 Size
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -2992,8 +2916,6 @@ AP/HP
 As for Body
 
 39
-
-8
 
 Locust, Giant
 Locusts are herbivorous, swarming insects characterised by a set of powerful hind legs that allow the
@@ -3096,7 +3018,7 @@ Mandibles
 Size
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -3109,8 +3031,6 @@ As for Head
 
 Range
 —
-
-8
 
 Mosquito, Giant
 
@@ -3223,7 +3143,7 @@ Bite
 Size
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -3238,8 +3158,6 @@ Range
 —
 
 41
-
-8
 
 Praying Mantis, Giant
 
@@ -3356,7 +3274,7 @@ Size
 M
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -3373,8 +3291,6 @@ As for Claw
 Range
 —
 —
-
-8
 
 Scorpion, Giant
 
@@ -3495,11 +3411,11 @@ Size
 L
 M
 
-Alex Greene (order #3140110)
-
 Reach
 L
 S
+
+Jeremy Bauerle (order #6303863)
 
 Damage
 1D6+1D10 Poison
@@ -3514,8 +3430,6 @@ Range
 —
 
 43
-
-8
 
 Slug, Giant
 
@@ -3592,7 +3506,7 @@ Bite
 SIZ
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -3605,8 +3519,6 @@ As for Head
 
 Range
 —
-
-8
 
 Spider, Giant
 
@@ -3651,11 +3563,9 @@ is equal to the spider’s own STR. Those caught in the web suffer the effects o
 Combat Manoeuvre, across 1D3 separate locations at the same time. If a victim is able to move
 across the web, his movement is reduced by two thirds.
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 45
-
-8
 
 ‘Small’ Giant Spider
 STR
@@ -3749,7 +3659,7 @@ SIZ
 S
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -3766,8 +3676,6 @@ As for Head
 Range
 —
 —
-
-8
 
 ‘Medium’ Giant Spider
 STR
@@ -3881,11 +3789,9 @@ Entangles
 
 —
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 47
-
-8
 
 Large’ Giant Spider
 STR
@@ -3979,7 +3885,7 @@ SIZ
 M
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -3997,13 +3903,9 @@ Range
 —
 —
 
-8
-
 dinosaurs and reptiles
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Alligator/Crocodile
 
@@ -4106,7 +4008,7 @@ Size
 M
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -4123,8 +4025,6 @@ As for Tail
 Range
 —
 —
-
-8
 
 Large Alligator or Crocodile
 STR
@@ -4210,7 +4110,7 @@ Size
 M
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -4229,8 +4129,6 @@ Range
 —
 
 51
-
-8
 
 Allosaurus
 The name means ‘different lizard’ and allosaurs are large carnivorous dinosaurs, reaching 10
@@ -4327,7 +4225,7 @@ L
 H
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -4348,8 +4246,6 @@ Range
 —
 —
 —
-
-8
 
 Ankylosaurus
 
@@ -4442,7 +4338,7 @@ Size
 M
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -4461,8 +4357,6 @@ Range
 —
 
 53
-
-8
 
 Brontosaurus
 
@@ -4557,7 +4451,7 @@ Size
 E
 E
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -4574,8 +4468,6 @@ As for Tail
 Range
 —
 —
-
-8
 
 Hadrosaurus
 
@@ -4669,7 +4561,7 @@ Size
 H
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -4688,8 +4580,6 @@ Range
 —
 
 55
-
-8
 
 Plesiosaurus
 
@@ -4788,7 +4678,7 @@ Bite
 Size
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -4801,8 +4691,6 @@ As for Head
 
 Range
 —
-
-8
 
 Pteranodon
 
@@ -4895,7 +4783,7 @@ Size
 L
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -4914,8 +4802,6 @@ Range
 —
 
 57
-
-8
 
 Rock Lizard
 
@@ -5010,7 +4896,7 @@ Size
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 S
@@ -5027,8 +4913,6 @@ As for Head
 Range
 —
 —
-
-8
 
 Snake
 
@@ -5117,7 +5001,7 @@ Size
 M
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -5136,8 +5020,6 @@ Range
 —
 
 59
-
-8
 
 Venomous
 
@@ -5230,10 +5112,10 @@ Bite/Spit
 Size
 S
 
-Alex Greene (order #3140110)
-
 Reach
 T
+
+Jeremy Bauerle (order #6303863)
 
 Damage
 1D3–1D2
@@ -5243,8 +5125,6 @@ As for Head
 
 Range (spitters only)
 STR in metres
-
-8
 
 Stegosaurus
 
@@ -5335,7 +5215,7 @@ Tail Bash
 Size
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -5350,8 +5230,6 @@ Range
 —
 
 61
-
-8
 
 Triceratops
 
@@ -5450,10 +5328,10 @@ Gore
 Size
 H
 
-Alex Greene (order #3140110)
-
 Reach
 VL
+
+Jeremy Bauerle (order #6303863)
 
 Damage
 1D10+3D8
@@ -5463,8 +5341,6 @@ As for Head
 
 Range
 —
-
-8
 
 Tyrannosaurus
 
@@ -5553,7 +5429,7 @@ Bite
 Size
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -5568,8 +5444,6 @@ Range
 —
 
 63
-
-8
 
 Velociraptor
 Again needing little introduction, this is a pack-hunting dinosaur, and what the velociraptor
@@ -5670,7 +5544,7 @@ L
 L
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -5692,13 +5566,9 @@ Range
 —
 —
 
-8
-
 creatures of legend
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Amphisboena
 
@@ -5799,11 +5669,11 @@ Size
 M
 L
 
-Alex Greene (order #3140110)
-
 Reach
 M
 T
+
+Jeremy Bauerle (order #6303863)
 
 Damage
 1D8+1D4+Poison
@@ -5817,11 +5687,7 @@ Range
 —
 —
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Basilisk
 Approximately the size of a large rooster, a basilisk has grey or green scales, two bat-like wings
@@ -5853,9 +5719,7 @@ as a source for such lethal compounds.
 
 68
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Combat Notes
 The bite of a basilisk, if it causes damage, is also poisonous, with the following Characteristics:
@@ -5956,7 +5820,7 @@ Bite
 Size
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -5971,8 +5835,6 @@ Range
 —
 
 69
-
-8
 
 Behemoth
 
@@ -6074,7 +5936,7 @@ E
 E
 E
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -6095,8 +5957,6 @@ Range
 —
 —
 —
-
-8
 
 Centaur
 Famed nomads, musicians and bowmen, centaurs are an intelligent and usually benign race.
@@ -6246,11 +6106,9 @@ As for Leg
 —
 —
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 71
-
-8
 
 Dragon
 Vast, intelligent and awe-inspiring, dragons are enormous flying reptiles that can breathe
@@ -6372,7 +6230,7 @@ E
 E
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -6394,11 +6252,7 @@ Range
 —
 —
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Gargoyle
 With skin that emulates the texture of stone – and its hardness, to some degree – twisted faces,
@@ -6503,7 +6357,7 @@ Claw
 Size
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -6517,11 +6371,7 @@ As for Arm
 Range
 —
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Ghoul
 Ghouls are demonic creatures that sustain their unnatural existence by feeding on the corpses
@@ -6565,9 +6415,7 @@ Antidote/Cure: Healing Magic only.
 
 76
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 STR
 CON
@@ -6652,7 +6500,7 @@ SIZ
 S
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -6671,8 +6519,6 @@ Range
 —
 
 77
-
-8
 
 Gorgon
 
@@ -6791,7 +6637,7 @@ Size
 M
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -6809,11 +6655,7 @@ Range
 —
 —
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Harpy
 A notoriously filthy and evil race, harpies appear as human-sized grimy vultures with the head
@@ -6915,7 +6757,7 @@ Size
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -6933,11 +6775,7 @@ Range
 —
 Up to 30m in height
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Lamia
 
@@ -7043,7 +6881,7 @@ S
 S
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -7062,11 +6900,7 @@ As for Tail
 
 Range
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Manticore
 
@@ -7176,7 +7010,7 @@ M
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -7197,8 +7031,6 @@ Range
 —
 —
 —
-
-8
 
 Minotaur
 
@@ -7297,7 +7129,7 @@ Size
 H
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -7316,8 +7148,6 @@ Range
 —
 
 85
-
-8
 
 Mummy
 
@@ -7425,7 +7255,7 @@ Any weapon as used in life.
 
 86
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -7439,11 +7269,7 @@ As for Arm
 Range
 —
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Roc
 A roc is an enormous bird of prey, larger than a dragon and fully capable of challenging one for
@@ -7538,7 +7364,7 @@ E
 E
 E
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -7561,11 +7387,7 @@ Range
 —
 —
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Satyr
 
@@ -7606,9 +7428,7 @@ Sleeping Adventurers may be woken by loud noises, nudging and so forth.
 
 90
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 STR
 CON
@@ -7695,7 +7515,7 @@ Size
 M	
 M	
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach	
 T	
@@ -7714,8 +7534,6 @@ Range
 —
 
 91
-
-8
 
 Skeleton
 
@@ -7812,7 +7630,7 @@ Size
 L
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -7831,8 +7649,6 @@ AP/HP
 Range
 —
 —
-
-8
 
 Unicorn
 
@@ -7935,7 +7751,7 @@ Size
 L
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 L
@@ -7954,8 +7770,6 @@ Range
 —
 
 93
-
-8
 
 Vampire
 
@@ -8010,9 +7824,7 @@ Magic is lost.
 
 94
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Vampire Weaknesses
 
@@ -8128,7 +7940,7 @@ Bite
 Size
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -8144,11 +7956,7 @@ Range
 
 95
 
-8
-
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Werewolf
 
@@ -8256,7 +8064,7 @@ Size
 L
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 S
@@ -8275,8 +8083,6 @@ Range
 —
 
 97
-
-8
 
 Wurm
 
@@ -8375,7 +8181,7 @@ Bite
 Size
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -8388,8 +8194,6 @@ As for Head
 
 Range
 —
-
-8
 
 Wyrm
 
@@ -8487,7 +8291,7 @@ Size
 H
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -8502,8 +8306,6 @@ As for Head
 As for Tail
 
 99
-
-8
 
 Wyvern
 
@@ -8608,11 +8410,11 @@ Size
 H
 H
 
-Alex Greene (order #3140110)
-
 Reach
 VL
 VL
+
+Jeremy Bauerle (order #6303863)
 
 Damage
 1D10+1D12
@@ -8625,8 +8427,6 @@ As for Tail
 Range
 —
 —
-
-8
 
 Zombie
 
@@ -8723,7 +8523,7 @@ Unarmed
 Size
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -8739,13 +8539,9 @@ Range
 
 101
 
-8
-
 natural life
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 Baboon
 
@@ -8839,7 +8635,7 @@ Bite
 SIZ
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -8854,8 +8650,6 @@ Range
 —
 
 103
-
-8
 
 Bear, Brown
 
@@ -8946,11 +8740,11 @@ Size
 S
 M
 
-Alex Greene (order #3140110)
-
 Reach
 T
 S
+
+Jeremy Bauerle (order #6303863)
 
 Damage
 1D8+1D12
@@ -8963,8 +8757,6 @@ As for Leg
 Range
 —
 —
-
-8
 
 Bear, Polar
 
@@ -9054,7 +8846,7 @@ Size
 S
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -9073,8 +8865,6 @@ Range
 —
 
 105
-
-8
 
 Boar
 
@@ -9166,7 +8956,7 @@ Tusk
 Size
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -9176,8 +8966,6 @@ Damage
 
 AP/HP
 As for Head
-
-8
 
 Cattle
 
@@ -9267,7 +9055,7 @@ VL
 VL
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -9290,8 +9078,6 @@ Range
 —
 
 107
-
-8
 
 Chimpanzee
 Chimpanzees are forest-dwelling apes slightly smaller than humans. They are extremely intelligent
@@ -9390,7 +9176,7 @@ SIZ
 S
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -9403,8 +9189,6 @@ Damage
 AP/HP
 As for Head
 As for Arm
-
-8
 
 Deer
 
@@ -9493,7 +9277,7 @@ Head Butt
 Size
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 S
@@ -9508,8 +9292,6 @@ Range
 —
 
 109
-
-8
 
 Dog
 
@@ -9602,7 +9384,7 @@ Bite
 Size
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -9615,8 +9397,6 @@ As for Head
 
 Range
 —
-
-8
 
 Elephant
 
@@ -9718,7 +9498,7 @@ H
 E
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -9741,8 +9521,6 @@ Range
 —
 
 111
-
-8
 
 Gorilla
 
@@ -9836,7 +9614,7 @@ SIZ
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -9853,8 +9631,6 @@ As for Arm
 Range
 —
 —
-
-8
 
 Hawk
 
@@ -9941,7 +9717,7 @@ SIZ
 S
 S
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -9960,8 +9736,6 @@ Range
 —
 
 113
-
-8
 
 Horse
 
@@ -10051,7 +9825,7 @@ Kick
 Size
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -10061,8 +9835,6 @@ Damage
 
 AP/HP
 As for Leg
-
-8
 
 Lion
 
@@ -10159,7 +9931,7 @@ Size
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -10178,8 +9950,6 @@ Range
 —
 
 115
-
-8
 
 Mammoth
 
@@ -10284,7 +10054,7 @@ H
 E
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 VL
@@ -10305,8 +10075,6 @@ Range
 —
 —
 —
-
-8
 
 Panther
 
@@ -10400,7 +10168,7 @@ Size
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -10419,8 +10187,6 @@ Range
 —
 
 117
-
-8
 
 Rhinoceros
 
@@ -10517,7 +10283,7 @@ Size
 L
 H
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 M
@@ -10534,8 +10300,6 @@ As for Head
 Range
 —
 —
-
-8
 
 Shark
 
@@ -10621,7 +10385,7 @@ Bite
 Size
 L
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -10633,8 +10397,6 @@ AP/HP
 As for Head
 
 119
-
-8
 
 Tiger
 One of the largest of the big cats, a tiger hunts alone, eschewing the company of its own kind
@@ -10730,7 +10492,7 @@ Size
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -10747,8 +10509,6 @@ As for Leg
 Range
 —
 —
-
-8
 
 Tiger, Sabre Tooth (Smilodon)
 Sabre tooth tigers are not true tigers but a separate big-cat species. Stocky and powerful over
@@ -10838,7 +10598,7 @@ M
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -10861,8 +10621,6 @@ Range
 —
 
 121
-
-8
 
 Wolf
 
@@ -10960,7 +10718,7 @@ Size
 M
 M
 
-Alex Greene (order #3140110)
+Jeremy Bauerle (order #6303863)
 
 Reach
 T
@@ -10977,8 +10735,6 @@ As for Leg
 Range
 —
 —
-
-8
 
 Legend & Open Content
 Here at Mongoose Publishing, we want what we truly believe to be one of the best fantasy
@@ -11000,9 +10756,7 @@ to add some high seas action, you can simply and quickly bring over the Open Con
 we produce in, say, Pirates of Legend, knowing that everyone who plays Legend will at least be
 familiar with those rules.
 
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc
@@ -11069,8 +10823,6 @@ the extent necessary to make it enforceable.
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd
 Monsters of Legend, Copyright 2011, Mongoose Publishing Ltd
-Alex Greene (order #3140110)
-
-8
+Jeremy Bauerle (order #6303863)
 
 

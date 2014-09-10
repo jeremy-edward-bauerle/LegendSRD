@@ -10,7 +10,7 @@
 	<fontspec id="4" size="62" family="Times" color="#231f20"/>
 	<fontspec id="5" size="10" family="Times" color="#231f20"/>
 	<fontspec id="6" size="10" family="Times" color="#231f20"/>
-	<fontspec id="7" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="7" size="10" family="Times" color="#d1d1d1"/>
 <text top="232" left="55" width="89" height="31" font="0">Credits  </text>
 <text top="232" left="458" width="93" height="31" font="0">Contents</text>
 <text top="106" left="97" width="423" height="111" font="1">LEGEND</text>
@@ -52,7 +52,7 @@
 <text top="839" left="59" width="494" height="13" font="6">tables containing game mechanics and statistics derivative of Open Game Content and the System Reference </text>
 <text top="853" left="61" width="490" height="13" font="6">Document are considered to be Open Game Content.  All other significant characters, names, places, items, </text>
 <text top="866" left="85" width="442" height="13" font="6">art and text herein are copyrighted by Mongoose Publishing.  All rights reserved.  Printed in USA </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="2" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="8" size="24" family="Times" color="#231f20"/>
@@ -94,7 +94,7 @@
 <text top="808" left="43" width="499" height="15" font="3">that all fixed-INT creatures with the same INT score are identically intelligent but it does mean </text>
 <text top="824" left="43" width="500" height="15" font="3">that all lions (INT 5) are more intelligent than horses (INT 4). Creatures with a very large fixed </text>
 <text top="841" left="43" width="486" height="15" font="3">INT have rudimentary reasoning abilities, as well as a set of complex and finely-honed instincts.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="3" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="8">3</text>
@@ -137,7 +137,7 @@
 <text top="810" left="55" width="500" height="15" font="3">by touch alone. If the creature touches another and makes a successful Perception test, it will </text>
 <text top="826" left="55" width="499" height="15" font="3">learn of the target’s current Hit Points, Fatigue level and whether it is currently afflicted by any </text>
 <text top="843" left="55" width="91" height="15" font="3">poison or disease.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="4" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="8">4</text>
@@ -177,10 +177,10 @@
 <text top="716" left="43" width="485" height="15" font="3">no special equipment. Such Movement is always at half the creature’s normal Movement rate.</text>
 <text top="749" left="43" width="96" height="16" font="2">Vampiric Touch </text>
 <text top="766" left="43" width="466" height="15" font="3">The creature can drain one or more of a character’s Characteristics permanently by touch.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="5" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="6" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="11" size="20" family="Times" color="#231f20"/>
@@ -261,7 +261,7 @@
 <text top="808" left="78" width="29" height="15" font="3">Blind</text>
 <text top="808" left="169" width="369" height="15" font="3">No vision organs, but relies on a different sense to move and fight perfectly </text>
 <text top="824" left="169" width="327" height="15" font="3">well. Creature is impervious to any attacks or spells affecting sight.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="7" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="8">7</text>
@@ -356,7 +356,7 @@
 <text top="797" left="182" width="369" height="15" font="3">Gain an extra head (roll on the Physique Type table, page xx), each one </text>
 <text top="813" left="182" width="369" height="15" font="3">gets an independent Persistence check against mental effects, spells and </text>
 <text top="830" left="182" width="355" height="15" font="3">so forth and can control the entire body if one head is incapacitated.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="8" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="8">8</text>
@@ -440,7 +440,7 @@
 <text top="814" left="169" width="369" height="15" font="3">or multiplies (x1D4 in number), adding a +1D8x10% bonus to the </text>
 <text top="831" left="169" width="369" height="15" font="3">Perception skill when using that sensory perception; roll a D6, 1=Sight, </text>
 <text top="847" left="169" width="343" height="15" font="3">2=Sound, 3=Smell, 4=Taste, 5=Touch and 6=Other (if possessed).</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="9" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="8">9</text>
@@ -538,7 +538,7 @@
 <text top="830" left="91" width="30" height="15" font="3">Spiny</text>
 <text top="830" left="182" width="369" height="15" font="3">Opponents  in  melee  suffer  half  their  own  rolled  damage  if  they </text>
 <text top="846" left="182" width="139" height="15" font="3">successfully land an attack.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="10" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">10</text>
@@ -634,7 +634,7 @@
 <text top="813" left="47" width="65" height="15" font="3">100 Wings</text>
 <text top="813" left="169" width="369" height="15" font="3">Gains bat, bird butterfly or insect wings granting a Flying Movement </text>
 <text top="830" left="169" width="192" height="15" font="3">equal to twice its normal Movement.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="11" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="13" size="13" family="Times" color="#231f20"/>
@@ -733,7 +733,7 @@
 <text top="789" left="55" width="108" height="15" font="3">versions can be used.</text>
 <text top="823" left="55" width="500" height="15" font="3">Some creatures have no entry for CHA: this reflects animals, mostly, and indicates that CHA is </text>
 <text top="839" left="55" width="295" height="15" font="3">not an important Characteristic for this kind of creature.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="12" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">12</text>
@@ -779,7 +779,7 @@
 <text top="790" left="43" width="500" height="15" font="3">him, temporarily regaining control of their own body before the possession is re-established. In </text>
 <text top="806" left="43" width="500" height="15" font="3">settings supporting such circumstances Spirit Combat is permitted within the material world but </text>
 <text top="822" left="43" width="369" height="15" font="3">only if both spirits are concurrently occupying the same body or fetish.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="13" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">13</text>
@@ -823,7 +823,7 @@
 <text top="784" left="55" width="385" height="15" font="3">material world. There are two forms of possession, Dominant and Covert.</text>
 <text top="816" left="55" width="500" height="15" font="3">Dominant Possession occurs when the possessing entity literally takes complete control of the </text>
 <text top="832" left="55" width="500" height="15" font="3">possessed body. The victim is fully aware that its body has been taken over but is absolutely </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="14" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">14</text>
@@ -847,11 +847,11 @@
 <text top="369" left="43" width="362" height="15" font="3">soul dies when it is exorcised. Spirits merely return to the spirit plane.</text>
 <text top="402" left="43" width="500" height="15" font="3">Needless to say, a possessing spirit or soul can willingly abandon a possession at any time – unless </text>
 <text top="418" left="43" width="298" height="15" font="3">they have been maliciously <i>bound </i>to that particular body.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="15" position="absolute" top="0" left="0" height="918" width="594">
 <text top="251" left="281" width="262" height="53" font="9">humanoids</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="16" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">16</text>
@@ -963,10 +963,10 @@
 <text top="797" left="302" width="24" height="15" font="3">1D8</text>
 <text top="797" left="378" width="18" height="15" font="3">4/5</text>
 <text top="797" left="448" width="31" height="15" font="3">100m</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="17" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="18" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">18</text>
@@ -1069,10 +1069,10 @@
 <text top="799" left="295" width="44" height="15" font="3">1D10+1</text>
 <text top="799" left="378" width="25" height="15" font="3">4/10</text>
 <text top="799" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="19" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="20" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">20</text>
@@ -1166,10 +1166,10 @@
 <text top="738" left="289" width="62" height="15" font="3">2D6+2D12</text>
 <text top="738" left="388" width="25" height="15" font="3">3/12</text>
 <text top="738" left="475" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="21" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="22" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">22</text>
@@ -1280,10 +1280,10 @@
 <text top="837" left="295" width="55" height="15" font="3">1D8–1D2</text>
 <text top="837" left="378" width="18" height="15" font="3">1/2</text>
 <text top="837" left="460" width="31" height="15" font="3">200m</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="23" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="24" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">24</text>
@@ -1384,7 +1384,7 @@
 <text top="750" left="295" width="55" height="15" font="3">1D8–1D4</text>
 <text top="750" left="378" width="18" height="15" font="3">1/2</text>
 <text top="750" left="460" width="31" height="15" font="3">200m</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="25" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">25</text>
@@ -1482,7 +1482,7 @@
 <text top="722" left="288" width="55" height="15" font="3">1D6+1D4</text>
 <text top="722" left="384" width="25" height="15" font="3">4/12</text>
 <text top="722" left="469" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="26" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">26</text>
@@ -1591,10 +1591,10 @@
 <text top="727" left="265" width="24" height="15" font="3">1D6</text>
 <text top="727" left="351" width="18" height="15" font="3">4/4</text>
 <text top="727" left="440" width="24" height="15" font="3">80m</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="27" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="28" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">28</text>
@@ -1702,11 +1702,11 @@
 <text top="830" left="259" width="55" height="15" font="3">1D6+1D6</text>
 <text top="830" left="349" width="58" height="15" font="3">As for Arm</text>
 <text top="830" left="449" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="29" position="absolute" top="0" left="0" height="918" width="594">
 <text top="251" left="209" width="334" height="53" font="9">invertebrates</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="30" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">30</text>
@@ -1743,7 +1743,7 @@
 <text top="630" left="43" width="500" height="15" font="3">other ant. If the queen dies, however, the colony is doomed, as no more eggs will be laid. Thus, </text>
 <text top="646" left="43" width="500" height="15" font="3">other ants defend her fiercely. Queens are approximately twice as large and strong as other ants </text>
 <text top="663" left="43" width="226" height="15" font="3">of the colony but do not engage in combat.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="31" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">31</text>
@@ -1841,7 +1841,7 @@
 <text top="656" left="261" width="55" height="15" font="3">1D6+Acid</text>
 <text top="656" left="340" width="72" height="15" font="3">As for Thorax</text>
 <text top="656" left="441" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="32" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="15" size="13" family="Times" color="#231f20"/>
@@ -1957,7 +1957,7 @@
 <text top="669" left="179" width="24" height="15" font="3">12m</text>
 <text top="683" left="47" width="59" height="15" font="10"><i>Strike Rank</i></text>
 <text top="683" left="179" width="17" height="15" font="3">+9 </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="33" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">33</text>
@@ -2052,7 +2052,7 @@
 <text top="710" left="271" width="58" height="15" font="3">1D8+1D6 </text>
 <text top="710" left="379" width="66" height="15" font="3">As for Head </text>
 <text top="710" left="487" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="34" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">34</text>
@@ -2092,7 +2092,7 @@
 <text top="695" left="43" width="500" height="15" font="3">Potency of 1D20+10. The anti-venom must be introduced with a successful First Aid or Healing </text>
 <text top="711" left="43" width="500" height="15" font="3">roll and add their Potency as a bonus to the victim’s Resilience roll to fight the venom throughout </text>
 <text top="727" left="43" width="64" height="15" font="3">its duration.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="35" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">35</text>
@@ -2207,7 +2207,7 @@
 <text top="540" left="308" width="55" height="15" font="3">1D8+2D6</text>
 <text top="540" left="390" width="63" height="15" font="3">As for Head</text>
 <text top="540" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="36" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">36</text>
@@ -2308,7 +2308,7 @@
 <text top="705" left="295" width="62" height="15" font="3">1D10+2D6</text>
 <text top="705" left="378" width="62" height="15" font="3">As for Claw</text>
 <text top="705" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="37" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">37</text>
@@ -2357,7 +2357,7 @@
 <text top="785" left="55" width="500" height="15" font="3">Every round the Adventurer is exposed to the swarm the Games Master should total the number </text>
 <text top="801" left="55" width="499" height="15" font="3">of stings taken and multiply that total by the appropriate species’ Venom Factor, as given on the </text>
 <text top="817" left="55" width="103" height="15" font="3">Insect Venom table.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="38" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">38</text>
@@ -2411,7 +2411,7 @@
 <text top="634" left="43" width="500" height="15" font="3">such as ants, will not cross an unbroken line of sulphur powder. Fire is the most effective means </text>
 <text top="650" left="43" width="500" height="15" font="3">of dispersing an insect swarm. For every 1D6 of damage a fire does, it reduces the size of a swarm </text>
 <text top="667" left="43" width="112" height="15" font="3">by 1D6 every round. </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="39" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">39</text>
@@ -2480,7 +2480,7 @@
 <text top="708" left="200" width="7" height="15" font="3">L</text>
 <text top="708" left="286" width="55" height="15" font="3">1D4–1D4</text>
 <text top="708" left="441" width="62" height="15" font="3">As for Body</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="40" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">40</text>
@@ -2577,7 +2577,7 @@
 <text top="555" left="173" width="74" height="15" font="3">6m/15m (Fly)</text>
 <text top="573" left="47" width="59" height="15" font="10"><i>Strike Rank</i></text>
 <text top="574" left="173" width="24" height="15" font="3">+14 </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="41" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">41</text>
@@ -2684,7 +2684,7 @@
 <text top="628" left="201" width="49" height="15" font="3">18m (fly)</text>
 <text top="646" left="60" width="59" height="15" font="10"><i>Strike Rank</i></text>
 <text top="647" left="201" width="17" height="15" font="3">+9 </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="42" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">42</text>
@@ -2798,7 +2798,7 @@
 <text top="865" left="295" width="62" height="15" font="3">1D10+2D8</text>
 <text top="865" left="378" width="62" height="15" font="3">As for Claw</text>
 <text top="865" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="43" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">43</text>
@@ -2918,7 +2918,7 @@
 <text top="859" left="242" width="75" height="15" font="3">1D4+1+1D10</text>
 <text top="859" left="361" width="54" height="15" font="3">As for Tail</text>
 <text top="859" left="443" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="44" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">44</text>
@@ -2989,7 +2989,7 @@
 <text top="567" left="295" width="24" height="15" font="3">1D4</text>
 <text top="567" left="378" width="63" height="15" font="3">As for Head</text>
 <text top="567" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="45" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">45</text>
@@ -3032,7 +3032,7 @@
 <text top="717" left="55" width="500" height="15" font="3">is equal to the spider’s own STR. Those caught in the web suffer the effects of the Entangle </text>
 <text top="732" left="55" width="500" height="15" font="3">Combat Manoeuvre, across 1D3 separate locations at the same time. If a victim is able to move </text>
 <text top="747" left="55" width="286" height="15" font="3">across the web, his movement is reduced by two thirds.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="46" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">46</text>
@@ -3125,7 +3125,7 @@
 <text top="515" left="295" width="51" height="15" font="3">Entangles</text>
 <text top="515" left="378" width="25" height="15" font="3">4/10</text>
 <text top="515" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="47" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">47</text>
@@ -3218,7 +3218,7 @@
 <text top="518" left="260" width="51" height="15" font="3">Entangles</text>
 <text top="518" left="393" width="25" height="15" font="3">4/19</text>
 <text top="518" left="475" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="48" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">48</text>
@@ -3311,12 +3311,12 @@
 <text top="515" left="252" width="51" height="15" font="3">Entangles</text>
 <text top="515" left="378" width="25" height="15" font="3">4/29</text>
 <text top="515" left="461" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="49" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="16" size="40" family="Times" color="#231f20"/>
 <text top="251" left="64" width="479" height="46" font="16">dinosaurs and reptiles</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="50" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">50</text>
@@ -3416,7 +3416,7 @@
 <text top="778" left="259" width="62" height="15" font="3">1D4+1D12</text>
 <text top="778" left="369" width="54" height="15" font="3">As for Tail</text>
 <text top="778" left="476" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="51" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">51</text>
@@ -3503,7 +3503,7 @@
 <text top="517" left="308" width="62" height="15" font="3">1D4+2D12</text>
 <text top="517" left="390" width="54" height="15" font="3">As for Tail</text>
 <text top="517" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="52" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">52</text>
@@ -3603,7 +3603,7 @@
 <text top="655" left="277" width="62" height="15" font="3">1D8+2D12</text>
 <text top="655" left="370" width="54" height="15" font="3">As for Tail</text>
 <text top="655" left="470" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="53" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">53</text>
@@ -3695,7 +3695,7 @@
 <text top="591" left="312" width="55" height="15" font="3">3D6+2D6</text>
 <text top="591" left="395" width="54" height="15" font="3">As for Tail</text>
 <text top="591" left="477" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="54" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">54</text>
@@ -3788,7 +3788,7 @@
 <text top="642" left="277" width="68" height="15" font="3">4D12+3D10</text>
 <text top="642" left="376" width="54" height="15" font="3">As for Tail</text>
 <text top="642" left="468" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="55" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">55</text>
@@ -3881,7 +3881,7 @@
 <text top="646" left="308" width="62" height="15" font="3">1D10+2D8</text>
 <text top="646" left="390" width="54" height="15" font="3">As for Tail</text>
 <text top="646" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="56" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">56</text>
@@ -3972,7 +3972,7 @@
 <text top="711" left="271" width="62" height="15" font="3">1D8+1D12</text>
 <text top="711" left="353" width="63" height="15" font="3">As for Head</text>
 <text top="711" left="456" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="57" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">57</text>
@@ -4064,7 +4064,7 @@
 <text top="683" left="308" width="62" height="15" font="3">1D6+1D10</text>
 <text top="683" left="390" width="53" height="15" font="3">As for Leg</text>
 <text top="683" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="58" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">58</text>
@@ -4156,7 +4156,7 @@
 <text top="640" left="295" width="55" height="15" font="3">1D8+1D2</text>
 <text top="640" left="378" width="63" height="15" font="3">As for Head</text>
 <text top="640" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="59" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">59</text>
@@ -4241,7 +4241,7 @@
 <text top="762" left="308" width="62" height="15" font="3">1D8+1D10</text>
 <text top="762" left="390" width="62" height="15" font="3">As for Body</text>
 <text top="762" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="60" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">60</text>
@@ -4326,7 +4326,7 @@
 <text top="825" left="222" width="55" height="15" font="3">1D3–1D2</text>
 <text top="825" left="294" width="63" height="15" font="3">As for Head</text>
 <text top="825" left="377" width="76" height="15" font="3">STR in metres</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="61" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">61</text>
@@ -4413,7 +4413,7 @@
 <text top="579" left="291" width="68" height="15" font="3">1D10+2D10</text>
 <text top="579" left="387" width="54" height="15" font="3">As for Tail</text>
 <text top="579" left="472" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="62" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">62</text>
@@ -4504,7 +4504,7 @@
 <text top="696" left="254" width="62" height="15" font="3">1D10+3D8</text>
 <text top="696" left="356" width="63" height="15" font="3">As for Head</text>
 <text top="696" left="458" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="63" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">63</text>
@@ -4589,7 +4589,7 @@
 <text top="563" left="281" width="68" height="15" font="3">1D10+2D12</text>
 <text top="563" left="382" width="63" height="15" font="3">As for Head</text>
 <text top="563" left="474" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="64" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">64</text>
@@ -4693,12 +4693,12 @@
 <text top="759" left="274" width="55" height="15" font="3">1D4+1D8</text>
 <text top="759" left="358" width="81" height="15" font="3">As for Foreclaw</text>
 <text top="759" left="469" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="65" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="17" size="44" family="Times" color="#231f20"/>
 <text top="251" left="66" width="476" height="51" font="17">creatures of legend</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="66" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">66</text>
@@ -4793,10 +4793,10 @@
 <text top="877" left="249" width="96" height="15" font="3">1D6+1D4+Poison</text>
 <text top="877" left="379" width="62" height="15" font="3">As for Body</text>
 <text top="877" left="470" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="67" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="68" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">68</text>
@@ -4827,7 +4827,7 @@
 <text top="533" left="43" width="500" height="15" font="3">The basilisk’s poison and corrosive blood are magical effects, which lose their special properties </text>
 <text top="551" left="43" width="500" height="15" font="3">1D3 minutes after leaving the basilisk’s body, making it virtually impossible to use the creature </text>
 <text top="569" left="43" width="200" height="15" font="3">as a source for such lethal compounds.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="69" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">69</text>
@@ -4924,7 +4924,7 @@
 <text top="181" left="55" width="119" height="15" font="14"><b>Resistance</b>: Resilience.</text>
 <text top="197" left="55" width="488" height="15" font="14"><b>Conditions: </b>Agony. The victim also suffers 1D3 damage to all Hit Locations simultaneously. </text>
 <text top="214" left="55" width="192" height="15" font="14"><b>Antidote/Cure: </b>Healing Magic only.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="70" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">70</text>
@@ -5027,7 +5027,7 @@
 <text top="791" left="266" width="62" height="15" font="3">6D8+5D12</text>
 <text top="791" left="359" width="14" height="15" font="3">—</text>
 <text top="791" left="454" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="71" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">71</text>
@@ -5155,7 +5155,7 @@
 <text top="822" left="308" width="68" height="15" font="3">1D6+1+1D8</text>
 <text top="822" left="400" width="53" height="15" font="3">As for Leg</text>
 <text top="822" left="483" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="72" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">72</text>
@@ -5275,10 +5275,10 @@
 <text top="873" left="258" width="79" height="15" font="3">1D6+4D10 / 2</text>
 <text top="873" left="359" width="54" height="15" font="3">As for Tail</text>
 <text top="873" left="453" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="73" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="74" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">74</text>
@@ -5378,10 +5378,10 @@
 <text top="783" left="295" width="62" height="15" font="3">1D6+1D10</text>
 <text top="783" left="378" width="58" height="15" font="3">As for Arm</text>
 <text top="783" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="75" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="76" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">76</text>
@@ -5423,7 +5423,7 @@
 <text top="730" left="43" width="119" height="15" font="14"><b>Resistance</b>: Resilience.</text>
 <text top="746" left="43" width="120" height="15" font="14"><b>Conditions: </b>Paralysis. </text>
 <text top="762" left="43" width="192" height="15" font="14"><b>Antidote/Cure: </b>Healing Magic only.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="77" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">77</text>
@@ -5506,7 +5506,7 @@
 <text top="473" left="312" width="55" height="15" font="3">1D6+1D2</text>
 <text top="473" left="395" width="63" height="15" font="3">As for Head</text>
 <text top="473" left="477" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="78" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">78</text>
@@ -5621,10 +5621,10 @@
 <text top="866" left="295" width="66" height="15" font="3">1D4+Poison</text>
 <text top="866" left="378" width="18" height="15" font="3">–/2</text>
 <text top="866" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="79" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="80" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">80</text>
@@ -5723,10 +5723,10 @@
 <text top="737" left="260" width="46" height="15" font="3">1D6/3m</text>
 <text top="737" left="343" width="18" height="15" font="3">6/4</text>
 <text top="737" left="419" width="108" height="15" font="3">Up to 30m in height</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="81" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="82" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">82</text>
@@ -5830,10 +5830,10 @@
 <text top="821" left="188" width="7" height="15" font="3">L</text>
 <text top="821" left="246" width="55" height="15" font="3">1D6+1D2</text>
 <text top="821" left="395" width="54" height="15" font="3">As for Tail</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="83" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="84" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">84</text>
@@ -5943,7 +5943,7 @@
 <text top="822" left="200" width="17" height="15" font="3">VL</text>
 <text top="822" left="265" width="166" height="15" font="3">1D6+1D12+Posion As for Tail</text>
 <text top="822" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="85" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">85</text>
@@ -6042,7 +6042,7 @@
 <text top="715" left="275" width="62" height="15" font="3">1D6+1D10</text>
 <text top="715" left="378" width="63" height="15" font="3">As for Head</text>
 <text top="715" left="464" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="86" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">86</text>
@@ -6144,10 +6144,10 @@
 <text top="838" left="378" width="58" height="15" font="3">As for Arm</text>
 <text top="838" left="460" width="14" height="15" font="3">—</text>
 <text top="856" left="47" width="142" height="15" font="3">Any weapon as used in life.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="87" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="88" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">88</text>
@@ -6245,10 +6245,10 @@
 <text top="687" left="265" width="81" height="15" font="3">metres dropped</text>
 <text top="671" left="386" width="14" height="15" font="3">—</text>
 <text top="671" left="482" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="89" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="90" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">90</text>
@@ -6284,7 +6284,7 @@
 <text top="663" left="43" width="314" height="15" font="3">Duration Special, Magnitude 3, Ranged, Resist (Persistence)</text>
 <text top="695" left="43" width="500" height="15" font="3">Sleep causes all who fail to resist its effects to fall immediately into a deep, but normal, sleep. </text>
 <text top="711" left="43" width="387" height="15" font="3">Sleeping Adventurers may be woken by loud noises, nudging and so forth.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="91" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">91</text>
@@ -6375,7 +6375,7 @@
 <text top="479" left="379" width="21" height="15" font="3">4/4 </text>
 <text top="479" left="433" width="3" height="15" font="3"> </text>
 <text top="479" left="487" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="92" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">92</text>
@@ -6472,7 +6472,7 @@
 <text top="726" left="344" width="58" height="15" font="3">1D6 +1D2</text>
 <text top="726" left="431" width="18" height="15" font="3">6/8</text>
 <text top="726" left="496" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="93" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">93</text>
@@ -6574,7 +6574,7 @@
 <text top="755" left="308" width="55" height="15" font="3">1D6+1D6</text>
 <text top="755" left="390" width="53" height="15" font="3">As for Leg</text>
 <text top="755" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="94" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">94</text>
@@ -6627,7 +6627,7 @@
 <text top="803" left="43" width="472" height="15" font="3">form of both. As with the mist transformation, such changes take a Combat Action to perform.</text>
 <text top="833" left="43" width="500" height="15" font="3">Vampires retain all Common Magic and Sorcery known before their transformation. Any Divine </text>
 <text top="849" left="43" width="72" height="15" font="3">Magic is lost. </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="95" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">95</text>
@@ -6732,10 +6732,10 @@
 <text top="835" left="308" width="55" height="15" font="3">1D6+1D4</text>
 <text top="835" left="390" width="63" height="15" font="3">As for Head</text>
 <text top="835" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="96" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="97" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">97</text>
@@ -6842,7 +6842,7 @@
 <text top="847" left="308" width="55" height="15" font="3">1D6+1D4</text>
 <text top="847" left="390" width="53" height="15" font="3">As for Leg</text>
 <text top="847" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="98" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="8">98</text>
@@ -6931,7 +6931,7 @@
 <text top="858" left="212" width="17" height="15" font="3">VL</text>
 <text top="858" left="295" width="145" height="15" font="3">1D10+2D10 As for Head</text>
 <text top="858" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="99" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="8">99</text>
@@ -7025,7 +7025,7 @@
 <text top="696" left="258" width="17" height="15" font="3">VL</text>
 <text top="696" left="357" width="62" height="15" font="3">1D20+2D8</text>
 <text top="696" left="456" width="54" height="15" font="3">As for Tail</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="100" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">100</text>
@@ -7128,7 +7128,7 @@
 <text top="756" left="239" width="106" height="15" font="3">1D6+1D12+ Poison</text>
 <text top="756" left="362" width="54" height="15" font="3">As for Tail</text>
 <text top="756" left="444" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="101" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">101</text>
@@ -7219,11 +7219,11 @@
 <text top="726" left="308" width="55" height="15" font="3">1D3+1D6</text>
 <text top="726" left="390" width="58" height="15" font="3">As for Arm</text>
 <text top="726" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="102" position="absolute" top="0" left="0" height="918" width="594">
 <text top="206" left="43" width="296" height="53" font="9">natural life</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="103" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">103</text>
@@ -7312,7 +7312,7 @@
 <text top="623" left="302" width="55" height="15" font="3">1D8–1D2</text>
 <text top="623" left="385" width="63" height="15" font="3">As for Head</text>
 <text top="623" left="466" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="104" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">104</text>
@@ -7401,7 +7401,7 @@
 <text top="592" left="259" width="62" height="15" font="3">1D6+1D12</text>
 <text top="592" left="345" width="53" height="15" font="3">As for Leg</text>
 <text top="592" left="444" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="105" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">105</text>
@@ -7490,7 +7490,7 @@
 <text top="611" left="308" width="55" height="15" font="3">1D6+2D6</text>
 <text top="611" left="390" width="53" height="15" font="3">As for Leg</text>
 <text top="611" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="106" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">106</text>
@@ -7573,7 +7573,7 @@
 <text top="630" left="245" width="9" height="15" font="3">T</text>
 <text top="630" left="344" width="55" height="15" font="3">1D8+1D2</text>
 <text top="630" left="444" width="63" height="15" font="3">As for Head</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="107" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">107</text>
@@ -7667,7 +7667,7 @@
 <text top="587" left="308" width="55" height="15" font="3">1D6+1D6</text>
 <text top="587" left="390" width="63" height="15" font="3">As for Head</text>
 <text top="587" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="108" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">108</text>
@@ -7760,7 +7760,7 @@
 <text top="671" left="250" width="12" height="15" font="3">M</text>
 <text top="671" left="349" width="55" height="15" font="3">1D3+1D2</text>
 <text top="671" left="448" width="58" height="15" font="3">As for Arm</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="109" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">109</text>
@@ -7844,7 +7844,7 @@
 <text top="618" left="312" width="55" height="15" font="3">1D6+1D6</text>
 <text top="618" left="395" width="63" height="15" font="3">As for Head</text>
 <text top="618" left="477" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="110" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">110</text>
@@ -7930,7 +7930,7 @@
 <text top="650" left="295" width="55" height="15" font="3">1D6–1D6</text>
 <text top="650" left="378" width="63" height="15" font="3">As for Head</text>
 <text top="650" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="111" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">111</text>
@@ -8035,7 +8035,7 @@
 <text top="776" left="225" width="7" height="15" font="3">L</text>
 <text top="776" left="308" width="145" height="15" font="3">1D10+2D12 As for Head</text>
 <text top="776" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="112" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">112</text>
@@ -8126,7 +8126,7 @@
 <text top="645" left="295" width="55" height="15" font="3">1D6+2D6</text>
 <text top="645" left="378" width="58" height="15" font="3">As for Arm</text>
 <text top="645" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="113" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">113</text>
@@ -8210,7 +8210,7 @@
 <text top="694" left="308" width="55" height="15" font="3">1D6–1D8</text>
 <text top="694" left="390" width="18" height="15" font="3">–/2</text>
 <text top="694" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="114" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">114</text>
@@ -8291,7 +8291,7 @@
 <text top="596" left="245" width="12" height="15" font="3">M</text>
 <text top="596" left="344" width="62" height="15" font="3">1D6+1D10</text>
 <text top="596" left="444" width="53" height="15" font="3">As for Leg</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="115" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">115</text>
@@ -8386,7 +8386,7 @@
 <text top="734" left="308" width="55" height="15" font="3">1D6+1D8</text>
 <text top="734" left="390" width="53" height="15" font="3">As for Leg</text>
 <text top="734" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="116" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">116</text>
@@ -8484,7 +8484,7 @@
 <text top="619" left="212" width="7" height="15" font="3">L</text>
 <text top="619" left="295" width="145" height="15" font="3">1D10+3D12 As for Head</text>
 <text top="619" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="117" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">117</text>
@@ -8576,7 +8576,7 @@
 <text top="687" left="312" width="55" height="15" font="3">1D6+1D6</text>
 <text top="687" left="395" width="53" height="15" font="3">As for Leg</text>
 <text top="687" left="477" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="118" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">118</text>
@@ -8669,7 +8669,7 @@
 <text top="656" left="212" width="9" height="15" font="3">T</text>
 <text top="656" left="295" width="96" height="15" font="3">1D12+1D12 —</text>
 <text top="656" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="119" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="8">119</text>
@@ -8748,7 +8748,7 @@
 <text top="596" left="258" width="9" height="15" font="3">T</text>
 <text top="596" left="357" width="68" height="15" font="3">1D10+2D10</text>
 <text top="596" left="456" width="63" height="15" font="3">As for Head</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="120" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">120</text>
@@ -8840,7 +8840,7 @@
 <text top="671" left="212" width="12" height="15" font="3">M</text>
 <text top="671" left="295" width="136" height="15" font="3">1D10+1D12 As for Leg</text>
 <text top="671" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="121" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="18" size="23" family="Times" color="#231f20"/>
@@ -8933,7 +8933,7 @@
 <text top="617" left="225" width="12" height="15" font="3">M</text>
 <text top="617" left="308" width="145" height="15" font="3">1D10+1D12 As for Head</text>
 <text top="617" left="473" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="122" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="8">122</text>
@@ -9027,7 +9027,7 @@
 <text top="739" left="295" width="24" height="15" font="3">1D3</text>
 <text top="739" left="378" width="53" height="15" font="3">As for Leg</text>
 <text top="739" left="460" width="14" height="15" font="3">—</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="123" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="19" size="28" family="Times" color="#231f20"/>
@@ -9050,7 +9050,7 @@
 <text top="562" left="62" width="486" height="15" font="3">to add some high seas action, you can simply and quickly bring over the Open Content rules </text>
 <text top="578" left="58" width="494" height="15" font="3">we produce in, say, Pirates of Legend, knowing that everyone who plays Legend will at least be </text>
 <text top="594" left="239" width="129" height="15" font="3">familiar with those rules.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="124" position="absolute" top="0" left="0" height="918" width="594">
 <text top="21" left="17" width="185" height="13" font="6">OPEN GAME LICENSE Version 1.0a </text>
@@ -9118,7 +9118,7 @@
 <text top="858" left="17" width="334" height="13" font="6">Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. </text>
 <text top="872" left="17" width="314" height="13" font="6">Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd</text>
 <text top="885" left="17" width="299" height="13" font="6">Monsters of Legend, Copyright 2011, Mongoose Publishing Ltd</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3140110)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <outline>
 <item page="1">Contents</item>
@@ -9128,6 +9128,6 @@
 <item page="49">Dinosaurs and reptiles</item>
 <item page="65">Creatures of legend</item>
 <item page="102">Natural life</item>
-<item page="124">OPEN GAME LICENSE</item>
+<item page="124">License</item>
 </outline>
 </pdf2xml>
