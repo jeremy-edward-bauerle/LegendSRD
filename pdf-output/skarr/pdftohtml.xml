@@ -10,7 +10,7 @@
 	<fontspec id="4" size="17" family="Times" color="#ffffff"/>
 	<fontspec id="5" size="7" family="Times" color="#ffffff"/>
 	<fontspec id="6" size="13" family="Times" color="#ffffff"/>
-	<fontspec id="7" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="7" size="10" family="Times" color="#d1d1d1"/>
 <text top="705" left="326" width="72" height="17" font="0">MGP 8310</text>
 <text top="705" left="420" width="64" height="17" font="0">US$19.99</text>
 <text top="514" left="86" width="458" height="17" font="0">Home to over 25,000 rampaging Orcs, Skarr is a city of pure brutality, a place of </text>
@@ -43,7 +43,7 @@
 <text top="776" left="615" width="0" height="16" font="6">f o</text>
 <text top="797" left="615" width="0" height="16" font="6">r</text>
 <text top="806" left="615" width="0" height="16" font="6">cs</text>
-<text top="922" left="635" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="926" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="2" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="8" size="25" family="Times" color="#231f20"/>
@@ -101,7 +101,7 @@
 <text top="34" left="152" width="283" height="79" font="13">cities of</text>
 <text top="107" left="94" width="409" height="96" font="14">LEGEND</text>
 <text top="196" left="142" width="315" height="36" font="15">skarr: city of orcs</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="3" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="16" size="24" family="Times" color="#231f20"/>
@@ -139,7 +139,7 @@
 <text top="737" left="43" width="499" height="15" font="10">sourcebook, ready for Games Masters to use with their players – you now have an entire city of </text>
 <text top="753" left="43" width="127" height="15" font="10">orcs to play with. Enjoy!</text>
 <text top="79" left="196" width="334" height="53" font="18">introduction</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="4" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="16">3</text>
@@ -154,13 +154,13 @@
 <text top="193" left="55" width="500" height="15" font="10">gaming sessions to come and an entire chapter is dedicated to enabling Games Masters to insert </text>
 <text top="209" left="55" width="500" height="15" font="10">Skaar quickly and easily into their existing campaigns. One way or another, few players will ever </text>
 <text top="225" left="55" width="419" height="15" font="10">forget the adventures they endure within an entire city of orcs and their foul kin.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="5" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="6" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="7" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="16">6</text>
@@ -198,7 +198,7 @@
 <text top="830" left="43" width="500" height="15" font="10">mountain, and soon found themselves beset more often with traders and merchants than lost </text>
 <text top="846" left="43" width="127" height="15" font="10">adventurers and rangers.</text>
 <text top="79" left="355" width="175" height="53" font="18">history</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="8" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="16">7</text>
@@ -246,7 +246,7 @@
 <text top="830" left="55" width="500" height="15" font="10">Beset by an endless tide of invaders, the dwarves assigned two regiments to lead the children and </text>
 <text top="847" left="55" width="500" height="15" font="10">elders away from Ironhallow Hall. The ancestors of those who founded the great clan-home were </text>
 <text top="863" left="55" width="423" height="15" font="10">on the move once more but vowed to some day return and enact their vengeance.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="9" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="16">8</text>
@@ -272,7 +272,7 @@
 <text top="797" left="43" width="500" height="15" font="10">The orcs cleaned out the passages of Ironhallow Hall and brought valuables to the outer city for </text>
 <text top="813" left="43" width="500" height="15" font="10">the warlords to admire and squabble over. Great mounds of treasure were scraped from within </text>
 <text top="829" left="43" width="499" height="15" font="10">the  halls. The  stronger  orcs  took  the  best  caverns  for  themselves,  whilst  others  instinctively </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="10" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="16">9</text>
@@ -318,7 +318,7 @@
 <text top="786" left="55" width="500" height="15" font="10">wasted no time in raising their army once more. They told the assembled horde that they must </text>
 <text top="802" left="55" width="500" height="15" font="10">destroy in their god’s name or be destroyed themselves by his vengeance. Something awakened in </text>
 <text top="818" left="55" width="466" height="15" font="10">the orcs that had lain dormant for many years and the horde was on the move once more.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="11" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">10</text>
@@ -347,7 +347,7 @@
 <text top="456" left="43" width="82" height="15" font="10">a time to strike.</text>
 <text top="489" left="43" width="499" height="15" font="10">Thus it stands today, a once proud dwarven outpost reduced to a slop pit for the families of those </text>
 <text top="505" left="43" width="88" height="15" font="10">that destroyed it.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="12" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">11</text>
@@ -387,7 +387,7 @@
 <text top="852" left="55" width="500" height="15" font="10">rule. Their numbers have been augmented by new recruits over the years, even including a half-orc </text>
 <text top="869" left="55" width="466" height="15" font="10">who proved his worth by killing his human mother when she travelled to Skaar to find him.</text>
 <text top="79" left="76" width="315" height="53" font="18">government</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="13" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">12</text>
@@ -437,7 +437,7 @@
 <text top="835" left="43" width="500" height="15" font="10">rely on a cadre of bullies and informants to monitor their affairs. However, he is bound by the </text>
 <text top="851" left="43" width="500" height="15" font="10">warlords to provide a regular guard to Groon, which he does but uses this position to gather </text>
 <text top="867" left="43" width="500" height="15" font="10">information  about  the  City  Master.  He  secretly  tries  to  undermine  Groon’s  rule  but  is  very </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="14" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">13</text>
@@ -479,7 +479,7 @@
 <text top="827" left="55" width="500" height="15" font="10">Tusks do not target businesses with ties to him or his forces and so he has created a number of </text>
 <text top="843" left="55" width="500" height="15" font="10">interests in the city run by orcs retired from his army. By channelling more commercial activity into </text>
 <text top="859" left="55" width="480" height="15" font="10">areas the City Master cannot touch, he forces Groon to siphon less gold to his personal coffers.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="15" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="19" size="16" family="Times" color="#231f20"/>
@@ -523,7 +523,7 @@
 <text top="801" left="43" width="500" height="15" font="10">most often results in time on a work crew, not a good prospect because of the cruelty of the crew </text>
 <text top="818" left="43" width="500" height="15" font="10">masters. Fines are rare because of the relative poverty of the city’s denizens but they can be levied </text>
 <text top="834" left="43" width="432" height="15" font="10">on the spot when it is deemed necessary or when the target is known to be wealthy.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="16" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="21" size="20" family="Times" color="#231f20"/>
@@ -569,7 +569,7 @@
 <text top="288" left="55" width="9" height="15" font="10">• </text>
 <text top="288" left="82" width="473" height="15" font="10">A group of goblin thieves works under the Silver Tusks and pays them a percentage of their </text>
 <text top="304" left="82" width="226" height="15" font="10">take, most of which goes directly to Groon.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="17" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">16</text>
@@ -582,7 +582,7 @@
 <text top="169" left="43" width="500" height="15" font="10">in any great fashion. Groon and the Silver Tusks answer only to their own laws and are free to </text>
 <text top="185" left="43" width="500" height="15" font="10">break these as they wish though Groon does monitor the behaviour of his servants and egregious </text>
 <text top="201" left="43" width="225" height="15" font="10">lawbreakers will be dealt with permanently.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="18" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">17</text>
@@ -623,7 +623,7 @@
 <text top="842" left="55" width="500" height="15" font="10">little as two gold pieces but more likely they would be acquired through the black market at a </text>
 <text top="858" left="55" width="176" height="15" font="10">cost of six to ten gold pieces each.</text>
 <text top="77" left="55" width="209" height="53" font="18">ecology</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="19" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">18</text>
@@ -664,7 +664,7 @@
 <text top="701" left="43" width="500" height="15" font="10">scrutiny and control of Cylus Groon and his Silver Tusks, and must face the ever-present danger </text>
 <text top="717" left="43" width="500" height="15" font="10">and annoyance of heavy storms, animal attacks and even raids. Less than a dozen structures were </text>
 <text top="733" left="43" width="404" height="15" font="10">spared the torch during the battle in which the orcs won control over the city.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="20" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">19</text>
@@ -701,7 +701,7 @@
 <text top="805" left="55" width="500" height="15" font="10">discards and garbage of others. You need never spend money on food and drink. In addition, </text>
 <text top="821" left="55" width="440" height="15" font="10">given a week, you can acquire any mundane item worth 5 gold pieces or less for free.</text>
 <text top="78" left="55" width="210" height="53" font="18">daily life</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="21" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">20</text>
@@ -737,7 +737,7 @@
 <text top="551" left="43" width="500" height="15" font="10">no established thieves’ guild in the city of Skaar but there is a group of goblins who live together </text>
 <text top="567" left="43" width="500" height="15" font="10">and co-ordinate their efforts. Whilst not officially a guild, this organisation has made them far </text>
 <text top="583" left="43" width="315" height="15" font="10">more successful than their more individualistic counterparts.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="22" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">21</text>
@@ -765,7 +765,7 @@
 <text top="405" left="55" width="500" height="15" font="10">the loser breaks a bone, goes unconscious or dies the game continues. Outside observers of this </text>
 <text top="421" left="55" width="500" height="15" font="10">brutal pastime use it to justify the destruction of the orc race, citing the violence of even the </text>
 <text top="437" left="55" width="284" height="15" font="10">children as proof that the race entire is evil to the core.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="23" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">22</text>
@@ -803,7 +803,7 @@
 <text top="772" left="42" width="500" height="15" font="10">beneath, a position he utilises to the greatest advantage. As there is no real private land ownership </text>
 <text top="788" left="42" width="500" height="15" font="10">in Skaar, acquiring prime real estate necessitates dealing with Groon. Those that find themselves </text>
 <text top="78" left="275" width="255" height="53" font="18">commerce</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="24" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">23</text>
@@ -821,7 +821,7 @@
 <text top="227" left="55" width="500" height="15" font="10">The Field is also one of the few safe places in Skaar for foreigners, if they can even reach the </text>
 <text top="243" left="55" width="500" height="15" font="10">cavern, which lies deep within the city’s core. Anything goes in this wild and rowdy place and pit </text>
 <text top="259" left="55" width="312" height="15" font="10">fights arranged therein would be reviled in any civilised city.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="25" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">24</text>
@@ -857,7 +857,7 @@
 <text top="813" left="43" width="500" height="15" font="10">and even when they must be administered by his brute squads are in no way fatal or even harmful </text>
 <text top="829" left="43" width="191" height="15" font="10">beyond a few bruises and some pain.</text>
 <text top="84" left="167" width="363" height="53" font="18">skaar religion</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="26" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">25</text>
@@ -900,7 +900,7 @@
 <text top="804" left="55" width="500" height="15" font="10">this with the phrase ‘Alodai thanks you’, and then move on to the next circle. Staying in a circle </text>
 <text top="820" left="55" width="500" height="15" font="10">too long elicits suspicion from the priests; either the orc has done something terribly wrong or </text>
 <text top="837" left="55" width="217" height="15" font="10">he enjoys the thumping a little too much.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="27" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">26</text>
@@ -938,7 +938,7 @@
 <text top="709" left="43" width="500" height="15" font="10">just to the west of the Shrine of Circles. It is said that when the fires die out on holy celebrations </text>
 <text top="725" left="43" width="500" height="15" font="10">and orcs lie drunk and gorged in the streets and alleys of the Hearth Plain, the Mended Ones </text>
 <text top="741" left="43" width="402" height="15" font="10">walk through the celebration claiming the service of orcs who catch their eye.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="28" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">27</text>
@@ -966,7 +966,7 @@
 <text top="507" left="55" width="500" height="15" font="10">The Frigid Belly: Helping to conserve the always strained resources of the city, the followers of </text>
 <text top="523" left="55" width="500" height="15" font="10">Alodai fast at the midpoint of winter. This is the least followed ritual of the five holy days as it is </text>
 <text top="540" left="55" width="311" height="15" font="10">difficult to keep an orc’s stomach from dictating his actions.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="29" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">28</text>
@@ -1015,7 +1015,7 @@
 <text top="837" left="43" width="500" height="15" font="10">The fundamental belief of this cult is that Alodai did not survive his confrontation with the demon </text>
 <text top="853" left="43" width="500" height="15" font="10">lord Kharkus. Rather, Kharkus killed the god during their battle and now inhabits his body, ruling </text>
 <text top="869" left="43" width="499" height="15" font="10">both his own minions and those of the dead god. The fact that their priests are unable to cast spells </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="30" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">29</text>
@@ -1062,7 +1062,7 @@
 <text top="809" left="55" width="500" height="15" font="10">You can gain 1d6-1 temporary POW by sacrificing any living creature through ritual, the effects </text>
 <text top="826" left="55" width="500" height="15" font="10">of which vanish at the sunrise on the following day. Additionally, you may communicate with the </text>
 <text top="842" left="55" width="490" height="15" font="10">demonic minions of Kharkus once per day, getting dark and sinister answers to your inquiries.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="31" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">30</text>
@@ -1100,7 +1100,7 @@
 <text top="610" left="43" width="500" height="15" font="10">said as he held out a silver tray full of black gems. ‘We just got them today, bathed in blood as </text>
 <text top="626" left="43" width="78" height="15" font="10">you like them.’</text>
 <text top="659" left="43" width="298" height="15" font="10">‘Hmmm… Where is the initiate then?’ asked the demon.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="32" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">31</text>
@@ -1147,7 +1147,7 @@
 <text top="334" left="55" width="500" height="15" font="10">Lake Zombies are summoned and created using a corrupt version of the <i>Resurrection</i> spell upon </text>
 <text top="351" left="55" width="500" height="15" font="10">a recently drowned victim that has a single grain of Lake Craddush’s sand placed in each eye. </text>
 <text top="367" left="55" width="371" height="15" font="10">Otherwise, they are the same as the <i>Zombie</i> entry in <i>Monsters of Legend</i>.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="33" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">32</text>
@@ -1186,7 +1186,7 @@
 <text top="683" left="43" width="500" height="15" font="10">in fact reside there. Lake Craddush was formed when a powerful spell sealed an open portal to </text>
 <text top="699" left="43" width="500" height="15" font="10">the watery hell where the god resided, trapping the Asphibyiex in the material world and he has </text>
 <text top="715" left="43" width="122" height="15" font="10">dwelled here ever since.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="34" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">33</text>
@@ -1230,7 +1230,7 @@
 <text top="704" left="55" width="500" height="15" font="10">Akrilla still lives deep in a swamp at the base of the Hearth Plain, continuing her study of divination </text>
 <text top="720" left="55" width="104" height="15" font="10">and potion brewing.</text>
 <text top="736" left="55" width="3" height="15" font="10"> </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="35" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">34</text>
@@ -1270,7 +1270,7 @@
 <text top="852" left="43" width="500" height="15" font="10">stepped up to prove his worth to the aspiring shaman and some believe the shaman aspires to </text>
 <text top="868" left="43" width="298" height="15" font="10">become a warlord herself, a feat unheard of in orc society.</text>
 <text top="84" left="323" width="207" height="53" font="18">defences</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="36" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">35</text>
@@ -1320,10 +1320,10 @@
 <text top="826" left="55" width="164" height="15" font="20"><b>Auxiliary Troops:</b> 160 goblins.</text>
 <text top="842" left="55" width="499" height="15" font="20"><b>Plots and Intrigues:</b> Schuul has the weakest personality of any of the warlords and most assume </text>
 <text top="859" left="55" width="500" height="15" font="10">that his troops are actually controlled by the shaman Sharrik. In his laziness, Schuul has failed to </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="37" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="38" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">37</text>
@@ -1372,7 +1372,7 @@
 <text top="798" left="55" width="500" height="15" font="10">city have an adverse effect on these defences and so require near constant attention. The warlord’s </text>
 <text top="814" left="55" width="500" height="15" font="10">effort to keep these defences in high standard has paid off for Skaar, which has never had to repel </text>
 <text top="830" left="55" width="152" height="15" font="10">an invasion from the outside.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="39" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">38</text>
@@ -1417,7 +1417,7 @@
 <text top="804" left="43" width="499" height="15" font="10">These creatures line up on either end of the sled and are only given half cover from attacks. Trolls </text>
 <text top="820" left="43" width="500" height="15" font="10">make excellent choices as they are hard to bring down with normal missile fire and are strong </text>
 <text top="836" left="43" width="465" height="15" font="10">enough to push the sleds for over a mile over rough ground without resting. <i>Cost: 450 gp.</i></text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="40" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">39</text>
@@ -1463,7 +1463,7 @@
 <text top="809" left="55" width="317" height="15" font="20"><b>Common Magic – </b><i>Bestial Enhancement</i>, <i>Fanaticism</i>, <i>Strength</i></text>
 <text top="826" left="55" width="206" height="15" font="20"><b>Divine Magic – </b><i>Berserk</i>, <i>True (Weapon)</i></text>
 <text top="842" left="55" width="265" height="15" font="20"><b>Sorcery – </b><i>Damage Enhancement, Regenerate</i>, <i>Wrack</i></text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="41" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">40</text>
@@ -1511,7 +1511,7 @@
 <text top="795" left="43" width="499" height="15" font="10">suspicious trail or item. Aware their darkvision is not the advantage down here that it is on the </text>
 <text top="812" left="43" width="500" height="15" font="10">surface, the Lake Guard carry numerous light sources in the hope the cave dwelling creatures </text>
 <text top="828" left="43" width="273" height="15" font="10">they encounter will be more irritated by it than they.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="42" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">41</text>
@@ -1526,7 +1526,7 @@
 <text top="162" left="55" width="500" height="15" font="10">usually limited and hidden. The disciples of the Asphyibyiex have actually convinced Bosh that </text>
 <text top="178" left="55" width="499" height="15" font="10">drowning is an appropriate punishment for such a crime and they happily collect the bodies of </text>
 <text top="194" left="55" width="179" height="15" font="10">such victims to use in their rituals.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="43" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">42</text>
@@ -1567,7 +1567,7 @@
 <text top="849" left="43" width="500" height="15" font="10">to add to his riches and power. The deepest rooms are his private sanctum, guarded by layers of </text>
 <text top="865" left="43" width="500" height="15" font="10">traps and loyal minions, while the middle rooms near the surface hold much of his accumulated </text>
 <text top="84" left="127" width="403" height="53" font="18">tour of the city</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="44" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">43</text>
@@ -1615,7 +1615,7 @@
 <text top="830" left="55" width="500" height="15" font="10">and are accessible by stairs that hug the building’s outer walls. Although the Mended Ones have </text>
 <text top="847" left="55" width="500" height="15" font="10">servants that attend to their needs, they are never seen on these balconies, which are considered </text>
 <text top="863" left="55" width="427" height="15" font="10">the private areas of the individual priests and off limits to all uninvited trespassers.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="45" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">44</text>
@@ -1658,7 +1658,7 @@
 <text top="731" left="43" width="500" height="15" font="10">managed to carve out a decent living merely by trading here in the market. His wooden stand </text>
 <text top="748" left="43" width="499" height="15" font="10">deals mainly with tools and other items for everyday living but as with everything in Skaar his </text>
 <text top="764" left="43" width="130" height="15" font="10">success has a hidden tale.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="46" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">45</text>
@@ -1754,7 +1754,7 @@
 <text top="700" left="191" width="78" height="15" font="10">1D4 electricity</text>
 <text top="729" left="55" width="500" height="15" font="10">Notes: Flaggs can only use their Shock attack once every other Combat Action. It ignores AP </text>
 <text top="745" left="55" width="296" height="15" font="10">from metallic forms of protection and has a range of 2m.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="47" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">46</text>
@@ -1803,7 +1803,7 @@
 <text top="829" left="43" width="500" height="15" font="10">The Choked Pit serves all types of drinks as they are available. The horde’s raiding parties ensure </text>
 <text top="845" left="43" width="500" height="15" font="10">a constant flow of ale and wine into the city and a good portion of it ends up in the private cellars </text>
 <text top="861" left="43" width="500" height="15" font="10">of the Choked Pit. The tavern’s speciality, as one might expect, is grokk. They make their own </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="48" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">47</text>
@@ -1848,7 +1848,7 @@
 <text top="797" left="55" width="500" height="15" font="10">occasionally the orcs find something more exotic such as a captured centaur. A particularly nasty </text>
 <text top="813" left="55" width="500" height="15" font="10">match that is a true orc favourite places several gladiators in a wooden ring into which several </text>
 <text top="829" left="55" width="173" height="15" font="10">sacks of ravenous rats are poured.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="49" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">48</text>
@@ -1897,7 +1897,7 @@
 <text top="830" left="43" width="499" height="15" font="10">As one might expect, orcs that spend time in these caves are the object of ridicule and bullying </text>
 <text top="847" left="43" width="500" height="15" font="10">by a majority of Skaar’s population. Because of this, the community of artists has become a close </text>
 <text top="863" left="43" width="500" height="15" font="10">knit group, aiding one another and living a communal lifestyle within these caves. They return </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="50" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">49</text>
@@ -1947,7 +1947,7 @@
 <text top="830" left="55" width="499" height="15" font="10">made the agreement with Cylus Groon 25 years ago and is a cunning hobgoblin who leverages </text>
 <text top="847" left="55" width="500" height="15" font="10">his relationship with Groon to its fullest potential, granting him privileges of movement and </text>
 <text top="863" left="55" width="500" height="15" font="10">protection not enjoyed by any other outsider. He often travels around the city with a powerful </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="51" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">50</text>
@@ -1993,7 +1993,7 @@
 <text top="804" left="43" width="155" height="31" font="8">Lake Craddush</text>
 <text top="835" left="43" width="500" height="15" font="10">This enormous underground lake once fed an entire ecosystem beneath the Hearth Plain but </text>
 <text top="851" left="43" width="500" height="15" font="10">since the dwarves claimed Ironhallow several hundred years ago, it has been a tightly controlled </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="52" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">51</text>
@@ -2036,7 +2036,7 @@
 <text top="768" left="55" width="500" height="15" font="10">but if left unattended, once again try to walk back into the lake. Furthermore, a Resilience Skill </text>
 <text top="784" left="55" width="500" height="15" font="10">Test must be made each day or one point of temporary CON damage will be dealt as their lungs </text>
 <text top="800" left="55" width="417" height="15" font="10">fill with fluid, until two consecutive tests are made or magical healing is applied.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="53" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">52</text>
@@ -2083,7 +2083,7 @@
 <text top="817" left="43" width="500" height="15" font="10">Warriors of the Nine have a heavily guarded cavern from which they call upon their ancestral </text>
 <text top="833" left="43" width="500" height="15" font="10">images to scout their next mission. These warriors are the spiritual leaders of the resistance and </text>
 <text top="849" left="43" width="303" height="15" font="10">others naturally look to them for command and direction.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="54" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">53</text>
@@ -2126,7 +2126,7 @@
 <text top="695" left="55" width="500" height="15" font="10">the years from dealing with these dangerous creatures, although the wardog trainer views these as </text>
 <text top="711" left="55" width="500" height="15" font="10">marks of pride rather than regrettable mementoes of training gone bad. The wardog training area </text>
 <text top="727" left="55" width="469" height="15" font="10">is double fenced, an extra precaution taken by the nervous orcs in the horde encampment.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="55" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">54</text>
@@ -2204,7 +2204,7 @@
 <text top="423" left="45" width="27" height="15" font="10">Claw</text>
 <text top="423" left="127" width="25" height="15" font="10">40%</text>
 <text top="423" left="253" width="55" height="15" font="10">1D6+1D2</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="56" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">55</text>
@@ -2232,7 +2232,7 @@
 <text top="608" left="55" width="500" height="15" font="10">allow  a  Games  Master  to  portray  such  encounters  quickly  and  easily,  with  the  minimum  of </text>
 <text top="624" left="55" width="63" height="15" font="10">preparation.</text>
 <text top="84" left="55" width="489" height="53" font="18">movers and shakers</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="57" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">56</text>
@@ -2332,10 +2332,10 @@
 <text top="688" left="461" width="18" height="15" font="10">4/8</text>
 <text top="717" left="43" width="90" height="16" font="9">Combat Styles</text>
 <text top="735" left="43" width="378" height="15" font="10">Battleaxe 110%, Bow 105%, Spear and Shield 96%, Thrown Spear 86%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="58" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="59" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">58</text>
@@ -2424,10 +2424,10 @@
 <text top="674" left="484" width="18" height="15" font="10">4/5</text>
 <text top="703" left="43" width="90" height="16" font="9">Combat Styles</text>
 <text top="721" left="43" width="220" height="15" font="10">Axe 90%, Spear 78%, Thrown Spear 62%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="60" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="61" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">60</text>
@@ -2524,10 +2524,10 @@
 <text top="672" left="471" width="18" height="15" font="10">4/8</text>
 <text top="701" left="43" width="90" height="16" font="9">Combat Styles</text>
 <text top="719" left="43" width="243" height="15" font="10">Battleaxe 91%, Bow 95%, Thrown Spear 76%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="62" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="63" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">62</text>
@@ -2628,10 +2628,10 @@
 <text top="672" left="479" width="25" height="15" font="10">4/10</text>
 <text top="701" left="43" width="90" height="16" font="9">Combat Styles</text>
 <text top="718" left="43" width="290" height="15" font="10">1H Sword 70%, Crossbow 85%, Spear and Shield 72%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="64" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="65" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">64</text>
@@ -2728,10 +2728,10 @@
 <text top="688" left="477" width="18" height="15" font="10">4/8</text>
 <text top="718" left="43" width="90" height="16" font="9">Combat Styles</text>
 <text top="735" left="43" width="297" height="15" font="10">Dagger 64%, Bow 72%, Spear 64%, Thrown Spear 40%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="66" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="67" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">66</text>
@@ -2817,10 +2817,10 @@
 <text top="644" left="458" width="18" height="15" font="10">4/6</text>
 <text top="689" left="43" width="90" height="16" font="9">Combat Styles</text>
 <text top="707" left="43" width="82" height="15" font="10">1H Sword 70%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="68" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="69" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">68</text>
@@ -2919,10 +2919,10 @@
 <text top="620" left="485" width="18" height="15" font="10">4/8</text>
 <text top="649" left="43" width="90" height="16" font="9">Combat Styles</text>
 <text top="666" left="43" width="256" height="15" font="10">Battleaxe 90%, Bow 75%, Spear and Shield 66%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="70" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="71" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">70</text>
@@ -3010,10 +3010,10 @@
 <text top="626" left="260" width="29" height="15" font="10">Huge</text>
 <text top="626" left="394" width="36" height="15" font="10">Impale</text>
 <text top="626" left="474" width="18" height="15" font="10">4/8</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="72" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="73" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">72</text>
@@ -3110,10 +3110,10 @@
 <text top="808" left="43" width="500" height="15" font="10">the most powerful of them. As his power and that of his followers grows, he once again dreams </text>
 <text top="824" left="43" width="500" height="15" font="10">of usurping Alodai’s power but this time he is liable to recruit tens of thousands of his followers </text>
 <text top="840" left="43" width="216" height="15" font="10">to wage war in the material world as well.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="74" position="absolute" top="0" left="0" height="918" width="594">
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="75" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">74</text>
@@ -3218,7 +3218,7 @@
 <text top="774" left="43" width="111" height="15" font="10">demons in some way.</text>
 <text top="807" left="43" width="90" height="16" font="9">Combat Styles</text>
 <text top="825" left="43" width="184" height="15" font="10">Whip 95%, Natural Weapons 80%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="76" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">75</text>
@@ -3283,7 +3283,7 @@
 <text top="795" left="55" width="500" height="15" font="10">28%, Evade 33%, Evaluate 40%, First Aid 25%, Influence 28%, Insight 32%, Lore (Regional) </text>
 <text top="811" left="55" width="500" height="15" font="10">35%, Perception 40%, Persistence 30%, Resilience 45%, Riding 33%, Sing 22%, Sleight 30%, </text>
 <text top="828" left="55" width="213" height="15" font="10">Stealth 32%, Swim 36%, Unarmed 44%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="77" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">76</text>
@@ -3382,7 +3382,7 @@
 <text top="814" left="43" width="500" height="15" font="10">32%, Evade 33%, Evaluate 40%, First Aid 30%, Influence 34%, Insight 32%, Lore (Regional) </text>
 <text top="830" left="43" width="500" height="15" font="10">40%, Perception 40%, Persistence 35%, Resilience 55%, Riding 38%, Sing 22%, Sleight 30%, </text>
 <text top="846" left="43" width="213" height="15" font="10">Stealth 28%, Swim 36%, Unarmed 52%</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="78" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="22" size="19" family="Times" color="#231f20"/>
@@ -3445,7 +3445,7 @@
 <text top="740" left="55" width="191" height="15" font="10">as a full member of the organisation.</text>
 <text top="772" left="55" width="500" height="15" font="10">There are currently 18 Silver Tusks in Skaar and their number has never risen above four dozen </text>
 <text top="788" left="55" width="500" height="15" font="10">for Groon prefers to keep the group small so he can manage their loyalty and operations more </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="79" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">78</text>
@@ -3552,7 +3552,7 @@
 <text top="746" left="43" width="304" height="15" font="10">1H Sword 65%, Axe 50%, Bow 45%, Thrown Spear 40%</text>
 <text top="779" left="43" width="93" height="16" font="9">Heroic Abilities</text>
 <text top="796" left="43" width="32" height="15" font="10">Brutal</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="80" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="23" size="40" family="Times" color="#231f20"/>
@@ -3593,7 +3593,7 @@
 <text top="842" left="55" width="500" height="15" font="10">do the same. Tracking small groups of orcs and cutting their supply lines when possible will be </text>
 <text top="858" left="55" width="500" height="15" font="10">key  strategies.  Guerrilla  tactics  should  be  favoured  over  brute  force  in  this  type  of  campaign </text>
 <text top="90" left="50" width="502" height="46" font="23">skaar in your campaign</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="81" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">80</text>
@@ -3641,7 +3641,7 @@
 <text top="821" left="43" width="500" height="15" font="10">there is an isolated orc warlord who currently holds the information on the mines and he has </text>
 <text top="837" left="43" width="500" height="15" font="10">not sent this information to any of the other orc leaders for fear of losing out on his rightful </text>
 <text top="853" left="43" width="500" height="15" font="10">share.  If  the  Adventurers  can  locate  this  warlord  and  destroy  him  before  he  reveals  what  he </text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="82" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">81</text>
@@ -3688,7 +3688,7 @@
 <text top="799" left="55" width="500" height="15" font="10">with a little foresight the Adventurers should never be wanting for adventuring gear or magic. </text>
 <text top="815" left="55" width="500" height="15" font="10">Once  they  enter  the  caves  of  Dran  Hannar  things  may  get  a  little  tougher  but  replenishing </text>
 <text top="832" left="55" width="345" height="15" font="10">supplies under the surface may not be as difficult as it first sounds.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="83" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="16">82</text>
@@ -3733,7 +3733,7 @@
 <text top="734" left="43" width="500" height="15" font="10">Adventurers will be dwarves, fighting for the resistance in their quest to restore Ironhallow Hall </text>
 <text top="751" left="43" width="499" height="15" font="10">to its former glory. There is room for other races, save half-orcs, as the dwarves may have help </text>
 <text top="767" left="43" width="147" height="15" font="10">from many strange quarters.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="84" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="16">83</text>
@@ -3761,7 +3761,7 @@
 <text top="421" left="55" width="500" height="15" font="10">very old goods made of white steel. Eventually they come to the hidden mines but find them </text>
 <text top="437" left="55" width="500" height="15" font="10">guarded by an ancient and legendary beast. They must face their most dire challenge to give their </text>
 <text top="454" left="55" width="212" height="15" font="10">people the greatest treasure of all – hope.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="85" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="24" size="36" family="Times" color="#231f20"/>
@@ -3779,7 +3779,7 @@
 <text top="487" left="315" width="85" height="15" font="10">£34.99 / $49.99</text>
 <text top="504" left="337" width="64" height="15" font="10">MGP10000</text>
 <text top="520" left="254" width="146" height="15" font="10">Author: Lawrence Whitaker</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="86" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="25" size="28" family="Times" color="#231f20"/>
@@ -3802,7 +3802,7 @@
 <text top="563" left="65" width="486" height="15" font="10">to add some high seas action, you can simply and quickly bring over the Open Content rules </text>
 <text top="579" left="69" width="479" height="15" font="10">we produce in, say, Pirates of Legend, knowing that everyone who plays Legend will at least </text>
 <text top="595" left="235" width="145" height="15" font="10">be familiar with those rules.</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="87" position="absolute" top="0" left="0" height="918" width="594">
 <text top="17" left="24" width="185" height="13" font="12">OPEN GAME LICENSE Version 1.0a </text>
@@ -3870,7 +3870,7 @@
 <text top="854" left="24" width="334" height="13" font="12">Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. </text>
 <text top="867" left="24" width="314" height="13" font="12">Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd</text>
 <text top="881" left="24" width="381" height="13" font="12">Cities of Legend - Skarr: City of Orcs, Copyright 2012, Mongoose Publishing Ltd</text>
-<text top="908" left="2" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="899" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="88" position="absolute" top="0" left="0" height="945" width="1238">
 <text top="705" left="326" width="72" height="17" font="0">MGP 8310</text>
@@ -3905,7 +3905,7 @@
 <text top="776" left="615" width="0" height="16" font="6">f o</text>
 <text top="797" left="615" width="0" height="16" font="6">r</text>
 <text top="806" left="615" width="0" height="16" font="6">cs</text>
-<text top="918" left="19" width="163" height="11" font="7">Alex Greene (order #3583073)</text>
+<text top="926" left="6" width="180" height="13" font="7">Jeremy Bauerle (order #6303863)</text>
 </page>
 <outline>
 <item page="2">Contents</item>
