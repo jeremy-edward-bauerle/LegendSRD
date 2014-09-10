@@ -15,7 +15,7 @@ takes is imagination.
 
 MGP 8300 US$19.99
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 LegendLegendLEGEND
 
@@ -117,7 +117,7 @@ Document are considered to be Open Game Content.  All other significant characte
 
 art and text herein are copyrighted by Mongoose Publishing.  All rights reserved.  Printed in USA
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 welcome to legend
 
@@ -159,7 +159,7 @@ adaptable and its intuitive rules mean that creating new rules or changing exist
 support an individual style of play or a particular setting, is easy to do and accommodate.
 
 2
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Forge your own Legend
 
@@ -195,11 +195,11 @@ rules, may prove useful at a later stage – but are by no means essential to en
 You are also directed to the Mongoose website for additional downloads, such as an Adventurer 
 sheet and notes for converting RuneQuest II material to work with Legend.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 3
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 adventurer creation
 
@@ -245,7 +245,7 @@ they are experienced in using, equipment they carry and other pertinent informat
 Adventurer in the here and now. These elements are introduced at the appropriate points in the 
 Adventurer Creation process and later in this book.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 5
 
@@ -300,7 +300,7 @@ and damage bonus. Human SIZ cannot naturally be higher than 21. If SIZ is reduce
 results in death.
 
 6
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Intelligence (INT)
 INT  represents  an  Adventurer’s  capacity  for  learning,  rationalising  and  analysis.  It  is  less  a 
@@ -351,7 +351,7 @@ Random Roll, In Order
 Roll 3D6 for STR, CON, POW, DEX and CHA taking each dice roll result as it comes. For 
 INT and SIZ roll 2D6+6 again, taking the rolled results.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 7
 
@@ -405,7 +405,7 @@ scores. Attributes represent capabilities that the Adventurer draws upon during 
 resolve certain actions and outcomes. The attributes are as follows:
 
 8
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric the Brave – An Example Adventurer
 
@@ -452,7 +452,7 @@ Adventurers  frequently  get  into  fights  –  from  bar-room  brawls,  throug
 tense melees with vile monsters and up to pitched battles in the midst of a war surrounded by 
 thousands of comrades. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 9
 
@@ -509,7 +509,7 @@ STR + SIZ
 91–100
 
 10
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Damage Modifier
 –1D8
@@ -554,20 +554,20 @@ per Location table.
 Hit Points per Location
 
 CON + SIZ
-6–10
 1–5
 Location
-2
-1
+6–10
 Each Leg
+1
+2
+Abdomen
 2
 3
-Abdomen
-4
 Chest
 3
-1
+4
 Each Arm 1
+1
 Head
 1
 2
@@ -634,7 +634,7 @@ Improvement Roll Modifier
 At the end of a Legend story, Adventurers are given the opportunity to improve their Adventurer’s 
 skills and Characteristics. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 11
 
@@ -688,7 +688,7 @@ acts is defined by Strike Rank. Strike Rank is described in more detail in the C
 but essentially, the higher an Adventurer’s Strike Rank the quicker he acts in a Combat Round.
 
 12
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Strike Rank is based on two components and is calculated as follows:
 
@@ -742,7 +742,7 @@ she is at wielding two shortswords. All Close Combat and Ranged Combat Styles st
 basic percentages listed in the following table but are tracked separately and do not automatically 
 appear in the Common Skills section of the Legend Adventurer Sheet. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 13
 
@@ -819,7 +819,7 @@ Bear in mind that these are Alaric’s starting skill values reflecting his natu
 many of these areas will improve as the Adventurer Creation process continues.
 
 14
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Previous Experience
 The  next  stage  of  creating  an  Adventurer  is  to  determine  their  Adventurer’s  previous 
@@ -870,11 +870,11 @@ the sheet. In many cases a Cultural Background lists a range of skills and invit
 one, or more, that will gain a bonus: in this way players from the same Cultural Background can 
 ensure that their Adventurers are different in the areas they have developed.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 15
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Barbarian
 Tribal in nature, barbarians tend to shun civilisation, viewing those who live in towns and cities 
@@ -961,8 +961,6 @@ Rapier, Spear and
 Shield, Spear, Sword 
 and Shield
 
-186.204.39.123
-
 Starting Money
 Civilised 
 Adventurers begin 
@@ -988,6 +986,8 @@ Language (any), Lore
 (any), Mechanisms, 
 Play Instrument, 
 Streetwise
+
+Jeremy Bauerle (order #5555197)
 
 17
 
@@ -1093,7 +1093,7 @@ with 4D6 x10
 Silver Pieces.
 
 18
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric’s Tale
 The campaign Alaric will be joining is set in a fantasy setting of the Game Master’s creation, called the 
@@ -1141,7 +1141,7 @@ background chosen in the previous stage of Previous Experience. Like the cultura
 the profession offers bonuses to Common Skills and access to new Advanced Skills. These are 
 applied to the Adventurer Sheet immediately.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 19
 
@@ -1256,7 +1256,7 @@ Engineering,
 Mechanisms
 
 20
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Profession
 Diplomat
@@ -1367,7 +1367,7 @@ Language (Other),
 Lore (Logistics), 
 Shiphandling
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 21
 
@@ -1508,7 +1508,7 @@ Mechanisms,
 Streetwise
 
 22
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Profession
 Tracker
@@ -1597,7 +1597,7 @@ it would cost 10 Skill Points to buy the skill at its basic, Characteristic valu
 INT+CON, making it 23% – and Alaric would not be able to spend more than an additional 20 
 points on it meaning that, if he chose to raise it, the maximum it could be would be 43%.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 23
 
@@ -1653,7 +1653,7 @@ Alaric is now ready to move
 onto the third stage of Previous 
 Experience.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric’s Tale
 Alaric chooses to spend his 250 Free Skill Points in the following way:
@@ -1758,7 +1758,7 @@ of reasons now or in the future.
 Roll 1D100 on each column of the Family Ties Table to determine the parental status, number 
 of siblings and what the general, extended family structure is like.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 25
 
@@ -1939,7 +1939,7 @@ parent’s side
 parent’s side
 
 26
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 For large families it is recommended that details be left deliberately vague. Part of the fun is 
 introducing that roguish or well-connected uncle or cousin at strategic points in a campaign or 
@@ -2023,7 +2023,7 @@ may roll 1D3–1, giving a result of between 0 and 2 children, about right for A
 these kinds of cultures and starting ages. The age of any children will be, again, 1D3–1, with 
 a result of 0 indicating a new-born.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 27
 
@@ -2084,7 +2084,7 @@ ignored all together. Establishing the background events to an Adventurer’s li
 rewarding and provide the fuel for countless future adventures, if the Games Master desires it.
 
 28
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric’s Tale
 It was determined that Alaric has an Ally and a Contact. He decides to make the Ally his father’s 
@@ -2132,7 +2132,7 @@ a +10% bonus to any skill, Common, Advanced, Combat or Magical, gained so far. A
 may gain a maximum of two such bonuses from this rule and each connection must be with a 
 different Adventurer.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 29
 
@@ -2216,7 +2216,7 @@ adoptive guardians.
 38
 
 30
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 1D100 Event
 39–40
@@ -2245,8 +2245,8 @@ Kidnapped and/or indentured by a powerful sorcerer who needed an apprentice.
 Kidnapped or press-ganged into military service.
 Last Will. Adventurer is on a quest to fulfil the dying wish of a relative or loved 
 one.
-Local Coward. Well-known in local community for a particularly unheroic deed.
 52
+Local Coward. Well-known in local community for a particularly unheroic deed.
 53–54
 Local Hero. Well-known in local community for a particularly heroic deed.
 55–56 Major Wound – Adventurer suffered a major wound as a child that leaves a 
@@ -2294,7 +2294,7 @@ Pioneers. Family moved to a new country as settlers, refugees or pioneers.
 
 71–72
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 31
 
@@ -2361,7 +2361,7 @@ Roll again and take both events.
 Roll twice more and take all events.
 
 32
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Players are encouraged to explore and embellish upon a rolled event. For example, how could 
 two different Adventurers both have a connection through the ‘Mute’ event? In this case, one 
@@ -2410,7 +2410,7 @@ Magnitude 3 spells.
 The  skills  used  for  Divine  Magic  and  Sorcery,  and  the  way  each  works,  are  detailed  in  the 
 appropriate magical chapter and the Skills chapter
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 33
 
@@ -2513,7 +2513,7 @@ in  the  Cults  chapter.  Players  choosing  these  Professions  may  therefore 
 Members of a divine cult or sorcery order, appropriate to the Adventurer’s background.
 
 34
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Equipment
 The  Equipment  chapter  has  an  extensive  list  of  items  Adventurers  can  purchase  but  all 
@@ -2561,7 +2561,7 @@ He casts all four of these spells at his Common Magic skill of 34%.
 Equipment he will decide upon later but all the essential components for Alaric are in place. His 
 completed Adventurer sheet is shown overleaf.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 35
 
@@ -2837,7 +2837,7 @@ L       S             1 d4           6
 
 Damage
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 HP
     5 
@@ -2939,10 +2939,6 @@ Dedicated POW:
 
 Gifts/Compulsions:
 
-Lightning Strike, Bless (Spear 
-& Shield), Shield, Channel 
-Strength
-
 Pact
 
 Lore
@@ -2952,12 +2948,16 @@ Lore
 
 Divine Spells:
 
-Spear fighting, Lore (The Thunderer), Evade, 
-Perception and Common Magic
+Lightning Strike, Bless (Spear 
+& Shield), Shield, Channel 
+Strength
 
 Cult Skills:
 
-186.204.39.123
+Spear fighting, Lore (The Thunderer), Evade, 
+Perception and Common Magic
+
+Jeremy Bauerle (order #5555197)
 
 skills
 
@@ -3007,7 +3007,7 @@ field whilst being pursued by bandits is an instance where a Ride roll is called
 make horseshoes with poor quality implements or a Skill Tests of resources is another.
 
 38
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 The watchword is circumstance. The Games Master is the best judge as to whether the conditions 
 and circumstances warrant a Skill Test. An Adventurer might not need to make a Perception test 
@@ -3036,12 +3036,12 @@ Time Taken
 Difficulty
 Very Easy
 Ten times normal time
-Five times normal time
 Easy
+Five times normal time
 Double normal time
 Simple
-Normal time
 Routine
+Normal time
 Difficult
 —
 Half normal time
@@ -3077,7 +3077,7 @@ made secretly by the Games Master then it becomes easier to build an air of susp
 tension as the Adventurer makes his attempts to bypass the guild’s members as he wanders 
 into the guild buildings.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 39
 
@@ -3168,7 +3168,7 @@ success. Likewise if an Adventurer has a bonus to the Skill Test, it will increa
 critical success chance.
 
 40
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 The actual result of a critical success varies from skill-to-skill and the skill descriptions note the 
 effects  for  a  critical  success.  However  Games  Masters  are  quite  at  liberty  to  apply  additional 
@@ -3225,7 +3225,7 @@ on Alaric’s spectacular failure. Owain’s Dance skill is 92% but the Games Ma
 Owain is therefore rolling against a modified skill of 102%. The dice roll is 00 – Owain also fumbles! 
 The Games Master explains that Owain, swaggering around the great hall, fails to spot a spilled mug 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 41
 
@@ -3281,7 +3281,7 @@ previous example, the merchant has Influence at 70% and Lore (Eastern Pottery) a
 critical score for Lore (Eastern Pottery) is 7% making the merchant’s Influence 77% in total.
 
 42
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Skill Competencies Table
 Skill Range Competency Description
@@ -3356,7 +3356,7 @@ disaster. For example, if a gang of hunters are attempting to sneak up on a deer
 test will startle the quarry. In this case, the hunter with the lowest Stealth skill rolls a Stealth test. 
 If he succeeds, everyone succeeds. If the roll is a failure, everybody fails.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 43
 
@@ -3411,7 +3411,7 @@ attempts to sneak past a wily palace guard who, being vigilant, is on the look-o
 crooks.
 
 44
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 In an opposed test both participants roll their respective skills. The winner of the test is the 
 one who gains the higher level of success; if both participants have the same level of success, 
@@ -3467,7 +3467,7 @@ character he reduces all his opponents’ Perception skills by 20% and he himsel
 The identification of who has the highest skill must be calculated after any other modifiers for 
 circumstances have been applied.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 45
 
@@ -3521,7 +3521,7 @@ from the base Movement divided by two. As with climbing a rough surface, if the 
 zero or less, the Adventurer cannot climb.
 
 46
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 •	 Tests should be made for treacherous surfaces (such as sheer cliffs or wet surfaces) and if an 
 Adventurer is trying to increase the rate of his ascent or descent. An Adventurer can double 
@@ -3580,7 +3580,7 @@ If the Brawn roll is fumbled, the Adventurer risks injury: he must make a succes
 roll or sustain 1D3 points of damage to the Chest Hit Location (armour does not protect against 
 this damage).
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 47
 
@@ -3635,7 +3635,7 @@ music in any shape or form. Any skills resting on communication and personal cre
 suffer a penalty at the discretssion of the Games Master.
 
 48
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Drive (DEX+POW)
 If an Adventurer is driving a wagon, chariot or similar vehicle at not more than a walking pace 
@@ -3685,7 +3685,7 @@ Fly skill for Evade when aloft.
 If the Evade roll is fumbled, then the Adventurer has left himself open to the hazard and sustains 
 its maximum damage.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 49
 
@@ -3754,7 +3754,7 @@ not restore the location’s Hit Points. This First Aid merely stabilises the
 patient so that they will not die from the injury.
 
 50
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 A critical success in First Aid reduces the treatment time by half. If being used to treat an Injured 
 location (see the First Aid Actions table), then 1D3+1 Hit Points are restored to the hurt location.
@@ -3806,7 +3806,7 @@ For a fumble, the Adventurer completely misjudges the analysed person’s motive
 The Games Master should offer the Adventurer a series of private, deliberately misleading hints 
 regarding the person’s motivations and likely actions.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 51
 
@@ -3858,7 +3858,7 @@ the Adventurer is likely to face some threat, such as an attack, provides a bonu
 attacks of the opposing side when it launches its schemes.
 
 52
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Persistence (POW x 2)
 Persistence is used whenever an Adventurer has his mental willpower called into question. This 
@@ -3906,7 +3906,7 @@ physical stress, including pain. All of us have untapped reserves of Persistence
 these skills measure the Adventurer’s ability to draw upon them to resist a variety of different 
 pressures and conditions.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 53
 
@@ -3959,7 +3959,7 @@ bonuses or penalties to the test. For instance, hiding a dagger on a well-clothe
 easy (+20%) but attempting to hide a war sword on the same person is far harder (–20%).
 
 54
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 If the Sleight attempt is being made whilst others are around, perhaps with some vigilance, then 
 the attempt is an opposed roll against the Perception of likely observers.
@@ -4006,7 +4006,7 @@ of damage.
 If using Unarmed the Adventurer may choose to either strike to cause damage or initiate (or 
 break) a grapple.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 55
 
@@ -4060,7 +4060,7 @@ If a Boating test is fumbled, the Adventurer should make an Athletics test. If t
 succeeds then the Adventurer has lost an oar or the controlling device for the boat has been 
 
 56
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 broken. Reduce the craft’s movement by half. If the Athletics test is a failure or fumble, then the 
 boat is in danger of capsizing. All on board need to make either an Acrobatics or Athletics test 
@@ -4109,7 +4109,7 @@ Armourer,  baker,  basketweaver,  blacksmith,  bowyer,  brewer,  butcher,  candl
 cartographer,  cobbler,  cook,  cooper,  fletcher,  joiner,  leatherworker,  mason,  painter,  potter,  sculptor, 
 smith, tailor, torturer, weaver.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 57
 
@@ -4162,9 +4162,9 @@ composure under high stakes and noticing when someone is cheating or when a game
 been rigged.
 
 58
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 A critical success with gambling allows the Adventurer to win a game even if it has been rigged 
 to the highest degree. In terms of calculating or assessing odds of success, the Adventurer will be 
@@ -4214,7 +4214,7 @@ heading.  Language  (English),  Language  (German)  and  Language  (French)  are
 skills.
 
 60
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Every Adventurer with a Language skill of 50% or more is fluent in that language, though they 
 will likely bear an accent if it is not their native tongue.
@@ -4261,7 +4261,7 @@ results.
 
 On a fumble the mechanism is broken and requires the attention of its maker to fix properly.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 61
 
@@ -4312,7 +4312,7 @@ suggested service or command. The target may try to resist a seduction attempt w
 Persistence test.
 
 62
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Shiphandling (INT+CON)
 This skill is used in the same way as Boating but is instead applied to waterborne craft that are 
@@ -4364,7 +4364,7 @@ not work in the same way as other skills. When teaching someone else the teacher
 as a bonus to the Improvement Roll for his pupil, as described in the section on Adventurer 
 Advancement beginning on page 68.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 63
 
@@ -4417,7 +4417,7 @@ Sorcery (Grimoire) is a measure of a sorcerer’s knowledge and intimacy with a 
 of spells, collectively known as a Grimoire. This skill is the ability of the sorcerer to cast all spells 
 
 64
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 known to a particular school or church of sorcery; i.e. those held within its Grimoire but also 
 measures the depth of relationship and arcane standing the sorcerer has achieved within the order.
@@ -4452,7 +4452,7 @@ This skill is not rolled against when spellcasting. Its value merely limits how 
 manipulate a Sorcery spell. However, Sorcery spells cost as many Magic Points to cast, as the 
 number of manipulation components applied to it; with a minimum cost of 1.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 65
 
@@ -4500,7 +4500,7 @@ circumstances and tension required will determine when Combat Rounds are used an
 action and movement within the Combat Round, as found on pages 125 to 152, should be used.
 
 66
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Local Time
 Local Time is anything from a few minutes to a few hours (but not more than about six hours) 
@@ -4574,7 +4574,7 @@ conditions.
 1 to 12 hours, depending on the SIZ of the 
 carcass.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 67
 
@@ -4637,7 +4637,7 @@ close and the Adventurers have time to rest, reflect and consolidate what they m
 in the time just past.
 
 68
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric’s Tale
 Alaric, Lilina and Thrace have just completed an adventure that saw them sneak into the troll’s lair 
@@ -4686,7 +4686,7 @@ Improvement Rolls respectively.
 Using Improvement Rolls
 A player can choose to spend one Improvement Roll to attempt to increase one known skill.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 69
 
@@ -4748,7 +4748,7 @@ Some Advanced skills however, cannot be learned through simply spending Improvem
 The following Advanced Skills can only be gained through training (see page 72).
 
 70
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Engineering
 
@@ -4809,7 +4809,7 @@ training. For this to occur, the following conditions need to be met:
 
 Funds to pay for training.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 71
 
@@ -4866,7 +4866,7 @@ The  following  Advanced  Skills  can  only  be  learned  by  an  Adventurer  if
 mentor to teach him:
 
 72
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric’s Tale
 Alaric is keen to improve his Dance skill in order to impress Selina, the Chieftain’s daughter, at a 
@@ -4920,7 +4920,7 @@ charge more or less, depending on reputation and a discount might be offered (5%
 student, as a guideline) if a teacher is able to train multiple students at the same time. Remember 
 that the teacher can add an additional Silver Piece for every 1% of his Teaching skill:
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 73
 
@@ -5024,7 +5024,7 @@ Each  different  life  experience  is  cumulative;  so  an  Adventurer  who  has
 suffered a Major Wound incurs a –20% penalty to his Resilience and Persistence tests. However, 
 
 74
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 the Adventurer does not suffer from accumulated penalties for the multiple occurrences of the 
 same experience. Thus, even though an Adventurer may have suffered several Major Wounds, he 
@@ -5068,7 +5068,7 @@ Damage
 Damage  comes  from  a  multitude  of  sources  and  the  following  rules  account  for  the  most 
 common forms that Adventurers will face.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 75
 
@@ -5135,9 +5135,9 @@ where he must struggle to breathe, then damage sustained through asphyxiation/su
 drowning is as follows:
 
 76
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Make a (further) Resilience roll.
 •	
@@ -5209,7 +5209,7 @@ described in the Conditions table and if a victim fails to resist the poison or 
 the Conditions described. See the Conditions table, following.
 
 78
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Agony 
 
@@ -5295,7 +5295,7 @@ Nausea
 
 Unconscious
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 79
 
@@ -5348,7 +5348,7 @@ is no natural cure or antidote for it; healing magic is essential and must be ad
 the conclusion of the disease.
 
 80
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Soul Palsy
 Carried by certain supernatural creatures, Soul Palsy deliberately targets the victim’s soul, eroding 
@@ -5398,7 +5398,7 @@ potency of the venom is based on either the quantity injected or the concentrati
 that small snakes with quite small venom glands can often introduce a small amount of venom 
 that is every bit as harmful as a large dose from a larger snake.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 81
 
@@ -5461,7 +5461,7 @@ A creature of SIZ 8 to 9 treats the distance fallen as one metre less. A creatur
 the distance fallen as three metres less. A creature of SIZ 4 to 5 treats the distance fallen as five 
 
 82
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 metres less. A creature of SIZ 2 to 3 treats the distance fallen as eight metres less. A creature of 
 SIZ 1 or less treats the distance fallen as 10 metres less.
@@ -5527,7 +5527,7 @@ Cold  can  be  just  as  deadly,  though  generally  harder  to  implement  as  
 something is cold enough to cause damage, it will cause damage according to its intensity, 
 just like fire or heat. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 83
 
@@ -5594,7 +5594,7 @@ their purse might be taking a bath once a week. To someone with several thousand
 taking a bath in ass’s milk every day.
 
 84
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Odd Job Table
 1D20
@@ -5730,7 +5730,7 @@ personal improvement activities and paid any dues to cults or other patrons. The
 be deducted from each Adventurer’s personal wealth and the remainder used to determine the 
 standard of living enjoyed for the remainder of the Down Time.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 85
 
@@ -5789,7 +5789,7 @@ Healing Rate
 1 Hit Point per 12 hours
 
 86
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 There are certain restrictions on natural healing, as follows:
 •	 An  Adventurer  cannot  engage  in  anything  other  than  light  activity:  if  the  Adventurer 
@@ -5837,7 +5837,7 @@ demanded  by  players  for  their  Adventurers;  they  are  always  the  Games  
 these cases ad-hoc awards should be of a single Hero Point and no Adventurer should benefit 
 from more than one such award per story.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 87
 
@@ -5888,7 +5888,7 @@ Adventurers  are  usually  hardy  individuals  but  even  the  best  of  them  a
 with  limits  to  what  they  can  physically  achieve. The  greatest  warrior  in  the  world  may  have 
 
 88
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 phenomenal endurance but even he will not be able to run 10 miles to a besieged village and 
 then fight for three hours non-stop. As Adventurers engage in strenuous physical activity, they 
@@ -5940,7 +5940,7 @@ An Adventurer will move up one level of Fatigue for every two hours of complete 
 hours of light activity. A successful First Aid or Healing test can raise an Adventurer by one level 
 of Fatigue once per day but cannot raise an Adventurer above Winded.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 89
 
@@ -5948,8 +5948,8 @@ of Fatigue once per day but cannot raise an Adventurer above Winded.
 Level of Fatigue Effects
 Fresh
 None.
-All Skill Tests (including further tests to resist Fatigue) suffer a –10% 
 Winded
+All Skill Tests (including further tests to resist Fatigue) suffer a –10% 
 penalty.
 All Skill Tests (including further tests to resist Fatigue) suffer a –20% 
 penalty. Movement suffers a –1m penalty.
@@ -6005,7 +6005,7 @@ Games Master’s discretion, they can be still further simplified for players wh
 of elapsed rounds almost as tiresome as armed combat.
 
 90
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 The Games Master can simply call for a Simple (+20%) Athletics test after each major exertion 
 by an Adventurer or antagonist. A major exertion might be: killing a foe, emptying a treasure 
@@ -6058,7 +6058,7 @@ Wooden door (normal)
 Wooden door (reinforced)
 Wooden fence (2m section)
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Armour Points
 10
@@ -6129,7 +6129,7 @@ The effects of Armour Penalty on an Adventurer’s Movement are as follows:
 can increase the Fatigue level (see page 90).
 
 92
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 •	
 
@@ -6245,7 +6245,7 @@ sprinting)
 sprinting)
 11.2km
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 93
 
@@ -6290,7 +6290,7 @@ and a well-aimed or well-timed blow can bypass armour completely. So a total rel
 armour is considered lined or padded.
 
 94
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Each piece of armour is characterised by the following qualities:
 
@@ -6339,7 +6339,7 @@ other materials
 Ringmail: Bronze or iron rings sewn onto a leather backing. Heavier than leather but affords 
 much better protection.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 95
 
@@ -6353,16 +6353,16 @@ Plate: Made of moulded individual metal plates, this armour provides excellent p
 is encumbering and comes with a heavy price tag.
 
 Armour Types and Costs
-AP
 Armour
+AP
 Soft Leather
 1
 2
 Hard Leather
 2
 Linen
-3
 Ringmail
+3
 Scalemail
 4
 5
@@ -6443,9 +6443,9 @@ Chainmail
 Soft and Hard Leather, Scalemail, Plate
 
 96
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Clothing
 
@@ -6540,7 +6540,7 @@ natural cold.
 10 SP
 
 98
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Article of 
 Clothing
@@ -6629,11 +6629,41 @@ Cost
 
 3 CP
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 99
 
-75 SP
+Article of 
+Clothing
+Sash, fancy
+
+Shirt, common
+
+Shirt, fancy
+
+Shirt, noble
+
+Shoes, common
+Shoes, fancy
+Shoes, sandals
+Skirt/kilt
+
+Tabard, common
+
+Tabard, 
+emblazoned
+
+Toga, common
+
+Toga, fancy
+
+Toga, noble
+
+Tunic, common
+
+Tunic, fancy
+
+75 SP
 
 7 CP
 
@@ -6695,38 +6725,8 @@ As for common but cut and decorated in the day’s fashions. 2 SP
 
 6 CP
 
-Article of 
-Clothing
-Sash, fancy
-
-Shirt, common
-
-Shirt, fancy
-
-Shirt, noble
-
-Shoes, common
-Shoes, fancy
-Shoes, sandals
-Skirt/kilt
-
-Tabard, common
-
-Tabard, 
-emblazoned
-
-Toga, common
-
-Toga, fancy
-
-Toga, noble
-
-Tunic, common
-
-Tunic, fancy
-
 100
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Weaponry
 
@@ -6777,7 +6777,7 @@ Battleaxe: A single-bladed weapon with a sturdy haft, the battleaxe may be used 
 hands, depending on the wielder’s preference. A battleaxe can be used to bash through doors and 
 obstacles rather quickly. It suffers no damage when attacking inanimate wooden objects.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 101
 
@@ -6834,7 +6834,7 @@ the blade is unsharpened and leather-bound on many great swords, allowing the wi
 them for more effective parries.
 
 102
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Halberd: An axe head combined with a thrusting tip and a hook, mounted on a spear shaft, 
 the halberd is a multi-purpose weapon. Halberdiers are versatile opponents that can bring any 
@@ -6887,7 +6887,7 @@ opponent defending against this weapon treats his parrying weapon or shield as o
 for the purposes of blocking damage. However, the wielder also suffers the same penalty when 
 trying to Parry with the flail.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 103
 
@@ -6945,7 +6945,7 @@ a metre in length and possesses a sharpened tip to thrust with. It is the ubiqui
 choice amongst many Adventurers. 
 
 104
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Ranged Combat Weapons
 Just as Close Combat weapons are defined by certain qualities, so are Ranged weapons.
@@ -6998,7 +6998,7 @@ Whirled and released, the bolas works by entangling its target in the cords and 
 from the winding weights. Unlike other Ranged weapons, the bolas cannot be parried by shields. 
 It may only be evaded.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 105
 
@@ -7013,8 +7013,8 @@ Entangle,
 Stun Location
 Bleed, Sunder 
 (2H only)
-1
 —
+1
 Entangle
 1
 Stun Location 1
@@ -7170,8 +7170,8 @@ S
 –/–
 7/9
 M
-S
 –/9
+S
 H
 13/9
 H
@@ -7258,7 +7258,7 @@ S
 VL
 
 106
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Size Reach
 L
@@ -7351,8 +7351,8 @@ M
 5/5
 M
 
-M
 5/7
+M
 9/–
 L
 10/7 M
@@ -7379,8 +7379,8 @@ Stun
 Location, 
 Sunder
 Stun Location 2
-3
 Entangle
+3
 Impale, Stun 
 2
 Location, 
@@ -7481,7 +7481,7 @@ M
 2 This weapon suffers no penalty when thrown.
 3 This weapon may Parry Ranged weapons.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 107
 
@@ -7538,7 +7538,7 @@ wound around the haft and lashed down, effectively turning the staff sling into 
 Trident: See entry in Close Combat Weapons.
 
 108
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Ranged Weapons
 
@@ -7552,14 +7552,14 @@ Modifier Range Load
 
 N
 Blowgun  —
-Y
 Bolas
 1D4
 Y
-1D4
 Dagger
 1D4
+Y
 Dart
+1D4
 Y
 1D4+1 Y
 Discus
@@ -7736,8 +7736,8 @@ Impale
 1
 
 03/06/11 25 SP
-350 
 4/8
+350 
 SP
 20 SP
 
@@ -7794,7 +7794,7 @@ Arrows,  Bodkin:  These  arrows  are  the  most  commonly  used  ammunition  in 
 possess narrow spikes for points. While not as simple to make as sling bullets, they are far more 
 popular for their multiple utilities. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 109
 
@@ -7884,7 +7884,7 @@ weapon. Use the most applicable combat skill the Adventurer has but apply a –2
 damage rolled, reflecting the inappropriate use of the weapon.
 
 110
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Food and Lodging
 
@@ -7974,7 +7974,7 @@ All
 
 5/7 SP
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 111
 
@@ -8123,7 +8123,7 @@ Nomad
 25 SP
 
 112
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Description
 This wedge of serrated metal is roughly the 
@@ -8231,7 +8231,7 @@ Civilised
 
 12 SP
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 113
 
@@ -8348,7 +8348,7 @@ a metre wide. It will burn for one hour on a flask
 of oil.
 
 114
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Item
 Lantern, 
@@ -8431,7 +8431,7 @@ Civilised
 
 35 SP
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 115
 
@@ -8524,7 +8524,7 @@ combustible for up to a week before it begins to
 lose its potency.
 
 116
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Item
 Oil, weapon Used to keep rust and tarnish off the precious 
@@ -8619,7 +8619,7 @@ All
 a standard rope can support the weight of 50 
 ENC or 50 SIZ, or any combination thereof.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 117
 
@@ -8651,8 +8651,8 @@ Scythe
 Seal
 
 Sack, small A small sack can hold 5 ENC of equipment.
-This long piece of hammered metal has been 
 Saw, hand
+This long piece of hammered metal has been 
 sharpened to have a jagged and serrated edge 
 perfect for ripping through wood, which is 
 attached to a leather-wrapped handle. With 
@@ -8740,7 +8740,7 @@ Nomad
 10 SP
 
 118
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Item
 Tent, 8 
@@ -8848,7 +8848,7 @@ Civilised
 
 45 SP
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 119
 
@@ -8941,7 +8941,7 @@ Cost to Buy or Cost per Kilometre
 300 SP
 
 120
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Riding and Animal Supplies
 The Riding and Animal Supplies table shows a number of items and supplies that Adventurer 
@@ -9025,7 +9025,7 @@ Feed/mount
 rations (per 
 day)
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 121
 
@@ -9118,7 +9118,7 @@ in order to remove detritus, imposing a –10% penalty to
 travel times through any type of rocky or stony terrain.
 
 122
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 combat
 
@@ -9167,7 +9167,7 @@ Combat skills are purchased as styles. Learning the style ‘Broadsword and Shie
 skill points as learning ‘Greataxe’, thus avoiding the necessity of having to train each weapon 
 in a combination separately. Alaric, for example, has the Combat Style ‘Spear and Shield’; this 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 123
 
@@ -9236,7 +9236,7 @@ For  example,  if  Alaric  were  forced  to  use  a  Longspear  instead  of  his
 would suffer a penalty as follows:
 
 124
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 –10% for using a different weapon.
 –10% for the Size difference (shortspears are Medium, Longspears are Large).
@@ -9289,7 +9289,7 @@ As discussed on page 92 Armour has a negative impact on Initiative; the heavier 
 worn, the bigger the hindrance to moving and reacting quickly. An Adventurer’s Strike Rank is 
 reduced by one fifth of the totalled value of AP worn on all locations (rounded up).
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 125
 
@@ -9346,7 +9346,7 @@ other action. For example, an Adventurer with a Movement of 8m and 3CA could:
 3rd Combat Action: Move 4m, make an Attack  or
 
 126
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 1st Combat Action: Move 0m, make an Attack
 2nd Combat Action: Move 0m, make an Attack 
@@ -9406,7 +9406,7 @@ on the character’s next Strike Rank following an Evade attempt cannot be used 
 Attack. This penalty carries over to a new round if the Adventurer uses his last available CA 
 in a round to Evade.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 127
 
@@ -9465,7 +9465,7 @@ The unarmed attacks of animals and monsters are assigned categories to determine
 and how difficult they are to parry.
 
 128
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Combat Mechanics
 
@@ -9521,7 +9521,7 @@ There are three Fumble tables; one for Close Combat fumbles (including parries a
 one for Natural Weapons and one for Ranged Weapons. When a Fumble occurs, roll on the 
 appropriate Fumble table for the action involved.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 129
 
@@ -9631,7 +9631,7 @@ Roll twice, ignoring any rolls of 19 or 20.
 Roll three times, ignoring any rolls of 19 or 20.
 
 130
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Ranged Weapon Fumbles
 1D20
@@ -9727,7 +9727,7 @@ of success and therefore 1 Combat Manoeuvre.
 A defender rolls a success against an attacker’s fumble giving the defender two levels of success and 
 therefore 2 Combat Manoeuvres.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 131
 
@@ -9799,7 +9799,7 @@ overcomes Armour Points and injures the target. The defender must make an oppose
 Resilience vs. the attacker’s original attack roll. If the defender fails, then a major artery or vein 
 
 132
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 is cut and the wound inflicts a level of Fatigue at the start of each new Combat Round. Bleeding 
 wounds can be stopped by the successful use of the First Aid skill but the recipient can no longer 
@@ -9854,7 +9854,7 @@ penalty; –10% per size category of the weapon (for example, –10% for small w
 arrows or daggers, –20% for medium weapons and so on). Successfully withdrawing an impaled 
 weapon during melee costs a Combat Action and requires a successful Brawn roll. This causes 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 133
 
@@ -9912,7 +9912,7 @@ as long as that location is within reach of the Attacker. The Defender cannot av
 he merely chooses where it will land.
 
 134
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Regain  Footing  –  A  prone  or  similarly  disadvantaged  Defender  uses  the  momentum  of  the 
 attack to roll back up to their feet, or grasps the Attacker’s extended limb or weapon to pull 
@@ -9975,7 +9975,7 @@ Automatic Critical Hit
 The following tactics and circumstances also affect Close Combat. Each has its own guidelines 
 to reflect the action being undertaken.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 135
 
@@ -10031,7 +10031,7 @@ using Evade as a melee defence involves giving ground or leaping aside, placing 
 a disadvantage. 
 
 136
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Knockback
 Any attack which causes more damage than the SIZ of the recipient automatically results in 
@@ -10087,7 +10087,7 @@ win against the Defender may freely attack as per normal. Unless the Defender wi
 entirely and run away, the number of opponents cannot be reduced to less than one.
  
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 137
 
@@ -10144,7 +10144,7 @@ to  all  activity  attempted  by  the  victim.  Combatants  with  a  poor  unarm
 instead substitute their Brawn skill to maintain or break free of grapples.
 
 138
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Once  the  grapple  is  established  it  continues  automatically  until  the  grappler  lets  go  or  the 
 opponent  breaks  free.  Whilst  the  hold  is  maintained,  on  his  Strike  Rank  the  grappler  may 
@@ -10194,7 +10194,7 @@ However, if the opponent decides to use the closing action to take an attack ins
 opponent resists the Evade Opposed Test with his Combat Skill. Whether or not he is hit, the 
 closer succeeds in reaching Close Combat distance.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 139
 
@@ -10247,7 +10247,7 @@ Combat Action, others may take more. The number of Combat Actions it takes to lo
 weapon is listed in its statistical entry in the Ranged Weapons table, page 109.
 
 140
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Ranged Attack Situational Modifiers
 Situation
@@ -10324,11 +10324,11 @@ If a covered location is hit by the attack, the firer has hit one of the individ
 target (the Games Master will decide who). The accidental target may try to evade or parry this 
 attack as normal. If the attack damages the accidental target, roll the Hit Location randomly.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 141
 
-86.204.39.123
+Jeremy Bauerle (order #5555197)
 
 If the accidental target successfully evades a ranged attack, the projectile continues on its original 
 path and may strike the intended target. The intended target may also attempt to evade or parry 
@@ -10386,7 +10386,7 @@ must be spent on Move, but in each action he moves up to 2x his normal Movement.
 creatures improve their Damage Modifier by two steps. For example, a charging horse with 
 a Damage Modifier of +1D6 would improve its Damage Modifier to +1D10.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 143
 
@@ -10454,7 +10454,7 @@ A successful attack damages a specific Hit Location. To determine which location
 roll 1D20 and compare the number rolled with the Humanoid Hit Location table.
 
 144
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Humanoid Hit Locations
 1D20
@@ -10511,7 +10511,7 @@ in  the  attack  causing  the  Serious Wound.  First  Aid  or  Healing  skills  
 unconscious victim regain consciousness but he will not be able to rejoin any combat until he 
 has received further healing to the Seriously Wounded location. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 145
 
@@ -10569,7 +10569,7 @@ more. If the NPC loses consciousness, death results within a number of Combat Ac
 equal to the Critical Wound value, unless Hit Points are brought up to 1 HP or more.
 
 146
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 •	
 
@@ -10664,7 +10664,7 @@ On the next blow Alaric again scores a hit, delivering a further 5 points of dam
 reduced to zero Hit Points. Since it has been reduced to zero Hit Points it must make another Resilience 
 roll or fall unconscious. This time it fails and Alaric spends his next action to give it a coup-de-grace.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 147
 
@@ -10722,7 +10722,7 @@ first round of combat. Lilina says she will attack the closest of the three gobl
 defending with her shield. Alaric says he will attack the larger of the goblins, attacking with his 
 
 148
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 spear and defending with his shield. The Games Master states that the three goblins are prepared 
 for a fight and are closing for the attack. Two goblins have singled-out Alaric, as the largest of the 
@@ -10771,7 +10771,7 @@ CA left this round and will defend against both his foes.
 The mean looking goblin slashes with its short sword scoring 53, a miss. Alaric is parrying and 
 so still rolls. His roll is 59, a success, and gains a defensive manoeuvre. He chooses Pin Weapon, 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 149
 
@@ -10822,7 +10822,7 @@ has two CA remaining.
 Thrace – has one CA remaining and has saved Lilina in spectacular fashion.
 
 150
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric can now act with his fourth CA. With one goblin pinned and the second weaponless, 
 Alaric thrusts his spear at the mean goblin. The goblin can only parry with its buckler and uses 
@@ -10872,7 +10872,7 @@ Location and directs the burst of fire straight into the goblin’s face. Dragon
 damage and the result is 3. The goblin is wearing a leather helm which protects for 1 AP, so it 
 sustains only 2 points of damage. It has 4 HP in the head and is thus reduced to 2 – there is the 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 151
 
@@ -10910,7 +10910,7 @@ a  Hero  Point  for  his  actions.  Alaric  goes  over  to  the  injured  Lilina
 wounded arm…
 
 152
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 magic
 
@@ -10956,7 +10956,7 @@ Divine Magic stems from the gods. It reflects their natures, ways, spheres of in
 needs,  successes,  failures  and  mythic  standing.  Gaining  access  to  Divine  Magic  requires 
 a  dedication  of  faith  and  the  willingness  to  enter  into  a  personal  relationship  with  the  deity 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 153
 
@@ -11016,9 +11016,11 @@ a Pact, every 12 hours. They will regain this amount in six hours if they are fu
 sleeping, or through the use of the Meditation Advanced skill (see page 62).
 
 154
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-common magic
+Jeremy Bauerle (order #5555197)
+
+common magic
 
 Common Magic is the name given to a variety of spells that are routinely encountered throughout 
 many  societies  where  magic  is  used  on  a  daily  basis.  Separate  cultures  may  place  a  different 
@@ -11059,7 +11061,7 @@ Like any skill, Common Magic is subject to circumstances which may inhibit a spe
 success. The Common Magic skill modifiers are as follows:
 
 156
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Casting Modifiers Situational Modifiers
 Situation
@@ -11119,7 +11121,7 @@ Adventurer with connections to a religious cult or sorcerous order will have an 
 teachers for more powerful spells. Beginning Adventurers may already have a selection of Common 
 Magic spells at the start of their adventuring career, depending on their Cultural Background. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 157
 
@@ -11193,7 +11195,7 @@ Instant: The spell’s effects take place instantly. The spell itself then disap
  
 
 158
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Magnitude  (X): The  strength  and  power  of  the  spell.  Also  the  minimum  number  of  Magic 
 Points required to cast it. If two identical spells are cast on the same target, only the spell with 
@@ -11241,7 +11243,7 @@ think and, for the most part, act normally but anything it says comes out as gib
 commanding officer would be unable to give orders to his men and a spellcaster would be unable 
 to cast spells.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 159
 
@@ -11295,7 +11297,7 @@ any attacks unless it is attacked first.
 Spirits and non-corporeal creatures are not affected by this spell.
 
 160
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Bladesharp
 Duration 5, Magnitude 1, Progressive, Touch
@@ -11347,7 +11349,7 @@ For every point of Magnitude of this spell, the caster’s DEX score increases b
 have an additional effect on his skills and Attributes, such as Combat Actions and Strike Rank. 
 The caster cannot increase his DEX in this way to more than twice its original value.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 161
 
@@ -11413,9 +11415,11 @@ and will either run or surrender. The effects of this spell are automatically ca
 Fanaticism spell and vice versa.
 
 162
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-Detect X
+Jeremy Bauerle (order #5555197)
+
+Detect X
 Concentration, Magnitude 1, Ranged, Resist (Special)
 
 Detect is several spells, which allow the caster to locate the targets of the spell within its range. 
@@ -11464,7 +11468,7 @@ For every point of Magnitude, this spell restores one level of Fatigue that the 
 suffering from.
 
 164
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Entertainer’s Smile
 Instant, Magnitude 1, Progressive, Trigger
@@ -11514,7 +11518,7 @@ duration of the spell, this weapon will deal an extra 1D6 points of magical fire
 its normal damage. A weapon under the effects of Fireblade cannot benefit from other damage 
 enhancing spells such as Bladesharp or Pierce.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 165
 
@@ -11567,7 +11571,7 @@ creatures cannot be ignited and if the target is worn or held by a living being 
 then the wearer/wielder may resist.
 
 166
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Light
 Area Special, Duration 5, Magnitude 1, Ranged
@@ -11614,7 +11618,7 @@ benefit from the firer’s Damage Modifier. The additional missiles created thro
 will affect creatures that can only be hurt by magic. A missile under the effects of Multimissile 
 cannot benefit from Firearrow, Pierce or Speedart.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 167
 
@@ -11667,7 +11671,7 @@ Second Sight also reveals invisible entities, such as spirits or ethereal undead
 image will show (treat such targets as partially obscured).
 
 168
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Skybolt
 Instant, Magnitude 3, Ranged, Resist (Evade)
@@ -11712,7 +11716,7 @@ This spell grants the caster a thunderous voice of command. For every point of M
 spell, the caster has +10% added to his Influence skill and can also be heard at up to the spell’s 
 Magnitude x 100 in metres.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 169
 
@@ -11744,7 +11748,7 @@ This spell allows the caster to breathe water for the duration of the effect. Wa
 effect on the target’s ability to breathe air.
 
 170
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 divine magic
 
@@ -11788,7 +11792,7 @@ of one quarter of his available POW. The dedicated POW then forms the basis of h
 An Adventurer may be initiated into more than one cult and thus have several concurrent Pact 
 skills.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 171
 
@@ -11853,7 +11857,7 @@ increases, undergo complete personality changes as a result, although the circum
 this happens are judgement calls for the Games Master.
 
 172
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Quests
 Gods demand service from their followers, in the form of quests. The nature and scope of the 
@@ -11906,7 +11910,7 @@ Divine spell takes up a single point of Dedicated POW to store. However, Divine 
 cost any Magic Points when cast, as the caster is channelling the power of their god and is not 
 fuelling the spell through his own, personal, magical reserves. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 173
 
@@ -11958,7 +11962,7 @@ showing that the Adventurer has re-established their faith with the god and is a
 that god’s power once more through the Divine spell. 
 
 174
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric’s Tale
 As  a Thunderer  initiate,  Alaric  learns  Lightning  Strike,  Blessing  (Spear  and  Shield),  Shield  and 
@@ -12006,7 +12010,7 @@ Learning Divine Magic requires a sacrifice of time and effort. To acquire a new 
 spell, the Adventurer must possess the Lore (Specific Theology) skill appropriate to the religion 
 from which the spell is requested and be of sufficient rank within the cult.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 175
 
@@ -12075,7 +12079,7 @@ POW x 10 in metres.
 Rank: The minimum cult rank the spell is available to. 
 
 176
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Resist (Evade/Persistence/Resilience): The spell’s effects do not occur automatically. The target 
 may make an Opposed Evade, Persistence or Resilience test (as specified by the spell) in order to 
@@ -12131,7 +12135,7 @@ the Magnitude of this spell. No Common Magic spell can have its Magnitude booste
 For  example,  Thrace  casts  a  Magnitude  3  Bladesharp,  spending  the  required  3  Magic  Points 
 and makes the Common Magic Skill Test. Since he is currently under the effects of a Magnitude 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 177
 
@@ -12185,7 +12189,7 @@ immediately drops two Fatigue levels. Berserk may not be combined with Fanaticis
 will always take precedence in such cases.
 
 178
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Bless Crops
 Duration Special, Rank Priest, Touch
@@ -12234,7 +12238,7 @@ conditions in an area with a diameter equal to the Magnitude of the spell in kil
 stops, sweltering heat becomes cool breezes and dark clouds separate to reveal the bright and 
 warming sun. This spell cannot alter magically-created weather effects of greater Magnitude.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 179
 
@@ -12285,7 +12289,7 @@ torn from the target and lands 1D6 metres away in the direction toward the caste
 has no effect on natural weaponry of any type.
 
 180
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Dismiss Elemental
 Instant, Ranged, Rank Initiate, Resist (Resilience)
@@ -12336,7 +12340,7 @@ associated with an Earth god would summon Gnomes. The caster summons an elementa
 one cubic metre per point of Magnitude in 1D3 Combat Rounds and remains in the area for 
 the entire spell duration. For obvious reasons, the caster must have access to the same volume of 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 181
 
@@ -12391,7 +12395,7 @@ Extension prevents recovery or release of both the extended spell and the Extens
 long as the spell is maintained.
 
 182
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Fear
 Instant, Ranged, Rank Initiate, Resist (Persistence)
@@ -12442,7 +12446,7 @@ Instant, Rank Initiate, Touch
 Heals one location back to its full Hit Points but will not cause a severed limb to reattach or 
 regenerate. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 183
 
@@ -12498,9 +12502,9 @@ Dance wildly. In non-combat situations, the Games Master should allow the target
 passive but perhaps more frightening or entertaining actions.
 
 184
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Meditate
 Duration 15, Rank Initiate, Touch
@@ -12554,7 +12558,7 @@ flooding but can be the difference between life and death for plants and thirsty
 cast in sub zero temperatures, snow is created instead.
 
 186
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Reflection
 Duration 15, Ranged, Rank Initiate
@@ -12610,7 +12614,7 @@ returns to life with zero Hit Points on all locations.
 After death, Resurrect must be cast within a number of days equal to the Magnitude of the spell, 
 otherwise the magic automatically fails.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 187
 
@@ -12677,7 +12681,7 @@ POW 101 or higher
 Spirit Block is incompatible with Absorption, Reflection and Shield.
 
 188
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Sunspear
 Instant, Ranged, Rank Priest, Resist (Evade)
@@ -12708,7 +12712,7 @@ Cast on the specified type of Close Combat Weapon, this spell doubles that weapo
 damage dice. Other bonuses, such as Damage Modifiers, are not affected. The wielder of the 
 weapon should roll the weapon’s damage twice and total the result.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 189
 
@@ -12756,7 +12760,7 @@ particular grimoire. It is this skill which a sorcerer rolls against to see if t
 The skill also limits the effect of the spell. A sorcerer can study more than one Grimoire and thus 
 
 190
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 possess many Sorcery (Grimoire) skills. Sorcerers are not in the habit of carrying their grimoires 
 around with them: a grimoire is a powerful document and the physical thing is often closely 
@@ -12810,7 +12814,7 @@ The  Sorcery  Manipulation Table  shows  what  effect  each  point  of  Manipula
 different spell components. It takes no Manipulation to cast a Sorcery spell in its basic format 
 (as indicated by the ‘None’ row).
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 191
 
@@ -12864,16 +12868,16 @@ POW
 2xPOW
 3
 3xPOW
-4
 4xPOW
+4
 5
 5xPOW
-6
 6xPOW
+6
 7
 7xPOW
-8
 8xPOW
+8
 9xPOW
 9
 10xPOW 10
@@ -12929,7 +12933,7 @@ Manipulating this component allows the sorcerer to increase the Duration of a So
 maximum Duration to which the spell can be increased to is noted in the Sorcery Manipulation table. 
 
 192
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Targets
 Sorcery spells have a default Target of one person or item, at no additional Magic Point cost. It 
@@ -12980,7 +12984,7 @@ Points (one for the basic spell, plus one point per Manipulation). Casting two s
 at the same time with the same Manipulations applied to both spells would cost seven Magic 
 Points, as well as reducing his Sorcery (Grimoire) skill by 10%.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 193
 
@@ -13032,7 +13036,7 @@ A sorcerer belonging to a sorcery cult is usually forbidden from transcribing th
 grimoire – as doing so may allow the knowledge to spread beyond their reach.
 
 194
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Depending on the setting and culture, admittance to such grimoires may be difficult. Whilst 
 membership of some sorcery cults or schools may allow study of their grimoire free of charge; 
@@ -13083,7 +13087,7 @@ many variants of Animate available. The sorcerer animates three points of SIZ or
 insubstantial material for every 10% of his Sorcery (Grimoire) skill, causing it to move about and 
 interact clumsily with its surroundings. The substance moves at a rate of one metre by default, 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 195
 
@@ -13138,7 +13142,7 @@ its owner/master. Likewise the spell cannot cast forth a spirit or demon possess
 one that is first tricked into abandoning the host.
 
 196
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Castback
 Autonomous
@@ -13189,7 +13193,7 @@ Note that creatures affected by Diminish SIZ actually shrink, rather than becomi
 skeletal as they do with the Tap spell. Diminish is incompatible with any other Characteristic 
 reducing spell.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 197
 
@@ -13241,9 +13245,9 @@ Offensive use of the spell allows a victim to attempt an opposed Evade roll (or 
 initially break free of the spell’s grip.
 
 198
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Form/Set (Substance)
 Autonomous, Resist (Resilience)
@@ -13296,7 +13300,7 @@ giving an additional reduction of one metre per round. A target’s Movement can
 than one with this spell. Hinder is incompatible with other Movement slowing spells.
 
 200
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Holdfast
 Autonomous, Resist (Resilience)
@@ -13348,7 +13352,7 @@ dismissing the most powerful spell it can act on, reducing its own effect by the
 eliminated spell, then continues to dismiss the next most powerful spell it can still affect. A spell 
 cannot be partially eliminated, so only ‘complete’ spells are negated. 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 201
 
@@ -13389,7 +13393,7 @@ However,  most  effects  are  psychosomatic  in  nature  and  permit  further  R
 used offensively.
 
 Phantom spells can react to their surroundings as long as the sorcerer maintains concentration 
-over them.  If  concentration lapses,  then the  illusion remains static  within the victim’s  mind, 
+over  them.  If  concentration lapses,  then the  illusion remains static  within the victim’s  mind, 
 continuing to produce the last effect imagined by the caster – the smell of roses, a moaning wind, 
 bone biting cold and so on. The sorcerer can resume concentration at a later time to change the 
 illusion as long as the spell has not expired. Multiple Phantom spells can be concentrated on 
@@ -13404,7 +13408,7 @@ roll  of  Sorcery  (Grimoire)  versus  Resilience,  an  odour  can  be  created 
 entrances those who smell it.
 
 202
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Taste
 This illusion creates or hides any single taste for consumables, substances or persons within the 
@@ -13457,7 +13461,7 @@ The Protective Ward’s perimeter contains the benefits of its combined Resistan
 inhibits spells or attacks entering the circle from the outside – attacks or spells originating within 
 the circle are unaffected. Thus a Protective Circle against spirits would block out external spirits 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 203
 
@@ -13512,7 +13516,7 @@ original value of the Characteristic was higher than this, then it cannot be hea
 restored takes one minute to regenerate. 
 
 204
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Sense (Object or Substance)
 Concentration
@@ -13563,11 +13567,11 @@ following Combat Round and continues to suffocate for the duration of the spell.
 This spell can also be used to extinguish fires, as the flames will be starved of oxygen. In this case 
 the sorcerer can affect up to three cubic metres of flames per 10% of Sorcery (Grimoire) skill.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 205
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Spell Resistance
 Autonomous
@@ -13616,7 +13620,7 @@ There are reputed to be exotic and very rare versions of the Tap spell that cons
 of a victim, such as Tap (Youth), Tap (Emotion), Tap (Memory) and so forth. Without exception, 
 these are regarded with even more loathing and hatred than the more common Tap spell!
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 207
 
@@ -13668,7 +13672,7 @@ shadow, whereas  another might cause their limbs to crack and shatter  or simply
 agonising poison.
 
 208
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 guilds, factions and cults
 
@@ -13720,7 +13724,7 @@ a city might belong to the jeweller’s guild, all the blacksmiths to the blacks
 forth. Each guild possesses certain secret techniques and methods that are revealed only to those 
 who prove themselves worthy to learn them.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 209
 
@@ -13774,7 +13778,7 @@ example, a guild of blacksmiths might teach Bladesharp, Repair and Armoursmith�
 a guild of thieves might teach Bandit’s Cloak and Abacus.
 
 210
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Martial Orders may teach Common or Divine Magic, depending on their approach to combat. 
 They often also possess special Heroic Abilities that are available only to their members. 
@@ -13867,7 +13871,7 @@ dedication and service but where the inner secrets of the faction begin to be re
 Members can be Common Members and even Initiated Members of other factions but cannot 
 be Fervent Members of more than one faction.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 211
 
@@ -13960,7 +13964,7 @@ members.
 Faction skills are learnt for free.
 
 212
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Common Magic
 Factions can offer Common Magic. The range of Common Magic available may be far wider 
@@ -14012,7 +14016,7 @@ howling rain are especially blessed.
 
 Divine Magic: Blessing (any Cult Skill), Crash of Thunder, Lightning Strike, Shield, Channel Strength.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 213
 
@@ -14065,7 +14069,7 @@ Shapechange (Human to Serpent).
 Heroic Abilities: Immunity to Poison; Reincarnate as Black Snake.
 
 214
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Membership
 Novice
@@ -14098,7 +14102,7 @@ man will hand you a pebble. If it is black, then nothing more will happen but if
 those troublesome individuals will die – and the old man will find you, someday, and demand 
 payment for these deaths.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 215
 
@@ -14141,7 +14145,7 @@ The guild offers training in: Craft (Poison), Resilience, Stealth, Any Dagger st
 Sorcery (Black Serpent Grimoire) and Manipulation.
 
 216
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Alaric’s Tale – Cult of the Thunderer
 Alaric dwells in the Gloamwood amid barbaric tribes.
@@ -14180,7 +14184,7 @@ upon colleagues and fellow cultists for help or advice. Furthermore, initiation 
 marks Alaric as a warrior within the tribe and this is a moment of great pride for the young 
 Adventurer.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 217
 
@@ -14232,7 +14236,7 @@ fully within his rights to insist on the Adventurer proving himself in some fash
 Heroic Ability is taught.
 
 218
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Using Heroic Abilities
 
@@ -14280,7 +14284,7 @@ in any Resilience roll required for sustaining a Serious or Major Wound. You als
 succeed in any Persistence roll when resisting mental or emotional attacks. Upon leaving Battle 
 Fury, you automatically gain three levels of Fatigue.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 219
 
@@ -14331,7 +14335,7 @@ unconsciously invokes this ability and purges the infection. Magical diseases wi
 though you gain a +20% bonus to tests to resist them.
 
 220
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Duellist
 Requirements: DEX 15 or higher, any 1H Combat Style at 90% or higher
@@ -14376,7 +14380,7 @@ or more hours. You then automatically gain the Language skill in that language a
 A successful Improvement roll when improving a Language skill doubles the skill points gained 
 (roll 2D4+2 rather than 1D4+1). 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 221
 
@@ -14419,7 +14423,7 @@ creature you are reborn into but your INT, POW and CHA remain those of the Adven
 Heroic Ability does not require a Magic Point to use. It can only be used once and it is gone.
 
 222
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Severing Slash
 Requirements: DEX 15 or higher, any cutting Weapon Style at 90% or higher
@@ -14459,11 +14463,13 @@ or even climb a wall at lightning speed. However, you cannot continue moving alo
 surface from Combat Round to Combat Round – you must reach level ground (or a suitable 
 perch) by the end of your last Combat Action in a round or fall.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 223
 
-gamesmastering legend
+Jeremy Bauerle (order #5555197)
+
+gamesmastering legend
 
 This  chapter  offers  specific  advice  to  Games  Masters,  both  novice  and  veteran,  on  running 
 Legend and getting the most out of it. It includes specific advice regarding key themes in Legend, 
@@ -14511,7 +14517,7 @@ settings Adventurers remain within their communities and continue to serve them.
 heroics are a key principle of Legend play. Grand quests are certainly important and concern the 
 Adventurers but often a scenario or set of scenarios focus on serving the daily requirements of the 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 225
 
@@ -14586,7 +14592,7 @@ as part of the quest: the Adventurers, being unfamiliar with magic largely, are 
 of magic daunting and need to counter it with mundane abilities, wits and ingenuity.
 
 226
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 If magic is commonplace, then higher and deeper levels of magic are likely to be necessary and 
 the backing of a cult or sorcerous order is a prime requisite in completing the quest successfully.
@@ -14644,7 +14650,7 @@ Combat Styles, Magic and Cult details, each element is designed to invest in the
 shine through as individuals, supported by elements that develop them as part of a group or team 
 (community, once again). How well Adventurers develop along with the investments the game 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 227
 
@@ -14710,7 +14716,7 @@ of a home-written scenario as loose and flexible as possible, making it easier t
 unexpected actions and decisions of the players.
 
 228
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Scenario Seeds – A kernel of an idea, often perhaps no longer than a paragraph or a sentence, is 
 used as the basis of the adventure with the Games Master improvising the action and using stock, 
@@ -14743,7 +14749,7 @@ key thing will be to fit the Legend rules to the requirements of the setting, or
 to alter the historical context to accommodate the rules (magic is the prime consideration 
 here: will your historical setting use magic and, if so, how is it rationalised and explained? 
 How will it affect the nature of the world? 
-If  you are  creating your own fantasy world, then you have  carte-blanche to create  what 
+If  you are creating your own fantasy world, then you have carte-blanche to create  what 
 you want but remember that most successful and convincing fantasy worlds function to a 
 certain set of rules that help make them work and feel real. It is also tempting – and can be 
 a great deal of fun – to mix lots of different fantasy elements into a single setting (magic, 
@@ -14768,7 +14774,7 @@ not, time. If using a published scenario you should have read it at least once a
 changes you need to make, based on what you know of the players and Adventurers, including, 
 where necessary, amendments to encounter statistics to make the scenario rewarding but neither 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 229
 
@@ -14834,7 +14840,7 @@ Although players like to succeed, few players want to have had an easy ride. Lik
 scenario is too tough, resulting in lots of wounds or Adventurer deaths, the players may feel 
 
 230
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 hard-done by: success should not be a certainty but then again, neither should instant death: the 
 scenario needs to balance risk.
@@ -14897,7 +14903,7 @@ Where a wind can disturb and carry loose material, which may affect visibility, 
 reduction in visibility for Perception rolls and other skills relying on sight is half the wind’s STR 
 and equal to the wind’s STR for using Perception to listen or scent something. A hurricane, for 
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 231
 
@@ -14934,12 +14940,12 @@ Scale of Rain
 —
 Very light (0–10mm)
 
-Rain Duration
 Scale of Cover
+Rain Duration
 —
 None
-1D20 minutes
 Scant cloud
+1D20 minutes
 10+1D20 minutes Light (11–20mm)
 Scattered cloud
 Slightly Overcast
@@ -14980,6 +14986,19 @@ All SIZ less than this are knocked-back 2D6 metres.
 Hurricane. Anything less than SIZ 50 is hurled into 
 the air and suffers 1D6+6 damage to 1D6 locations.
 
+08 – 12
+13 – 18
+
+19 – 24
+
+25 – 30
+
+31 – 36
+
+37 – 45
+
+46 – 50
+
 Effect on Ranged 
 Attacks
 0%
@@ -14998,21 +15017,8 @@ Impossible
 
 Impossible
 
-08 – 12
-13 – 18
-
-19 – 24
-
-25 – 30
-
-31 – 36
-
-37 – 45
-
-46 – 50
-
 232
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Depending on the time of year and the ambient temperature, precipitation may well be snow rather 
 than rain. If so, the Scale of Rain entries should be read as Snow Depth instead, and the value doubled.
@@ -15076,7 +15082,7 @@ Half
 There are no variations in the costs given for different settlement sizes, as it is assumed Adventurers 
 travelling for any length of time will pass through hamlets, towns, cities and wilderness.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 233
 
@@ -15084,15 +15090,12 @@ travelling for any length of time will pass through hamlets, towns, cities and w
 
 Room and Board
 
+Total
+
 3 CP
 15 CP
 7 SP
 25 SP
-
-6 CP
-30 CP
-14 SP
-50 SP
 
 Travel Expenses
 Living Standard
@@ -15111,27 +15114,30 @@ Whilst many days may go by before a traveller encounters another soul, when that
 it might be significant. Travellers face the hazards of banditry but also fellow travellers or encounters 
 made on the open road might be a source of news, information or even further adventures.
 
-4 CP
-20 CP
-10 SP
-35 SP
-
-3 CP
-15 CP
-7 SP
-25 SP
-
-Total
-
 9 CP
 45 CP
 21 SP
 75 SP
 
+6 CP
+30 CP
+14 SP
+50 SP
+
+4 CP
+20 CP
+10 SP
+35 SP
+
 7 CP
 35 CP
 17 SP
 60 SP
+
+3 CP
+15 CP
+7 SP
+25 SP
 
 Use these encounters as random events to spice-up a period of travel, or as the basis for a crafted 
 encounter leading up to the next crucial event in a story. The encounters are divided into terrain 
@@ -15140,10 +15146,6 @@ types but the Nature of Encounter table is common to all encounter tables.
 Urban and Road Encounters
 1D100
 01
-
-02
-03
-04–05
 
 Result
 1D6 travelling nobles, each with an entourage of a further 1D6+1 servants, 
@@ -15171,6 +15173,10 @@ A general sway of locals travelling to and from their business.
 Thief, pickpocket or bandit.
 Adventurers are lost; roll on the Rural Encounters table.
 
+02
+03
+04–05
+
 06
 07
 08
@@ -15189,12 +15195,12 @@ Adventurers are lost; roll on the Rural Encounters table.
 66–90
 91–95
 96–00
-Rural Encounters
 
 234
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-1D100 Result
+Rural Encounters
+1D100 Result
 01–05
 06
 
@@ -15263,6 +15269,8 @@ Lost – roll on the Wilderness Encounters.
 76–80
 
 81–00
+
+81–00
 Wilderness Encounters
 1D100
 01
@@ -15299,14 +15307,12 @@ A  monster  or  huge,  legendary  predator,  complete  with  nearby  lair  and  
 chance of prisoners.
 Lost. Roll on Wastelands table.
 
-81–00
-Wastelands Encounters
-
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 235
 
-1D100
+Wastelands Encounters
+1D100
 01
 02
 03–05
@@ -15314,9 +15320,6 @@ Wastelands Encounters
 11–70
 71–80
 81–90
-
-91–95
-96–00
 
 Result
 A village of 1D10 x20 people.
@@ -15330,6 +15333,9 @@ chance of prisoners.
 Dangerous terrain – quicksand, rockfalls, pits or swamps.
 A  magically  potent  foe:  sorcerer,  monster  of  heroic  abilities  and  so  on,  with  a 
 nearby lair.
+
+91–95
+96–00
 
 Nature of Encounter Table
 1D100
@@ -15361,7 +15367,7 @@ Very Hostile. Encounter launches an unprovoked attack.
 96–00
 
 236
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 LEGEND player
 
@@ -15522,7 +15528,7 @@ Load
 
 ENC
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 LEGEND player
 
@@ -15594,7 +15600,7 @@ Lore
 
 Cult Skills:
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 Specific Duties:
 
@@ -15635,7 +15641,7 @@ we produce in, say, Pirates of Legend, knowing that everyone who plays Legend wi
 
 be familiar with those rules.
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
 OPEN GAME LICENSE Version 1.0a 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc 
@@ -15702,6 +15708,25 @@ the extent necessary to make it enforceable.
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. 
 Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd
 
-186.204.39.123
+Jeremy Bauerle (order #5555197)
 
-
+WELCOME TO LEGEND
+
+This book contains all you will need for adventuring in worlds of sword and 
+sorcery, where a good blade is all that stands between you and certain doom.  
+The rules presented in this volume can be tailored to a wide variety of settings 
+and genres although the focus is primarily on gritty fantasy with a heroic feel. 
+These rules are not confined to just one world: the rules are characterised by 
+flexibility and intuition, permitting Games Masters and their Adventurers to 
+explore just about any milieu they care to. The game focuses on characters and 
+their capabilities, grounding everything from an adventuring perspective. Using 
+
+Legend as the basis, many different settings and worlds are possible – all it 
+
+takes is imagination.
+
+MGP 8300 US$19.99
+
+Jeremy Bauerle (order #5555197)
+
+LegendLegend
