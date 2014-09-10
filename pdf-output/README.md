@@ -7,10 +7,10 @@ The examples below show the commands issued to create the text dumps of the pdfs
 ### poppler utils
 
 Create a text-only dump of the pdf:  
-`pdftotext legspiritmagic.pdf pdftotxt.txt`
+`pdftotext legspiritmagic.pdf pdftotext.txt`
 
 Create a text-only dump that tries to preserve the layout of the pdf:  
-`pdftotext -layout legspiritmagic.pdf pdftotxt-layout.txt`
+`pdftotext -layout legspiritmagic.pdf pdftotext-layout.txt`
 
 Quietly (-q) create a single (-s) html file from all pdf pages, ignoring images (-i):  
 `pdftohtml -q -s -i legspiritmagic.pdf pdftohtml.html`  
