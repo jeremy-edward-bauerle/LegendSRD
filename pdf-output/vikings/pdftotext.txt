@@ -1,10 +1,6 @@
 vikings of
 
 legend
-
-vikings of
-
-legend
 A complete setting and background book for Legend, Vikings of Legend brings to
 life both the history and the myths of the most fierce-some warriors to take to the
 sea! From character creation to vicious foes to face in battle, Pete Nash leads you
@@ -13,11 +9,9 @@ On top of all that, the text is completely designated as Open Content!
 
 MGP 8306
 
+Jeremy Bauerle (order #6303863)
+
 US$24.99
-
-Alex Greene (order #3234876)
-
-78.150
 
 VIKINGS OF
 
@@ -28,29 +22,29 @@ Contents
 
 Author
 
-Introduction	
+Introduction
 
 2
 
 Legend Conversion
 
-The Viking Age	
+The Viking Age
 
 4
 
 Editor
 
-Viking Life	
+Viking Life
 
 23
 
 Layout and Graphic Design
 
-Viking Adventurers	
+Viking Adventurers
 
 63
 
-Viking Equipment	
+Viking Equipment
 
 86
 
@@ -76,19 +70,19 @@ without whom I would never have started
 writing Historical RPG settings. You are my
 mentor and inspiration.
 
-Viking Religion	
+Viking Religion
 
 110
 
-Viking Magic	
+Viking Magic
 
 136
 
-Viking Creatures	
+Viking Creatures
 
 171
 
-Viking Campaigns	
+Viking Campaigns
 
 215
 
@@ -101,9 +95,7 @@ System Reference Document are considered to be Open Game Content. All other sign
 names, places, items, art and text herein are copyrighted by Mongoose Publishing. All rights reserved.
 Printed in USA
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 INTRODUCTION
 ‘Sigurd goes forth before the banners, and has the good sword Gram in his hand, and smites
@@ -143,9 +135,7 @@ and perhaps anachronistic considering the length of time the Viking age spans.
 
 2
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Included are in-depth descriptions of Viking society, religious belief, magic, supernatural
 creatures and so on. Vikings of Legend is designed to be the basis for not just historical games
@@ -158,11 +148,9 @@ The ideas presented here are simply guidelines. Feel free to change what you wil
 ignore rules, modify history. As always Your Legend May Vary. Now grab your Dane
 axe, turn the page and enjoy!
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 3
-
-7
 
 The Viking Age
 The same year also a great army of the pagans came with three hundred and fifty ships to
@@ -201,9 +189,7 @@ frightening places jealously guarded by the Lapp tribes.
 
 4
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 With the slow onset of stability, the population began to grow as petty kingdoms formed
 and merged. What cleared land existed was already settled, so young men not destined
@@ -245,11 +231,9 @@ of Portland. The reeve of King Beorhtric rode to meet the strangers, assuming th
 traders and requested they accompany him to the villa of the Wessex King; whereupon
 the reeve and his men were slain. This was the first recorded instance of conflict with
 the Vikings and what provoked the attack is unknown.
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 5
-
-7
 
 Historical Accuracy
 A major difficulty of any historical roleplaying supplement is the naming of historical
@@ -292,9 +276,7 @@ become tributaries. Once they realised the danger they faced, the Irish kings be
 
 6
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 fight back, winning some significant victories, but it was too little too late. The Vikings
 held onto their coastal settlements, managing to form their own petty kingdoms and
@@ -337,10 +319,7 @@ King Edmund of Anglia. The king refused, so the next year Ivar returned with an
 army and defeated Edmund at Hoxne. He sacrificed the king to Odin in the ‘blood
 eagle’ ritual, adding East Anglia to the Danish conquests of Northumbria and parts of
 Mercia.
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 7
 
@@ -386,9 +365,7 @@ Kentish contingent, a great mutual slaughter ensued, which led to the deaths of 
 
 8
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 This setback persuaded the Danes to desist their aggression until 911 when the
 Northumbrian Danes wrought havoc on Mercia for a second time, only to be defeated
@@ -431,11 +408,9 @@ anything in Ireland, took his Waterford fleet to northern Britain and fought a s
 of campaigns, which resulted in his Kingship of both Jorvik and Northumberland,
 binding the two under a single dynasty.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 9
-
-7
 
 Niall, King of Tara marched on Dublin in 919 but fell at the Battle of Islandbridge
 along with a great many other Irish leaders. Several years later Sitric left Dublin to
@@ -480,9 +455,7 @@ Leinstermen and Vikings.
 
 10
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 With no defenders remaining, Dublin was sacked again but Brian decided to reinstate
 Sigtrygg as King, granting the Viking one of his daughters in marriage. Calling upon
@@ -525,11 +498,9 @@ like the Shetlands and Orkneys, had been inhabited since Neolithic times. Other
 islands such as the Faeroes and Iceland itself were simply remote and uninhabited save
 for Christian hermits seeking isolation.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 11
-
-7
 
 Many Vikings settled the occupied islands, marrying into the local population and
 helping to weave the isles into their trade routes, bringing a degree of prosperity where
@@ -576,9 +547,7 @@ slowly fracture over the succeeding decades.
 
 12
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Finally between 834 and 839 the Vikings began attacking Frisia and Aquitane, slowly
 growing in confidence. Eventually realising that no organised resistance existed, from
@@ -623,11 +592,9 @@ the capital of the Rus lands, eventually to become known as Russia. Over the nex
 centuries the Varangians intermarried with the local Slavic tribes, gradually losing their
 Scandinavian roots.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 13
-
-7
 
 Many Varangians sailed up the Volkov, Lovat and Dnieper rivers creating new
 settlements or conquering existing towns along the trade route. The greatest threat
@@ -669,9 +636,7 @@ table should provide an invaluable resource for planning historically based camp
 
 14
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Viking Timeline
 Year
@@ -750,11 +715,9 @@ Vikings attack Flanders and approach the moth of river Seine.
 Archbishop Ebo of Rheims undertakes a mission to Denmark.
 Reign of King Horik Godfredsson of Denmark.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 15
-
-7
 
 Year
 832
@@ -834,9 +797,7 @@ Hastein and his fleet sack Luna in Italy.
 Hrafna-Floki sets out from the Faeroe Isles to locate Iceland, previously
 discovered by Naddoddr and originally named Snaeland (Snowland).
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Year
 860’s
@@ -916,11 +877,9 @@ Orkney.
 The Vikings raid along the Mediterranean coast.
 The Irish seize Dublin from the Vikings, ruling it for the next 15 years.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 17
-
-7
 
 Year
 907
@@ -1002,9 +961,7 @@ Norway divides into four kingdoms.
 Reign of Harald Greycloak of Norway. A son of Eirik Blood-Axe, he kills
 off his rivals to reunite Norway.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Year
 962–
@@ -1086,11 +1043,9 @@ wealthy men, is overthrown in a revolt and killed by his own slave who
 hoped for a reward. The slave instead is beheaded.
 Reign of King Olaf Tryggvason of Norway, who introduces Christianity.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 19
-
-7
 
 Year
 995–
@@ -1169,9 +1124,7 @@ Reign of King Cnut the Great over England.
 Reign of King Cnut over Denmark, inheriting the title after the death of
 his half-brother Harald.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Year
 1019–
@@ -1247,11 +1200,9 @@ Reign of King Harald Hardrada of Norway, noted for his harsh policies
 and formation of a standing army (hird).
 Reign of King Sweyn Estridsson of Denmark.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 21
-
-7
 
 Year
 1049
@@ -1292,15 +1243,13 @@ William, Duke of Normandy, defeats Harold Godwinson at the Battle of
 Hastings and is crowned King of England.
 The practice of ‘going Viking’ ends.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Viking Life
-The man who stands at a strange threshold, 
-Should be cautious before he cross it, 
+The man who stands at a strange threshold,
+Should be cautious before he cross it,
 Glance this way and that:
-Who knows beforehand what foes may sit 
+Who knows beforehand what foes may sit
 Awaiting him in the hall?
 — Havamal
 This chapter grants an overview of Viking society and culture, explaining the class
@@ -1330,11 +1279,9 @@ people. Larger farmsteads would typically number more folk.
 The reasons for such communal life are fundamentally due to the vast amount of land
 and work required to provide a subsistence level of living. In the poorer lands of the
 north, good arable land is rare, the soil stony or overgrown with forest and the ground
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 23
-
-7
 
 frozen or snow covered for five or six months of the year. Substituting herding for crop
 raising requires yet more land for grazing and winter fodder.
@@ -1379,9 +1326,7 @@ recovered from.
 
 24
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Thralls work alongside their owners but are generally given the hardest or most
 repugnant work to do. Male thralls often dig peat, reap hay, build walls or stay out
@@ -1404,11 +1349,9 @@ Most steadings possess several thralls with which they run the farm. Usually the
 of thralls is less than the karls to deter any thought of revolt, which occasionally does
 occur. Although rare, accounts tell of maltreated slaves killing everyone on the farm to
 ensure their escape.
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 25
-
-7
 
 ‘During the first winter, Hjorleifr decided to settle permanently where he had landed, by the
 headland where he built two houses. In the spring, he hitched two slaves to the plough in
@@ -1450,9 +1393,7 @@ under his authority and can be lost due to neglect or bias.
 
 26
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Jarls
 
@@ -1495,11 +1436,9 @@ man is technically outside of the law and cannot be charged. However this is not
 much an immunity from legal prosecution but rather a dangerous vulnerably due to
 lack of protection; indeed a vagabond can be robbed or even castrated with impunity!
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 27
-
-7
 
 Transients include, but are not necessarily limited to, tramps, sorcerers, seers, witches,
 beggars and of course outlaws. Although outside the law, some famous or infamous
@@ -1545,9 +1484,7 @@ or harm.
 
 28
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The Goading of Viking Women
 The power of women in Viking society is often expressed in the sagas by the incessant
@@ -1584,11 +1521,9 @@ hanged him for being a party to magic and for his cowardice. Katla cursed them a
 they stoned her to death for being a sorceress.’
 — Eyrbyggja Saga
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 29
-
-7
 
 Viking Warrior Women
 Despite the popular image of Shield Maidens in Viking society as portrayed by Saxo
@@ -1631,9 +1566,7 @@ odds or flee in terror when confronted by the supernatural.
 
 30
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 ‘Beware of going where overwhelming force opposes you. There is more honour in
 accumulating little by little than in overreaching and falling down flat.’
@@ -1678,11 +1611,9 @@ plunderer with ill fortune too. Many of the famous swords reputed to be forged b
 dwarfs were accursed items whose power tempted men to risk the bad luck associated
 with them.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 31
-
-7
 
 Generosity
 
@@ -1727,9 +1658,7 @@ remaining survivors:
 
 32
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 ‘There sat also a very handsome man with long hair, who twisted his hair over his head, put
 out his neck, and said, ‘Don’t make my hair bloody.’ A man took the hair in his hands and
@@ -1746,18 +1675,18 @@ not only a charitable act but also one of self preservation, since men facing de
 capable of desperate actions and most steadings are remote from their neighbours.
 
 The Art of Hospitality
-Greetings to the host, 
-The guest has arrived, 
+Greetings to the host,
+The guest has arrived,
 In which seat shall he sit?
-Rash is he who at unknown doors 
-Relies on his good luck 
-Fire is needed by the newcomer 
+Rash is he who at unknown doors
+Relies on his good luck
+Fire is needed by the newcomer
 Whose knees are frozen numb;
-Meat and clean linen a man needs 
+Meat and clean linen a man needs
 Who has fared across the fells
-Water, too, that he may wash before eating, 
-Handcloth’s and a hearty welcome, 
-Courteous words, then courteous silence 
+Water, too, that he may wash before eating,
+Handcloth’s and a hearty welcome,
+Courteous words, then courteous silence
 That he may tell his tale
 — Havamal
 
@@ -1769,11 +1698,9 @@ To grant hospitality is a double edged sword. Although it improves the host’s 
 and may forge bonds of friendship between strangers, there is a risk that the guest
 may outstay his welcome, since a host cannot force a guest to leave once hospitality
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 33
-
-7
 
 is granted. Many stanzas in the Havamal (the Viking poem that taught ethics and
 wisdom) advise against over eating, excessive drinking, boasting or making oneself a
@@ -1817,9 +1744,7 @@ member or king against a close friend.
 
 34
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Huskarls swear allegiance to their jarl or king, in return for being armed and supported.
 Such oaths can include promises to fight in the forefront of battle, never flee and
@@ -1863,11 +1788,9 @@ In many of the sagas, Viking men show their tenacity by overcoming the elements,
 battling to the last despite sporting horrific wounds. A man should be imperturbable
 no matter the circumstances.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 35
-
-7
 
 ‘They were very great swordsmen, and their onslaught was both hard and hot; and now they
 gave him some wounds with spear-thrusts, but he still fought on with great stoutness and
@@ -1910,9 +1833,7 @@ roof can be erected, in which to live during the assembly.
 
 36
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 As time passed and the Scandinavian clans and tribes became ever more unified, these
 things grew to encompass common law for entire nations, gaining names such as the
@@ -1951,11 +1872,9 @@ Stone. The case is opened with the plaintiff swearing an oath of honesty and sta
 accusation. He presents his witnesses, who either vouch for the plaintiff ’s honour and
 reputation, or recount their personal observation of the crime committed.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 37
-
-7
 
 The defendant is then allowed his rebuttal after swearing a similar oath of honesty.
 He may use the law to undermine his accuser’s position and attempt to invalidate
@@ -1999,9 +1918,7 @@ twice the worth of the loss. Even inappropriately touching a woman costs half a 
 
 38
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 twice that if the groping strayed nearer more sensitive locations; assuming of course the
 molester survives to reach court.
@@ -2041,11 +1958,9 @@ volunteer to take his place. This prevents intimidating men from simply bullying
 way out of law cases or using the tradition to legally extort property from legitimate
 owners.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 39
-
-7
 
 The participants of the duel settle the terms of the fight in advance, deciding what
 weapons can be used, who strikes first (usually the challenged man), the conditions
@@ -2088,13 +2003,9 @@ family, fearing her dishonour.
 
 40
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 After courting a woman, a suitor is expected to place a marriage proposal. Failing to
 do so is considered an insult to the family, with the predictable feuds and violence to
@@ -2135,9 +2046,7 @@ of indignity and frustration.
 
 42
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Death Rituals
 Death rituals across Scandinavia vary greatly according to wealth and status. Most folk
@@ -2178,11 +2087,9 @@ drained land, in close proximity to a source of drinking water and possess good 
 over their approaches. With lawlessness and raiding a constant threat, it bodes well to
 keep an eye out for the approach of strangers.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 43
-
-7
 
 Depending on the fertility and suitability of the land, the number of nearby steads can
 be limited, with large distances separating them. Few definable settlements existed; rather
@@ -2227,9 +2134,7 @@ might have a straw stuffed box-bed built inside a closet for a small amount of p
 
 44
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 and perhaps extra warmth. Trestle tables can be set up for meals or feasts but are taken
 down afterwards to keep the central areas clear. The few other objects of note may be
@@ -2270,11 +2175,9 @@ Those steads that border the sea or a river might possess a ship-house to protec
 vessel in winter and provide an indoor area to perform the myriad of repairs and
 maintenance required to keep it seaworthy.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 45
-
-7
 
 Farming
 
@@ -2318,9 +2221,7 @@ Game fish like salmon, perch, trout and pike live in most of the rivers and lake
 
 46
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 latter species often caught in the winter by drilling a hole in the ice and dangling a line
 into the freezing water.
@@ -2362,11 +2263,9 @@ no money.
 weather was abysmal through the year, causing the stead to lose a number of aurar
 (ounces) of silver equal to 150 minus the value of the unadjusted Lore (Farming) skill.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 47
-
-7
 
 Farmstead Productivity Modifiers
 Reason
@@ -2425,13 +2324,9 @@ Although built in strategic positions and granted protection by the local jarl o
 the trading towns remain prime targets for raiding. Most are fortified and maintain a
 garrison but often that does not save them.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 ‘Because the inhabitants of Birka are often attacked by pirates, and because they cannot
 defend themselves through force of arms, they try to defend themselves by cunning. They have
@@ -2475,9 +2370,7 @@ ship to overwinter at the destination whilst waiting for the prevailing conditio
 
 50
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Regional Exports in the Viking Period
 Region
@@ -2534,11 +2427,9 @@ the spread of sickness. Perhaps the most telling signs of their general health i
 fact that they are taller than the average European peasant and are famed for their
 handsomeness, which suggests a childhood free of the worst diseases.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 51
-
-7
 
 Appearance
 
@@ -2583,9 +2474,7 @@ before drying themselves.
 
 52
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Some Icelandic bathhouses tap into the natural hot springs available in the country,
 enabling settlers to bathe and swim even in mid winter, since the water never freezes.
@@ -2625,11 +2514,9 @@ wound should be torn open again, and the head set straighter. But all went as Sn
 guessed, and as soon as the sinews were knit together the head came right’
 — Eyrbyggja Saga
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 53
-
-7
 
 Professional healers (læknir) however are a rarity at the start of the Viking Age. Most
 healing is done by the women of the stead, so a wife skilled in leech-craft is very highly
@@ -2672,9 +2559,7 @@ retain his warriors in his hall, never requiring them to labour physically.
 
 54
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Of course some Vikings own the personal resources or hire themselves out to
 specialise in a specific profession. Craftsmen for example can be wandering tinkers
@@ -2717,11 +2602,9 @@ that he jumped to his feet and the bride and the bridegroom too, and nobody danc
 vigorously than they did.’
 — Bosa Saga
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 55
-
-7
 
 However, solo singing and dancing performances can also be used to demonstrate a
 Viking’s talent, in order to advance his own reputation or attractiveness to members of
@@ -2764,13 +2647,10 @@ item that is limited to the wealthy. Otherwise the only other instruments are th
 
 56
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 hand drum, similar to a bodhran, which probably came from the Lapp peoples to the
 north, and the metal ringed rattle.
-	
 
 Sports
 
@@ -2810,11 +2690,9 @@ two teams haul on a long length of rope. Viking toga honk sets two men opposite 
 other with bent knees, the soles of their feet pressed together. Both hold onto a small
 loop of strong rope and try to pull their opponent over by straightening their legs.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 57
-
-7
 
 Viking Sportsmanship
 These youths used to play at ball together at Midfjord Water. Those from Midfjord and
@@ -2856,9 +2734,7 @@ sometimes fatal outbursts are so bad, that in some areas gambling on games is fo
 
 58
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 How to Run Competitions
 Viking sports and games are an excellent form of non-combat challenges, which can
@@ -2894,7 +2770,7 @@ Tug of War (toga honk)
 Weight Lifting
 Wrestling (Glima)
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Skill
 Athletics
@@ -2911,8 +2787,6 @@ Brawn
 Unarmed
 
 59
-
-7
 
 The most famous Viking game is hnefatafl. The objective is to protect or capture a
 king piece (hnefi) defended by a small number of retainers, from the opponent’s more
@@ -2957,9 +2831,7 @@ since the concept of paying for such spectacles does not exist in Scandinavian s
 
 60
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The Vikings have a different type of animal baiting, fighting stallions against one
 another instead. Horses are easier to control, can be raised on grass and rarely fight to
@@ -2969,11 +2841,9 @@ the sagas it is obvious that the men remain close behind their horse continuing 
 it until the end. Fights continue until one stallion runs away, is injured too badly to
 continue or, occasionally, is killed.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 61
-
-7
 
 Horse fights are very popular at assemblies but private bouts can also be hosted. Men
 often bet heavily on the outcome of a fight. Women are forbidden to attend due to the
@@ -2995,9 +2865,7 @@ singlehandedly.
 
 62
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Viking Adventurers
 Now the hair of this Sigurd was golden-red of hue, fair of fashion, and falling down in great
@@ -3030,11 +2898,9 @@ community or have the warrior skills to back it up. Of course, alienating everyo
 result in being declared an outcaste but many sagas show the dramatic lives of those
 whose belligerence or aggression would never be tolerated in more civilised lands.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 63
-
-7
 
 In conclusion, Vikings present the perfect culture for warrior-adventurers. Whether
 motivated by greed, vengeance, ambition or simply a desire to seek out the unknown
@@ -3064,7 +2930,7 @@ table.
 Viking Characteristics
 ‘I have seen the Rus as they came on their merchant journeys and encamped by the Volga. I
 have never seen more perfect physical specimens, tall as date palms, blonde and ruddy’
-— The Risala of Ahmad ibn Fadlān
+— The Risala of Ahmad ibn Fadl n
 Adventurers, depending on race or culture, use different dice rolls to generate their
 Characteristics from the normal method in the Legend Core Rulebook. Although
 this may appear somewhat unfair or unbalanced, Games Masters can prevent player
@@ -3073,9 +2939,7 @@ same origin.
 
 64
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Scandinavians
 
@@ -3187,7 +3051,7 @@ Magic Points
 Movement
 Strike Rank
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Average
 11
@@ -3236,8 +3100,6 @@ AP/HP
 Traits:
 
 65
-
-7
 
 Eastern Europeans
 
@@ -3337,9 +3199,7 @@ allowed to choose their profession.
 
 66
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Æsir or Vanir
 
@@ -3447,7 +3307,7 @@ Magic Points
 Movement
 Strike Rank
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Average
 23
@@ -3495,8 +3355,6 @@ Typical Armour: Thick Skin
 Traits:
 
 67
-
-7
 
 Cultural Backgrounds
 As well as providing different Characteristics, culture also determines the types of skills
@@ -3547,8 +3405,8 @@ silver
 
 Select One
 Craft (Other),
-Select One
 Healing,
+Select One
 Dance +10%,
 Language (Any),
 Drive (Sled) +10%,
@@ -3557,28 +3415,28 @@ Ride +10%, Sing
 Poetry,
 +10%
 Shiphandling
-Athletics +10%,
+2D6x5
 Select Two
 Language
-2D6x5
-Culture (Own)
-Combat Styles (Native)
+Athletics +10%,
 silver
-+30%, Lore
+Combat Styles (Native)
+Culture (Own)
 from Bow,
 +50%%, Skiing,
++30%, Lore
 (Regional) +30%, Knife or Spear Survival
 Perception +10%, and gain a
-Stealth +10%
 +10% bonus to Select One
-each
+Stealth +10%
 Craft (Any),
-Select One
+each
 Healing, Play
-Dance +10%,
+Select One
 Instrument,
-Drive (Sled) +10%,
+Dance +10%,
 Track
+Drive (Sled) +10%,
 Sing +10%
 Brawn +10%,
 Select Two
@@ -3604,9 +3462,7 @@ Language (Any),
 Sing +10%
 Play Instrument
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Background
 Western
@@ -3675,8 +3531,8 @@ Language (Any),
 Lore (Any),
 Oratory, Play
 Instrument
-Courtesy,
 3D6x20
+Courtesy,
 Language
 silver
 (Native) +50%,
@@ -3684,12 +3540,12 @@ Language (Any)
 
 Select Two
 Art (Any), Craft
-Select One
 (Any), Healing,
-Dance +10%, Ride
+Select One
 Language
-+10%, Sing +10%
+Dance +10%, Ride
 (Other), Lore
++10%, Sing +10%
 (Any), Play
 Instrument
 Culture (Own)
@@ -3714,11 +3570,9 @@ Influence +10%,
 Play Instrument
 Sing +10%
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 69
-
-7
 
 Combat Styles
 
@@ -3795,9 +3649,7 @@ x5
 
 When determining starting money, adjust the value of silver by the wealth multiplier.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Professions
 Use the following professions depending on the Adventurer’s Social Rank or Cultural
@@ -3884,15 +3736,13 @@ Culture
 (Other),
 Select One Combat Style and gain a +10% Language
 (Other),
-bonus to it
 Lore (Other Region),
+bonus to it
 Survival
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 71
-
-7
 
 Profession
 Seer
@@ -3923,8 +3773,8 @@ Culture
 Language
 (Any),
 Shiphandling
-Athletics or Ride +10%, Resilience +10%
 Lore (Battle)
+Athletics or Ride +10%, Resilience +10%
 
 Shaman
 
@@ -3965,9 +3815,7 @@ enough to survive into old age.
 
 72
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 New Skills
 
@@ -4010,17 +3858,13 @@ Godi: Local leaders of the community, Godi are actually more akin to judges rath
 priests. Although they supervise religious ceremonies and make sacrifices, their chief
 purpose is to host community assemblies (things), present heralds and settle legal disputes.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 73
 
-7
-
 74
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Herdsman: Shepherds, goatherds, cowherds and swineherds, who free their flocks into
 the wilderness or up hillsides in the spring and summer, then gather them in late
@@ -4060,11 +3904,9 @@ Sorcerer: A Viking sorcerer is a worker of magic, either sung charms (seidr) or 
 carving. Although Odin himself was said to use seidr, it is normally considered a female
 art and rather unmanly. Conversely, rune carving is largely the province of men.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 75
-
-7
 
 Thief: Full time thieves do not really exist within rural Viking society, the population
 density being too low to support a criminal class. A thief could be a travelling brigand
@@ -4112,9 +3954,7 @@ can be used as personality guidelines or motivations for starting Adventurers, u
 
 76
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 have found their feet in the storyline of the campaign. Some entries may not be suitable
 for foreign Adventurers of non-Viking origin. If something incongruous comes up,
@@ -4187,11 +4027,9 @@ particularly heroic deed.
 Crushed under the snow fall from a roof and nearly died of suffocation –
 harbour a dislike of snow.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 77
-
-7
 
 1D100
 23
@@ -4271,9 +4109,7 @@ marrying object of desire once proven in battle or gained in wealth.
 In a fit of anger, publically cursed someone who promptly died in a tragic
 and unusual accident – gain the Seidr skill.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 1D100
 50
@@ -4348,11 +4184,9 @@ Regarded as the local coward, well-known in local community for a
 particularly unheroic deed.
 Robbed of all wealth, family now faced with destitution.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 79
-
-7
 
 1D100
 74
@@ -4429,9 +4263,7 @@ non-combat skill.
 Roll again and take both events.
 Roll twice more and take all events.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Allocate Free Skill Points
 I can play at tafl,
@@ -4469,11 +4301,9 @@ withhold selecting a nickname, since it is more atmospheric and rewarding to be
 granted one during a campaign by a notable personage, in recognition of some
 mighty deed.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 81
-
-7
 
 Male Viking Names
 1D100
@@ -4580,8 +4410,6 @@ Avaldr
 Avanger
 Balki
 
-Alex Greene (order #3234876)
-
 2
 Eldgrimr
 Eldiarn
@@ -4632,6 +4460,8 @@ Geirsteinn
 Geirthiolfr
 Geitir
 Gellir
+
+Jeremy Bauerle (order #6303863)
 
 3
 Hallgrimr
@@ -4837,8 +4667,6 @@ Viglundr
 Vigsterkr
 Vilbradr
 
-7
-
 1D100
 50
 51
@@ -4945,8 +4773,6 @@ Einarr
 Eindridi
 Eirikr
 
-Alex Greene (order #3234876)
-
 2
 Gestr
 Giafvaldr
@@ -4999,6 +4825,8 @@ Halldorr
 Hallfredr
 Hallgeirr
 Hallgils
+
+Jeremy Bauerle (order #6303863)
 
 3
 Hrafsi
@@ -5164,8 +4992,6 @@ Vilgeirr
 
 83
 
-7
-
 Female Viking Names
 1D100
 01–02
@@ -5273,7 +5099,7 @@ Fastny
 Finna
 Fiorleif
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 2
 Fregerdr
@@ -5418,8 +5244,6 @@ Vilborg
 Vilgerdr
 Yngvildr
 Ýrr
-
-7
 
 Viking Nicknames
 1D100
@@ -5732,7 +5556,7 @@ Scar-leg
 Scatter-Brain
 Scoffing
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Spike
 Split-stick
@@ -5807,8 +5631,6 @@ Worm-tongue
 
 85
 
-7
-
 Viking Equipment
 ‘The ring-linked coat of strongest mail could not withstand the iron hail,
 Though sewed with care and elbow bent, by Norn on its strength intent.
@@ -5847,9 +5669,7 @@ Another concept important to the setting is that there is no mass production. Ea
 is individually hand crafted and uniquely decorated. Since folk own so few possessions,
 stealing an item risks the chance of its recognition by the victim of the crime, or his
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 close friends and family. Looting a dead body is tantamount to broadcasting your guilt
 if the thief attempts to use or barter the articles in that area.
@@ -5888,11 +5708,9 @@ homespun clothes on his back and a rickety old spear, he would gain no bonus in 
 home of the karl; a –20% penalty at the hauldr’s stead and –40% in the jarl’s great hall
 where the word of the poor man would carry little influence.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 87
-
-7
 
 Games Masters who find their Adventurers awash with wealth can encourage them to
 purchase better quality items than the bog standard versions listed. A basic sword may
@@ -5937,9 +5755,7 @@ wine in exchange.
 
 88
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Armour
 Vikings do not possess a large range of protective armour. What exists is generally
@@ -5987,11 +5803,9 @@ Armour dooms its wearer – whilst worn all Resilience tests automatically fail.
 Armour hinders flight – the base Movement Rate of the wearer when
 running is halved.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 89
-
-7
 
 Armour Descriptions
 
@@ -6031,9 +5845,7 @@ worn by Norwegian and Icelandic Vikings for warmth, rather than protection.
 
 90
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Shirt: A shirt indicates an item of light protective value that fully covers the chest,
 abdomen and arms of the wearer.
@@ -6157,16 +5969,11 @@ Although the range and variation of Viking weapons is very limited, the handful
 adopted seem to fulfil their needs more than adequately. Due to the costs of bog or
 forged iron, most Vikings use cheaper weapons that require little metal to manufacture,
 such as spears and axes.
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 91
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Metal weapons are very expensive, not only in terms of iron required but the skill
 needed to forge them. The quality and size of Iron ingots available to Vikings is
@@ -6218,11 +6025,9 @@ normally used as a singlehanded weapon. If using both hands the damage dice is
 increased one step to 1D8+1. An axe can be used to bash through doors and obstacles
 rather quickly. It suffers no damage when attacking inanimate wooden objects.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 93
-
-7
 
 Club: Although seemingly incongruous in the Viking Age clubs are very popular
 weapons in some of the sagas where foes are immune to the bite of iron. A champion
@@ -6262,9 +6067,7 @@ tight hilts Viking swords cannot be used two handed.
 
 94
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Viking Shield: A large circular shield designed for foot combat. Its generous surface
 area provides excellent coverage but its construction from thin wood makes it fragile,
@@ -6407,11 +6210,9 @@ from the continent. Shaped to increase the chance of the blade striking rather t
 haft, a throwing axe is of little use against well armoured foes.
 Thrown Anvil: Just for fun...
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 95
-
-7
 
 New Combat Manoeuvres
 Some of the combat descriptions in the sagas offer up some interesting new tactics to
@@ -6451,9 +6252,7 @@ shield used to parry it, using the Pin Weapon Combat Manoeuvre. In this circumst
 
 96
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 the pinned shield cannot be used until the spear has been removed (which takes one
 round).
@@ -6580,11 +6379,9 @@ The following garments assume a basic item of clothing with no decoration. Fanci
 garb suitable to project wealth and importance multiplies the cost. Add all multipliers
 together before calculating the final cost of the item.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 97
-
-7
 
 The Naming of Weapons
 Vikings like to name their weapons and armour, whether from superstition that each
@@ -6627,7 +6424,7 @@ Tyrfingr – burning-fir
 
 98
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Axes
 Droplaugar – drip-water
@@ -6653,8 +6450,6 @@ Landkonnudr – land-prober
 Mail Hauberks
 Fulltrui – full-trust
 Sigfussnautr – Sigfuss’s gift
-
-7
 
 Enhancement Description
 Dyed
@@ -6717,11 +6512,9 @@ be satisfied by the farm itself. If you need a few weeks worth of food then you 
 mistress of the house to withdraw some provisions from the storehouse. If you need a
 new pair of shoes, then ask Uncle Arngrim who will knock up a pair overnight.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 99
-
-7
 
 Clothing
 Article of Clothing Description
@@ -6785,7 +6578,7 @@ more like a jumper when it is cold.
 
 100
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Cost
 2 Pennies
@@ -6810,11 +6603,7 @@ Cost
 7 Pennies
 10 Pennies
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Animals
 Type of Animal
@@ -6884,9 +6673,7 @@ used for exploration, merchant voyages or colonisation.
 
 102
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The identifying features of a Norse vessel are a clinker built hull with overlapping strakes,
 which has a shallow keel so it can be beached safely. The hull has a pointed prow and
@@ -6923,11 +6710,9 @@ represents damage to the integrity of the ship itself and ships do not heal of t
 accord. A ship must be hauled onto a beach or into a ship house for structure points
 to be repaired.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 103
-
-7
 
 Ram: Viking ships do not mount rams per se, their design is not intended to take the
 strain of a severe forward impact. Their curving arched prows however could probably
@@ -6970,9 +6755,7 @@ Cost: 100 marks of silver
 
 104
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Skeide
 A longship optimised for sea battles with a still narrow beam and little volume
@@ -7010,11 +6793,9 @@ Ram: None
 Skill: Shiphandling +10%
 Cost: 200 marks of silver
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 105
-
-7
 
 King Olaf’s Levy for War
 Soon after the king convoked a Thing in the town, and proclaimed to all the public, that in
@@ -7055,9 +6836,7 @@ Cost: 30 marks of silver
 
 106
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Byrding
 A small trading ship that is capable of sailing long distances over open ocean. They
@@ -7095,11 +6874,9 @@ Ram: None
 Skill: Shiphandling +10%
 Cost: 80 marks of silver
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 107
-
-7
 
 Knarr
 Broad but manoeuvrable, the knarr is a merchant ship able to traverse wide seas or
@@ -7144,9 +6921,7 @@ their flanks. From their positions they fire or throw missile weapons at their a
 
 108
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 including rocks and anvils, often using oars to prevent attacking ships from getting too
 close or to knock off potential boarders.
@@ -7161,11 +6936,9 @@ a boarding action, then a simple Opposed Test of the two helmsmen’s Shiphandli
 Boating skills, with a –20% penalty for the slower vessel, is sufficient to resolve whether
 it managed to avoid the engagement.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 109
-
-7
 
 Viking Religion
 ‘It is customary also to solemnise in Uppsala, at nine-year intervals, a general feast of all the
@@ -7203,9 +6976,7 @@ pantheon, continuing their worship in private.
 
 110
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Even after the religious persecution and the grudging acceptance of Christianity, the
 old ways of worship lived on. Up until 1078 the terrible sacrifices continued at Uppsala,
@@ -7247,11 +7018,9 @@ about in such a way, so why should a priest be able to? This cultural insensitiv
 to many violent conflicts and only ceases once hereditary kingships eventually start to
 replace the democratic freedoms of the people with feudalistic controls.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 111
-
-7
 
 The Old Ways
 A fundamental aspect of Scandinavian culture is how and why people worship the
@@ -7295,9 +7064,7 @@ for protecting the crops.
 
 112
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 A Pagan Sacrifice
 ‘It was an old custom, that when there was to be sacrifice all the freeholders should come to
@@ -7337,11 +7104,9 @@ it); and in Ibn Fadlan’s account he speaks of Rus merchants who, in gratitude 
 their cargoes, make a follow-up sacrifice of sheep or cattle to one of the gods saying
 ‘Truly, my Lord is content with me and has consumed the present I brought him’.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 113
-
-7
 
 Rewards of Worship
 Unlike the deities of other mythologies, the Norse gods do not appear to be particularly
@@ -7389,9 +7154,7 @@ fail if not overcome.
 •	 A fumble brings down the full displeasure of the entities, resulting in the venture
 failing disastrously.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 What no Churches or Guilds!?!
 Some Games Masters will be disappointed at the lack of Divine Magic churches or
@@ -7434,11 +7197,9 @@ rock to the north. Down in the depths of the void lay Hvergelmir, the spring of 
 From the well flowed 12 great rivers and as they flowed into the void froze, forming a
 gargantuan mountain of ice.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 115
-
-7
 
 When the mountain rose to the heights of Muspelheimr and Nifelheimr, the ashes
 from the fires melted the ice, creating clouds of steam that blew north causing never
@@ -7483,9 +7244,7 @@ consume their victims.
 
 116
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The Creation of Time
 
@@ -7531,11 +7290,9 @@ Helheim, where the souls of those who died of age or misfortune went after death
 This land was given over to Hel, a daughter of Loki who took up the mantle of their
 guardianship, ruling from her hall Eljudnir (Damp with sleet). Within the realm was
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 117
-
-7
 
 Halls of the Gods
 The Æsir of Asgardr have their own halls, built to their wants and needs. For campaigns
@@ -7578,9 +7335,7 @@ between the eagle and the wyrm.
 
 118
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The Time of Great Deeds
 
@@ -7622,11 +7377,9 @@ For easier reference the nine realms of Norse cosmology are:
 •	 Jotunheimr – The land of the giants.
 •	 Niflehel – The land of the dead.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 119
-
-7
 
 The giants feuded long and hard against the Æsir, many battles and quests were
 pursued between the rivals. Amongst them were the theft of Mjollnir, the challengers
@@ -7671,9 +7424,7 @@ slaughtered by Surtr. Heimdallr and Loki in mutual hatred kill each other. Thor 
 
 120
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The Days of the Week
 The Viking names of the weekdays are based upon names of the Norse gods.
@@ -7732,11 +7483,9 @@ The son of Odin and Frigg, fated to be accidentally killed by his brother Hodr. 
 is known as a gentle and wise god, for which he is fated to return after Ragnarok. He is
 also known as Balder or Baldur.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 121
-
-7
 
 Bor (The Son)
 
@@ -7793,13 +7542,9 @@ Gullinbursti, the ship, Skidbladnir and once owned a magic sword that fought by 
 
 122
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 but exchanged it to marry the giantess Gerd. He rules over Alfheim and fathered the
 royal line of the Yngling family.
@@ -7854,9 +7599,7 @@ hall, which has huge gates and a very high wall. Her appearance is half black (t
 
 124
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 of long dead flesh) and half normal. Whilst her realm is cold it is not a terrible place
 but a hall of restful peace for those who die of old age or misfortune. She punishes evil
@@ -7908,16 +7651,11 @@ giants Farbauti (Cruel Smiter) and Laufrey. He married three times producing man
 children. Firstly with Glut (Glow) who bore him two daughters, Eisa (Embers) and
 Einmyria (Ashes). His second dalliance with the giantess Angr-boda (Anguish-Boding)
 the shape-shifted Gullveig bore him the three monsters Hel, jormungand and Fenrir.
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 125
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 His third was with Sigyn who truly loved him. With her was birthed Vali and Narfi.
 Loki himself bore (as a mare) Sleipnir, the eight legged horse, after a mating with
@@ -7968,11 +7706,9 @@ The Vanir god of seafaring, he commands the wind and waves. The son of Nott and
 father of Freyja and Freyr. He briefly married Skadi but broke up when neither liked
 the other’s home.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 127
-
-7
 
 Norns, the
 
@@ -8020,13 +7756,9 @@ his mistress of the Wild Hunt.
 
 128
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Ran (The Ravager)
 
@@ -8080,9 +7812,7 @@ by the wolf Skoll who will consume her before Ragnarok.
 
 130
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Syn (Truth)
 
@@ -8134,16 +7864,11 @@ The disir sent to select those warriors fallen in battle worthy of being brought
 Valhalla, or serve the Einherjar in the evening banquets. Also known as Shield Maidens
 or Corpse Goddesses, they can shape-shift as swans or ravens, or they ride through the
 sky armed and armoured aback their horses.
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 131
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Then light shone from Logafell, and from that radiance there came bolts of lightning;
 wearing helmets at Himingvani. Their byrnies were drenched in blood;
@@ -8193,11 +7918,9 @@ Each of these gifts is a single exclusive power that can only be taken during Ad
 generation. They are not intended to be stacked together. Saying that, these powers
 could potentially be duplicated by some gift of magical effect during a campaign,
 drinking from the Well of Mimir for example might replicate the gift of Sagacity.
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 133
-
-7
 
 Gifts of the Gods
 
@@ -8248,9 +7971,7 @@ The recipient automatically succeeds in any test against fear, magical or otherw
 
 134
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Lucky
 Before any skill is rolled the user may spend a Magic Point to get an additional roll,
@@ -8296,11 +8017,9 @@ has no Strike Rank penalty. The protection only counts against iron or fire, bei
 considered a normal wolf skin against other forms of damage (2 points). Likewise the
 coat can be replaced if the Adventurer kills and skins the leader of a wolf pack singlehandedly. CON to his maximum rolled value plus an additional 1D6.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 135
-
-7
 
 Viking Magic
 Magic is a fundamental aspect of Viking superstition. Their world is filled with witches
@@ -8341,9 +8060,7 @@ the magic suffers a psychosomatic effect.
 
 136
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 For example, using a galdr to instil cowardliness in someone or giving a spurious prophesy
 of their doom, might actually result in the mechanical effects of a Demoralise spell.
@@ -8387,17 +8104,15 @@ Such are their power that Odin quested long and hard to find and master them. He
 sacrificed an eye to drink from the well of wisdom, before sacrificing himself on the
 world tree Yggdrasil – hanging upside-down for nine days, impaled by his own spear –
 until the Runes appeared to him.
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 137
 
-7
-
-Now is answered what you ask of the runes, 
-Graven by the gods, 
-Made by the All Father, 
+Now is answered what you ask of the runes,
+Graven by the gods,
+Made by the All Father,
 Sent by the powerful sage:
-It is best for man to remain silent. 
+It is best for man to remain silent.
 Although there are many forms of shamanism and Scandinavian sorcery, ultimately
 they are just alternative paths to tap the same powers. Similar ‘magical effects’ can
 be conjured with a ritual chant, a rune carved piece of bone or summoning the right
@@ -8474,9 +8189,7 @@ hamingja as a type of fiery energy.
 
 138
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The Forms of Viking Magic
 The magic recorded in the Viking eddas and sagas is, like their supernatural creatures,
@@ -8512,11 +8225,9 @@ Some forms of magic are considered to be feminine in nature, Seidr and Spa espec
 Men can wield these arts but at risk to their reputation and manhood. Rune Carving
 on the other hand, is normally the province of men.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 139
-
-7
 
 ‘Odin had the skill which gives great power and which he practiced himself. It is called seidr,
 and by means of it he could know the fate of a man and predict events that had not yet come to
@@ -8529,11 +8240,11 @@ Seidr Magic
 Roughly translatable as witchcraft, the practitioners of Seidr are called seidkona or
 seidman. These titles generally have a negative connotation because of the harm that
 this form of magic can cause.
-‘Shun a woman, wise in magic, 
+‘Shun a woman, wise in magic,
 Her bed and her embraces:
-If she cast a spell, you will care no longer 
-To meet and speak with men, 
-Desire no food, desire no pleasure, 
+If she cast a spell, you will care no longer
+To meet and speak with men,
+Desire no food, desire no pleasure,
 In sorrow fall asleep.’
 Generally speaking, using seidr involves chanting or singing spells called galdr. There
 are many forms of galdrar, in the poem Havamal, Odin claims to have mastered 18
@@ -8559,9 +8270,7 @@ suggested Galdrar and Galdrastafir (mystic symbols) follows Rune Carving.
 
 140
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The List of Charms
 The following exert is known as the Ljodatal, from the poem Havamal. It describes a list of
@@ -8569,137 +8278,135 @@ charms know by Odin as recounted by himself. It gives a wide range of magical in
 which are the source of much of the magic portrayed in the eddas and sagas. These are the basis
 for both Seidr and Rune Carving magic.
 The first charm I know is
-unknown to rulers 
+unknown to rulers
 Or any of human kind;
-Help it is named, 
+Help it is named,
 for help it can give In hours of
-sorrow and anguish. 
+sorrow and anguish.
 
-I know an eighth: 
-that all are glad of, 
+I know an eighth:
+that all are glad of,
 Most useful to men:
 If hate fester in the heart of a
-warrior, 
-It will soon calm and cure him. 
+warrior,
+It will soon calm and cure him.
 
 I know a second that the sons of
-men 
-Must learn who wish to be leeches. 
+men
+Must learn who wish to be leeches.
 
-I know a ninth: 
-when need I have 
-To shelter my ship on the flood, 
+I know a ninth:
+when need I have
+To shelter my ship on the flood,
 The wind it calms, the waves it
-smoothes 
-And puts the sea to sleep, 
+smoothes
+And puts the sea to sleep,
 
 I know a third: in the thick of
-battle, 
-If my need be great enough, 
+battle,
+If my need be great enough,
 It will blunt the edges of enemy
-swords, 
+swords,
 Their weapons will make no
-wounds. 
+wounds.
 I know a fourth:
-it will free me quickly 
-If foes should bind me fast 
+it will free me quickly
+If foes should bind me fast
 With strong chains, a chant that
-makes Fetters spring from the feet, 
-Bonds burst from the hands. 
-I know a fifth: no flying arrow, 
-Aimed to bring harm to men, 
+makes Fetters spring from the feet,
+Bonds burst from the hands.
+I know a fifth: no flying arrow,
+Aimed to bring harm to men,
 Flies too fast for my fingers to
-catch it 
-And hold it in mid-air. 
+catch it
+And hold it in mid-air.
 
-I know a tenth: 
-if troublesome ghosts 
-Ride the rafters aloft, 
+I know a tenth:
+if troublesome ghosts
+Ride the rafters aloft,
 I can work it so they wander
-astray, 
-Unable to find their forms, 
-Unable to find their homes. 
-I know an eleventh: 
+astray,
+Unable to find their forms,
+Unable to find their homes.
+I know an eleventh:
 when I lead to battle Old
-comrades in-arms, 
+comrades in-arms,
 I have only to chant it behind my
-shield, 
-And unwounded they go to war, 
-Unwounded they come from war, 
-Unscathed wherever they are. 
+shield,
+And unwounded they go to war,
+Unwounded they come from war,
+Unscathed wherever they are.
 
-I know a sixth: 
-it will save me if a man 
-Cut runes on a sapling’s Roots 
+I know a sixth:
+it will save me if a man
+Cut runes on a sapling’s Roots
 With intent to harm; it turns
 the spell;
-The hater is harmed, not me. 
+The hater is harmed, not me.
 
-I know a twelfth: 
-If a tree bear 
-A man hanged in a halter, 
-I can carve and stain strong runes 
+I know a twelfth:
+If a tree bear
+A man hanged in a halter,
+I can carve and stain strong runes
 That will cause the corpse to
-speak, 
-Reply to whatever I ask. 
+speak,
+Reply to whatever I ask.
 
 I know a seventh:
-If I see the hall 
-Ablaze around my bench mates, 
+If I see the hall
+Ablaze around my bench mates,
 Though hot the flames, they shall
-feel nothing, 
-If I choose to chant the spell. 
+feel nothing,
+If I choose to chant the spell.
 
-I know a thirteenth 
+I know a thirteenth
 if I throw a cup Of water over a
 warrior,
 He shall not fall in the fiercest
 battle,
-Nor sink beneath the sword, 
+Nor sink beneath the sword,
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 I know a fourteenth, that few
 know:
-If I tell a troop of warriors 
+If I tell a troop of warriors
 About the high ones, elves and
-gods, 
+gods,
 I can name them one by one.
-(Few can the nit-wit name.) 
-I know a fifteenth, 
-that first Thjodrerir 
-Sang before Delling’s doors, 
+(Few can the nit-wit name.)
+I know a fifteenth,
+that first Thjodrerir
+Sang before Delling’s doors,
 Giving power to gods, prowess
-to elves, 
-Fore-sight to Hroptatyr Odhinn, 
-I know a sixteenth: 
-if I see a girl 
+to elves,
+Fore-sight to Hroptatyr Odhinn,
+I know a sixteenth:
+if I see a girl
 With whom it would please me
-to play, 
+to play,
 I can turn her thoughts, can touch
-the heart 
-Of any white armed woman. 
-I know a seventeenth: 
-if I sing it, 
+the heart
+Of any white armed woman.
+I know a seventeenth:
+if I sing it,
 the young Girl will be slow to
-forsake me. 
-To learn to sing them, Loddfafnir, 
-Will take you a long time, 
+forsake me.
+To learn to sing them, Loddfafnir,
+Will take you a long time,
 Though helpful they are if you
-understand them, 
-Useful if you use them, 
-Needful if you need them. 
+understand them,
+Useful if you use them,
+Needful if you need them.
 I know an eighteenth that I never
-tell 
-To maiden or wife of man, 
-A secret I hide from all 
+tell
+To maiden or wife of man,
+A secret I hide from all
 Except the love who lies in my
-arms, 
+arms,
 Or else my own sister.
 
 141
-
-7
 
 To cast a galdr the user must make a successful test of their Seidr skill. The success level
 and value rolled on the dice are used as the target number to beat if the spell can be
@@ -8733,17 +8440,15 @@ knows at a maximum of Magnitude of 4. Technically his skill would allow him to c
 it at Magnitude 5 but his mind is incapable of manipulating it at that level.
 
 Rune Carving Magic
-Know how to cut them, know how to read them, 
-Know how to stain them, know how to prove them, 
+Know how to cut them, know how to read them,
+Know how to stain them, know how to prove them,
 Know how to evoke them, know how to score them,
 Know how to send them; know how to spend them
 — Havamal
 
 142
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Rune Carving is effectively the skill of invoking the power of the Runes by engraving
 or marking their physical shapes into objects, rather than singing them aloud. Such
@@ -8783,11 +8488,9 @@ horse, was fixed atop the pole and it was enchanted with a ceremony to give it p
 By far the most skilful rune carvers are the dwarfs. Their mastery is such that they can
 craft wondrous weapons and artefacts unachievable by the mortals and gods alike.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 143
-
-7
 
 ‘And when all was ready for sailing, Egil went up into the island. He took in his hand a
 hazel-pole, and went to a rocky eminence that looked inward to the mainland. Then he took
@@ -8829,9 +8532,7 @@ effect, in which case the spell remains on ‘standby’ until activated by the 
 
 144
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 •	 The magic of a beneficial talisman transfers to whomever holds it.
 •	 The range of an offensive talisman is effectively unlimited – save that it cannot
@@ -8871,12 +8572,9 @@ by the spell) against the casting roll, in order to avoid the effect of the spel
 Galdrar usually only have a single recipient, either the caster themselves or a target;
 have unlimited range overland; and require no concentration to use. Spells which
 divert from this default mention the change specifically in their description.
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 145
-
-7
 
 Animate Dead
 Enduring, Progressive
@@ -8917,9 +8615,7 @@ by the target, by two.
 
 146
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Break Charm
 Instant, Progressive
@@ -8959,11 +8655,9 @@ necessarily of whom the caster was.
 If the spell is cast when standing or immersed in the waters of a sea or lake, then it can
 reach targets that reside in that body of water.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 147
-
-7
 
 Ease Pain
 Enduring, Progressive
@@ -9008,9 +8702,7 @@ increase damage.
 
 148
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Random Curse Table
 D20
@@ -9098,12 +8790,9 @@ Heal Wound
 Enduring, Progressive
 For every point of Magnitude of this spell, the caster can repair one Hit Point of
 damage to an injured Hit Location. The healing takes the entire day and night of the
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 149
-
-7
 
 duration to complete. If the spell is terminated early, it grants a number of Hit Points
 in proportion to the time spent. For instance a Heal Wound 3, which is stopped after
@@ -9144,9 +8833,7 @@ roll can be made on the following table.
 
 150
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Random Madness Table
 1D8
@@ -9205,11 +8892,9 @@ Any hostile spell of equal or less Magnitude than the Reflect Charm is turned ba
 against its caster, who must resist their own magic if applicable. If the hostile spell has a
 greater Magnitude then it affects the recipient of the Reflect Charm as normal.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 151
-
-7
 
 Remain Unseen
 Enduring, Progressive
@@ -9250,9 +8935,7 @@ the same lake or sea.
 
 152
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Weave Illusion
 Enduring, Progressive
@@ -9295,12 +8978,9 @@ I saw and was silent, I saw and thought, I listened to the speech of folk;
 I heard deeming of runes, and they were not silent of redes,
 at the halls of the High One, in the halls of the High One, thus I heard tell’
 — Havamal
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 153
-
-7
 
 The power to see things which ‘have, are and will’ happen, can have a profound effect
 on a campaign.
@@ -9345,9 +9025,7 @@ completing his wyrd.
 
 154
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Spa (Pow+Int)
 
@@ -9389,11 +9067,9 @@ Foretelling the Future: The diviner may predict the fate awaiting the subjects. 
 literally the player chooses what will happen to the persons so affected by the prophecy.
 The Magic Point cost can vary dramatically depending on the orlog desired. Build up
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 155
-
-7
 
 the cost by selecting an option from each of the duration, reach and consequence tables
 and multiply the values together.
@@ -9468,9 +9144,7 @@ invested in the foretelling remain tied up, unable to recover. Thus using a prop
 
 156
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 destroy an enemy or promote a companion can weaken the seer for a significant period
 of time.
@@ -9508,11 +9182,9 @@ The only spirits available to Scandinavian shaman are Guardian Spirits (Fylgjur 
 Disir), Nature Spirits (Landvættir) and Curse Spirits (Mara).
 Ancestor Spirits are propitiated but never manifested or bound.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 157
-
-7
 
 Elemental Spirits are available but take the form of natural events or disasters, such as
 a forest fire or winter storm. They can never be physically manifested as a supernatural
@@ -9579,7 +9251,7 @@ Extent
 1 km diameter
 10 km diameter
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Manifestation
 As per Flame on the ‘Fire and Heat’ table in the
@@ -9588,8 +9260,6 @@ As above but a Large Flame.
 As above but a Small Fire.
 As above but a Large Fire.
 As above but an Inferno.
-
-7
 
 Water Spirits
 
@@ -9675,11 +9345,9 @@ their body as an incorporeal spirit or in its physical form. Manifesting or send
 forth their soul requires a successful test of the Shamanism skill and costs a single
 Magic Point.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 159
-
-7
 
 •	 Similar to normal fetches, the shaman can use his fylgjur senses to see spirits, souls
 and magical auras, without needing to enter a trance.
@@ -9727,9 +9395,7 @@ the same power followed as before, and they also howled like wolves.’
 
 160
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Shape-shifting differs from an animalistic spirit sending, in that spirit forms are
 usually the fylgjur of a shaman, whereas a shape-shifter is the physical body of the
@@ -9776,11 +9442,9 @@ The cost of shape-shifting is proportional to the bulk of the form being assumed
 Magic Point per 3 SIZ of the creature. It costs an Adventurer nothing to return to their
 original form.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 161
-
-7
 
 Since the animal shape is consistent with each transformation, an Adventurer that
 learns this skill should roll the STR, CON, SIZ and DEX of their animal form. If the
@@ -9824,9 +9488,7 @@ the victim to obtain the ring by any means necessary.
 
 162
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Magical Weapon Traits
 A number of the following weapons have unusual powers or abilities not currently
@@ -9861,11 +9523,9 @@ Sureshot (see page 125 of the Legend Core Rulebook)
 Returning: If thrown or shot, the weapon returns to the hand or quiver of the user,
 ready to be used on his next turn.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 163
-
-7
 
 Ægishjalmarr
 The ‘Helm of Awe’ is the helmet of Odin, which inspires terror in his foes. All who
@@ -9911,9 +9571,7 @@ The cloak grants the wearer the following skill: Shape-shifting (Falcon) 100%.
 
 164
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Hringhorni
 Balder’s mighty ship, the largest ever made, in which he and his wife Nanna were
@@ -9964,11 +9622,9 @@ Sigmund’s downfall and the fragments were later re-forged for his son Sigurd, 
 dwarf Regin. To prove its worth, the blade cleaved through the anvil upon which it was
 forged and was used to slay the dragon Fafnir.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 165
-
-7
 
 Damage STR/
 Combat
@@ -10022,9 +9678,7 @@ lump at Thor and he threw it back so hard it passed through an iron pillar and l
 
 166
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 into the giant’s body, killing him instantly. The magical gloves and following belt were
 gifts from the friendly giantess, Grid.
@@ -10079,11 +9733,9 @@ Returning
 that it would not find its way back, and when he wanted, it would be so small that it could
 be carried inside his tunic.’
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 167
-
-7
 
 Naglfar
 The ‘Nail Ship’ is the vessel constructed by the giant Naglfari to carry the giants to the
@@ -10135,9 +9787,7 @@ Poetry skill to 100%.
 
 168
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Tyrfing
 ‘Battle Fang’ is an infamous blade that never misses a stroke, can cut through stone and
@@ -10187,11 +9837,9 @@ which can be recharged with an appropriate investment of Magic Points.
 These items could be heirlooms still in existence long after their creators have died. To
 determine the Magnitude of their effect, roll on the table on page 170.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 169
-
-7
 
 1D100
 01–20
@@ -10231,9 +9879,7 @@ precisely like Odin’s magical curse of battle fetter on everyone in the enemy 
 
 170
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Viking Creatures
 ‘We return now to tell of Gest. Towards midnight he heard a loud noise outside, and very
@@ -10264,11 +9910,9 @@ creatures birthed by the jotnar. Yet most are either humanoid or animal in form.
 range of the truly fantastic is somewhat limited as the Scandinavians did not appear to
 have much imagination when compared to the chimerical wonders of other cultures.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 171
-
-7
 
 This chapter is broken into three sections for ease of use.
 •	 Animals: Characteristics of normal animals that can be freely encountered in
@@ -10312,9 +9956,7 @@ determine their number of Combat Actions and Strike Rank.
 
 172
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Fighting Quadrupeds
 As a rule when four legged animals fight, the creature places its head towards its
@@ -10404,21 +10046,21 @@ Perception 60% Persistence 35%,
 Resilience 85%
 
 Weapons
-Type		
-Trample		
-Gore		
+Type
+Trample
+Gore
 
-Size	
-H	
-L	
+Size
+H
+L
 
-Reach	
-T	
-M	
+Reach
+T
+M
 
-Damage		
-1D6+2D8	
-1D8+2D8	
+Damage
+1D6+2D8
+1D8+2D8
 
 AP/HP
 —
@@ -10427,11 +10069,9 @@ As for Head
 Combat Styles
 Gore 60%, Trample 75%
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 173
-
-7
 
 Combat Notes
 Aurochs prefer to fight by charging threats with their gore attack. If the target is
@@ -10511,6 +10151,32 @@ Right Front Leg
 Left Front Leg
 Head
 
+Traits: None
+Skills: Athletics 65%, Perception 50%,
+Persistence 50%, Resilience 85%, Stealth
+35%, Swim 45%, Track 35%
+
+Weapons
+Type
+Bite
+Claw
+
+Size
+S
+M
+
+Combat Styles
+
+174
+
+Bite 75%, Claw 60%
+
+Jeremy Bauerle (order #6303863)
+
+Reach
+T
+S
+
 AP/HP
 3/8
 3/8
@@ -10520,41 +10186,13 @@ AP/HP
 3/7
 3/8
 
-Traits: None
-Skills: Athletics 65%, Perception 50%,
-Persistence 50%, Resilience 85%, Stealth
-35%, Swim 45%, Track 35%
-
-Weapons
-Type		
-Bite		
-Claw		
-
-Size	
-S	
-M	
-
-Reach	
-T	
-S	
-
-Damage		
-1D8+1D10	
-1D6+1D10	
+Damage
+1D8+1D10
+1D6+1D10
 
 AP/HP
 As for Head
 As for Leg
-
-Combat Styles
-
-174
-
-Bite 75%, Claw 60%
-
-Alex Greene (order #3234876)
-
-7
 
 Combat Notes
 Bears rely on their fearsome claws first and foremost. Claws are capable of Sundering
@@ -10643,21 +10281,21 @@ Skills: Athletics 35%, Brawn 50%, Perception
 45%, Swim 80%, Track 35%
 
 Weapons
-Type		
-Bite		
-Claw		
+Type
+Bite
+Claw
 
-Size	
-M	
-L	
+Size
+M
+L
 
-Reach	
-T	
-S	
+Reach
+T
+S
 
-Damage		
-1D8+2D6	
-1D6+2D6	
+Damage
+1D8+2D6
+1D6+2D6
 
 AP/HP
 As for Head
@@ -10669,11 +10307,9 @@ Bite 85%, Claw 70%
 Combat Notes
 As per Bear.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 175
-
-7
 
 Boar
 
@@ -10759,21 +10395,21 @@ Skills: Athletics 25%, Evade 60%, Perception
 Stealth 55%, Track 25%
 
 Weapons
-Type		
-Bite		
-Tusk		
+Type
+Bite
+Tusk
 
-Size	
-M	
-M	
+Size
+M
+M
 
-Reach	
-T	
-T	
+Reach
+T
+T
 
-Damage		
-1D4+1D2	
-1D6+1D2	
+Damage
+1D4+1D2
+1D6+1D2
 
 AP/HP
 As for Head
@@ -10788,9 +10424,7 @@ tends to use Bash as its primary Combat Manoeuvre if trying to escape a hunt.
 
 176
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Eagle
 
@@ -10860,21 +10494,21 @@ Skills: Evade 90%, Flying 90%, Perception
 Stealth 70% (100% for Owls)
 
 Weapons
-Type		
-Bite		
-Claw		
+Type
+Bite
+Claw
 
-SIZ	
-S	
-S	
+SIZ
+S
+S
 
-Reach	
-T	
-T	
+Reach
+T
+T
 
-Damage		
-1D4–1D4	
-1D6–1D4	
+Damage
+1D4–1D4
+1D6–1D4
 
 AP/HP
 As for Head
@@ -10897,12 +10531,9 @@ prey. In such circumstances, they are often taught to Bash human opponents to tr
 and knock them prone, or strike for the eyes in order to blind and cause pain and
 distraction. Diving attacks are considered charges, often forcing a target without a
 shield to rely on Evade to avoid being pecked or scratched.
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 177
-
-7
 
 Elk
 
@@ -10988,21 +10619,21 @@ Skills: Athletics 60%, Evade 50%, Perception
 Stealth 75%
 
 Weapons
-Type		
-Antlers		
-Hoofs		
+Type
+Antlers
+Hoofs
 
-Size	
-L	
-M	
+Size
+L
+M
 
-Reach	
-M	
-S	
+Reach
+M
+S
 
-Damage		
-1D8+1D10	
-1D4+1D10	
+Damage
+1D8+1D10
+1D4+1D10
 
 AP/HP
 As for Head
@@ -11018,9 +10649,7 @@ and strength.
 
 178
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Horse
 
@@ -11107,17 +10736,17 @@ Skills: Athletics 75%, Brawn 50%, Evade
 Resilience 60%
 
 Weapons
-Type		
-Hoof		
+Type
+Hoof
 
-Size	
-M	
+Size
+M
 
-Reach	
-M	
+Reach
+M
 
-Damage		
-1D6+1D6	
+Damage
+1D6+1D6
 
 AP/HP
 As for Leg
@@ -11129,11 +10758,9 @@ Combat Notes
 Horses generally Bash their opponents. They can kick with their hind legs or rear and
 strike with their forelegs.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 179
-
-7
 
 Hound
 
@@ -11212,17 +10839,17 @@ Skills: Athletics 65%, Evade 50%, Persistence
 Stealth 45%, Track 85%
 
 Weapons
-Type		
-Bite		
+Type
+Bite
 
-Size	
-S	
+Size
+S
 
-Reach	
-T	
+Reach
+T
 
-Damage		
-1D6–1D4	
+Damage
+1D6–1D4
 
 AP/HP
 As for Head
@@ -11240,9 +10867,7 @@ damage modifier as it pulls and rends.
 
 180
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Reindeer
 
@@ -11325,17 +10950,17 @@ Skills: Athletics 75%, Evade 70%, Perception
 Stealth 45%
 
 Weapons
-Type		
-Head Butt	
+Type
+Head Butt
 
-Size	
-M	
+Size
+M
 
-Reach	
-S	
+Reach
+S
 
-Damage		
-1D6+1D2	
+Damage
+1D6+1D2
 
 AP/HP
 As for Head
@@ -11348,11 +10973,9 @@ Reindeer prefer to flee from danger, unless overwhelmed by hunger. Bull reindeer
 become aggressive during rut and cow reindeer will fight to protect calves. The antlers
 are capable of causing an Impale.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 181
-
-7
 
 Shark
 
@@ -11429,17 +11052,17 @@ Skills: Brawn 40%, Perception 75%, Persistence
 40%, Resilience 60%, Swim 100%
 
 Weapons
-Type		
-Bite		
+Type
+Bite
 
-Size	
-H	
+Size
+H
 
-Reach	
-T	
+Reach
+T
 
-Damage		
-1D8+1D10	
+Damage
+1D8+1D10
 
 AP/HP
 As for Head
@@ -11462,9 +11085,7 @@ snakes. Whilst being slowly bitten to death he legendarily sung the following so
 
 182
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 ‘It gladdens me to know that Baldr’s father makes ready the benches for a banquet.
 Soon we shall be drinking ale from the curved horns.
@@ -11537,17 +11158,17 @@ Persistence 45%, Resilience 35%, Stealth
 95%
 
 Weapons
-Type		
-Bite		
+Type
+Bite
 
-Size	
-S	
+Size
+S
 
-Reach	
-T	
+Reach
+T
 
-Damage		
-None		
+Damage
+None
 
 AP/HP
 As for Head
@@ -11563,12 +11184,9 @@ Application: Injection
 Onset time: Pain immediately, nausea and vomiting after 30 minutes, loss of bowel
 and bladder control after 1 hour.
 Duration: 1D2 days
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 183
-
-7
 
 Resistance Time: The victim must make a single Resistance roll when first bitten.
 Failure indicates that the series of conditions will take effect at the proper onset time.
@@ -11672,29 +11290,27 @@ POW
 16–20
 
 Weapons
-Type		
-Tusks		
+Type
+Tusks
 
-Size	
-H	
-
-Reach	
-S	
-
-Damage		
-1D6+1D12	
-
-AP/HP
-As for Head
+Size
+H
 
 Combat Styles
 Tusks 70%
 
 184
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
-7
+Reach
+S
+
+Damage
+1D6+1D12
+
+AP/HP
+As for Head
 
 Combat Notes
 On land a walrus rears and plunges its tusks into an opponent, sometimes impaling.
@@ -11770,7 +11386,7 @@ Dice
 6
 3D6
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Hit Location
 Tail
@@ -11795,24 +11411,22 @@ Stealth 70%, Swim 75%
 
 185
 
-7
-
 Weapons
-Type		
-Bite		
-Ram		
+Type
+Bite
+Ram
 
-Size	
-E	
-E	
+Size
+E
+E
 
-Reach	
-T	
-T	
+Reach
+T
+T
 
-Damage			
-1D10+3D12		
-Half Damage Bonus	
+Damage
+1D10+3D12
+Half Damage Bonus
 
 AP/HP
 As for Head
@@ -11865,7 +11479,7 @@ Strike Rank
 
 186
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Average
 11
@@ -11914,24 +11528,22 @@ Skills: Athletics 80%, Evade 65%, Perception
 60%, Persistence 50%, Resilience 55%,
 Stealth 65%, Tracking 60%
 
-7
-
 Weapons
-Type		
-Bite		
-Claw		
+Type
+Bite
+Claw
 
-Size	
-M	
-M	
+Size
+M
+M
 
-Reach	
-T	
-M	
+Reach
+T
+M
 
-Damage		
-1D8		
-1D3		
+Damage
+1D8
+1D3
 
 AP/HP
 As for Head
@@ -11974,11 +11586,9 @@ Supernatural creatures will not, of course, be encountered in historical or ‘r
 campaigns, save for superstitious reference. They can appear in fantasy or mythological
 campaigns, where such beings freely exist.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 187
-
-7
 
 Some of the powers and abilities described for these creatures are rather tenuous and
 lack specific game mechanics. This is intentional, to allow a Games Master a great deal
@@ -12021,13 +11631,9 @@ spend a Magic Point they can discorporate, their body becoming intangible.
 
 188
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 STR
 CON
@@ -12132,9 +11738,7 @@ propitiated correctly the disir grant good luck. Such sacrificial ceremonies (di
 held in the autumn by the women of the household; and at the onset of winter too, the
 second with the family and guests attending.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 New Trait: Ancestor Sense
 The possessor of this trait can sense whenever a family descendant will face mortal
@@ -12234,11 +11838,9 @@ Battle Fetter, Blunt Weapon, Ease Pain,
 Instil Madness, Reflect Charm, Turn Dead
 and Ward Injury
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 191
-
-7
 
 Dragon
 
@@ -12282,9 +11884,7 @@ such as flayed bulls or horses with no ears, tails and a broken back.
 
 192
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 The Curse of the Walking Dead
 In the Eyrbyggja Saga there is a tale about the village of Frodis-water, which soon after
@@ -12323,11 +11923,9 @@ be, blue as hell, and big as a bull; and when they went about the raising of him
 in nowise stir him. So Thorod set lever-beams under him, and thereby they brought him up
 from the howe, and rolled him down to the seaside, and cut there a great bale, and set fire to
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 193
-
-7
 
 it, and rolled Thorolf therein and burned all up to cold coals; yet long it was or ever the fire
 would take on him. There was a stiff breeze, which scattered the ashes wide about as soon
@@ -12416,17 +12014,17 @@ Traits: Dark Sight, Night Sight
 Skills: As Before
 
 Weapons
-Type		
-Unarmed	
+Type
+Unarmed
 
-Size	
-S	
+Size
+S
 
-Reach	
-T	
+Reach
+T
 
-Damage		
-1D3+1D6	
+Damage
+1D3+1D6
 
 AP/HP
 As for Arm
@@ -12442,9 +12040,7 @@ on attacking rather than defending, so that they never bother to defend themselv
 
 194
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Grave Robbing
 The presence of great wealth within the burial mounds of early Vikings attracted the
@@ -12483,11 +12079,9 @@ cunning and maliciousness are legendary. Two dwarf brothers deliberately murdere
 Kvasir and brewed the mead of poetry (Odhroerir) from his blood. They sometimes steal
 women and children, seemingly because there are no female svartalfar to comfort them.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 195
-
-7
 
 Dvergar are skilled in magic, particularly the runes. They never pass on their knowledge
 however, save to teach an occasional mortal the true art of smithing. If tricked, dvergar
@@ -12588,9 +12182,7 @@ from the sleeping person, passing on visions of what they see in the form of dre
 
 196
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Famous Dwarfs
 
@@ -12633,15 +12225,11 @@ whether or not they are shamanists. When viewed with some form of second sight o
 mystic vision, each person’s fylgjur is revealed, allowing the viewer an insight into the
 personality and current temperament of those before them.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 197
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Unless an Adventurer is a full shaman who has mastered his fetch, players have no
 direct control over when their fylgjur acts or what it does. It is merely the form that
@@ -12688,7 +12276,7 @@ Dice Rolls
 19
 20
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 1D6
 1–3
@@ -12737,8 +12325,6 @@ Wolverine
 
 199
 
-7
-
 Jotnar
 
 The jotnar are the giants of Viking mythology. There are many different types of
@@ -12777,13 +12363,9 @@ cunning.
 
 200
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 STR
 CON
@@ -12859,29 +12441,29 @@ Magic: Jotnar rarely use magic save for the
 occasional shape-shifting
 
 Weapons
-Type			
-Unarmed		
-Giant 1H Sword		
-Giant 2H Maul		
-Thrown Boulder		
+Type
+Unarmed
+Giant 1H Sword
+Giant 2H Maul
+Thrown Boulder
 
-Size	
-L	
-H	
-E	
-E	
+Size
+L
+H
+E
+E
 
-Reach	
-M	
-L	
-VL	
-—	
+Reach
+M
+L
+VL
+—
 
-Damage		
-1D6+1D10	
-1D12+1D10	
-3D6+1D10	
-2D6+1D10	
+Damage
+1D6+1D10
+1D12+1D10
+3D6+1D10
+2D6+1D10
 
 AP/HP
 As for relevant limb
@@ -12911,9 +12493,7 @@ against the Giant’s Persistence, or take 1D4 points of fire damage to all Hit 
 
 202
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Those giants who live in the oceans, at the bottom of lakes or behind waterfalls can
 breathe water without harm. Sea jotnar in particular can control the weather upon the
@@ -12960,11 +12540,9 @@ to lure Thor and friend to his hall.
 •	 Vafthrudnir: Was slain after being tricked into a knowledge contest with Odin.
 •	 Ymir: The first giant whose corpse made the nine worlds.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 203
-
-7
 
 Kraken
 
@@ -13065,21 +12643,21 @@ Skills: Perception 65%, Persistence 55%,
 Resilience 80%, Stealth 70%, Swim 100%
 
 Weapons
-Type		
-Tentacle Lash	
-Arm Crush	
+Type
+Tentacle Lash
+Arm Crush
 
-Size	
-L	
-H	
+Size
+L
+H
 
-Reach	
-VL	
-VL	
+Reach
+VL
+VL
 
-Damage		
-1D6+1D6	
-1D3+1D12	
+Damage
+1D6+1D6
+1D3+1D12
 
 AP/HP
 As for Tentacle
@@ -13095,9 +12673,7 @@ automatically gains the Grip manoeuvre in addition to any others won in combat.
 
 204
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Unless driven to a berserk fury a kraken usually attacks stealthily; plucking several
 victims from a ship to fill its stomach and retreating under the waves. If the kraken
@@ -13149,7 +12725,7 @@ Magic Points
 Movement
 Strike Rank
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 Average
 19
@@ -13201,20 +12777,18 @@ Resilience 60%, Seduction 85%, Stealth 90%
 
 205
 
-7
-
 Weapons
-Type		
-Unarmed	
+Type
+Unarmed
 
-Size	
-S	
+Size
+S
 
-Reach	
-T	
+Reach
+T
 
-Damage		
-1D3+1D2	
+Damage
+1D3+1D2
 
 AP/HP
 As for Arm
@@ -13258,9 +12832,7 @@ The way to insult a tomte could be any of the following:
 
 206
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Conversely, a tomte will repay acts of kindness and respect, greatly reducing the work
 necessary to run the farmstead. Not only do they engage in physical labour but they
@@ -13304,12 +12876,9 @@ Nyke
 Nyke are malevolent spirits that adopt the forms of beautiful horses, which lure riders
 onto their backs. Once mounted the nyke then plunges into the nearby pool or river
 to drown the rider, who remains affixed to the horse. The only chance of survival is to
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 207
-
-7
 
 perform magical preparations before meeting the creature, refuse to be seduced into
 touching or mounting it, or attempt to kill the Nyke’s physical form before drowning!
@@ -13361,8 +12930,6 @@ Strike Rank
 
 208
 
-Alex Greene (order #3234876)
-
 Average
 25
 19
@@ -13379,13 +12946,6 @@ Average
 11–16
 17–20
 
-Hit Location
-Tail
-Right Wing
-Left Wing
-Body
-Head
-
 3
 +1D10
 13
@@ -13393,6 +12953,15 @@ Head
 +16
 
 Typical Armour: Scales
+
+Jeremy Bauerle (order #6303863)
+
+Hit Location
+Tail
+Right Wing
+Left Wing
+Body
+Head
 
 AP/HP
 8/10
@@ -13405,30 +12974,26 @@ Traits: Dark Sight, Night Sight
 Skills: Flying 100%, Perception 100%,
 Persistence 80%, Resilience 80%, Stealth 75%
 
-7
-
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Weapons
-Type		
-Bite		
-Tail		
+Type
+Bite
+Tail
 
-Size	
-H	
-H	
+Size
+H
+H
 
-Reach	
-L	
-VL	
+Reach
+L
+VL
 
-Damage			
-1D8+1D10+Poison	
-1D6+1D10		
+Damage
+1D8+1D10+Poison
+1D6+1D10
 
-AP/HP		
+AP/HP
 As for Head
 As for Tail
 
@@ -13471,9 +13036,7 @@ permanently destroyed. Only one attempt can be made per location.
 
 210
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Troll
 
@@ -13513,11 +13076,9 @@ some of the terrible monsters destined to kill the gods at Ragnarok. To save spa
 rather than repeating Characteristics for creatures which may never be used, a guideline
 is provided to allow Games Masters to quickly stat out each one.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 211
-
-7
 
 Legendary creatures possess these traits:
 •	 Maximum values for their Characteristics.
@@ -13563,9 +13124,7 @@ as described in the previous section.
 
 212
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Fenrir
 
@@ -13614,11 +13173,9 @@ dragon feuds constantly with the great eagle, which rests at the crown of Yggdra
 their insulting banter to one another carried back and forth by the squirrel Ratatosk.
 The maximised Characteristics of Nidhogg are of a dragon of double STR and SIZ.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 213
-
-7
 
 Skoll and Hati
 
@@ -13707,21 +13264,19 @@ sized reindeer
 Double sized wolves
 (rolled not maximised)
 
+1
 The descriptor Double or Triple Sized refers to the STR and SIZ Characteristics. The
 remainder remain intact save for the guidelines defined for legendary creatures.
-1
 
 214
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Viking Campaigns
-Cattle die, kindred die, 
+Cattle die, kindred die,
 Every man is mortal:
-But I know one thing that never dies, 
-The glory of the great dead 
+But I know one thing that never dies,
+The glory of the great dead
 — Havamal
 
 Designing a Viking Campaign
@@ -13751,11 +13306,9 @@ the following issues. Each will have a significant bearing on how games are run,
 cultural roleplaying to Adventurer survivability and thus the enjoyment that players
 will gain from it.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 215
-
-7
 
 Family
 
@@ -13802,9 +13355,7 @@ fancy clothes or new weapons. For those with a lust for adventuring, their accum
 
 216
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 wealth could be used to pay for a ship to be built, fund an overseas expedition to find
 new lands (with an eye to becoming a landowner themselves), or raise an army of
@@ -13848,11 +13399,9 @@ most men have to protect their own property against theft, pillage or blood feud
 is why family and friends are so important. Acting dishonestly against one man of a
 community may cause the ostracism of the ‘criminal’ by other members of his society.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 217
-
-7
 
 Since the law applies to all and the law is defined and voted upon by the common
 people, the majority of Viking folk are protected against the misuse of authority by
@@ -13897,9 +13446,7 @@ with both antagonists becoming great friends, impressed with each other’s prow
 
 218
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 courage. In battle injured men are often left alive or offered surrender, permitted to
 live in exchange for their possessions or oaths. Games Masters should lead by example,
@@ -13942,11 +13489,9 @@ he deems a sea-borne threat is likely, threatening the Adventurer’s own vessel
 Since legislation must be voted upon by free men, it might fall upon the Adventurers
 to gather personal support so that such proposals never pass the vote to be entered
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 219
-
-7
 
 into law. Scenarios based on law changes may reveal massive corruption, bribery by
 interested parties or even intimidation tactics by rulers.
@@ -13990,9 +13535,7 @@ his own people.
 
 220
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Magic and Monsters
 
@@ -14035,11 +13578,9 @@ reindeer and elk flee to the top of hills to avoid the maddening plague. Viking 
 have no such option and suffer several miserable months being bitten to distraction.
 Whilst the climate in the north is tough, the Vikings suffer less in the way of natural
 disasters. Off the Norwegian, British and Icelandic coasts great storms often occur,
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 221
-
-7
 
 making sailing at some times of the year exceptionally dangerous. Iceland itself
 infrequently suffers volcanic eruptions, the soot, ash and poisonous gases sometimes
@@ -14084,9 +13625,7 @@ he cast his bill at Uspak and smote him on the thigh, and cut through it on the 
 
 222
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 the bone. Uspak drew the bill from the wound and cast it back, and it smote the man in the
 midst who had erst cut at Uspak, and down he fell dead to the earth.’
@@ -14133,11 +13672,9 @@ shape-shifters, treachery and battle. An exciting and magical tale.
 families living in an Icelandic valley. Myth, romance and the twisting of fate
 interwoven with bitter disputes over land, marriage, divorce and inheritance.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 223
-
-7
 
 •	 Njal’s Saga – Another epic tale concerning the inexorable destruction of families
 involved in blood feuds.
@@ -14185,9 +13722,7 @@ mother soon follows.
 
 224
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Sailing Scenarios
 
@@ -14237,11 +13772,9 @@ next few days he performs feats of incredible strength, including wrestling a be
 or shattering a boulder, before mysteriously disappearing in the next thunderstorm
 several weeks later.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 225
-
-7
 
 •	 A Christian priest arrives at the stead of a maimed Adventurer and offers to cure
 the wound. If his offer is accepted the priest asks that the Adventurer be baptised
@@ -14292,9 +13825,7 @@ that morning and might be inclined to help locate the seller.
 
 226
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 •	 On the way home after a late feast at a neighbouring stead, the Adventurers are
 ambushed by a gang of sword armed men who inflict a number of serious wounds
@@ -14343,12 +13874,9 @@ be consulted for knowledge or galdr to win the challenges
 which local legend says lives under the nearby waterfall. A difficult swim gains
 entry into a dark grotto filled with ancient treasure but disturbs a real troll who
 has slept there undisturbed for decades. The monster is enchanted against iron and
-
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 227
-
-7
 
 huge to boot, thus its awakening promulgates a reign of terror over the region until
 the Adventurers think to search its hoard to find a weapon capable of harming it
@@ -14396,9 +13924,7 @@ the case in his favour.
 
 228
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 •	 One of the leading men in the region fancies himself as a ladies’ man and forces
 himself on an Adventurer’s wife, sister or daughter. When the case goes to the law
@@ -14440,11 +13966,9 @@ been elected as the new ruler. The amazing stroke of luck turns out to be less c
 cut since the Adventurer is intended to be a puppet for one of the current jarls
 seeking power for himself.
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 229
-
-7
 
 Supernatural Scenarios
 
@@ -14480,9 +14004,7 @@ slay the witch.
 
 230
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 Legend & Open Content
 Here at Mongoose Publishing, we want what we truly believe to be one of the best
@@ -14505,9 +14027,7 @@ For example, you might be using Legend to produce your own gaming world. If
 you wanted to add some high seas action, you can simply and quickly bring over
 the Open Content rules we produce in, say, Pirates of Legend, knowing that everyone who plays Legend will at least be familiar with those rules.
 
-Alex Greene (order #3234876)
-
-7
+Jeremy Bauerle (order #6303863)
 
 OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc
@@ -14567,18 +14087,9 @@ the extent necessary to make it enforceable.
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd
 Vikings of Legend, Copyright 2012, Mongoose Publishing Ltd
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
-7
-
-vikings of
-
-legend
-
-vikings of
-
-legend
-A complete setting and background book for Legend, Vikings of Legend brings to
+A complete setting and background book for Legend, Vikings of Legend brings to
 life both the history and the myths of the most fierce-some warriors to take to the
 sea! From character creation to vicious foes to face in battle, Pete Nash leads you
 through everything you need to start a complete campaign based in Viking society.
@@ -14586,10 +14097,8 @@ On top of all that, the text is completely designated as Open Content!
 
 MGP 8306
 
-Alex Greene (order #3234876)
+Jeremy Bauerle (order #6303863)
 
 US$24.99
-
-78.150.132.48
 
 
