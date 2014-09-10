@@ -30,6 +30,8 @@ tables containing game mechanics and statistics derivative of Open Game Content 
 Document are considered to be Open Game Content. All other signiﬁcant characters, names, places, items,
 art and text herein are copyrighted by Mongoose Publishing. All rights reserved. Printed in USA
 
+Jeremy Bauerle (order #5555197)
+
 SPIRIT MAGIC
 Spirit Magic is the practice of animism and ancestor worship. Spirit magicians call upon spirits
 which manifest their powers on behalf of their summoner or binder. These beings have many
@@ -67,6 +69,8 @@ perceive spirits and spiritually enter the Spirit Plane. The second allows them 
 dominate spirits in spirit combat.
 
 2
+
+Jeremy Bauerle (order #5555197)
 
 Spirit Walking (POW+CON)
 
@@ -112,6 +116,8 @@ skill of 45% could control spirits of up to 15 POW.
 The binding skill is also used for spirit combat – using mental domination to overcome
 immaterial beings in a battle of willpower. In this case the value of the Spirit Binding skill is
 used to calculate the amount of damage inﬂicted by the spirit magician during spirit combat.
+
+Jeremy Bauerle (order #5555197)
 
 3
 
@@ -186,6 +192,8 @@ The fetch may inﬂuence the personality of the shaman depending on its totem na
 bear spirit fetch may cause the shaman to become soporiﬁc during the winter).
 The fetch may draw upon the Magic Points of the shaman in times of dire need.
 The fetch will abandon the shaman if he betrays the teachings of his shamanic tradition.
+
+Jeremy Bauerle (order #5555197)
 
 A fetch starts with 200 skill points to be assigned to its skills. Fetches can grow in experience just
 as the shaman does. If desired, a shaman can transfer any or all of his skill improvement rolls to
@@ -274,6 +282,9 @@ Strike Rank
 
 20m ﬂying
 Refer to Spirit Damage table, using Spectral Combat skill
+
+Jeremy Bauerle (order #5555197)
+
 +13
 
 5
@@ -332,6 +343,8 @@ is automatic.
 
 6
 
+Jeremy Bauerle (order #5555197)
+
 The greatest strength of spirits is that their effects are persistent, lasting as long as it is let out from
 its fetish. This can make spirit magicians formidable foes, yet their spirits are vulnerable to spells
 such as the Banish, Spirit Block, or even blasting them with some form of magical damage. Once
@@ -352,6 +365,7 @@ combat. In addition, some mortals such as shaman can learn to discorporate thems
 Shamans can even bring others with them into the spirit world. Other methods exist too. Some
 narcotics and rare herbs are said to be able to separate the soul from the body and there are even
 spells that can replicate the effect magically.
+Jeremy Bauerle (order #5555197)
 
 7
 
@@ -398,6 +412,8 @@ body or fetish.
 
 8
 
+Jeremy Bauerle (order #5555197)
+
 If the defender runs out of Combat Actions with which to defend themselves, then they are left
 wide open and the attacker may attempt to make an unopposed attack roll. A character engaged in
 spirit combat may forgo their attack in order to cast magic instead.
@@ -440,6 +456,8 @@ Spirit Types
 There are many forms and types of spirits. They range in power from minor sprites all the way
 up to the Great Spirits who may be seasonal storm winds, plagues, turbulent rivers, terrifying
 wildﬁres or huge mountains.
+
+Jeremy Bauerle (order #5555197)
 
 9
 
@@ -503,6 +521,8 @@ POWx5% and a Persistence of POWx4%. Those which attack mortals by discoporation
 have a Discorporate skill of POWx5% and those which covertly possess victims also have
 a default Stealth skill of POWx4%.
 
+Jeremy Bauerle (order #5555197)
+
 Spirit Plane. Once summoned or located, the spirit can be asked questions concerning the family
 line, or events which happened during its lifetime. Such requests only require the successful use
 of the Inﬂuence skill and cost nothing further.
@@ -545,6 +565,8 @@ the insane, or those driven to suicidal revenge. If constrained to a fetish, ban
 against other spirits to engage them in spirit combat. If the bane spirit wins, it consumes the
 defeated spirit, destroying it utterly, including other bane spirits.
 Their characteristics are 1d6 for INT and CHA and a POW which ranges from 3d6 upwards.
+
+Jeremy Bauerle (order #5555197)
 
 11
 
@@ -599,6 +621,8 @@ Increase a skill – Gain a bonus to a skill used by that species.
 Manifest a Trait – Use a Trait possessed by the species, such as a special sense or
 movement.
 
+Jeremy Bauerle (order #5555197)
+
 X
 
 Combat Manoeuvre – Grants a speciﬁc combat manoeuvre which can be automatically
@@ -645,6 +669,8 @@ Long Hoof (Intensity 3 boost Movement, horse spirit) – INT 4, POW 22, CHA 5. C
 +5, HP 22, Spirit Damage +2d6. Persistence 88%, Spectral Hoof 110%. The spirit boosts the
 magician’s Movement by 3 metres.
 
+Jeremy Bauerle (order #5555197)
+
 13
 
 Swift Thought (Intensity 2 boost Strike Rank, mongoose spirit) – INT 4, POW 17, CHA 5. CA
@@ -683,6 +709,8 @@ Both types of spirit have an INT and CHA of 2d6. Their POW can range from 1d6+6 
 The bigger the POW the stronger they are in spirit combat and the more difﬁcult to exorcise
 once discovered. Each +6 grants an additional disease/poison effect (see Poisons & Diseases, page
 78 of the Legend Core Rulebook).
+
+Jeremy Bauerle (order #5555197)
 
 SHAMANISM FOR FUN
 AND PROPHETS
@@ -726,6 +754,7 @@ approach spirits in two ways: as beings with which they can communicate and as e
 which can be bound to service. A spirit magician’s most frequent interaction with spirits
 will be through the use of the Spirit Walking skill to communicate with them. In this respect
 spirits are non player characters who can be interacted with during game sessions. Spirit
+Jeremy Bauerle (order #5555197)
 
 15
 
@@ -809,6 +838,8 @@ to make themselves worthy of the gift. The ritual usually takes a week and at th
 
 16
 
+Jeremy Bauerle (order #5555197)
+
 the week the player should roll the spirit’s characteristics randomly based on the spirit’s
 Intensity. It is possible the spirit gained may be too powerful for the adventurer to control.
 Spirits with an Intensity of 5 or more are likely to have a POW of over 30 and a spectral
@@ -854,6 +885,8 @@ of a spirit and the more powerful a spirit is, the more dangerous it is likely t
 loses control.
 Commanding a spirit currently under its owner’s control to return to its fetish automatically
 succeeds and does not cost any Magic Points; this is an effect of the binding ritual. If however
+
+Jeremy Bauerle (order #5555197)
 
 17
 
@@ -917,6 +950,8 @@ spirits during Down Time and represent a minimum of risk and maximum guarantee o
 
 18
 
+Jeremy Bauerle (order #5555197)
+
 success. It takes 1D6 days of Down Time to ﬁnd and bind a friendly spirit, 2D6 days to ﬁnd
 a neutral spirit and 2D6+6 days of careful planning to safely ﬁnd a hostile spirit that can be
 bound.
@@ -964,6 +999,8 @@ by providing the Shaman with their name, becoming an ally of the shaman. In resp
 Shaman agrees to undertake some sort of repeating task or to uphold a geas or compulsion.
 On the most abstract level assume the task will cost the shaman one Improvement Roll per
 year to represent the service or inconvenience.
+
+Jeremy Bauerle (order #5555197)
 
 19
 
@@ -1019,6 +1056,8 @@ their POW. They also know Persistence at POWx4%, and Spectral Combat at POWx5%. 
 
 20
 
+Jeremy Bauerle (order #5555197)
+
 addition, for each level of Intensity an ancestor spirit can choose one additional skill which
 it knows at 90% plus its POW and pick twice from the following list:
 • another skill at 90% plus POW;
@@ -1066,6 +1105,8 @@ The differences between the elementals summoned by priests and wizards and the e
 spirits bound by Shamans are subtle but signiﬁcant. An elemental is summoned to the mundane
 plane and embodied within the appropriate source. A shaman is capable of embodying an
 elemental spirit, which means that shaman’s body itself becomes the elemental. Elemental
+
+Jeremy Bauerle (order #5555197)
 
 21
 
@@ -1125,6 +1166,8 @@ other, which means they risk being incinerated, drowned or otherwise affected du
 
 22
 
+Jeremy Bauerle (order #5555197)
+
 sheer scale of the elemental. Furthermore, if the concert breaks down as well as the potential
 backlash the shaman embodying the elemental spirit will no longer be able to control it.
 Although embodying an elemental spirit can be extremely impressive it also opens the
@@ -1173,6 +1216,7 @@ successfully resists with a critical then it is reasonable to assume the target 
 being discorporated by that particular shaman or spirit for at least a week. As discorporation
 is an extremely powerful ability then one option is to increase the cost for multiple attempts
 against the same person by one Magic Point each time. So the ﬁrst attempt at discorporation
+Jeremy Bauerle (order #5555197)
 
 23
 
@@ -1228,6 +1272,8 @@ has training in Spirit Walking may be able to mostly control their body showing 
 signs of stress. A shaman with a Fetch will be able to sit serenely, their body undisturbed
 while on the spirit plane the struggle ensues.
 
+Jeremy Bauerle (order #5555197)
+
 In campaigns with a lot of spirit combat various questions come up about how exactly ﬁghts
 occur and whether it is possible for one side to ﬂee. Generally speaking, if a spirit magician
 is looking for a spirit to bind he must hunt the spirit, sneaking close enough to it to be
@@ -1276,6 +1322,7 @@ regard spirits in one of three ways.
 Player characters who walk the spirit plane, binding spirits against their will and generally
 treating them as weapons and armour will soon gain a poor reputation both in the mundane
 world and on the spirit plane.
+Jeremy Bauerle (order #5555197)
 
 25
 
@@ -1333,6 +1380,8 @@ must manifest in order to use any of their abilities. While a Haunt is manifeste
 vulnerable to magical damage, however destroying it with damage simply drives it back to its
 binding until it has regained Magic Points through tapping its surroundings.
 
+Jeremy Bauerle (order #5555197)
+
 Dealing with a Haunt is not easy. Spirit Walking or magical senses may reveal the location of
 the binding object. Sometimes destroying the binding object is enough to release the Haunt
 but usually any attempt to release the Haunt requires determining why the spirit became
@@ -1350,6 +1399,8 @@ weapon is affected by some form of weapon enhancing magic then it can usually bl
 size equivalent for each point of Magnitude. As with any kind of combat both participants
 can generate Combat Manoeuvres where they are appropriate; being impaled by a spectral
 dagger is every bit as nasty as being impaled by a real one.
+
+Jeremy Bauerle (order #5555197)
 
 27
 
@@ -1374,6 +1425,8 @@ we produce in, say, Pirates of Legend, knowing that everyone who plays Legend wi
 familiar with those rules.
 
 28
+
+Jeremy Bauerle (order #5555197)
 
 OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc (‘Wizards’).
@@ -1438,6 +1491,7 @@ extent necessary to make it enforceable.
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd
 Spirit Magic, Copyright 2011, Mongoose Publishing Ltd
+Jeremy Bauerle (order #5555197)
 
 29
 
