@@ -9,7 +9,7 @@
 	<fontspec id="3" size="97" family="Times" color="#ffffff"/>
 	<fontspec id="4" size="13" family="Times" color="#ffffff"/>
 	<fontspec id="5" size="30" family="Times" color="#ffffff"/>
-	<fontspec id="6" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#d1d1d1"/>
 <text top="745" left="347" width="72" height="17" font="0">MGP 8304</text>
 <text top="745" left="440" width="64" height="17" font="0">US$19.99</text>
 <text top="563" left="96" width="479" height="17" font="0">An adventurer is only as good as his equipment, so the saying goes – and with </text>
@@ -27,7 +27,7 @@
 <text top="68" left="655" width="0" height="17" font="4">arms o</text>
 <text top="123" left="655" width="0" height="17" font="4">f</text>
 <text top="28" left="632" width="0" height="35" font="5">legendlegend</text>
-<text top="942" left="669" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="967" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="2" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="7" size="25" family="Times" color="#231f20"/>
@@ -86,7 +86,7 @@
 <text top="667" left="55" width="77" height="16" font="10">Playtesting </text>
 <text top="684" left="55" width="233" height="15" font="14">Christopher Morrell, Michael Parkin, James </text>
 <text top="699" left="55" width="203" height="15" font="14">Lodge, Peter Schofield and Ron Carver</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="3" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="15" size="24" family="Times" color="#231f20"/>
@@ -118,7 +118,7 @@
 <text top="627" left="43" width="500" height="17" font="10">Masters should be prepared to say No to players who, armed with this book, want </text>
 <text top="645" left="43" width="500" height="17" font="10">to spend their money on items listed but are clearly restricted. <i>Arms of Legend</i> is a </text>
 <text top="663" left="43" width="171" height="17" font="10">resource, not an entitlement.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="4" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="18" size="28" family="Times" color="#231f20"/>
@@ -182,7 +182,7 @@
 <text top="851" left="323" width="8" height="17" font="10">2</text>
 <text top="870" left="60" width="101" height="17" font="10">Water Flask (full)</text>
 <text top="870" left="323" width="8" height="17" font="10">1</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="5" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="15">4</text>
@@ -209,7 +209,7 @@
 <text top="835" left="43" width="500" height="17" font="10">intensive rituals and allow an individual to safely extract materials and body parts from </text>
 <text top="853" left="43" width="500" height="17" font="10">creatures without contaminating them. The Adventurer using this kit receives a +10% </text>
 <text top="871" left="43" width="435" height="17" font="10">bonus to all Heal Skill Tests made to extract materials from a dead creature.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="6" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="15">5</text>
@@ -255,7 +255,7 @@
 <text top="827" left="55" width="500" height="17" font="10">that can support creatures of size large or smaller. The open end of the triangle rests </text>
 <text top="845" left="55" width="500" height="17" font="10">across the wearer’s shoulders, while the tip of the triangle drags on the ground behind </text>
 <text top="863" left="55" width="500" height="17" font="10">– in most cases, the head of the fallen is positioned near the head of the wearer to </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="7" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="15">6</text>
@@ -299,7 +299,7 @@
 <text top="824" left="43" width="500" height="17" font="10">to use it but repeated uses can make the temper on the blade brittle and easily blunted. </text>
 <text top="842" left="43" width="500" height="17" font="10">Using the blade sharpener on any sort of non-iron bladed weapon (it has no effect on </text>
 <text top="860" left="43" width="386" height="17" font="10">iron weaponry) for one hour restores one Hit Point to the weapon.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="8" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="15">7</text>
@@ -342,7 +342,7 @@
 <text top="806" left="55" width="413" height="17" font="10">roarer should be swung, with its effects reversing if used the wrong way.</text>
 <text top="842" left="55" width="500" height="17" font="20"><b>Candle, X Hour: </b>From the small, stubby candle that will burn for one hour to the </text>
 <text top="860" left="55" width="500" height="17" font="10">metre  long  illumination  votive  used  in  cathedrals  and  temples,  candles  are  a  useful </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="9" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="15" width="5" height="30" font="15">8</text>
@@ -385,7 +385,7 @@
 <text top="808" left="43" width="500" height="17" font="10">use of a small grater (included in the cost), for filing into dust that can be scattered </text>
 <text top="826" left="43" width="500" height="17" font="10">or tossed over other items, hands and so on to absorb moisture or highlight things </text>
 <text top="844" left="43" width="145" height="17" font="10">difficult to otherwise see.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="10" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="576" width="5" height="30" font="15">9</text>
@@ -427,7 +427,7 @@
 <text top="814" left="55" width="500" height="17" font="20"><b>Doorjamb: </b>This wedge of serrated metal is roughly the length of a man’s hand, with </text>
 <text top="832" left="55" width="500" height="17" font="10">very rough rasps up and down two of its sides. It is used under a wooden door to keep </text>
 <text top="850" left="55" width="500" height="17" font="10">it from opening. It takes two Combat Actions to place and hammer a doorjamb into </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="11" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">10</text>
@@ -472,7 +472,7 @@
 <text top="824" left="43" width="500" height="17" font="10">the egg must make an Evade Skill Test. If they succeed, they have successfully averted </text>
 <text top="842" left="43" width="500" height="17" font="10">their eyes. If they fail the test, the combination of the explosive flash and the flour in </text>
 <text top="860" left="43" width="500" height="17" font="10">the air blinds them for one Combat Round. The flour cloud disperses after 1d4 rounds. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="12" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">11</text>
@@ -516,7 +516,7 @@
 <text top="824" left="55" width="500" height="17" font="20"><b>Fire Seed: </b>Most experienced travellers do not try to restart their fire every night. Instead </text>
 <text top="842" left="55" width="500" height="17" font="10">they carry a ceramic container called a fire seed, which contains several small holes to </text>
 <text top="860" left="55" width="500" height="17" font="10">allow oxygen to fuel the fire. This container holds a single coal from the fire the night </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="13" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">12</text>
@@ -559,7 +559,7 @@
 <text top="826" left="43" width="500" height="17" font="10">conditions without having to roll his Survival skill. Games Masters may wish to impose </text>
 <text top="844" left="43" width="500" height="17" font="10">penalties if the Adventurer is attempting to start a fire in a high wind, driving rain or </text>
 <text top="863" left="43" width="262" height="17" font="10">without the best fire-making kindling/wood. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="14" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">13</text>
@@ -604,7 +604,7 @@
 <text top="827" left="55" width="500" height="17" font="10">requires a Brawn Skill Test (with a penalty equal to the ENC or SIZ on the rope at </text>
 <text top="846" left="55" width="500" height="17" font="10">the time) to dislodge while in use. If used as a weapon, the grappling hook should be </text>
 <text top="865" left="55" width="238" height="17" font="10">considered a club (with a –15% penalty).</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="15" position="absolute" top="0" left="0" height="918" width="594">
 <text top="32" left="43" width="500" height="17" font="20"><b>Grappling  Hook,  Assassin’s:  </b>Designed  for  quiet  use  by  a  single  person,  this  small </text>
@@ -628,7 +628,7 @@
 <text top="393" left="43" width="90" height="17" font="10">additional 1 SP.</text>
 <text top="429" left="43" width="500" height="17" font="20"><b>Hand-striker: </b>A curled handle of metal with a tiny inset piece of flint attached by a </text>
 <text top="447" left="43" width="500" height="17" font="10">spring, the hand-striker is a fancy version of the flint and tinder (see above) wrapped up </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="16" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">15</text>
@@ -672,7 +672,7 @@
 <text top="832" left="55" width="500" height="17" font="10">chain, the howler makes a terribly loud and haunting wail like that of a great beast </text>
 <text top="850" left="55" width="500" height="17" font="10">when  twirled  rapidly  around  the  head.  Used  as  a  long-distance  signal  to  groups  of </text>
 <text top="868" left="55" width="500" height="17" font="10">allied soldiers or scouts, the sound can be heard for five kilometres on a clear day. Also, </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="17" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">16</text>
@@ -715,7 +715,7 @@
 <text top="800" left="43" width="500" height="17" font="10">opponent. To  deliver  the  knockout  powder  the  Adventurer  must  make  a  successful </text>
 <text top="818" left="43" width="500" height="17" font="10">unarmed attack. If successful the opponent must make a Difficult Resilience Skill Test </text>
 <text top="836" left="43" width="210" height="17" font="10">or fall unconscious for 1d4 minutes.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="18" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">17</text>
@@ -756,7 +756,7 @@
 <text top="789" left="55" width="375" height="17" font="10">source can create a heat source that can ignite flammable objects.</text>
 <text top="825" left="55" width="500" height="17" font="20"><b>Marbles:  </b>This  bag  of  a  100  or  so  marbles  can  provide  a  different,  and  sometimes </text>
 <text top="843" left="55" width="500" height="17" font="10">amusing,  alternative  to  cruel  caltrops.  One  bag  of  marbles  will  cover  a  three  metre </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="19" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">18</text>
@@ -799,7 +799,7 @@
 <text top="824" left="43" width="500" height="17" font="10">is packaged in small pottery containers or glass bottles, but can also occasionally be </text>
 <text top="842" left="43" width="500" height="17" font="10">found in waxed leather skins. A skin cannot be ‘broken’ as mentioned above – either </text>
 <text top="860" left="43" width="155" height="17" font="10">on purpose or accidentally.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="20" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">19</text>
@@ -843,7 +843,7 @@
 <text top="806" left="55" width="500" height="17" font="10">a –20% penalty on any roll to detect a single flavour (like a poison or potion) in the </text>
 <text top="824" left="55" width="500" height="17" font="10">food. If spread to cover a trail Pepper also causes any animals tracking by scent to </text>
 <text top="842" left="55" width="237" height="17" font="10">suffer a 50% penalty to their Track skill.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="21" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">20</text>
@@ -886,7 +886,7 @@
 <text top="806" left="43" width="500" height="17" font="10">sheath, this version allows the wearer to draw this weapon with the flick of his wrist – </text>
 <text top="824" left="43" width="500" height="17" font="10">which is considered automatic, does not cost an action and does not provoke Combat </text>
 <text top="842" left="43" width="489" height="17" font="10">Reactions. Also, it offers +10% to any Sleight Skill Tests to hide the sheath’s weapon.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="22" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">21</text>
@@ -931,7 +931,7 @@
 <text top="821" left="55" width="500" height="17" font="10">of the tool back and forth across the wall of a cavern or similarly confusing enclosed </text>
 <text top="838" left="55" width="500" height="17" font="10">structure, an easily recognised line can be made. A few more scratches and the line </text>
 <text top="856" left="55" width="500" height="17" font="10">becomes an arrow. Following these arrows back the way they point from should get an </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="23" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">22</text>
@@ -974,7 +974,7 @@
 <text top="822" left="43" width="500" height="17" font="10">wood at a rate of 1D4 Hit Points per round – ignoring AP from the wooden object. If </text>
 <text top="840" left="43" width="500" height="17" font="10">used as a makeshift weapon it can be used as a crude short sword (with a –15% penalty) </text>
 <text top="858" left="43" width="258" height="17" font="10">but will likely never be usable as a saw again.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="24" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">23</text>
@@ -1017,7 +1017,7 @@
 <text top="824" left="55" width="500" height="17" font="20"><b>Skates:  </b>These  are  hard  leather  shoes  with  sharp  blades  fixed  to  their  soles.  With </text>
 <text top="842" left="55" width="500" height="17" font="10">practice,  an  individual  will  find  he  can  move  quickly  and  easily  across  ice  covered </text>
 <text top="860" left="55" width="500" height="17" font="10">terrain, at far faster rates than if he were walking. Skating is an advanced skill using </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="25" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">24</text>
@@ -1059,7 +1059,7 @@
 <text top="788" left="43" width="100" height="17" font="10">a –10% penalty).</text>
 <text top="824" left="43" width="500" height="17" font="20"><b>Spices: </b>Much food has long been noted for both its filling qualities and its incredible </text>
 <text top="842" left="43" width="500" height="17" font="10">blandness. Merchants reacted to this early on by providing spices designed to make </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="26" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">25</text>
@@ -1084,7 +1084,7 @@
 <text top="791" left="55" width="135" height="17" font="10">throughout the temple.</text>
 <text top="828" left="55" width="500" height="17" font="20"><b>Torch, 1 Hour: </b>A torch has one end wrapped in cloth and dipped in pitch, oil or other </text>
 <text top="847" left="55" width="500" height="17" font="10">similar flammable substance. It can be lit with flint and tinder in one round, or in one </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="27" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">26</text>
@@ -1128,7 +1128,7 @@
 <text top="814" left="43" width="500" height="17" font="10">half pint of water. Any required Resilience Test for consuming such water is receives a </text>
 <text top="832" left="43" width="500" height="17" font="10">+10% bonus if the additive has been used. Water additive only works against potential </text>
 <text top="850" left="43" width="122" height="17" font="10">diseases, not poisons.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="28" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">27</text>
@@ -1167,7 +1167,7 @@
 <text top="754" left="55" width="500" height="17" font="10">cord, yarn can be used in a pinch to tie objects or reinforce clothing tears, but is also </text>
 <text top="773" left="55" width="500" height="17" font="10">known to be useful as a trail to follow in extremely dark settings such as caverns or </text>
 <text top="792" left="55" width="61" height="17" font="10">labyrinths.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="29" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="21" size="16" family="Times" color="#231f20"/>
@@ -1441,7 +1441,7 @@
 <text top="840" left="306" width="115" height="14" font="12">Knockout Powder, Vial</text>
 <text top="840" left="450" width="6" height="14" font="12">1</text>
 <text top="840" left="488" width="29" height="14" font="12">80 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="30" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">29</text>
@@ -1704,7 +1704,7 @@
 <text top="785" left="317" width="52" height="14" font="12">Yarn, 50m</text>
 <text top="785" left="453" width="6" height="14" font="12">1</text>
 <text top="785" left="494" width="25" height="14" font="12">7 CP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="31" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">30</text>
@@ -1812,7 +1812,7 @@
 <text top="812" left="311" width="232" height="17" font="20"><b>Cage,  2m  x  2m:  </b>Useful  for  holding </text>
 <text top="830" left="311" width="232" height="17" font="10">unruly animals that are either untrained </text>
 <text top="848" left="311" width="232" height="17" font="10">or just too savage to be left to their own </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="32" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">31</text>
@@ -1856,7 +1856,7 @@
 <text top="816" left="55" width="500" height="17" font="20"><b>Leash and Muzzle: </b>Some animals, like dogs and great cats, are not able to use a bit and </text>
 <text top="834" left="55" width="500" height="17" font="10">bridle. These animals have tearing teeth that are not safe to have exposed and free to </text>
 <text top="852" left="55" width="500" height="17" font="10">bite handlers or passers by. The leash and muzzle is a set of external leather straps that </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="33" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">32</text>
@@ -1899,7 +1899,7 @@
 <text top="806" left="43" width="500" height="17" font="10">or cracked hoof. Hoofed mounts that do not have shoes will need to be rested more </text>
 <text top="824" left="43" width="500" height="17" font="10">frequently  in  order  to  remove  detritus,  imposing  a  –10%  penalty  to  travel  times </text>
 <text top="842" left="43" width="253" height="17" font="10">through any type of rocky or stony terrain.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="34" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">33</text>
@@ -1943,7 +1943,7 @@
 <text top="834" left="55" width="500" height="17" font="10">carry a set of lock picks, a handful of coins or a few gemstones. It is commonly used by </text>
 <text top="852" left="55" width="500" height="17" font="10">thieves as the –50% penalty to Perception it imposes on anyone searching the wearer </text>
 <text top="870" left="55" width="234" height="17" font="10">makes it perfect for hiding small objects.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="35" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">34</text>
@@ -1984,7 +1984,7 @@
 <text top="580" left="43" width="496" height="17" font="10">natural cold. A winter cloak may also be used as a warm blanket/bedroll combination.</text>
 <text top="616" left="43" width="500" height="17" font="20"><b>Collar, Ornamental: </b>This item represents a wide variety of ornamental collars that can </text>
 <text top="634" left="43" width="500" height="17" font="10">alter an observer’s view of the wearer. From the leather and spikes of a gladiator, to the </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="36" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">35</text>
@@ -2028,7 +2028,7 @@
 <text top="806" left="55" width="500" height="17" font="10">be decorated to look however the wearer wishes it to. The lack of facial features and </text>
 <text top="824" left="55" width="500" height="17" font="10">hidden hair and skin grants a +10% bonus to Disguise rolls to hide the wearer’s true </text>
 <text top="842" left="55" width="48" height="17" font="10">persona.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="37" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">36</text>
@@ -2072,7 +2072,7 @@
 <text top="806" left="43" width="500" height="17" font="20"><b>Umbrella Hat: </b>This massive, slightly conical, reed hat reaches just past your shoulders. </text>
 <text top="824" left="43" width="500" height="17" font="10">Although somewhat clumsy they do a fine job of keeping the rain off of an Adventurer’s </text>
 <text top="842" left="43" width="31" height="17" font="10">head.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="38" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">37</text>
@@ -2214,7 +2214,7 @@
 <text top="104" left="55" width="500" height="17" font="10">chemicals safely and a space under the hem where a clever killer could place a garrotte. All </text>
 <text top="122" left="55" width="500" height="17" font="10">of these items should have a +15% Sleight skill bonus to avoid being noticed at a glance, </text>
 <text top="140" left="55" width="368" height="17" font="10">and can be reached by either hand as a standard Combat Action. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="39" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">38</text>
@@ -2279,7 +2279,7 @@
 <text top="840" left="170" width="51" height="17" font="10">Civilised</text>
 <text top="840" left="361" width="49" height="17" font="10">20,000+</text>
 <text top="840" left="473" width="8" height="17" font="10">2</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="40" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">39</text>
@@ -2320,7 +2320,7 @@
 <text top="815" left="55" width="500" height="17" font="10">daily business, as well as a number of individual shops where particular goods can be </text>
 <text top="833" left="55" width="500" height="17" font="10">bought and sold. At this size of settlement, monetary exchange has all but completely </text>
 <text top="851" left="55" width="500" height="17" font="10">replaced the barter system. A small city is very likely to be engaged in an active trading </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="41" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">40</text>
@@ -2362,7 +2362,7 @@
 <text top="826" left="43" width="500" height="17" font="10">With  populations  in  the  tens  of  thousands  a  capital  or  metropolis  has  the  widest </text>
 <text top="844" left="43" width="500" height="17" font="10">array of goods and services available. Most items can be found here, but prices are </text>
 <text top="862" left="43" width="500" height="17" font="10">not guaranteed to be low, despite the availability. Guilds may control pricing and aim </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="42" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">41</text>
@@ -2407,7 +2407,7 @@
 <text top="834" left="81" width="475" height="17" font="10">value or something esoteric, then he may make an Evaluate roll. If successful, he </text>
 <text top="852" left="81" width="474" height="17" font="10">has spotted a way of selling-in what he offers that is not obvious to the other party. </text>
 <text top="870" left="81" width="419" height="17" font="10">This grants a bonus to the following roll: either Influence or Commerce.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="43" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">42</text>
@@ -2462,7 +2462,7 @@
 <text top="723" left="43" width="500" height="17" font="10">have a bit more intricacy in the hilt, may hold an edge a little better or possess a more </text>
 <text top="741" left="43" width="500" height="17" font="10">comfortable grip, but in game terms the blade is effectively identical to that made by </text>
 <text top="759" left="43" width="93" height="17" font="10">the lesser smith.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="44" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">43</text>
@@ -2514,7 +2514,7 @@
 <text top="818" left="141" width="262" height="17" font="10">three quarters reflecting its shoddy durability.</text>
 <text top="838" left="60" width="47" height="17" font="10">0 or less</text>
 <text top="838" left="141" width="292" height="17" font="10">The project is simply not finished and is unusable.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="45" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">44</text>
@@ -2571,7 +2571,7 @@
 <text top="792" left="43" width="500" height="17" font="10">To complete a task, the person(s) involved makes a roll against the appropriate skill and </text>
 <text top="810" left="43" width="500" height="17" font="10">notes the level of success. Each roll contributes a certain percentage to the overall result </text>
 <text top="828" left="43" width="258" height="17" font="10">with the goal being to score 100% or higher.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="46" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">45</text>
@@ -2623,7 +2623,7 @@
 <text top="810" left="271" width="35" height="17" font="10">–10%</text>
 <text top="830" left="60" width="113" height="17" font="10">Good Quality tools</text>
 <text top="830" left="271" width="35" height="17" font="10">+20%</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="47" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">46</text>
@@ -2672,7 +2672,7 @@
 <text top="767" left="43" width="500" height="17" font="17"><i>Efficient and Highly Effective, giving it +5% to the Sword Combat Style and +1 Damage. </i></text>
 <text top="785" left="43" width="500" height="17" font="17"><i>However the sword does not look appreciably different to a standard sword. If he wants to </i></text>
 <text top="803" left="43" width="383" height="17" font="17"><i>charge more for it, then he must convince the client of its overall quality.</i></text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="48" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">47</text>
@@ -2718,7 +2718,7 @@
 <text top="770" left="78" width="129" height="17" font="10">roll identifies just one </text>
 <text top="788" left="74" width="133" height="17" font="10">– which is determined </text>
 <text top="806" left="145" width="58" height="17" font="10">randomly.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="49" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">48</text>
@@ -2756,7 +2756,7 @@
 <text top="838" left="43" width="500" height="17" font="10">armour is among the most attractive armour made. Every individual piece of enamelled </text>
 <text top="856" left="43" width="500" height="17" font="10">armour grants +10% to any Influence tests made toward onlookers, but also applies </text>
 <text top="874" left="43" width="373" height="17" font="10">that same bonus to any Perception tests made to spot the wearer.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="50" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">49</text>
@@ -2797,7 +2797,7 @@
 <text top="808" left="55" width="376" height="17" font="17"><i>Legend</i>. There are, however, certain specialised options as follows:</text>
 <text top="844" left="55" width="500" height="17" font="20"><b>Archer’s Armlet: </b>A stiffened piece of leather worn on the inside of the forearm of most </text>
 <text top="862" left="55" width="407" height="17" font="10">archers, protecting them from the bite of a slightly misfired bowstring.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="51" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">50</text>
@@ -2909,7 +2909,7 @@
 <text top="664" left="150" width="31" height="17" font="10">Head</text>
 <text top="664" left="256" width="260" height="17" font="10">Banded/Lamellar, Bezainted, Bone, Soft and </text>
 <text top="682" left="256" width="218" height="17" font="10">Hard Leather, Scalemail, Plate, Wood</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="52" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">51</text>
@@ -3009,7 +3009,7 @@
 <text top="327" left="237" width="15" height="17" font="10">—</text>
 <text top="327" left="289" width="17" height="17" font="10">All</text>
 <text top="327" left="482" width="42" height="17" font="10">500 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="53" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">52</text>
@@ -3054,7 +3054,7 @@
 <text top="814" left="43" width="500" height="17" font="10">modifications requires the smith to take the armour completely apart to be adjusted. </text>
 <text top="832" left="43" width="500" height="17" font="10">Like modifying weapons, there is always a risk to the structural integrity of the armour </text>
 <text top="850" left="43" width="350" height="17" font="10">and much of the time it is too expensive to experiment with.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="54" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">53</text>
@@ -3122,7 +3122,7 @@
 <text top="802" left="55" width="493" height="17" font="10">increases the Armour Penalty by 1 – even though the armour itself gains no additional AP.</text>
 <text top="837" left="55" width="500" height="17" font="20"><b>Wintered: </b>Adhering thick leather or furs to all of the spaces in normal armour, an </text>
 <text top="856" left="55" width="500" height="17" font="10">armoursmith can insulate any armour against the bitter cold and stiff wind of winter </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="55" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">54</text>
@@ -3164,7 +3164,7 @@
 <text top="806" left="43" width="500" height="17" font="10">and hold water quite easily. Although only available in areas near an ocean shore or </text>
 <text top="824" left="43" width="500" height="17" font="10">island community, coral is plentiful where it can be found at all – making it a rather </text>
 <text top="842" left="43" width="244" height="17" font="10">inexpensive (relatively speaking) material. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="56" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">55</text>
@@ -3222,7 +3222,7 @@
 <text top="800" left="334" width="200" height="17" font="10">x20 (and have materials on hand*)</text>
 <text top="824" left="55" width="514" height="17" font="10">* It is up to the Games Master to decide how much of a substance is enough to craft the </text>
 <text top="842" left="55" width="115" height="17" font="10">armour in question.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="57" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">56</text>
@@ -3264,7 +3264,7 @@
 <text top="807" left="43" width="500" height="17" font="10">creatures with a natural AP greater than 25 are unsuitable candidates for harvesting </text>
 <text top="825" left="43" width="500" height="17" font="10">armour from, as they usually gain these high APs from some factor other than simple </text>
 <text top="843" left="43" width="135" height="17" font="10">toughness of their skin.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="58" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="23" size="11" family="Times" color="#231f20"/>
@@ -3409,7 +3409,7 @@
 <text top="855" left="306" width="72" height="15" font="14">AP x30 weeks</text>
 <text top="855" left="401" width="72" height="15" font="14">AP x20 weeks</text>
 <text top="855" left="493" width="63" height="15" font="14">AP x100 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="59" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">58</text>
@@ -3447,7 +3447,7 @@
 <text top="735" left="43" width="500" height="17" font="10">Armour that goes too long without repairs might not withstand the rigours of combat </text>
 <text top="753" left="43" width="500" height="17" font="10">and become useless at the worst possible moment. It is up to the Games Masters to </text>
 <text top="771" left="43" width="492" height="17" font="10">decide exactly what happens when armour has gone too long without a maintenance.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="60" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">59</text>
@@ -3483,7 +3483,7 @@
 <text top="828" left="55" width="500" height="17" font="20"><b>STR/DEX: </b>The minimum STR and DEX scores needed to easily wield this weapon. </text>
 <text top="847" left="55" width="500" height="17" font="10">For every point a Characteristic is below these minimums, a –5% penalty is applied to </text>
 <text top="866" left="55" width="393" height="17" font="10">an Adventurer’s skill when attacking and parrying with this weapon.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="61" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">60</text>
@@ -3522,7 +3522,7 @@
 <text top="789" left="43" width="98" height="17" font="10">additional 10 SP.</text>
 <text top="825" left="43" width="500" height="17" font="20"><b>Battleaxe: </b>A single-bladed weapon with a sturdy haft, the battleaxe may be used with </text>
 <text top="843" left="43" width="500" height="17" font="10">one or two hands, depending on the wielder’s preference. A battleaxe can be used to </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="62" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">61</text>
@@ -3562,7 +3562,7 @@
 <text top="783" left="55" width="500" height="17" font="10">simply a long, stout piece of wood used to bludgeon others. However, there are several </text>
 <text top="801" left="55" width="500" height="17" font="10">cultures that have carved and cast clubs made of stone, bone or even metal – all of </text>
 <text top="819" left="55" width="421" height="17" font="10">which can be sculpted or decorated according to the wielder’s preference.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="63" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">62</text>
@@ -3607,7 +3607,7 @@
 <text top="834" left="43" width="500" height="17" font="10">wrapped in leather at the centre and was originally used for drawing rope up from the </text>
 <text top="852" left="43" width="500" height="17" font="10">surface of water onto the deck of a boat. Sailors quickly learned that the tool was just </text>
 <text top="870" left="43" width="228" height="17" font="10">as useful in hooking pirate flesh as well!</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="64" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">63</text>
@@ -3650,7 +3650,7 @@
 <text top="817" left="55" width="382" height="17" font="10">can bring any version of the weapon’s attack to bear in an instant. </text>
 <text top="853" left="55" width="496" height="17" font="20"><b>Harpoon: </b>A slightly shortened longspear with a sharp bladed head serrated with rear-</text>
 <text top="871" left="55" width="500" height="17" font="10">facing hooks, the harpoon is another boatman’s tool turned into ship defence weapon. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="65" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">64</text>
@@ -3693,7 +3693,7 @@
 <text top="806" left="43" width="197" height="17" font="10">made by the khopesh are at –5%. </text>
 <text top="842" left="43" width="500" height="17" font="20"><b>Kite Shield: </b>Kite shields are large shields with an inverted teardrop shape. This shield </text>
 <text top="860" left="43" width="500" height="17" font="10">can switch between both infantry and mounted use, and is extremely popular for those </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="66" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">65</text>
@@ -3718,7 +3718,7 @@
 <text top="803" left="55" width="261" height="17" font="10">the attack inflicts an additional 1D3 damage.</text>
 <text top="839" left="55" width="500" height="17" font="20"><b>Kunai:  </b>Originally  used  as  a  peasant  digging  tool,  the  kunai  is  a  roughly  triangular </text>
 <text top="857" left="55" width="500" height="17" font="10">piece of wrought metal with a rope or cloth wrapped handle. Usable as a dagger in </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="67" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">66</text>
@@ -3760,7 +3760,7 @@
 <text top="824" left="43" width="500" height="17" font="10">metal or wooden shaft, the military pick is designed to pierce heavy armour. Many </text>
 <text top="842" left="43" width="500" height="17" font="10">are built with spikes on opposite sides of the head, like those used by miners. Military </text>
 <text top="860" left="43" width="500" height="17" font="10">picks are very dense and tool-like, and may be used on inanimate objects without being </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="68" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">67</text>
@@ -3804,7 +3804,7 @@
 <text top="824" left="55" width="500" height="17" font="10">or the other of the weapon, using momentum and speed to get past defences. A skilled </text>
 <text top="842" left="55" width="500" height="17" font="10">nunchaku user can attack from several different angles without so much as changing </text>
 <text top="860" left="55" width="500" height="17" font="10">his fighting stance, and land several blows in rapid succession. Attacks from nunchaku </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="69" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">68</text>
@@ -3845,7 +3845,7 @@
 <text top="806" left="43" width="500" height="17" font="10">shaft of wood about as long as a man’s arm with an off-centred knot of shaped wood at the </text>
 <text top="824" left="43" width="500" height="17" font="10">end. The knot is sometimes heat-hardened and occasionally shaped into a beastly image or </text>
 <text top="842" left="43" width="42" height="17" font="10">design. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="70" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">69</text>
@@ -3888,7 +3888,7 @@
 <text top="824" left="55" width="500" height="17" font="20"><b>Tulwar: </b>This is a larger version of the scimitar, with a truly massive and imposing blade </text>
 <text top="841" left="55" width="500" height="17" font="10">that requires two hands to heft and wield properly. It has a surprisingly small hilt for a </text>
 <text top="859" left="55" width="500" height="17" font="10">weapon of its size, and is generally wielded in a ‘laced-fingers’ or ‘hand-over-hand’ style </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="71" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">70</text>
@@ -3930,7 +3930,7 @@
 <text top="814" left="43" width="500" height="17" font="10">Close  Combat  weaponry. These  modifications  are  not  simple  and  generally  take  a </text>
 <text top="832" left="43" width="500" height="17" font="10">great deal of time and money. There is always risk to the integrity of the weapon, and </text>
 <text top="850" left="43" width="496" height="17" font="10">a single slip of the weaponsmith’s hand could mean a broken blade or weakened haft.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="72" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="24" size="16" family="Times" color="#231f20"/>
@@ -4327,7 +4327,7 @@
 <text top="203" left="549" width="0" height="14" font="26">2</text>
 <text top="153" left="549" width="0" height="14" font="26">2/7</text>
 <text top="85" left="549" width="0" height="14" font="26">35 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="73" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">72</text>
@@ -4691,7 +4691,7 @@
 <text top="203" left="45" width="0" height="14" font="25"><b>ENC</b></text>
 <text top="153" left="45" width="0" height="14" font="25"><b>AP/HP</b></text>
 <text top="85" left="45" width="0" height="14" font="25"><b>Cost</b></text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="74" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">73</text>
@@ -5007,7 +5007,7 @@
 <text top="203" left="52" width="0" height="14" font="25"><b>ENC</b></text>
 <text top="153" left="52" width="0" height="14" font="25"><b>AP/HP</b></text>
 <text top="85" left="52" width="0" height="14" font="25"><b>Cost</b></text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="75" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">74</text>
@@ -5088,7 +5088,7 @@
 <text top="859" left="229" width="49" height="15" font="14">Unarmed</text>
 <text top="827" left="414" width="32" height="15" font="14">–10%</text>
 <text top="827" left="490" width="38" height="15" font="14">200 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="76" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">75</text>
@@ -5129,7 +5129,7 @@
 <text top="788" left="55" width="500" height="17" font="10">integrity, reducing its Armour Points by one, to a minimum of one. These teeth are </text>
 <text top="806" left="55" width="500" height="17" font="10">also much easier to catch and parry away, granting enemy Parry attempts against it a </text>
 <text top="824" left="55" width="78" height="17" font="10">+10% bonus.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="77" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="27" size="12" family="Times" color="#231f20"/>
@@ -5169,7 +5169,7 @@
 <text top="742" left="43" width="500" height="17" font="10">performing modifications over other modifications: all negative modifiers to Armour </text>
 <text top="760" left="43" width="500" height="17" font="10">Points and Hit Points are permanent and cumulative, whilst new modification bonuses </text>
 <text top="778" left="43" width="96" height="17" font="10">replace old ones.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="78" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">77</text>
@@ -5208,7 +5208,7 @@
 <text top="829" left="55" width="500" height="17" font="10">may used with an atlatl. There is a very simple version of the device made from a wooden </text>
 <text top="847" left="55" width="500" height="17" font="10">shaft that has a cupped end in which to fling a javelin, but it is far inferior to the rope-based </text>
 <text top="865" left="55" width="200" height="17" font="10">versions (and only adds +1 damage).</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="79" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">78</text>
@@ -5249,7 +5249,7 @@
 <text top="799" left="43" width="367" height="17" font="10">bow can be fired without penalty from on foot as well as mounted.</text>
 <text top="834" left="43" width="500" height="17" font="20"><b>Hurling Sphere: </b>One of the simplest ranged weapons, a hurling sphere is a hollowed </text>
 <text top="851" left="43" width="500" height="17" font="10">ball of metal or stone filled with sand or lead. The thrower should clasp the sphere in </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="80" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">79</text>
@@ -5288,7 +5288,7 @@
 <text top="787" left="55" width="500" height="17" font="20"><b>Short Bow: </b>Designed to be fired from horseback, the short bow is equally useful as </text>
 <text top="805" left="55" width="500" height="17" font="10">a footsoldier’s weapon. It is a good hunting tool as well as a weapon of war and when </text>
 <text top="823" left="55" width="428" height="17" font="10">used to hunt deer and smaller game animals it can make all the difference.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="81" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">80</text>
@@ -5331,7 +5331,7 @@
 <text top="833" left="43" width="500" height="17" font="10">arbalest bolts are tipped with heavy metal heads that resemble a stiletto or dagger. They </text>
 <text top="851" left="43" width="500" height="17" font="10">use small fletching from waxy-feathered fowl and are remarkably accurate, if only due </text>
 <text top="869" left="43" width="251" height="17" font="10">to the sheer force with which they are fired.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="82" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">81</text>
@@ -5660,7 +5660,7 @@
 <text top="205" left="532" width="0" height="14" font="26">1</text>
 <text top="155" left="532" width="0" height="14" font="26">4/8</text>
 <text top="93" left="532" width="0" height="14" font="26">225 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="83" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">82</text>
@@ -5835,7 +5835,7 @@
 <text top="194" left="62" width="0" height="14" font="25"><b>ENC</b></text>
 <text top="144" left="62" width="0" height="14" font="25"><b>AP/HP</b></text>
 <text top="82" left="62" width="0" height="14" font="25"><b>Cost</b></text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="84" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">83</text>
@@ -5953,7 +5953,7 @@
 <text top="820" left="55" width="500" height="17" font="10">are involved). The dye adds +10% to Perception tests against the marked target and the </text>
 <text top="838" left="55" width="500" height="17" font="10">scented oil adds +25% to Tracking rolls to find the target by scent. The fluids from a </text>
 <text top="856" left="55" width="492" height="17" font="10">marking wad remain on the target for 1D3 days or until thoroughly washed with lye.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="85" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">84</text>
@@ -5996,7 +5996,7 @@
 <text top="831" left="43" width="500" height="17" font="10">included in the materials descriptions. It should be noted that some of these materials </text>
 <text top="849" left="43" width="500" height="17" font="10">may not be available in all cultures, game settings or campaigns but this is ultimately </text>
 <text top="867" left="43" width="143" height="17" font="10">up to the Games Master.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="86" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="29" size="5" family="Times" color="#231f20"/>
@@ -6076,7 +6076,7 @@
 <text top="806" left="55" width="500" height="17" font="10">ENC by 1. Superior to bronze and common irons in nearly every way, steel weaponry </text>
 <text top="824" left="55" width="500" height="17" font="10">is only available to cultures that have managed to discover the process to actually mix </text>
 <text top="842" left="55" width="120" height="17" font="10">and create the metal.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="87" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">86</text>
@@ -6117,7 +6117,7 @@
 <text top="793" left="43" width="500" height="17" font="10">sections of a target. Anyone targeted by a blunderbuss not only has a –10% to their </text>
 <text top="812" left="43" width="500" height="17" font="10">Evade  skill  against  the  attack,  but  the  damage  rolled  will  be  divided  evenly  (round </text>
 <text top="830" left="43" width="267" height="17" font="10">fractions up) amongst 1D4+1 Hit Locations . </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="88" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">87</text>
@@ -6162,7 +6162,7 @@
 <text top="817" left="55" width="496" height="17" font="20"><b>One-shot  Pipe:</b> A very simple weapon that was the predecessor of the pistol, a one-</text>
 <text top="835" left="55" width="500" height="17" font="10">shot pipe is a half-metre length of metal with a leather or cloth wrapping around its </text>
 <text top="853" left="55" width="500" height="17" font="10">midsection. The pipe is packed with powder at one end and a small ball slug is set into the </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="89" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">88</text>
@@ -6206,7 +6206,7 @@
 <text top="777" left="43" width="500" height="17" font="10">and a bigger slug, the breach-loading rifle has a better range than a musket, but lacks </text>
 <text top="795" left="43" width="500" height="17" font="10">some of its damage potential. A breach-loading rifle could be used as a club in close </text>
 <text top="813" left="43" width="235" height="17" font="10">combat, but with a –10% penalty to hit.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="90" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="31" size="13" family="Times" color="#231f20"/>
@@ -6474,7 +6474,7 @@
 <text top="190" left="559" width="0" height="14" font="26">4/7</text>
 <text top="139" left="559" width="0" height="14" font="26">2,000 SP per barr</text>
 <text top="51" left="559" width="0" height="14" font="26">el</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="91" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="34" size="43" family="Times" color="#231f20"/>
@@ -6510,7 +6510,7 @@
 <text top="823" left="43" width="500" height="17" font="10">bench on top of the carriage. The walls of the carriage are reinforced on the outside </text>
 <text top="841" left="43" width="500" height="17" font="10">with hardened leather and riveted metal, and then have fabric stretched over them to </text>
 <text top="859" left="43" width="500" height="17" font="10">keep the illusion of a ‘common’ carriage. The driver has slightly raised walls on the </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="92" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">91</text>
@@ -6555,7 +6555,7 @@
 <text top="824" left="55" width="500" height="17" font="10">carry much more than a single person’s worth of goods and does not have a driver’s seat </text>
 <text top="842" left="55" width="500" height="17" font="10">at all. Instead, the driver is expected to ride a second pony or horse alongside the cart. </text>
 <text top="860" left="55" width="500" height="17" font="10">Really only useful for those few who want to bring just <i>slightly </i>more than what their </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="93" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">92</text>
@@ -6597,7 +6597,7 @@
 <text top="792" left="43" width="420" height="17" font="10">protected body, a war chariot can be all a force needs to break their foes. </text>
 <text top="828" left="43" width="500" height="17" font="10">As the walls of the war chariot cover the legs and abdomen of the driver, these locations </text>
 <text top="846" left="43" width="500" height="17" font="10">are considered to be covered as per the Cover rules on page136 of the <i>Legend Core </i></text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="94" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">93</text>
@@ -6643,7 +6643,7 @@
 <text top="816" left="55" width="500" height="17" font="10">and  walk  with  it. The  floor  commonly  has  some  kind  of  throne  or  bedding  on  it, </text>
 <text top="834" left="55" width="500" height="17" font="10">sometimes with a screened or veiled tent obscuring it from outside view. The palanquin </text>
 <text top="852" left="55" width="500" height="17" font="10">is a good way of advertising one’s superior position to those beneath it and most who </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="95" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">94</text>
@@ -6687,7 +6687,7 @@
 <text top="804" left="43" width="500" height="17" font="10">terrain is too rough or uneven for a war sled to move across and can either impose a </text>
 <text top="822" left="43" width="500" height="17" font="10">Movement penalty, assign damage to the sled’s slats as they are ground to bits or deny </text>
 <text top="841" left="43" width="294" height="17" font="10">the sled the ability to move at all without flipping. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="96" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="35" size="13" family="Times" color="#231f20"/>
@@ -6906,7 +6906,7 @@
 <text top="315" left="514" width="0" height="17" font="31">1D8+drawn DM</text>
 <text top="198" left="514" width="0" height="17" font="31">100</text>
 <text top="90" left="514" width="0" height="17" font="31">500 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="97" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">96</text>
@@ -6966,7 +6966,7 @@
 <text top="806" left="386" width="35" height="17" font="10">–20%</text>
 <text top="821" left="47" width="230" height="17" font="10">Driver failed Driving Skill Test last turn</text>
 <text top="821" left="386" width="35" height="17" font="10">–10%</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="98" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">97</text>
@@ -7004,7 +7004,7 @@
 <text top="717" left="55" width="500" height="17" font="10">ship  travel  and  ship  combat  into  a  <i>Legend</i>  campaign. These  are  rules  designed  for </text>
 <text top="735" left="55" width="500" height="17" font="10">efficiency and ease of use, not as an encyclopaedic treatise on the art of sailing, as such </text>
 <text top="753" left="55" width="274" height="17" font="10">a topic could easily consume 10 books this size.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="99" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="12" width="10" height="30" font="15">98</text>
@@ -7042,7 +7042,7 @@
 <text top="820" left="43" width="500" height="17" font="20"><b>Skill:</b> Every ship has its own peculiarities and each design presents different challenges. </text>
 <text top="838" left="43" width="500" height="17" font="10">This entry firstly denotes which skill is used when operating the ship (nearly always </text>
 <text top="856" left="43" width="500" height="17" font="10">either Boating or Shiphandling). Also, though any ship can be operated under ideal </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="100" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="573" width="10" height="30" font="15">99</text>
@@ -7087,7 +7087,7 @@
 <text top="806" left="55" width="240" height="17" font="17"><i>Broadside:</i> Eight 18-pounders (4D8 each)</text>
 <text top="824" left="55" width="145" height="17" font="20"><b>Skill:</b> Shiphandling +0%</text>
 <text top="842" left="55" width="97" height="17" font="20"><b>Cost:</b> 80,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="101" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">100</text>
@@ -7128,7 +7128,7 @@
 <text top="713" left="43" width="230" height="17" font="17"><i>Broadside:</i> Ten 18-pounders (4D8 each)</text>
 <text top="731" left="43" width="145" height="17" font="20"><b>Skill:</b> Shiphandling +0%</text>
 <text top="749" left="43" width="97" height="17" font="20"><b>Cost:</b> 50,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="102" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">101</text>
@@ -7173,7 +7173,7 @@
 <text top="803" left="55" width="55" height="17" font="20"><b>Ram:</b> No</text>
 <text top="821" left="55" width="145" height="17" font="20"><b>Skill:</b> Shiphandling +0%</text>
 <text top="839" left="55" width="97" height="17" font="20"><b>Cost:</b> 30,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="103" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">102</text>
@@ -7214,7 +7214,7 @@
 <text top="713" left="43" width="232" height="17" font="17"><i>Broadside:</i> Eight 9-pounders (4D6 each)</text>
 <text top="731" left="43" width="145" height="17" font="20"><b>Skill:</b> Shiphandling +0%</text>
 <text top="749" left="43" width="97" height="17" font="20"><b>Cost:</b> 35,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="104" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">103</text>
@@ -7254,7 +7254,7 @@
 <text top="695" left="55" width="244" height="17" font="17"><i>Broadside:</i> Eight 18-pounders (4D8 each) </text>
 <text top="713" left="55" width="152" height="17" font="20"><b>Skill:</b> Shiphandling –10%</text>
 <text top="731" left="55" width="97" height="17" font="20"><b>Cost:</b> 20,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="105" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">104</text>
@@ -7296,7 +7296,7 @@
 <text top="731" left="43" width="400" height="17" font="17"><i>Broadside:</i> 32 18-pounders (4D8 each), 16 24-pounders (4D10 each)</text>
 <text top="749" left="43" width="152" height="17" font="20"><b>Skill:</b> Shiphandling –10%</text>
 <text top="767" left="43" width="104" height="17" font="20"><b>Cost:</b> 350,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="106" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">105</text>
@@ -7335,7 +7335,7 @@
 <text top="677" left="55" width="55" height="17" font="20"><b>Ram:</b> No</text>
 <text top="695" left="55" width="152" height="17" font="20"><b>Skill:</b> Shiphandling +10%</text>
 <text top="713" left="55" width="97" height="17" font="20"><b>Cost:</b> 18,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="107" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">106</text>
@@ -7376,7 +7376,7 @@
 <text top="713" left="43" width="55" height="17" font="20"><b>Ram:</b> No</text>
 <text top="731" left="43" width="120" height="17" font="20"><b>Skill:</b> Boating –10%</text>
 <text top="749" left="43" width="70" height="17" font="20"><b>Cost:</b> 50 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="108" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">107</text>
@@ -7416,7 +7416,7 @@
 <text top="695" left="55" width="232" height="17" font="17"><i>Broadside:</i> Five 18-pounders (4D8 each)</text>
 <text top="713" left="55" width="152" height="17" font="20"><b>Skill:</b> Shiphandling +10%</text>
 <text top="731" left="55" width="97" height="17" font="20"><b>Cost:</b> 35,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="109" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">108</text>
@@ -7456,7 +7456,7 @@
 <text top="713" left="43" width="230" height="17" font="17"><i>Broadside:</i> Ten 18-pounders (4D8 each)</text>
 <text top="731" left="43" width="152" height="17" font="20"><b>Skill:</b> Shiphandling –10%</text>
 <text top="749" left="43" width="97" height="17" font="20"><b>Cost:</b> 30,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="110" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">109</text>
@@ -7495,7 +7495,7 @@
 <text top="677" left="55" width="332" height="17" font="20"><b>Ram:</b> Yes (D2 points of damage for every metre of speed)</text>
 <text top="695" left="55" width="152" height="17" font="20"><b>Skill:</b> Shiphandling –10%</text>
 <text top="713" left="55" width="89" height="17" font="20"><b>Cost:</b> 7,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="111" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">110</text>
@@ -7536,7 +7536,7 @@
 <text top="786" left="43" width="320" height="17" font="10">and moving at double speed counts as medium activity.</text>
 <text top="822" left="43" width="281" height="17" font="20"><b>Wind Speed:</b> The speed of the prevailing winds.</text>
 <text top="858" left="43" width="483" height="17" font="20"><b>Against:</b> The vessel is moving against or perpendicular to the direction of the wind.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="112" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">111</text>
@@ -7740,7 +7740,7 @@
 <text top="809" left="304" width="13" height="14" font="12">—</text>
 <text top="809" left="382" width="58" height="14" font="12">150,000 SP</text>
 <text top="809" left="464" width="58" height="14" font="12">150,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="113" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">112</text>
@@ -7803,7 +7803,7 @@
 <text top="799" left="43" width="500" height="17" font="10">heavier ships using more sails to offset their weight. In the event of one ship chasing </text>
 <text top="817" left="43" width="500" height="17" font="10">another, the outcome of the race will depend upon the Boating or Shiphandling skills </text>
 <text top="834" left="43" width="402" height="17" font="10">of the captains of either ship, just as with any other pursuit in <i>Legend</i>.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="114" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">113</text>
@@ -7870,7 +7870,7 @@
 <text top="449" left="258" width="47" height="14" font="22"><b>Sluggish:</b></text>
 <text top="449" left="331" width="193" height="14" font="12">–10% to all Shiphandling tests; +0.5m </text>
 <text top="472" left="331" width="23" height="14" font="12">draft</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="115" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">114</text>
@@ -7911,7 +7911,7 @@
 <text top="820" left="43" width="500" height="17" font="10">bottom clear of debris. This takes 1D3 days and a successful Shiphandling check. Each </text>
 <text top="838" left="43" width="500" height="17" font="10">successful attempt at careening brings the ship’s speed back up by three metres/two </text>
 <text top="855" left="43" width="68" height="17" font="10">kilometres. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="116" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">115</text>
@@ -7954,7 +7954,7 @@
 <text top="830" left="55" width="500" height="17" font="10">It  has  often  been  said  that  a  boat  is  a  hole  in  the  water  you  must  fill  with  money. </text>
 <text top="848" left="55" width="500" height="17" font="10">Although  <i>Legend</i>  streamlines  the  process  of  buying  and  repairing  ships  immensely, </text>
 <text top="866" left="55" width="450" height="17" font="10">Adventurers will find that owning their own ship is an expensive undertaking.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="117" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">116</text>
@@ -8037,7 +8037,7 @@
 <text top="837" left="305" width="7" height="15" font="14">1</text>
 <text top="837" left="368" width="14" height="15" font="14">50</text>
 <text top="837" left="431" width="104" height="15" font="14">5 rounds 3,000 SP</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="118" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">117</text>
@@ -8125,7 +8125,7 @@
 <text top="819" left="55" width="500" height="17" font="10">sailcloth to tar to cured timber, are bundled together into basic prices. A ship requires </text>
 <text top="837" left="55" width="500" height="17" font="10">10 Silvers worth of materials to repair every lost point of Seaworthiness. Repairing lost </text>
 <text top="855" left="55" width="411" height="17" font="10">Structure Points requires 100 Silvers worth of materials for every point.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="119" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">118</text>
@@ -8165,7 +8165,7 @@
 <text top="803" left="43" width="500" height="17" font="10">merely results in the ship losing 1D6 Seaworthiness and 1D6 Structure Points. Failure </text>
 <text top="821" left="43" width="500" height="17" font="10">results in the ship losing its draft x D10 (minimum of 1D10) in both Seaworthiness and </text>
 <text top="839" left="43" width="345" height="17" font="10">Structure Points, as the ship effectively crashes into the shore.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="120" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">119</text>
@@ -8201,7 +8201,7 @@
 <text top="793" left="55" width="500" height="17" font="20"><b>Battle Trained</b>: The animal has been conditioned for high-stress situations and can be </text>
 <text top="811" left="55" width="500" height="17" font="10">used as a war-mount or other resource in combat and conflict. The owner suffers no </text>
 <text top="829" left="55" width="257" height="17" font="10">penalties using the beast in these conditions.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="121" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">120</text>
@@ -8242,7 +8242,7 @@
 <text top="825" left="43" width="500" height="17" font="10">Should a goat actually manage to butt someone with its horns (25%) the target will </text>
 <text top="843" left="43" width="500" height="17" font="10">not suffer any real damage but must pass an Athletics test to keep his balance or topple </text>
 <text top="861" left="43" width="102" height="17" font="10">from the impact. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="122" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">121</text>
@@ -8286,7 +8286,7 @@
 <text top="813" left="55" width="159" height="17" font="10">long as the idea has existed.</text>
 <text top="849" left="55" width="500" height="17" font="20"><b>Lizard, Giant: </b>These creatures are used as mounts by certain nomads, giant lizards are </text>
 <text top="867" left="55" width="93" height="17" font="10">large carnivores.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="123" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">122</text>
@@ -8331,7 +8331,7 @@
 <text top="826" left="43" width="500" height="17" font="10">taught tricks if rewarded properly. Even though some ‘rodents’ are not actually rodents </text>
 <text top="844" left="43" width="500" height="17" font="10">at  all,  such  as  shrews  and  moles,  they  are  still  lumped  in  with  the  more  common </text>
 <text top="862" left="43" width="190" height="17" font="10">category for the ease of the seller.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="124" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">123</text>
@@ -8376,7 +8376,7 @@
 <text top="824" left="55" width="500" height="17" font="20"><b>Wolf: </b>Wild canines running in packs that can reach upwards of twenty individuals, </text>
 <text top="842" left="55" width="500" height="17" font="10">wolves are the quintessential pack hunters. Wolves are quite loyal after reaching the </text>
 <text top="860" left="55" width="500" height="17" font="10">‘Skilled’  training  level  and  will  view  the  handler  as  a  pack  mate.  For  this  reason,  if </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="125" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">124</text>
@@ -8578,7 +8578,7 @@
 <text top="764" left="382" width="161" height="17" font="10">their  general  aptitude  and </text>
 <text top="782" left="382" width="161" height="17" font="10">the cost to hire them per day </text>
 <text top="800" left="382" width="94" height="17" font="10">or use of service. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="126" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">125</text>
@@ -8617,7 +8617,7 @@
 <text top="734" left="55" width="500" height="17" font="10">towel and ripping out that rotten tooth that got chipped in a fight a month earlier. </text>
 <text top="752" left="55" width="500" height="17" font="10">They tend to be popular people in secluded areas, even if aspects of their trade seem </text>
 <text top="770" left="55" width="164" height="17" font="10">like an unnecessary luxuries.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="127" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">126</text>
@@ -8660,7 +8660,7 @@
 <text top="802" left="43" width="381" height="17" font="10">cleaning, or even the selection of everyday clothing and activities. </text>
 <text top="838" left="43" width="500" height="17" font="20"><b>Carpenter: </b>This is the professional responsible for woodworking and other wood crafts. </text>
 <text top="856" left="43" width="500" height="17" font="10">From toys and tools to the walls of a house, carpenters are the masters of woodcraft. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="128" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">127</text>
@@ -8702,7 +8702,7 @@
 <text top="824" left="55" width="500" height="17" font="10">kegs. They  are  responsible  for  bending,  treating  and  binding  wooden,  liquid-storage </text>
 <text top="842" left="55" width="500" height="17" font="10">containers. It is their work that keeps a stout lager from leeching sweetness from maple </text>
 <text top="860" left="55" width="500" height="17" font="10">boards, or makes sure a good batch of bitters does not go sour due to a lack of waxed lids. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="129" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">128</text>
@@ -8741,7 +8741,7 @@
 <text top="797" left="43" width="500" height="17" font="20"><b>Fisherman: </b>Hunters of the rivers, lakes and seas, fishermen pull their living by hook, </text>
 <text top="815" left="43" width="500" height="17" font="10">net or spear out of the water. Fishermen tend to live near their favourite fishing areas </text>
 <text top="833" left="43" width="416" height="17" font="10">and some may even have boats or ships to get the best catches they can. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="130" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">129</text>
@@ -8782,7 +8782,7 @@
 <text top="788" left="55" width="500" height="17" font="10">mishap or miscommunication could result in violence or missed opportunities. The </text>
 <text top="806" left="55" width="500" height="17" font="10">best way around this is to quickly hire a learned interpreter, who will happily let both </text>
 <text top="824" left="55" width="364" height="17" font="10">sides of the conversation know what is being said by the other. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="131" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">130</text>
@@ -8823,7 +8823,7 @@
 <text top="788" left="43" width="500" height="17" font="10">birthing of children. Midwives are good at not only keeping the mother-to-be and the </text>
 <text top="806" left="43" width="500" height="17" font="10">infant healthy but also are schooled in how to help around the home for the first few </text>
 <text top="824" left="43" width="228" height="17" font="10">days while the new mother recuperates.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="132" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">131</text>
@@ -8863,7 +8863,7 @@
 <text top="787" left="55" width="500" height="17" font="20"><b>Priest/Priestess: </b>Higher in the classification of the faithful than mere acolytes, priests </text>
 <text top="805" left="55" width="500" height="17" font="10">and  priestesses  are  in  charge  of  many  more  duties  and  roles  in  their  order  or  cult. </text>
 <text top="822" left="55" width="500" height="17" font="10">Buying time away from their patronages is difficult and expensive, but could be well </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="133" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">132</text>
@@ -8895,7 +8895,7 @@
 <text top="598" left="43" width="500" height="17" font="10">flocks of sheep or goats manageable as they graze hills and fields. They must always be </text>
 <text top="616" left="43" width="500" height="17" font="10">wary of predators and poachers and cannot allow members of the flock to stray too far </text>
 <text top="634" left="43" width="31" height="17" font="10">away.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="134" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">133</text>
@@ -8926,7 +8926,7 @@
 <text top="590" left="55" width="500" height="17" font="10">in  groups  of  a  dozen  or  more,  a  yeoman  unit  volleying  their  shots  into  the  enemy </text>
 <text top="608" left="55" width="500" height="17" font="10">from hundreds of paces away can destroy a unit’s morale, even if it does not kill them </text>
 <text top="626" left="55" width="59" height="17" font="10">physically.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="135" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="36" size="6" family="Times" color="#231f20"/>
@@ -9175,7 +9175,7 @@
 <text top="298" left="538" width="0" height="17" font="31">55%</text>
 <text top="181" left="538" width="0" height="17" font="31">4 SP</text>
 <text top="159" left="533" width="0" height="10" font="36">1</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="136" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">135</text>
@@ -9428,7 +9428,7 @@
 <text top="181" left="59" width="0" height="17" font="35"><b>Cost per D</b></text>
 <text top="113" left="59" width="0" height="17" font="35"><b>ay/U</b></text>
 <text top="83" left="59" width="0" height="17" font="35"><b>se (wage)</b></text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="137" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">136</text>
@@ -9680,7 +9680,7 @@
 <text top="181" left="50" width="0" height="17" font="35"><b>Cost per D</b></text>
 <text top="113" left="50" width="0" height="17" font="35"><b>ay/U</b></text>
 <text top="83" left="50" width="0" height="17" font="35"><b>se (wage)</b></text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="138" position="absolute" top="0" left="0" height="918" width="594">
 	<fontspec id="37" size="13" family="Times" color="#231f20"/>
@@ -9903,7 +9903,7 @@
 <text top="181" left="72" width="0" height="17" font="35"><b>Cost per D</b></text>
 <text top="113" left="72" width="0" height="17" font="35"><b>ay/U</b></text>
 <text top="83" left="72" width="0" height="17" font="35"><b>se (wage)</b></text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="139" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">138</text>
@@ -9940,7 +9940,7 @@
 <text top="825" left="43" width="500" height="17" font="10">Although an enchantment cannot be dispelled, dismissed or neutralised, it is hardly </text>
 <text top="843" left="43" width="500" height="17" font="10">invulnerable. An enchantment is only as strong as the object it is placed on. If that </text>
 <text top="861" left="43" width="360" height="17" font="10">object is broken, torn or destroyed, so too is the enchantment.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="140" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">139</text>
@@ -9983,7 +9983,7 @@
 <text top="810" left="55" width="500" height="17" font="10">up. Thus, to enchant the arm of an average human (SIZ 11) the limb is considered </text>
 <text top="828" left="55" width="500" height="17" font="10">to have SIZ 2 (11/7 – the number of Hit Locations for a human – and rounded up). </text>
 <text top="846" left="55" width="410" height="17" font="10">Enchanting the limb of a giant – average SIZ 50 – would take 7 hours.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="141" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">140</text>
@@ -10033,7 +10033,7 @@
 <text top="787" left="274" width="15" height="17" font="10">81</text>
 <text top="807" left="47" width="15" height="17" font="10">10</text>
 <text top="807" left="274" width="23" height="17" font="10">100</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="142" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">141</text>
@@ -10076,7 +10076,7 @@
 <text top="789" left="55" width="500" height="17" font="10">stipulate what Manipulations influence the Sorcery spell he is investing into the item: </text>
 <text top="807" left="55" width="500" height="17" font="10">Magnitude, Range, Duration in minutes, or Targets. Combine is not compatible with </text>
 <text top="825" left="55" width="162" height="17" font="10">the Enchanting Ritual spell.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="143" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">142</text>
@@ -10128,7 +10128,7 @@
 <text top="813" left="43" width="500" height="17" font="10">3  Magic  Points  per  10%  of  his  Sorcery  (Grimoire)  skill,  preventing  the  spirit  from </text>
 <text top="831" left="43" width="500" height="17" font="10">dissipating. However the spirit can still make attacks against the sorcerer unless he also </text>
 <text top="849" left="43" width="346" height="17" font="10">uses Spirit Resistance to protect himself from spectral harm.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="144" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">143</text>
@@ -10166,7 +10166,7 @@
 <text top="694" left="55" width="500" height="17" font="10">is  considered  to  be  within  its  Warded  area.  Against  any  banned  effect  or  attack </text>
 <text top="712" left="55" width="500" height="17" font="10">originating from outside the Warded area, the protected creatures benefit from the </text>
 <text top="730" left="55" width="101" height="17" font="10">following effects:</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="145" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">144</text>
@@ -10214,7 +10214,7 @@
 <text top="726" left="43" width="500" height="17" font="10">The maximum number of conditions that can be placed on an enchantment is equal to </text>
 <text top="744" left="43" width="500" height="17" font="10">the sorcerer’s Manipulation divided by 10 and rounded up. Manipulations to Sorcery </text>
 <text top="762" left="43" width="266" height="17" font="10">spells count as conditions, as described earlier.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="146" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">145</text>
@@ -10247,7 +10247,7 @@
 <text top="640" left="55" width="500" height="17" font="10">Power crystals can be readily applied to any fantasy setting that may have naturally </text>
 <text top="658" left="55" width="500" height="17" font="10">occurring stores of magical energy. Crystals need not be the medium; rocks, liquids, </text>
 <text top="676" left="55" width="256" height="17" font="10">talismans, relics and so forth can all be used.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="147" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">146</text>
@@ -10290,7 +10290,7 @@
 <text top="726" left="43" width="500" height="17" font="10">Random  Spell  Matrix  table  on  page  151.  To  determine  its  Magnitude,  roll  on  the </text>
 <text top="744" left="43" width="500" height="17" font="10">Random Magnitude table below. Magnitude only needs be determined for spells with </text>
 <text top="762" left="43" width="413" height="17" font="10">the progressive trait (marked in italics in the Random Spell Matrix table).</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="148" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">147</text>
@@ -10337,7 +10337,7 @@
 <text top="757" left="55" width="500" height="17" font="10">Thus a crystal can be worn in a ring, worked into a sword hilt, stitched into clothing </text>
 <text top="775" left="55" width="500" height="17" font="10">in the form jewellery and so forth. If the two are separated – even by a few millimetres </text>
 <text top="793" left="55" width="489" height="17" font="10">– then the powers of the crystal are unavailable to him until contact is re-established.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="149" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">148</text>
@@ -10363,7 +10363,7 @@
 <text top="473" left="43" width="500" height="17" font="10">the ring after wooing the Polar Maiden, but it is rumoured he encased the ring in ice </text>
 <text top="491" left="43" width="500" height="17" font="10">and hid it far beneath the ground so that the angry Bear Father would never find it </text>
 <text top="509" left="43" width="34" height="17" font="10">again.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="150" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">149</text>
@@ -10490,7 +10490,7 @@
 <text top="516" left="415" width="46" height="17" font="17"><i>Warmth</i></text>
 <text top="533" left="315" width="38" height="17" font="10">99–00</text>
 <text top="533" left="415" width="76" height="17" font="10">Water Breath</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="151" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">150</text>
@@ -10529,7 +10529,7 @@
 <text top="804" left="43" width="500" height="17" font="10">it is not about attaining godhood; instead alchemy is concerned with attaining human </text>
 <text top="822" left="43" width="500" height="17" font="10">perfection, through purity of mind and spirit, and thereby transcending the ravages of </text>
 <text top="840" left="43" width="239" height="17" font="10">disease and time to attain enlightenment.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="152" position="absolute" top="0" left="0" height="918" width="594">
 <text top="335" left="55" width="500" height="17" font="10">Alchemists concern themselves with four core endeavours: Understanding (the physical </text>
@@ -10552,7 +10552,7 @@
 <text top="241" left="55" width="491" height="17" font="10">of knowledge, as outlined in the Philosopher’s Stone, overleaf. However if can also be </text>
 <text top="259" left="55" width="491" height="17" font="10">used in tests requiring expertise with mystical, spiritual or philosophical concepts, since </text>
 <text top="277" left="55" width="426" height="17" font="10">all alchemists are widely read in both practical and metaphysical disciplines.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="153" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">152</text>
@@ -10593,7 +10593,7 @@
 <text top="747" left="43" width="323" height="26" font="19">Properties of the Philosopher’s Stone</text>
 <text top="771" left="43" width="500" height="17" font="10">Once crystallised the Philosopher’s Stone has properties based on its Purity. Its Purity </text>
 <text top="789" left="43" width="245" height="17" font="10">is determined by the skill of the alchemist.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="154" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">153</text>
@@ -10658,7 +10658,7 @@
 <text top="745" left="55" width="500" height="17" font="10">can achieve. All effects are stackable, meaning that, for example, a Purity 3 Philosopher’s </text>
 <text top="763" left="55" width="500" height="17" font="10">Stone would heal damage and both cure disease and poison effects as well as increasing </text>
 <text top="781" left="55" width="139" height="17" font="10">the imbiber’s Resilience.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="155" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">154</text>
@@ -10710,7 +10710,7 @@
 <text top="786" left="43" width="500" height="17" font="10">It takes one week to make one dose of poison and the alchemist requires appropriate </text>
 <text top="804" left="43" width="500" height="17" font="10">materials and apparatus to formulate it. The alchemist determines what skill (Persistence </text>
 <text top="822" left="43" width="287" height="17" font="10">or Resilience) is used to resist the poison’s effects. </text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="156" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">155</text>
@@ -10764,7 +10764,7 @@
 <text top="728" left="55" width="500" height="17" font="10">on the secrecy of the alchemist. Common to all laboratories, though, is the range and </text>
 <text top="746" left="55" width="500" height="17" font="10">variety of equipment to be found there. This section describes the essential components </text>
 <text top="764" left="55" width="160" height="17" font="10">of an alchemist’s laboratory.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="157" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">156</text>
@@ -10806,7 +10806,7 @@
 <text top="783" left="43" width="500" height="17" font="10">A wide-necked, bulbous jar used for boiling. Several cucurbits can be stacked together, </text>
 <text top="801" left="43" width="500" height="17" font="10">with  the  upper  jars  having  hollow  bottoms  to  allow  vapours  to  pass  upwards  and </text>
 <text top="819" left="43" width="227" height="17" font="10">condense against the sides of the vessel.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="158" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="571" width="15" height="30" font="15">157</text>
@@ -10861,7 +10861,7 @@
 <text top="847" left="234" width="41" height="17" font="10">Pelican</text>
 <text top="867" left="60" width="8" height="17" font="10">6</text>
 <text top="867" left="234" width="55" height="17" font="10">Recipient</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="159" position="absolute" top="0" left="0" height="918" width="594">
 <text top="879" left="10" width="15" height="30" font="15">158</text>
@@ -10896,7 +10896,7 @@
 <text top="596" left="43" width="500" height="17" font="10">will devalue gold as a currency. Charlatans will find shortcuts that create false gold, thus </text>
 <text top="614" left="43" width="500" height="17" font="10">debasing the reputation of true alchemists, and many hedge magicians and peddlers of </text>
 <text top="632" left="43" width="390" height="17" font="10">cheap remedies will make the quality of true magical potions suspect.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="160" position="absolute" top="0" left="0" height="918" width="594">
 <text top="192" left="119" width="367" height="33" font="18">Legend &amp; Open Content</text>
@@ -10920,7 +10920,7 @@
 <text top="637" left="59" width="491" height="17" font="10">you wanted to add some high seas action, you can simply and quickly bring over the </text>
 <text top="655" left="66" width="477" height="17" font="10">Open Content rules we produce in, say, Pirates of Legend, knowing that everyone </text>
 <text top="673" left="135" width="336" height="17" font="10">who plays Legend will at least be familiar with those rules.</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="161" position="absolute" top="0" left="0" height="918" width="594">
 <text top="28" left="14" width="185" height="13" font="12">OPEN GAME LICENSE Version 1.0a </text>
@@ -10988,7 +10988,7 @@
 <text top="865" left="14" width="334" height="13" font="12">Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. </text>
 <text top="878" left="14" width="314" height="13" font="12">Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd</text>
 <text top="892" left="14" width="281" height="13" font="12">Arms of Legend, Copyright 2012, Mongoose Publishing Ltd</text>
-<text top="908" left="2" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="899" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <page number="162" position="absolute" top="0" left="0" height="986" width="1296">
 <text top="745" left="347" width="72" height="17" font="0">MGP 8304</text>
@@ -11008,7 +11008,7 @@
 <text top="68" left="655" width="0" height="17" font="4">arms o</text>
 <text top="123" left="655" width="0" height="17" font="4">f</text>
 <text top="28" left="632" width="0" height="35" font="5">legendlegend</text>
-<text top="942" left="36" width="163" height="11" font="6">Alex Greene (order #3215550)</text>
+<text top="967" left="6" width="180" height="13" font="6">Jeremy Bauerle (order #6303863)</text>
 </page>
 <outline>
 <item page="2">Contents</item>

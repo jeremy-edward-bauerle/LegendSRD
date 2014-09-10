@@ -9,9 +9,7 @@ back for more after every adventure.
 
 MGP 8304 US$19.99
 
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 arms oflegendarms oflegendARMS OF
 
@@ -93,9 +91,7 @@ Document are considered to be Open Game Content.  All other significant characte
 
 art and text herein are copyrighted by Mongoose Publishing.  All rights reserved.  Printed in USA
 
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 INTRODUCTION
 
@@ -128,10 +124,7 @@ to spend their money on items listed but are clearly restricted. Arms of Legend 
 resource, not an entitlement.
 
 2
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 ADVENTURING GEAR & BASICS
 
@@ -174,7 +167,7 @@ String 5m
 Torches x2 (6 hours)
 Water Flask (full)
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 ENC
 1
@@ -200,8 +193,6 @@ ENC
 1
 
 3
-
-2.99.22.5
 
 Items by Description
 Acid, Vial: A simple vial of acid presents a multitude of uses. Acid can quickly eat 
@@ -231,10 +222,7 @@ creatures without contaminating them. The Adventurer using this kit receives a +
 bonus to all Heal Skill Tests made to extract materials from a dead creature.
 
 4
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Animal  Call/Whistle:  This  is  a  small  wooden,  bone  or  even  metallic  whistle  or 
 instrument used to make attractive sounds in the particular style of animal. Commonly 
@@ -284,11 +272,9 @@ that can support creatures of size large or smaller. The open end of the triangl
 across the wearer’s shoulders, while the tip of the triangle drags on the ground behind 
 – in most cases, the head of the fallen is positioned near the head of the wearer to 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 5
-
-2.99.22.5
 
 avoid exacerbating any injuries. When wearing a back travois, an Adventurer’s carrying 
 capacity is doubled and his movement rate is reduced by one-half. An Adventurer can 
@@ -339,10 +325,7 @@ Using the blade sharpener on any sort of non-iron bladed weapon (it has no effec
 iron weaponry) for one hour restores one Hit Point to the weapon.
 
 6
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Blessed  Food:  Many  rituals  and  ceremonies  require  the  participants  to  share  in  a 
 meal.  Largely  symbolic,  these  meals  mark  an  important  point  in  religious  services, 
@@ -392,11 +375,9 @@ roarer should be swung, with its effects reversing if used the wrong way.
 Candle, X Hour: From the small, stubby candle that will burn for one hour to the 
 metre  long  illumination  votive  used  in  cathedrals  and  temples,  candles  are  a  useful 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 7
-
-2.99.22.5
 
 source of light that can be used nearly anywhere. Originally used by miners to mark 
 the passage of time while underground, many Adventurers have adopted them for the 
@@ -446,10 +427,7 @@ or tossed over other items, hands and so on to absorb moisture or highlight thin
 difficult to otherwise see.
 
 8
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Clay and Wax Box: Usually stored in a small iron case, this box consists of a pair of 
 soft wax plates and a packet of fast hardening clay. To use a clay and wax box, a key is 
@@ -498,11 +476,9 @@ Doorjamb: This wedge of serrated metal is roughly the length of a man’s hand, 
 very rough rasps up and down two of its sides. It is used under a wooden door to keep 
 it from opening. It takes two Combat Actions to place and hammer a doorjamb into 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 9
-
-2.99.22.5
 
 place, but when it has bitten into the door and gripped the floor, it makes the door 
 immobile without an Athletics roll pull the door open (with a –10% penalty).
@@ -553,10 +529,7 @@ their eyes. If they fail the test, the combination of the explosive flash and th
 the air blinds them for one Combat Round. The flour cloud disperses after 1d4 rounds. 
 
 10
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 While the cloud remains, anyone within its three metre radius suffers a –10% penalty 
 to all Perception Skill Tests. 
@@ -606,11 +579,9 @@ Fire Seed: Most experienced travellers do not try to restart their fire every ni
 they carry a ceramic container called a fire seed, which contains several small holes to 
 allow oxygen to fuel the fire. This container holds a single coal from the fire the night 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 11
-
-2.99.22.5
 
 before. A fire seed can protect an ember for up to three days, but cannot withstand 
 immersion of any sort. Even attempting the average water crossing with a fire seed can 
@@ -660,10 +631,7 @@ penalties if the Adventurer is attempting to start a fire in a high wind, drivin
 without the best fire-making kindling/wood. 
 
 12
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Folding Stool: This cunning contraption uses canvas and several hinged metal legs to 
 create a stable backless seat that can be easily folded up and packed. For an army on the 
@@ -713,11 +681,9 @@ requires a Brawn Skill Test (with a penalty equal to the ENC or SIZ on the rope 
 the time) to dislodge while in use. If used as a weapon, the grappling hook should be 
 considered a club (with a –15% penalty).
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 13
-
-2.99.22.5
 
 Grappling  Hook,  Assassin’s:  Designed  for  quiet  use  by  a  single  person,  this  small 
 angled piece of strong metal can be lofted onto a battlement or similar ledge with either 
@@ -744,9 +710,7 @@ additional 1 SP.
 Hand-striker: A curled handle of metal with a tiny inset piece of flint attached by a 
 spring, the hand-striker is a fancy version of the flint and tinder (see above) wrapped up 
 
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 into a one-handed mechanism. It takes only 1D3 Combat Actions to make a sufficient 
 spark with a hand-striker, but the pieces of flint must be replaced periodically or they 
@@ -796,11 +760,9 @@ chain, the howler makes a terribly loud and haunting wail like that of a great b
 when  twirled  rapidly  around  the  head.  Used  as  a  long-distance  signal  to  groups  of 
 allied soldiers or scouts, the sound can be heard for five kilometres on a clear day. Also, 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 15
-
-2.99.22.5
 
 the howling sound a howler emits will often keep most small predators and primitive 
 humanoids from approaching the area without sufficient Persistence tests. Larger and 
@@ -850,10 +812,7 @@ unarmed attack. If successful the opponent must make a Difficult Resilience Skil
 or fall unconscious for 1d4 minutes.
 
 16
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Ladder, 3 metre: A lashed or bolted wooden ladder used to climb flat surfaces can be 
 used to ignore any penalties to Athletics climbing tests due to the nature of the surface. 
@@ -901,11 +860,9 @@ source can create a heat source that can ignite flammable objects.
 Marbles:  This  bag  of  a  100  or  so  marbles  can  provide  a  different,  and  sometimes 
 amusing,  alternative  to  cruel  caltrops.  One  bag  of  marbles  will  cover  a  three  metre 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 17
-
-2.99.22.5
 
 square area. Any Adventurer moving into this area at more than a quarter of their base 
 speed must make a Routine Evade Skill Test or immediately fall prone. Those running 
@@ -956,10 +913,7 @@ found in waxed leather skins. A skin cannot be ‘broken’ as mentioned above �
 on purpose or accidentally.
 
 18
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Oil, Jellied: Mixing sawdust, chalk or hoof shavings into common lamp oil slowly 
 over a period of time can eventually create a combustible jelly that is very useful for 
@@ -1008,11 +962,9 @@ a –20% penalty on any roll to detect a single flavour (like a poison or potion
 food. If spread to cover a trail Pepper also causes any animals tracking by scent to 
 suffer a 50% penalty to their Track skill.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 19
-
-2.99.22.5
 
 Poison Antidote Kit: This addition to a standard healer’s kit allows an Adventurer to 
 treat poisons with greater efficiency. Each kit contains enough supplies to deal with ten 
@@ -1062,10 +1014,7 @@ which is considered automatic, does not cost an action and does not provoke Comb
 Reactions. Also, it offers +10% to any Sleight Skill Tests to hide the sheath’s weapon.
 
 20
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Quiver: A very basic item used to carry ammunition for bows and crossbows, a quiver 
 can generally hold up to 30 arrows or crossbow bolts. Quivers are commonly cylindrical 
@@ -1115,11 +1064,9 @@ of the tool back and forth across the wall of a cavern or similarly confusing en
 structure, an easily recognised line can be made. A few more scratches and the line 
 becomes an arrow. Following these arrows back the way they point from should get an 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 21
-
-2.99.22.5
 
 Adventurer back to his original point of entry. An Adventurer who uses the retracing 
 tool on every corner or turn, or every ten metres will gain a +25% bonus to any skills he 
@@ -1170,10 +1117,7 @@ used as a makeshift weapon it can be used as a crude short sword (with a –15% 
 but will likely never be usable as a saw again.
 
 22
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Scatter Sticks: One of the first and earliest games, sticks has remained popular because 
 of its endless entertainment value. A pack of sticks allows a group of men to burn hours 
@@ -1223,11 +1167,9 @@ Skates:  These  are  hard  leather  shoes  with  sharp  blades  fixed  to  their
 practice,  an  individual  will  find  he  can  move  quickly  and  easily  across  ice  covered 
 terrain, at far faster rates than if he were walking. Skating is an advanced skill using 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 23
-
-2.99.22.5
 
 DEX x2. An Adventurer who successfully passes a Skating Skill Test or has a higher 
 than 50% skill will be able to double his normal movement rate when using them on 
@@ -1277,10 +1219,7 @@ Spices: Much food has long been noted for both its filling qualities and its inc
 blandness. Merchants reacted to this early on by providing spices designed to make 
 
 24
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 food more palatable. Each blend of spices is somewhat different. A single packet of 
 spices contains enough spice to flavour 30 meals.
@@ -1309,11 +1248,9 @@ throughout the temple.
 Torch, 1 Hour: A torch has one end wrapped in cloth and dipped in pitch, oil or other 
 similar flammable substance. It can be lit with flint and tinder in one round, or in one 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 25
-
-2.99.22.5
 
 Combat Action with a hand-striker, and will burn for one hour. A lit torch illuminates 
 a three metre radius. If used as a weapon, it is considered a club (wielded with a –10% 
@@ -1364,10 +1301,7 @@ half pint of water. Any required Resilience Test for consuming such water is rec
 diseases, not poisons.
 
 26
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Water Pack: This heavy pack consists of a tar and wax sealed leather waterskin attached 
 to two straps. It allows its user to carry up to 25 litres of water.
@@ -1412,11 +1346,9 @@ cord, yarn can be used in a pinch to tie objects or reinforce clothing tears, bu
 known to be useful as a trail to follow in extremely dark settings such as caverns or 
 labyrinths.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 27
-
-2.99.22.5
 
 Adventuring Gear and Basic Items
 Item
@@ -1691,10 +1623,7 @@ Knockout Powder, Vial
 80 SP
 
 28
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Item
 Ladder, 3m
@@ -1959,11 +1888,9 @@ ENC Cost
 1
 7 CP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 29
-
-2.99.22.5
 
 Riding and Animal Supplies
 Properly  outfitting  a  mount  or  beast  of  burden  is  as  important  as  equipping  one’s 
@@ -2079,10 +2006,7 @@ unruly animals that are either untrained
 or just too savage to be left to their own 
 
 30
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 devices, cages can be of many sizes but 2m x 2m seems to be the most useful for most great 
 cats, dogs and other animals. With the proper locking mechanism and a good night time 
@@ -2131,11 +2055,9 @@ Leash and Muzzle: Some animals, like dogs and great cats, are not able to use a 
 bridle. These animals have tearing teeth that are not safe to have exposed and free to 
 bite handlers or passers by. The leash and muzzle is a set of external leather straps that 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 31
-
-2.99.22.5
 
 keeps the animal from using its bite attack effectively. Otherwise, the leash and muzzle 
 acts exactly as a bit and bridle for these animals.
@@ -2185,10 +2107,7 @@ frequently  in  order  to  remove  detritus,  imposing  a  –10%  penalty  to  
 through any type of rocky or stony terrain.
 
 32
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Shoes, War: These are specially crafted combat shoes made for hoofed mounts. Not 
 only do they have all of the same benefits of common horseshoes, but are forged with 
@@ -2237,11 +2156,9 @@ carry a set of lock picks, a handful of coins or a few gemstones. It is commonly
 thieves as the –50% penalty to Perception it imposes on anyone searching the wearer 
 makes it perfect for hiding small objects.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 33
-
-2.99.22.5
 
 Boots,  Bladed:  These  stout  boots  are  designed  specifically  to  aid  climbers  of  trees 
 and soft rock. With toughened soles holding an upturned blade secure, a climber can 
@@ -2288,10 +2205,7 @@ settlement outside a time of conflict suffers a penalty to his Influence roll eq
 the armour’s Armour Penalty. Only leather armour is exempt from this rule.
 
 34
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 high-velvet of a noble, to the pearls and beads of a harlot – there are several versions of 
 collars. Each one offers a +5% bonus to the Influence skill when used in a way befitting 
@@ -2340,11 +2254,9 @@ be decorated to look however the wearer wishes it to. The lack of facial feature
 hidden hair and skin grants a +10% bonus to Disguise rolls to hide the wearer’s true 
 persona.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 35
-
-2.99.22.5
 
 Hat, Winter: This is a heavy woollen cap with flaps of rabbit fur or lambs’ fleece that 
 can be tied down over the sides of the face and ears. Some winter hats even have a 
@@ -2394,10 +2306,7 @@ Although somewhat clumsy they do a fine job of keeping the rain off of an Advent
 head.
 
 36
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Vest, Assassin’s: A tight-fitting suede vest designed to fit to the wearer under a loose shirt 
 or coat, the assassin’s vest is so-named due to the nature of its most common users. The 
@@ -2542,11 +2451,9 @@ Cost
 2 SP
 25 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 37
-
-2.99.22.5
 
 TRADING & QUALITY
 
@@ -2619,10 +2526,7 @@ Price Factor
 2
 
 38
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 to the local god or gods. In barbarian cultures a village may be known as a stead and 
 consist of a clan of families belonging to a larger tribe.
@@ -2670,11 +2574,9 @@ daily business, as well as a number of individual shops where particular goods c
 bought and sold. At this size of settlement, monetary exchange has all but completely 
 replaced the barter system. A small city is very likely to be engaged in an active trading 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 39
-
-2.99.22.5
 
 enterprise,  particularly  if  it  lies  on  a  sea  coast  or  major  river.  Such  a  city  will  have 
 warehouses and other facilities for storing and shipping goods. If it lies on a waterway, 
@@ -2724,10 +2626,7 @@ array of goods and services available. Most items can be found here, but prices 
 not guaranteed to be low, despite the availability. Guilds may control pricing and aim 
 
 40
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 to protect their members’ livelihoods but with a certain balance to ensure a market 
 still thrives.
@@ -2778,11 +2677,9 @@ This grants a bonus to the following roll: either Influence or Commerce.
 
 •	
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 41
-
-2.99.22.5
 
 Bartering Evaluate
 Evaluate Level of Success
@@ -2845,10 +2742,7 @@ comfortable grip, but in game terms the blade is effectively identical to that m
 the lesser smith.
 
 42
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Making, maintaining or repairing anything properly requires certain essentials:
 
@@ -2911,11 +2805,9 @@ The project is simply not finished and is unusable.
 
 0 or less
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 43
-
-2.99.22.5
 
 Tools and Resources
 One cannot build a solid bridge if no wood, metal or stone is available. A blacksmith 
@@ -2981,10 +2873,7 @@ notes the level of success. Each roll contributes a certain percentage to the ov
 with the goal being to score 100% or higher.
 
 44
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 •	 Critical: 50%
 •	
@@ -3043,11 +2932,9 @@ Task is impossible
 –10%
 +20%
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 45
-
-2.99.22.5
 
 Enhancements
 Creating something to 100% creates a solid, working, functional item that may  be 
@@ -3106,10 +2993,7 @@ However the sword does not look appreciably different to a standard sword. If he
 charge more for it, then he must convince the client of its overall quality.
 
 46
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Warleggan creates a 
 standard, functional 
@@ -3156,11 +3040,9 @@ roll identifies just one
 – which is determined 
 randomly.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 47
-
-2.99.22.5
 
 ARMOUR
 
@@ -3205,10 +3087,7 @@ armour grants +10% to any Influence tests made toward onlookers, but also applie
 that same bonus to any Perception tests made to spot the wearer.
 
 48
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Hard Leather: Strengthened hides and cured leather used for shields and body armour. 
 Hard leather is the consistency of shoe leather: hard wearing yet flexible.
@@ -3258,11 +3137,9 @@ Legend. There are, however, certain specialised options as follows:
 Archer’s Armlet: A stiffened piece of leather worn on the inside of the forearm of most 
 archers, protecting them from the bite of a slightly misfired bowstring.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 49
-
-2.99.22.5
 
 AP
 
@@ -3388,10 +3265,7 @@ gauntlet adds +50% to any tests used to resist being disarmed or having the clut
 item taken from the gauntlet. It takes two Combat Actions to unlatch the glove.
 
 50
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 1
 1
@@ -3497,11 +3371,9 @@ with any sort of manual dexterity but protects the hand and forearm against inju
 a side note, the heavy gauntlet inflicts 1D4 bludgeoning damage if used to punch, but 
 suffers a –10% penalty when used to attack in such a manner.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 51
-
-2.99.22.5
 
 Gauntlet,  Light:  Stiff  leather  with  several  sewn-in  plates  of  metal,  a  light  gauntlet 
 is a common sight in most societies. It offers a degree of protection to the hand and 
@@ -3551,10 +3423,7 @@ Like modifying weapons, there is always a risk to the structural integrity of th
 and much of the time it is too expensive to experiment with.
 
 52
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Armour Modifications
 
@@ -3639,11 +3508,9 @@ increases the Armour Penalty by 1 – even though the armour itself gains no add
 Wintered: Adhering thick leather or furs to all of the spaces in normal armour, an 
 armoursmith can insulate any armour against the bitter cold and stiff wind of winter 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 53
-
-2.99.22.5
 
 or mountaintop travels. This makes the armour entirely uncomfortable to wear in 
 any other climate, and very heavy and unwieldy, but can make all the difference in 
@@ -3692,10 +3559,7 @@ island community, coral is plentiful where it can be found at all – making it 
 inexpensive (relatively speaking) material. 
 
 54
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 +1 AP is added to armour made from coral or containing coral parts. Coral armour is 
 always considered to have the Spiked modification, but must triple its ENC whenever 
@@ -3761,11 +3625,9 @@ Varies
 –10%
 –75%
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 55
-
-2.99.22.5
 
 Penalty. However, anyone clad in gold armour can add +5% per Hit Location to his 
 Influence skill. Any armour can have its plates, rivets or adornments made with solid 
@@ -3814,10 +3676,7 @@ armour from, as they usually gain these high APs from some factor other than sim
 toughness of their skin.
 
 56
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Monster Hide Armour
 
@@ -3962,11 +3821,9 @@ AP x10 SP
 AP x25 SP
 AP x100 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 57
-
-2.99.22.5
 
 The costs on the table on page 57 should be considered to be small city and large city 
 costs. Armour crafted from the skin of some fantastic beast is generally far too exotic 
@@ -4011,10 +3868,7 @@ and become useless at the worst possible moment. It is up to the Games Masters t
 decide exactly what happens when armour has gone too long without a maintenance.
 
 58
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 WEAPONRY
 
@@ -4056,11 +3910,9 @@ STR/DEX: The minimum STR and DEX scores needed to easily wield this weapon.
 For every point a Characteristic is below these minimums, a –5% penalty is applied to 
 an Adventurer’s skill when attacking and parrying with this weapon.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 59
-
-2.99.22.5
 
 Size: Each weapon possesses a size rating. This is related to its mass, leverage and 
 stability. The value is used to determine both the weapon’s ability to inflict and 
@@ -4109,10 +3961,7 @@ Battleaxe: A single-bladed weapon with a sturdy haft, the battleaxe may be used 
 one or two hands, depending on the wielder’s preference. A battleaxe can be used to 
 
 60
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 bash through doors and obstacles rather quickly. It suffers no damage when attacking 
 inanimate wooden objects.
@@ -4159,11 +4008,9 @@ simply a long, stout piece of wood used to bludgeon others. However, there are s
 cultures that have carved and cast clubs made of stone, bone or even metal – all of 
 which can be sculpted or decorated according to the wielder’s preference.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 61
-
-2.99.22.5
 
 Cutlass:  The  infamous  pirate’s  cutlass  is  a  slightly  curved,  single-edged,  mid-sized 
 sword with a basket hilt. It can inflict fast and flashing wounds but is not designed for 
@@ -4215,10 +4062,7 @@ surface of water onto the deck of a boat. Sailors quickly learned that the tool 
 as useful in hooking pirate flesh as well!
 
 62
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Gandasa: An interesting variety of the great axe, a gandasa is a wooden shaft roughly 
 as  tall  as  the  user.  Nearly  half  of  its  length  is  dominated  by  a  huge  polished  blade. 
@@ -4268,11 +4112,9 @@ can bring any version of the weapon’s attack to bear in an instant.
 Harpoon: A slightly shortened longspear with a sharp bladed head serrated with rear-
 facing hooks, the harpoon is another boatman’s tool turned into ship defence weapon. 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 63
-
-2.99.22.5
 
 Its sharp head was built to slice through bony fish or whale blubber equally well and 
 sets extremely well when plunged into a target. Not only can the harpoon be used in 
@@ -4323,10 +4165,7 @@ Kite Shield: Kite shields are large shields with an inverted teardrop shape. Thi
 can switch between both infantry and mounted use, and is extremely popular for those 
 
 64
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 who spend time in both types of combats. Kite shields are also effective against ranged 
 weapons.
@@ -4355,11 +4194,9 @@ the attack inflicts an additional 1D3 damage.
 Kunai:  Originally  used  as  a  peasant  digging  tool,  the  kunai  is  a  roughly  triangular 
 piece of wrought metal with a rope or cloth wrapped handle. Usable as a dagger in 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 65
-
-2.99.22.5
 
 close  combat,  or  as  a  thrown  projectile,  the  kunai  is  a  multi-purpose  weapon  for 
 commoners.
@@ -4410,10 +4247,7 @@ are built with spikes on opposite sides of the head, like those used by miners. 
 picks are very dense and tool-like, and may be used on inanimate objects without being 
 
 66
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 destroyed. A military pick ignores the first Armour Point of non-natural armour when 
 it strikes.
@@ -4463,11 +4297,9 @@ or the other of the weapon, using momentum and speed to get past defences. A ski
 nunchaku user can attack from several different angles without so much as changing 
 his fighting stance, and land several blows in rapid succession. Attacks from nunchaku 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 67
-
-2.99.22.5
 
 are increasingly difficult to Parry, with a cumulative –5% penalty to the target’s Parry 
 skill per nunchaku attack in a single Combat Round.  As well as imparting damage, 
@@ -4517,10 +4349,7 @@ end. The knot is sometimes heat-hardened and occasionally shaped into a beastly 
 design. 
 
 68
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Shortspear: Heftier than a javelin and fitted with a broader head made for stabbing, 
 a short spear is commonly used in conjunction with a phalanx of shields. The short 
@@ -4570,11 +4399,9 @@ Tulwar: This is a larger version of the scimitar, with a truly massive and impos
 that requires two hands to heft and wield properly. It has a surprisingly small hilt for a 
 weapon of its size, and is generally wielded in a ‘laced-fingers’ or ‘hand-over-hand’ style 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 69
-
-2.99.22.5
 
 that makes it terribly difficult to do anything but attack– imposing a –10% penalty to 
 all Parry attempts made with it.
@@ -4623,10 +4450,7 @@ great deal of time and money. There is always risk to the integrity of the weapo
 a single slip of the weaponsmith’s hand could mean a broken blade or weakened haft.
 
 70
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 P
 S
@@ -5120,9 +4944,9 @@ M
 
 M
 
-M
-
 S
+
+M
 
 5
 /
@@ -5222,15 +5046,15 @@ S
  
 
 5
-5
-1
+2
 
 P
 S
  
 
 5
-2
+5
+1
 
 P
 S
@@ -5254,6 +5078,13 @@ S
 
 5
 1
+
+P
+S
+ 
+
+0
+5
 
 P
 S
@@ -5278,13 +5109,6 @@ S
 0
 5
 2
-
-P
-S
- 
-
-0
-5
 
 7
 /
@@ -5325,14 +5149,14 @@ S
 /
 4
 
+8
+/
+2
+
 2
 1
 /
 3
-
-8
-/
-2
 
 0
 1
@@ -5801,10 +5625,6 @@ L
 D
 1
 
-6
-D
-1
-
 1
 +
 6
@@ -5814,6 +5634,10 @@ D
 1
 +
 4
+D
+1
+
+6
 D
 1
 
@@ -5867,6 +5691,10 @@ D
 8
 D
 1
+
+6
+D
+2
 
 3
 +
@@ -5882,10 +5710,6 @@ D
 1
 
 8
-D
-2
-
-6
 D
 2
 
@@ -6306,7 +6130,7 @@ l
 a
 H
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 P
 S
@@ -6353,8 +6177,6 @@ a
 H
 
 71
-
-2.99.22.5
 
 P
 S
@@ -6539,33 +6361,6 @@ t
 a
 C
 
-e
-c
-a
-m
- 
-y
-v
-a
-e
-H
-
-t
-e
-h
-c
-t
-a
-H
-
-n
-o
-p
-a
-e
-
-W
-
 P
 S
  
@@ -6666,17 +6461,6 @@ S
 
 M
 
-9
-/
-9
-
-1
-+
-2
-1
-D
-1
-
 –
 /
 9
@@ -6715,65 +6499,16 @@ D
 D
 1
 
- 
+9
+/
+9
 
-H
+1
++
 2
-&
-H
 1
-
- 
-
-H
+D
 1
-
-H
-1
-
-H
-1
-
-d
-l
-e
-i
-h
-S
- 
-e
-t
-i
-l
-p
-o
-H
-
-d
-l
-e
-i
-h
-S
- 
-r
-e
-t
-a
-e
-H
-
-a
-n
-a
-t
-a
-K
-
-s
-i
-r
-I
 
 P
 S
@@ -6918,9 +6653,9 @@ S
 
 —
 
-1
-
 —
+
+1
 
 3
 
@@ -6993,6 +6728,36 @@ S
 0
 0
 3
+
+2
+1
+/
+4
+
+0
+1
+/
+4
+
+0
+1
+/
+4
+
+0
+1
+/
+6
+
+2
+1
+/
+3
+
+0
+1
+/
+4
 
 2
 1
@@ -7002,36 +6767,6 @@ S
 7
 /
 6
-
-0
-1
-/
-4
-
-0
-1
-/
-4
-
-0
-1
-/
-6
-
-2
-1
-/
-3
-
-0
-1
-/
-4
-
-2
-1
-/
-4
 
 —
 
@@ -7078,6 +6813,113 @@ e
 e
 l
 B
+
+e
+l
+a
+p
+m
+
+I
+ 
+,
+
+d
+e
+e
+l
+B
+
+n
+o
+i
+t
+a
+c
+o
+L
+n
+u
+t
+S
+
+ 
+
+e
+l
+a
+p
+m
+
+I
+
+d
+e
+e
+l
+B
+
+r
+e
+d
+n
+u
+S
+ 
+,
+e
+l
+a
+p
+m
+
+I
+
+n
+o
+i
+t
+a
+c
+o
+L
+n
+u
+t
+S
+
+ 
+
+n
+o
+i
+t
+a
+c
+o
+L
+n
+u
+t
+S
+
+ 
+
+e
+l
+a
+p
+m
+
+I
+
+d
+e
+e
+l
+B
+
+-
 
 r
 e
@@ -7199,113 +7041,6 @@ e
 e
 l
 B
-
-e
-l
-a
-p
-m
-
-I
- 
-,
-
-d
-e
-e
-l
-B
-
-n
-o
-i
-t
-a
-c
-o
-L
-n
-u
-t
-S
-
- 
-
-e
-l
-a
-p
-m
-
-I
-
-d
-e
-e
-l
-B
-
-r
-e
-d
-n
-u
-S
- 
-,
-e
-l
-a
-p
-m
-
-I
-
-n
-o
-i
-t
-a
-c
-o
-L
-n
-u
-t
-S
-
- 
-
-n
-o
-i
-t
-a
-c
-o
-L
-n
-u
-t
-S
-
- 
-
-e
-l
-a
-p
-m
-
-I
-
-d
-e
-e
-l
-B
-
--
 
 M
 
@@ -7464,15 +7199,15 @@ L
 1
 1
 
-9
-/
-9
-
 7
 /
 1
 1
 
+9
+/
+9
+
 1
 1
 /
@@ -7520,14 +7255,14 @@ D
 D
 1
 
+8
+D
+1
+
 1
 +
 0
 1
-D
-1
-
-8
 D
 1
 
@@ -7575,6 +7310,25 @@ D
 8
 D
 2
+
+ 
+
+H
+2
+&
+H
+1
+
+ 
+
+H
+1
+
+H
+1
+
+H
+1
 
 H
 1
@@ -7639,6 +7393,74 @@ H
 
 H
 2
+
+e
+c
+a
+m
+ 
+y
+v
+a
+e
+H
+
+n
+o
+p
+a
+e
+
+W
+
+t
+e
+h
+c
+t
+a
+H
+
+d
+l
+e
+i
+h
+S
+ 
+e
+t
+i
+l
+p
+o
+H
+
+d
+l
+e
+i
+h
+S
+ 
+r
+e
+t
+a
+e
+H
+
+a
+n
+a
+t
+a
+K
+
+s
+i
+r
+I
 
 s
 r
@@ -7841,8 +7663,7 @@ a
 N
 
 72
-
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 P
 S
@@ -8023,8 +7844,6 @@ D
 -
 o
 N
-
-2.99.22.5
 
 P
 S
@@ -8268,13 +8087,6 @@ P
 S
  
 
-0
-4
-
-P
-S
- 
-
 P
 S
  
@@ -8294,6 +8106,13 @@ S
 0
 0
 2
+
+P
+S
+ 
+
+0
+4
 
 P
 S
@@ -8478,6 +8297,10 @@ S
 /
 6
 
+8
+/
+2
+
 0
 1
 /
@@ -8487,10 +8310,6 @@ S
 1
 /
 4
-
-8
-/
-2
 
 8
 /
@@ -8696,6 +8515,26 @@ m
 
 I
 
+e
+l
+a
+p
+m
+
+I
+
+d
+e
+e
+l
+B
+
+d
+e
+e
+l
+B
+
 n
 o
 i
@@ -8843,26 +8682,6 @@ p
 m
 
 I
-
-e
-l
-a
-p
-m
-
-I
-
-d
-e
-e
-l
-B
-
-d
-e
-e
-l
-B
 
 r
 e
@@ -8930,19 +8749,19 @@ M
 
 S
 
-S
-
 M
 
 S
 
-M
-
-M
+S
 
 M
 
 L
+
+M
+
+M
 
 S
 
@@ -9028,16 +8847,16 @@ H
 /
 2
 1
+
+9
+/
+–
 
 7
 /
 0
 1
 
-9
-/
-–
-
 7
 /
 9
@@ -9101,10 +8920,6 @@ D
 D
 1
 
-8
-D
-1
-
 1
 +
 6
@@ -9130,6 +8945,10 @@ D
 1
 
 6
+D
+1
+
+8
 D
 1
 
@@ -9475,11 +9294,9 @@ a
 
 W
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 73
-
-2.99.22.5
 
 The  Close  Combat  Weapon  Modifications  table  shows  the  names  of  these 
 modifications, how long they typically take, what sort of weapons may be modified 
@@ -9583,10 +9400,7 @@ Cost
 200 SP
 
 74
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 the blade – reducing the weapon’s Armour Points and Hit Points by 2, to a minimum 
 of 1.
@@ -9634,11 +9448,9 @@ integrity, reducing its Armour Points by one, to a minimum of one. These teeth a
 also much easier to catch and parry away, granting enemy Parry attempts against it a 
 +10% bonus.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 75
-
-2.99.22.5
 
 Example: A truly wicked weapon, a Serrated shortsword inflicts 1D6+1 damage that cannot 
 be healed easily (–15 penalty) but can be parried +10% easier and only has an AP of 3 
@@ -9684,10 +9496,7 @@ Points and Hit Points are permanent and cumulative, whilst new modification bonu
 replace old ones.
 
 76
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Ranged Combat Weapons
 As with Close Combat weapons, ranged weapons are defined by a common series of 
@@ -9736,11 +9545,9 @@ may used with an atlatl. There is a very simple version of the device made from 
 shaft that has a cupped end in which to fling a javelin, but it is far inferior to the rope-based 
 versions (and only adds +1 damage).
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 77
-
-2.99.22.5
 
 Blowgun: This is a hollow tube or pipe, usually made of wood or bone, which expels a 
 dart when its user blows on one end. As the dart itself is capable of little damage, blowguns 
@@ -9791,10 +9598,7 @@ Hurling Sphere: One of the simplest ranged weapons, a hurling sphere is a hollow
 ball of metal or stone filled with sand or lead. The thrower should clasp the sphere in 
 
 78
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 both hands and hurl it overhead like a catapult, bringing its weight down on the target 
 with crushing force. 
@@ -9842,11 +9646,9 @@ Short Bow: Designed to be fired from horseback, the short bow is equally useful 
 a footsoldier’s weapon. It is a good hunting tool as well as a weapon of war and when 
 used to hunt deer and smaller game animals it can make all the difference.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 79
-
-2.99.22.5
 
 Sling: A sling is a long strip of cloth or leather used to fling a stone or bullet at a target. 
 It was originally a bird-hunter’s tool of choice. Many slings also have a sewn-in leather 
@@ -9897,10 +9699,7 @@ use small fletching from waxy-feathered fowl and are remarkably accurate, if onl
 to the sheer force with which they are fired.
 
 80
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 P
 S
@@ -10721,9 +10520,9 @@ H
 
 —
 
-1
-
 —
+
+1
 
 1
 
@@ -10967,9 +10766,11 @@ D
 D
 1
 
+8
+D
 1
-+
-3
+
+6
 D
 1
 
@@ -10981,11 +10782,9 @@ D
 D
 1
 
-8
-D
 1
-
-6
++
+3
 D
 1
 
@@ -11268,11 +11067,9 @@ R
 
  
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 81
-
-2.99.22.5
 
 P
 S
@@ -11327,16 +11124,16 @@ P
 S
  
 
+0
 5
-7
-1
 
 P
 S
  
 
-0
 5
+7
+1
 
 4
 /
@@ -11383,30 +11180,15 @@ S
 
 —
 
-2
-
 —
+
+2
 
 2
 
 1
 
 —
-
-n
-o
-i
-t
-a
-c
-o
-L
-n
-u
-t
-S
-
- 
 
 n
 o
@@ -11430,6 +11212,21 @@ p
 m
 
 I
+
+n
+o
+i
+t
+a
+c
+o
+L
+n
+u
+t
+S
+
+ 
 
 e
 l
@@ -11509,6 +11306,10 @@ M
 /
 5
 
+9
+/
+–
+
 1
 1
 /
@@ -11526,28 +11327,24 @@ M
 
 9
 /
-–
-
-1
-1
-/
 5
 
-9
+1
+1
 /
 5
 
 —
 
 1
+
+—
+
+—
 
 —
 
 3
-
-—
-
-—
 
 1
 
@@ -11570,10 +11367,10 @@ m
 
 m
 0
-0
 1
 
 m
+0
 0
 1
 
@@ -11841,8 +11638,7 @@ r
 W
 
 82
-
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 Arrows: Arrows are the most commonly used 
 ammunition in Legend. While not as simple to 
@@ -11891,8 +11687,6 @@ fired (preferably upward into the air) the arrow
 corkscrews and emits a distinct and piercing wail 
 that can be heard on a clear day for up to five 
 kilometres. If actually fired at a target, the arrow 
-
-2.99.22.5
 
 has a –35% penalty to hit and will 
 cause  half  damage  if  the  attack  is 
@@ -12000,11 +11794,9 @@ are involved). The dye adds +10% to Perception tests against the marked target a
 scented oil adds +25% to Tracking rolls to find the target by scent. The fluids from a 
 marking wad remain on the target for 1D3 days or until thoroughly washed with lye.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 83
-
-2.99.22.5
 
 Crossbow Bolts: Simple and stout, bolts are miniature arrows with smaller fletching 
 designed to carry the bolt on existing force rather than keep it aloft. They tend to have 
@@ -12054,10 +11846,7 @@ may not be available in all cultures, game settings or campaigns but this is ult
 up to the Games Master.
 
 84
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Alternate Weapon Materials
 Alternate 
@@ -12142,11 +11931,9 @@ ENC by 1. Superior to bronze and common irons in nearly every way, steel weaponr
 is only available to cultures that have managed to discover the process to actually mix 
 and create the metal.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 85
-
-2.99.22.5
 
 Stone:  Heavy  and  unable  to  hold  a  decent  edge  for  more  than  a  few  strikes,  stone 
 weaponry can vary from a piece of granite lashed to a branch to a fine sliver of chipped 
@@ -12194,10 +11981,7 @@ Evade  skill  against  the  attack,  but  the  damage  rolled  will  be  divided
 fractions up) amongst 1D4+1 Hit Locations . 
 
 86
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Bomb,  Hand:  A  simple  clay  shell  or  metal  sphere  packed  with  black  powder  and 
 fragments  of  shrapnel,  a  fuse,  and  capped  in  wax,  the  hand  bomb  is  a  deadly  and 
@@ -12246,11 +12030,9 @@ One-shot  Pipe: A very simple weapon that was the predecessor of the pistol, a o
 shot pipe is a half-metre length of metal with a leather or cloth wrapping around its 
 midsection. The pipe is packed with powder at one end and a small ball slug is set into the 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 87
-
-2.99.22.5
 
 opposite one. When a lit fuse or flaming wick is set to the powder the resulting explosion 
 sends the ball flying. There is a small degree of danger with the open-powder of the one-
@@ -12299,10 +12081,7 @@ some of its damage potential. A breach-loading rifle could be used as a club in 
 combat, but with a –10% penalty to hit.
 
 88
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Rifle, flintlock: The rifle 
 version of the common 
@@ -12406,14 +12185,6 @@ S
  
 
 0
-5
-5
-
-P
-S
- 
-
-0
 0
 0
 
@@ -12503,6 +12274,14 @@ S
 
 ,
 
+5
+
+P
+S
+ 
+
+0
+5
 5
 
 l
@@ -12640,6 +12419,10 @@ S
 /
 –
 
+9
+/
+9
+
 0
 1
 /
@@ -12657,10 +12440,6 @@ S
 
 0
 1
-/
-9
-
-9
 /
 9
 
@@ -12931,14 +12710,6 @@ D
 D
 1
 
-6
-D
-1
-
-4
-D
-2
-
 1
 +
 4
@@ -12950,6 +12721,14 @@ D
 2
 
 6
+D
+2
+
+6
+D
+1
+
+4
 D
 2
 
@@ -13006,6 +12785,19 @@ e
 e
 S
 
+r
+e
+d
+w
+o
+P
+ 
+k
+c
+a
+l
+B
+
 n
 o
 i
@@ -13021,19 +12813,6 @@ D
 e
 e
 S
-
-r
-e
-d
-w
-o
-P
- 
-k
-c
-a
-l
-B
 
 l
 l
@@ -13436,11 +13215,9 @@ s
 i
 P
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 89
-
-2.99.22.5
 
 TRANSPORT
 
@@ -13485,10 +13262,7 @@ with hardened leather and riveted metal, and then have fabric stretched over the
 keep the illusion of a ‘common’ carriage. The driver has slightly raised walls on the 
 
 90
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 sides of his bench that grant him the additional AP of the vehicle, over and above any 
 AP he has himself. The doors to the carriage are easily reinforced with crossbars found 
@@ -13538,11 +13312,9 @@ carry much more than a single person’s worth of goods and does not have a driv
 at all. Instead, the driver is expected to ride a second pony or horse alongside the cart. 
 Really only useful for those few who want to bring just slightly more than what their 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 91
-
-2.99.22.5
 
 saddlebags can carry, a small cart is best for carrying goods within the same community 
 rather than for long travels.
@@ -13592,10 +13364,7 @@ As the walls of the war chariot cover the legs and abdomen of the driver, these 
 are considered to be covered as per the Cover rules on page136 of the Legend Core 
 
 92
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Rulebook. This only applies to attacks originating from the front or sides of the chariot; 
 no cover is gained if attacks are launched from the driver’s rear.
@@ -13645,11 +13414,9 @@ and  walk  with  it. The  floor  commonly  has  some  kind  of  throne  or  bedd
 sometimes with a screened or veiled tent obscuring it from outside view. The palanquin 
 is a good way of advertising one’s superior position to those beneath it and most who 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 93
-
-2.99.22.5
 
 witness someone being carried on a palanquin automatically assume he is some kind 
 of royalty or nobility. In fact, this view is so ingrained that the rider gains a +10% to 
@@ -13698,10 +13465,7 @@ Movement penalty, assign damage to the sled’s slats as they are ground to bits
 the sled the ability to move at all without flipping. 
 
 94
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 P
 S
@@ -14229,6 +13993,10 @@ d
 D
 1
 
+A
+/
+N
+
  
 
 M
@@ -14321,10 +14089,6 @@ A
 /
 N
 
-A
-/
-N
-
 0
 6
 /
@@ -14500,6 +14264,8 @@ N
 5
 –
 
+—
+
 %
 0
 1
@@ -14508,8 +14274,6 @@ N
 %
 5
 +
-
-—
 
 —
 
@@ -14808,7 +14572,7 @@ a
 h
 C
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 t
 h
@@ -14952,8 +14716,6 @@ T
 
 95
 
-2.99.22.5
-
 Tiger  Cage:  Also  called  a  ‘slaver’s  wagon,’  the  tiger  cage  is  little  more  than  a  flatbed 
 cart with metal reinforced walls or bars. Used by carnivals or freak shows to harbour 
 dangerous animals and creatures, or by travelling slavers who need to keep a lock on their 
@@ -15017,10 +14779,7 @@ Modifier
 –10%
 
 96
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 If the Drive Skill Test is passed, the Driver may take his Combat Actions as normal, 
 giving up the first one to drive the vehicle – which will advance its Movement score 
@@ -15062,11 +14821,9 @@ ship  travel  and  ship  combat  into  a  Legend  campaign. These  are  rules  d
 efficiency and ease of use, not as an encyclopaedic treatise on the art of sailing, as such 
 a topic could easily consume 10 books this size.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 97
-
-2.99.22.5
 
 Ship Designs and Statistics
 Each ship detailed in this chapter shares the following characteristics, whether the ship 
@@ -15116,10 +14873,7 @@ This entry firstly denotes which skill is used when operating the ship (nearly a
 either Boating or Shiphandling). Also, though any ship can be operated under ideal 
 
 98
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 conditions without the necessity of a Skill Test, when the ship and crew are called upon 
 for more extreme endeavours , this modifier is applied to the Skill Test. This modifier 
@@ -15167,11 +14921,9 @@ Broadside: Eight 18-pounders (4D8 each)
 Skill: Shiphandling +0%
 Cost: 80,000 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 99
-
-2.99.22.5
 
 Bireme
 A leap forward in nautical engineering, the bireme mounts two banks of oars on either 
@@ -15215,10 +14967,7 @@ Skill: Shiphandling +0%
 Cost: 50,000 SP
 
 100
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Canoe
 A canoe is a simple and effective craft, primarily designed for traversing rivers, streams 
@@ -15266,11 +15015,9 @@ Ram: No
 Skill: Shiphandling +0%
 Cost: 30,000 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 101
-
-2.99.22.5
 
 Cog
 With  the  creation  of  the  cog,  the  merchant  ship  finally  came  into  its  own.  Sturdy, 
@@ -15314,10 +15061,7 @@ Skill: Shiphandling +0%
 Cost: 35,000 SP
 
 102
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Fishing Boat
 Small craft of various designed used along many coastal areas these numerous vessels 
@@ -15359,11 +15103,9 @@ Broadside: Eight 18-pounders (4D8 each)
 Skill: Shiphandling –10%
 Cost: 20,000 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 103
-
-2.99.22.5
 
 Frigate
 Powerful  warships  frigates  are  large  sailing  vessels  distinguished  by  having  all  their 
@@ -15408,10 +15150,7 @@ Skill: Shiphandling –10%
 Cost: 350,000 SP
 
 104
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Indiaman
 Ocean going merchantmen designed to carry both passengers and cargo Indiamen 
@@ -15452,11 +15191,9 @@ Ram: No
 Skill: Shiphandling +10%
 Cost: 18,000 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 105
-
-2.99.22.5
 
 Longship
 One of the most efficient and effective ship designs ever created, the longship is a lean 
@@ -15500,10 +15237,7 @@ Skill: Boating –10%
 Cost: 50 SP
 
 106
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Rowboat
 This small craft is often carried as an auxiliary boat aboard large ships, allowing the 
@@ -15545,11 +15279,9 @@ Broadside: Five 18-pounders (4D8 each)
 Skill: Shiphandling +10%
 Cost: 35,000 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 107
-
-2.99.22.5
 
 Small Trader
 Small  and  normally  unarmed  traders  which  are  mainly  consigned  to  short  channel 
@@ -15592,10 +15324,7 @@ Skill: Shiphandling –10%
 Cost: 30,000 SP
 
 108
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Trireme
 Fast and deadly, the trireme is a mammoth warship. It mounts three banks of oars on 
@@ -15636,11 +15365,9 @@ Ram: Yes (D2 points of damage for every metre of speed)
 Skill: Shiphandling –10%
 Cost: 7,000 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 109
-
-2.99.22.5
 
 War Junk
 A large five masted-vessel capable of dominating most contemporary navies. Their high 
@@ -15689,22 +15416,9 @@ Wind Speed: The speed of the prevailing winds.
 Against: The vessel is moving against or perpendicular to the direction of the wind.
 
 110
+Jeremy Bauerle (order #6303863)
 
-Alex Greene (order #3215550)
-
-2.99.22.5
-
-Sailing Speed
-
-Wind Speed
-Calm
-Light Wind
-
-Moderate 
-Wind
-Stiff Wind
-
-Before the 
+Before the 
 Wind
 1m / 16.8km
 3m / 52.8km 
@@ -15726,6 +15440,16 @@ Modifier
 16.8km
 3m / 
 52.8km
+
+Sailing Speed
+
+Wind Speed
+Calm
+Light Wind
+
+Moderate 
+Wind
+Stiff Wind
 
 5m / 86.4km
 
@@ -15921,11 +15645,9 @@ Large City
 7,000 SP
 150,000 SP
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 111
-
-2.99.22.5
 
 Before: The vessel is moving with the prevailing winds.
 
@@ -16004,10 +15726,7 @@ another, the outcome of the race will depend upon the Boating or Shiphandling sk
 of the captains of either ship, just as with any other pursuit in Legend.
 
 112
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Ship Qualities: Optional Rule
 To add character to a ship, qualities can be used. These are quirks of a ship’s design that 
@@ -16112,11 +15831,9 @@ water. The question is exactly how much water. Bailing water from a ship’s bil
 normal part of a sailor’s daily duties and larger ships always carry at least one carpenter 
 (and spare lumber) to make emergency repairs when needed.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 113
-
-2.99.22.5
 
 So long as a ship has at least one Seaworthiness point remaining, the water comes into 
 the ship at a slower rate than it is expelled by the actions of the crew. One the ship’s 
@@ -16165,10 +15882,7 @@ successful attempt at careening brings the ship’s speed back up by three metre
 kilometres. 
 
 114
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Fire
 Small fires are very common aboard ships, though they are always carefully contained. 
@@ -16216,11 +15930,9 @@ It  has  often  been  said  that  a  boat  is  a  hole  in  the  water  you  mus
 Although  Legend  streamlines  the  process  of  buying  and  repairing  ships  immensely, 
 Adventurers will find that owning their own ship is an expensive undertaking.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 115
-
-2.99.22.5
 
 Like any other item, the cost for ships and their equipment varies from place to place. Most 
 of the larger ships are unavailable in any settlement size smaller than a small city. As with all 
@@ -16347,10 +16059,7 @@ Special
 5 rounds 3,000 SP
 
 116
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Cannon: There are several sizes of cannon used on board ships. There are also swivel 
 guns, which are smaller pieces mounted on the deck of a ship, and are used to blast 
@@ -16459,11 +16168,9 @@ sailcloth to tar to cured timber, are bundled together into basic prices. A ship
 10 Silvers worth of materials to repair every lost point of Seaworthiness. Repairing lost 
 Structure Points requires 100 Silvers worth of materials for every point.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 117
-
-2.99.22.5
 
 Repair Crews
 A standard repair crew can repair ten points of Seaworthiness or four Structure Points 
@@ -16511,10 +16218,7 @@ results in the ship losing its draft x D10 (minimum of 1D10) in both Seaworthine
 Structure Points, as the ship effectively crashes into the shore.
 
 118
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 BEASTS & COHORTS
 
@@ -16556,11 +16260,9 @@ Battle Trained: The animal has been conditioned for high-stress situations and c
 used as a war-mount or other resource in combat and conflict. The owner suffers no 
 penalties using the beast in these conditions.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 119
-
-2.99.22.5
 
 Creature Descriptions
 Baboon: Baboons are large, ground-dwelling monkeys. 
@@ -16611,10 +16313,7 @@ not suffer any real damage but must pass an Athletics test to keep his balance o
 from the impact. 
 
 120
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Griffin: Highly prized as a mount, a griffin is a large flying carnivore with the body of a 
 lion and the head, talons and wings of a great eagle. There are several subspecies known 
@@ -16664,11 +16363,9 @@ long as the idea has existed.
 Lizard, Giant: These creatures are used as mounts by certain nomads, giant lizards are 
 large carnivores.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 121
-
-2.99.22.5
 
 Mammoth: These beasts are immense herbivores that are the ancestors of common 
 elephants. 
@@ -16720,10 +16417,7 @@ at  all,  such  as  shrews  and  moles,  they  are  still  lumped  in  with  the
 category for the ease of the seller.
 
 122
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Sheep: One of the early livestock choices for hilly and grassland terrains, sheep are 
 raised in huge flocks to be used for wool and meat. They are commonly kept in massive 
@@ -16773,11 +16467,9 @@ Wolf: Wild canines running in packs that can reach upwards of twenty individuals
 wolves are the quintessential pack hunters. Wolves are quite loyal after reaching the 
 ‘Skilled’  training  level  and  will  view  the  handler  as  a  pack  mate.  For  this  reason,  if 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 123
-
-2.99.22.5
 
 Beasts, Pets and Steeds
 Animal
@@ -16939,6 +16631,9 @@ Skilled
 400 SP
 400 SP
 
+124
+Jeremy Bauerle (order #6303863)
+
 else, 
 
 nothing 
@@ -16995,12 +16690,6 @@ or use of service.
 
 includes 
 
-124
-
-Alex Greene (order #3215550)
-
-2.99.22.5
-
 Accountant: This is someone who specialises in taking care of his employer’s money, 
 resources  and  overall  assets.  Accountants  are  also  excellent  at  taking  care  of  large 
 purchases  in  their  employers’  names,  such  as  a  general  sending  his  accountant  to 
@@ -17044,11 +16733,9 @@ towel and ripping out that rotten tooth that got chipped in a fight a month earl
 They tend to be popular people in secluded areas, even if aspects of their trade seem 
 like an unnecessary luxuries.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 125
-
-2.99.22.5
 
 Barkeep: Barkeeps are professional bartenders, most often in charge of pubs or taverns. 
 Useful for more than filling bellies, a barkeep can also be a source of good advice from 
@@ -17099,10 +16786,7 @@ Carpenter: This is the professional responsible for woodworking and other wood c
 From toys and tools to the walls of a house, carpenters are the masters of woodcraft. 
 
 126
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Adventurers can also occasionally find carpenters who make the basic wooden bodies 
 of shields, but they are far more commonly going to sell such items to armourers.
@@ -17152,11 +16836,9 @@ kegs. They  are  responsible  for  bending,  treating  and  binding  wooden,  li
 containers. It is their work that keeps a stout lager from leeching sweetness from maple 
 boards, or makes sure a good batch of bitters does not go sour due to a lack of waxed lids. 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 127
-
-2.99.22.5
 
 Courier: This is a hireling responsible for taking messages or packages from one place 
 to another. 
@@ -17205,10 +16887,7 @@ net or spear out of the water. Fishermen tend to live near their favourite fishi
 and some may even have boats or ships to get the best catches they can. 
 
 128
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Fletcher:  These  caretaking  individuals  are  responsible  for  ‘fletching:’  plucking, 
 cutting, waxing and applying the feathers to arrows and crossbow bolts. Without their 
@@ -17256,11 +16935,9 @@ mishap or miscommunication could result in violence or missed opportunities. The
 best way around this is to quickly hire a learned interpreter, who will happily let both 
 sides of the conversation know what is being said by the other. 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 129
-
-2.99.22.5
 
 Jester: This is a specialised form of entertainer who is talented at social humour as well 
 as physical gags. Through the use of puns, metaphor and comedic anecdotes a jester 
@@ -17309,10 +16986,7 @@ infant healthy but also are schooled in how to help around the home for the firs
 days while the new mother recuperates.
 
 130
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Miller: In charge of creating mash and flour at grain mills, millers must be skilled not 
 only at the loading and unloading of the millstone but also of the bagging, storage and 
@@ -17360,11 +17034,9 @@ Priest/Priestess: Higher in the classification of the faithful than mere acolyte
 and  priestesses  are  in  charge  of  many  more  duties  and  roles  in  their  order  or  cult. 
 Buying time away from their patronages is difficult and expensive, but could be well 
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 131
-
-2.99.22.5
 
 worth the extra effort and cost. Priests and priestesses have permission from their elders 
 to perform greater rituals and works in their faith, and Adventurers that are not of 
@@ -17403,10 +17075,7 @@ wary of predators and poachers and cannot allow members of the flock to stray to
 away.
 
 132
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Shipwright: These specialist carpenters focus their efforts on building (and repairing) 
 boats, canoes, kayaks and sailing vessels. 
@@ -17443,11 +17112,9 @@ in  groups  of  a  dozen  or  more,  a  yeoman  unit  volleying  their  shots  i
 from hundreds of paces away can destroy a unit’s morale, even if it does not kill them 
 physically.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 133
-
-2.99.22.5
 
 )
 e
@@ -18481,29 +18148,6 @@ a
 r
 C
 
- 
-
-s
-t
-r
-o
-h
-o
-C
-d
-n
-a
- 
-s
-g
-n
-
-i
-l
-e
-r
-i
-
 n
 o
 i
@@ -18569,10 +18213,6 @@ n
 A
 
 i
-
-134 H
-
-Alex Greene (order #3215550)
 
 y
 r
@@ -18718,7 +18358,32 @@ e
 h
 C
 
-2.99.22.5
+ 
+
+s
+t
+r
+o
+h
+o
+C
+d
+n
+a
+ 
+s
+g
+n
+
+i
+l
+e
+r
+i
+
+134 H
+
+Jeremy Bauerle (order #6303863)
 
 )
 e
@@ -19783,7 +19448,91 @@ g
 n
 E
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
+
+)
+s
+e
+i
+r
+a
+v
+ 
+
+–
+
+i
+
+ 
+l
+a
+m
+n
+A
+(
+ 
+e
+r
+o
+L
+
+)
+k
+c
+o
+t
+s
+e
+v
+i
+l
+(
+ 
+r
+e
+m
+r
+a
+F
+
+i
+
+)
+g
+n
+m
+r
+a
+F
+(
+ 
+t
+f
+a
+r
+C
+
+)
+l
+a
+r
+u
+t
+l
+u
+c
+i
+r
+g
+a
+(
+ 
+r
+e
+m
+r
+a
+F
 
  
 r
@@ -19962,93 +19711,7 @@ i
 u
 G
 
-)
-s
-e
-i
-r
-a
-v
- 
-
-–
-
-i
-
- 
-l
-a
-m
-n
-A
-(
- 
-e
-r
-o
-L
-
-)
-k
-c
-o
-t
-s
-e
-v
-i
-l
-(
- 
-r
-e
-m
-r
-a
-F
-
-i
-
-)
-g
-n
-m
-r
-a
-F
-(
- 
-t
-f
-a
-r
-C
-
-)
-l
-a
-r
-u
-t
-l
-u
-c
-i
-r
-g
-a
-(
- 
-r
-e
-m
-r
-a
-F
-
 135
-
-2.99.22.5
 
 )
 e
@@ -21120,39 +20783,6 @@ h
 t
 A
 
-n
-o
-i
-s
-s
-e
-f
-o
-r
-P
-
-r
-e
-l
-a
-e
-H
-
-d
-l
-a
-r
-e
-
-H
-
-r
-e
-t
-n
-u
-H
-
 r
 e
 t
@@ -21164,6 +20794,13 @@ e
 t
 n
 I
+
+r
+e
+t
+n
+u
+H
 
 r
 e
@@ -21197,6 +20834,15 @@ c
 o
 L
 
+r
+e
+r
+u
+o
+b
+a
+L
+
 s
 
 m
@@ -21216,24 +20862,6 @@ i
 a
 
 M
-
-r
-e
-r
-u
-o
-b
-a
-L
-
-r
-e
-l
-l
-e
-w
-e
-J
 
 h
 t
@@ -21342,11 +20970,43 @@ r
 o
 P
 
+r
+e
+l
+l
+e
+w
+e
+J
+
+n
+o
+i
+s
+s
+e
+f
+o
+r
+P
+
+r
+e
+l
+a
+e
+H
+
+d
+l
+a
+r
+e
+
+H
+
 136
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 )
 e
@@ -22544,7 +22204,7 @@ t
 o
 P
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 i
 t
@@ -22615,8 +22275,6 @@ Y
 
 137
 
-2.99.22.5
-
 ENCHANTMENTS
 
 An enchantment is a permanent magical effect. As a permanent effect, it cannot be 
@@ -22660,10 +22318,7 @@ invulnerable. An enchantment is only as strong as the object it is placed on. If
 object is broken, torn or destroyed, so too is the enchantment.
 
 138
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Unless  the  enchantment  has  specific  limitations  to  the  contrary,  anyone  can  use  an 
 enchanted item.
@@ -22711,11 +22366,9 @@ up. Thus, to enchant the arm of an average human (SIZ 11) the limb is considered
 to have SIZ 2 (11/7 – the number of Hit Locations for a human – and rounded up). 
 Enchanting the limb of a giant – average SIZ 50 – would take 7 hours.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 139
-
-2.99.22.5
 
 2. Declaration
 When a sorcerer wishes to create an enchantment, he must inform the Games Master as 
@@ -22772,10 +22425,7 @@ Enchantment’s Total Magic Points Hours To Enchant
 100
 
 140
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Enchantment Attributes
 Sorcerers can enchant items in several ways. 
@@ -22827,11 +22477,9 @@ stipulate what Manipulations influence the Sorcery spell he is investing into th
 Magnitude, Range, Duration in minutes, or Targets. Combine is not compatible with 
 the Enchanting Ritual spell.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 141
-
-2.99.22.5
 
 The maximum number of Manipulations is dependent on the sorcerer’s Manipulation 
 skill in the same way the skill is used to influence the normal casting of Sorcery spells 
@@ -22893,10 +22541,7 @@ dissipating. However the spirit can still make attacks against the sorcerer unle
 uses Spirit Resistance to protect himself from spectral harm.
 
 142
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Once within the Binding, the creature remains there until it is freed, either through 
 the will of the item’s owner or the destruction of the Binding. A creature bound into 
@@ -22939,11 +22584,9 @@ is  considered  to  be  within  its  Warded  area.  Against  any  banned  effect
 originating from outside the Warded area, the protected creatures benefit from the 
 following effects:
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 143
-
-2.99.22.5
 
 •	 A Countermagic Shield of a Magnitude equal to the Warding’s invested Magic 
 
@@ -22996,10 +22639,7 @@ the sorcerer’s Manipulation divided by 10 and rounded up. Manipulations to Sor
 spells count as conditions, as described earlier.
 
 144
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Environmental Condition
 Each Environmental Condition defines exactly where the enchantment in an item will 
@@ -23037,11 +22677,9 @@ Power crystals can be readily applied to any fantasy setting that may have natur
 occurring stores of magical energy. Crystals need not be the medium; rocks, liquids, 
 talismans, relics and so forth can all be used.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 145
-
-2.99.22.5
 
 Types of Crystal
 Crystals tend to be found in one of four types: Magic Point Store (Empty), Magic Point 
@@ -23091,10 +22729,7 @@ Random Magnitude table below. Magnitude only needs be determined for spells with
 the progressive trait (marked in italics in the Random Spell Matrix table).
 
 146
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Whoever uses a Spell Matrix crystal must still spend Magic Points to activate the spell it 
 contains. Also, only a Detect Magic or other divination can confirm what spell matrix 
@@ -23146,11 +22781,9 @@ Thus a crystal can be worn in a ring, worked into a sword hilt, stitched into cl
 in the form jewellery and so forth. If the two are separated – even by a few millimetres 
 – then the powers of the crystal are unavailable to him until contact is re-established.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 147
-
-2.99.22.5
 
 Magic  Points  that  are  used  in  creating  enchantments  do  not  have  any  effect  on  a 
 sorcerer’s own Magic Points and he does not need to tie any of his magical reserves 
@@ -23180,10 +22813,7 @@ and hid it far beneath the ground so that the angry Bear Father would never find
 again.
 
 148
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Random Spell Matrix table
 1D100
@@ -23312,11 +22942,9 @@ Vigour
 Warmth
 Water Breath
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 149
-
-2.99.22.5
 
 ALCHEMY
 
@@ -23359,10 +22987,7 @@ perfection, through purity of mind and spirit, and thereby transcending the rava
 disease and time to attain enlightenment.
 
 150
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Lore (Alchemy) (INT x2)
 Like all Lore skills, Alchemy is based on the INT Characteristic. It is the Adventurer’s 
@@ -23387,9 +23012,7 @@ Gold, Iron, Lead, Mercury, Silver and Tin. Gold is the purest metal, symbolising
 and spiritual purity and perfection. By transmuting the six lesser metals into gold, the 
 alchemist hopes to unlock the secret of achieving similar, personal purity and perfection.
 
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 The  mechanism  for  this  understanding,  and  the  thing  pursued  by  all  alchemist 
 Adventurers,  is  the  Philosopher’s  Stone.  The  Alchemist  must  also  invest  the 
@@ -23434,10 +23057,7 @@ Once crystallised the Philosopher’s Stone has properties based on its Purity. 
 is determined by the skill of the alchemist.
 
 152
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Philosopher’s Stone Purity
 Alchemist’s Lore 
@@ -23517,11 +23137,9 @@ can achieve. All effects are stackable, meaning that, for example, a Purity 3 Ph
 Stone would heal damage and both cure disease and poison effects as well as increasing 
 the imbiber’s Resilience.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 153
-
-2.99.22.5
 
 Transmutation
 The Philosopher’s Stone is used as the agent to turn base metal into gold. The number 
@@ -23581,10 +23199,7 @@ materials and apparatus to formulate it. The alchemist determines what skill (Pe
 or Resilience) is used to resist the poison’s effects. 
 
 154
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Alchemy Poisons Table
 Alchemy Skill Conditions
@@ -23647,11 +23262,9 @@ on the secrecy of the alchemist. Common to all laboratories, though, is the rang
 variety of equipment to be found there. This section describes the essential components 
 of an alchemist’s laboratory.
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 155
-
-2.99.22.5
 
 The Laboratory
 An  alchemist  requires  a  workspace.  Somewhere  large  enough  to  accommodate 
@@ -23698,10 +23311,7 @@ with  the  upper  jars  having  hollow  bottoms  to  allow  vapours  to  pass  u
 condense against the sides of the vessel.
 
 156
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Retorts
 Another bulbous jar with a long, swan-like neck that curves over the side of the bowl in 
@@ -23765,11 +23375,9 @@ Matrasses
 Pelican
 Recipient
 
-Alex Greene (order #3215550)
+Jeremy Bauerle (order #6303863)
 
 157
-
-2.99.22.5
 
 Sustaining the Life of an Alchemist
 Alchemists require access to raw materials, most notably base metals and various other 
@@ -23807,10 +23415,7 @@ debasing the reputation of true alchemists, and many hedge magicians and peddler
 cheap remedies will make the quality of true magical potions suspect.
 
 158
-
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 Legend & Open Content
 
@@ -23845,9 +23450,7 @@ Open Content rules we produce in, say, Pirates of Legend, knowing that everyone
 
 who plays Legend will at least be familiar with those rules.
 
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 OPEN GAME LICENSE Version 1.0a 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc 
@@ -23915,9 +23518,7 @@ Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 Legend Core Rulebook, Copyright 2011, Mongoose Publishing Ltd
 Arms of Legend, Copyright 2012, Mongoose Publishing Ltd
 
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 ARMS OF LEGEND
 
@@ -23930,8 +23531,6 @@ back for more after every adventure.
 
 MGP 8304 US$19.99
 
-Alex Greene (order #3215550)
-
-2.99.22.5
+Jeremy Bauerle (order #6303863)
 
 arms oflegendarms oflegend
