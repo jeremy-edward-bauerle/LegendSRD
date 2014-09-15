@@ -1,3 +1,9 @@
-div .col-md-3 h2 {
+.jumbotron {
+	padding-top: 0px;
+	padding-bottom: 30px;
+	margin-bottom: 0px;
+}
+
+.books h2 {
     min-height:2.4em;
 }
