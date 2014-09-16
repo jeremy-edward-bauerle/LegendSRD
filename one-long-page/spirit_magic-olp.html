@@ -29,33 +29,8 @@
     <div class="container">
       <div class="row">
 
-        <!-- Scrolling Navigation -->
-        <div class="col-sm-3" id="toc-sidebar">
-          <div id="nav-anchor"></div>
-          <nav id="toc">
-            <ul>
-              <li><a href="#spirit-magic">Spirit Magic</a></li>
-              <li><a href="#the-spirit-plane">The Spirit Plane</a></li>
-              <li><a href="#how-spirit-magic-works">How Spirit Magic Works</a></li>
-              <li><a href="#locating-and-gaining-spirits">Locating and Gaining Spirits</a></li>
-              <li><a href="#using-bound-spirits">Using Bound Spirits</a></li>
-              <li><a href="#spirit-combat">Spirit Combat</a></li>
-              <li><a href="#possession-and-exorcism">Possession and Exorcism</a></li>
-              <li><a href="#spirit-types">Spirit Types</a></li>
-              <li><a href="#shamanism">Shamanism</a></li>
-              <li><a href="#spirit-cults">Spirit Cults</a></li>
-              <li><a href="#defining-spirits">Defining Spirits</a></li>
-              <li><a href="#binding-spirits">Binding Spirits</a></li>
-              <li><a href="#using-fetishes">Using Fetishes</a></li>
-              <li><a href="#shamans-and-spirits">Shamans and spirits</a></li>
-              <li><a href="#spirit-powers">Spirit Powers</a></li>
-              <li><a href="#spirit-combat-1">Spirit Combat</a></li>
-            </ul>
-          </nav>
-        </div> <!-- nav#toc -->
-
         <!-- Book text -->
-        <div class="col-xs-12 col-sm-6" id="main_content">
+        <div class="col-xs-12 col-sm-9" id="main_content">
 
           <h1 id="spirit-magic">SPIRIT MAGIC</h1>
 
@@ -810,6 +785,42 @@
           <p>A manifested Wraith Spirit has only one hit location and it has a number of Hit Points equal to its POW. Reducing its Hit Points to zero will temporarily drive the Wraith back to its binding for 24 hours, after which its Hit Points will be fully regenerated. The weapon the spirit uses depends on its Intensity. Each point of Intensity counts as one rank of Size and Reach so an Intensity 3 spirit could use a spectral weapon with a Size of Large and Reach of Medium. As the spirit is intangible parrying the attack has no effect normally but if a weapon is affected by some form of weapon enhancing magic then it can usually block 1 size equivalent for each point of Magnitude. As with any kind of combat both participants can generate Combat Manoeuvres where they are appropriate; being impaled by a spectral dagger is every bit as nasty as being impaled by a real one.</p>
         </div> <!-- book text -->
 
+        <!-- Table of Contents / Navigation -->
+        <div class="col-sm-3">
+          <div class="olp-sidebar affix hidden-xs">
+            <ul class="nav olp-sidenav">
+              <!-- H1 -->
+              <li><a href="#spirit-magic">Spirit Magic</a>
+                <ul class="nav">
+                  <!-- H2 -->
+                  <li><a href="#the-spirit-plane">The Spirit Plane</a></li>
+                  <li><a href="#how-spirit-magic-works">How Spirit Magic Works</a></li>
+                  <li><a href="#locating-and-gaining-spirits">Locating and Gaining Spirits</a></li>
+                  <li><a href="#using-bound-spirits">Using Bound Spirits</a></li>
+                  <li><a href="#spirit-combat">Spirit Combat</a></li>
+                  <li><a href="#possession-and-exorcism">Possession and Exorcism</a></li>
+                  <li><a href="#spirit-types">Spirit Types</a></li>
+                </ul>
+              </li> <!-- Spirit Magic -->
+
+              <!-- H1 -->
+              <li><a href="#shamanism">Shamanism</a>
+                <ul class="nav">
+                  <!-- H2 -->
+                  <li><a href="#spirit-cults">Spirit Cults</a></li>
+                  <li><a href="#defining-spirits">Defining Spirits</a></li>
+                  <li><a href="#binding-spirits">Binding Spirits</a></li>
+                  <li><a href="#using-fetishes">Using Fetishes</a></li>
+                  <li><a href="#shamans-and-spirits">Shamans and spirits</a></li>
+                  <li><a href="#spirit-powers">Spirit Powers</a></li>
+                  <li><a href="#spirit-combat-1">Spirit Combat</a></li>
+                </ul>
+              </li> <!-- Shamanism -->
+
+            </ul> <!-- class="nav olp-sidenav" -->
+          </div> <!-- class="olp-sidebar affix" -->
+        </div> <!-- class="col-sm-3" -->
+
       </div> <!-- row -->
     </div> <!-- container -->
 
@@ -821,75 +832,5 @@
     <script src="../js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../js/ie10-viewport-bug-workaround.js"></script>
-
-    <script src="../js/jquery.scrollTo.min.js"></script>
-
-    <script type="text/javascript">
-      $(document).ready(function(){
-
-        /** 
-         * This part does the "fixed navigation after scroll" functionality
-         * We use the jQuery function scroll() to recalculate our variables as the 
-         * page is scrolled/
-         */
-        $(window).scroll(function(){
-            var margin_top = 60; // should equal the margin-top value for nav.stick
-            var window_top = $(window).scrollTop() + margin_top;
-            var div_top = $('#nav-anchor').offset().top;
-                if (window_top > div_top) {
-                    $('nav').addClass('stick');
-                } else {
-                    $('nav').removeClass('stick');
-                }
-        });
-
-        /**
-         * This part causes smooth scrolling using scrollto.js
-         * We target all a tags inside the nav, and apply the scrollto.js to it.
-         */
-        $("nav a").click(function(evn){
-            evn.preventDefault();
-            $('html,body').scrollTo(this.hash, this.hash); 
-        });
-
-        /**
-         * This part handles the highlighting functionality.
-         * We use the scroll functionality again, some array creation and 
-         * manipulation, class adding and class removing, and conditional testing
-         */
-        var aChildren = $("nav li").children(); // find the a children of the list items
-        var aArray = []; // create the empty aArray
-        for (var i=0; i < aChildren.length; i++) {    
-            var aChild = aChildren[i];
-            var ahref = $(aChild).attr('href');
-            aArray.push(ahref);
-        } // this for loop fills the aArray with attribute href values
-
-        $(window).scroll(function(){
-            var windowPos = $(window).scrollTop(); // get the offset of the window from the top of page
-            var windowHeight = $(window).height(); // get the height of the window
-            var docHeight = $(document).height();
-
-            for (var i=0; i < aArray.length; i++) {
-                var theID = aArray[i];
-                var divPos = $(theID).offset().top; // get the offset of the div from the top of page
-                var divHeight = $(theID).height(); // get the height of the div in question
-                if (windowPos >= divPos && windowPos < (divPos + divHeight)) {
-                    $("a[href='" + theID + "']").addClass("nav-active");
-                } else {
-                    $("a[href='" + theID + "']").removeClass("nav-active");
-                }
-            }
-
-            if(windowPos + windowHeight == docHeight) {
-                if (!$("nav li:last-child a").hasClass("nav-active")) {
-                    var navActiveCurrent = $(".nav-active").attr("href");
-                    $("a[href='" + navActiveCurrent + "']").removeClass("nav-active");
-                    $("nav li:last-child a").addClass("nav-active");
-                }
-            }
-        });
-      });
-    </script>
   </body>
 </html>
