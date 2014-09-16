@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
 
     <!-- Custom styles for this template -->
+    <link href="../css/offcanvas.css" rel="stylesheet">
     <link href="../css/legend.css" rel="stylesheet">
     <link href="../css/olp.css" rel="stylesheet">
 
@@ -27,11 +28,15 @@
   <body>
 
     <div class="container">
-      <div class="row">
+      <div class="row row-offcanvas row-offcanvas-right">
 
         <!-- Book text -->
         <div class="col-xs-12 col-sm-9" id="main_content">
 
+<p class="pull-right visible-xs">
+    <button class="btn btn-primary btn-xs" data-toggle="offcanvas" type="button"> Table of Contents 
+    </button>
+</p>
           <h1 id="spirit-magic">SPIRIT MAGIC</h1>
 
           <p>Spirit Magic is the practice of animism and ancestor worship. Spirit magicians call upon spirits which manifest their powers on behalf of their summoner or binder. These beings have many names: dryads, nymphs, diseases, ghosts, nightmares, elementals, ancestors; yet in truth, are all sentient fragments of magical energy from which everything is derived. A spirit does not teach or use magic, rather they are magic.</p>
@@ -786,8 +791,8 @@
         </div> <!-- book text -->
 
         <!-- Table of Contents / Navigation -->
-        <div class="col-sm-3">
-          <div class="olp-sidebar affix hidden-xs">
+        <div id="sidebar" class="col-sm-3 sidebar-offcanvas" role="navigation">
+          <div class="olp-sidebar affix">
             <ul class="nav olp-sidenav">
               <!-- H1 -->
               <li><a href="#spirit-magic">Spirit Magic</a>
@@ -822,6 +827,10 @@
         </div> <!-- class="col-sm-3" -->
 
       </div> <!-- row -->
+
+      <hr />
+      <footer>
+      </footer>
     </div> <!-- container -->
 
 
@@ -832,5 +841,8 @@
     <script src="../js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- Custom styles -->
+    <script src="../js/offcanvas.js"></script>
   </body>
 </html>
