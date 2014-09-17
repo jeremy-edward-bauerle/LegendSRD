@@ -17,7 +17,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="../css/offcanvas.css" rel="stylesheet">
+    <link href="../css/bootstrap/offcanvas.css" rel="stylesheet">
     <link href="../css/legend.css" rel="stylesheet">
     <link href="../css/lp.css" rel="stylesheet">
 
@@ -815,48 +815,19 @@
           <p>A manifested Wraith Spirit has only one hit location and it has a number of Hit Points equal to its POW. Reducing its Hit Points to zero will temporarily drive the Wraith back to its binding for 24 hours, after which its Hit Points will be fully regenerated. The weapon the spirit uses depends on its Intensity. Each point of Intensity counts as one rank of Size and Reach so an Intensity 3 spirit could use a spectral weapon with a Size of Large and Reach of Medium. As the spirit is intangible parrying the attack has no effect normally but if a weapon is affected by some form of weapon enhancing magic then it can usually block 1 size equivalent for each point of Magnitude. As with any kind of combat both participants can generate Combat Manoeuvres where they are appropriate; being impaled by a spectral dagger is every bit as nasty as being impaled by a real one.</p>
         </div> <!-- book text -->
 
-        <!-- Table of Contents / Navigation -->
-        <div id="sidebar" class="col-sm-3 sidebar-offcanvas" role="navigation">
-          <div class="olp-sidebar affix">
-            <ul class="nav olp-sidenav">
-              <!-- H1 -->
-              <li><a href="#spirit-magic">Spirit Magic</a>
-                <ul class="nav">
-                  <!-- H2 -->
-                  <li><a href="#the-spirit-plane">The Spirit Plane</a></li>
-                  <li><a href="#how-spirit-magic-works">How Spirit Magic Works</a></li>
-                  <li><a href="#locating-and-gaining-spirits">Locating and Gaining Spirits</a></li>
-                  <li><a href="#using-bound-spirits">Using Bound Spirits</a></li>
-                  <li><a href="#spirit-combat">Spirit Combat</a></li>
-                  <li><a href="#possession-and-exorcism">Possession and Exorcism</a></li>
-                  <li><a href="#spirit-types">Spirit Types</a></li>
-                </ul>
-              </li> <!-- Spirit Magic -->
+        <!-- Table of Contents -->
+        <div class="col-sm-3 sidebar-offcanvas" role="navigation">
+          <div id="toc">
 
-              <!-- H1 -->
-              <li><a href="#shamanism">Shamanism</a>
-                <ul class="nav">
-                  <!-- H2 -->
-                  <li><a href="#spirit-cults">Spirit Cults</a></li>
-                  <li><a href="#defining-spirits">Defining Spirits</a></li>
-                  <li><a href="#binding-spirits">Binding Spirits</a></li>
-                  <li><a href="#using-fetishes">Using Fetishes</a></li>
-                  <li><a href="#shamans-and-spirits">Shamans and spirits</a></li>
-                  <li><a href="#spirit-powers">Spirit Powers</a></li>
-                  <li><a href="#spirit-combat-1">Spirit Combat</a></li>
-                </ul>
-              </li> <!-- Shamanism -->
+          </div> <!-- id="toc" -->
+        </div> <!-- .col-sm-3 .sidebar-offcanvas -->
 
-            </ul> <!-- class="nav olp-sidenav" -->
-          </div> <!-- class="olp-sidebar affix" -->
-        </div> <!-- class="col-sm-3" -->
-
-      </div> <!-- row -->
+      </div> <!-- .row -->
 
       <hr />
       <footer>
       </footer>
-    </div> <!-- container -->
+    </div> <!-- .container -->
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -871,6 +842,15 @@
 
     <!-- Scripts needed for Tocify -->
     <script src="../js/jquery/jquery-ui.min.js"></script>
-    <script src="../js/jquery/jquery.tocify.min.js""></script>
+    <script src="../js/jquery/jquery.tocify.min.js"></script>
+    <script>
+      $(function() {
+        //Calls the tocify method on your HTML div.
+        $("#toc").tocify({
+          selectors: "h1,h2",
+          theme: "none"
+        });
+      });
+    </script>
   </body>
 </html>
