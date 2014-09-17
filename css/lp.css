@@ -25,7 +25,10 @@ h5 {
 
 nav.navbar-fixed-top {
 	background-color: transparent;
-	border: none;
+}
+
+#toc-toggle {
+	margin-top: 2px;
 }
 
 #toc {
