@@ -7,7 +7,8 @@ body {
   overflow-x: hidden; /* Prevent scroll on narrow devices */
 }
 body {
-  padding-top: 70px; /* Assumes navbar-fixed-top */
+  padding-top: 40px; /* Assumes navbar-fixed-top */
+  /* DEFAULT -- padding-top: 70px; */
 }
 footer {
   padding: 30px 0;
@@ -40,7 +41,8 @@ footer {
 
   .row-offcanvas-left
   .sidebar-offcanvas {
-    left: -50%; /* 6 columns */
+    left: -40%;
+    /* DEFAULT -- left: -50%; /* 6 columns */
   }
 
   .row-offcanvas-right.active {
@@ -48,7 +50,8 @@ footer {
   }
 
   .row-offcanvas-left.active {
-    left: 50%; /* 6 columns */
+    left: 40%;
+    /* DEFAULT -- left: 50%; /* 6 columns */
   }
 
   .sidebar-offcanvas {

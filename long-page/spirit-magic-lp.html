@@ -34,7 +34,7 @@
     <nav class="navbar navbar-header navbar-fixed-top">
       <div class="container">
         <!-- Table of Contents toggle -->
-        <button type="button" id="toc-toggle" class="btn btn-default visible-xs pull-right" data-toggle="offcanvas">
+        <button type="button" id="toc-toggle" class="btn btn-default visible-xs pull-left" data-toggle="offcanvas">
           <span class="glyphicon glyphicon-list-alt"></span>
           Contents
         </button>
@@ -42,7 +42,14 @@
     </nav>
 
     <div class="container">
-      <div class="row row-offcanvas row-offcanvas-right">
+
+      <div class="row row-offcanvas row-offcanvas-left">
+
+        <div class="col-sm-3 sidebar-offcanvas" role="navigation">
+          <div id="toc">
+
+          </div> <!-- id="toc" -->
+        </div> <!-- .col-sm-3 .sidebar-offcanvas -->
 
         <!-- Book text -->
         <div class="col-xs-12 col-sm-9" id="main_content">
@@ -798,16 +805,11 @@
           <p>A manifested Wraith Spirit has only one hit location and it has a number of Hit Points equal to its POW. Reducing its Hit Points to zero will temporarily drive the Wraith back to its binding for 24 hours, after which its Hit Points will be fully regenerated. The weapon the spirit uses depends on its Intensity. Each point of Intensity counts as one rank of Size and Reach so an Intensity 3 spirit could use a spectral weapon with a Size of Large and Reach of Medium. As the spirit is intangible parrying the attack has no effect normally but if a weapon is affected by some form of weapon enhancing magic then it can usually block 1 size equivalent for each point of Magnitude. As with any kind of combat both participants can generate Combat Manoeuvres where they are appropriate; being impaled by a spectral dagger is every bit as nasty as being impaled by a real one.</p>
         </div> <!-- book text -->
 
-        <div class="col-sm-3 sidebar-offcanvas" role="navigation">
-          <div id="toc">
-
-          </div> <!-- id="toc" -->
-        </div> <!-- .col-sm-3 .sidebar-offcanvas -->
-
       </div> <!-- .row -->
 
       <hr />
       <footer>
+        
       </footer>
     </div> <!-- .container -->
 
