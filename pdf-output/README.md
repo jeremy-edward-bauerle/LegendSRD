@@ -1,4 +1,5 @@
-This directory contains text output from various pdf parsing tools.
+This directory contains text output from various pdf parsing tools.  
+*Warning* - Some files are very long, and Github might give you trouble if you try to view them online.  Downloading the files and viewing them locally might be easier.
 
 ## How text is extracted
 
